@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Panicum dichotomiflorum subsp. bartowense (Scribn. & Merr.) Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms often 100-200 cm, stout, erect, simple or sparingly branched. Sheaths loosely overlapping, prominently hispid, hairs papillose-based. Pedicels usually less than 3 mm and shorter than the spikelets. Spikelets 2.3-2.8 mm, tapered from below the middle to the acuminate apices; upper glumes and lower lemmas subcoriaceous.</description>
+  <discussion>Panicum dichotomiflorum subsp. bartowense grows in Florida, Cuba, and the Bahamas. Reports from more northerly areas may represent introductions or misidentifications.</discussion>
+</bio:treatment>

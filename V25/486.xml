@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Cortaderia selloana (Schult. & Schult. f.) Asch. & Graebn. </name_authority_date>
+  </taxon_identification>
+  <common_names>PAMPAS GRASS</common_names>
+  <description type="morphology">Plants usually dioecious, some¬times monoecious. Culms 2-4 m, usually 2-4 times as long as the panicles. Leaves primarily basal; sheaths mostly glabrous, with a dense tuft of hairs at the collars; ligules 1-2 mm; blades to 2 m long, 3-8 cm wide, mostly flat, cauline, ascending, arching, bluish-green, abaxial surfaces glabrous basally. Panicles 30-130 cm, only slightly, if at all, elevated above the foliage, whitish or pinkish when young. Spikelets 15-17 mm; calluses to 1 mm, with hairs to 2 mm; lemmas long-attenuate to an awn, awns 2.5-5 mm; paleas to 4 mm; stigmas exerted. Caryopses and florets not separating easily from the rachilla. 2n = 72.</description>
+  <discussion>Cortaderia selloana is native to central South America. It is cultivated as an ornamental in the warmer parts of North America. It was thought that it would not become a weed problem because most plants sold as ornamentals are unisexual, but it is now considered an aggressive weed in California and Bendigo, Australia. The weedy Australian plants are bisexual (Walsh 1994).</discussion>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa pratensis subsp. irrigata (Lindm.) H. Lindb. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants moderately densely to loosely tufted, sometimes forming turf, culms solitary. Basal branching mainly extravaginal. Culms 8-30(50) cm. Innovation shoot blades usually shorter than 15 cm, 2-4.5 mm wide, adaxial surfaces usually glabrous; cauline blades flat. Panicles 2-10 cm, broadly pyramidal, open, with 1-2(5) branches per node; branches 1.5-6 cm, widely spreading, smooth or sparsely to moderately scabrous, with 4-8 spikelets. Spikelets lanceolate to broadly lanceolate, not bulbiferous; florets normal. Glume keels distinct, sparsely to moderately scabrous; lower and upper glumes often nearly equaling the lowest lemmas, often noticeably glaucous; lemmas 3-5(6) mm, finely muriculate, lateral veins glabrous; palea keels scabrous, glabrous, intercostal regions glabrous. 2n = 54, 56, 65, 80, 82-147.</description>
+  <discussion>Poa pratensis subsp. irrigata is poorly understood in the Flora region. As interpreted here, it includes subarctic to boreal, coastal and lowland plants that differ from those of subsp. pratensis in their primarily extravaginal branching, shorter stature, wide, flat blades, short, stout panicles with fewer branches, larger spikelets, and relatively longer glumes that are often pruinose.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Paspalum setaceum var. stramineum (Nash) D.J. Banks</name_authority_date>
+  </taxon_identification>
+  <common_names>YELLOW SAND PASPALUM</common_names>
+  <description type="morphology">Plants erect to spreading. Leaves mostly cauline; blades to 30 cm long, 3.3-13.5 mm wide, lax to somewhat stiff, glabrous or with a few hairs along the midrib, sometimes pubescent, yellow-green to dark green, margins scabrous, ciliate. Panicle branches 4-12 cm; branch axes 0.6-1.1 mm wide. Spikelets 1.7-2.4 mm long, 1.5-2.1 mm wide, obovate to suborbicular, pubescent or occasionally glabrous; lower lemmas without an evident midvein; upper florets 1.7-2.1 mm. </description>
+  <discussion>Paspalum setaceum var. stramineum grows at the edges of forests and in disturbed areas with sandy soil. Its range extends from the central plains and eastern United States to Mexico, Bermuda, and the West Indies.</discussion>
+</bio:treatment>

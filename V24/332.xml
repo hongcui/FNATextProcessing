@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>45</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus racemosus L. </name_authority_date>
+  </taxon_identification>
+  <common_names>SMOOTH BROME, BROME A GRAPPES</common_names>
+  <description type="morphology">Plants annual. Culms 20-110 cm, erect or ascending. Lower sheaths densely hairy, hairs stiff, often retrorse; upper sheaths glabrous or pubescent; ligules 1-2 mm, glabrous or hairy, erose; blades 7-18 cm long, 1-4 mm wide, pilose on both surfaces. Panicles 4-16 cm long, 2-3 cm wide, erect, open; branches sometimes longer than the spikelets, slender, usually ascending, slightly curved or straight. Spikelets 12-20 mm, lanceolate, terete to moderately laterally compressed; florets 5-6, bases concealed at maturity; rachilla internodes 1-1.5 mm, concealed at maturity. Glumes smooth to scabrous; lower glumes 4-6 mm, (3)5-veined; upper glumes 4-7 mm, 7-veined; lemmas 6.5-8 mm long, 3-4.5 mm wide, elliptic to lanceolate, coriaceous, backs smooth, distinctly 7(9)-veined, not ribbed, rounded over the midvein, margins scabrous, rounded, not inrolled at maturity, apices acute to obtuse, bifid, teeth shorter than 1 mm; awns 5-9 mm, all more or less equal in length, straight, arising less than 1.5 mm below the lemma apices; anthers 1.5-3 mm. Caryopses shorter than the paleas, thin, weakly inrolled or flat. 2n = 28.</description>
+  <discussion>Bromus racemosus grows in fields, waste places, and road verges. It is native to western Europe and the Baltic region, and occurs throughout much of southern Canada and the United States. Hitchcock (1951) included B. hordeaceus subsp. pseudothominei in B. racemosus.</discussion>
+</bio:treatment>

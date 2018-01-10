@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>17</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Melica nitens (Scribn.) Nutt. ex Piper </name_authority_date>
+  </taxon_identification>
+  <common_names>THREE-FLOWER MELIC</common_names>
+  <description type="morphology">Plants not or loosely cespitose, shortly rhizomatous. Culms 55-130 cm, not forming corms; internodes smooth. Sheaths glabrous or scabridulous; ligules 1-6.5 mm; blades 3.5-11 mm wide, flat, abaxial surfaces smooth or scabridulous, adaxial surfaces scabridulous. Panicles 9-26 cm; branches 3.5-6 cm, often divergent to reflexed, straight, with 5-20 spikelets; pedicels sharply bent and hairy below the spikelets; disarticulation below the glumes. Spikelets 8-12 mm, with 2-3(4) bisexual florets, apices of the lowest 2 florets not at the same level; rachilla internodes 2.3-2.4 mm. Glumes unequal; lower glumes 5-9 mm long, 3.5-4.5 mm wide, more ovate than the upper glumes, 3-9-veined; upper glumes 6-11 mm long, 2.5-3.5 mm wide, 3-7-veined; lemmas 6.5-11.5 mm, glabrous or scabrous, somewhat indurate, with 9+ veins, veins prominent, apices rounded, unawned; paleas about 3/4 the length of the lemmas; anthers 1.7-3.2 mm; rudiments 2-3 mm, clublike, not resembling the bisexual florets, in a straight line with the rachilla. 2n = 18.</description>
+  <discussion>Melica nitens grows in dry to moist woodlands, often in rocky areas with rich soil. It grows primarily from Minnesota to Pennsylvania and southwest to Texas.</discussion>
+</bio:treatment>

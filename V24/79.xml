@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Glyceria grandis S. Watson var. grandis </name_authority_date>
+  </taxon_identification>
+  <common_names>GIANT GLYCERIA, GIANT MANNAGRASS, GLYCERIE GEANTE</common_names>
+  <description type="morphology">Spikelets 3.2-6.4 mm, with 4-8 florets</description>
+  <discussion>Glyceria grandis var. grandis is the more widespread of the two varieties, growing throughout the range of the species.</discussion>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Poa sect. Pandemos Asch. & Graebn.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; sometimes stoloniferous, sometimes rhizomatous. Basal branching intra- and extravaginal. Culms 25-120 cm, terete or weakly compressed; nodes terete or slightly compressed. Sheaths closed for about 1/4-1/2 their length, compressed, distal sheath lengths 0.5-4 times blade lengths; ligules 3-10 mm, scabrous, acute to acuminate; blades 1-5 mm wide, flat, lax, soft, veins and margins scabrous, apices narrowly prow-shaped. Panicles 8-25 cm, erect or lax, pyramidal, open; nodes with 3-7 branches; branches 2-8(10) cm, ascending to spreading, flexuous to fairly straight, angled, angles densely scabrous, crowded. Spikelets 2.3-3.5 mm, lengths to 3 times widths, laterally compressed, not bulbiferous; florets 2-4, bisexual. Glumes distinctly keeled, keels scabrous; lower glumes subulate to narrowly lanceolate, usually arched to sickle-shaped, 1-veined, distinctly shorter than the lowest lemmas; calluses terete or slightly laterally compressed, glabrous or dorsally webbed; lemmas 2.3-3.5 mm, lanceolate, distinctly keeled, keels hairy, glabrous elsewhere or the marginal veins pubescent, lateral veins prominent; palea keels smooth, muriculate, tuberculate, or minutely scabrous; anthers 3, 1.3-2 mm.</description>
+  <discussion>Poa sect. Pandemos includes two diploid species of European origin. One, P. trivialis, is now widespread around the world. Its chloroplast genome is related to the chloroplast genomes of sects. Secundae and Stenopoa (Gillespie and Soreng 2005); its nuclear ribosomal DNA markers suggest a relationship to sect. Micrantherae (Gillespie et al. 2006).</discussion>
+</bio:treatment>

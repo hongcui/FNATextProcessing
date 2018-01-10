@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eriochloa pseudoacrotricha (Stapf ex Thell.) J.M.
+Black 
+</name_authority_date>
+  </taxon_identification>
+  <common_names>VERNAL CUPGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 40-80 cm, erect, not rooting at the lower nodes; internodes glabrous; nodes hairy. Sheaths glabrous, rarely with a few appressed hairs; collars glabrous; ligules 0.4-1 mm; blades 10-20 cm long, 2-4 mm wide, linear, flat, straight, spreading, glabrous or hairy adaxially. Panicles 5-15 cm long, 0.3-1 cm wide; rachises scabrous; branches 2-8, 25-45 mm long, 0.3-0.6 mm wide, divergent to spreading, glabrous, winged, with 2-40 spikelets in unequally pedicellate pairs at the middle of the branches; pedicels 1-3 mm, glabrous, apices hairy. Spikelets 3.6-5.4 mm long, 1.1-1.4 mm wide, lanceolate. Upper glumes 1-1.3 times as long as the lower lemmas, lanceolate, hairy, 5-veined, acuminate, awned, awns 0.5-1.5 mm; lower florets sterile; lower lemmas 3.5-5.2 mm long, 1.1-1.4 mm wide, lanceolate, setose, 5-veined, mucronate to awned; lower paleas absent; upper lemmas 2.1-3.7 mm, elliptic, apices rounded, awned, awns 0.4-0.8 mm; upper paleas indurate, blunt, not rugose. 2n = 36.</description>
+  <discussion>Eriochloa pseudoacrotricha is an Australian species that has been introduced into south Texas and Mississippi. It grows in waste areas.</discussion>
+</bio:treatment>

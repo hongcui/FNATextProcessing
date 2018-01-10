@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Piptochaetium avenacioides (Nash) Valencia &
+Costas 
+</name_authority_date>
+  </taxon_identification>
+  <common_names>FLORIDA SPEARGRASS</common_names>
+  <description type="morphology">Culms 70-130 cm, mostly glabrous, sometimes pubescent below the nodes; nodes yellowish, glabrous. Sheaths glabrous; ligules blunt to acute, of basal leaves 0.4-0.7 mm, of upper leaves to 3 mm; blades 15-30 cm long, 0.8-1.5 mm wide, usually involute and 0.5 mm in diameter, 3-veined, abaxial surfaces usually glabrous and smooth, sometimes scabrous, adaxial surfaces usually scabrous over the veins, sometimes smooth, sometimes hairy. Panicles 10-31 cm, open, with 10-50 spikelets; pedicels 15-20 mm, scabrous. Glumes 15-22 mm, (3)5-veined; florets 13.5-22 mm long, 1-2 mm thick, terete; calluses 3.5-8 mm, sharp, strigose, hairs golden brown at maturity; lemmas glabrous, tan to brown at maturity, mostly smooth, sharply tuberculate distally, contracted below the crown; crowns 0.6-0.7 mm wide, hairy, hairs 0.2-0.6 mm; awns 62-120 mm, persistent, twice-geniculate; paleas 9-12 mm; lodicules 2; anthers 4-7 mm. 2n = unknown.</description>
+  <discussion>Piptochaetium avenacioides grows in dry woods, generally on sandy ridges. It is endemic to Florida, growing primarily in the central peninsula. Morph-ologically, it is very similar to P. avenaceum, differing only in its larger size and more restricted distribution.</discussion>
+</bio:treatment>

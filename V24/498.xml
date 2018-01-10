@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>xElyleymus jamesensis (Lepage) Barkworth</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants rhizomatous. Culms 90-130 cm tall, about 5 mm thick. Leaves somewhat basally concentrated; sheaths smooth, glabrous; auricles well developed; ligules about 0.3 mm on the lower leaves, to 3 mm on the upper leaves; blades 5-6 mm wide, veins equally prominent on the adaxial surfaces. Inflorescences spikes, 15-25 cm long, 6-12 mm wide, with 1-2 sessile or subsessile spikelets per node; internodes 8-15 mm, angles scabrous or hispid. Spikelets 16-28 mm, with 3-4(5) florets. Glumes 12-20 mm long, 2-3 mm wide, 3-5-veined, scabrous and sparsely hairy, tapering gradually from about midlength, margins scarious, apices subulate or awned, awns to 4 mm; rachilla internodes pubescent or villous; lemmas 8.7-16 mm, with appressed hairs at the base, glabrous elsewhere, awned, awns 1-3 mm; paleas with ciliate keels and retuse to bidentate apices; anthers 2-3 mm.</description>
+  <discussion>xElyleymus jamesensis comprises hybrids between Elymus trachycaulus and Leymus mollis. Lepage (1952) recognized three different infraspecific taxa, depending on the variety of Agropyron trachycaulum [= Elymus trachycaulus] involved. Because all the varieties concerned are treated here as part of E. trachycaulus subsp. trachycaulus, no attempt has been made to distinguish Lepage's infraspecific taxa. The above description includes xAgroelymus adamsii J. Rousseau, which, according to Bowden (1967), is a synonym of xE. jamesensis.</discussion>
+</bio:treatment>

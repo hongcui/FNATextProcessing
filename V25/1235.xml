@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Panicum philadelphicum subsp. lithophilum (Swallen) Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants slender, sparsely pilose, purplish. Panicles with a few spikelets; pedicels short, appressed. Spikelets 2-2.1 mm, narrow, less than 1 mm wide. Upper glumes and lower lemmas acuminate; upper florets less than 1/2 as wide as long, blackish at maturity.</description>
+  <discussion>Panicum philadelphicum subsp. lithophilum is endemic to wet depressions in granitic outcroppings of Georgia and North and South Carolina.</discussion>
+</bio:treatment>

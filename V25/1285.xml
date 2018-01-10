@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Panicum sect. Bulbosa Zuloaga</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, rhizomatous. Culms slightly compressed, hard, sometimes with a cormlike base. Sheaths slightly compressed; ligules membranous, erose, ciliate. Panicles open, lax, with many spikelets; pedicels short, scabrous. Spikelets lanceoloid, glabrous. Lower glumes up to 4/5 as long as the spikelets, 3-5-veined; upper glumes and lower lemmas 5-7-veined; lower florets sterile or staminate; lower paleas large, lanceolate; upper florets narrow, transversely rugose, apices pilose, x = 9.</description>
+  <discussion>Panicum sect. Bulbosa includes approximately three species; two grow in the Flora region.</discussion>
+</bio:treatment>

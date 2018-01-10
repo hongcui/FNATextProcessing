@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Zizania palustris L. var. palustris </name_authority_date>
+  </taxon_identification>
+  <common_names>NORTHERN WILDRICE, ZIZANIE DES MARAIS, FOLLE AVOINE, RLZ SAUVAGE</common_names>
+  <description type="morphology">Plants to 2 m. Blades 3-21 mm wide. Pistillate part of inflorescences 1-8(15) cm wide; branches appressed or ascending, or with 1 to few branches somewhat divergent; lower pistillate branches with 2-8 spikelets. </description>
+  <discussion>Zizania palustris var. palustris grows in the shallow water of lakes and streams, often forming extensive stands in northern lakes. It has been introduced to British Columbia, Nova Scotia, Idaho, Arizona, and West Virginia for waterfowl food; some of the stands in the Canadian prairies may also have resulted from planting (Aiken et al. 1988).</discussion>
+</bio:treatment>

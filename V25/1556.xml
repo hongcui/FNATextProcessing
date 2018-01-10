@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bothriochloa alta (Hitchc.) Henrard </name_authority_date>
+  </taxon_identification>
+  <common_names>TALL BLUESTEM</common_names>
+  <description type="morphology">Culms 1.3-2.5 m tall, 2-4 mm wide, stiffly erect, not or only sparingly branched; nodes hirsute, hairs 2-6 mm, stiff, spreading, tan; internodes glaucous below the nodes. Leaves cauline; ligules 1-3 mm; blades 20-30 cm long, 4-10 mm wide, glabrous or sparsely pilose near the base. Panicles 14-25 cm long on the larger shoots, 3-6 cm wide when pressed, oblong, dense; rachises 10-20 cm, with numerous branches, rachises and branches kinked and wavy at the base from being compressed in the sheath; branches 2-8 cm, much shorter than the rachises, erect to appressed, with multiple rames; rame internodes villous on the margins, with 5-8 mm distal hairs. Sessile spikelets 4.5-6 mm, ovate; lower glumes shortly pilose, with or without a dorsal pit; awns 18-22 mm; anthers about 1 mm, often remaining in the floret, light brown. Pedicellate spikelets 3.8-4.4 mm. 2n = 120.</description>
+  <discussion>Bothriochloa alta grows along roads, drainage ways, and gravelly slopes in the desert grasslands of the south-western United States, at 600-1200 m, and extends south to Bolivia and Argentina. It is not a common species in the Flora region. It often grows with and is mistaken for B. barbinodis, but differs from that species in having longer culms, panicles, and nodal hairs, and 2n = 120. Plants in the southwestern United States have larger spikelets and more hairy panicles than those of central Mexico, where the species was originally described.</discussion>
+</bio:treatment>

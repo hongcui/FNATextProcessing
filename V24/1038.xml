@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Scolochloa festucacea (Willd.) Link </name_authority_date>
+  </taxon_identification>
+  <common_names>COMMON RIVERGRASS, WHITETOP</common_names>
+  <description type="morphology">Culms 70-200 cm tall, 6-8 mm thick at the base. Ligules 3-7(9) mm; blades 20-45 cm long, 4-12 mm wide. Panicles 15-30 cm; primary branches ascending to divergent, with spikelets appressed to the branches. Spikelets 7-11 mm. Lower glumes 5-8 mm; upper glumes 6.5-10 mm; calluses about 0.5 mm; lemmas 4-9 mm; paleas about as long as the lemmas; anthers 2-4 mm. 2n = 28.</description>
+  <discussion>Scolochloa festucacea grows in ponds, marshes, seasonally flooded basins, and the shallow margins of freshwater to moderately saline lakes and streams. It provides good nesting cover for some waterfowl and shorebirds, and can provide valuable forage for livestock and wildlife. It does not compete well with hybrid cattails (Typba latifolia x T. angustifolia or T. domingensis).
+ 
+</discussion>
+</bio:treatment>

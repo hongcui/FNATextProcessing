@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sporobolus indicus (L.) R. Br. </name_authority_date>
+  </taxon_identification>
+  <common_names>SMUTGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, with tough fibrous roots, not rhizomatous. Culms 30-100 (120) cm. Sheaths usually keeled below, glabrous; ligules 0.2-0.5 mm; blades (6)10-30(50) cm long, 1-5 mm wide, flat, glabrous on both surfaces. Panicles 20-35(50) cm long, 0.3-2.2(3) cm wide, contracted, narrow, sometimes included in the uppermost sheath; primary branches 0.4-2.5(5) cm, appressed or spreading to 40° from the rachis, as long or longer than the adjacent internodes; secondary branches appressed, spikelet-bearing to near the base; pulvini glabrous; pedicels 0.1-1.8 mm, appressed. Spikelets 2-2.6(2.7) mm, plumbeous to light brownish. Glumes subequal, ovate or obovate, membranous; lower glumes 0.5-1 mm, often without midveins; upper glumes 0.8-1.6 mm, 1/2 - 2/3 as long as the florets, acute to obtuse, entire; lemmas 1.8-2.6(2.7) mm, ovate, membranous, glabrous, acute or obtuse; paleas 1.9-2.4 mm, ovate, membranous, glabrous; anthers 3, 0.5-1.1 mm, white, sometimes purple-tinged. Fruits 1-1.2 mm, quadrangular, laterally compressed, reddish-brown, truncate. 2n = 18, 24, 36.</description>
+  <discussion>Sporobolus indicus is a pantropical species. It commonly grows in disturbed places and open areas such as roadsides, pastures, and lake shores. In the Flora region, it is found on sandy or clay soils and is associated with many plant communities. The spikelets and upper leaves are often covered with hyphomycetous fungi (Bipolaris spp.); hence the common name of "smutgrass".</discussion>
+</bio:treatment>

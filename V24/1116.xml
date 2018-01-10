@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Alopecurus aequalis Sobol. var. aequalis </name_authority_date>
+  </taxon_identification>
+  <common_names>SHORTAWN FOXTAIL, VULPIN A COURTES ARETES</common_names>
+  <description type="morphology">Culms 9-75 cm. Blades 1-5(8) mm wide. Panicles 1-9 mm long, 3-6 mm wide. Spikelets usually not purplish-tinged; glumes 1.8-3 mm; awns not exceeding the lemmas or exceeding them by less than 1 mm; anthers 0.5-0.9 mm.</description>
+  <discussion>Alopecurus aequalis var. aequalis is the widespread variety in the Flora region. It is listed as threatened in the state of Connecticut.</discussion>
+</bio:treatment>

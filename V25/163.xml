@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>46</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis scaligera Salzm. ex Steud. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, with innovations, without rhizomes, not glandular. Culms 25-75 cm, erect, glabrous below the nodes. Sheaths glabrous or with hairy apices, hairs to 4 mm; ligules 0.1-0.3 mm, ciliate; blades 4-8(18) cm long, 1-2 mm wide, involute, frequently deciduous, adaxial surfaces mostly glabrous, sometimes pilose near the base. Panicles terminal and axillary; terminal panicles 5-15 cm long, (1)2-10(12) cm wide, narrowly ovate, open; axillary panicles 2-5 cm long, 0.3-0.6 cm wide, usually contracted and partially to completely enclosed by the subtending sheath; primary branches 1-10 cm, appressed or diverging up to 90° from the rachises, wiry; pulvini glabrous or hairy; pedicels 0.3-5 mm, appressed, flattened. Spikelets 6-15(27) mm long, 1.6-2.4 mm wide, ovate-lanceolate, plumbeous to greenish, often with a reddish-purple tinge, with 10-35(45) florets; disarticulation acropetal, glumes first, then the lemmas, paleas persistent. Glumes lanceolate to ovate, membranous; lower glumes 1.4-2.1 mm; upper glumes 1.6-2.2 mm; lemmas (1.7)2-2.5 mm, broadly ovate, leathery, apices acute to acuminate; paleas 1.1-1.7 mm, hyaline, apices obtuse to truncate; anthers 2, 0.3-0.7 mm, reddish-purple. Caryopses 0.5-0.6 mm, globose, not grooved, smooth, light reddish-brown. 2n = 40.</description>
+  <discussion>Eragrostis scaligera is known from Lee and Collier counties, Florida, where it grows in sandy areas in the coastal scrub zone and along adjacent roadsides, at 0-10 m. It is native to French Guiana and Brazil.</discussion>
+</bio:treatment>

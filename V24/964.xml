@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Desmazeria rigida (L.) Tutin </name_authority_date>
+  </taxon_identification>
+  <common_names>FERN GRASS</common_names>
+  <description type="morphology">Culms to 60 cm, procumbent to erect, glabrous. Sheaths glabrous, upper margins membranous, continuous with the sides of the ligules; ligules 1.5-4 mm, lacerate; blades 2-8(12) cm long, 1-3(4) mm wide. Inflorescences usually panicles, sometimes racemes, 1-12(18) cm long, 12-30 mm wide; branches stiff, somewhat divaricate at maturity; pedicels 0.5-3 mm, appressed to divaricate. Spikelets 4-10 mm, narrowly ovate, with 5-12 florets; rachillas puberulent, hairs stiff. Glumes usually glabrous, more or less keeled, acute; lower glumes .1.3-2 mm, (l)3-veined; upper glumes 1.5-2.3 mm, 3-veined; lemmas 2-3 mm, rounded on the back or weakly keeled distally, glabrous, acute to obtuse, often shortly mucronate; anthers 0.4-0.6 mm. 2n = 14.</description>
+  <discussion>Desmazeria rigida is native to Europe, and appears to have no distinctive habitat preferences. In the Flora region, it is now established as a weed in disturbed sites such as roadsides, ditches, and the edges of fields. It is probably more widespread than indicated on the map, because herbarium records of weed distributions are often poor.
+ 
+</discussion>
+</bio:treatment>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Jesus Valdes-Reyna</author>
+    </source>
+  </meta>
+  <number>17.14</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>ERIONEURON Nash</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; usually cespitose, occasionally stoloniferous. Culms 6-65 cm, erect. Leaves mostly basal; sheaths smooth, glabrous, striate, margins hyaline, collars with tufts of 1-3 mm hairs; blades usually folded, pilose basally, margins white, cartilaginous, apices acute but not sharp. Inflorescences terminal, simple panicles (racemes in depauperate specimens), exserted well above the leaves. Spikelets laterally compressed, with 3-20 florets, distal florets staminate or sterile; disarticulation above the glumes and between the florets. Glumes thin, membranous, 1-veined, acute to acuminate; calluses with hairs; lemmas rounded on the back, 3-veined, veins conspicuously pilose, at least basally, apices toothed or obtusely 2-lobed, midveins often extended into awns, awns to 4 mm, lateral veins sometimes extended as small mucros; paleas shorter than the lemmas, keels ciliate, intercostal regions pilose basally; lodicules 2, adnate to the bases of the paleas; anthers 1 or 3. Caryopses glossy, translucent; embryos more than 1/2 as long as the caryopses. x = 8. </description>
+  <discussion>Erioneuron is an American genus of three species. Its seedlings appear to have a shaggy, white-villous indumentum, but this is composed of a myriad of small, water-soluble crystals.
+Stoloniferous plants are unusual in the region covered by the Flora, but they are quite common in populations of Erioneuron nealley and E. avenaceum from central Mexico.
+</discussion>
+  <references>Sanchez, E. 1979. Anatomia foliar de las especies y variedades argentinas de los generos Tridens Roem. et Schult. y Erioneuron Nash (Gramineae-Eragrostoideae-Eragrosteae). Darwiniana 22:159-175; Valdes-Reyna, J. and S.L. Hatch. 1997. A revision of Erioneuron and Dasyochloa (Poaceae: Eragrostideae). Sida 17:645-666.</references>
+  <key>
+    <key_body>
+1. Lemmas entire or with teeth to 0.5 mm long, the awns 0.5-2.5 mm long; both glumes shorter than the lowest floret .....1. E. pilosum
+1. Lemmas 2-lobed, the lobes 1-2.5 mm long, the awns 1-4 mm long; upper glumes equaling or exceeding the lowest floret.
+2. Lemma lobes obtuse to broadly acute, 1-2 mm long; lateral veins not forming mucros; plants 7-40 cm tall .....2. E. avenaceum
+2. Lemma lobes rounded to truncate, 1.5-2.5 mm long; lateral veins forming mucros to 1 mm long; plants 15-65 cm tall ..... 3. E. nealleyi
+
+    </key_body>
+  </key>
+</bio:treatment>

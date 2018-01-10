@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Panicum hirticaule J. Presl subsp. hirticaule</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 11-70 cm tall, usually simple; nodes usually hirsute. Sheaths hirsute, hairs papillose-based; Blades 3-16 mm wide, rounded basally. Panicles erect. Spikelets 1.9-3.3 mm. Lower paleas less than 1/2 as long as the upper florets. 2n = 18, 36.</description>
+  <discussion>Panicum hirticaule subsp. hirticaule is the most com-mon of the subspecies, growing throughout the range of the species but occurring more often in arid habitats. It includes P. alatum Zuloaga and Morrone, a recently described species that differs from P. hirticaule subsp. hirticaule by the presence of paired elaiosomes at the base of a slightly stipitate upper floret.</discussion>
+</bio:treatment>

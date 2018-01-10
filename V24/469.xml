@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>30</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus bakeri (E.E. Nelson) Á. Löve </name_authority_date>
+  </taxon_identification>
+  <common_names>BAKER'S WHEATGRASS</common_names>
+  <description type="morphology">Plants cespitose, not rhizomatous. Culms 30-50 cm tall, 1-2 mm thick, ascending to erect; nodes glabrous. Leaves not basally concentrated; sheaths glabrous; auricles 0.3-0.6 mm; ligules 0.5-1 mm; blades 12-20 cm long, 2-4 mm wide, stiff, abaxial surfaces smooth, glabrous, adaxial surfaces smooth or scabridulous, veins prominent, closely spaced. Spikes 8-12 cm long, 4-6 cm wide including the awns, about 1 cm wide excluding the awns, straight, erect or inclined, with 1 spikelet per node; internodes 5-9 mm long, about 0.8 mm wide, both surfaces glabrous, edges ciliate. Spikelets 10-19 mm long, about twice as long as the adjacent internodes, 4-10 mm wide, appressed, with 4-5 florets; rachillas scabrous or hirtellous; disarticulation above the glumes, beneath each floret. Glumes 7-12 mm long, 1.4-2 mm wide, narrowly oblong, usually green or green tinged with purple, the bases evidently veined or indurate for less than 0.5 mm, 5-veined, veins scabrous, margins narrow, widest distally, apices acute, sometimes bifid, awned, awns 2-8 mm, straight or divergent; lemmas scabrous or smooth, apices often shortly bidentate, awns 10-35 mm, arcuate to recurved; paleas equaling or slightly longer than the lemmas, tapering to the 0.2-0.4 mm wide apices; anthers 0.8-1.5 mm. 2n = 28.</description>
+  <discussion>Elymus bakeri grows in high, but not alpine, mountain meadows of Colorado and northern New Mexico. It resembles the awned phase of Pseudoroegneria spicata (p. 281), but differs in having rather thicker culms and spikes, and stouter lemma awns. W.A. Weber (University of Colorado, pers. comm., ca. 1999) stated that it often forms large stands in Colorado.
+Reports of Elymus bakeri from Idaho appear to be based on fertile hybrids of E. trachycaulus (p. 321) or E. violaceus (p. 324) with Pseudoroegneria spicata; that for Wallowa County, Oregon, on a specimen of E. glaucus (p. 306).
+</discussion>
+</bio:treatment>

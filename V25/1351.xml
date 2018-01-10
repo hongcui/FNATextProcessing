@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>J.K. Wipff</author>
+    </source>
+  </meta>
+  <number>25.15</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>PENNISETUM Rich.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; habit various. Culms 3-800 cm, not woody, sometimes branching above the base; internodes solid or hollow. Ligules membranous and ciliate, or of hairs, rarely completely membranous; blades sometimes pseudopetiolate. Inflorescences spicate panicles with highly reduced branches termed fascicles; panicles 1-many per plant, terminal on the culms or on both the culms and the secondary branches, or terminal and axillary, or only axillary, usually completely exposed at maturity; rachises usually terete, with (l)5-many fascicles; fascicle axes 0.2-7.5(28) mm, with (1)3-130+ bristles and 1-12 spikelets. Bristles free or fused at the base, disarticulating with the spikelets at maturity; of 3 kinds, outer, inner, and primary, in some species with all 3 kinds present below each spikelet, in others 1 or more kinds missing from some or all of the spikelets; outer (lower) bristles antrorsely scabrous, terete; inner (upper) bristles antrorsely scabrous or long-ciliate, usually flatter and wider than the outer bristles; primary (terminal) bristles located immediately below the spikelets, solitary, antrorsely scabrous or long-ciliate, often longer than the other bristles associated with the spikelet; disarticulation usually at the base of the fascicles, sometimes also beneath the upper florets. Spikelets with 2 florets; lower glumes absent or present, 0-5-veined; upper glumes longer, 0-11-veined; lower florets sterile or staminate; lower lemmas usually as long as the spikelets, membranous, 3-15-veined, margins usually glabrous; lower paleas present or absent; upper lemmas membranous to coriaceous, 5-12-veined; upper paleas shorter than the lemmas but similar in texture; lodicules 0 or 2, glabrous; anthers 3, if present, x = 5,7, 8,9 (usually 9). </description>
+  <discussion>Pennisetum has 80-130 species, most of which grow in the tropics and subtropics, and occupy a wide range of habitats. Twenty-five species are native to the Western Hemisphere, but none to the Flora region. Most of the species treated here are cultivated for food, forage, or as ornamental plants. Many species, including several cultivated species, are weedy. Four are classified as noxious weeds by the U.S. Department of Agriculture. Records known to be based on cultivated plants are not included in the distribution maps but, in many cases, it is not possible to determine whether a record is based on a cultivated plant or an escape.
+The placement of the boundary between Pennisetum and Cenchrus is contentious. As treated here, Pennisetum has antrorsely scabrous bristles that are not spiny, fascicle axes that terminate in a bristle, and chromosome base numbers of 5, 7, 8, and 9. Cenchrus has retrorsely (rarely antrorsely) scabrous, spiny bristles, fascicle axes that are terminated by a spikelet, and a chromosome base number of 17 (Wipff 2001). In both genera, the bristles are reduced branches (Goebel 1882; Sohns 1955).
+</discussion>
+  <references>Brunken, J.N. 1977. A systematic study of Fennisetum sect. Fennisetum (Gramineae). Amer. J. Bot. 64:161-176. Brunken, J.N. 1979. Morphometric variation and the classification of Pennisetum section Brevivalvula (Gramineae) in tropical Africa. Bot. J Linn. Soc. 79:51-64; Chase, A. 1921. The North American species of Fennisetum. Contr. U.S. Natl. Herb. 224:209-234; Goebel, K.I. 1882 Beitrage zur Entwickelungsgeschichte einiger Inflorescenzen. Jahrb. Uiss. Bot. 14:1-39; Hignight, K.W., E.C. Basha, and M.A. Hussey. 1991 Cytological and morphological diversity of native apomictic buffelgrass, Fennisetum ciliare (L.) Link. Bot. Gaz. 152:214-218; Schmelzer, G.H 1997. Review of Fennisetum section Brevivalvula (Poaceae). Euphytica 97:1-20; Sohns, E.R. 1955. Cenchrus and Fennisetum: Fascicle morphology. J. Wash. Acad. Sci. 45:135-143; Wipff, J.K. 1995. A biosystematic study of selected facultative apomictic species of Fennisetum (Poaceae: Paniceae) and their hybrids. Ph.D. dissertation, Texas A&M University, College Station, Texas, U.S.A. 183 pp.; Wipff, J.K. 2001. Nomenclatural changes in Fennisetum (Poaceae: Paniceae). Sida:19:523-530.</references>
+  <key>
+    <key_discussion>NOTE: Pedicel length is the distance from the base of the primary bristles to the base of the terminal spikelets. Fascicle axis lengths and fascicle densities are measured in the middle of the panicle; spikelet measurements refer to the largest spikelets in the fascicles.</key_discussion>
+    <key_body>
+1. Plants stoloniferous; panicles axillary, partially or wholly hidden in the leaf sheaths at maturity, the rachises flattened in cross section, with 1-6 fascicles; spikelets 10-22 mm long, bristles mostly shorter than the spikelet .....1. P. clandestinum
+1. Plants not stoloniferous; panicles terminal or terminal and axillary, fully exserted at maturity, the rachises terete, with 10-many fascicles; spikelets 2.5-12 mm long, the majority of the bristles as long as or longer than the spikelets.
+2. Fascicles with only 1 bristle and 1 spikelet.....18. P. petiolare
+2. Fascicles with 6 or more bristles and 1-12 spikelets.
+3. Most or all bristles scabrous, the primary bristles sometimes sparsely and inconspicuously long-ciliate. 
+4. Primary bristles not noticeably longer than all the other bristles in the fascicles.
+5. Terminal panicle erect; fascicles with a stipelike base 1.5-5.6 mm long.....7. P. alopecuroides
+5. Terminal panicle drooping; fascicles subsessile, the bases 0.4-0.7 mm long. 
+6. Plants green; most of the bristles only slightly longer than the spikelets; upper glumes (7)9-veined, about as long as the spikelets .....4. P. nervosum
+6. Plants purplish; bristles at least twice as long as the spikelets; upper glumes 1-3-veined, usually about 1/2 as long as the spikelets .....5. P. macrostachys
+4. Primary bristles noticeably longer than all the other bristles in the fascicles. 
+7. Panicles dense; rachises with 21-40 fascicles per cm.
+ 
+8. Rachises pubescent; bristles yellow or purple; leaf blades (4)12-40 mm wide; paleas of lower florets present .....2. P. purpureum
+8.Rachises scabrous; bristles white to stramineous; leaf blades 4-12 mm wide; paleas of lower florets absent ..... 6. P. macrourum
+7. Panicles less dense; rachises with 5-16 fascicles per cm.
+9. Panicles drooping, terminal and axillary; leaf blades 19-45 mm wide.....8. P. latifolium
+9. Panicles erect, all terminal; leaf blades 2-12 mm wide.
+10. Plants not rhizomatous; lower part of rachises pubescent.....7. P. alopecuroides
+10. Plants rhizomatous; lower part of rachises scabrous.....14. P. flaccidum
+3. Bristles, at least the primary bristles, conspicuously long-ciliate.
+11. Spikelets 9-12 mm long   .....11. P. villosum
+11. Spikelets 2.5-7 mm long.
+12. Fascicles not disarticulating from the rachises; panicles 4-200 cm long; upper lemmas with pubescent margins; caryopses protruding from the florets at maturity ..... 3. P. glaucum
+12. Fascicles disarticulating from the rachises at maturity; panicles 2-37.5 cm long; upper lemmas with glabrous margins; caryopses concealed by the lemmas and paleas at maturity.
+13. Upper florets readily disarticulating at maturity; upper lemmas smooth and shiny, conspicuously different in texture from the lower lemmas. 
+14. Fascicles with 6-14 long-ciliate inner bristles and 13-30 scabrous outer bristles; fascicle axes 0.2-0.5 mm long; spikelets sessile .....9. P. polystachion
+14. Fascicles with 40-90 long-ciliate inner bristles and 10-20 scabrous outer bristles; fascicle axes 1.5-2.5 mm long; spikelets pedicellate, the pedicels 1-3.5 mm long  .....10. P. pedicellatum
+13. Upper florets not disarticulating at maturity; lower and upper lemmas similar in texture.
+15. Lower portion of the rachises glabrous, sometimes scabrous.
+16. Inner bristles neither grooved nor fused, even at the base; spikelets 5.2-6.7 mm long, pedicellate, the pedicels 0.1-0.5 mm long .....14. P. flaccidum
+16. Inner bristles grooved and fused, at least at the base; spikelets 2.5-5.6 mm long, sessile.
+17. Inner bristles fused for up to 1/4 their length; many outer bristles exceeding the spikelets; terminal bristles 10.5-23 mm, noticeably longer than the other bristles in the fascicles .....12. P. ciliare
+17. Inner bristles fused for 1/3 – 1/2 their length; outer bristles not exceeding the spikelets; terminal bristles 2.9-6.5 mm, usually not noticeably longer than other bristles in the fascicles .....13. P. setigerum
+15. Lower portion of the rachises pubescent.
+18. Plants 200-800 cm tall; midculm leaves (4)12-40 mm wide; panicles golden-yellow or dark purple; rachises with 30-40 fascicles per cm .....2. P. purpureum 
+18. Plants 50-200 cm tall; midculm leaves 2-11 mm wide; panicles white, burgundy, light purple, or pink; rachises with 5-17 fascicles per cm.
+19. Midculm leaves 2-3.5 mm wide, convolute or folded, green, the midvein noticeably thickened; lower florets of the spikelets usually sterile, sometimes staminate .....15. P. setaceum
+19. Midculm leaves 3-11 mm wide, flat, green or burgundy, the midvein not noticeably thickened; lower florets of the spikelets staminate.
+20. Plants shortly rhizomatous; nodes pubescent; panicles erect to slightly arching, white or purple-tinged; leaves green; ligules 1-1.7 mm long; fascicles with 0-24 terete, scabrous outer bristles.....16. P. orientale
+ 
+ 
+
+ 
+20. Plants not rhizomatous; nodes glabrous; panicles conspicuously drooping, burgundy (rarely whitish-green); leaves burgundy (rarely green); ligules 0.5-0.8 mm long; fascicles with 43-68 terete, scabrous outer bristles.....17. P. advena
+ 
+
+    </key_body>
+  </key>
+</bio:treatment>

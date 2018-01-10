@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>16</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Calamagrostis xacutiflora (Schrad.) D.C.
+'Karl Foerster' 
+</name_authority_date>
+  </taxon_identification>
+  <common_names>FOERSTER'S REEDGRASS, FEATHER REEDGRASS</common_names>
+  <description type="morphology">Plants often with robust sterile culms; densely cespitose, with rhizomes 1-3 cm long, about 2 mm thick. Culms 135-210 cm, smooth to slightly scabrous, usually unbranched; nodes about 3. Sheaths and collars smooth; ligules (1)2-7 mm, lacerate; blades (5)11-63(71) cm long, (1)1.5-7.5(8) mm wide, flat or involute, usually scabrous, rarely smooth, adaxial surfaces glabrous or sparsely hairy. Panicles 15-30 cm long, 0.75-1(3) cm wide, erect, contracted, pale green to purple; branches about 6 cm, slightly scabrous, longer branches with spikelets on the distal 2/3, shorter branches with spikelets to the base. Spikelets 4-5 mm; rachilla prolongations about 0.5 mm, hairs about 1.5 mm. Glumes keeled, mostly smooth, slightly scabrous only on the keels, veins usually obscure, apices acute; callus hairs 2-2.5 mm, 0.4-0.6 times as long as the lemmas, abundant; lemmas 3-3.5 mm, 1-1.5 mm shorter than the glumes; awns about 3.5 mm, attached to the lower 1/10 – 1/5 of the lemmas, exserted, slender, usually distinguishable from the callus hairs, bent; anthers not observed.</description>
+  <discussion>Calamagrostis xacutiflora is a hybrid of European origin that is now widely planted as an ornamental, especially in dry sites and gardens throughout northern North America. The parents are C. arundinacea (L.) Roth and C. epigejos (p. 710); the hybrids are seed-sterile.</discussion>
+</bio:treatment>

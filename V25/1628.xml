@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Hyparrhenia rufa (Nees) Stapf </name_authority_date>
+  </taxon_identification>
+  <common_names>JARAGUA GRASS</common_names>
+  <description type="morphology">Plants usually perennial; cespitose but with short rhizomes. Culms 30-350 cm. Sheaths glabrous; blades 30-60 cm long, 2-8 mm wide. Peduncles 0.7-7 cm; rames 1.5-2.5 cm, 1 almost sessile, the other with a 6-10 mm stalk, both with 7-14 heterogamous spikelet pairs. Glumes of all spikelets moderately densely pubescent, hairs reddish. Sessile spikelets of homogamous pairs 3-5.5 mm, sessile spikelets of heterogamous pairs 3.2-4.2 mm; lemmas awned, awns 2-3 cm. Pedicellate spikelets 3-5 mm. 2n = 30, 36, 40.</description>
+  <discussion>Hyparrhenia rufa is native to the Eastern Hemisphere tropics, but is now established in tropical America. It grows in ditches, pastures, swamps, and pine flatwoods, and along roadsides, in the southeastern United States.</discussion>
+</bio:treatment>

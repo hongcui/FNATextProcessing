@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>14.64</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>AMMOPHILA Host</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; strongly rhizomatous. Culms 20-130 cm, erect, glabrous. Leaves mostly basal; sheaths open; auricles absent; ligules membranous, sometimes ciliolate; blades 0.5-8 mm wide, involute or convolute. Inflorescences terminal panicles, dense, cylindrical; branches strongly ascending and overlapping. Spikelets pedicellate, laterally compressed, with 1 floret; rachillas prolonged beyond the florets, glabrous or hairy; disarticulation above the glumes, beneath the florets. Glumes equaling or exceeding the florets, subequal, linear-lanceolate, papery, keeled, acute to acuminate; lower glumes 1-veined; upper glumes 3-veined; calluses short, pilose; lemmas chartaceous, linear-lanceolate, obscurely 3-5-veined, keeled, sometimes slightly rounded at the base, apices entire or minutely bifid, unawned or awned, awns 0.2-0.5 mm, subterminal; paleas equaling the lemmas, often appearing 1-keeled, 2- or 4-veined, central veins close together; lodicules 2, free, membranous, ciliate or glabrous, not toothed; anthers 3, 3-7 mm; ovaries glabrous. Caryopses enclosed by the hardened lemma and palea, ellipsoid, longitudinally grooved; hila about 2/3 as long as the caryopses. x = 7. </description>
+  <discussion>Ammophila has two species, one native to the coast of Europe and northern Africa, and one to eastern North America. Both species are effective sand binders and dune stabilizers. They are sometimes mistaken for Leymus arenarius and L. mollis, which grow in the same habitats and have a similar habit, but species of Leymus have more than 1 floret per spikelet.</discussion>
+  <references>Cope, E.A. 1994. Further notes on beachgrasses (Ammophila) in northeastern North America. Newsletter New York Fl. Assoc. 5(l):5-7; Reznicek, A.A. and E.J. Judziewicz. 1996. A new hybrid species, xCalammophila don-hensonii (Ammophila breviligulata x Calamagrostis canadensis, Poaceae) from Grand Island, Michigan. Michigan Bot. 35:35-40; Seabloom, E.W. and A.M. Wiedemann. 1994. Distribution and effects of Ammophila breviligulata Fern. (American beachgrass) on the foredunes of the Washington coast. J. Coastal Res. 10:178-188; Stern, R.J. 1983. Morphometric and phenologic variability in Ammophila breviligulata Fernald. Master's thesis, University of Vermont, Burlington, Vermont, U.S.A. 29 pp.; Walker, P.J., C.A. Paris, and D.S. Barrington. 1998. Taxonomy and phylogeography of the North American beachgrasses. Amer. J. Bot. 85, Suppl.:87 [abstract].</references>
+  <key>
+    <key_body>
+1. Ligules 1-4.6 mm long, truncate to obtuse .....1. A. breviligulata
+1. Ligules 10-35 mm long, acute and bifid or lacerate .....2. A. arenaria
+
+    </key_body>
+  </key>
+</bio:treatment>

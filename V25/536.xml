@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Aristida longespica Poir. var. longespica </name_authority_date>
+  </taxon_identification>
+  <common_names>SLIMSPIKE THREEAWN</common_names>
+  <description type="morphology">Glumes 2-8 mm; lemmas 2.5-7 mm; central awns 1-10(14) mm, erect to reflexed; lateral awns absent ot to 5(8) mm, erect to ascending; anthers 1, rarely exerted.</description>
+</bio:treatment>

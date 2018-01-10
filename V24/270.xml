@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Bromus sect. Genea</name_authority_date>
+  </taxon_identification>
+  <description type="morphology"></description>
+  <key>
+    <key_body>
+1. Lemmas 20-35 mm long.....34. B. diandrus
+1. Lemmas 9-20 mm long.
+2. Spikelets usually shorter than the panicle branches; panicle  branches ascending to spreading or drooping. 
+3. Lemmas 14-20 mm long; panicles with spreading, ascending, or drooping branches, rarely with any branches with more than 3 spikelets .....35. B. sterilis
+3. Lemmas 9-12 mm long; panicles with drooping branches, often with 1 or more branches with 4-8 spikelets .....36. B. tectorum
+2. Spikelets longer than the panicle branches; panicle branches ascending to spreading, never drooping.
+4. Some panicle branches 1-3+ cm long, most branches visible   .....37. B. madritensis
+4. Panicle branches 0.1-1 cm long, usually not readily visible  .....38. B. rubens
+
+    </key_body>
+  </key>
+</bio:treatment>

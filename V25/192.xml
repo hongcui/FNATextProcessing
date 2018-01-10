@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sporobolus neglectus Nash </name_authority_date>
+  </taxon_identification>
+  <common_names>PUFFSHEATH DROPSEED, SPOROBOLE NEGLIGE</common_names>
+  <description type="morphology">Plants annual; tufted, delicate, slender. Culms 10-45 cm, wiry, erect to decumbent. Sheaths inflated, mostly glabrous but the apices with small tufts of hairs, hairs to 3 mm; ligules 0.1-0.3 mm; blades 1-12 cm long, 0.6-2 mm wide, flat to loosely involute, abaxial surface glabrous, adaxial surface scabridulous, bases of both surfaces sometimes with papillose-based hairs, margins smooth or scabridulous. Panicles terminal and axillary, 2-5 cm long, 0.2-0.5 cm wide, contracted, cylindrical, included in the uppermost sheath; lower nodes with 1-2(3) branches; primary branches 0.4-1.8 cm, appressed, spikelet-bearing to the base; secondary branches appressed; pedicels 0.1-2.5 mm, appressed, scabridulous. Spikelets 1.6-3 mm, yellowish to cream-colored, sometimes purple-tinged. Glumes subequal, shorter than the florets, lanceolate to ovate, membra¬nous to chartaceous, glabrous; lower glumes 1.5-2.4 mm, midveins often greenish; upper glumes 1.7-2.7 mm; lemmas 1.6-2.9 mm, ovate, chartaceous, glabrous, acute; paleas 1.6-3 mm, ovate, chartaceous, glabrous; anthers 3, 1.1-1.6 mm, purplish. Fruits 1.2-1.8 mm, obovoid, laterally flattened, light brownish or orangish-brown, translucent, finely striate. 2n = 36.</description>
+  <discussion>Sporobolus neglectus is native to the Flora region, and grows at 0-1300 m in sandy soils, on river shores, and in dry, open areas within many plant communities, often in disturbed sites. It appears to have been extirpated from Maine and Maryland and is considered endangered or of special concern in Connecticut, Massachusetts, New Hampshire, and New Jersey.
+Sporobolus vaginiflorus is very similar to S. neglectus, but it differs in having strigose lemmas, sheaths that are sparsely hairy towards the base and, usually, longer spikelets.
+</discussion>
+</bio:treatment>

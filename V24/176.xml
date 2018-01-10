@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>15</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Achnatherum aridum (M.E. Jones) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>MORMON NEEDLEGRASS</common_names>
+  <description type="morphology">Plants cespitose, not rhizomatous. Culms 35-85 cm tall, 0.9-2.5 mm thick, usually glabrous and smooth, sometimes  scabridulous or puberulent; nodes 2-3. Basal sheaths glabrous, upper sheath margins hyaline distally; collars of the basal sheaths occasionally with a small tuft of 0.8 mm hair on the sides, collars of the upper leaves glabrous, scabridulous, or sparsely puberulent; ligules 0.2-1.5 mm, truncate to rounded, erose, sometimes ciliate, cilia about 0.05 mm; blades 0.9-3 mm wide, abaxial surfaces smooth or scabridulous, glabrous, adaxial surfaces hirtellous, hairs to 0.5 mm. Panicles 5-17 cm long, 1-1.5 cm wide, contracted, bases often enclosed at anthesis; branches appressed or strongly ascending, straight, lower branches 1.5-4 cm. Lower glumes 8-15 mm long, 0.6-0.8 mm wide; upper glumes 1-5 mm shorter; florets 4-6.5 mm long, 0.6-1.1 mm thick, fusiform, terete; calluses 0.2-1 mm, sharp; lemmas evenly hairy on the lower portion, hairs 0.2-0.5 mm, the distal 1/5 – 1/4 often glabrous, apical hairs absent or fewer than 5, to 1.5 mm; awns 40-80 mm, persistent, obscurely once-geniculate, scabridulous, terminal segment flexuous; paleas 2-3.2 mm, 1/2 - 3/4 as long as the lemmas, pubescent, hairs exceeding the apices, apices rounded, flat; anthers 2-3.5 mm, dehiscent, not penicillate. 2n = unknown.</description>
+  <discussion>Achnatherum aridum grows on rocky outcrops, in shrub-steppe and pinyon-juniper associations, from southeastern California to Colorado and New Mexico, at 1200-2000 m. It has also been reported from Texas, but no specimens documenting these reports have been located. It has not been found in Mexico.</discussion>
+</bio:treatment>

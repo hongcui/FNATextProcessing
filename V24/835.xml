@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>69</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa stenantha Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>NARROW-FLOWER BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; glaucous or not; densely to loosely tufted, not stoloniferous, not rhizomatous. Basal branching mostly extravaginal, some intravaginal. Culms 20-60(100) cm, bases decumbent or sometimes erect, terete, with 1-2 exserted nodes. Sheaths closed for 1/10 – 1/5(1/4) their length, terete, bases of basal sheaths glabrous; ligules 2-5 mm, milky white, smooth or sparsely scabrous, acute to acuminate; innovation blades similar in texture and shape to the cauline blades; cauline blades not greatly reduced upwards, 1.5-4(5) mm wide, flat or folded, thin, lax, smooth or sparsely scabrous, apices narrowly prow-shaped. Panicles 5-18(25) cm, lax, loosely contracted to open, sparse, with 20-65 spikelets and usually 2(7) branches per node; branches 3-15 cm, ascending to spreading, angled, angles finely to coarsely, sparsely to fairly densely scabrous, infrequently smooth, with 3-10(15) spikelets in the distal 1/2. Spikelets 6-10 mm, lengths 3-3.6 times widths, lanceolate to narrowly ovate, laterally compressed, sometimes bulbiferous, drab, often slightly glaucous; florets 3-4(7), normal or bulb-forming; rachilla internodes 1.2-2 mm, slightly dorsally compressed, smooth or sparsely muriculate. Glumes subequal, lanceolate to broadly lanceolate, dull, frequently glaucous, obtuse to acute; lower glumes 3-veined; upper glumes (3.7)4.1-6.5 mm; calluses usually crowned with 0.2-2 mm hairs, sometimes glabrous; lemmas 4-6 mm, lanceolate, distinctly compressed, distinctly keeled, keels, marginal veins, and sometimes the lateral veins short- to long-villous, hairs extending for 3/4  of the keel, intercostal regions glabrous, sparsely puberulent or hispidulous proximally, usually sparsely to moderately densely scabrous distally, hairs distinctly shorter than those of the keel and veins, margins weakly inrolled, broadly scarious, glabrous, apices acute; palea keels scabrous, often softly puberulent at midlength, intercostal regions glabrous or puberulent; anthers 1.2-2 mm, sometimes aborted late in development or undeveloped. 2n = 42, [81, 84, 86?].</description>
+  <discussion>Poa stenantha grows in coastal meadows and on cliffs in subarctic and boreal forests; it is less common in moist, more southern subalpine and low alpine meadows and thickets. Its range extends from western Alaska to the northern Cascades and Rocky Mountains and, as a disjunct, to Patagonia. Poa stenantha was originally described as growing in Kamchatka, Russia, but the Russian plants have since been referred to other species.</discussion>
+  <key>
+    <key_body>
+1. Spikelets not bulbiferous   .....var. stenantha
+1. Spikelets bulbiferous.....var. vivipara
+
+    </key_body>
+  </key>
+</bio:treatment>

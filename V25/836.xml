@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>17.42</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>CTENIUM Panz.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants usually perennial, sometimes annual; cespitose or rhizomatous. Culms 10-150 cm, simple. Leaves often aromatic; ligules membranous, sometimes ciliate; blades flat or convolute, upper blades reduced. Inflorescences terminal, panicles of 1-3 strongly pectinate branches, usually exceeding the upper leaves; branches usually falcate, if more than 1, digitately arranged, axes crescentic in cross section, with 2 rows of solitary, subsessile spikelets. Spikelets strongly divergent, laterally compressed, with 2 well-developed sterile or staminate florets below the single bisexual floret, reduced sterile or staminate florets also present beyond the bisexual floret; disarticulation above the glumes. Glumes unequal; lower glumes shorter than the upper glumes, 1-veined, keeled; upper glumes 2-3-veined, awned dorsally; lemmas thin, 3-veined, entire or bidentate, awned, awns dorsal, attached just below the lemma apices, or terminal; lodicules 2, glabrous; anthers 3 in bisexual florets, 2 in staminate florets; styles 2. Caryopses ellipsoid, x = 9. </description>
+  <discussion>Ctenium is a genus of 17-20 species, native to tropical areas of Africa and the Americas, generally being found in savannah associations. The awned upper glumes and the presence of sterile or staminate florets both below and above the fertile floret set it apart from other genera. The aroma of the leaves is described as being like turpentine.
+The two native North American species are highly fire-adapted, flourishing in communities that regularly burn on a 1-5 year basis. In the fall, the panicle branches of both species form curves, loops, and corkscrews, which are attractive in floral arrangements.
+</discussion>
+  <key>
+    <key_body>
+1. Plants without rhizomes, forming dense tufts; upper glumes with a row of prominent glands on each side of the midvein; awns of the upper glumes strongly diverging at maturity .....1. C. aromaticum
+1. Plants with slender, scaly rhizomes; upper glumes without glands, or the glands inconspicuous; awns of the upper glumes straight to ascending .....2. C. floridanum
+
+    </key_body>
+  </key>
+</bio:treatment>

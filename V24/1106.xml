@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Ammophila arenaria (L.) Link </name_authority_date>
+  </taxon_identification>
+  <common_names>EUROPEAN BEACHGRASS, MARRAMGRASS</common_names>
+  <description type="morphology">Culms (50)60-120 cm. Ligules 10-35 mm, acute, bifid or lacerate; blades to 60(90) cm long and 6 mm wide when flat, usually tightly convolute and sharply pointed. Panicles 12-35 cm long, 15-20 mm wide, stramineous. Spikelets 12-14 mm. Glumes equaling or exceeding the florets; callus hairs 2-6 mm; lemmas 8-12 mm, apices shortly bifid, midveins slightly excurrent; anthers 4-7 mm. 2n = 14, 28, 56.</description>
+  <discussion>Ammophila arenaria is a European species that has become naturalized in most temperate countries. It was introduced along the Pacific coast and in the interior of western North America as a sand binder. It is also reported to occur, as an introduction, on the east coast; the report has not been verified. It is known from a single 1941 collection on a sand dune in Erie County, Pennsylvania. Ammophila arenaria flowers from the end of June to August. It forms a strong association with the fungus Psilocybe azurescens, which grows, often prolifically, along the northern Oregon coast.
+North American plants belong to Ammophila arenaria (L.) Link subsp. arenaria, in which the glumes exceed the lemma and the callus hairs are about 2-3 mm long. It is native from northern and western Europe to northwestern Spain. Ammophila arenaria subsp. arundinacea H. Lindb. has glumes that equal the lemma, and callus hairs 4-6 mm long. It is native around the Mediterranean.
+In Europe, Ammophila arenaria hybridizes with Calamagrostis. The hybrids, which are sterile, have also been used as sand binders but not, so far as is known, in the Flora region. They differ from A. arenaria in having a less dense panicle, slender lemma awns up to 2 mm long, and callus hairs 1/2 as long as the lemmas or longer. In the Flora region, a hybrid with C. nutkaensis was reported in the 1970s from the vicinity of Newport-Waldport in coastal Oregon, where both species occur (K.L. Chambers, pers. comm.). There is no voucher to support this report.
+</discussion>
+</bio:treatment>

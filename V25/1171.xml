@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Dichanthelium ovale subsp. pseudopubescens (Nash) Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Basal blades 2-6 cm, evenly pilose. Culms more than 1 mm thick, stiff; lower internodes sparsely pubescent, with ascending or appressed hairs, hairs shorter than 4 mm, not papillose-based. Cauline sheaths with sparse, ascending or appressed hairs, hairs shorter than 4 mm, often with shorter hairs underneath, not papillose-based; ligules 1-4 mm; blades 3-8 mm wide, both surfaces sparsely appressed-pubescent, margins ciliate basally, scabridulous elsewhere. Spikelets 2.1-2.6 mm, ellipsoid or obovoid-ellipsoid, with papillose-based hairs.</description>
+  <discussion>Dichanthelium ovale subsp. pseudopubescens grows in dry, sandy, open woods, sandhills, and sand dunes, over the same geographic range and in the same habitats as subsp. villosissimum, and often intergrades morphologically with that subspecies.</discussion>
+</bio:treatment>

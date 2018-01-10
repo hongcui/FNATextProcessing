@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Miscanthus floridulus (Labill.) Warb. ex K. Schum. & Lauterb. </name_authority_date>
+  </taxon_identification>
+  <common_names>GIANT CHINESE SILVERGRASS</common_names>
+  <description type="morphology">Plants cespitose, forming large clumps. Culms 1.5-4 m tall, 8-16 mm thick below. Leaves crowded at the base; sheaths glabrous or sparsely pubescent, margins glabrous or ciliate; ligules 1-3 mm; blades 30-80 cm long, 15-40 mm wide, adaxial surfaces pubescent near the bases, glabrous elsewhere, midveins whitish, conspicuous both ab- and adaxially. Panicles 30-50 cm long, 10-20 cm wide, exserted, dense, ovoid-ellipsoid, white, usually with more than 15 branches; rachises 25-40 cm, hispid-pubescent, 3/4 - 4/5 as long as the panicles; branches 10-25 cm long, 8-10 mm wide, often branched at the base; internodes 3-5 mm, glabrous. Shorter pedicels 1-1.5 mm; longer pedicels 2.5-3.5 mm, becoming somewhat recurved. Spikelets 3-3.5 mm, lanceolate to lance-ovate; callus hairs 4-6 mm, to twice as long as the spikelets, white. Lower glumes glabrous or puberulent distally; awns of upper lemmas 5-15 mm, weakly geniculate. 2n = 36, 38, 57.</description>
+  <discussion>Miscanthus floridulus is the most widespread species of Miscanthus in southeast Asia. The culms are used for arrow-shafts in Papua New Guinea and as support and drying racks for climbing vegetables and tobacco in the Philippines. In North America it is grown as an ornamental. The blades of the lower leaves tend to fall off in late summer, leaving the culms naked at the base. It is tolerant of wind and salt spray.</discussion>
+</bio:treatment>

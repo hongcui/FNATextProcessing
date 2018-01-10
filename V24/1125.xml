@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Apera spica-venti (L.) P. Beauv. </name_authority_date>
+  </taxon_identification>
+  <common_names>COMMON WINDGRASS, LOOSE SILKYBENT</common_names>
+  <description type="morphology">Culms 20-80(120) cm, stout, usually with several shoots, sparingly branched; internodes shorter or longer than the sheaths. Sheaths often purplish; ligules 3-6(12) mm; blades usually 6-16(25) cm long, 2-5(10) mm wide, flat. Panicles (5)10-35 cm long, (2)3-15 cm wide, usually open, pyramidal; branches spreading, naked at the base for 5+ mm, with spikelets usually borne towards the distal ends; pedicels 1-3 mm. Spikelets 2.4-3.2 mm, often purplish; rachillas prolonged for about 0.5 mm. Lower glumes 1.5-2.5 mm; upper glumes 2.4-3.2 mm; lemmas 1.6-3 mm, folded, scabridulous above midlength, awned, awns 5-12 mm; anthers 1-2 mm, greenish to yellowish, often purple-tinged. Caryopses 1-1.5 mm. 2n = 14.</description>
+  <discussion>Apera spica-venti grows as a weed in lawns, waste places, grain fields, sandy ground, and roadsides. Introduced from Europe, it is found in scattered locations in the Flora region.</discussion>
+</bio:treatment>

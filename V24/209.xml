@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>10.07</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>STIPA L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; tufted or cespitose, not rhizomatous. Culms 10-200 cm, herbaceous, not branching at the upper nodes; basal branching usually intravaginal; prophylls shorter than the sheaths. Leaves mostly basal; cleistogenes usually not developed; sheaths open; auricles absent; ligules membranous, sometimes stiffly so, upper and lower ligules similar or upper ligules longer than those below; blades prominently ribbed, usually tightly convolute when dry. Inflorescences terminal panicles, usually contracted. Spikelets 12-90 mm, with 1 floret; rachillas not prolonged beyond the base of the floret; disarticulation above the glumes, beneath the floret. Glumes much longer than the floret, hyaline to membranous, usually acuminate, 1-3-veined; florets 3-27 mm, terete to slightly laterally compressed; calluses (1)1.5-6 mm, sharp or blunt, antrorsely hairy; lemmas coriaceous to indurate, tan to brown, smooth, glabrous or hairy, hairs sometimes uniformly distributed, sometimes in lines, margins flat, slightly overlapping at maturity, apices awned, lemma-awn junction evident; awns 50-500 mm, persistent, usually once- or twice-geniculate, sometimes plumose in whole or in part, basal segment often strongly twisted; paleas from shorter than to subequal to the lemmas, glabrous, 2-veined, not keeled, flat between the veins, apices sometimes scarious, sometimes similar in texture to the body; lodicules 2 or 3, glabrous or pilose; anthers 3; styles 2(3,4), free at the base, if 3 or 4, then 1 or 2 distinctly shorter. Caryopses fusiform, not ribbed, x = 11. </description>
+  <discussion>As treated here, Stipa is a genus of 150-200 species, all of which are native to Eurasia or northern Africa. Until recently, the genus was interpreted as including almost all species of Stipeae with cylindrical florets. In several parts of the world, this broader interpretation still prevails. Jacobs et al. (2006) found that even the European members of Stipa included in their study appeared to be polyphyletic. The most appropriate circumscription of the genus, and its size, is difficult to determine in the absence of a study that encompasses the Eurasian and North African members of the tribe.
+Two species of Stipa grow in the Flora region. Stipa pulcherrima is cultivated as an ornamental; Stipa capensis has been introduced, probably accidentally.
+</discussion>
+  <references>Freitag, H. 1985. The genus Stipa in southwest and south Asia. Notes Roy. Bot. Gard. Edinburgh 42:355^187; Jacobs, S.W.L., R. Bayer, J. Everett, M.O. Arriaga, M.E. Barkworth, A. Sabin-Badereau, M.A. Torres, E Vazquez, and N. Bagnall. 2006. Systematics of the tribe Stipeae using molecular data. Aliso 23:349-361.</references>
+  <key>
+    <key_body>
+1. Plants perennial; glumes 60-90 mm long; awns plumose on the distal segment, hairs 5-6 mm long .....1. S. pulcherrima
+1. Plants annual; glumes 12-20 mm long; awns glabrous on the distal segment.....2. S. capensis
+
+    </key_body>
+  </key>
+</bio:treatment>

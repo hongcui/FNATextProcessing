@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa unilateralis Scribn. subsp. unilateralis </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Innovation blades sometimes narrower and thinner than the cauline blades; cauline blades flat or folded, thin or thick and a bit fleshy. Calluses glabrous or with a crown of hairs, hairs to 0.1 mm; lemmas glabrous or the keels and marginal veins villous or puberulent for less than 1/5 the lemma length. 2n =42, 84.</description>
+  <discussion>The range of Poa unilateralis subsp.  unilateralis extends from northern Oregon to central California.</discussion>
+</bio:treatment>

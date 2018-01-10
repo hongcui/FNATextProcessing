@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum scrobiculatum L. </name_authority_date>
+  </taxon_identification>
+  <common_names>INDIAN PASPALUM</common_names>
+  <description type="morphology">Plants annual. Culms 10-150 cm, erect or decumbent; nodes glabrous. Sheaths glabrous; ligules 0.3-1.2 mm, often with a row of hairs behind them; blades 5-30 cm long, 2-8(12) mm wide, flat, usually glabrous. Panicles terminal, with 1-5 digitately or racemosely  arranged  branches; branches 3-10 cm, diverging to spreading, persistent; branch axes 1.5-3 mm wide, broadly winged, glabrous, margins scabrous, terminating in a spikelet. Spikelets 1.8-3.2 mm long, 2-2.3 mm wide, solitary, diverging from the branch axes, ovate, glabrous, olive green to dark, glossy brown. Lower glumes absent; upper glumes as long as the lower lemmas, 5-7-veined; lower lemmas 3-5-veined; upper florets 2.5-3 mm long, 1.4-1.8 mm wide, dark glossy brown. Caryopses 1.1-1.5 mm, nearly orbicular. 2n = 20, 40, 60, 120.</description>
+  <discussion>Paspalum scrobiculatium is native to India. It has been found growing in widely scattered disturbed areas of the southeastern United States, possibly as an escape from cultivation. It is grown as a cereal (Kodo) in India.  </discussion>
+</bio:treatment>

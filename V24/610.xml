@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>29</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca saximontana Rydb. </name_authority_date>
+  </taxon_identification>
+  <common_names>ROCKY MOUNTAIN FESCUE, MOUNTAIN FESCUE, FÉTUQUE DES MONTAGNES ROCHEUSES, FÉTUQUE DES ROCHEUSES</common_names>
+  <description type="morphology">Plants usually densely, sometimes loosely, cespitose, without rhizomes. Culms (5)8-50(60) cm, usually smooth and glabrous, occasionally sparsely scabrous or puberulent below the inflorescence. Sheaths closed for about 1/2 their length, glabrous, smooth or scabrous, usually persistent, rarely slowly shredding into fibers; collars glabrous; ligules 0.1-0.5 mm; blades 0.5-1.2 mm in diameter, conduplicate, abaxial surfaces glabrous or sparsely puberulent, adaxial surfaces scabrous or puberulent, veins 5-7(9), ribs 1-5; abaxial sclerenchyma in 3-7 strands, sometimes partly confluent or forming a continuous band, usually more than twice as wide as high; adaxial sclerenchyma absent; flag leaf blades 0.5-4 cm. Inflorescences (2)3-10(13) cm, contracted, with 1-2 branches per node; branches usually erect, spreading at anthesis, lower branches with 2+ spikelets. Spikelets (3)4.5-8.8(10) mm, with (2)3-5(7) florets. Glumes exceeded by the upper florets, ovate-lanceolate to lanceolate, scabrous distally; lower glumes 1.5-3.5 mm; upper glumes 2.5-4.8 mm; lemmas (3)3.4-4(5.6) mm, mostly smooth, often scabrous distally, awns (0.4) 1-2(2.5) mm; paleas as long as or slightly shorter than the lemmas, intercostal region puberulent distally; anthers (0.8)1.2-1.7(2) mm; ovary apices glabrous. 2n = 42.</description>
+  <discussion>Festuca saximontana grows in grasslands, meadows, open forests, and sand dune complexes of the northern plains and boreal, montane, and subalpine regions in the Flora region, extending from Alaska to Greenland, south to southern California, northern Arizona, and New Mexico in the west and to the Great Lakes region in the east. It is also reported from the Russian Far East. Festuca saximontana provides good forage for livestock and wildlife. It is closely related to F. brachyphylla (see previous), and is sometimes included in that species as F. brachyphylla subsp. saximontana (Rydb.) Hulten. It has also frequently been included in F. ovina (p. 422).
+The populations which grow in sandy areas around the upper Great Lakes have been named Festuca canadensis E.B. Alexeev; given the great variation in the species, there seems to be little justification for this. Three weakly differentiated taxa have been recognized at the varietal level in North America.
+</discussion>
+  <key>
+    <key_body>
+1. Culms 25-50(60) cm tall, usually 3-5 times the height of the vegetative shoot leaves; abaxial surfaces of the blades usually scabrous; abaxial sclerenchyma in 3-5 strands, sometimes partly confluent or forming a continuous band; plants of lowland, montane, or boreal habitats .....var. saximontana
+1. Culms (5)8-37 cm tall, usually 2-3 times the  height of the vegetative shoot leaves; abaxial surfaces of the blades smooth or scabrous; abaxial sclerenchyma in 5-7 narrow strands; plants of subalpine or lower alpine habitats.
+2. Culms (5)8-20(25) cm tall, usually glabrous below the inflorescence; outer vegetative shoot sheaths mostly stramineous; blades with hairs shorter than 0.06 mm on the ribs; lemmas usually scabrous towards the apices and often along the margins .....var. purpusiana
+2. Culms 16-37 cm tall, usually sparsely scabrous or pubescent below the inflorescence; outer vegetative shoot sheaths brownish on the lower 1/2; blades with hairs to 0.1 mm on the ribs; lemmas often scabrous on the distal 1/2 .....var. robertsiana
+
+    </key_body>
+  </key>
+</bio:treatment>

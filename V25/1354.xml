@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Pennisetum glaucum (L.) R. Br. </name_authority_date>
+  </taxon_identification>
+  <common_names>PEARL MILLET</common_names>
+  <description type="morphology">Plants annual.  Culms 50-300 cm, erect, branching; nodes glabrous.  Sheaths glabrous or pubescent, with or without ciliate margins; ligules 2-5 mm; blades 15-100 cm long, 7-70 mm wide, flat, glabrous or pubescent. Panicles terminal, 4-200 cm long, 2-70 mm wide, fully exerted from the sheaths, erect; rachises terete, densely pubescent. Fascicles 33-160 per cm; fascicle axes 1-28 mm, persistent, with 1-9 spikelets; outer bristles 44-131, 0.5-6 mm; inner bristles 6-19, 4-6 mm, plumose; primary bristles 5.5-6.3, ciliate, some¬times noticeably longer than the other bristles. Spikelets 3-7 mm; pedicels 0.6-1.8 mm; lower glumes absent or to 1.5 mm, veinless; upper glumes 0.5-3.5 mm, 3-5-veined; lower florets staminate or sterile; lower lemmas 1.5-6 mm, glabrous, 3-7-veined, margins ciliate; lower paleas vestigial or fully developed, margins ciliate; anthers 2.2-2.5 mm, penicillate; upper florets coriaceous, shiny; upper lemmas 4.3-7 mm, 5-7(9)-veined, margins ciliate; upper paleas 3.4-3.9 mm, pubescent, at least near the base, margins ciliate; anthers 2-2.2 mm, penicillate. Caryopses 2-5.5 mm long, 1.6-3.2 mm wide, protruding from the lemma and palea at maturity. 2n = 14.</description>
+  <discussion>Pennisetum glaucum, a native of Asia, is cultivated in the United States for grain, forage, and birdseed. It is the most drought tolerant of the tropical cereal crops. Under favorable conditions, 10,000-30,000+ fascicles may be produced. In the Flora region, it is used for soil stabiliza-tion, partly because it seldom persists for more than 1-2 years.</discussion>
+</bio:treatment>

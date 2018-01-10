@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Panicum rigidulum subsp. pubescens (Vasey) Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms less than 100 cm, usually slender, greatly compressed. Leaves mostly basal; sheaths narrower than those of subspp. elongatum and rigudulum, compressed, often pubescent, at least along the sides near the summit or at the throat; ligules 0.5-3 mm, membranous, usually fimbriate-ciliate; blades usually 2-7 mm wide, often folded or involute, usually pilose adaxially, at least near the base, bases about equal in width to the subtending sheaths. Panicles mostly terminal. Spikelets 2-2.7 mm, green or slightly purplish, set obliquely on the pedicels. Lower glumes about 1/2 as long as the spikelets; upper glumes slightly longer than the lower lemmas, acute; lower lemmas acute, the apices diverging slightly from those of the upper glumes.</description>
+  <discussion>Panicum rigidulum subsp. pubescens grows primarily in moist pine savannahs, bogs, and other similar open, sandy habitats on the Atlantic and Gulf coastal plains of the United States.</discussion>
+</bio:treatment>

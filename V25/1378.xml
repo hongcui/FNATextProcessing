@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Cenchrus tribuloides L. </name_authority_date>
+  </taxon_identification>
+  <common_names>SANDDUNE SANDBUR, DUNE SANDBUR</common_names>
+  <description type="morphology">Plants annual. Culms 10-70 cm, decumbent, branching and rooting at the lower nodes. Sheaths compressed, glabrous or pubescent; ligules 1-2.1 mm; blades 2-14 cm long, 3-14.2 mm wide. Panicles 2-8.2 cm; fascicles 9-16 mm long, 4-8 mm wide, imbricate, ovoid, densely pubescent; bristles 15-43; outer bristles usually present, flattened or terete; inner bristles 4-8 mm long, 1.2-3 mm wide, fused for at least 1/2 their length, forming a distinct cupule, the distal portions diverging at irregular intervals from the cupule, stramineous or purple. Spikelets 1(2) per fascicle, 6-8.8 mm. Lower glumes 1-4 mm; upper glumes 4.9-6.8 mm, 3-7-veined; lower lemmas 5.5-7.5 mm, 3-7-veined, enclosing the palea; upper lemmas 6-8.7 mm; anthers 0.8-2.8 mm. Caryopses 2.6-4 mm long, 2.2-3.1 mm wide, ovoid-elliptic. 2n = 34.</description>
+  <discussion>Cenchrus tribuloides grows in moist, sandy dunes and is restricted to the eastern United States. It differs from C. spinifex in its larger spikelets and smaller number of spikelets per fascicle, and from C. longispinus in its densely pubescent fascicles, fewer bristles, and wider inner bristles.</discussion>
+</bio:treatment>

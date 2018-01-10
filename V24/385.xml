@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Triticum urartu Thumanjan ex Gandilyan </name_authority_date>
+  </taxon_identification>
+  <common_names>RED WILD EINKORN</common_names>
+  <description type="morphology">Culms to 145 cm, decumbent at the base; nodes pubescent; internodes mostly hollow, solid for 1 cm below the spikes. Blades 7-10 mm wide, yellow-green, puberulent, hairs uniform in length, soft. Spikes 6-12 cm, wider than thick; rachises densely ciliate at the nodes and margins; internodes 3-5 mm; disarticulation  
+spontaneous, dispersal units wedge-shaped. Spikelets 12-16 mm, rectangular, with 2-3 florets, 1-2 seed-forming. Glumes 8-11 mm, coriaceous, tightly appressed to the lower florets, 2-keeled, 2-toothed, second tooth not well developed; lemmas 10-13 mm, awned, awns on the lower 2 lemmas to 7 cm, on the third lemma to 1 cm; paleas splitting at maturity; anthers 2-4 mm. Caryopses red, that of the lowest floret in each spikelet darker than the second; endosperm flinty. Haplome Au. 2n = 14.
+</description>
+  <discussion>Triticum urartu is the wild diploid wheat that contributed the A haplome to the durum and bread wheat evolutionary lines. It does not have a diploid domesticated form. Because of its close morphological similarity to T. boeoticum, T. urartu was included in T. boeoticum until genetic analysis showed it to be a separate species. It has a more limited distribution than T. boeoticum, being known from disjunct regions in Turkey, Lebanon, Armenia, western Iran, and eastern Iraq.</discussion>
+</bio:treatment>

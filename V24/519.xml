@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Leymus condensatus (J. Presl) Á. Löve </name_authority_date>
+  </taxon_identification>
+  <common_names>GIANT WILDRYE</common_names>
+  <description type="morphology">Plants cespitose, weakly rhizomatous. Culms 115-350 cm tall, 6-10 mm thick, usually several to many together. Leaves exceeded by the inflorescences; auricles absent; ligules 0.7-6 mm on the basal leaves, 4-7.5 mm on the flag leaves; blades 10-28 mm wide, abaxial surfaces glabrous, smooth, adaxial surfaces scabridulous, veins numerous, subequal or unequal. Inflorescences panicles, 17-44 cm long, 20-60 mm wide, lower nodes with 2-6 branches, branches to 8 cm, ascending, with 5-35 spikelets, upper nodes with pedicellate and sessile spikelets; internodes 3.5-10 mm, glabrous. Spikelets 9-25 mm, usually pedicellate, pedicels 0.8-2 mm, with 3-7 florets. Glumes 6-16 mm long, 0.5-2.5 mm wide, narrowly lanceolate, stiff, keeled, the central portion thicker than the margins, glabrous, smooth proximally, scabrous distally, 0-l(3)-veined, veins inconspicuous at midlength, apices tapering almost imperceptibly into an  
+awn, awns subequal to the glume body; lemmas 7-14 mm, usually glabrous, apices acute, sometimes awned, awns to 4 mm; anthers 3.5-7 mm, dehiscent. 2n = 28, 56. </description>
+  <discussion>Leymus condensatus is found primarily on dry slopes and in open woodlands of the coastal mountains and offshore islands of California, at elevations of 0-1500 m. Both its large size and paniculate inflorescence tend to make it a distinctive species in the Triticeae. Hybrids between L. condensatus and L. triticoides, known as Leymus xmultiflorus, are relatively common where the parents are sympatric.</discussion>
+</bio:treatment>

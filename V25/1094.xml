@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>David W. Hall</author>
+    </source>
+  </meta>
+  <number>25.03</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>ALLOTEROPSIS J. Presl</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; cespitose. Culms 15-150 cm, erect or decumbent and rooting at the lower nodes, erect distally; nodes glabrous or pubescent. Leaves mostly basal; sheaths stiffly pubescent; ligules of hairs or membranous and ciliate; blades linear to lanceolate. Inflorescences terminal, panicles of 4-11 digitate or subdigitate, spikelike branches; branches naked at the base, spikelets in pairs or triplets, lower lemmas and lower glumes closest to the branch axes; disarticulation below the glumes. Spikelets 2.5-7 mm, dorsally compressed, with 2 florets. Glumes acute to shortly awned; lower glumes about M as long as the spikelets, 1-2-veined; upper glumes equaling the spikelets, 3-5-veined, margins ciliate; lower florets staminate; lower lemmas papery; lower paleas reduced, deeply bifid, 1-veined; upper florets bisexual; upper lemmas stiffly membranous, margins involute, apices attenuate into a mucro or curved awn; anthers 3. Caryopses elliptic, x = 9.</description>
+  <discussion>Alloteropsis is a genus of five to eight species that are native to tropical Asia and Australia. One species is now established in the Flora region. Alloteropsis semialata (R. Br.) Hitchc. is an important forage species in other parts of the world.</discussion>
+</bio:treatment>

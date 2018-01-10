@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>16</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Digitaria ischaemum (Schreb.) Muhl. </name_authority_date>
+  </taxon_identification>
+  <common_names>SMOOTH CRABGRASS, DIGITAIRE ASTRINGENTE</common_names>
+  <description type="morphology">Plants annual or of indefinite duration. Culms 20-55(70) cm, decumbent, branching and rooting at the lower nodes; nodes 3-4. Sheaths glabrous or sparsely pubescent; ligules 0.6-2.5 mm; blades 1.5-9 cm long, 3-5 mm wide, glabrous, with a few papillose-based hairs basally. Panicles terminal and axillary; terminal panicles with 2-7 spikelike primary branches, subdigitate or on 0.5-2 cm rachises; primary branches 6-15.5 cm, axes wing-margined, wings at least 1/2 as wide as the midribs, bearing spikelets in groups of 3, lower portions of the longer pedicels adnate to the axes; secondary branches rarely present; axillary inflorescences always present in some of the lower sheaths, entirely or partially concealed. Spikelets 1.7-2.3 mm, homomorphic, narrowly elliptic. Lower glumes absent or a veinless, membranous rim; upper glumes 1.3-2.3 mm, from 3/4 as long as to equaling the upper lemmas, appressed-pubescent; lower lemmas 1.7-2.3 mm, 7-veined, veins unequally spaced, smooth, pubescent; upper lemmas dark brown at maturity; anthers 0.4-0.6 mm. 2n = 36.</description>
+  <discussion>Digitaria ischaemum is a Eurasian weed that is now common in lawns, gardens, fields, and waste ground in warm-temperate regions throughout the world, including much of the Flora region. Larger plants with 5-7 inflorescence branches 8-15 cm long have been called var. mississippiensis (Gatt.) Fernald, but they intergrade with more typical plants, and so do not merit taxonomic recognition.</discussion>
+</bio:treatment>

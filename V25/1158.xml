@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Dichanthelium acuminatum (Sw.) Gould & C.A. Clark subsp. acuminatum </name_authority_date>
+  </taxon_identification>
+  <common_names>PANIC LAINEUX</common_names>
+  <description type="morphology">Plants grayish olive green, densely velvety-villous throughout. Cauline nodes densely villous, with a glabrous ring below; fall phase branching extensively from the midculm nodes, forming conspicuous flabellate fascicles of branches. Cauline sheaths densely soft spreading-villous, often with inconspicuous smaller hairs underneath; midculm sheaths about 1/2 as long as the internodes; blades 6-12 cm long, to 10 mm wide, ascending to often spreading and slightly incurved, softly pubescent on both surfaces, with papillose-based cilia for most of their length. Primary panicles usually well-exserted, on peduncles longer than 8 cm. Spikelets 1.6-1.9 mm, broadly ellipsoid or obovoid.</description>
+  <discussion>Dichanthelium acuminatum subsp. acuminatum grows primarily in moist, open, sandy areas on the Atlantic and Gulf coastal plains. Its range extends through Mexico, the West Indies, and Central America to northern South America.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>20</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Achnatherum perplexum Hoge & Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>PERPLEXING NEEDLEGRASS</common_names>
+  <description type="morphology">Plants cespitose, not rhizomatous. Culms 35-90 cm tall, 0.7-2.2 mm thick, lower internodes glabrous, puberulent to 5 mm below the nodes; nodes 2-3. Basal sheaths mostly glabrous, margins ciliolate distally; collars glabrous, including the sides; basal ligules 0.2-0.5 mm, truncate, ciliolate, cilia to 0.1 mm; upper ligules 0.2-3.5 mm, rounded to acute; blades to 30 cm long, 1-3 mm wide. Panicles 10-25 cm long, 0.5-1.5 cm wide; branches ascending to appressed, straight. Spikelets appressed to the branches. Glumes unequal; lower glumes 10-15 mm long, 0.5-1.1 mm wide, exceeding the upper glumes by 1-3(4) mm; florets 5.5-11 mm long, 0.7-1 mm thick, fusiform, terete, widest at or below midlength; calluses 0.4-0.6 mm, blunt; lemmas evenly hairy, hairs at midlength about 1 mm, apical hairs 1-2 mm, ascending to divergent, apical lobes 0.2-0.5 mm, membranous, flexible; awns 10-19 mm, persistent, once(twice)-geniculate, basal segments scabrous, terminal segments straight; paleas 2.8-5.6 mm, 1/2 -2/3  as long as the lemmas, hairy, hairs not or scarcely exceeding the apices, veins terminating at or before the apices, apices acute to rounded; anthers 2.5-4 mm, dehiscent, not penicillate. Caryopses 3-6 mm, fusiform. 2n = unknown.</description>
+  <discussion>Achnatherum perplexum grows on slopes in pinyon-pine associations of the southwestern United States and adjacent Mexico, at 1500-1700 m. It flowers in late summer to early fall. It has generally been confused with A. scribneri, A. nelsonii, and A. lobatum. It differs from A. scribneri in the glabrous collar margins of its basal leaves and its blunt calluses; from A. nelsonii and A. lettermanii in its unequal glumes; from A. lettermanii in its relatively short paleas; and from A. lobatum in its shorter lemma lobes and ascending to divergent apical lemma hairs.</discussion>
+</bio:treatment>

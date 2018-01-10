@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>16</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Puccinellia andersonii Swallen </name_authority_date>
+  </taxon_identification>
+  <common_names>ANDERSON'S ALKALI GRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, not mat-forming. Culms 10-25 cm, usually decumbent or geniculate. Ligules 1-2.8(3.3) mm, acute, obtuse, or truncate, entire or slightly erose; blades usually involute and 0.5-1 mm in diameter, sometimes flat and 0.8-2 mm wide. Panicles (3.5) 5-8 cm, diffuse or contracted at maturity, lowest node almost always with 2 branches, lower branches ascending to horizontal in fruit, spikelets usually confined to the distal 1/3; pedicels smooth or scabrous, with tumid epidermal cells. Spikelets 5-7(9.5) mm, with (2)4-5(7) florets. Glumes rounded over the back, veins obscure, apices acute; lower glumes 1-2 mm; upper glumes 2-3 mm, often borne distinctly above the lower glumes; calluses glabrous or hairy; lemmas (3) 3.2-4(4.5) mm, herbaceous or membranous, glabrous or sparsely hairy on the bases of the veins, backs rounded, 5-veined, veins obscure, not extending to the margins, apical margins smooth or scabrous, not white, apices usually acute, occasionally rounded, irregularly serrate or erose; palea veins glabrous, smooth proximally, scabrous distally; anthers 0.8-1.2 mm. 2n = 56.</description>
+  <discussion>Puccinellia andersonii is a widespread, coastal arctic species. It grows near the tideline and on otherwise barren, reworked marine sediments of eroded flood plains. Its decumbent growth form often gives it an unhealthy appearance. It is unique among Puccinellia  
+species in the Flora region in having blunt, rather than pointed, scabrules in the apical region of its lemmas.
+</discussion>
+</bio:treatment>

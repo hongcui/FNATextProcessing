@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>45</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia straminea Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>SCREWLEAF MUHLY</common_names>
+  <description type="morphology">Plants perennial; cespitose. Culms 25-70 cm, erect, rounded near the base; internodes glabrous. Sheaths glabrous, stiff, becoming flattened, ribbonlike or papery, and conspicuously spirally coiled when old; ligules (6)10-20 mm, hyaline, acuminate, lacerate; blades 7-25 cm long, 1-4 mm wide, flat to involute, scabrous abaxially, spiculate adaxially. Panicles 8-25 cm long, 0.5-3 cm wide, not dense; primary branches 0.6-8 cm, appressed or diverging up to 30° from the rachises; pedicels 0.2-5 mm, scabrous. Spikelets 3.5-7 mm, yellowish to pale greenish. Glumes (3)3.5-6(7) mm, scabridulous, unawned or awn-tipped; lower glumes shorter than the upper glumes, 1-veined; upper glumes equaling or exceeding the florets, 3-veined, acuminate to acute, occasionally 3-toothed, awned, awns to 1.5 mm; lemmas 3.5-5.5(6) mm, lanceolate, pubescent on the lower 1/2 of the midveins and margins, hairs to 1 mm, apices scabrous, acuminate, awned, awns 12-27 mm, flexuous; paleas 3.5-5.5 mm, lanceolate, pilose between the veins, apices scabridulous, acuminate; anthers 2-3.5 mm, purple. Caryopses 1.9-2 mm, fusiform, light brown. 2n = unknown.</description>
+  <discussion>Muhlenbergia straminea grows on rolling, rocky slopes, volcanic tuffs, canyon bottoms, and ridges, usually in open pine forests, at elevations of 1800-2600 m. It is known only from the southwestern United States.</discussion>
+</bio:treatment>

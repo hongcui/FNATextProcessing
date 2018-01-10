@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eustachys retusa (Lag.) Kunth </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 30-80 cm, erect, or decumbent and rooting at the nodes. Blades 6-12 cm long, 5-10 mm wide, usually folded, apices obtuse. Panicles with (6)8-15 branches; branches 4-10 cm, straight, somewhat stiff. Spikelets 1.5-2.1 mm; florets 2. Lower glumes 1.1-1.3 mm, linear-lanceolate, acute; upper glumes 1.3-1.5 mm, oblanceolate, apices truncate or bilobed, mucronate, mucros to 0.4 mm; calluses with a few short hairs; lowest lemmas 1.7-2 mm, lanceolate to ovate, not strongly keeled, midveins glabrous, lateral veins with widely spreading, white, 1-2 mm hairs, apices acute to mucronate; second lemmas 1.1-1.2 mm, broadly cuneate, apices truncate. Caryopses about 1 mm. 2n = 40.</description>
+  <discussion>Eustachys retusa is native to South America, but it is now established along roadsides, sandy fields, and waste areas in the southeastern United States.</discussion>
+</bio:treatment>

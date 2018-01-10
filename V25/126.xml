@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>16</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis pilosa (L.) P. Beauv. </name_authority_date>
+  </taxon_identification>
+  <common_names>INDIA LOVEGRASS, ERAGROSTIDE POILUE</common_names>
+  <description type="morphology">Plants annual; tufted, without innovations. Culms 8-45(70) cm, erect or geniculate, glabrous, occasionally with a few glandular depressions. Sheaths mostly glabrous, occasionally glandular, apices hirsute, hairs to 3 mm; ligules 0.1-0.3 mm, ciliate; blades 2-15(20) cm long, 1-2.5(4) mm wide, flat, abaxial surfaces glabrous, occasionally with glandular pits along the midrib, adaxial surfaces scabridulous. Panicles 4-20(28) cm long, 2-15(18) cm wide, ellipsoid to ovoid, diffuse; primary branches 1-10 cm, diverging 10-80°(110°) from the rachises, capillary, whorled on the lowest 2 nodes, rarely glandular; pulvini glabrous or hairy; pedicels 1-10 mm, flexible, appressed or divergent. Spikelets (2)3.5-6(10) mm long, 0.6-1.4 mm wide, linear-oblong to narrowly ovate, plumbeous, with (3)5-17 florets; disarticulation acropetal, paleas tardily deciduous, rachillas persisting longer than the paleas. Glumes narrowly ovate to lanceolate, hyaline; lower glumes 0.3-0.6(0.8) mm; upper glumes 0.7-1.2(1.4) mm; lemmas 1.2-1.8(2) mm, ovate-lanceolate, membranous to hyaline, grayish-green proximally, reddish-purple distally, lateral veins inconspicuous, apices acute; paleas 1-1.6 mm, membranous to hyaline, keels scabridulous to scabrous, apices obtuse; anthers 3, 0.2-0.3 mm, purplish. Caryopses 0.5-1 mm, obovoid to prism-shaped, adaxial surfaces flat, smooth to faintly stri¬ate, light brown. 2n = 40.</description>
+  <discussion>Eragrostis pilosa is native to Eurasia but has become naturalized in many parts of the world. In the Flora region, it grows in forest margins and disturbed sites such as roadsides, railroad embankments, gardens, and cultivated fields, at 0-2500 m.</discussion>
+  <key>
+    <key_body>
+1. Plants with numerous glandular pits scattered over the whole plant, especially on the midribs of the sheaths and blades; lemmas 1.8-2 mm long.....var. perplexa
+1. Plants with a few glandular pits scattered on the culms or without any glandular pits; lemmas 1.2-1.8 mm long   .....var. pilosa
+
+    </key_body>
+  </key>
+</bio:treatment>

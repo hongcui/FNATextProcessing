@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus arizonicus (Shear) Stebbins </name_authority_date>
+  </taxon_identification>
+  <common_names>ARIZONA BROME</common_names>
+  <description type="morphology">Plants annual; tufted. Culms 30-90 cm tall, to 3 mm thick, erect. Sheaths retrorsely pilose, sometimes mostly glabrous, throats sometimes with hairs; auricles absent; ligules 1-4 mm, usually glabrous, obtuse, erose; blades 8-18 cm long, 3-9 mm wide, flat, sparsely pilose on both surfaces or the abaxial surfaces glabrous. Panicles 12-25 cm, somewhat contracted or open; lower branches shorter than 10 cm, 2-3(5) per node, initially erect to ascending, spreading at maturity, with 1-2 spikelets variously distributed. Spikelets 18-25 mm, elliptic to lanceolate, strongly laterally compressed, with 4-8 florets. Glumes subequal, smooth or scabrous; lower glumes 8-12.5 mm, 3-veined; upper glumes 9.5-14 mm, 7-veined, about as long as the lowest lemma; lemmas 9.5-14 mm, lanceolate, laterally compressed, prominently 7-veined, strongly keeled at least distally, glabrous or pubescent distally or throughout, marginal hairs, if present, longer than those elsewhere, apices entire or with acute teeth shorter than 1 mm; awns 6-13 mm, sometimes slightly geniculate; anthers 0.4-0.5 mm. 2n = 84.</description>
+  <discussion>Bromus arizonicus grows in dry, open areas and disturbed ground of the southwest, usually below 2000 m. Its range extends from California and southern Nevada into Arizona, New Mexico, and northern Mexico.
+Stebbins et al. (1944) demonstrated that, like Bromus carinatus var. carinatus, B. arizonicus obtained three of its genomes from B. catharticus or a close relative, but the remaining three genomes are not homologous with those in B. carinatus, probably being derived from a species in a section other than Ceratochloa.   The small anthers of B. arizonicus strongly suggest that most seed is produced by selfing.
+</discussion>
+</bio:treatment>

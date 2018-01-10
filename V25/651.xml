@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Echinochloa oryzoides (Ard.) Fritsch </name_authority_date>
+  </taxon_identification>
+  <common_names>EARLY BARNYARD GRASS</common_names>
+  <description type="morphology">Plants  annual.  Culms  40-120 cm, erect, densely tufted; nodes glabrous.  Sheaths glabrous; ligules absent; blades lax or drooping, 7-20 cm long, 4-12 mm wide, mostly glabrous. Panicles 8-17(25) cm, lax, horizontal to strongly drooping, rachis nodes hispid, hairs to 4 mm, papillose-based, internodes glabrous; primary branches to 5 cm, appressed to the rachises, mostly simple, glabrous or sparsely hispid, hairs to 3.5 mm, papillose-based, particularly at the nodes. Spikelets 3.7-7 mm long, 1.9-2.4 mm wide, disarticulating at maturity, broadly ovate to ovate. Lower glumes usually 1/4 - 2/5 as long as the spikelets, occasionally 1/2 as long or longer; upper glumes subequal to the spikelets; lower florets sterile; lower lemmas similar in size to the spikelet, usually awned, awns to 5 cm; lower paleas well-developed; upper lemmas 3.5-4.5 mm, similar in length and width to the upper glumes, broadly elliptic to ovate, with an acute, greenish tip; anthers to 0.8 mm. Caryopses 1.9-3 mm, light brown or tan; embryos 70-85% as long as the caryopses. 2n = 54.</description>
+  <discussion>Echinochloa oryzoides is a common weed of rice fields throughout the world, growing in the flooded portions of the fields. It was included in E. oryzicola by Gould et al. (1972), but it differs in its shorter embryo, lax, strongly drooping panicle, and earlier (June-July) flowering period. This flowering period is also earlier than that of Oryza. In addition, E. oryzoides is usually conspicuously awned, having longer awns than even the awned variants of E. oryzicola, and it is rarely obviously pubescent on the cauline nodes, leaf sheaths, and collars. The earliest known collection of E. oryzoides in the United States was made in 1925 (Barrett and Seaman 1980).</discussion>
+</bio:treatment>

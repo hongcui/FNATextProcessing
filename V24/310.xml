@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>30</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus ramosus Huds. </name_authority_date>
+  </taxon_identification>
+  <common_names>HAIRY BROME</common_names>
+  <description type="morphology">Plants perennial; not rhizomatous. Culms 40-190 cm, erect; nodes 2-4, usually pubescent; internodes usually pubescent. Sheaths with long, stiff, retrorse hairs, at least on the lower portion, midrib of the culm leaves not abruptly narrowed just below the collar; auricles present; ligules 2-3.5 mm, glabrous or sparsely pilose, rounded to truncate, erose; blades 10-60 cm long, 6-15 mm wide, flat, drooping, glabrous or sparsely hairy. Panicles 15-40 cm long, open, lax, drooping; branches spreading or drooping. Spikelets 20-40 mm, elliptic to lanceolate, terete to moderately laterally compressed, with 3-10 florets. Glumes glabrous, scabridulous over the veins; lower glumes 5-8 mm, 1-veined; upper glumes 8-11 mm, 3-veined, mucronate; lemmas 10-14 mm, lanceolate, rounded over the midvein, margins and at least the lower 1/2 of the backs pubescent, apices acute, entire or emarginate, lobes shorter than 1 mm; awns 4-7 mm, straight, arising less than 1.5 mm below the lemma apices; anthers 2.5-4 mm. 2n = 14, 28, 42. </description>
+  <discussion>Bromus ramosus is native to Asia, Europe, and northern Africa. It is included here based on Pavlick's (1995) statement that it is found sporadically in the southern and eastern United States; specimens to substantiate his statement have not been located.</discussion>
+</bio:treatment>

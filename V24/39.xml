@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Oryza sativa L. </name_authority_date>
+  </taxon_identification>
+  <common_names>Rice</common_names>
+  <description type="morphology">Plants usually annual, sometimes perennial; cespitose, not rhizomatous. Culms 0.3-2 m tall, 4-20 mm thick, erect or ascending, branching at the base, usually rooting at both the lower and submerged upper nodes. Sheaths smooth, glabrous, lowest sheaths usually longer than the internodes, upper sheaths shorter than the internodes; auricles often present, 1-5 mm; ligules (4)10-36 mm, acute; blades 20-70 cm long, 5-20 mm wide, glabrous, sometimes scabrous. Panicles 10-50 cm long, 1-8 cm wide, often nodding; branches 2-13 cm, ascending or divergent; pedicels 1-7 mm. Spikelets 6-11 mm long, 2.5-4 mm wide, broadly elliptic, sometimes with obvious rows of white papillae, persistent, obliquely articulated with the pedicels. Sterile florets 1.5-3(10) mm long, 1/4 - 1/2 (9/10) as long as the spikelets, 0.5-1.5 mm wide. Functional florets: lemmas 6-11 mm long, 2-3 mm wide, glabrous or with stiff hairs to 1.5 mm, apices beaked, beaks 0.3-1(2) mm, rigid, usually unawned, sometimes awned, awns to 6(15) cm; paleas 1-1.7 mm wide, acute to acuminate or mucronate to 0.5 mm; anthers 1-2.5 mm, white or yellow; styles white, yellow, red, or blackish-purple. Caryopses 4.5-8 mm long, 2-3.5 mm wide, broadly elliptic or broadly oblong, brown, tan, or white; embryos 1.4-1.7 mm. Haplome A. 2n = 24.</description>
+  <discussion>Oryza sativa is cultivated in California, Arkansas, Texas, Louisiana, Mississippi, and Florida and is sometimes found as an adventive in moist or wet places, particularly in the southeastern United States, but it is not established in the Flora region. It used to be extensively cultivated in the Carolinas and Georgia, but no rice plantations are currently known to be in operation in those states. Many cultivars have been developed; there is considerable morphological, as well as ecological, variability in the cultivated crop.</discussion>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Eragrostis mexicana subsp. virescens (J. Presl) S.D. Koch & Sánchez Vega</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms and sheaths without glandular depressions. Spikelets 0.7-1.4 mm wide, linear to linear-lanceolate. Lower glumes 0.7-1.7 mm; sum of spikelet width and lower glume length 1.5-3.1 mm.</description>
+  <discussion>Eragrostis mexicana subsp. virescens has a disjunct distribution, growing in California and western Nevada and, in South America, from Ecuador to Chile, southern Brazil, and northern Argentina. It has also been found, as an introduction, at various other locations in North America, including eastern North America.</discussion>
+</bio:treatment>

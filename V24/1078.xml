@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Anthoxanthum monticola subsp. alpinum (Sw. ex Willd.) Soreng </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Awns of upper staminate florets 5-10.5 mm, attached from near the base to midlength, usually strongly geniculate, the lower portion twisted, with (1)2-4 gyres. 2n = 56, 66, 72.</description>
+  <discussion>Anthoxanthum monticola subsp. alpinum is the common subspecies in the Flora region, extending from western Alaska to eastern Greenland. It extends south to the Canadian border in the Rocky Mountains but, east of these mountains, it is mostly north of 60° N latitude, except in Quebec and Labrador, where it extends south to about 53° N latitude. It usually grows above or north of the tree line, in places that are strongly exposed to the wind and have little snow cover during the winter.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Pennisetum ciliare (L.) Link </name_authority_date>
+  </taxon_identification>
+  <common_names>BUFFEL GRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose from a hard, knotty base, with or without rhizomes. Culms 10-150 cm, erect, sometimes branching at the aerial nodes, glabrous, sometimes scabrous beneath the panicle; nodes glabrous. Leaves green or glaucous; sheaths glabrous or pubescent, margins ciliate; ligules 0.5-3 mm, membranous, ciliate; blades 3-50 cm long, 2-13 mm wide, flat, glabrous or pubescent, margins ciliate or glabrous basally. Panicles 2-20 cm long, 4-35 mm wide, fully exerted from the sheaths, erect, green, brown, brown-purple, or dark purple; rachises terete, scabrous. Fascicles 11-37 per cm, disarticulating at maturity; fascicle axes 0.2-1.5 cm, with 1-12 spikelets; outer bristles 16-89, 0.3-11.7 mm, many exceeding the spikelets; inner bristles 7-20, 3.8-13.8 mm, fused to 1/4 of their length, flattened, grooved, ciliate; primary bristles 10.5-23 mm, long-ciliate, noticeably longer than the other bristles. Spikelets 2.5-5.6 mm, sessile, glabrous; lower glumes 1-3 mm, 0-1-veined; upper glumes 1.3-3.4 mm, about 1/2 as long as the spikelet, (0)l-3-veined; lower florets staminate or sterile; lower lemmas 2.5-5.3 mm, 3-7-veined; lower paleas absent or 2.5-5 mm; anthers absent or about 1.4 mm; upper florets not disarticulating at maturity; upper lemmas 2.2-5.4 mm, (3)5(6)-veined, margins glabrous; anthers 1.4-2.7 mm. Caryopses 1.2-1.9 mm long, 0.4-1 mm wide, concealed by the lemma and palea at maturity. 2n = 45.</description>
+  <discussion>Pennisetum ciliare is native to Africa, western Asia, and India. It now grows throughout the warmer, drier regions of the world, often as a forage crop, and is established in much of the southeastern United States. It is sometimes included in Cenchrus, based solely on the fusion of its bristles.</discussion>
+</bio:treatment>

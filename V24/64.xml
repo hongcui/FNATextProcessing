@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Stephen N. Stephenson</author>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subfamily</rank>
+    <name_authority_date>BRACHYELYTREAE Ohwi</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; with knotty rhizomes. Culms annual, not branching above the base; internodes solid. Sheaths open, margins not fused; collars glabrous, without tufts of hair at the sides; auricles absent; ligules scarious, not ciliate, those of the upper and lower cauline leaves usually similar; pseudopetioles absent; blades tapering basally and distally, venation parallel, cross venation not evident, secondary veins parallel to the midvein; cross sections non-Kranz, with arm and fusoid cells; epidermes without microhairs, cells not papillate. Inflorescences terminal panicles. Spikelets scarcely compressed, with 1 floret, floret bisexual; rachillas prolonged beyond floret base; disarticulation above the glumes, beneath the floret. Glumes unequal, lanceolate; lower glumes absent or highly reduced; upper glumes less than 1/4 as long as the florets, 1-veined; florets 8-12 mm, dorsally compressed; calluses rounded, antrorsely hairy, hairs 0.2-0.5 mm; lemmas coriaceous, unawned, rounded dorsally, 5-veined, veins converging distally, apices entire; paleas subequal to the lemmas, 2-veined, ridged over the veins; lodicules 2, glabrous, veined; anthers 3; ovaries glabrous; styles 2, elongate, hairy, bases free. Caryopses grooved, styles persistent; hila linear; embryos less than 1/2 as long as the caryopses. x = 11.</description>
+  <discussion>There is only one genus, Brachyelytrum, in the Brachyelytreae. The subfamilial placement of the tribe has been disputed. Campbell et al. (1986), after examining a range of characters, concluded that it should be included in the Bambusoideae, with its probable closest relatives being the herbaceous bamboos. They acknowledged, however, that the Brachyelytreae, which are entirely north-temperate in distribution, are biogeographically distinct from the herbaceous Bambusoideae, all of which are native to tropical South America. The tribe is treated here as a member of the Pooideae, based on the findings of the Grass Phylogeny Working Group (2001). It is anomalous within the subfamily in having arm and fusoid cells and broad seedling leaves, features that are generally associated with the Bambusoideae.</discussion>
+  <references>Campbell, C.S., P.E. Garwood and L.P. Specht. 1986. Bambusoid affinities of the north temperate genus Brachyelytrum (Gramineae). Bull. Torrey Bot. Club 113:135-141; Grass Phylogeny Working Group. 2001. Phylogeny and subfamilial classification of the grasses (Poaceae). Ann. Missouri Bot. Gard. 88:373-457; Stephenson, S.N. 1971. The biosystematics and ecology of the genus Brachyelytrum (Gramineae) in Michigan. Michigan Bot. 10:19-33.</references>
+</bio:treatment>

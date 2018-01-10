@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Festuca rubra subsp. arctica (Hack.) Govor. </name_authority_date>
+  </taxon_identification>
+  <common_names>ARCTIC RED FESCUE, FÉTUQUE DE RICHARDSON</common_names>
+  <description type="morphology">Plants rhizomatous, loosely to densely cespitose, with several culms arising from the same tuft. Culms (8)10-40(60) cm. Sheaths pubescent, slowly shredding into fibers; vegetative shoot blades (0.7)1-2 mm in diameter, usually conduplicate, veins 5-7(9), ribs 5(7), abaxial surfaces usually green, smooth or slightly scabrous, adaxial surfaces scabrous or pilose on the ribs; cauline blades usually conduplicate, sometimes flat; flag leaf blades usually (1.5)2-6 cm; abaxial sclerenchyma in 5-7 small strands; adaxial sclerenchyma rarely developed. Inflorescences (2)3.5-7 cm, sparsely branched panicles or racemes, well exserted, usually congested, sometimes open; branches usually stiff and erect, scabrous or pubescent. Spikelets (6)7-13 mm, mostly reddish or purplish, with (3)5-7 florets. Glumes ovate to ovate-lanceolate, acute to acuminate, often pilose near the apices; lower glumes (1.5)2.5-3.5(4) mm; upper glumes (3)3.5-5 mm; lemmas (4)4.5-6(6.5) mm, ovate to lanceolate, usually densely to moderately pilose, sometimes only partially pilose, rarely glabrous throughout, awned, awns (0.2)0.5-1.6(2.5) mm; anthers (2.3)2.5-3(3.7) mm. 2n = 42.</description>
+  <discussion>Festuca rubra subsp. arctica grows in sands, gravels, silts, and stony soils of river banks, bars, and flats; in periglacial outwashes, beaches, sand dunes, muskegs, solifluction slopes, and scree slopes in tundra, subarctic forest, and barren regions; and subalpine areas in the mountains. It extends from Alaska, the southern part of the Canadian arctic archipelago, and Greenland to northwestern British Columbia, the coast of Hudson Bay and James Bay, and Quebec and Labrador, extending farthest south in the Rocky Mountains of Alberta. It also grows in arctic and subarctic Europe and Asia, and in the Ural Mountains.</discussion>
+</bio:treatment>

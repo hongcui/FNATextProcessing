@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Eleusine coracana subsp. africana (Kenn.-O'Byrne) Hilu & de Wet </name_authority_date>
+  </taxon_identification>
+  <common_names>AFRICAN FINGER MILLET</common_names>
+  <description type="morphology">Culms 21-62 cm. Blades 22-50 cm long, 6-10 mm wide. Branches slim, 4-17 cm long, 5-7 mm wide. Spikelets 5-8 mm long, 3-4 mm wide, with 2-6 florets, disarticulating at maturity. Seeds oblong, surfaces shallowly ridged, uniformly granular.</description>
+  <discussion>This weedy subspecies hybridizes freely with the cultivated subsp. coracana. It tends to have more slender branches than subsp. coracana (5-7 mm wide rather than 7-15 mm), which led to its previous inclusion in E. indica.</discussion>
+</bio:treatment>

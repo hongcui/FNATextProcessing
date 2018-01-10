@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>26</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia porteri Scribn. ex Beal </name_authority_date>
+  </taxon_identification>
+  <common_names>BUSH MUHLY</common_names>
+  <description type="morphology">Plants perennial; loosely cespitose from a knotty base, not rhizomatous, distinctly bushy in appearance. Culms 25-100 cm tall, 0.5-1.5 mm thick, erect, geniculate, wiry, freely branched, branches stiff, geniculate,   widely   divergent; internodes scabridulous throughout. Sheaths shorter than the internodes, glabrous; ligules 1-2.5(4) mm, truncate, lacerate, with lateral lobes; blades 2-8 cm long, 0.5-2 mm wide, flat or folded, smooth or scabridulous abaxially, scabridulous adaxially. Panicles 4-14 cm long, 6-15 cm wide, open, not dense, usually purple; primary branches 1-7.5 cm, diverging 30-90° from the rachises, stiff, naked basally; pedicels 2-13(20) mm, scabrous. Spikelets 3-4.5 mm. Glumes 2-3 mm, shorter than the lemmas, 1-veined, veins scabrous, apices gradually acute to acuminate, occasionally mucronate, mucros to 0.4 mm; lemmas 3-4.5 mm, lanceolate, purplish, appressed-pubescent on the lower 1/2 - 3/4 of the margins and midveins, apices acuminate, awned, awns 2-13 mm, straight; paleas 3-4.5 mm, lanceolate, acuminate; anthers 1.5-2.3 mm, purple to yellow. Caryopses 2-2.4 mm, oblong, compressed, yellowish-brown. 2n = 20, 23, 24, 40.</description>
+  <discussion>Muhlenbergia porteri grows among boulders on rocky slopes and on cliffs, and in dry arroyos, desert flats, and grasslands, frequently in the protection of shrubs, at elevations of 600-1700 m. Its geographic range extends from the southwestern United States to northern Mexico.
+Muhlenbergia porteri is highly palatable to all classes of livestock, but is never abundant at any particular location.
+</discussion>
+</bio:treatment>

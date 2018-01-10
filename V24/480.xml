@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>40</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus xcayouetteorum (B. Boivin) Barkworth </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants probably cespitose, not rhizomatous. Culms to 1 m tall, about 4 mm thick. Leaves not basally concentrated; sheaths smooth; ligules about 0.5 mm, glabrous; blades 20-30 cm long, about 10 mm wide, both surfaces scabrous. Spikes about 25 cm, lower nodes with 1 spikelet, most middle to upper nodes with  
+2; internodes about 18 mm. Spikelets about 40 mm including the awns, about 20 mm excluding the awns, appressed, with 5-8 florets. Glumes 12-15 mm, not or scarcely indurate, mostly smooth, veins scabrous, awns 3-5 mm; lemmas about 14 mm, glabrous, awns 18-22 mm, not to moderately divergent; anthers 1.8-2 mm, indehiscent.
+</description>
+  <discussion>Elymus xcayouetteorum consists of hybrids between E. trachycaulus (p. 321) and E. canadensis (p. 303). The above description is based on the type specimen, which was collected on the Ilets Jeremie, Quebec. It is not known how widespread such hybrids are.</discussion>
+</bio:treatment>

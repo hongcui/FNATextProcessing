@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>23</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Achnatherum swallenii (C.L. Hitchc. & Spellenb.) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>SWALLEN'S NEEDLEGRASS</common_names>
+  <description type="morphology">Plants tightly cespitose, not rhizomatous. Culms 15-25 cm tall, 0.5-1 mm thick, glabrous; nodes 2-3. Basal sheaths mostly glabrous, pubescent at the base, throats glabrous; collars, including the sides, glabrous; basal ligules 0.2-0.3 mm, obtuse to rounded, glabrous; upper ligules to 0.5 mm, rounded to broadly acute; blades 0.4-0.7 mm wide, arcuate, abaxial surfaces smooth or scabridulous, adaxial surfaces with hairs shorter than 0.5 mm. Panicles 3-6.5 cm long, 0.3-0.7 cm wide; branches appressed, lower branches 1-5 cm, with 1-5 spikelets. Glumes subequal, 4-5.5 mm, not saccate, apices narrowly acute to acuminate, midveins often prolonged into an awnlike tip; lower glumes 0.6-1 mm wide, apices narrowly acute; florets 2.5-3.5 mm long, 0.6-0.8 mm thick, fusiform, terete; calluses 0.1-0.2 mm, blunt; lemmas evenly hairy, hairs 0.3-0.5 mm, all similar in length, apical lobes 0.3-0.5 mm, thickly membranous; awns 5-6 mm, once-geniculate, readily deciduous, basal segment scabridulous; paleas 2.2-2.5 mm, slightly shorter than the lemmas; anthers 1.5-2 mm, dehiscent, not penicillate. Caryopses 2-3 mm, ovoid. 2n = 34.</description>
+  <discussion>Achnatberum swallenii grows on open, rocky sites, frequently with low sagebrush, in Idaho and western Wyoming, at 1500-2200 m. It is a dominant species in parts of eastern Idaho, although it is poorly represented in collections.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca sororia Piper </name_authority_date>
+  </taxon_identification>
+  <common_names>RAVINE FESCUE</common_names>
+  <description type="morphology">Plants loosely cespitose, without rhizomes, with short extra-vaginal tillers. Culms 60-100 (150) cm, erect, glabrous; nodes usually exposed. Sheaths closed for less than 1/3 their length, glabrous or scabrous, shredding into fibers; ligules 0.3-1.5 mm; blades 3-6(10) mm wide, flat, lax, margins scabrous, abaxial and adaxial surfaces glabrous, adaxial surfaces sometimes scabrous, veins 13-25, ribs obscure; abaxial sclerenchyma in narrow strands; adaxial sclerenchyma developed; girders or pillars formed at the major veins. Inflorescences 10-20(40) cm, open or somewhat contracted, with 1-2(3) branches per node; branches lax, more or less spreading, spikelets borne towards the ends of the branches. Spikelets 7-12 mm, with (2)3-5 florets. Glumes lanceolate, scabrous at least on the midvein, acute to acuminate; lower glumes (1.5) 2.5-4(4.5) mm; upper glumes (3)4-6.5 mm; calluses wider than long, glabrous, smooth or slightly scabrous; lemmas (5)6-8(9) mm, lanceolate, scabrous or puberulent, acuminate, unawned or awned, awns to 2 mm; paleas about as long as or shorter than the lemmas, intercostal region puberulent distally; anthers 1.6-2.5 mm; ovary apices pubescent. 2n = unknown.</description>
+  <discussion>Festuca sororia grows in open woods and on shaded slopes and stream banks, at 2000-3000 m. It is re¬stricted to the United States, growing from central Utah and Colorado to Arizona and New Mexico. A single puzzling specimen is the basis for the reported occurrence of this species in Missouri (Yatskievych 1999).</discussion>
+</bio:treatment>

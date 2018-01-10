@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Setaria macrostachya Kunth </name_authority_date>
+  </taxon_identification>
+  <common_names>PLAINS BRISTLEGRASS</common_names>
+  <description type="morphology">Plants perennial; densely cespitose. Culms 60-120 cm, rarely branched distally, scabrous below the nodes and panicles. Sheaths keeled, glabrous, usually with a few white hairs at the throat; ligules 2-4 mm, densely ciliate; blades 15-20 cm long, 7-15 mm wide, flat, adaxial surface scabrous. Panicles 10-30 cm long, 1-2 cm wide, uniformly thick from the base to the apex, dense, rarely lobed basally; rachises scabrous and loosely pilose; bristles usually solitary, 10-20 mm, soft, antrorsely scabrous. Spikelets 2-2.3 mm, subspherical. Lower glumes 1/3 – 1/2 as long as the spikelets, 3-5-veined; upper glumes about 3/4 as long as the spikelets, 5-7-veined; lower lemmas equaling the upper lemmas, 5-veined; lower paleas nearly equaling the upper paleas in length and width; upper lemmas transversely rugose; upper paleas convex, ovate. 2n = 54.</description>
+  <discussion>Setaria macrostachya is abundant in the desert grass-lands of the southwestern United States, particularly in southern Arizon and Texas. It extends south through the highlands of central Mexico. It also grows in the West Indies, but is not common there. It is a valuable forage grass in the Flora region.</discussion>
+</bio:treatment>

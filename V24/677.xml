@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>15</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Puccinellia arctica (Hook.) Fernald & Weath. </name_authority_date>
+  </taxon_identification>
+  <common_names>ARCTIC ALKALI GRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose. Culms 10-30(40) cm, erect. Leaves basally concentrated; ligules 0.9-3 mm, acute, obtuse, or truncate, entire, margins decurrent; blades usually flat and 0.5-2.2 mm wide, sometimes involute and 0.2-1.6 mm in diameter. Panicles 3-11 cm, diffuse or contracted at maturity, lowest nodes with (2)3-5 branches, lower branches ascending to horizontal, spikelets usually confined to the distal 2/3; pedicels scabrous, without tumid epidermal cells. Spikelets 4.5-7(9.5) mm, with (2)3-6(8) florets. Glumes rounded over the back, veins distinct or obscure, lateral margins often inrolled, apices acute to obtuse; lower glumes 0.8-2.1(2.5) mm; upper glumes 1.8-3 mm; calluses with a few hairs; lemmas 2.5-3.7 mm, herbaceous or membranous, often translucent, often purplish, hairy, particularly on the bases of the veins, backs rounded, 5-veined, veins obscure to distinct, midveins scabrous or smooth distally, sometimes extending to the apical margin, sometimes excurrent, lateral veins not extending to the margins, lateral margins often inrolled, apical margins often hyaline and yellowish, scabrous, entire or slightly erose, apices acute to obtuse; palea veins glabrous, smooth proximally, scabrous from midlength or just below midlength to the apices; anthers 1.2-2.2 mm. 2n = 14.</description>
+  <discussion>Puccinellia arctica is restricted to the North American arctic, where it grows in silt, clay, and sandy substrates near the coast, and on alkaline, sparsely vegetated soils further inland. As treated here, it includes three entities that are sometimes treated as distinct species: P. arctica sensu stricto, P. poacea T.J. Sørensen, and P. agrostidea T.J. Sørensen. Puccinellia arctica sensu stricto is restricted to the southwestern arctic, P. poacea to the high arctic (Ellesmere and Axel Heiberg islands), and P. agrostidea to the southwestern arctic and possibly also Ellesmere Island. There are no morphological characters known for distinguishing these three entities. The first two may differ from the latter by the relatively frequent presence of small scabrules along the upper lemma midvein, slightly more distinct veins, and frequent yellowish margins to the lemma. The taxonomic validity of these characters was not completely understood at the time this treatment was written, but molecular analyses being conducted as this volume went to press (Consaul et al. [in prep.]) suggest that this group is best represented as a single species, P. arctica. Argus and Pryer (1990) stated that all three entities are rare in Canada.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>31</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus ciliatus L. </name_authority_date>
+  </taxon_identification>
+  <common_names>FRINGED BROME, BROME CILIE</common_names>
+  <description type="morphology">Plants perennial; not rhizomatous. Culms 45-120(150) cm, erect; nodes (3)4-7(8), all pubescent or the lower nodes sometimes glabrous; internodes glabrous. Basal sheaths usually retrorsely pilose, sometimes glabrous; upper sheaths glabrous, throats glabrous or pilose, midrib of the culm leaves not abruptly narrowed just below the collar; auricles sometimes present; ligules 0.4-1.4 mm, usually glabrous, rarely pilose, truncate, erose; blades 13-25 cm long, 4-10 mm wide, flat, abaxial surfaces usually glabrous, sometimes pilose, adaxial surfaces usually pilose, sometimes glabrous. Panicles 10-20 cm, open, nodding; branches ascending, spreading, or drooping. Spikelets 15-25 mm, elliptic to lanceolate, terete to moderately laterally compressed, with 4-9 florets. Glumes glabrous; lower glumes 5.5-7.5 mm, l(3)-veined; upper glumes 7.1-8.5 mm, 3-veined, not mucronate; lemmas 9.5-14 mm, elliptic to lanceolate, rounded over the midvein, backs glabrous, sometimes scabrous, margins conspicuously hirsute on the lower 1/2 - 2/3, apices obtuse to acute, entire; awns 3-5 mm, straight, arising less than 1.5 mm below the lemma apices; anthers 1-1.4 mm. 2n = 14.</description>
+  <discussion>Bromus ciliatus grows in damp meadows, thickets, woods, and stream banks across almost all of northern North America except the high arctic, extending further south mainly through the western United States to Mexico. Some taxonomists have named plants with different degrees of sheath pubescence as different forms. Because the variation is continuous, such differences are not formally recognized in this treatment.</discussion>
+</bio:treatment>

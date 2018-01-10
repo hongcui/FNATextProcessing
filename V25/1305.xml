@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>J.K. Wipff </author>
+      <author>Rahmona A. Thompson</author>
+    </source>
+  </meta>
+  <number>25.11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>BRACHIARIA (Trin.) Griseb.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual. Culms 10-60 cm, herbaceous, not woody, often creeping. Leaves cauline; sheaths open, glabrous or pubescent; ligules membranous, with a ciliate fringe, fringe longer than the membranous base. Inflorescences terminal, secund panicles of 1-sided branches; branches erect to ascending, axes triquetrous, terminating in a well-developed spikelet; secondary branches, when present, shorter than the primary branches; disarticulation below the glumes and beneath the upper florets. Spikelets solitary, subsessile, dorsally compressed, unequally convex, in 2 rows, the lower glumes and lemmas appressed or adjacent to the branch axes, with 2 florets; lower florets sterile or staminate; upper florets stipitate, bisexual, usually glabrous, readily disarticulating, acuminate. Lower glumes to 0.5 mm, less than 1/2 as long as the spikelets, glabrous, adjacent to the branch axes, 0-1-veined; upper glumes and lower lemmas subequal, villous, 3-5-veined; upper glumes subequal to or slightly exceeding the upper florets, not saccate; lower paleas present; anthers (if present) 3; upper lemmas equaling the second glume, glabrous, indurate, smooth, shiny to lustrous, 5- or 7-veined, margins involute, apices round to muticous; upper paleas similar to the upper lemmas; anthers 3. Caryopses ovoid, dorsally compressed, x = 9. </description>
+  <discussion>Brachiaria, as now interpreted, includes three species, all native to the Eastern Hemisphere. It differs from Urochloa in its smooth, rounded, distal floret and from Panicum in its secund panicle and stipitate, shiny to lustrous, disarticulating distal floret. Many of the species previously placed in the genus are now placed in Urochloa. One species is established in the Flora region.</discussion>
+  <references>Morrone, O. and F.O. Zuloaga. 1992. Revision de las especies Sudamericanas nativas e introducisas de los generos Brachiaria y Urochloa (Poaceae: Panicoideae: Paniceae). Darwiniana 31:43-109.</references>
+</bio:treatment>

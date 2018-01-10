@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>25</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Setaria parviflora (Poir.) Kerguelen </name_authority_date>
+  </taxon_identification>
+  <common_names>KNOTROOT BRISTLEGRASS</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, rhizomes short, knotty. Culms 30-120 cm; nodes glabrous. Sheaths glabrous; ligules shorter than 1 mm, of hairs; blades to 25 cm long, 2-8 mm wide, flat, scabrous above. Panicles 3-8 (10) cm, of uniform width throughout their length, densely spikelike; rachises scabro-hispid; bristles 4-12, 2-12 mm, antrorsely barbed, yellow to purple. Spikelets 2-2.8 mm, elliptical and turgid. Lower glumes about 1/3 as long as the spikelets, 3-veined; upper glumes 1/2 - 2/3 as long as the spikelets, 5-veined; lower florets often staminate; lower lemmas occasionally indurate and faintly transversely rugose; lower paleas equaling the lower lemmas; upper lemmas distinctly transversely rugose, often purple-tipped. 2n = 36, 72.</description>
+  <discussion>Setaria parviflora is a common, native species of moist ground. It is most frequent along the Atlantic and Gulf coasts, but it also grows from the Central Valley of California east through the central United States and southward through Mexico to Central America, as well as in the West Indies. The plant from Oregon was found on a ballast dump; the species is not established in that state.
+Setaria parviflora is the most morphologically diverse and widely distributed of the indigenous perennial species of Setaria.
+</discussion>
+</bio:treatment>

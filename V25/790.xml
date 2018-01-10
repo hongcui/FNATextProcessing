@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>17.35</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>CHLORIS Sw.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; habit various, rhizomatous, stoloniferous, or cespitose. Culms 10-300 cm; internodes pith-filled. Sheaths strongly keeled, glabrous, scabrous, or pubescent; ligules membranous, erose to lacerate or ciliate, occasionally absent; blades, particularly those of the basal leaves, often with long, coarse hairs near the base of the adaxial surface and margins. Inflorescences terminal, panicles with (1)5-30 spikelike branches, these usually borne digitately, occasionally in 2-several whorls, sometimes with a few isolated branches below the primary whorl(s), all branches usually exceeding the upper leaves; branches with spikelets in 2 rows on 1 side of the branch axes. Spikelets solitary, sessile to pedicellate, laterally compressed, with 2-3(5) florets, usually only the lowest floret bisexual, rarely the lower 2 florets bisexual, remaining floret(s) sterile or staminate; florets laterally compressed or terete, cylindrical to obovoid, awned or unawned, sterile and staminate florets progressively reduced distally if more than 1 present; disarticulation usually beneath the lowest floret in the spikelets, all florets falling as a unit, sometimes at the uppermost cauline node, panicles falling intact. Glumes unequal, exceeded by the florets, lanceolate, acute to acuminate, usually unawned, occasionally awned, awns to 0.3 mm; calluses bearded; lemmas of bisexual florets 3-veined, marginal veins pubescent, midveins usually glabrous, sometimes scabrous, usually extending into an awn, sometimes merely mucronate, awns to 37 mm, lemma apices truncate or obtuse, entire or bilobed, lobes, when present, sometimes awn-tipped, awns to 0.6 mm; paleas shorter than the lemmas, 2-veined, veins scabrous; anthers 3; lodicules 2. Caryopses ovoid, elliptic, or obovoid. x = (9)10. </description>
+  <discussion>As interpreted here, Chloris is a tropical to subtropical genus of 55-60 species. It is most abundant in the Southern Hemisphere. Of the 18 species treated here, 11 are native, five are species that have been collected in the Flora region but seem not to have persisted, one is an introduced species that has become established, and one is known only from cultivation. Many species of Chloris, including the native species, provide good forage.
+Anderson (197A) interpreted Chloris as including Enteropogon, Eustachys, and Trichloris. Support for treating the genus more narrowly can be found in Van den Borre (1994; 2000) and Hilu and Alice (2001), but the limits of many genera in the Cynodonteae, including Chloris, are not clear.
+</discussion>
+  <references>Anderson, D.E. 1974. Taxonomy of the genus Chloris (Gramineae). Brigham Young Univ. Sci. Bull., Biol. Ser. 19:1-133; Hilu, K.W. and L.A. Alice. 2001. A phylogeny of the Chloridoideae (Poaceae) based on matK sequences. Syst. Bot. 26:386-405; Hitchcock, A.S. 1951 [title page 1950]. Manual of the Grasses of the United States, ed. 2, rev. A. Chase. U.S.D.A. Miscellaneous Publication No. 200. U.S. Government Printing Office, Washington, D.C., U.S.A. 1051 pp.; Van den Borre, A. 1994. A taxonomy of the Chloridoideae (Poaceae), with special reference to the genus Eragrostis. Ph.D. dissertation, Australian National University, Canberra, New South Wales, Australia. 313 pp.; Van den Borre, A. and L. Watson. 2000. On the classification of the Chloridoideae: Results from morphological and leaf anatomical data analyses. Pp. 180-183 in S.W.L. Jacobs and J. Everett (eds.). Grasses: Systematics and Evolution. International Symposium on Grass Systematics and Evolution (3rd:1998). CSIRO Publishing, Collingwood, Victoria, Australia. 408 pp.</references>
+  <key>
+    <key_body>
+1  Panicle branches tightly entangled for most of their length, separable only with difficulty and forming a cylindrical, spikelike inflorescence, the individual branches visibly distinct only at the tip .....l.C. berroi
+1. Panicle branches sometimes appressed to each other but easily separable, inflorescences evidently composed of multiple spikelike branches borne in 1-several whorls. 
+2. Panicles with 1-3 branches.
+3. Lowest (bisexual) lemmas usually glabrous or scabrous, occasionally with a few scattered hairs on the margins. 4. Lemma of the first sterile floret in each spikelet entire; panicle branches 5-11 cm long, with about 10 spikelets per cm  .....9. C. ventricosa
+ 
+4. Lemma of the first sterile floret in each spikelet bilobed for 1/3– 1/2  of its length; panicle branches 4-17 cm long, with 3-7 spikelets per cm on the distal portion .....11. C. divaricata
+3. Lowest (bisexual) lemmas conspicuously hairy on the margins and keels.
+5. Lemma of the lowest (bisexual) floret in each spikelet 1.8-2.8 mm long.....2. C. ciliata
+5. Lemma of the lowest (bisexual) floret in each spikelet 2.7-4.2 mm long.....3. C. canterae
+2. Panicles with 4 or more branches.
+6. Spikelets with 3 or more florets (the third often concealed), the lowest (first) floret bisexual, the remainder sterile or staminate, the terminal floret sometimes represented only by a clavate rachilla segment. 
+7. Second sterile florets ovoid to subspherical, strongly inflated; first sterile florets 0.9-1.3 mm long .....5. C. barbata
+7. Second sterile florets widened or not distally, not inflated or inflated only near the apices; first sterile florets 1-3.5 mm long. 
+8. All sterile or staminate florets awned.
+9. Culms to 300 cm tall; panicle branches averaging 10 spikelets per cm; spikelets tawny .....8. C. gayana
+9. Culms 30-50 cm tall; panicle branches averaging 6 spikelets per cm; spikelets dark brown to black .....10. C. truncata
+8. At least 1 of the sterile or staminate florets in each spikelet unawned.
+10. Spikelets barely imbricate, averaging 5-7 per cm; plants annual or short-lived perennials .....6. C. pilosa
+10. Spikelets strongly imbricate, averaging 10-14 per cm; plants perennial or annual. 
+11. Margins of the lowest lemma in each spikelet scabrous, glabrous, or appressed pubescent  .....8. C. gayana
+11. Margins of the lowest lemma in each spikelet conspicuously hairy, at least distally, the hairs 0.5-3 mm long. 
+12. Plants annual; third florets, if present, shorter than the subtending rachilla segment .....7. C. virgata
+12. Plants perennial; third florets as long as or longer than the subtending rachilla segment.
+13. Lowest lemmas 2.7-4.2 mm long.....3. C. canterae
+13. Lowest lemmas 1.5-2.8 mm long.
+14. Panicles with 2-7 branches; branches 3.5-8 cm long; awns of the first sterile florets 0.9-1.4 mm long .....2. C. ciliata
+14. Panicles with (4)8-30 branches; branches (5)8-20 cm long; awns of the first sterile florets 0.8-4 mm long.
+15. First sterile florets 1-1.6 mm long.....4. C. elata
+15. First sterile florets 2.2-3.2 mm long.....8. C. gayana
+6. Spikelets with 2 florets, 1 bisexual and 1 sterile or staminate.
+16. Lemmas of the sterile or staminate florets bilobed for at least A of their length; lateral lobes sometimes awned. 
+17. Spikelets pectinate, diverging from the branch axes, crowded, averaging 10-14 per cm; plants annual .....12. C. pectinata
+17. Spikelets appressed to the branch axes, not crowded, averaging 3-7 per cm; plants perennial .....11. C. divaricata
+16. Lemmas of the sterile or staminate florets not bilobed or lobed less than 1/4 of their length; lateral lobes, if present, not awned.
+18. Lowest (bisexual) lemmas unawned, mucronate, or shortly awned, the awns less than 1.5 mm long.
+19. Plants annuals or short-lived perennials, sometimes shortly stoloniferous.....6. C. pilosa
+19. Plants perennial, sometimes stoloniferous.
+20. Lowest (bisexual) lemmas unawned, sometimes mucronate, the mucros to 1 mm long.
+ 
+21. Sterile or staminate florets inflated, 1-1.5 mm wide and about equally long .....13. C. cucullata
+21. Sterile or staminate florets 0.3-0.9 mm wide, usually at least twice as long .....17. C. submutica
+20. Lowest (bisexual) lemmas always awned, the awns 1-11 mm long.
+22. Panicles with 2-9 branches; branches 5-11 cm long.....9. C. ventricosa
+22. Panicles with 4-28 branches (usually more than 8); branches 2-20 cm long.
+23. Panicle branches 10-20, 2-5 cm long; spikelets with only 1 sterile floret .....13. C. cucullata
+23. Panicle branches 4-28 (usually more than 8), 5-20 cm long, spikelets usually with 2 sterile florets, the lowest often enclosing and concealing the second  .....4. C. elata
+18. Lowest (bisexual) lemmas always awned, the awns 1.5-16 mm long.
+24. Lowest lemmas with a conspicuous glabrous or pubescent groove on each side; plants annual or short-lived perennials .....6. C. pilosa
+24. Lowest lemmas not conspicuously grooved on the sides; plants perennial or annual.
+25. Margins of the lowest (bisexual) lemmas conspicuously hairy along most of their length, the hairs strongly divergent, at least some longer than 1 mm. 
+26. Plants rarely stoloniferous; second (first sterile) florets 1-1.6 mm long .....4. C. elata
+26. Plants usually stoloniferous; second (first sterile) florets 2.2-3.2 mm long .....8. C. gayana
+25. Margins of the lowest (bisexual) lemmas glabrous, scabrous, or appressed pubescent, sometimes with a few scattered longer hairs, or with strongly divergent hairs distally but not basally.
+27. Panicle branches borne in 2 or more, clearly distinct whorls.
+28. Second (first sterile) florets 0.4-0.7 mm long   .....18. C. radiata
+28. Second (first sterile) florets 0.9-2.5 mm long.
+29. Panicle branches spikelet-bearing to the base; panicles with 10-16 branches, these usually in several, well separated whorls below a solitary, vertical branch  .....14. C. verticillata
+29. Panicle branches naked on the basal 2-5 cm; panicles with 8-10 branches, these usually digitate, sometimes a second whorl present below the terminal whorl .....16. C. texensis
+27. Panicle branches usually digitate, in a single terminal cluster, sometimes with a poorly-developed second whorl just below the terminal cluster.
+30. Margins of the lowest (bisexual) lemmas with conspicuously longer hairs distally than basally, the distal hairs usually more than 1.5 mm long. 
+31. Plants annual; third floret, if present, shorter than its subtending rachilla segment .....7. C. virgata
+31. Plants perennial; third floret, if present, longer than its subtending rachilla segment  .....8. C. gayana
+30. Margins of the lowest (bisexual) lemmas glabrous or with appressed hairs less than 1 mm long, occasionally with a few scattered longer hairs.
+32. Panicle branches without spikelets on the basal 2-5 cm .....16. C. texensis
+32. Panicle branches spikelet-bearing to the base or naked for less than 2 cm.
+33. Second florets (first sterile florets) 0.1-0.5 mm wide.
+ 
+ 
+34. Plants annual, sometimes rooting at the lower nodes, not stoloniferous; second florets 0.4-0.7 mm long .....C. radiata
+34. Plants perennial, not rooting at the lower nodes but sometimes stoloniferous; second florets 0.7-2.6 mm long. 
+35. Culms 10-40 cm; lowest lemmas 1.9-2.7 mm long with awns  1.9-5.2 mm long; second florets 0.9-1.7 mm long .....15. C. andropogonoides
+35. Culms to 100 cm; lowest lemmas 2-5.4 mm long, with awns 1-11 mm long; second florets 1-2.6 mm long .....9. C. ventricosa
+33. Second florets (first sterile florets) 0.5-1 mm wide. 
+36. Lemmas of the second florets inconspicuously bilobed; spikelets with (1)2-4 staminate or sterile florets ..... 8. C. gayana
+36. Lemmas of the second florets usually not bilobed; spikelets with 1(2) staminate or sterile florets. 
+37. Panicle branches 5-23 cm long; margins of the lowest lemmas appressed pubescent, occasionally sparsely so; second florets awned, the awns 3.1-12.5 mm long; blades without basal hairs .....10. C. truncata
+37. Panicle branches 5-11 cm long; margins of the lowest lemmas usually glabrous or scabrous, occasionally sparsely pubescent; second florets awned, the awns 0.5-7.5 mm long; blades with basal hairs up to 3 mm long .....9. C. ventricosa
+
+    </key_body>
+  </key>
+</bio:treatment>

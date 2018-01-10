@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Calamovilfa longifolia (Hook.) Scribn. var. longifolia</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Sheaths usually glabrous, sometimes sparsely pubescent, rarely densely pubescent. Panicles to 55.5 cm long, usually 6.7-13.9 times as long as wide; branches to 23 cm long, erect or ascending, at least in the upper 1/3 of the panicle. Spikelets usually without a brownish cast, relatively closely imbricate.</description>
+  <discussion>Calamovilfa longifolia var. longifolia is a characteristic grass on the drier prairies of the interior plains, from southern Canada to northern New Mexico, with reports from southern Arizona. It also grows, as an adventive, in Washington, Wisconsin, Michigan, and Missouri.</discussion>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>xElyhordeum montanense (Scribn. ex Beal) Bowden</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 60-100 cm. Sheaths glabrous; blades 5-8 mm wide, flat, lax. Inflorescences spikelike, 8-17 cm, nodding, with 3 spikelets per node. Spikelets with 1-4 florets, the lateral spikelets usually shortly pedicellate, with 1(2) sterile florets, the central spikelet sessile, with 2(3-4) sterile florets, the third and fourth florets rudimentary. Glumes 10-35 mm including the awns, slightly widened above the base; lowest lemma of central florets about 8 mm, glabrous towards the base, sparsely scabrous distally, awned, awns 15-25 mm, straight to slightly divergent at maturity. 2n = 28.</description>
+  <discussion>xElyhordeum montanense applies to hybrids between Elymus virginicus and Hordeum jubatum. It is often found in disturbed areas where both parental taxa grow. Short-awned specimens may reflect the involvement of E. submuticus rather than E. virginicus, two taxa that have sometimes been treated as conspecific.</discussion>
+</bio:treatment>

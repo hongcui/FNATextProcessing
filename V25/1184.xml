@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Dichanthelium sect. Nudicaulia Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose. Basal rosettes somewhat differentiated. Culms 20-60 cm, weakly ascending, glabrous; fall phase rarely branching from near the base. Cauline leaves 3-4; sheaths sparsely pilose or glabrous; ligules membranous, ciliate; blades mostly basal, flat to stiffly involute, ascending to erect, uppermost blades much reduced. Primary panicles long-exserted, with few spikelets. Spikelets 2.4-3.2 mm, narrowly ellipsoid to ovoid, glabrous. Upper florets acute. </description>
+  <discussion>Dichanthelium nudicaule is the only member of sect. Nudicaulia present in the Flora region.</discussion>
+</bio:treatment>

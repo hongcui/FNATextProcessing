@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Festuca sect. Subuliflorae (E.B. Alexeev) Darbysh.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants loosely cespitose; innovations extravaginal; blades lax, flat or convolute; ribs obscure to prominent; sclerenchyma girders present at the major veins. Calluses longer than wide, bearded with a ring of hairs; lemmas chartaceous, minutely bidentate, awned; ovary apices densely pubescent.</description>
+  <discussion>Only one species has been placed in this section.</discussion>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Psathyrostachys juncea (Fisch.) Nevski </name_authority_date>
+  </taxon_identification>
+  <common_names>RUSSIAN WILDRYE</common_names>
+  <description type="morphology">Plants densely cespitose. Culms (20)30-80(120) cm, erect or decumbent at the base, mostly glabrous, pubescent below the spikes. Basal sheaths glabrous, grayish-brown, old sheaths more or less persistent; auricles 0.2-1.5 mm; blades (1)2.5-18 (30) cm long, (1)5-20 mm wide, flat or involute, abaxial surfaces smooth or scabridulous, often glaucous. Spikes (3)6-11(16) cm long, 5-17 mm wide, erect, with (2)3 spikelets per node; rachises hirsute on the margins, puberulent elsewhere; internodes 3.5-6 mm. Spikelets 7-10(12) mm excluding the awns, strongly overlapping, lateral spikelets slightly larger than the central spikelets. Glumes (3.5)4.2-9.4 mm, subulate, scabrous or with 0.3-0.8 mm hairs; lemmas 5.5-7.5 mm, lanceolate, glabrous or with 0.3-0.8 mm hairs, sharply acute or awned, awns 0.8-3.5 mm; paleas 5.8-7.6 mm, scabrous, acute; anthers 2.5-5.1 mm; lodicules 1.3-1.5 mm. Caryopses 4.3-5 mm. 2n = 14, rarely 28.</description>
+  <discussion>Psathyrostachys juncea is native to central Asia, primarily to the Russian and Mongolian steppes. It has become established at various locations, from Alaska to Arizona and New Mexico. It is drought-resistant and tolerant of saline soils. In its native range, it grows on stony slopes and roadsides, at elevations to 5500 m.
+Psathyrostachys juncea closely resembles Leymus cinereus, differing primarily in having shorter ligules and a rachis that breaks up at maturity. Immature plants can be identified by the more uniform appearance of the spikelets. Psathyrostachys juncea also tends to have smaller spikelets with fewer florets than L. cinereus. Plants with pilose florets have been treated as a distinct taxon; such recognition is not merited.
+</discussion>
+</bio:treatment>

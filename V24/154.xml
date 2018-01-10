@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Achnatherum nelsonii subsp. dorei (Barkworth & J.R. Maze) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>DORE'S NEEDLEGRASS</common_names>
+  <description type="morphology">Calluses blunt, glabrous tips 0.02-0.06 mm, dorsal boundary of the glabrous tip and the callus hairs almost straight to rounded; awns 19-31 mm.</description>
+  <discussion>Achnatherum nelsonii subsp. dorei grows from the southern Yukon Territory to California and Wyoming. In regions where both subspecies grow, subsp. dorei is at higher elevations than subsp. nelsonii. It differs from A. rohustum in the sparsely hairy collars of its flag leaves.
+Reports of Achnatherum nelsonii subsp. dorei (identified as Stipa columbiana Macoun by many authors) from New Mexico and Arizona are probably based on A. perplexum, which differs in having sparse, narrow inflorescences and slightly recurved glumes. The two also differ in flowering time, A. nelsonii subsp. dorei flowering in late spring to early summer and A. perplexum in the fall. Achnatherum nelsonii subsp. nelsonii is present in New Mexico. Scagel and Maze (1984) concluded that putative hybrids between A. nelsonii subsp. dorei and A. richardsonii were merely large plants of A. nelsonii subsp. dorei that varied in the direction of A. richardsonii.
+</discussion>
+</bio:treatment>

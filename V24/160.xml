@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Achnatherum thurberianum (Piper) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>THURBER'S NEEDLEGRASS</common_names>
+  <description type="morphology">Plants cespitose, not rhizomatous. Culms 30-75 cm tall, 0.5-1.7 mm thick, internodes pubescent or glabrous, pubescence more common on the lower internodes, particularly just below the nodes; nodes 2-3, lower nodes retrorsely pubescent, upper nodes glabrous or pubescent. Basal sheaths glabrous, usually smooth, brown or gray-brown; collars glabrous, without tufts of hair at the sides; basal ligules 1.5-6 mm, hyaline, rounded to acute, lacerate; upper ligules to 8 mm, hyaline, acute, glabrous; blades 0.5-2 mm wide, convolute, abaxial surfaces scabrous, adaxial surfaces scabrous or hairy, hairs about 0.3 mm. Panicles 7-15 cm long, 0.5-2.5 cm wide, often included in the upper leaf sheaths at the start of anthesis; branches 1.5-6 cm, appressed to strongly ascending, with 1-6 spikelets. Glumes often purplish; lower glumes 10-15 mm long, 1.2-2 mm wide; upper glumes to 2 mm shorter; florets 6-9 mm long, 0.7-1.2 mm thick, fusiform, terete; calluses 0.9-1.5 mm, sharp; lemmas coriaceous, evenly pubescent or the back glabrate distally, hairs 0.5-0.8 mm, apices lobed on 1 margin, lobe about 0.1 mm long, thick, apical lemma hairs 0.5-0.8 mm; awns 32-56 mm, twice-geniculate, first 2 segments pilose, hairs 0.8-2 mm, terminal segment glabrous, often scabrous; paleas 4.6-6.1 mm, 3/4 - 9/10 as long as the lemmas, sparsely pubescent towards the base; anthers 2.5-3.5 mm, dehiscent, not penicillate. Caryopses 5-7 mm, fusiform. 2n =34.</description>
+  <discussion>Achnatherum thurberianum grows in canyons and foothills, primarily in sagebrush desert and juniper woodland associations, from Washington to southern Idaho and southwestern Montana and from California to Utah, at 900-3000 m. Its long ligules and pilose awns make it one of the easier North American species of Achnatherum to identify.</discussion>
+</bio:treatment>

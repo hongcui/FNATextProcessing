@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Stipa capensis Thunb. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual, tufted. Culms 10-100 cm, erect or geniculate, glabrous, sometimes branching from the lowermost nodes. Sheaths glabrous or pilose; collars with tufts of hair at the sides; ligules 0.4-0.7 mm, membranous, ciliate; blades to 3 mm wide, flat or convolute, abaxial surfaces glabrous, sparsely pubescent, or pilose, adaxial surfaces scabrous or hairy, hairs about 0.8 mm. Panicles 3-15 cm, contracted, often partially enclosed in the upper sheath; branches scabrous; pedicels shorter than the spikelets. Glumes 12-20 mm, narrowly lanceolate to linear, 3-veined, tapering to the hairlike apices; lower glumes equal to or exceeding the upper glumes; florets 4-7 mm, terete; calluses 1.7-2.3 mm, sharp; lemmas indurate, with overlapping margins, dorsally constricted below the apices; awns 50-100 mm, twice-geniculate, first 2 segments twisted and pilose, hairs about 1 mm, terminal segment straight, glabrous; paleas 1.2-1.5 mm, 2-veined, glabrous; lodicules 2; anthers 3, 2-2.5 mm. 2n = 36.</description>
+  <discussion>Stipa capensis is known from two locations in Riverside County, California: one in Palm Springs, and the other near the mouth of Chino Canyon. A.C. Sanders (University of California, Riverside) described the latter population as a "common annual on roadside and spreading into desert vegetation" (UTC 230476).</discussion>
+</bio:treatment>

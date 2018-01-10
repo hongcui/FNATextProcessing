@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa pratensis subsp. alpigena (Lindm.) Hiitonen</name_authority_date>
+  </taxon_identification>
+  <common_names>ALPIGENE BLUEGRASS</common_names>
+  <description type="morphology">Plants strongly anthocyanic; moderately to loosely tufted, shoots usually solitary. Basal branching mainly extravaginal. Culms 15-70 cm. Innovation shoot blades shorter than 15 cm, 1-3.6 mm wide, flat or folded, soft, adaxial surfaces usually glabrous, sometimes sparsely pubescent; cauline blades flat or folded. Panicles 3-13(20) cm, narrowly pyramidal or contracted, expanding well after emergence from the sheath, with (1)2-5(7) branches per node; branches 1-6 cm, steeply ascending to eventually spreading or somewhat reflexed, smooth or sparsely scabrous, with 5-15 spikelets. Spikelets 4-5.5 mm, narrowly lanceolate, not bulbiferous; florets normal. Glume keels distinct, smooth or sparsely scabrous near the apices; upper glumes nearly equaling the lowest lemmas; lemmas 2.5-3.5 mm, smooth or finely muriculate, lateral veins frequently short-villous to softly puberulent; palea keels scabrous, often softly puberulent at midlength, intercostal regions usually glabrous, rarely sparsely hispidulous. 2n = 28, 32, 35, 42, 48, 50, 53, 56, 60, 63, 64, 65, 61, ca. 68, 69, 70, 72, 73, 74, 76, 77, 78, 79, 82, 84, 86, 88, 89, 92, 94.</description>
+  <discussion>Poa pratensis subsp. alpigena is a circumpolar, mesophytic to subhydrophytic, arctic and alpine subspecies that extends into boreal forests in northern parts of the Flora region. It is infrequent south of Canada, with isolated collections being known from as far south as New Mexico in the Rocky Mountains, and New Hampshire and Maine in the east. It also grows in southern Patagonia.
+Poa pratensis subsp. alpigena approaches P. arctica (p. 529). It differs in being glabrous between the lemma and palea veins, having somewhat more dense, later-opening panicles, and, usually, having smaller spikelets and more closely spaced palea keels. It differs from a likely hybrid with P. alpina, P. xgaspensis (p. 601), in its truncate to rounded ligules, lemmas that are glabrous between the veins, and the lack of a basal tuft of leaves. In this treatment, bulbiferous plants are placed in subsp. colpodea, a subspecies which is more common than subsp. alpigena in the high arctic. The two sometimes grow together; there is some evidence of a shift in dominance from year to year.</discussion>
+</bio:treatment>

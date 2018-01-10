@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Andropogon glomeratus (Walter) Britton, Sterns & Poggenb. var. glomeratus</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants oblong to pyramidal in the upper portion. Culms 60-160 cm; internodes not glaucous. Sheaths (2)2.5-3.4(4.7) mm wide, scabrous; ligules sometimes ciliate, cilia to 0.3 mm; blades green, usually scabrous. Subtending sheaths of inflorescence units usually 2.5-3.4 mm wide; peduncles (4)11-35(60) mm; rames usually 2.1-2.9 cm, exerted. Keels of lower glumes usually smooth below midlength, scabrous distally; anthers eventually deciduous.</description>
+  <discussion>Andropogon glomeratus var. glomeratus grows in bogs, swamps, savannahs, flatwoods, and ditches of the southeastern United States.</discussion>
+</bio:treatment>

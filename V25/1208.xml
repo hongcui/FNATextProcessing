@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Dichanthelium aciculare subsp. neuranthum (Griseb.) Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose. Culms 30-60 cm, stiffly erect, wiry, sparsely pubescent to almost glabrous. Cauline blades erect, narrow, often involute. Primary panicles usually contracted; branches appressed to ascending, appearing 1-sided. Spikelets 2-2.8 mm, ellipsoid.</description>
+  <discussion>Dichanthelium aciculare subsp. neuranthum grows in moist, sandy, open ground and savannahs, primarily on the outer coastal plain and in Cuba and various other Caribbean islands.</discussion>
+</bio:treatment>

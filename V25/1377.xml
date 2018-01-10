@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Cenchrus longispinus (Hack.) Fernald </name_authority_date>
+  </taxon_identification>
+  <common_names>MAT SANDBUR, LONGSPINE SANDBUR, CENCHRUS À ÉPINES LONGUES</common_names>
+  <description type="morphology">Plants annual; tufted. Culms 20-90 cm, sometimes decumbent, often with many branches arising from the base. Sheaths strongly compressed-keeled; ligules 0.6-1.8 mm; blades 4-27 cm long, 1.5-5(7.5) mm wide, adaxial surfaces scabrous or sparsely pilose. Panicles 1.5-8(10) cm; fascicles 8.3-11.9 mm long, 3.5-6 mm wide, somewhat globose, medium- to short-pubescent; bristles 45-75; outer bristles numerous, shorter and thinner than the inner bristles, imbricate, mostly terete, reflexed; inner bristles 3.5-7 mm long, 0.5-0.9(1.4) mm wide at the base, irregularly placed, fused for 1/2 their length or more, forming a distinct cupule, the distal portions diverging at irregular intervals from the cupule, often grooved along the margins, purple-tinged. Spikelets 2-3(4) per fascicle, (4)5.8-7.8 mm. Lower glumes 0.8-3 mm; upper glumes 4-6 mm, 3-5-veined; lower florets often staminate; lower lemmas 4-6.5 mm, 3-7-veined; anthers 1.5-2 mm; upper lemmas 4-7(7.6) mm; anthers 0.7-1 mm, seemingly not well-developed at anthesis. Caryopses 2-3.8 mm long, 1.5-2.6 mm wide, ovoid. 2n = 34 (38).</description>
+  <discussion>Cenchrus longispinus grows in sandy woods, fields, and waste ground in southern Canada and the contiguous United States. Its range extends southwards to Venezuela. It is often confused with C. spinifex and C. tribuloides; see discussion under those species.</discussion>
+</bio:treatment>

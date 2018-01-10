@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>24</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Calamagrostis canadensis (Michx.) P. Beauv. </name_authority_date>
+  </taxon_identification>
+  <common_names>BLUEJOINT, CALAMAGROSTIDE DU CANADA</common_names>
+  <description type="morphology">Plants with sterile culms; ces¬pitose, with rhizomes 2-15+ cm long, 1-3 mm thick. Culms (32)65-112(180) cm, often branching above the base, smooth or slightly scabrous beneath the panicles; nodes (2)3-7(8). Sheaths smooth or scabrous; collars usually scab¬rous, rarely smooth or hairy; ligules (1)3-8(12) mm, lacerate; blades (10)16-31(50) cm long, 2-8(11) mm wide, flat, lax, abaxial surfaces scabrous, adaxial surfaces usually strongly scabrous, rarely smooth or with scattered hairs, often glaucous. Panicles (6)9-17(25) cm long, (1)2-4(8) cm wide, often contracted when young, open at maturity, nodding, usually purplish, sometimes greenish to straw-colored; branches 2.7-6(12) cm, scabrous, spikelets sparsely to densely concentrated on the distal 2/3. Spikelets 2-4.5(5.2) mm; rachilla prolongations 0.5-1 mm, hairs 1.5-3.2 mm. Glumes rounded or keeled, smooth or scabrous, keels often long-scabrous, lateral veins obscure to prominent, apices acute to acuminate; callus hairs (1.5)2-3.5(4.5) mm, (0.5)0.9-1.2(1.5) times as long as the lemmas, abundant; lemmas 2-3.1(4) mm, 0-2.1 mm shorter than the glumes; awns 0.9-3.1 mm, attached to the lower (1/10)1/5-1/2(7/10) of the lemmas, usually not exserted, delicate, often difficult to distinguish from the callus hairs, usually straight; anthers (0.8)1.2-1.6(2.6) mm. 2n = 42-66.</description>
+  <discussion>Calamagrostis canadensis is a species of moist meadows, thickets, bog edges, and forest openings. It grows from sea level to 3400 m. It occurs widely throughout the Flora region, except in Oklahoma, Texas, and the southeastern United States. Its range also extends from northern Asia to northeastern China and Japan, with additional scattered populations elsewhere in Asia. Calamagrostis canadensis is closely related to, and possibly conspecific with, the European C. purpurea (Trin.) Trin. It hybridizes with Ammophila breviligulata (p. 777) in Grand Island, Michigan and on the adjacent mainland, forming xCalammophila don-hensonii Reznicek & Judz. Calamagrostis canadensis also appears to form hybrids with the nearly sympatric C. porteri (p. 721) in rocky wooded sites in central Virginia. These putative hybrids have hairy collars, relatively long callus hairs, and short awns. The apparently sterile C. perplexa (see previous) is intermediate between C. canadensis and C. porteri (Greene 1980).
+A high degree of pollen sterility has been documented in some populations, suggesting that seed formation via apomixis is common; sexual reproduction is also documented. The many forms, varieties, and subspecies that have been described for this species probably represent clones. The three varieties recognized here intergrade, and an argument could be made that their recognition is not warranted. Nevertheless, the extreme forms along the gradient of variation can be distinguished most readily by the glumes.
+ 
+ 
+</discussion>
+  <key>
+    <key_body>
+1. Spikelets (3.5)4-4.5(5.2) mm long; glumes usually scabrous over the entire surface, the prickles on the keels hairlike, often bent; glume apices distinctly acuminate .....var. langsdorffii
+1. Spikelets 2-4 mm long; glumes smooth or scabrous, often scabrous only on the keels, prickles straight; glume apices acute, rarely acuminate.
+2. Spikelets 2.5-4 mm long, lemmas usually shorter than the glumes; glumes rounded to broadly keeled, with raised midveins; glume apices usually acute, rarely acuminate .....var. canadensis
+2. Spikelets 2-3 mm long; lemmas usually about as long as the glumes; glumes rounded, midveins not raised; glume apices acute  .....var. macouniana
+
+    </key_body>
+  </key>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>39</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis erosa Scribn. ex Beal </name_authority_date>
+  </taxon_identification>
+  <common_names>CHIHUAHUA LOVEGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, with innovations, without rhizomes, not glandular. Culms 70-110 cm, erect, glabrous below the nodes. Sheaths hairy at the apices and sometimes on the upper margins, hairs to 4 mm, not papillose-based; ligules 0.2-0.4 mm; blades (8)12-30 cm long, 1.5-3.8 mm wide, flat to involute, abaxial surfaces glabrous, adaxial surfaces scabridulous, glabrous or sparsely hairy, hairs to 4 mm. Panicles 25-45 cm long, (5)12-30 cm wide, broadly ovate, open; primary branches mostly 4-20 cm, diverging 20-90° from the rachises, capillary, sinuous; pulvini glabrous or hairy; pedicels 1-18 mm, appressed or divergent, proximal spikelets on each branch usually with pedicels shorter than 5 mm. Spikelets 5-9 mm long, 1-3 mm wide, lanceolate, plumbeous, with 5-12 florets; disarticulation acropetal, glumes first, then the lemmas, paleas persistent. Glumes lanceolate to ovate, membranous; lower glumes 1.3-2.4 mm; upper glumes 1.6-2.6 mm; lemmas 2.4-3 mm, ovate, mostly membranous, hyaline near the margins and apices, lateral veins inconspicuous, apices acute; paleas 1.5-3 mm, hyaline, narrower than the lemmas, apices obtuse to truncate; anthers 3, 0.6-1.7 mm, purplish. Caryopses 0.8-1.6 mm, subellipsoid, terete to somewhat laterally compressed, with a well-developed adaxial groove, faintly striate, opaque, reddish-brown. 2n = unknown.</description>
+  <discussion>Eragrostis erosa grows on rocky slopes and hills, at 1200-2300 m, often in association with Pinus edulis, Juniperus monosperma, and Bouteloua gracilis. Its range extends from New Mexico and western Texas to northern Mexico.</discussion>
+</bio:treatment>

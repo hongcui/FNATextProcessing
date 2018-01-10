@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Lycurus phleoides Kunth </name_authority_date>
+  </taxon_identification>
+  <common_names>COMMON WOLFSTAIL</common_names>
+  <description type="morphology">Culms 20-50 cm, erect to ascending, often geniculate. Ligules 1.5-3 mm, commonly acute to acuminate, with narrow trianfular lobes 1.5-3(4) mm long extending from the sides of the sheaths; blades 4-8 cm long, 1-1.5 mm wide, acute or mucronate, midribs sometimes extending up to 3 mm as a short bristle. Similar to Lycurus setosus in inflorescence and aspikelet characters, except the upper glumes occasionally with a second shorter, more delicate awn. 2n = 40, ca. 40.</description>
+  <discussion>Lycurus phleoides grows on rocky hills and open slopes, at elevations of 670-2600 m. It grows from the southwestern United States to southern Mexico, and in northern South America. It flowers from July-October.  </discussion>
+</bio:treatment>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Jerrold I. Davis</author>
+    </source>
+  </meta>
+  <number>14.18</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>TORREYOCHLOA G.L. Church</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; rhizomatous. Culms 18-145 cm, usually erect, sometimes decumbent and rooting at the lower nodes; internodes hollow. Sheaths open to the base; auricles absent; ligules membranous; blades flat. Inflorescences terminal panicles; branches scabrous, usually densely scabrid distally; pedicels less than 0.5 mm thick. Spikelets pedicellate, laterally compressed to terete, with 2-8 florets; disarticulation above the glumes and beneath the florets. Glumes unequal, shorter than the lowest lemma, rounded to weakly keeled, membranous, veins obscure to prominent, unawned; lower glumes 1(3)-veined; upper glumes (l)3(5)-veined; calluses blunt, glabrous; lemmas membranous, rounded to weakly keeled, sometimes pubescent, particularly proximally, prominently (5)7-9-veined, veins more or less parallel, veins and interveins usually scabridulous, particularly distally, lateral veins usually reduced or absent, apices scabridulous and entire to serrate-erose, unawned; paleas subequal to the lemmas, 2-veined; lodicules 2, free, glabrous, entire or toothed; anthers usually 3; ovaries usually hairy, sometimes glabrous. Caryopses shorter than the lemmas, concealed at maturity, oblong, flattened dorsally, falling free; hila oblong, about 1/3 the length of the caryopses. x = 7. </description>
+  <discussion>Torreyochloa grows in cold, wet, non-saline environments. It includes the two North American species treated below, plus two additional taxa in northeastern Asia (Koyama & Kawano 1964). Although similar to Glyceria and Puccinellia, Torreyochloa is not closely related to either (Church 1952; Soreng et al. 1990). It is distinguished from Glyceria by its open leaf sheaths, and from Puccinellia by the 7-9 (occasionally 5) prominent, rather than faint, lemma veins.</discussion>
+  <references>Church, G.L. 1952. The genus Torreyochloa. Rhodora 54:197-200; Koyama, T. and S. Kawano. 1964. Critical taxa of grasses with North American and eastern Asiatic distribution. Canad. J. Bot. 42:859-884; Soreng, R.J., J.I. Davis, and J.J. Doyle. 1990. A phylogenetic analysis of chloroplast DNA restriction site variation in the Poaceae subfam. Pooideae. PL Syst. Evol. 172:83-97.</references>
+  <key>
+    <key_body>
+1. Mature inflorescences linear to narrowly elliptic, 0.3-1 cm wide, 5.5-19 times as long as wide; widest cauline blades 3.4-7.2 mm wide .....1. T. erecta
+1. Mature inflorescences conic, ovoid, or obovoid, 1-16 cm wide, 1-7.5 times as long as wide; widest cauline blades 1.5-18 mm wide .....2. T. pallida
+ 
+
+    </key_body>
+  </key>
+</bio:treatment>

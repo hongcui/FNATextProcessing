@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Aristida californica Thurb. var. californica</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Cauline internodes puberulent to nearly lanose. Lower glumes 6-10 mm; upper glumes 11-13 mm; awns forming a 7-26 mm column, free portions 25-50 mm. </description>
+  <discussion>Aristida californica var. californica grows in dry, sandy plains, dunes, and flats of the Sonoran and Mojave deserts at elevations of 0-700 m.</discussion>
+</bio:treatment>

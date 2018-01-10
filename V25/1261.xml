@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>17</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Panicum repens L. </name_authority_date>
+  </taxon_identification>
+  <common_names>TORPEDO GRASS</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, forming extensive colonies, rhizomes long, to 5 mm thick, branching, scaly, sharply pointed. Culms 20-90 cm tall, 1.8-2.8 mm thick, erect, rigid, simple or branching from the lower and middle nodes; nodes glabrous or sparsely hispid; internodes glabrous. Sheaths generally shorter than the internodes, not keeled, lower nodes glabrous or hispid, hairs papillose-based, particularly near the summits; ligules 0.5-1 mm; blades 3-25 cm long, 2-8 mm wide, often distichous, flat to slightly involute, firm, adaxial surfaces pilose basally, glabrous or sparsely pubescent abaxially. Panicles 3-24 cm long, usually less than 5 cm wide, open; primary branches 2-11 cm, alternate, few, stiffly ascending to spreading; pedicels 1-6 mm, subappressed. Spikelets 2.2-2.8 mm long, 0.8-1.3 mm wide, ellipsoid-ovoid, pale green, acute, upper glumes and lower lemmas sometimes separating (gaping) beyond the florets. Lower glumes 0.5-1 mm, 1/5 – 2/5 as long as the spikelets, glabrous, faintly 1-5-veined, subtruncate to broadly acute; upper glumes and lower lemmas glabrous, extending 0.1-0.5 mm beyond the upper florets, scarcely separated; upper glumes 7-11-veined, shorter than the lower lemmas, acute to short-acuminate; lower florets staminate; lower lemmas 7-11-veined; lower paleas 1.9-2.1 mm, oblong; upper florets 1.8-2.7 mm long, 0.7-1.3 mm wide, broadly ellipsoid, broadest at or above the middle, glabrous, shiny, smooth, apices rounded. 2n - 36, 40, 45, 54.</description>
+  <discussion>Panicum repens grows on open, moist, sandy beaches and the shores of lakes and ponds, occasionally extend¬ing out into or onto the water. It is mostly, but not exclu¬sively, coastal. It grows on tropical and subtropical coasts throughout the world and may have been introduced to the Americas from elsewhere. Small plants having small, dense panicles of purplish spikelets with longer, subacute lower glumes have been named Panicum gouinii E. Fourn., but they intergrade with more typical plants and do not seem to merit taxonomic recognition.</discussion>
+</bio:treatment>

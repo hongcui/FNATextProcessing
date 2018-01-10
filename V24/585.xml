@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Festuca rubra subsp. aucta (V.I. Krecz. & Bobrov) Hulten</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants rhizomatous, loosely cespitose, with several culms arising from the same tuft. Culms 30-120 cm. Sheaths pubescent, shredding into fibers, cauline leaf sheaths loosely enclosing the culms; vegetative shoot blades usually loosely conduplicate, sometimes flat, deep green, not glaucous, abaxial surfaces more or less uniformly scabridulous or roughened, ribs hispid or pilose; cauline blades 2-4 mm wide, usually flat or loosely conduplicate; abaxial sclerenchyma in small strands; adaxial sclerenchyma sometimes present. Inflorescences 10-25 cm, often open, lax, secund or partially secund, often partially included in the uppermost leaf sheaths at maturity; branches scabrous. Spikelets 9-14 mm, oblong, with (4)5-8(10) florets, mostly deep green or glaucous. Glumes ovate-lanceolate to lanceolate, acute to acuminate; lower glumes 3.5-6 mm; upper glumes 5.5-8.5 mm; lemmas 6-9 mm, attenuate in side view, usually glabrous, sometimes pubescent, usually mostly smooth, margins and apices scabrous, sometimes almost completely scabrous, deep green or the margins violet, sometimes glaucous, occasionally pubescent, apices awned, awns 2.5-4.5 mm; anthers 2.5-3.5 mm. 2n = unknown.</description>
+  <discussion>Festuca rubra subsp. aucta is a coastal taxon, growing above the high tide line in the sand of stabilized sand dunes, beaches, etc., or in silt deposits. Its range extends along the Pacific coast from the Kamchatka Peninsula through the Aleutian Islands, Queen Charlotte Islands, and Vancouver Island and the adjacent continental coastline. Festuca pseudovivipara (p. 41S) has been described as a form of F. rubra subsp. aucta, but differs from that taxon in having pseudcviviparous spikelets. It is also ecologically, altitudinally, and probably reproductively isolated from F. rubra subsp. aucta.</discussion>
+</bio:treatment>

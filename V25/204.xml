@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sporobolus fimbriatus (Trin.) Nees </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; rhizomatous. Culms 30-120(160) cm. Sheaths rounded and papery below; ligules 0.1-0.3 mm; blades 10-30 cm long, 2-4(5) mm wide, not obviously distichous, flat, becoming folded, pilose abaxially, taper-ing to the slender apices. Panicles 15-50 cm long, 2.4-8 cm wide, somewhat contracted to rather lax and open; primary branches appressed or ascending, spreading to 60°from the rachis; spikelet-bearing to the base or without spikelets on the lower 1/4, lower branches mostly 2-9 cm, longer than the internodes; pedicels 0.7-3 mm. Spikelets 1.4-2.2 mm, plumbeous to greenish. Glumes unequal, linear-lanceolate to ovate, membranous; lower glumes (0.4)0.6-1.2(1.5) mm, without midveins, acuminate; upper glumes (0.9)1.4-2 mm, 2A to as long as the spikelet, faintly 1-veined, acute; lemmas (1.4)1.8-2.2 mm, narrowly ovate, glabrous, 1-veined, acute; paleas (1.2)1.6-2 mm, ovate; anthers 3, 09-1.2 mm. Fruits 0.6-1 mm, quadrangular, laterally compressed, whitish-brown, truncate. 2n = unknown.</description>
+  <discussion>Sporobolus fimbriatus is an African species that has only been found in waste areas near the sites of old wool mills in Berkeley and Florence counties, South Carolina.</discussion>
+</bio:treatment>

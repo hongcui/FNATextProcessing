@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Ammophila breviligulata Fernald </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 50-130 cm. Ligules 1-3 (4.6) mm, truncate to obtuse, ciliolate; blades 15-80 cm long, 4-8 mm wide when flat, usually involute, 0.5-2.5 mm in diameter when involute; flag leaf blades 5-39 cm. Panicles 9-40 cm long, 10-25 mm wide, stramineous. Glumes 8-15 mm, exceeding the florets; callus hairs 1-3 mm; lemmas 8-11.5(14) mm, somewhat thicker than the glumes, apices acute, entire, unawned, rarely mucronate, mucros to 0.2 mm, subterminal; anthers 3-7 mm.</description>
+  <discussion>The two subspecies overlap in their morphological characteristics and occupy similar habitats, the primary difference between them being their flowering time.</discussion>
+  <key>
+    <key_body>
+1. Flowering late July to  September; panicles (9.5)13-40 cm long; anthers 3.5-7 mm long .....subsp. breviligulata
+1. Flowering late June to early July; panicles 9-17 cm long; anthers 3-4.5 mm long .....subsp. champlainensis
+
+    </key_body>
+  </key>
+</bio:treatment>

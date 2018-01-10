@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Triticum boeoticum Boiss. </name_authority_date>
+  </taxon_identification>
+  <common_names>WILD EINKORN</common_names>
+  <description type="morphology">Culms to 160 cm, decumbent at the base; nodes pubescent; internodes mostly hollow, solid for 1 cm below the spike. Blades 5-15 mm wide, blue-green, hirsute, with long hairs over the veins, shorter hairs between the veins, hairs stiff. Spikes 5-14 cm, wider than thick; rachises densely ciliate at the nodes and margins; internodes 3-5 mm; disarticulation spon¬taneous, dispersal units wedge-shaped. Spikelets 12-17 mm, rectangular, with 2-3 florets, 1-2 seed-forming. Glumes 6-11 mm, coriaceous, tightly appressed to the lower florets, 2-keeled, with 2 prominent teeth; lemmas 10-14 mm, first (and sometimes the second) lemma awned, awns to 11 cm, third lemma usually unawned; paleas splitting at maturity; anthers 3-6 mm. Caryopses of the lowest floret in each spikelet usually blue, that of the second amber or red with blue mottling; endosperm flinty. Haplome Ab. 2n = 14.</description>
+  <discussion>Triticum boeoticum is a wild diploid wheat that is native from the Balkans through the Caucasus to Iran and Afghanistan and south to Iraq. It is morph¬ologically similar to and, in its native range, sometimes sympatric with T. urartu, another wild diploid wheat. Triticum monococcum is the domesticated derivative of T. boeoticum.
+Boissier published the combination for this species both as "Triticum baeoticum" and "T. boeoticum". Because the type specimen is from Boeotia [Greece], "boeoticum" is the correct spelling of the epithet.
+</discussion>
+</bio:treatment>

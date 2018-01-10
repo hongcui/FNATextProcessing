@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Vulpia microstachys var. ciliata (A. Gray) Lonard & Gould</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Spikelets usually with 2-4 florets. Glumes and lemmas sparsely or densely pubescent.</description>
+  <discussion>Vulpia microstachys var. ciliata grows in loose, sandy soils.</discussion>
+</bio:treatment>

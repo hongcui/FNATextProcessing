@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Poa stenantha Trin. var. stenantha</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Spikelets not bulbiferous; florets normal. Anthers 1.2-2 mm.</description>
+  <discussion>Poa stenantha var. stenantha can be difficult to separate from P. secunda subsp. secunda (p. 588). Its main distinguishing features are its strongly keeled lemmas with glabrous intercostal regions, and, when present, callus hairs longer than 0.2 mm. Plants with large panicles and glabrous calluses have been called P. macroclada Rydb. Such plants grow infrequently in the U.S. Rocky Mountain portion of the species' range. They intergrade with the more compact typical form.</discussion>
+</bio:treatment>

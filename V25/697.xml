@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Crypsis alopecuroides (Piller & Mitterp.) Schrad.</name_authority_date>
+  </taxon_identification>
+  <common_names>FOXTAIL PRICKLEGRASS</common_names>
+  <description type="morphology">Culms (3)5-75 cm rarely branched above the base. Sheaths glabrous; collars glabrous; ligules 0.2-1 mm; blades 5-12 cm long, 1.2-2.5 mm wide, not disarticulating. Panicles 1.5-6.5 cm long, 4-6 mm wide, 7-8 times longer than wide, often purplish, completed exserted from the uppermost sheath at maturity on peduncles at least 1 cm long. Spikelets 1.8-2.8 mm, remaining lightly attached until late in the season. Lower glumes 1.2-2 mm; upper glumes 1.4-2.4 mm; lemmas 1.7-2.8 mm;   paleas faintly 2-veined; anthers 3, 0.5-0.6 mm. Caryopses 0.9-1.1 mm. 2n = 16.</description>
+  <discussion>Crypsis alopecuroides is common to abundant in sandy soils around drying lake margins in Oregon and southern Washington, and within the last forty years has become widespread in northern California; it is also known from several other western states. It was first collected in the Western Hemisphere in the late 1800s from shipyard areas in and around Philadelphia, but has not been collected in the eastern United States since. In the Eastern Hemisphere, it extends from France and northern Africa to the Urals and Iraq.</discussion>
+</bio:treatment>

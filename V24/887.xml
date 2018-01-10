@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sphenopholis filiformis (Chapm.) Scribn. </name_authority_date>
+  </taxon_identification>
+  <common_names>SOUTHERN WEDGEGRASS</common_names>
+  <description type="morphology">Culms 20-100 cm. Sheaths smooth, usually glabrous, some¬times pubescent; ligules 0.4-0.75 mm, erose-ciliate; blades 2-45 cm long, 0.3-1.5(2) mm wide, involute to filiform. Panicles 5-15 cm long, 0.5-1(2) cm wide, sometimes nodding, spikelets loosely to densely arranged. Spikelets 2.3-5 mm. Lower glumes less than 1/3 as wide as the upper glumes, rarely slightly wider; upper glumes 1.8-2.9 mm, obovate to oblanceolate, width/length ratio 0.16-0.45, apices rounded to truncate; lowest lemmas 2-3 mm, scabridulous distally; distal lemmas scabrous on the sides, unawned or infrequently awned, awns (0.1)1-3 mm; anthers (0.5)1-1.9 mm. 2n = 14.</description>
+  <discussion>Sphenopholis filiformis grows in sandy soils of pine and mixed pine forests, at 0-500 m, in the southeastern United States. It is found primarily in the coastal plain, but extends to the piedmont. Smith (1991) reported it for northern Arkansas (Nielsen 4946, identification not verified). Sphenopholis filiformis differs from occasional forms of S. obtusata with somewhat scabrous distal lemmas in having narrower leaves.</discussion>
+</bio:treatment>

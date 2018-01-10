@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Bromus catharticus Vahl var. catharticus </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or biennial; tufted. Culms 30-120 cm, erect or decumbent. Sheaths usually densely, often retrorsely, hairy, hairs sometimes confined to the throat; ligules 1-4 mm, glabrous or pilose, erose; blades 4-26 cm long, 3-10 mm wide, glabrous or hairy on both surfaces. Panicles 9-28 cm, open, erect or nodding; lower branches 1-4 per node, spreading or ascending, with 1-5 spikelets. Spikelets 20-30 mm, with 6-12 florets. Lower glumes 5-7-veined; upper glumes 9-13 mm, (7)9(1 l)-veined; lemmas 11-20 mm, glabrous or scabrous, sometimes pubescent distally, (9)11-13-veined; awns absent or to 3.5 mm; anthers about 0.5 mm in cleistogamous florets, 2-4 mm in chasmogamous florets. 2n = 42.</description>
+  <discussion>Bromus catharticus var. catharticus is native to South America. It has been widely introduced in the flora region as a forage crop and is now established, particularly in the southern half of the United States. It usually grows on disturbed soils.</discussion>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>28</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa arnowiae Soreng </name_authority_date>
+  </taxon_identification>
+  <common_names>WASATCH BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; loosely tufted or with solitary shoots, short-rhizomatous. Basal branching all or mostly extravaginal. Culms (15)30-80 cm, erect or the bases decumbent, terete or weakly compressed; nodes terete, 1-3 exserted. Sheaths closed for 1/2 - 9/10 their length, compressed, smooth, glabrous, bases of basal sheaths glabrous, distal sheath lengths 1-3 times blade lengths; collars smooth, glabrous; ligules 0.5-4 mm, smooth or sparsely scabrous, truncate to obtuse; innovation blades similar to the cauline blades; cauline blades 2-5 mm wide, flat, thin, smooth or sparsely scabrous mainly over the veins, apices broadly prow-shaped, middle and upper cauline blades subequal in length, flag leaf blades (2.5)4-7(11) cm long. Panicles (5)12-22 cm, usually narrowly pyramidal, open, sparse, with 20-70 spikelets, proximal internodes usually (3.5)4+ cm, with 2-3(4) branches per node; branches 3-8 cm, spreading to eventually reflexed, terete or weakly angled, sparsely to moderately scabrous, with 3-12 spikelets. Spikelets 5-9 mm, lengths to 3.5 times widths, laterally compressed, not sexually dimorphic; florets 2-6; rachilla internodes smooth, glabrous, distal internodes 1+ mm. Glumes lanceolate, distinctly keeled; lower glumes 1-3-veined; calluses glabrous; lemmas 3-6.5 mm, lanceolate, distinctly keeled, keels and marginal veins glabrous or short-villous to softly puberulent to 1/3 their length, lateral veins obscure, intercostal regions glabrous or sparsely hispidulous, rarely softly puberulent, smooth or sparsely finely scabrous, margins glabrous, apices acute; palea keels scabrous, glabrous, intercostal regions glabrous; anthers vestigial (0.1-0.2 mm) or (1.3)2-3.6 mm. 2n = unknown.</description>
+  <discussion>Poa arnowiae grows in openings within the coniferous forests of the mountain ranges in southeastern Idaho, northern Utah, and adjacent Wyoming. It is sequentially gynomonoecious.
+Poa arnowiae used to be called Poa curta Rydb., but the type of P. curta belongs in P. wheeleri.
+</discussion>
+</bio:treatment>

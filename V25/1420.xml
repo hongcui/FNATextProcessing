@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Setaria viridis (L.) P. Beauv. var. viridis </name_authority_date>
+  </taxon_identification>
+  <common_names>GREEN FOXTAIL</common_names>
+  <description type="morphology">Culms 20-100 cm; nodes 6-7. Blades 4-12 mm wide. Panicles usually 3-8 cm, producing around 600-800 caryopses. 2n = 18.</description>
+  <discussion>Setaria viridis var. viridis is an aggressive adventive weed throughout temperate North America. It is the most common annual representative of Setaria in the Flora region.</discussion>
+</bio:treatment>

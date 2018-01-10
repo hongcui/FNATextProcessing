@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Oryzopsis asperifolia Michx. </name_authority_date>
+  </taxon_identification>
+  <common_names>ROUGHLEAF RICEGRASS, WINTER GRASS, ORYZOPSIS A FEUILLES RUDES</common_names>
+  <description type="morphology">Culms 25-65 cm. Basal ligules 0.2-0.7 mm, rounded, sometimes longest at the sides; blades of basal leaves 30-90 cm long, 4-9 mm wide, flag leaf blades 8-12 mm. Panicles 3.5-13 cm, contracted. Glumes subequal, 5-7.5 mm long, 2.5-4 mm wide, 6-10-veined, apices mucronate; florets 5-7 mm; calluses 0.8-2 mm, blunt, distal portions with a dense ruff of soft hairs; lemmas coriaceous or indurate at maturity, pale green, white, or yellowish, sometimes purple-tinged, glossy or dull, pubescent at least basally, margins overlapping, concealing the paleas; awns 7-15 mm; paleas similar to the lemmas; anthers 2-4 mm, usually penicillate. Caryopses 4-6.5 mm. 2n = 46.</description>
+  <discussion>Oryzopsis asperifolia grows in both deciduous and coniferous woods, generally on open, rocky ground in areas with well-developed duff. It is found from the Yukon and Northwest Territories south to New Mexico along the Rocky Mountains, and from British Columbia east to Newfoundland and Maryland. It is listed as endangered or threatened in Indiana, Ohio, New Jersey, Maryland, and Virginia.
+Leaf development in Oryzopsis asperifolia is unusual in that the leaves start to develop in midsummer, the blades growing upright. As the year progresses, they bend over, but stay alive and green through winter and the following spring. The part of the sheaths that remains below the level of the duff is usually bright purple (Dore and McNeill 1980).
+</discussion>
+</bio:treatment>

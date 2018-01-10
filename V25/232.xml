@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Calamovilfa longifolia (Hook.) Scribn. </name_authority_date>
+  </taxon_identification>
+  <common_names>PRAIRIE SANDREED</common_names>
+  <description type="morphology">Rhizomes elongate, covered with shiny, coriaceous, scalelike leaves. Culms to 2.4 m. Sheaths 	glabrous to densely pubescent; 
+ligules 0.7-2.5 mm; blades to 64 cm long, about 12 mm wide. Panicles 15-78 cm long, 1.7-26.4 cm wide; branches to 	33 cm,
+erect to strongly divergent, lowermost branches sometimes reflexed. Spikelets 5-8.5 mm. Glumes straight; lower glumes 3.5-6.5 mm; upper glumes 5-8.2 mm; lemmas 4.5-7.1 mm, straight, glabrous; paleas 4.4-6.9 mm, glabrous. 2n = 40, ca. 60.
+</description>
+  <discussion>Calamovilfa longifolia usually grows in sand or sandy soils, but is occasionally found in clay soils or loess. Two geographically contiguous varieties exist. They differ as shown in the following key; the differ¬ences between the two are more striking in the field.
+</discussion>
+  <key>
+    <key_body>
+1. Most spikelets overlapping no more than 1 other spikelet, usually with a brownish cast  ..... var. magna
+1. Most spikelets overlapping 2-3 other spikelets, usually without a brownish cast   .....var. longifolia
+
+    </key_body>
+  </key>
+</bio:treatment>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Agropyron cristatum (L.) Gaertn. </name_authority_date>
+  </taxon_identification>
+  <common_names>CRESTED WHEATGRASS, AGROPYRON ACCRÊTÉ, AGROPYRON À CRÊTE</common_names>
+  <description type="morphology">Plants occasionally rhizomatous. Culms 25-110 cm, sometimes geniculate. Ligules to 1.5 mm; blades 1.5-6 mm wide, glabrous or pubescent. Spikes 1.3-10.5(15) cm long, 5-25 mm wide, narrowly to broadly lanceolate, rectangular, or ovate, sometimes tapering distally; internodes (0.2)0.7-5(8) mm, glabrous or pilose, sometimes all more or less equal, sometimes short and long internodes alternating within a spike, basal internodes often longer than those at midlength. Spikelets 7-16 mm, diverging at angles of 30-95° at maturity, with 3-6(8) florets. Glumes 3-6 mm, glabrous or with coarse hairs on the keels, acute, usually awned, awns 1.5-3 mm; lemmas 5-9 mm, glabrous or with hairs, keeled, keels sometimes scabrous distally, apices acute, usually awned, awns 1-6 mm; anthers 3-5 mm. 2n = 14, 28, 42.</description>
+  <discussion>Agropyron cristatum is native from central Europe and the eastern Mediterranean to Mongolia and China. According to Tsvelev (1976), the most widely distributed taxon outside the Soviet Union is A. cristatum subsp. pectinatum. Within the Flora region, the reticulate genetic history of crested wheatgrass and the absence of any native populations argue against attempting recognition of subspecies.
+Among the more commonly encountered variants of Agropyron cristatum in the Flora region are the cultivar 'Fairway', which was considered by Dillman (1946) and Dewey (1986) to belong to A. cristatum rather than A. desertcrum, and its derivatives 'Parkway' and 'Ruff. The name "Fairway" is also widely used in agricultural  
+circles to refer to any crested wheatgrass that looks like the cultivar 'Fairway'. "Standard" crested wheatgrass, which Dewey (1986) and others placed in A. desertorum, originally referred to a particular seed lot (S.P.I. 19537) that the Montana Wheatgrowers' Association decided to use as a standard against which to compare the performance of other crested wheatgrass strains. The term is now applied by agronomists to all crested wheatgrasses that are less leafy and have more lanceolate spikes than "Fairway" crested wheatgrasses. There are numerous cultivars of crested wheatgrass available.
+Because it is easy to establish, Agropyron cristatum has often been used to restore productivity to areas that have been overgrazed, burned, or otherwise disturbed. This ability, combined with its high seed production, tends to prevent establishment of most other species, both native and introduced.
+</discussion>
+</bio:treatment>

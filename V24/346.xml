@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Hordeum brachyantherum Nevski subsp. brachyantherum </name_authority_date>
+  </taxon_identification>
+  <common_names>MEADOW BARLEY, NORTHERN BARLEY, ORGE A ANTHERES COURTES, ORGE DES PRES</common_names>
+  <description type="morphology">Plants densely cespitose. Culms 30-95 cm, often robust, sometimes slender. Basal sheaths usually glabrous, sometimes sparsely pubescent; blades to 19 cm long, to 8 mm wide, both sides usually glabrous, sometimes with hairs to 0.5 mm on both surfaces. Glumes 7-17 mm, usually straight at maturity; lemmas usually awned, awns to 6.5 mm, usually straight at maturity; anthers 0.8-3.5 mm. 2n = 28, 42.</description>
+  <discussion>Hordeum brachy anther um subsp. brachyantherum grows in pastures and along streams and lake shores, from sea level to 4000 m. Its range extends from Kamchatka through western North America to Baja California, Mexico. It is also known from disjunct locations in Newfoundland and Labrador and the eastern United Sates. The latter are probably recent introductions; the Newfoundland populations are harder to explain. One population from California is known to be hexaploid.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Pleuropogon californicus (Nees) Benth. ex Vasey var. californicus </name_authority_date>
+  </taxon_identification>
+  <common_names>ANNUAL SEMAPHOREGRASS</common_names>
+  <description type="morphology">Plants annual or facultative perennials. Spikelets 15-30 mm. Lemmas usually awned, awns 5-11 mm, rarely unawned; paleal appendages 0.5-2.5 mm. 2n = 16.</description>
+  <discussion>Pleuropogon californicus var. californicus grows in vernal pools, marshy grasslands, orchards, and roadside ditches in California, from southern Humboldt County south to San Luis Obispo County, and east to Amador County.</discussion>
+</bio:treatment>

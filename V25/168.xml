@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>17.24</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>CLADORAPHIS Franch.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; synoecious; rhizomatous, occasionally also stoloniferous. Culms 2-80 cm, hard, persistent, branched above the base. Ligules membranous, ciliate, cilia as long as or longer than the basal membrane; blades linear-lanceolate, becoming rolled, hard, and sharp-pointed. Inflorescences terminal, exceeding the upper leaves, panicles of racemosely arranged spikelike primary branches; primary branches woody, not disarticulating, apices hard, sharp; secondary branches shorter than 1 cm, otherwise similar to the primary branches, sometimes clustered. Spikelets 7-16 mm, laterally compressed, with 3-16(20) florets; florets bisexual; disarticulation above the glumes and beneath the florets. Glumes more or less equal, markedly exceeded by the florets; lemmas 3-veined, unawned; lodicules 2; anthers 3. Caryopses glabrous, x = unknown. </description>
+  <discussion>Cladoraphis is a southern African genus of two species, both of which grow in open, xeric, sandy habitats.</discussion>
+</bio:treatment>

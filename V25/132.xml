@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Eragrostis pectinacea (Michx.) Nees var. pectinacea</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Pedicels appressed or diverging to 20° from the branch axes. Anthers 0.2-0.4 mm.</description>
+  <discussion>Eragrostis pectinacea var. pectinacea grows through¬out the range of the species, including most of the contiguous United States. Within the Flora region, it is most common in the eastern states and usually flowers from July-November.</discussion>
+</bio:treatment>

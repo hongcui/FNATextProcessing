@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>14</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sporobolus buckleyi grows between 0-150 m, in loamy soils near the margins of woods or thorn scrub, sometimes in partial sunlight. Its range extends from southeastern Texas to Belize.</name_authority_date>
+  </taxon_identification>
+  <common_names>CORAL DROPSEED</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 20-100 cm. Sheaths rounded below, distal margins and apices hairy, hairs to 3 mm; ligules 0.2-1.2 mm; blades 5-20 cm long, 3-8 mm wide, flat to loosely involute, glabrous abaxially, scabridulous adaxially, margins scabridulous. Panicles 10-25(35) cm long, 1-5 cm wide, usually some-what contracted, sometimes spikelike, often interrupted below; primary branches 0.7-7 cm, appressed or spreading to 30° from the rachis, spikelet-bearing to the base;  
+secondary branches appressed; pedicels 0.2-1.4 mm, appressed. Spikelets 1.6-2 mm, yellowish-green to grayish. Glumes unequal, linear-lanceolate to ovate, membranous; lower glumes 0.5-1.1 mm, usually without veins; upper glumes 1.1-2 mm, subequal to the lemmas; lemmas 1.1-2 mm, ovate, membranous, glabrous (occasionally minutely pubescent), acute; paleas 1-2 mm, ovate, membranous; anthers 2 or 3, 0.5-1 mm, yellowish or purplish. Fruits 0.7-1.1 mm, ellipsoid, laterally flattened, light brownish. 2n = unknown.
+</description>
+  <discussion>Sporobolus domingensis grows in sandy, rocky, or alkaline soils, often in disturbed sites adjacent to the coast and below 20 m. Its range extends to the Antilles and the Yucatan Peninsula, Mexico.</discussion>
+</bio:treatment>

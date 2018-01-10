@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Hordeum murinum subsp. leporinum (Link) Arcang. </name_authority_date>
+  </taxon_identification>
+  <common_names>MOUSE BARLEY</common_names>
+  <description type="morphology">Plants winter annuals. Culms 30-110 cm. Leaves green. Spikes green at anthesis, often more or less purple just before maturity. Central floret pedicellate; lemmas and awns shorter than those of the lateral florets; anthers 0.9-3 mm. Lateral spikelets: paleas scabrous on the lower 1/2; anthers 1.2-3.2 mm; rachillas about 0.25 mm, pale. 2n = 14, 28, 42.</description>
+  <discussion>Hordeum murinum subsp. leporinum grows in waste places, roadsides, and disturbed areas in arid regions. It is native to the Mediterranean region. It is now established in the Flora region, being most common in the western United States. A hexaploid cytotype has been found in Turkey, Armenia, Turkmenistan, and Iran. It has been named H. leporinum var. simulans Bowden. It is treated here as part of H. murinum subsp. leporinum.</discussion>
+</bio:treatment>

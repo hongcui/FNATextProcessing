@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>James P. Smith, Jr.</author>
+    </source>
+  </meta>
+  <number>10.01</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>AMPELODESMOS Link</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, rhizomatous. Culms 60-350 cm, annual, internodes solid. Leaves mostly basal; cleistogenes not developed; prophylls shorter than the sheaths; sheaths open; ligules membranous, ciliate; blades initially flat, becoming involute, bases becoming indurate and curved. Inflorescences panicles, loosely contracted, somewhat 1-sided. Spikelets pedicellate, laterally compressed, with 2-6 florets; rachillas hairy, hairs 2-3 mm, prolonged beyond the distal florets; disarticulation above the glumes and beneath the florets. Glumes subequal, more than 1/2 as long as the adjacent lemmas, scarious or chartaceous, 3-5-veined, awn-tipped; florets 10-12 mm; calluses 0.2-0.5 mm, rounded, strigose; lemmas coriaceous, smooth, 5-7-veined, mostly glabrous, hairy over and adjacent to the basal 1/2 of the midvein, hairs 1-2 mm, apices bidentate or bilobed, mucronate or awned from the sinuses, lemma-awn junction not conspicuous; paleas subequal to the lemmas, 2-keeled, keels extending as teeth, flat between the keels; lodicules 3, lanceolate, membranous, ciliate; anthers 3, 6-8 mm; ovaries pubescent distally; styles 2, white. Caryopses fusiform, subterete, grooved adaxially, not ribbed; hila linear; starch grains simple, x = 12. </description>
+  <discussion>Ampelodesmos is a monospecific, xerophytic genus that is native to the Mediterranean. It is now established in California. It is somewhat similar in overall shape to Cortaderia, but differs in its membranous ligules, drooping and somewhat one-sided panicles, and deeply ribbed leaves.
+Ampelodesmos was initially included in the Stipeae by Decker (1964), who was struck by the similarity of its leaf cross sections to those of some members of the Stipeae. Other characteristics it shares with at least some members of the Stipeae are its 3 lodicules, relatively small chromosomes, pubescent ovaries, and deeply ribbed leaves. Molecular data also support its inclusion in the Stipeae (Soreng and Davis 1998; Hsiao et al. 1999; Jacobs et al. 2006). It is anomalous within the Stipeae in having more than one floret per spikelet and prolonged rachillas.
+</discussion>
+  <references>Decker, H.F. 1964. Affinities of the grass genus Ampelodesmos. Brittonia 16:76-79; Hsiao, C, S.W.L. Jacobs, N.J. Chatterton, and K.H. Asay. 1999. A molecular phylogeny of the grass family (Poaceae) based on the sequences of nuclear ribosomal DNA (ITS). Austral. Syst. Bot. 11:667-688; Jacobs, S.W.L., R. Bayer, J. Everett, M.O. Arriaga, M.E. Barkworth, A. Sabin-Badereau, M.A. Torres, F. Vazquez, and N. Bagnall. 2006. Systematics of the tribe Stipeae using molecular data. Aliso 23:349-361; Soreng, R.J. and J.I. Davis. 1998. Phylogenetics and character evolution in the grass family (Poaceae): Simultaneous analysis of morphological and chloroplast DNA restriction site character sets. Bot. Rev. 64:1-88.</references>
+</bio:treatment>

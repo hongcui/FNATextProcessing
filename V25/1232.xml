@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Panicum capillare subsp. hillmanii (Chase) Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms often stout and stiff, usually bluish-green, usually not branching at the base. Blades thick, firm. Panicle branches stiff; secondary branches and pedicels usually appressed, varying to narrowly divergent. Spikelets 2.2-3 mm. Lower paleas 1-1.8 mm; mature upper florets nigrescent, with a prominent lunate scar at the base.</description>
+  <discussion>Panicum capillare subsp. hillmanii grows in weedy habitats in California, New Mexico, Iowa, Kansas, Oklahoma, and Texas. It may be a southern Great Plains extension of the western plants of subsp. capillare that are sometimes called P. capillare var. occidentale Rydb., but it differs from subsp. capillare in more characters than such plants.</discussion>
+</bio:treatment>

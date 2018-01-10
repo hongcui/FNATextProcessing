@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subgenus</rank>
+    <name_authority_date>Poa L. subg. Poa</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; sometimes unisexual; with or without rhizomes or stolons, densely to loosely tufted or the culms solitary. Basal branching intra- and/or extravaginal or pseudointravaginal. Culms spindly to stout, terete or weakly to strongly compressed; nodes 0-5, exserted. Sheaths terete or weakly to strongly compressed, closed only at the base or up to full length, fusion of the margins not extended by a hyaline membrane, basal sheaths usually glabrous, rarely sparsely retrorsely strigose, hairs about 0.1 mm; ligules 0.1-18 mm, thinly membranous and white to milky white or hyaline, truncate to acuminate, entire or erose to lacerate, smooth or ciliolate; blades flat, folded, or involute, thin to thick, smooth or sparsely to densely scabrous, adaxial surfaces glabrous or hairy, hispidulous or puberulent, apices narrowly to broadly prow-shaped. Panicles 1-41 cm, erect to nodding or lax, tightly contracted to open, with 1-100+ spikelets; branches 0.5-20 cm, erect to reflexed, terete or angled, smooth or sparsely to densely scabrous, usually glabrous, rarely hispidulous, with 1 to many spikelets. Spikelets 2-12 mm, subterete to strongly laterally compressed, sometimes bulbiferous; florets (1)2-8(13); rachilla internodes smooth or scabrous, glabrous or pubescent. Glumes shorter than to slightly exceeding the adjacent lemmas, weakly to distinctly keeled, smooth or scabrous; calluses blunt, usually terete or slightly laterally compressed, sometimes slightly dorsally compressed, glabrous, dorsally webbed, diffusely webbed, or with a crown of hairs; lemmas 1.7-11 mm, rounded to weakly or distinctly keeled, thinly membranous to chartaceous, glabrous or hairy on the keel and veins, sometimes the intercostal regions also hairy, 5-7(11)-veined, margins smooth or scabrous, glabrous, apices obtuse to acuminate; palea keels usually scabrous, infrequently smooth, glabrous or with hairs; anthers (1-2)3, 0.1-4.5(5) mm.</description>
+  <discussion>Poa subg. Poa is the largest subgenus of Poa. Its distribution is essentially the same as that of the genus. It includes all but one of the 70 species of Poa in the Flora region; P. etninens is included in subg. Arctopoa.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>35</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum virletii E. Fourn. </name_authority_date>
+  </taxon_identification>
+  <common_names>VIRLET'S PASPALUM</common_names>
+  <description type="morphology">Plants perennial; cespitose. Culms 40-75 cm, erect, not swollen at the base; nodes pubescent. Sheaths pubescent; blades to 15 cm long, 5-10 mm wide, flat, pubescent. Panicles terminal, with 3-8 racemosely arranged branches; branches 2-7 cm, spreading, terminating in a spikelet; branch axes narrow, sparsely pubescent. Spikelets 2-2.5 mm long, 1.4-1.6 mm wide, paired, imbricate, appressed to the branch axes, ovate. Lower glumes absent; upper glumes shortly pubescent, 3-veined, margins entire; lower lemmas glabrous, lacking ribs over the veins, 3-veined, margins entire; upper florets pale to stramineous or golden brown. 2n = unknown.</description>
+  <discussion>Paspalum virletii grows in dry, sandy soils in disturbed habits. It is known only from Arizona, where it is considered a rare species, and from Mexico, where it also appears to be either rare or poorly collected (COTECOCA 2000).</discussion>
+</bio:treatment>

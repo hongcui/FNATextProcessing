@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>15</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Leymus innovatus (Beal) Pilg. </name_authority_date>
+  </taxon_identification>
+  <common_names>DOWNY RYEGRASS, BOREAL WILDRYE</common_names>
+  <description type="morphology">Plants sometimes cespitose, strongly rhizomatous. Culms 18-105 cm tall, 2-3 mm thick. Leaves exceeded by the spikes; sheaths glabrous or hairy, often most densely hairy in the collar region; auricles to 1.4 mm; ligules 0.1-0.5 mm; blades 2-6 mm wide, involute, abaxial surfaces scabridulous or smooth, adaxial surfaces scabrous, occasionally with scattered hairs to 1.5 mm, veins unequal, not crowded. Spikes 3-16 cm long, 8-20 mm thick, erect, usually well exserted, with 2-3 spikelets per node; internodes 4-6 mm, hairy throughout, edges with hairs to 2.5 mm. Spikelets 10-18 mm, with 3-7 florets. Glumes often unequal, sometimes absent, 2.5-12 mm long, 0.5-1 mm wide, hairy, stiff, keeled, the central portion thicker than the margins, bases not overlapping, tapering from near the base to the subulate apices, 0-l(3)-veined, veins inconspicuous at mid-length; calluses hairy; lemmas 7-12 mm, usually conspicuously villous or velutinous, occasionally glab-rate, hairs 0.7-2.5 mm, awned, awns 2-4 mm; anthers 3.5-10 mm, dehiscent. 2n = 28, 56.</description>
+  <discussion>Leymus innovatus is a North American species that grows in open woods and forests, riverbanks, open prairies, and rocky soils, and often in sandy, gravelly, or silty soils, primarily from northern Alaska to Hudson Bay, and south into the Black Hills region of Wyoming and South Dakota. Morphologically, the two subspecies show some overlap. Bowden recognized them in part because of their difference in ploidy level.</discussion>
+  <key>
+    <key_body>
+1. Spikes 8-16 cm long, 8-15 mm wide; lemma hairs 0.7-2.5 mm long .....subsp. innovatus
+1. Spikes 3-8 cm long, 15-20 mm wide; lemma hairs 1.5-2.5 mm long  .....subsp. velutinus
+
+    </key_body>
+  </key>
+</bio:treatment>

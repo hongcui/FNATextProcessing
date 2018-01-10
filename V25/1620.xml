@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Schizachyrium sanguineum (Retz.) Alston </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose. Culms 40-120 cm, erect, not rooting or branching at the lower nodes, glabrous. Sheaths glabrous, rounded; ligules 0.7-2 mm; blades 7-20 cm long, 1-6 mm wide, usually with long, papillose-based hairs basally, glabrous elsewhere, sometimes scabrous, without a longitudinal stripe of white, spongy tissue. Peduncles 4-6 cm; rames 4-15 cm, not open, usually almost fully exserted at maturity; internodes 4-6 mm, straight, from mostly glabrous with a tuft of hairs at the base to densely hirsute all over. Sessile spikelets 5-9 mm; calluses 0.5-1 mm, hairs to 2 mm; lower glumes glabrous or densely pubescent; upper lemmas cleft for (2/3)3/4-7/8 of their length; awns 15-25 mm. Pedicels 3-6 mm long, 0.3-0.5 mm wide at the base, gradually widening to about 0.6-0.8 mm at the top, straight. Pedicellate spikelets 3-5 mm, usually evidently shorter than the sessile spikelets, sterile or staminate, awned, awns 0.3-6 mm. </description>
+  <discussion>Schizachyrium sanguineum extends from the southern United States to Chile, Paraguay, and Uruguay.</discussion>
+  <key>
+    <key_body>
+1. Lower glumes of the sessile spikelets glabrous or scabrous; pedicels ciliate on 1 edge ..... var. sanguineum
+1. Lower glumes of the sessile spikelets pubescent to hirsute; pedicels ciliate on both edges ..... var. hirtiflorum
+
+    </key_body>
+  </key>
+</bio:treatment>

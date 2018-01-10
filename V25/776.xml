@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>61</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia dubia E. Fourn. </name_authority_date>
+  </taxon_identification>
+  <common_names>PINE MUHLY</common_names>
+  <description type="morphology">Plants perennial; densely cespitose, not rhizomatous. Culms 30-100 cm, erect, rounded near the base, not rooting at the lower nodes; internodes glabrous for most of their length, minutely pubescent to hirtellous below the nodes. Sheaths longer than the internodes, smooth or scabridulous, not becoming spirally coiled when old; ligules 4-10 mm, membranous, firm, acute, lacerate; blades 10-60 cm long, 1-2 mm wide, usually involute (occasionally flat), scabrous abaxially, hispidulous adaxially. Panicles 10-40 cm long, 0.6-2.4 cm wide, contracted, grayish-green; primary branches 0.2-7 cm, diverging up to 40° from the rachises, stiff, spikelet-bearing to the base; pedicels 0.1-6 mm, strongly divergent, hispidulous. Spikelets 3.8-5 mm, grayish-green. Glumes equal, (1.8)2-3 mm, shorter than the florets, glabrous and smooth proximally, scabridulous distally, faintly 1-veined, acute; lemmas 3.8-5 mm, narrowly lanceolate, calluses hairy, hairs to 0.5 mm, lemma bodies glabrous and smooth below, scabrous distally, apices acuminate, unawned or awned,  
+awns to 6 mm, straight; paleas 3.8-5 mm, narrowly lanceolate, glabrous below, acuminate; anthers 1.5-2.2 mm, greenish. Caryopses 2.5-3.5 mm, fusiform, brownish. 2n = 40, 50.
+</description>
+  <discussion>Muhlenbergia dubia grows on steep slopes, ridge tops, limestone rock outcrops, and along draws, at elevations of 1500-2300 m. Its range extends into northern Mexico. It resembles M. rigens, but differs in having looser, contracted (but not spikelike) panicles, longer ligules, olivaceous anthers, and generally longer lemmas.</discussion>
+</bio:treatment>

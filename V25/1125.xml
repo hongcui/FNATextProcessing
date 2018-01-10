@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>J.K. Wipff</author>
+    </source>
+  </meta>
+  <number>25.08</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>SACCIOLEPIS Nash</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; rhizomatous, stoloniferous, or cespitose. Culms 5-150 cm, not woody, branched above the base; internodes hollow. Leaves cauline; auricles sometimes present; ligules membranous, sometimes ciliate; blades flat or rolled, with or without cross venation. Inflorescences terminal, usually contracted, dense panicles, distal 1/2 of the rachises concealed by the spikelets; branches fused to the rachises or free and appressed to ascending; pedicels with discoid apices; disarticulation below the glumes and below the upper florets. Spikelets bisexual, with 2 florets, rounded to acute; rachilla segments not swollen. Glumes unequal, prominently veined, unawned; lower glumes 3-7-veined; upper glumes as long as or exceeding the upper florets, distinctly saccate or gibbous, 5-13-veined; lower florets 0.8-1.9 mm, sterile or staminate, less than 1/2 as long as the spikelets; lower lemmas resembling the upper glumes but not saccate, sometimes with a transverse row of hairs, 5-9-veined, unawned; lower paleas present or absent, 0-2-veined; upper lemmas subcoriaceous to subindurate, dorsally compressed, glabrous, smooth, margins inrolled or flat, never hyaline, faintly 3-5-veined; upper paleas similar to the lemmas, 2-veined; lodicules 2, fleshy, glabrous, x = 9. </description>
+  <discussion>Sacciolepis is a genus of 30 species. It is represented throughout the tropics and subtropics, primarily in Africa. Two species grow in the Flora region. One is native; the other is an introduction that has become established. Most species grow along and in ponds, lakes, streams, ditches, and other moist areas. The prominently multi-veined, saccate upper glumes and contracted panicles distinguish Sacciolepis from all other grasses in the Flora region.</discussion>
+  <references>Judziewicz, E.J. 1990. A new South American species of Sacciolepis (Poaceae: Panicoideae: Paniceae), with a summary of the genus in the New World. Syst. Bot. 15:415-420; Simon, B.K. 1972. A revision to the genus Sacciolepis (Gramineae) in the "Flora Zambesiaca" area. Kew Bull. 27:387-406.</references>
+  <key>
+    <key_body>
+1. Primary branches fused to the rachises for at least 3/4 of their length; lower branches 0.1-0.5 cm long; upper glumes 9-veined; paleas of the lower florets 0.5-1 mm long, to 1/2 as long as the lower lemmas  .....1.5. indica
+1. Primary branches ascending, free from the rachises; lower branches 0.4-11.5 cm long; upper glumes 11(12)-veined; paleas of the lower florets 2-4 mm long, 3/4 to almost as long as the lower lemmas.....2. S. striata
+ 
+
+    </key_body>
+  </key>
+</bio:treatment>

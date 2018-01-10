@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Dichanthelium dichotomum subsp. microcarpon
+(Muhl. ex Elliott) Freckmann & Lelong
+</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 30-100 cm, slender, erect or geniculate; fall phase freely branching from all nodes, reclining from masses of branchlets and numerous reduced, ciliate blades and secondary panicles; nodes conspicuously bearded with retrorse hairs. Sheaths usually glabrous, lowermost sheaths sometimes sparsely pubescent, occasionally with whitish spots between the veins, ciliate along the margins; blades 5-14 cm long, 5-14 mm wide, thin, spreading to reflexed, glabrous on both surfaces, bases with few to many papillose-based cilia. Panicles 5-12 cm, well-exserted, dense. Spikelets 1.5-1.8 mm, usually glabrous, rarely slightly pubescent. Lower glumes usually less than 14 as long as the spikelets; upper glumes usually shorter than the lower lemmas; upper florets 1.3-1.6 mm long, 0.6-0.8 mm wide, subacute. 2n = 18.</description>
+  <discussion>Dichanthelium dichotomum subsp. microcarpon grows in wet woods, swamps, and wetland borders. It is a widespread subspecies, extending from southern Michigan to Massachusetts and south to eastern Oklahoma and Texas and throughout the southeast to central Florida.</discussion>
+</bio:treatment>

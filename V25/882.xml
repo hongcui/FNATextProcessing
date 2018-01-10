@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bouteloua gracilis (Kunth) Lag. ex Griffiths </name_authority_date>
+  </taxon_identification>
+  <common_names>BLUE GRAMA, EYELASH GRASS</common_names>
+  <description type="morphology">Plants perennial; usually densely cespitose, often with short, stout rhizomes. Culms 24-70 cm, not woody basally, erect, geniculate, or decumbent and rooting at the lower nodes, not branched from the aerial nodes; nodes usually 2-3, glabrous or puberulent; lower internodes glabrous. Leaves mainly basal; sheaths glabrous or sparsely hirsute; ligules 0.1-0.4 mm, of hairs, often with marginal tufts of long hairs; blades 2-12(19) cm long, 0.5-2.5 mm wide, flat to involute at maturity, hairs usually present basally. Panicles with 1-3(6) branches, these racemose on 2-8.5(12.5) cm rachises or digitate; branches 13-50(75) mm, persistent, arcuate, scabrous, without papillose-based hairs, with 40-130 spikelets, terminating in a spikelet; disarticulation above the glumes. Spikelets pectinate, with 1 bisexual and 1 rudimentary floret. Glumes mostly glabrous or scabrous, midveins sometimes with papillose-based hairs; lower glumes 1.5-3.5 mm; upper glumes 3.5-6 mm; lowest lemmas 3.5-6 mm, pubescent at least basally, 5-lobed, central and lateral lobes veined and awned, awns 1-3 mm, central awns flanked by 2 membranous lobes; lower paleas about 5 mm, shallowly bilobed, veins excurrent for less than 1 mm; rachilla segments subtending second florets with a distal tuft of hairs; anthers 1.7-2.9 mm, yellow or purple; upper florets sterile, 0.9-3 mm, lobed almost to the base, lobes rounded, 3-awned, awns equal, 1-3 mm. Caryopses 2.5-3 mm long, about 0.5 mm wide. 2n = 20, 28, 35, 40, 42, 60, 61, 77, 84.</description>
+  <discussion>Bouteloua gracilis grows in pure stands in mixed prairie associations and disturbed habitats, usually on rocky or clay soils and mainly at elevations of 300-3000 m. Its native range extends from Canada to central Mexico; records from the eastern portion of the Flora represent introductions.
+Bouteloua gracilis is an important native forage species and also an attractive ornamental.
+</discussion>
+</bio:treatment>

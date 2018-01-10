@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bambusa vulgaris Schrad. ex J.C. Wendl. </name_authority_date>
+  </taxon_identification>
+  <common_names>COMMON BAMBOO</common_names>
+  <description type="morphology">Plants forming moderately loose clumps, without thorny branches. Culms 10-20 m tall, 4-10 cm thick, erect, sinuous or slightly flexuous; nodes slightly inflated, flaring at the pubescent sheath scar; internodes 20-45 cm, glossy green, yellow, yellow with green stripes, or green with yellowish green stripes, all similar or the basal internodes swollen and shorter than those above. Branches developing from the midculm nodes and above, occasionally also at the lower nodes, several to many branches per node, branchlets of the lower branches not thornlike. Culm leaves promptly deciduous, with dense, appressed, brown pubescence, lower sheaths broader than long, apices broader than the base of the blades; auricles well developed, to 5 cm long and 1.5 cm wide, equal, ovoid to falcate-spreading, dark; fimbriae to 15 mm, dense, wavy, light; blades 4-5 cm long, 5-6 cm wide, appressed to the culm, usually persistent, triangular, abaxial surfaces glabrous, adaxial surfaces densely dark pubescent towards the base, basal margins ciliate or with stiff hairs; ligules about 3 mm, shortly ciliate. Foliage leaves: sheaths glabrous to sparsely hispidulous; ligules 0.5-1.5 mm, glabrous, truncate, entire; auricles 0.5-1.5 mm, falcate, hardened, persistent; fimbriae few, 0.5-1.5 mm, spreading; blades 6-30 cm long, 1-4 cm wide, glabrous, abruptly acuminate. Pseudospikelets 12-35 mm, with 5-10 florets, always strongly grooved along the center, appearing 2-cleft. 2n = 64.</description>
+  <discussion>Bambusa vulgaris probably originated in tropical Asia. It is now the most widely cultivated tropical bamboo, largely because of the ease with which the branches and culm sections take root. Many different cultivars exist, including forms with variously green and yellow-striped culms which are sometimes placed in distinct varieties or even species. 'Wamin' is a cultivated form with ventricose to very short, concertina-like internodes. Like B. tuldoides 'Buddha's-Belly', plants of B. vulgaris 'Wamin' can develop abbreviated internodes when grown in pots or under extreme environmental conditions; they readily return to normal growth when these conditions are ameliorated.</discussion>
+</bio:treatment>

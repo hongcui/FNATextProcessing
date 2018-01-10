@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Opizia stolonifera J. Presl </name_authority_date>
+  </taxon_identification>
+  <common_names>ACAPULCO GRASS</common_names>
+  <description type="morphology">Culms erect or geniculate. Sheaths mostly glabrous, often with a few hairs on either side of the collar; ligules 1-1.5 mm; blades to 10 cm long, 2-3 mm wide, glabrous abaxially, mostly glabrous or scabrous adaxially, midveins often with a few hairs. Staminate culms 5-15(30) cm; panicles with 1-6 branches; branches 0.5-2 cm; spikelets 3-4 mm, glabrous; anthers 2-2.5 mm, pale. Pistillate culms to 10 cm; spikes with 6-12 spikelets (lower nodes sometimes with short branches); pistillate spikelets 2.8-4 mm; glumes to 3 mm; lemma bodies 2-2.5 mm, 3-lobed and 3-awned, awns 3.4-6.8 mm; palea keels exceeding the lemmas; rudiment 3-awned. 2n = unknown.</description>
+  <discussion>Opizia stolonifera grows along dry roadsides in Florida. No pistillate plants have been found in the Flora region.</discussion>
+</bio:treatment>

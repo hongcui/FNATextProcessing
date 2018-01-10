@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sporobolus compositus (Poir.) Merr. </name_authority_date>
+  </taxon_identification>
+  <common_names>ROUGH DROPSEED, SPOROBOLE RUDE</common_names>
+  <description type="morphology">Plants perennial; cespitose, some¬times rhizomatous. Culms (20)30-130(150) cm. Sheaths with sparsely hairy apices, hairs to 3 mm; ligules 0.1-0.5 mm; blades not conspicuously distichous, 5-70 cm long, 1.5-10 mm wide, flat, folded, or invo¬lute, abaxial surface glabrous or pilose, adaxial surface glabrous or scabridulous, margins glabrous. Panicles terminal and axillary, 5-30 cm long, 0.4-1.6 cm wide, usually spikelike, partially included in the uppermost sheath, with 15-90 spikelets per cm2 (exposed portion, when pressed); lower nodes with 1-2(3) branches; primary branches 0.4-6 cm, appressed, spikelet-bearing to the base; secondary branches appressed; pulvini glabrous; pedicels 0.3-3.5 mm, appressed, glabrous or scabridulous. Spikelets 4-6(10) mm, stramineous to purplish-tinged. Glumes subequal, lanceolate, membranous to chartaceous, midveins usually greenish; lower glumes (1.2)2-4 mm; upper glumes (2)2.5-5(6) mm, slightly shorter or longer than the lemmas; lemmas (2.2)3-6(10) mm, lanceolate, membranous to chartaceous and hyaline, glabrous, smooth, occasionally 2- or 3-veined, acute to obtuse; paleas (2.2)3-6(10) mm, ovate to lanceolate, membranous; anthers 0.2-3.2 mm, yellow to orangish. Fruits 1-2 mm, ellipsoid, laterally flattened, often striate, reddish-brown; pericarps gelatinous, slipping from the seeds when wet. 2n = 54, 88, 108.</description>
+  <discussion>Sporobolus compositus grows along roadsides and railroad right of ways, on beaches, and in cedar glades, pine woods, live oak-pine forests, prairies, and other partially disturbed, semi-open sites at 0-1600 m. Its range lies entirely within the Flora region.
+The Sporobolus compositus complex is a difficult assemblage of forms, perhaps affected by their primarily autogamous breeding system (Riggins 1977). Asexual proliferation via rhizomes adds to the species' ability to maintain local population structure and to perpetuate unique character combinations.
+</discussion>
+  <key>
+    <key_body>
+1. Rhizomes present.....var. macer
+1. Rhizomes absent.
+2. Culms slender, 1-2(2.5) mm thick; upper sheaths usually less than 2.5 mm wide; panicles with 16-36 spikelets per cm2 when pressed   .....var. drummondii
+2. Culms stout, 2-5 mm thick; upper sheaths usually 2.6-6 mm wide; panicles with 30-90 spikelets per cm2 when pressed.....var. compositus
+
+    </key_body>
+  </key>
+</bio:treatment>

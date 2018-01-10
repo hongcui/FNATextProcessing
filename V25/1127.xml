@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sacciolepis striata (L.) Nash </name_authority_date>
+  </taxon_identification>
+  <common_names>AMERICAN CUPSCALE</common_names>
+  <description type="morphology">Plants perennial; with or without rhizomes. Culms 80-150 cm, erect or decumbent, sprawling, trailing, often rooting at the lower nodes; nodes glabrous or pubescent. Sheaths mostly glabrous or with papillose-based hairs, margins sometimes ciliate; collars pubescent adaxially, usually glabrous abaxially, margins ciliate; ligules 0.2-0.7 mm, membranous, ciliate; blades (2.3)4-28.5 cm long, 2.9-22 mm wide, glabrous or with papillose-based hairs, bases cordate, margins ciliate basally. Panicles 3-29.5 cm long, 0.7-3.1 cm wide, contracted; branches ascending to appressed, not fused to the rachises; lower branches (0.4)1-11.5 cm; pedicels 0.1-5.1 mm. Spikelets 2.9-5 mm, green (occasionally mostly purple), tips of the upper glumes and the sterile lemmas dark purple. Lower glumes 0.8-1.7 mm, 3-5-veined, margins hyaline; upper glumes 2.9-4.8 mm, conspicuously saccate, 11(12)-veined, sparsely puberulent in the distal 1/3, obtuse to acute; lower florets staminate; lower lemmas 2.8-4.9 mm, 5-7-veined, veins unequally spaced, lateral veins near the margin, margins hyaline and usually overlapping the palea distally; lower paleas 2-4 mm long, 0.8-1 mm wide, 3/4 to almost equaling the lower lemmas; anthers 3, 1.1-1.7 mm, yellow to yellow-red to purple; upper lemmas 1.5-2 mm, subcoriaceous, shiny, white, glabrous, with 5 obscure veins, rounded to truncate, margins membranous, not inrolled over the paleas, scabridulous; upper paleas similar to the lemmas; anthers 3, 0.7-1 mm, yellow; styles purple. Caryopses 1-1.3 mm long, 0.7-0.9 mm wide, glabrous. 2n = 36.</description>
+  <discussion>Sacciolepis striata is native to the southeastern United States and the West Indies, and from the Guianas to Venezuela and Amapa, Brazil. It grows along and in ponds, lakes, streams, and ditches, and flowers in late summer to fall.</discussion>
+</bio:treatment>

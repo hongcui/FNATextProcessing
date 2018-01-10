@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aegilops cylindrica Host </name_authority_date>
+  </taxon_identification>
+  <common_names>JOINTED GOATGRASS</common_names>
+  <description type="morphology">Culms 14-50 cm, erect to decumbent at the base, usually with many tillers. Sheaths with hyaline margins, sometimes ciliate; blades 3-15 cm long, 2-5 mm wide. Spikes 2.2-12 cm long, about 0.3 cm wide, narrowly cylindrical, 10-45 times longer than wide, with (2)3-8(12) fertile spikelets; rudimentary spikelets absent or 1-2; disarticulation initially at the base of the spikes and secondarily in the rachises, the spikelets remaining attached to the internodes above. Fertile spikelets 9-12 mm, narrowly cylindrical, scabrous or pubescent, with 3-5 florets, the lower (1)2-3 florets fertile. Glumes of fertile spikelets awned, awns of the lower spikelets 2-5 mm; glumes of apical spikelets 7-9 mm, scabrid, awned, awns 3-6 cm, usually flanked by 2 lateral teeth; lemmas of lower fertile spikelets 9-10 mm, adaxial surfaces velutinous distally, apices mucronate or awned, awns 0.1-0.5 cm; lemmas of apical spikelets 1-awned, awns (2)4-8 cm, flanked by 2 teeth. Caryopses 6-7 mm, adhering to the lemmas and paleas. Haplomes DC. 2n = 28.</description>
+  <discussion>Aegilops cylindrica is a widespread weed in North America, being particularly troublesome in winter wheat. It usually grows in disturbed sites, such as roadsides, fields, and along railroad tracks. It is native to the Mediterranean region and central Asia, and is adventive in other temperate countries. Its apparent absence from Canada is somewhat remarkable.
+Hybrids between Aegilops cylindrica and Triticum aestivum, called xAegilotriticum sancti-andreae (Degen) Soo [p. 266], have been found in various parts of North America. They often have a few functional seeds which, on maturing into reproductive plants, can backcross to either parent. For this reason, A. cylindrica is considered a serious weed in many wheat-growing areas within the Flora region.
+</discussion>
+</bio:treatment>

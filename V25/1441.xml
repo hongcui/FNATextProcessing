@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Charles M. Allen </author>
+      <author>David W. Hall</author>
+    </source>
+  </meta>
+  <number>25.26</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>PASPALUM L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; cespitose, rhizomatous, or stoloniferous. Culms 3-400 cm, erect, spreading or prostrate, sometimes trailing for 200+ cm. Sheaths open; auricles sometimes present; ligules membranous. Inflorescences terminal, sometimes also axillary, panicles of 1-many spikelike branches, these digitate or racemose on the rachis, spreading to erect, 1 or more branches completely or partially hidden in the sheaths in some species; branch axes flattened, usually narrowly to broadly winged, usually terminating in a spikelet, sometimes extending beyond the distal spikelet but never forming a distinct bristle; disarticulation below the glumes. Spikelets subsessile to shortly pedicellate, plano-convex, rounded to acuminate, dorsally compressed, not subtended by bristles or a ringlike callus, solitary or paired (1 spikelet of the pair reduced in some species), in 2 rows along 1 side of the branches, with 2 florets, first rachilla segment not swollen, upper glumes and upper lemmas adjacent to the branch axes; lower florets sterile; upper florets sessile or stipitate, bisexual, acute or rounded. Lower glumes absent or present only on some spikelets of each branch, without veins or 1-veined, unawned; upper glumes and lower lemmas subequal, membranous, apices rounded, unawned; lower paleas absent or rudimentary; upper lemmas convex, indurate, smooth to slightly rugose, stramineous to dark brown, margins scarious, involute, clasping the paleas; upper paleas indurate, smooth to slightly rugose, stramineous to dark brown. Caryopses orbicular to elliptical, plano-convex or flattened, white, yellow, or brown, x = 10, 12. </description>
+  <discussion>Paspalum includes 300-400 species, most of which are native to the Western Hemisphere. Forty-three species are found in the Flora region; twenty-four are native. Paspalum scrobiculatum is grown as a grain in India, and several species are grown as forage plants. There are also many weedy species in the genus. Nineteen of the species growing in the Flora region are introduced, and some of them are weedy. Because weeds are under-represented in most herbaria, the distribution maps of such species probably understate their prevalence.</discussion>
+  <references>Banks, D.J. 1966. Taxonomy of Paspalum setaceum (Gramineae). Sida 2:269-284; COTECOCA (Comision Tecnico Consultiva de Coeficientes de Agostadero). 2000. Las Gramineas de Mexico, vol. 5. Secretaria de Agricultura, Ganaderia y Desarrollo Rural, Mexico, D.F., Mexico. 466 pp.; Pohl, R.W. and G. Davidse. 1994. Paspalum L. Pp. 335-352 in G. Davidse, M. Sousa S., and A.O. Chater (eds.). Flora Mesoamericana, vol. 6: Alismataceae a Cyperaceae. Instituto de Biologia, Universidad Nacional Autonoma de Mexico, Mexico, D.F., Mexico. 543 pp.</references>
+  <key>
+    <key_body>
+1. Spikelets solitary, not associated with a naked pedicel or rudimentary spikelets. 
+2. Panicles with 1-70 branches, if more than 1, the branches racemosely arranged.
+3. Branches 7-70, disarticulating at maturity, the axes extending beyond the distal spikelets .....1. P. repens
+3. Branches 1-6, persistent, terminating in a spikelet.
+4. Upper florets olive to dark brown.....2. P. scrobiculatum
+4. Upper florets pale to stramineous.
+5. Axes of panicle branches 0.6-1.3 mm wide.....3. P. laeve
+5. Axes of panicle branches 1.8-3.3 mm wide.
+6. Spikelets 1.7-2.1 mm long; upper lemmas glabrous throughout   .....4. P. dissectum
+6. Spikelets 3.2-4 mm long; upper lemmas with a few short hairs at the apices .....5. P. acuminatum 
+2. Panicles usually composed of a terminal pair of branches, sometimes with l(-5) additional branches below the terminal pair. 
+7. Upper glumes pilose on the margins or shortly pubescent on the back.
+8. Spikelets 1.3-1.9 mm long; upper glumes pilose along the margins   .....6. P. conjugatum
+8. Spikelets 2.4-3.2 mm long; upper glumes sparsely short pubescent on the back.....7. P. distichum
+7. Upper glumes glabrous.
+9. Spikelets elliptic, their apices acute to acuminate.
+10. Plants rhizomatous, not appearing cespitose; usually in brackish to salt marsh habitats .....8. P. vaginatum
+10. Plants shortly rhizomatous but appearing cespitose; usually in disturbed inland habitats ...... P. almum
+9. Spikelets ovate to broadly elliptic, their apices obtuse to broadly acute.
+11. Spikelets 2.5-4 mm long; leaf blades flat or conduplicate.....10. P. notatum
+11. Spikelets 1.9-2.3 mm long; leaf blades flat   .....11. P. minus
+1. Spikelets paired, if only 1 spikelet functional, a naked pedicel or rudimentary, non-functional spikelet present. 
+12. Spikelets 1-1.3 mm long.
+13. Panicle branches 2-6; spikelets elliptic to elliptic-obovate, appressed to the branch axes  .....12. P. blodgettii
+ 
+13. Panicle branches 18-50; spikelets ovate, diverging from the branch axes.....13. P. paniculatum
+12. Spikelets 1.3-4.1 mm long.
+14. Margins of upper glumes and lower lemmas ciliate-lacerate and winged or pilose.
+15. Upper glumes and lower lemmas ciliate-lacerate, winged   .....14. P. fimbriatum
+15. Upper glumes and lower lemmas pilose.
+16. Panicle branches 2-7; spikelets 2.3-4 mm long.....15. P. dilatatum
+16. Panicle branches (4)10-30; spikelets 1.8-2.8 mm long  .....16. P. urvillei
+14. Margins of upper glumes and lower lemmas neither ciliate-laceerate nor winged, glabrous or pubescent, if pubescent then the hairs not pilose, often glandular, papillose-based, or wrinkled. 
+17. Upper florets olive to dark brown.
+18. Plants aquatic, the culms decumbent, rooting at the nodes; lower glumes often present .....17. P. modestum
+18. Plants not aquatic or, if aquatic, the culms erect; lower glumes absent. 
+19. Panicle branches 10-28 or more.
+20. Plants annual; axes of panicle branches broadly winged, wings about as wide as the central portion  .....18. P. boscianum
+20. Plant perennial; axes of panicle branches narrowly winged, wings narrower than the central portion. 
+21. Axes of panicle branches 1-1.7 mm wide; spikelets 1.8-2.4 mm wide ..... 19. P. virgatum
+21. Axes of panicle branches 0.5-1.2 mm wide; spikelets 1.1-1.8 mm wide .....20. P. conspersum
+19. Branches 1-10(28). 
+22. Plants annual.
+23. Spikelets 1.3-1.8 mm wide, broadly elliptical to orbicular, glabrous; panicles with 1-10(28) branches, the axes 0.7-2.3 mm wide   .....18. P. boscianum
+23. Spikelets 1.7-2.4 mm wide, broadly obovate, shortly pubescent; panicles with 1-5 branches, the axes 0.8-1.3 mm wide .....21. P. convexum
+22. Plants perennial.
+24. Plants cespitose, rhizomes sometimes present but not well-developed; culms 100-200 cm tall, stout; panicle branches ascending, divaricate, or reflexed.
+25. Leaf blades 7-18 mm wide   .....20. P. conspersum
+25. Leaf blades 2.5-4 mm wide.....22. P. plicatulum
+24. Plants not cespitose, rhizomatous; culms 10-150 cm tall, varying in thickness; panicle branches ascending.
+26. Rhizomes short, indistinct.....22. P. plicatulum
+26. Rhizomes long, evident.
+27. Plants aquatic; upper florets chestnut brown   .....23. P. wrightii
+27. Plants not aquatic; upper florets dark brown   .....24. P. nicorae
+17. Upper florets white, stramineous, or golden brown.
+28. Lower lemmas with well-developed ribs over the veins; upper glumes absent .....25. P. malacophyllum
+28. Lower lemmas not ribbed over the veins; upper glumes present. 
+29. Panicles with 15-100 branches.
+30. Plants annual; upper glumes and lower lemmas rugose   .....26. P. racemosum
+30. Plants perennial; upper glumes and lower lemmas smooth.
+31. Plants rhizomatous, not cespitose; branch axes 0.9-1.2 mm wide; panicle branches often arcuate……………..27. P. intermedium
+31. Plants cespitose, not rhizomatous; branch axes 0.3-0.6 mm wide; panicle branches straight.
+32. Panicle branches spreading to reflexed (rarely ascending); leaf blades 10-23 mm wide; axes of panicle branches 0.3-0.4 mm wide.....28. P. coryphaeum
+ 
+32. Panicle branches erect to ascending; leaf blades 4.9-6.1 mm wide; axes of panicle branches 0.5-0.6 mm wide .....29. P. quadrifarium 
+29. Panicles with 1-15 branches.
+33. Spikelet pairs not imbricate; lower glumes usually present.....30. P. bifidum
+33. Spikelet pairs imbricate; lower glumes absent or present. 
+34. Spikelets 1.3-2.5 mm long.
+35. Upper glumes,  usually also the lower lemmas,  shortly pubescent.
+36. Lower glumes present   .....31. P. langei
+36. Lower glumes absent.
+37. Panicles both terminal and axillary, the axillary panicles partially or completely enclosed by the subtending leaf sheath .....32. P. setaceum
+37. Panicles all terminal.
+38. Leaf blades involute; culms 80-110 cm tall.....33. P. laxum
+38. Leaf blades flat; culms 20-75 cm tall.
+39. Spikelets 1.3-2 mm long, 0.7-1 mm wide, elliptic; upper glumes and lower lemmas 5-veined; culm bases swollen  .....34. P. caespitosum
+39. Spikelets 2-2.5 mm long, 1.4-1.6 mm wide, ovate;  upper glumes  and lower lemmas 3-veined; culm bases not swollen .....35. P. virletii
+35. Upper glumes and lower lemmas glabrous.
+40. Panicles both terminal and axillary, the axillary panicles partially or completely enclosed by the subtending leaf sheath .....32. P. setaceum
+40. Panicles all terminal.
+41. Upper panicle branches erect   .....36. P. monostachyum
+41. Upper panicle branches spreading to ascending. 
+42. Leaf blades mostly involute; plants of sandy or rocky areas, usually on the coast .....37. P. pleostachyum
+42. Leaf blades mostly flat; plants of inland areas or, if coastal, then in marshy areas. 
+43. Upper glumes and lower lemmas 3-veined. 
+44. Leaf blades usually conduplicate, 2.2-8.3 mm wide .....39. P. praecox
+44. Leaf blades usually flat, 5-10 mm wide.....35. P. virletii
+43. Upper glumes and lower lemmas 5-veined.
+45. Axes of panicle branches 0.2-0.5 mm wide; ligules 0.2-0.4 mm long .....34. P. caespitosum
+45. Axes of panicle branches 1.5-2 mm wide; ligules 2.2-4.7 mm long .....38. P. lividum
+34. Spikelets 2.5-4.1 mm long.
+46. Upper glumes, and usually lower lemmas, pubescent.
+47. Lower glumes present   .....31. P. langei
+47. Lower glumes absent.
+48. Leaf blades 2-5 mm wide; upper glumes and lower lemmas abundantly pubescent, most hairs longer than 0.1 mm; spikelets elliptic .....40. P. bartwegianum
+48. Leaf blades 4-18 mm wide; upper glumes and lower lemmas glabrous or sparsely pubescent, the hairs shorter than 0.1 mm; spikelets obovate to elliptic .....41. P. pubiflorum
+46. Upper glumes, and usually lower lemmas, glabrous. 
+49. Upper florets golden brown.
+ 
+50. Plants  not rhizomatous; culms decumbent  and rooting at the lower nodes; spikelets 1.3-1.6 mm wide; lower lemmas 5-7-veined; lower glumes often present .....17. P. modestum
+50. Plants rhizomatous; culms erect, not rooting at the lower nodes; spikelets  1.9-3.1 mm wide; lower lemmas 3-veined.
+51. Panicle branches 1-6; upper glumes 5-veined; leaf blades 3-18 mm wide .....42. P. floridanum
+51. Panicle branches 1-3; upper glumes 3-veined; leaf blades 3-4 mm wide .....43. P. unispicatum
+49. Upper florets stramineous to pale,  but not golden brown. 
+52. Terminal panicle branches erect.
+53. Blades involute; upper glumes 1-veined .....36. P. monostachyum
+53. Blades flat; upper glumes 3-veined   .....43. P. unispicatum
+52. Terminal panicle branches spreading to ascending.
+54. Spikelets 2.2-2.6 mm long.
+55. Spikelets 1.2-1.5 mm wide, elliptic to obovate .....38. P. lividum
+55. Spikelets 2-2.8  mm wide,  orbicular to suborbicular .....39. P. praecox
+54. Spikelets 2.6-4.1 mm long.
+56. Plants decumbent, rooting at the lower nodes, not rhizomatous; spikelets obovate to elliptic .....41. P. pubiflorum
+56. Plants   rhizomatous, neither decumbent nor rooting at the lower nodes; spikelets orbicular to elliptic. 
+57. Spikelets 2.1-3.1 mm long, 2-2.8 mm wide, orbicular to suborbicular; upper  glumes  3-veined;  leaf blades conduplicate .....39. P. praecox
+57. Spikelets 2.9-4.1 mm long, 1.9-3.1 mm wide,  suborbicular to  elliptic;  upper glumes 5-veined; leaf blades flat .....42. P. floridanum
+
+    </key_body>
+  </key>
+</bio:treatment>

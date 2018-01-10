@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Zoysia japonica Steud. </name_authority_date>
+  </taxon_identification>
+  <common_names>JAPANESE LAWNGRASS, KOREAN LAWNGRASS</common_names>
+  <description type="morphology">Plants rhizomatous. Culm internodes 2-10 mm. Sheaths glabrous; ligules 0.05-0.25 mm; blades to 6.5 cm long, 0.5-5 mm wide, ascending, flat to loosely involute when fully hydrated, involute when stressed, surfaces glabrous or pilose. Peduncles exerted, extending 0.8-6.5 cm beyond the sheaths of the flag leaves. Racemes 2.5-4.5 cm, with 25-50 spikelets; pedicels 1.6-3.5 mm. Spikelets 2.5-3.4 mm long, 1-1.4 mm wide, ovate, awned, awns 0.1-1.1 mm. 2n = 40.</description>
+  <discussion>Zoysia japonica was the first species of Zoysia introduced into cultivation in the United States, with the introduction of the cultivar 'Meyer' in the 1950s. It is the most cold-tolerant and coarsely textured of the three species that have been introduced to the Flora region, and is the only species that is currently available as seed in the United States. The other two species treated here can be established from seed, but there are currently no commercial sources of either one in the United States.</discussion>
+</bio:treatment>

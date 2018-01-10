@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Cenchrus echinatus L. </name_authority_date>
+  </taxon_identification>
+  <common_names>SOUTHERN SANDBUR</common_names>
+  <description type="morphology">Plants annual. Culms 20-100 cm, ascending from a geniculate base. Sheaths from shorter than to equaling the internodes, compressed; ligules 0.7-1.7 mm; blades 4-18(35) cm long, 2-10(14.2) mm wide, adaxial surfaces sparsely pilose, hairs papillose-based. Panicles 2.5-12 cm; rachis internodes 2-4 mm; fascicles 5-10 mm long, 3.5-6(6.3) mm wide, imbricate; outer bristles 10-20, terete, the majority no more than 1/2 as long as the inner bristles; inner bristles 2-5 mm long, 0.6-1.5 mm wide, flattened, not grooved, mostly erect, fused for at least 1/2 their length into a globose cupule, sometimes interlock¬ing at maturity, shortly pubescent, often purple at maturity. Spikelets 2-3(4) per fascicle, 4.8-7 mm. Lower glumes 1.3-3.4 mm; upper glumes 3.8-5.7 mm, 3-7-veined; lower lemmas 4.5-6.5 mm; upper florets 4.7-7 mm; anthers 0.8-2.4 mm. Caryopses ovoid, 1.2-3.2 mm long, 1.3-2.2 mm wide. 2n = (34), 68. </description>
+  <discussion>Cenchrus echinatus grows in disturbed areas through-out the coastal plain and piedmont of the southern United States, Mexico, Central and South America, and, as an unwelcome introduction, elsewhere. </discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Thinopyrum pycnanthum (Godr.) Barkworth</name_authority_date>
+  </taxon_identification>
+  <common_names>TICK QUACKGRASS</common_names>
+  <description type="morphology">Plants rhizomatous. Culms 10-120 cm, glabrous; lowest internode plus sheath 2-3 mm thick. Lower sheaths ciliate; auricles absent or to 0.5 mm; ligules 0.3-0.6 mm, truncate, ciliate; blades to 35 cm long, 2-6 mm wide, flat or convolute, glaucous, adaxial surfaces with 3-20 ribs, ribs prominent, crowded, flattened, scabrous. Spikes 4-20 cm; rachises glabrous; internodes 5-9 mm. Spikelets 10-20 mm, with 3-10 florets; disarticulation beneath the florets. Glumes 4.5-8 mm, glabrous, oblong-lanceolate, 4-7-veined, weakly keeled, keels asymmetric, scabridulous, midveins slightly longer and more prominent than the lateral veins, apices acute; lemmas 7-11 mm, glabrous, subobtuse, unawned, mucronate, or awned, awns to 10 mm; paleas keeled, keels ciliate; anthers 5-7 mm. 2n = 42.</description>
+  <discussion>Thinopyrum pycnanthum is native to the coasts of western and southern Europe. It is reported from scattered locations in the western United States, and from Nova Scotia to Pennsylvania in eastern North America. In its native range, it grows in maritime sands and gravels, or river gravels.</discussion>
+</bio:treatment>

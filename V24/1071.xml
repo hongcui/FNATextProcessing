@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Rostraria cristata (L.) Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>MEDITERRANEAN HAIRGRASS</common_names>
+  <description type="morphology">Culms 3-50 cm, glabrous. Sheaths glabrous or pilose; ligules 1-2 mm, erose-ciliolate; blades 2-15 cm long, 1-8 mm wide, pubescent. Panicles (0.5) 1.5-12 cm long, 0.5-1.6 cm wide, cylindrical, usually not interrupted at the base, green; branches and pedicels scabrous. Spikelets 2.8-4.5(7) mm, laterally flattened, with 3-6 florets; rachillas pubescent, not prolonged beyond the upper floret. Glumes scabrous to irregularly hirsute; lower glumes 1.8-3.5 mm; upper glumes 2-4.4 mm; calluses blunt, usually glabrous, occasionally with a few scattered hairs; lemmas 2.8-3.7 mm, ciliate over the keels; lower lemmas with papillose-based hairs or irregularly hirsute, awns 1-3 mm; uppermost lemmas merely scabrous and more shortly awned or unawned; anthers 0.2-0.5 mm; ovaries glabrous. 2n = 14, 26, 28. </description>
+  <discussion>Rostraria cristata is native to Europe. In the Flora region, it is found in California, around the Gulf of Mexico, and in New York State. Plants with hirsute glumes and lower lemmas belong to Rostraria cristata (L.) Trin. var. cristata; those with glumes and lemmas that are almost glabrous apart from their ciliate keels belong to R. cristata var. glabriflora (Trautv.) Dogan.
+When included in Koeleria,  Rostraria cristata is called K. phleoides (Vill.) Pers.
+ 
+</discussion>
+</bio:treatment>

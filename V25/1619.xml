@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Schizachyrium niveum (Swallen) Gould </name_authority_date>
+  </taxon_identification>
+  <common_names>PINESCRUB BLUESTEM</common_names>
+  <description type="morphology">Plants cespitose. Culms 49-90 cm, not rooting or branching at the lower nodes. Leaves usually completely glabrous; sheaths keeled; ligules 0.5-1 mm; blades 2.5-10 cm long, (1)2-4 mm wide, flat, without a longitudinal stripe of white, spongy tissue. Peduncles 2-4.6 cm; subtending leaf sheaths 2.5-4 cm long, 1.5-3.5 mm wide; rames 2.5-4.5 cm, somewhat open and usually partially exserted, varying from included to completely exserted; internodes 3-7 mm, straight, densely villous for their full length, hairs 0.5-2.5 mm, silvery-white. Sessile spikelets 5-6.5 mm; calluses with 0.5-1 mm hairs; lemmas slightly indurate at the base (unique among the species treated here in this respect), cleft for 3/4 - 7/8 of their length; awns 10.5-15 mm. Pedicels 5-6.5 mm long, 0.1-0.2 mm wide at the base, flaring beyond midlength to about 0.5 mm, densely villous. Pedicellate spikelets 0.5-2 mm, sterile, unawned or awned, awns 1-2 mm. 2n = 40.</description>
+  <discussion>Schizachyium niveum is an endangered, rare species known only from central peninsular Florida, where it occurs in openings and sandhills of Ceratiola-pine-oak woodlands. It has been reported from south central Georgia, but Bruner (1987) found no evidence for the report. Of the two recent collections in Florida, he relocated one, in an area favored by real estate developers.</discussion>
+</bio:treatment>

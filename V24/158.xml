@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Achnatherum lemmonii (Vasey) Barkworth subsp. lemmonii </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Sheaths and culms glabrous or pubescent, hairs to 0.2 mm, sometimes varying within a population.</description>
+  <discussion>Achnatherum lemmonii subsp. lemmonii grows throughout the range shown on the map, on both serpentine and non-serpentine soils.</discussion>
+</bio:treatment>

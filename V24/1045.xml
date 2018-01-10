@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Avena occidentalis Durieu </name_authority_date>
+  </taxon_identification>
+  <common_names>WESTERN OATS</common_names>
+  <description type="morphology">Plants annual. Culms 50-80 cm, erect. Sheaths glabrous or sparsely pubescent, hairs 0.5-1 mm, sometimes confined to the margins; ligules of the lower leaves 3-5 mm, those of the upper leaves 1.5-2.5 mm, acute; blades 12-25 cm long, 5-11 mm wide. Panicles 15-26 cm. Spikelets 30-40 mm, with 3-4(5) florets; disarticulation beneath each floret; disarticulation scars of the lower florets in a spikelet round to elliptic, those of the third and fourth florets heart-shaped. Glumes subequal, 28-40 mm, 7-9-veined; calluses bearded, hairs 3-5 mm; lemmas 14-26 mm, usually densely strigose below midlength, sometimes sparsely strigose or glabrous, veins not extending beyond the apices, apices bifid, teeth  sometimes shortly aristate, awns arising at midlength; lodicules without lobes on the wing; anthers 2-3.2 mm. 2n = 42.</description>
+  <discussion>Avena occidentalis is native to the Canary Islands, coastal North Africa, and Saudi Arabia; it is now established in western North America, from California to northern Mexico. It is often confused with A. fatua, but differs in its longer, narrower spikelets, greater number of florets, and the heart-shaped disarticulation scars of the distal florets.</discussion>
+</bio:treatment>

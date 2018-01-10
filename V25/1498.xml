@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>26.01</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>SPODIOPOGON Trin.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants usually perennial; sometimes rhizomatous. Culms 40-150 cm, erect, simple or branching. Leaves not aromatic; ligules membranous; blades lanceolate to broadly linear, sometimes pseudopetiolate. Inflorescences terminal, open or contracted panicles, with evident rachiseswith numerous subverticellate branches that terminate in 1-3 short rames; rames with slender internodes and 2-5 sessile-pedicellate homogamous spikelet pairs; disarticulation in the rames, below the sessile spikelets. Spikelets usually lanceolate. Glumes equal, chartaceous, often pilose, scarcely keeled, with several raised veins, acute; calluses glabrous or densely hairy; lower florets usually staminate, unawned; upper florets bisexual; upper lemmas bilobed, with a geniculate awn; anthers 3. x = 10. Pedicels slender, not fused to the rames axes. </description>
+  <discussion>Spodiopogon is a genus of 10-15 species, most of which grow in subtropical regions of the Eastern Hemisphere, although Spodiopogon sibiricus extends north to Irkutsk, Russia. One species is cultivated in the Flora region.</discussion>
+</bio:treatment>

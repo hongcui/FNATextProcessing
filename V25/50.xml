@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Tridens carolinianus (Steud.) Henrard </name_authority_date>
+  </taxon_identification>
+  <common_names>CREEPING TRIDENS</common_names>
+  <description type="morphology">Plants rhizomatous; rhizomes elongate, 2.5-5 mm thick, scaly. Culms 80-120 cm. Lower sheaths pilose; ligules about 0.5 mm, membranous, ciliate; blades 2-7 mm wide, flat, both surfaces sparsely pilose basally, margins smooth or scabridulous;  upper leaves with glabrous sheaths and blades. Panicles 9-15 cm long, 1-4 cm wide, nodding, purplish; branches appressed or narrowly ascending; pedicels 2-3(3.5) mm. Spikelets 7-10 mm, with 3-5 florets. Glumes glabrous, 1-veined; lower glumes 3.5-4.5 mm; upper glumes 4-5 mm; calluses sparsely pilose; lemmas 4-5 mm, veins pilose at least to midlength, all 3 veins excurrent as short points; paleas 3-3.5 mm, glabrous, bases bowed-out; anthers 1-2(2.5) mm. Caryopses 2-2.5 mm. 2n = unknown.</description>
+  <discussion>Tridens carolinianus grows in pinelands and open sandy woods along the coastal plain from North Carolina to Louisiana.</discussion>
+</bio:treatment>

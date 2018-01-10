@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Leptochloa panicea subsp. mucronata (Michx.)
+Nowack
+</name_authority_date>
+  </taxon_identification>
+  <common_names>MISSISSIPPI SPRANGLETOP</common_names>
+  <description type="morphology">Culms to 110 cm. Ligules 0.6-1 mm; blades 5-9 mm wide. Glumes exceeding the florets, linear to narrowly lanceolate; lemmas 0.9-1.2 mm, glabrous or sparsely sericeous along the veins. Caryopses 0.8-0.9 mm, with¬out a ventral groove, sometimes coarsely rugose, apices broadly obtuse. 2n = unknown.</description>
+  <discussion>Leptochloa panicea subsp. mucronata grows in the southern portion of the United States, primarily from Kansas and Missouri through Texas and Louisiana.</discussion>
+</bio:treatment>

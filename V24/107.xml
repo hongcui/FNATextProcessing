@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Melica imperfecta Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>LITTLE CALIFORNIA MELIC</common_names>
+  <description type="morphology">Plants densely cespitose, not rhizomatous. Culms 35-120 cm, not forming corms; internodes scabridulous immediately above the nodes. Sheaths glabrous or pilose; ligules 0.8-6.5 mm; blades 1-6 mm wide, abaxial surfaces glabrous or puberulent, adaxial surfaces with hairs. Panicles 5-36 cm; branches 2.5-9 cm, appressed to reflexed, straight or flexuous, with 5-30 spikelets; pedicels not sharply bent; disarticulation above the glumes. Spikelets 3-7 mm, with 1(2) bisexual florets; rachilla internodes 0.3-0.6 mm. Lower glumes 2-5 mm long, 1-2 mm wide, 1-veined; upper glumes 2.5-6 mm long, 1.5-2.5 mm wide, 1-veined; lemmas 3-7 mm, glabrous, sometimes scabrous, with 7+ veins, veins prominent, apices rounded to acute, unawned; paleas almost as long as the lemmas; anthers 1.5-2.5 mm; rudiments 1-4 mm, not resembling the lower florets, longer and thicker than the terminal rachilla internode, truncate to obtuse. 2n = 18. </description>
+  <discussion>Melica imperfecta grows from sea level to 1500 m, on stable coastal dunes, dry, rocky slopes, and in open woods, from California and southern Nevada south to Baja California, Mexico. Plants vary with respect to size, panicle shape, and pubescence, but no infraspecific taxa merit recognition. Boyle (1945) obtained vigorous, almost completely sterile hybrids between M. imperfecta and both M. torreyana and M. californica, but found no examples of natural hybrids.</discussion>
+</bio:treatment>

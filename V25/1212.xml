@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>30</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthelium strigosum (Muhl. ex Elliott) Freckmann</name_authority_date>
+  </taxon_identification>
+  <common_names>CUSHION-TUFTED PANICGRASS</common_names>
+  <description type="morphology">Plants densely cespitose. Basal rosettes poorly differentiated; blades 1-5 cm, lanceolate, grading into the cauline blades. Culms 5-45 cm, slender, erect or spreading; from a dense tuft of predominantly basal leaves, lower internodes short, upper 3-5 internodes elongate; nodes glabrous or bearded; internodes glabrous or pilose; fall phase with spreading culms and branches arising from near the bases forming a dense, flat tuft. Cauline leaves 2-4; lower cauline sheaths longer than the internodes, mostly glabrous or pilose with ascending hairs, margins finely ciliate; ligules 0.2-2 mm, at low magnification appearing to be membranous and ciliate, at high magnification evidently of hairs that are coherent at the base; blades 1.5-6 cm long, 3-8 mm wide, lanceolate, glabrous or softly pilose, margins with prominent papillose-based cilia, at least basally. Primary panicles short- to long-exserted; rachises and branches often pilose. Spikelets 1.1-2.1 mm, obovoid to broadly ellipsoid, glabrous or pubescent, hairs not papillose-based. Lower glumes 1/3 - 1/2  as long as the spikelets, acute to obtuse; upper florets 0.8-1.7 mm, ellipsoid, subacute.</description>
+  <discussion>Dichanthelium strigosum extends from the southeastern Flora region south into Mexico, the Caribbean, and into northern South America.
+The primary panicles are briefly open-pollinated in April or May; the secondary panicles, which are produced from May through November, are cleistogamous. The three subspecies are mostly sympatric and sometimes grow together, with occasional intergradation.
+</discussion>
+  <key>
+    <key_body>
+1. Spikelets pubescent, broadly ellipsoid, 1.6-2.1 mm long; lower glumes about 1/2 as long as the spikelets; blades glabrous.....subsp. leucoblepharis
+1. Spikelets glabrous, obovoid, 1.1-1.8 mm long; lower glumes about 1/3 as long as the spikelets; blades pilose or glabrous. 
+2. Blades pilose; spikelets 1.1-1.6 mm long  .....subsp. strigosum
+2. Blades glabrous or sparsely pilose near the base; spikelets 1.4-1.8 mm long ..... subsp. glabrescens
+
+    </key_body>
+  </key>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>15</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Melica montezumae Piper </name_authority_date>
+  </taxon_identification>
+  <common_names>Melica montezumae Piper </common_names>
+  <description type="morphology">Plants cespitose, not rhizomatous. Culms 14-100 cm, not forming corms; internodes smooth. Sheaths glabrous or scabrous; ligules 2.5-7 mm; blades 1.2-3 mm wide, abaxial surfaces glabrous, scabridulous, adaxial surfaces puberulent. Panicles 5-25 cm; branches 1-5 cm, appressed to reflexed, straight, with 2-9 spikelets; pedicels sharply bent below the spikelets; disarticulation below the glumes. Spikelets 6-8 mm, with 1 bisexual floret. Lower glumes 5.5-8 mm long, 1.8-3 mm wide, 5-veined; upper glumes 5-8 mm long, 0.7-1.5 mm wide, 3-5-veined; lemmas 4.5-8 mm, 9-15-veined, veins prominent, tuberculate, proximal portion with flat, twisted hairs, distal portion glabrous, chartaceous, apices emarginate to acute, unawned; paleas about 3/4 the length of the lemmas; anthers 1.5-3 mm; rudiments 2-3 mm, obovoid or obconic, clublike, not resembling the bisexual florets. 2n = 18.</description>
+  <discussion>Melica montezumae grows primarily in shady locations in the mountains of western Texas and adjacent Mexico.</discussion>
+</bio:treatment>

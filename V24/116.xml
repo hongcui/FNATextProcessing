@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Melica aristata Thurb. ex Bol. </name_authority_date>
+  </taxon_identification>
+  <common_names>AWNED MELIC</common_names>
+  <description type="morphology">Plants cespitose, not rhizomatous. Culms 40-120 cm, not forming corms; internodes smooth. Sheaths glabrous, scabrous, sometimes sparsely pilose; ligules 2.5-5 mm; blades 5.5-15 cm long, 2-6 mm wide, often sparsely pilose on both surfaces. Panicles 10-26 cm; branches 4-6 cm, appressed or strongly ascending, with 1-4 spikelets per branch; pedicels not sharply bent; disarticulation above the glumes. Spikelets 11-21 mm, with (2)3-5 bisexual florets; rachilla internodes 3.4-3.8 mm. Lower glumes 9-11 mm long, 1.5-2.5 mm wide, 3-5-veined; upper glumes 11-12 mm long, 2-3 mm wide, 5-7-veined; lemmas 8-13 mm, with 0.3-0.6 mm hairs on the marginal veins, glabrous or with hairs to 0.1 mm elsewhere, 5-7-veined, veins prominent, apices bifid to emarginate, awned from the sinuses, awns 5-12 mm; paleas about 3/4 the length of the lemmas; anthers 2, 2-3 mm; rudiments 2.5-6 mm, tapering, resembling the bisexual florets. Caryopses 5-6 mm. 2n =18.</description>
+  <discussion>Melica aristata grows from 1000-3000 m in open fir and pine woods. It is restricted to the Flora region, being native from Washington to southern California. It has also been found in Kentucky, possibly as an introduction from contaminated seed. Melica aristata is easily distinguished from most species of Melica by its conspicuous awns.</discussion>
+</bio:treatment>

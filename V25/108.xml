@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Eragrostis ciliaris var. laxa Kuntze</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Panicles 1.5-5 cm wide, open; branches spreading 20-50° from the rachises. Spikelets widely separated from each other.</description>
+  <discussion>Eragrostis ciliaris var. laxa grows in five counties of Florida, the Caribbean Islands, and the Yucatan Peninsula, Mexico.</discussion>
+</bio:treatment>

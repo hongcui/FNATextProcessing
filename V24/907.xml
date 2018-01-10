@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Agrostis stolonifera L</name_authority_date>
+  </taxon_identification>
+  <common_names>CREEPING BENT, AGROSTIDE STOLONIFERE</common_names>
+  <description type="morphology">Plants perennial; stoloniferous, stolons 5-100+ cm, rooting at the nodes, often forming a dense mat, without rhizomes. Culms (8)15-60 cm, erect from a geniculate base, sometimes rooting at the lower nodes, with (2)4-7 nodes. Leaves mostly cauline; sheaths smooth; ligules longer than wide, dorsal surfaces usually scabrous, rarely smooth, apices usually rounded, acute to truncate, erose to lacerate, basal ligules 0.7-4 mm, upper ligules 3-7.5 mm; blades 2-10 cm long, 2-6 mm wide, flat. Panicles (3)4-20 cm long, less than 1/2 the length of the culm, 0.5-3(6) cm wide, narrowly contracted, dense, oblong to lanceolate, exserted from the sheaths at maturity, lowest node with 1-7 branches; branches scabrous, ascending to appressed, except briefly spreading during anthesis, usually some branches at each node spikelet-bearing to the base, lower branches 2-6 cm; pedicels 0.3-3.3 mm. Spikelets lanceolate, green and slightly to strongly suffused with purple. Glumes subequal  to unequal, 1.6-3 mm, lanceolate, 1-veined, sometimes scabridulous distally, at least on the midvein, acute to acuminate or apiculate; callus hairs to 0.5 mm, sparse; lemmas 1.4-2 mm, opaque to translucent, smooth, 5-veined, veins obscure or prominent distally, apices acute to obtuse, entire or the veins excurrent to about 0.1 mm, usually unawned, rarely with a subapical straight awn to about 1 mm; paleas 0.7-1.4 mm, veins visible; anthers 3, 0.9-1.4 mm. Caryopses 0.9-1.3 mm; endosperm solid. 2n = 28, 35,42.
+ 
+</description>
+  <discussion>Agrostis stolonifera grows in areas that are often temporarily flooded, such as lakesides, marshes, salt marshes, lawns, and damp fields, as well as moist meadows, forest openings, and along streams. It will also colonize disturbed sites such as ditches, clearcuts, and overgrazed pastures. Its North American range extends from the subarctic into Mexico, mostly at low to middle elevations.
+Agrostis stolonifera has been confused with A. gigantea (see previous). It is considered to be Eurasian, but some northern salt marsh and lakeside populations may be native. Agrostis stolonifera is also similar to A. castellana (p. 639); it differs in having longer, acute to truncate ligules that are longer than wide, and in possessing extensive stolons. The names A. palustris Huds. and A. maritima Lam. have been applied to plants with longer stolons; all forms intergrade. A hybrid between A. stolonifera and Polypogon monspeliensis, xAgropogon lutosus (p. 668), has been found in the Flora region. It differs from A. stolonifera in having awned glumes and lemmas. Agrostis stolonifera readily hybridizes with A. vinealis (see below), the hybrids being somewhat intermediate between the two parents.
+</discussion>
+</bio:treatment>

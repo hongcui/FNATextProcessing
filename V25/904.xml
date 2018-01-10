@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Buchloë dactyloides (Nutt.) Engelm. </name_authority_date>
+  </taxon_identification>
+  <common_names>BUFFALOGRASS</common_names>
+  <description type="morphology">Ligules 0.5-1 mm; blades 2-15 cm long, 1-2.5 mm wide. Staminate spikelets 4-6 mm long, 1.3-1.8 mm wide; anthers 2.5-3 mm. Pistillate spikelets to 7 mm long, about 2.5 mm wide. Caryopses 2-2.5 mm. 2n = 20, 40,56,60.</description>
+  <discussion>Buchloë dactyloides is a frequent dominant on upland portions of the semi-arid, shortgrass component of the Great Plains, ranging from the southern prairie provinces of Canada through the desert southwest of the United States to much of northern Mexico. Collections from east of the Mississippi River and south of the Ohio River probably represent recent introductions.
+Buchloë dactyoides provides valuable forage for livestock and wildlife, and withstands heavy grazing. It may be confused in the southern portion of its range with Hilaria belangeri, which consistently has pilose nodes, or in the Big Bend region of Texas with Cathestecum erectum, which has three spikelets per node and distinctly awned lemmas.
+</discussion>
+</bio:treatment>

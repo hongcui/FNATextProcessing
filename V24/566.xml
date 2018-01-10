@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Festuca sect. Elmera E.B. Alexeev</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants loosely cespitose. Innovations extravaginal. Blades lax, flat or convolute; ribs shallow and indistinct; sclerenchyma girders present at the major veins. Calluses wider than long, scabrous at the margins; lemmas chartaceous, minutely bidentate, awned; ovary apices densely pubescent.</description>
+  <discussion>One species has been placed in this section.</discussion>
+</bio:treatment>

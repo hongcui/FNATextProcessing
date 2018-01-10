@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>17.33</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>MUHLENBERGIA Schreb.</name_authority_date>
+  </taxon_identification>
+  <common_names>Paul M. Peterson</common_names>
+  <description type="morphology">Plants annual or perennial; usually rhizomatous, often cespitose, sometimes mat-forming, rarely stoloniferous. Culms 2-300 cm, erect, geniculate, or decumbent, usually herbaceous, sometimes becoming woody. Sheaths open; ligules membranous or hyaline (rarely firm or coriaceous), acuminate to truncate, sometimes minutely ciliolate, sometimes with lateral lobes longer than the central portion; blades narrow, flat, folded, or involute, sometimes arcuate. Inflorescences terminal, sometimes also axillary, open to contracted or spikelike panicles; disarticulation usu¬ally above the glumes, occasionally below the pedicels. Spikelets with 1(2-3) florets. Glumes usually (0)l(2-3)-veined, apices entire, erose, or toothed, truncate to acuminate, sometimes mucronate or awned; lower glumes sometimes rudimentary or absent, occasionally bifid; upper glumes shorter than to longer than the florets; calluses poorly developed, glabrous or with hairs; lemmas glabrous, scabrous, or with short hairs, 3-veined (occasionally appearing 5-veined), apices awned, mucronate, or unawned; awns, if present, straight, flexuous, sinuous, or curled, sometimes borne between 2 minute teeth; paleas shorter than or equal to the lemmas, 2-veined; anthers (1-2)3, purple, orange, yellow, or olivaceous. Caryopses elongate, fusiform or elliptic, slightly dorsally compressed. Cleistogamous panicles sometimes present in the axils of the lower cauline leaves, enclosed by a tightly rolled, somewhat indurate sheath, x = 10. </description>
+  <discussion>Muhlenbergia is primarily a genus of the Western Hemisphere. It has approximately 155 species. Sixty-nine of the 70 species treated here are native to the Flora region. The other species, M. diversiglumis, is included because it was recently reported from Texas, but no specimens supporting the report have been found. It may be based on a misidentification. Within the Flora region, Muhlenbergia is represented best in the southwestern United States. Muhlenbergia montana is an important range grass in the southwestern United States and northern Mexico.
+In the key and descriptions, "puberulent" refers to having hairs so small that they can only be seen with a 10x hand lens.
+</discussion>
+  <references>Douglas, G.W., D. Meldinger, and J. Pojar. 2002. Illustrated Flora of British Columbia, vol. 8. British Columbia Ministry of Sustainable Resource Management and British Columbia Ministry of Forests, Victoria, British Columbia, Canada. 457 pp.; Herrera-Arrieta, Y. 1998. A revision of the Muhlenbergia montana (Nutt.) Hitchc. complex (Poaceae: Chloridoideae). Brittonia 50:23-50; Hitchcock, A.S. 1935b. Muhlenbergia Schreb. Pp. 431-476 in M.A. Howe, H.A. Gleason, and J.H. Barnhart (eds.). North American Flora, vol. 17, part 6. New York Botanical Garden, New York, New York, U.S.A. 64 pp.; Hitchcock, A.S. 1951 [title page 1950]. Manual of the Grasses of the United States, ed. 2, rev. A. Chase. U.S.D.A. Miscellaneous Publication No. 200. U.S. Government Printing Office, Washington, D.C., U.S.A. 1051 pp.; Kartesz, J. and C.A. Meacham. 1999. Synthesis of the North American Flora, Version 1.0 (CD-ROM). North Carolina Botanical Garden, Chapel Hill, North Carolina, U.S.A.; Kearney, T.H. and R.H. Peebles. 1951. Arizona Flora. University of California Press, Berkeley and Los Angeles, California, U.S.A. 1032 pp.; McGregor, R.L., T.M. Barkley, R.E. Brooks, and E.K. Schofield. 1986. Flora of the Great Plains. Contribution No. 84-135-B, Division of Biology, Kansas Agricultural Experiment Station, Kansas State University. Contribution No. 1254, Department of Botany, North Dakota Agricultural Experiment Station, North Dakota State University. University Press of Kansas, Lawrence, Kansas, U.S.A. 1392 pp.; Morden, C.W. and S.L. Hatch. 1984. Cleistogamy in Muhlenbergia cuspidata (Poaceae). Sida 10:254-255; Morden, C.W. and S.L. Hatch. 1996. Morphological variation and synopsis of the Muhlenbergia repens complex (Poaceae). Sida 17:349-365; Peterson, P.M. 2000. Systematics of the Muhlenbergiinae (Chloridoideae: Eragrostideae). Pp. 195-212 in S.W.L. Jacobs and J. Everett (eds.). Grasses: Systematics and Evolution. International Symposium on Grass Systematics and Evolution (3rd:1998). CSIRO Publishing, Collingwood, Victoria, Australia. 408 pp. Peterson, P.M. and C.R. Annable. 1991. Systematics of the annual species of Muhlenbergia (Poaceae-Eragrostideae). Syst. Bot. Monogr. 31:1-109 Peterson, P.M. and Y. Herrera-Arrieta. 2001. A leaf blade anatomical survey of Muhlenbergia (Poaceae: Muhlenbergiinae). Sida 19:469-506 Soderstrom, T.R. 1967. Taxonomic study of subgenus Podosemum and section Epicampes of Muhlenbergia (Gramineae). Contr. U.S. Natl. Herb. 34:75-189; Swallen, J.R. 1932. Five new grasses from Texas. Amer. J. Bot. 19:436-442; Welsh, S.L., N.D. Atwood, S. Goodrich, and L.C. Higgins (eds.). 1993. A Utah Flora, ed. 2, revised. Monte L. Bean Life Science Museum, Brigham Young University, Provo, Utah, U.S.A. 986 pp.</references>
+  <key>
+    <key_body>
+1. Plants annual [for opposite lead, see p. 147].
+2. Lemmas unawned or mucronate, the mucros to 1 mm long.
+3. Glumes strigulose, at least on the margins or towards the apices, the hairs 0.1-0.3 mm long. 
+4. Pedicels of most spikelets strongly curved below the spikelets, often through 90° or more; anthers olivaceous, 0.6-1.2 mm long .....65. M. sinuosa
+4. Pedicels of most spikelets straight to somewhat curved below the spikelets, rarely curved through 90°; anthers purplish, 0.2-0.7 mm long. 
+5. Sheaths and culm internodes strigulose; lemmas 1.3-2 mm long, the apices acute to acuminate, mucronate or shortly awned .....67. M. texana
+5. Sheaths and culm internodes glabrous, sometimes scabridulous; lemmas 0.8-1.5 mm long, the apices obtuse to subacute, unawned .....66. M. minutissima
+3. Glumes glabrous.
+6. Panicles contracted, less than 0.5 cm wide; branches closely appressed at maturity; culms often rooting at the lower nodes .....38. M. filiformis
+6. Panicles open or diffuse, 0.6-11 cm wide; branches spreading at maturity; culms not rooting at the lower nodes. 
+7. Primary panicle branches 0.5-3.2 cm long; pedicels stout, 1-3 mm long, 0.5-1.5 mm thick; lemmas mottled, with greenish-black and greenish-white areas .....70. M. ramulosa
+7. Primary panicle branches 0.4-6.2 cm long; pedicels delicate, 0.2-10 mm long, about 0.02 mm thick; lemmas not mottled, purplish, plumbeous, or brownish. 
+8. Primary panicle branches diverging 80-100° from the rachises; branches not developing below the lower leaf nodes; ligules with lateral lobes (vertical extensions of the sheath margins); plants truly annual   .....69. M. fragilis
+8. Primary panicle branches diverging less than 80° from the rachises; branches developing below the lower leaf nodes; ligules without lateral lobes; plants perennial but often appearing annual  .....42. M. uniflora
+2. Lemmas awned, the awns 1-32 mm long.
+9. Upper glumes 2- or 3-veined, apices 2- or 3-toothed, not awned.
+10. Lemma awns olive-green, sinuous to curled; lemmas widest near the middle, 1.7-2.2 mm long   .....47. M. crispiseta
+10. Lemma awns purplish, flexuous; lemmas widest near the base, 1.4-4.2 mm long .....48. M. peruviana
+9. Upper glumes 1-veined or veinless, entire, erose, or awned.
+11. Lower glumes 2-veined, minutely to deeply bifid, the teeth aristate or with awns to 1.8 mm long; spikelets often in sessile-pedicellate pairs; disarticulation at the base of the pedicels.
+12. Glumes subequal to the lemmas; lemmas 2.5-4.5 mm long, those of the upper spikelets with awns 6-15 mm long .....63. M. depauperata
+12. Glumes up to 2/3 as long as the lemmas; lemmas 3.5-6 mm long, those of the upper spikelets with awns 10-20 mm long.....64. M. brevis
+11. Lower glumes, if present, veinless or 1-veined, not bifid, unawned or with a single awn; spikelets borne singly; disarticulation above the glumes.
+13. Lemma awns 1-5 mm long.
+14. Glumes 0.1-0.3 mm long, the lower glumes often almost absent; ligules 0.2-0.5 mm  .....13. M. schreberi
+14. Glumes 0.8-1.8 mm long; lower glumes 0.8-1.6 mm long; ligules 0.9-2.5 mm long.
+15. Pedicels 2-7 mm long, usually longer than the florets, usually divergent; lemmas 1.3-2 mm long; lemma awns 0.1-1(2) mm long; caryopses 0.8-1 mm long; paleas minutely appressed-pubescent on the lower 1/2, 1.3-2 mm long .....67. M. texana
+15. Pedicels 1-2(3) mm long, usually shorter than the florets and appressed to the branches; lemmas (1.7)1.9-2.5 mm long; lemma awns 1.2-3.5 mm long; caryopses 1.3-2.3 mm long; paleas glabrous, 1.8-2.4 mm long ..... 68. M. eludens
+13. Lemma awns 10-32 mm long.
+ 
+16. Panicles secund; primary branches with 2-5 spikelets; secondary branches not developed; spikelets dimorphic with respect to the glumes, the glumes of the proximal spikelet on each branch subequal, to 0.7 mm long, orbicular and unawned, those of the distal spikelets evidently unequal, the lower glumes to 8 mm long and usually avned, the upper glumes orbicular, some times awned.....18. M. diversiglumis
+16. Panicles not secund; primary branches always with more than 2 spikelets, usually with more than 5; secondary branches well-developed; spikelets monomorphic with respect to the glumes.
+17. Ligules 0.3-0.9 mm long, membranous and ciliate; distal portion of the sheath margins with hairs to 1 mm long; lemmas subulate to lanceolate, with a scabrous line between the midvein and lateral veins, giving the lemmas a 5-veined appearance  .....17. M. pectinata
+17. Ligules 1-3(5) mm long, hyaline to membranous, often lacerate; sheath margins glabrous, even distally; lemmas lanceolate, smooth over most of their length, scabridulous to scabrous distally, not appearing 5-veined. 
+18. Cleistogamous panicles not present in the axils of the lower cauline leaves; upper glumes 1.5-2.8 mm long, acute .....14. M. tenuifolia
+18. Cleistogamous panicles of 1-3 florets present in the axils of the lower cauline leaves; upper glumes 0.6-2 mm long, obtuse to subacute. 
+19. Lemmas 2.5-3.8(5.3) mm long; glumes 0.4-1.3 mm long; ligules 1-2 mm long .....15. M. microsperma
+19. Lemmas 4-6.2(7.5) mm long; glumes 1-2 mm long; ligules 1.5-3 mm long .....16. M. appressa
+1. Plants perennial [for opposite lead, see p. 146].
+20. Plants rhizomatous, usually not cespitose; rhizomes scaly and creeping [for opposite lead, see p. 149].
+21. Panicles open, (2)4-20 cm wide; panicle branches capillary (0.05-0.1 mm thick), diverging 30-100° from the rachises at maturity. 22. Lemmas awned, awns 1-12(20) mm long.
+23. Blades stiff and pungent; lemma awns 1-1.5(2) mm long, straight; primary branches of the panicles appearing fascicled in immature plants  .....32. M. pungens
+23. Blades not stiff and pungent; lemma awns 4-12(20) mm long, flexuous; primary branches of the panicles not appearing fascicled .....24. M. arsenei
+22. Lemmas unawned, sometimes mucronate with mucros to 0.3 mm long.
+24. Culms compressed-keeled; blades conduplicate; panicles cylindrical, 4-8 cm wide .....39. M. torreyana
+24. Culms terete to somewhat compressed-keeled near the base; blades usually flat, occasionally conduplicate; panicles ovoid, 4-16 cm wide. 
+25. Ligules 0.5-2 mm long, hyaline, with well-developed lateral lobes; blade margins and midveins prominent, white, thick .....41. M. arenacea
+25. Ligules 0.2-1 mm long, ciliate, without lateral lobes; blade margins and midveins not prominent, greenish, not particularly thick .....40. M. asperifolia
+21. Panicles contracted, 0.1-2(3) cm wide; panicle branches more than 0.1 mm thick, appressed or diverging up to 30(40)° from the rachises at maturity.
+26. Culms 100-300 cm tall, 3-6 mm thick, woody and bamboolike   .....33. M. dumosa
+26. Culms 4-100(140) cm tall, 0.5-2(3) mm thick, herbaceous, not bamboolike. 
+27. Blades 0.2-2(2.6) mm wide, flat, involute, or folded at maturity. 
+28. Lemmas awned, the awns 1-25 mm long.
+29. Lemmas pubescent for 3/4 their length, the hairs about 1.5 mm long ..... 21. M. curtifolia 
+29. Lemmas scabridulous or pubescent for no more than 1/2 their length, the hairs often less than 1.5 mm long.
+30. Lemma awns generally less than 4(6) mm long.....19. M. glauca
+30. Lemma awns 4-25 mm long.
+ 
+31. Lemmas and paleas mostly glabrous, the calluses with a few short hairs; ligules with lateral lobes, the lobes 1.5-3 mm longer than the central portion; culms erect; plants tightly cespitose at the base; sheaths and blades commonly with dark brown necrotic spots .....22. M. pauciflora
+31. Lemma midveins and margins and paleas appressed-pubescent on the lower 1/3 – 2/3; ligules without lateral lobes or with lobes less than 1.5 mm longer than the central portion; culms decumbent; plants loosely cespitose at the base; sheaths and blades without necrotic spots. 
+32. Anthers orange, 1.5-2 mm long; lemmas elliptic, 2-3.5 mm  long, the awns 10-20(25) mm long; panicles 0.3-1.8 cm wide .....23. M. polycaulis
+32. Anthers purple,  1.3-3 mm long; lemmas lanceolate, 3.5-5 mm long, the awns 4-12(20) mm long; panicles 1-3(5) cm wide ..... 24. M. arsenei
+28. Lemmas unawned, mucronate, or shortly awned, the awns to 1 mm long. 
+33. Lemmas and paleas pubescent, the hairs 0.4-1.2 mm long.
+34. Glumes acuminate, usually awned, the awns to 1.5 mm long; anthers orange; blades flat to involute distally, never arcuate .....19. M. glauca
+34. Glumes acute, neither mucronate nor awned; anthers yellow, dark green, or purple; blades tightly involute, often arcuate. 
+35. Lemmas 2.6-4 mm long; glumes nearly as long as the lemmas; anthers 2.1-2.3 mm long .....20. M. thurberi
+35. Lemmas 1.4-2.5 mm long; glumes 1/2 - 2/3 as long as the lemmas; anthers 0.9-1.4 mm long .....34. M. villiflora
+33. Lemmas and paleas scabrous, glabrous, or with hairs less than 0.3 mm long. 36. Glumes more than 1/2  as long as the lemmas; lemmas 2.6-4.2 mm long, attenuate .....35. M. repens
+36. Glumes 1/2 as long as the lemmas or less; lemmas 1.3-3.1 mm long; not attenuate. 37. Ligules 0.2-0.8 mm long; panicles usually partially included, the rachises usually visible between the branches ..... M. utilis
+37. Ligules 0.8-3 mm long; panicles exserted, the rachises usually hidden by the branches ..... 37. M. richardsonis
+27. Blades (1.5)2-15 mm wide, flat at maturity.
+38. Glumes awn-tipped, 3-8 mm long (including the awns), about 1.3-2 times longer than the lemmas.
+39. Internodes dull, puberulent, usually terete, rarely keeled; culms seldom branched above the base; ligules 0.2-0.6 mm long; anthers 0.8-1.5 mm long.....2. M. glomerata
+39. Internodes smooth and polished for most of their length, elliptic in cross section and strongly keeled; culms much branched above the base; ligules 0.6-1.7 mm long; anthers 0.4-0.8 mm long .....1. M. racemosa
+38. Glumes unawned or awn-tipped, 0.4-4 mm long (including the awns), from shorter than to about 1.2 times longer than the lemmas.
+40. Lemmas usually completely glabrous, rarely with a few appressed hairs.
+41. Culms 30-100 cm tall, bushy and much branched above; axillary panicles common, partly included or exserted from the sheaths; lemmas shiny, stramineous or purplish, not mottled; anthers 0.3-0.5 mm long.....5. M. glabrifloris
+ 
+41. Culms 5-30 cm tall, often mat-forming; axillary panicles not present; lemmas dark greenish or plumbeous, sometimes mottled; anthers 0.9-1.6 mm long .....37. M. richardsonis
+40. Lemmas with hairs, these sometimes restricted to the callus.
+42. Lemma bases with hairs about as long as the florets, usually 2-3.5 mm long .....6. M. andina
+42. Lemma bases glabrous or with hairs shorter than the florets, usually shorter than 1.5 mm. 43. Glumes unequal in length, the lower glumes 0.4-1.5 mm long, the upper glumes 0.8-1.9 mm long  .....7. M. xcurtisetosa
+43. Glumes subequal in length, 1-4 mm long.
+44. Axillary panicles often present, always partly included in the sheaths; internodes smooth, shiny.
+45. Ligules 0.2-0.6 mm long; leaves of the lateral branches often shorter and narrower than those of the main branches; glumes 1.4-2 mm long, 1/3– 2/3  as long as the lemmas .....M. bushii
+45. Ligules 0.7-1.7 mm long; leaves of the lateral branches similar in length and width to those of the main branches; glumes 2-4 mm long, about as long as the lemmas .....9. M. frondosa
+44. Axillary panicles, if present, exserted on elongated peduncles; internodes smooth, scabrous, or pubescent, sometimes smooth and shiny.
+46. Glumes much shorter than the lemmas, acute.
+47. Anthers 0.4-1 mm long; lemmas unawned, or with a short awn less than 1 mm long; internodes and sheaths glabrous ..... 10. M. sobolifera
+47. Anthers 1.1-2.2 mm long; lemmas awned (occasionally unawned), the awns to 12 mm long; internodes (and usually the base of the sheaths) pubescent .....11. M. tenuiflora
+46. Glumes nearly as long as or longer than the lemmas, acuminate.
+48. Anthers 1-1.7 mm long; sheaths scabrous; lemma awns 0.2-2.2 mm long; restricted to the Transverse Ranges of southern California .....4. M. californica
+48. Anthers 0.3-0.8 mm long, sheaths smooth for most of their length; lemma awns to 18 mm long; widespread species, but not known from southern California.
+49. Ligules 0.4-1 mm long; panicles dense; pedicels up to 2 mm long; anthers 0.3-0.5 mm long .....3. M. mexicana
+49. Ligules 1-2.5 mm long; panicles not dense, pedicels 0.8-3.5 mm long; anthers 0.4-0.8 mm long .....12. M. sylvatica
+20. Rhizomes absent; plants cespitose or bushy [for opposite lead, see p. 147].
+50. Upper glumes usually 3-veined and 3-toothed; old sheaths flattened, ribbonlike or papery, sometimes spirally coiled. 51. Lemmas unawned, mucronate, or with awns to 5 mm long.
+52. Lower glumes awned, the awns to 1.6 mm long; blades 2-6 cm long, filiform, tightly involute, sharp-tipped  .....43. M. filiculmis
+ 
+52. Lower glumes unawned; blades (5)6-12 cm long, flat or loosely involute to subfiliform, not sharp-tipped  .....44. M. jonesii
+51. Lemmas awned, the awns (2)6-27 mm long.
+53. Upper glumes as long as or longer than the lemmas, the apices acuminate to acute, occasionally minutely 3-toothed; old sheaths conspicuously spirally coiled .....45. M. straminea
+53. Upper glumes 1/3 – 2/3 as long as the lemmas, the apices truncate to acute, 3-toothed; old sheaths occasionally spirally coiled  .....46. M. montana
+50. Upper glumes usually 1-veined, (rarely 2- or 3-veined), rounded, obtuse, acute, or acuminate, entire or erose; old sheaths not flattened or papery, never spirally coiled.
+54. Panicles loosely contracted, open, or diffuse, (1)2-40 cm wide; panicle branches usually not appressed at maturity, often naked basally [for opposite lead, see p. 152].
+55. Culms arising from the bases of old depressed culms; plants loosely matted, delicate; lemmas 1.2-2 mm long, unawned .....42. M. uniflora
+55. Culms not arising from the bases of old depressed culms; plants cespitose, not delicate; lemmas 2-5 mm long, awned or unawned. 
+56. Lemmas unawned or with awns to 4(6) mm long.
+57. Basal sheaths laterally compressed, usually keeled.
+58. Glumes longer than the lemmas; ligules 10-25 mm long, membranous throughout; lemmas 2-3 mm long, usually awned, the awns to 15 mm long, occasionally unawned.....49. M. emersleyi
+58. Glumes shorter than the lemmas; ligules 3-12 mm long, firm and brown near the base, membranous distally; lemmas 3-4.2 mm long, awned, the awns 0.5-4 mm long   .....50. M. xinvoluta
+57. Basal sheaths rounded to somewhat flattened, not keeled.
+59. Culms 10-60(70) cm tall, somewhat decumbent; blades 0.5-10(16) cm long.
+60. Blade margins and midveins conspicuous, thick, white, and cartilaginous; ligules 1-2 mm long.....29. M. arizonica
+60. Blade margins not conspicuously thickened, greenish; ligules 2-9 mm long.
+61. Blades arcuate, 0.3-0.9 mm wide, 1-3(5) cm long; usually  no culm nodes exposed; most leaf blades reaching no more than 1/5 of the plant height .....30. M. torreyi
+61. Blades not arcuate, 1-2.2 mm wide, 4-10(16) cm long; 1 or more culm nodes exposed; leaf blades reaching 1/4 - 1/2 of the plant height  .....31. M. arenicola
+59. Culms 40-160 cm tall, erect from the base; blades (8)10-100 cm long.
+62. Pedicels 0.1-2.5 mm long, usually shorter than the florets; glumes usually longer than the florets; ligules 10-30 mm long; panicle branches not capillary, appressed or spreading up to 60° from the rachises, the lower branches with 30-60 spikelets .....51. M. longiligula
+62. Pedicels 3-50 mm long, longer than the florets; glumes usually shorter than the florets; ligules 1.8-10 mm long; panicle branches capillary, spreading 30-100° from the rachises, the lower branches with 5-20 spikelets. 63. Panicles about as long as wide, not diffuse, 10-20(30) cm long; branches and pedicels stiff or flexible .....55. M. reverchonii
+63. Panicles longer than wide, diffuse, 15-60 cm long; branches and pedicels flexible.
+64. Glumes more than 1/2 as long as the lemmas; lemmas usually unawned, if awned, the awns no more than 3 mm long   .....52. M. expansa
+ 
+64. Glumes less than 1/2 as long as the lemmas; lemmas usually awned, the awns to 18 mm long  .....53. M. capillaris
+56. Lemma awns 6-35 mm long.
+65. Plants conspicuously branched, bushy in appearance; culms wiry, with geniculate, stiff, widely divergent branches .....26. M. porteri
+65. Plants not conspicuously branched, not bushy in appearance, usually typical bunchgrasses; culms not wiry, when branched, the branches not both geniculate and widely divergent.
+66. Basal sheaths laterally compressed, commonly keeled; glumes (excluding any awns) exceeding the florets; culms (50)80-150 cm tall .....49. M. emersleyi
+66. Basal sheaths rounded; glumes (excluding any awns) exceeded by the florets; culms 30-160 cm tall.
+67. Glumes apices puberulent or scabridulous, acuminate to acute; lemmas long-acuminate, the demarcation of the lemma body and awn not evident  .....57. M. elongata
+67. Glume apices glabrous or sparsely hirtellous, obtuse to acute, sometimes awned; lemmas acute to acuminate, the demarcation of the lemma body and awn evident.
+68. Glumes neither awned nor mucronate; spikelets dark purple; lemmas scabrous distally.
+69. Panicles 8-41 cm wide, open, diffuse, the branches strongly divergent; pedicels 10-40(50) mm long; in the Flora region, restricted to the eastern United States, growing from Connecticut south to Kansas, Oklahoma, eastern Texas, and Florida.....53. M. capillaris
+69. Panicles 2-5 (12) cm wide, loosely contracted to open, most branches appressed to ascending, occasionally a few diverging up to 80°; pedicels 1-10 mm long; in the Flora region, restricted to the southwestern United States, growing from Arizona to western Texas ..... 56. M. rigida
+68. Glumes usually awn-tipped or mucronate; spikelets stramineous, brown, or purplish; lemmas smooth or scabrous distally.
+70. Lemmas shiny, smooth; blades tightly involute, 0.2-1.2 mm wide; panicles 2-5 cm wide, loosely contracted; branches diverging up to 70° from the rachises .....58. M. setifolia
+70. Lemmas not shiny, usually scabrous, at least distally; blades flat or involute, 1-4 mm wide; panicles 5-40 cm wide, loosely contracted to open; branches diverging 30°-100° from the rachises.
+71. Panicles 10-20(30) cm long, about equally wide, not diffuse; branches spreading up to 80° from the rachises at maturity; spikelets stramineous, brownish or purple-tinged; lemmas awned, the awns 0.5-6 mm long .....55. M. reverchonii
+71. Panicles 15-50(60) cm long, narrower than long, diffuse; branches spreading 30-100° from the rachises at maturity; spikelets usually purplish; lemmas unawned or, if awned, the awns to 35 mm long.
+ 
+72. Upper glumes unawned or with awns to 5 mm long; lemmas without setaceous teeth or the teeth no more than 1 mm long; lemma awns 2-13(18) mm long .....53. M. capillaris
+72. Upper glumes awned, the awns 2-25 mm long; lemmas with setaceous teeth 1-5 mm long; lemma awns 8-35 mm long .....54. M. sericea
+54. Panicles narrow, 0.2-3(5) cm wide; branches appressed to ascending at maturity, usually spikelet-bearing their whole length [for opposite lead, see p. 150]. 
+73. Panicles spikelike, 0.1-1.2 cm wide, sometimes interrupted near the base; branches appressed, 0.3-1.2(4) cm long. 
+74. Culms 3-20(35) cm tall, often decumbent and rooting at the lower nodes; blades 1-4(6) cm long .....38. M. filiformis
+74. Culms (15)20-150 cm tall, stiffly erect, not rooting at the lower nodes; blades 1.4-50 cm long, at least some more than 6 cm long. 
+75. Lemmas awned, awns 3-10 mm long; lemmas scabridulous, the veins and margins glabrous .....59. M. palmeri
+75. Lemmas unawned, sometimes mucronate, the mucros up to 1 mm long; lemmas with hairs on the lower 1/6, the hairs sometimes extending to 3/4 of the lemma length over the midvein and margins. 
+76. Basal leaf sheaths rounded on the back; panicles 15-60 cm long .....62. M. rigens 
+76. Basal leaf sheaths compressed, the backs keeled; panicles 4-16 cm long.
+77. Ligules 0.2-0.8 mm long; paleas glabrous; glume apices gradually acute to acuminate, mucronate, the mucros to 0.3 mm long .....27. M. cuspidata
+77. Ligules 1-3(5) mm long; paleas pubescent between the veins; glumes abruptly narrowed, acute or obtuse, awned, the awns 0.5-1 mm long .....28. M. wrightii
+73. Panicles not spikelike, 0.6-5 cm wide; branches appressed, ascending, or diverging up to 70°, 0.2-13 cm long.
+78. Ligules 10-35 mm long, firm and brown basally, membranous distally; glumes as long as or longer than the florets. 
+79. Basal sheaths rounded; lemmas unawned or with awns to 2 mm long; plants of Arizona and New Mexico  .....51. M. longiligula
+79. Basal sheaths compressed-keeled, at least basally; lemmas unawned or
+with awns to 4 mm long; endemic to south central Texas, sometimes grown as an ornamental  .....60. M. lindheimeri
+78. Ligules 0.2-10 mm long, usually membranous throughout, sometimes firmer basally, never brownish; glumes shorter than the florets.
+80. Lemma awns 0.5-6 mm long.
+81. Blades 10-60 cm long.
+82. Glumes  acute,  unawned;  ligules 4-10 mm long,  acute, lacerate; spikelets grayish-green .....61. M. dubia
+82. Glumes acute to acuminate, awned, the awns to 1.5 mm long; ligules 1-3 mm long, truncate, ciliolate; spikelets yellowish-brown to purplish.....59. M. palmeri
+81. Blades to 10 cm long.
+83. Glumes 2-4 mm long; lemmas 3.5-5 mm long, the awns flexuous; ligules 1-2 mm long, with lateral lobes less than 1.5 mm longer than the central portion; anthers 1.3-3 mm long, purple  .....24. M. arsenei
+83. Glumes less than 2 mm long; lemmas 1.8-3(3.4) mm long, the awns straight; ligules 0.2-1.1 mm long, without lateral lobes; anthers 0.2-0.9 mm long, yellow.
+ 
+ 
+
+ 
+84. Upper glumes veinless, 0.1-0.3 mm long; lower glumes rudimentary or lacking, veinless .....13. M. schreberi
+84. Upper glumes  l(2)-veined, 0.8-1.9 mm long; lower glumes 0.4-1.5 mm long, veinless or 1-veined .....7. M. xcurtisetosa
+80. Lemma awns 6-40 mm long.
+85. Glumes 0.3-1 mm long, obtuse to acute, sometimes erose, not awned; anthers 0.9-1.6 mm long .....25. M. spiciformis
+85. Glumes  (1)1.2-3.5  mm  long,  acute to  acuminate,  usually awn-tipped; anthers 0.9-3 mm long. 
+86. Blades 15-50 cm long; lemma awns 3-10 mm long; plants of southern Arizona and Chihuahua, Mexico .....59. M. palmeri
+86. Blades 1-15 cm long; lemma awns 4-30 mm long; plants of the southwestern United States, including southern Arizona.
+87. Lemmas and paleas almost glabrous, with only a few short hairs on the calluses; ligules with lateral lobes, the lobes 1.5-3 mm longer than the central portion; culms erect and plants tightly cespitose at the base; sheaths and blades usually with dark brown necrotic spots .....22. M. pauciflora
+87. Lemmas and paleas pubescent on the lower 1/3 – 2/3 of the midveins and margins; ligules without lateral lobes or with lobes less than 1.5 mm longer than the central portion; culms decumbent and plants loosely cespitose; sheaths and blades without necrotic spots.
+88. Anthers 0.9-1.5 mm long, yellowish; panicles usually 7-20 cm long .....14. M. tenuifolia
+88. Anthers 1.3-2 mm long, purplish or orange; panicles 2-13 cm long.
+89. Anthers orange, 1.5-2 mm long; lemmas elliptic, 2-3.5 mm long, with awns 10-20(25) mm long; panicles 0.3-1.8 cm wide .....23. M. polycaulis
+89. Anthers purple, 1.3-3 mm long; lemmas lanceolate, 3.5-5 mm long, with awns 4-12(20) mm long; panicles 1-5 cm wide .....24. M. arsenei
+
+    </key_body>
+  </key>
+</bio:treatment>

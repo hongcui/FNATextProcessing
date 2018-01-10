@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Phleum phleoides (L.) H. Karsten </name_authority_date>
+  </taxon_identification>
+  <common_names>PURPLE-STEM CAT'S TAIL</common_names>
+  <description type="morphology">Plants perennial; densely ces¬pitose, not rhizomatous. Culms 6-90 cm, erect or nearly so, lower internodes not enlarged or bulbous. Sheaths of the flag leaves inflated; auricles not developed; ligules 1-2 mm, truncate, rounded, or obtuse; blades to 12(26) cm long, 1-6 mm wide, flat or convolute. Panicles 2-14(17) cm long, 4-10 mm wide, narrowly cylindrical, tapering distally; branches not adnate to the rachises. Glumes 2-3.7 mm, oblong-lanceolate, keels usually scabrous or shortly ciliate, sometimes smooth, apices not abruptly narrowed, awned, awns 0.3-0.5 mm; lemmas 2/3 - 3/4 as long as the glumes, glabrous or puberulent, apices acute; anthers about 1.5 mm. 2n = 14, 28.</description>
+  <discussion>Phleum phleoides is native to dry grasslands from Europe through central Asia. It was collected, in 1990, beside railroad tracks in Coquitlam, British Columbia.</discussion>
+</bio:treatment>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>13.17</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>LEYMUS Hochst.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; sometimes cespitose, often rhizomatous. Culms 10-350 cm, erect, with extravaginal branching. Leaves basal or evenly distributed; sheaths open; auricles usually present; ligules membranous, truncate to rounded; blades often stiff, adaxial surfaces usually with subequal, closely spaced, prominently ribbed veins, sometimes with unequal, widely spaced, not prominently ribbed veins. Inflorescences usually distichous spikes with 1-8 spikelets per node, sometimes panicles with (2)3-35 spikelets associated with each rachis node; rachises with scabrous or ciliate edges; internodes 3.5-12(15) mm. Spikelets 1/2 - 33/4 times the length of the rachis internodes, usually sessile, sometimes pedicellate, pedicels to 5 mm, appressed to ascending, with 2-12 florets, the terminal floret usually reduced; disarticulation above the glumes, beneath the florets. Glumes usually 2, usually equal to subequal, the lower or both glumes sometimes reduced or absent, lanceolate and narrowing in the distal 1/4, or lanceolate to subulate and tapering from below midlength, pilose or glabrous, sometimes scabrous, 0-3(7)-veined, veins evident at least at midlength, sometimes keeled, keels straight or almost so, apices acute, acuminate, or tapering to an awnlike tip, if distinctly awned, awns to 4 mm; lemmas glabrous or with hairs, sometimes scabrous distally, inconspicuously 5-7-veined, rounded over the back proximally, sometimes keeled distally, keels not conspicuously scabrous distally, apices acute, unawned or awned, awns usually to 7 mm, sometimes 16-33 mm, straight; paleas slightly shorter than to slightly longer than the lemmas, keels usually scabrous or ciliate on the distal portion, sometimes throughout; lodicules 2, shortly hairy, lobed; anthers 3, 2.5-10 mm. Caryopses with hairy apices, x = 7. Haplomes NsNs or NsXm (see below). </description>
+  <discussion>Leymus is a genus of approximately 50 species; all are native to temperate regions in the Northern Hemisphere. They are most abundant in eastern Asia, with North America being a secondary center. Of the 17 species treated, 11 are native to the Flora region, 4 are introduced, and 2 are naturally occurring hybrids.
+Most species of Leymus, including most North American species, grow well in alkaline soils. They are used for soil stabilization and forage. All the species are self-incompatible, outcrossing polyploids. One of the haplomes present is the Ns genome; this genome is also found in Psathyrostachys, most species of which are diploids. There is disagreement concerning the second haplome. Wang and Jensen (1994) argued that there are two different haplomes present, the origin of the second one being unknown and designated Xm. Bodvarsdottir and Anamthawat-Jonsson (2003) found no molecular probes that would distinguish between the two genera, from which they argued that Leymus is a segmental allopolyploid with only one basic haplome, Ns. Morphologically, Psathyrostachys and Leymus are very similar, the major differences being that Psathyrostachys is never rhizomatous, has disarticulating rachises, and, usually, distinctly awned lemmas.
+Leymus arenarius and L. mollis are sometimes mistaken for Ammophila, which grows in the same habitats and has a similar habit. Ammophila differs from Leymus, however, in having only one floret per spikelet.
+In most species of Leymus, at least some of the spikelets are on pedicels up to 2 mm long. Despite this, it is customary to identify the inflorescence of such species as a spike rather than a raceme, as is done in this treatment. Culm thicknesses are measured on the lower internodes. Descriptions of rachis nodes, unless stated otherwise, apply to the internodes at midspike.
+</discussion>
+  <references>Anamthawat-Jonsson, K. 2005. The Leymus Ns-genome. Czech J. Genet. PI. Breed. 41(Special Issue):13-20; Barkworth, M.E. and R.J. Atkins. 1984. Leymus Hochst. (Gramineae: Triticeae) in North America: Taxonomy and distribution. Amer. J. Bot. 71:609-625; Bodvarsdottir, S.K. and K. Anamthawat-Jonsson. 2003. Isolation, characterization, and analysis of Leymus-specific DNA sequences. Genome 46:673-682; Bowden, W.M. 1957. Cytotaxonomy of section Psammelymus of the genus Elymus. Canad. J. Bot. 35:951-993; Bowden, W.M. 1959. Chromosome numbers and taxonomic notes on northern grasses: I. Tribe Triticeae. Canad. J. Bot. 37:1143-1151; Chen, S.-L. and G.-H. Zhu. 2006. Leymus. Pp. 386-394 in Z.-Y. Wu, PH. Raven, and D.-Y. Hong (eds.). Flora of China, vol. 22 (Poaceae). Science Press, Beijing, Peoples Republic of China and Missouri Botanical Garden Press, St. Louis, Missouri, U.S.A. 653 pp. http://flora.huh.harvard.edu/ china/mss/volume22/index.htm; Hole, D.J., K.B. Jensen, R.R.-C. Wang, and S.M. Clawson. 1999. Molecular analysis of Leymus flavescens and chromosome pairing in Leymus flavescens hybrids (Poaceae: Triticeae). Int. J. Plant Sci. 160:371-376; Jensen, K.B. and R.R.-C. Wang. 1997. Cytological and molecular evidence for transferring Elymus coreanus from the genus Elymus to Leymus and molecular evidence for Elymus californicus (Poaceae: Triticeae). Int. J. Pi. Sci. 158:872-877; Mason-Gamer, R.J. 2001. Origin of North American Elymus (Poaceae:Triticeae) allotetraploids based on granule-bound starch synthase gene sequences. Syst. Bot. 26:757-768; Tsvelev, N.N. 1976. Zlaki SSSR. Nauka, Leningrad [St. Petersburg], Russia. 788 pp.; Tsvelev, N.N. 1995. Leymus. Pp. 300-306 in J.G. Packer (ed., English edition). Flora of the Russian Arctic, vol. 1, trans. G.C.D. Griffiths. University of Alberta Press, Edmonton, Alberta, Canada. 330 pp. [English translation of A.I. Tolmachev (ed.). 1964. Arkticheskaya Flora SSSR, vol. 2. Nauka, Leningrad [St. Petersburg], Russia. 272 pp.]; Wang, R.R.-C. and K.B. Jensen. 1994. Absence of J genome in Leymus species (Poaceae: Triticeae): Evidence from DNA hybridization and meiotic pairing. Genome 37:231-235; Wang, R.R.-C, J.-Y. Zhang, B.S. Lee, K.B. Jensen, M. Kishi, and H. Tsuijimoto. 2006. Variations in abundance of 2 repetitive sequences in Leymus and Psathyrostachys species. Genome 49:511-519; Zhang, H.B. and J. Dvorak. 1991. The genome origin of tetraploid species of Leymus (Poaceae: Triticeae) inferred from variation in repeated nucleotide sequences. Amer. J. Bot. 78:871-884.</references>
+  <key>
+    <key_body>
+1. Glumes absent or shorter than 1 mm; lemmas awned, awns 16-33 mm long.....17. L. californicus
+1. Glumes developed, 3+ mm long, at least 1 on each spikelet; lemmas unawned or awned, awns to 7 mm long. 2. Glumes flat or rounded on the back, tapering from midlength or above, flexible, the central portion scarcely thicker than the margins .....3. L. mollis
+2. Glumes keeled, at least distally, tapering from below midlength, stiff, the central portion thicker than the margins.
+ 
+3. Anthers usually indehiscent; plants rhizomatous, restricted to coastal regions from British Columbia to California. 
+4. Glumes pubescent distally; lemmas awned, awns to 4 mm long; inflorescences spikes, not branched  ...... L. xvancouverensis
+4. Glumes glabrous; lemmas acute to awned, awns to 1.8 mm long; inflorescences sometimes with strongly ascending branches .....11. L. xmultiflorus
+3. Anthers dehiscent; plants rhizomatous or cespitose, widespread, including coastal regions from British Columbia to California.
+5. Inflorescences with 2-4 branches to 6 cm long at the proximal nodes; culms 115-350 cm tall .....10. L. condensatus
+5. Inflorescences without branches; culms 10-270 cm tall.
+6. Lemmas densely hairy, hairs 0.7-3 mm long, occasionally glabrate.
+7. Lemmas awned, awns 2-4 mm long; lemma hairs 0.7-2.5 mm long   .....15. L. innovatus
+7. Lemmas unawned or the awns to 2 mm long; lemma hairs 2-3 mm long  .....16. L. flavescens
+6. Lemmas usually wholly or partly glabrous, or if hairy, the hairs shorter than 0.5(0.8) mm.
+8. Leaves equaling or exceeding the spikes; culms 10-30(60) cm tall; spikes 2-8 cm long, with 1-2 spikelets per node; plants of California coastal bluffs .....5. L. pacificus
+8. Leaves exceeded by the spikes; culms 35-270 cm tall; spikes 3-35 cm long, with 1-8 spikelets per node; plants widespread in the western part of the Flora region, including the coastal bluffs of California.
+9. Plants  cespitose,  not or weakly rhizomatous,  culms  several to  many together. 
+10. Spikes with 2-7 spikelets per node; blades 3-12 mm wide; culms (70)100-270 cm tall .....12. L. cinereus
+10. Spikes with 1 spikelet at the distal nodes, often at all nodes, sometimes with 2(3) at the lower nodes; blades 1-6 mm wide; culms 35-140 cm tall.
+11. Blades with 5-9 adaxial veins; lemma awns to 2.5 mm long .....13. L salina
+11. Blades with (9)11-17 adaxial veins; lemma awns 1.3-7 mm long .....14. L. ambiguus
+9. Plants rhizomatous, culms solitary or few together. 
+12. Culms 1-3 mm thick; glumes 4-16 mm long.
+13. Spikes with 1 spikelet at all or most nodes, sometimes with 2 at a few nodes; lemma awns 2.3-6.5 mm long; culms 35-55 cm tall  ..... 6. L. simplex
+13. Spikes with 2+ spikelets at most nodes; lemma awns to 3 mm long; culms 45-125 cm tall.
+14. Adaxial surfaces of the blades usually with closely spaced, prominently ribbed, subequal veins; calluses usually glabrous, occasionally with a few hairs about 0.1 mm long .....7. L. triticoides
+14. Adaxial surfaces of the blades usually with widely spaced, not prominently ribbed veins, the primary veins evidently larger than the intervening secondary veins; calluses with hairs about 0.2 mm long ..... 8. L. multicaulis
+12. Culms 2.5-12 mm thick; glumes 10-30 mm long.
+15. Spikelets 3-8 per node; lemmas hairy proximally, glabrous distally  .....1. L. racemosus
+15. Spikelets 2-3 per node; lemmas glabrous or hairy their whole length.
+16. Anthers 6-9 mm long; blades 3-11 mm wide; glumes with hairs to 1.3 mm long; plants established around the Great Lakes and the coast of Greenland, also found at a few other scattered locations, including western North America, sometimes cultivated .....2. L. arenarius
+16. Anthers 3-5 mm long; blades 5-7 mm wide; glumes glabrous, sometimes scabrous; plants cultivated .....9.L. angustus
+
+    </key_body>
+  </key>
+</bio:treatment>

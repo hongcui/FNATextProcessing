@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Calamovilfa longifolia var. magna Scribn. & Merr.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Sheaths usually pubescent, often densely so, rarely glabrous. Panicles to 77.5 cm long, usually 1.3-5.5 times as long as wide; branches to 33 cm long, typically widely divergent, sometimes reflexed in the lower 1/3 of the panicle. Spikelets commonly with a brownish cast, relatively loosely imbricate.</description>
+  <discussion>Calamovilfa longifolia var. magna grows on dunes and sandy shores around lakes Superior, Michigan and Huron, with outlying stations in sand or sandy soils.</discussion>
+</bio:treatment>

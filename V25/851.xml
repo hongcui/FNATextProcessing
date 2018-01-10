@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Cynodon incompletus Nees </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants stoloniferous, not rhizomatous. Culms 5-30 cm. Sheaths glabrous; ligules membranous; blades 1.5-6 cm long, 2-4 mm wide, glabrous or pubescent. Panicles with 2-6 branches; branches 2-5 cm, in a single whorl, axes flattened. Spikelets 2-3 mm, narrowly to broadly ovate. Glumes 1.7-2.1 mm, exceeded by the florets; lemmas 2.2-2.6 mm, keels winged and pubescent, mar¬gins glabrous. 2n = 18, 36.</description>
+  <discussion>Cynodon incompletus is native to southern Africa. A hybrid between the two varieties identified below, Cynodon xbradleyi Stent, is used as a lawn grass in North America (de Wet and Harlan 1970).
+1. Blades glabrous or sparsely hirsute; spikelets 2.5-3 mm long, narrowly ovate 	var. incompletus
+1. Blades densely hirsute; spikelets  2-2.5 mm long, broadly ovate 	var. hirsutus
+</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Zea mays L. subsp. mays</name_authority_date>
+  </taxon_identification>
+  <common_names>CORN, INDIAN CORN, MAIZE, MAIS</common_names>
+  <description type="morphology">Culms (1)2-4(6) m tall, (1)2-5 cm thick. Blades 50-90 cm long, 3-12 cm wide. Pistillate inflorescences spikes, 15-25(40) cm long, 2-5(10) cm thick, cylindrical, tightly and permanently enclosed in several to many leaf sheaths and a large prophyll, with 8-24 or more rows of paired spikelets on a thickened, strongly vascularized, tough rachis [cob), not disarticulating at maturity; fruitcases not developed, rachis internodes fused into the extra-vascular cylinder, glumes reduced, shallow. Caryopses 60-1000+, exposed and naked. Staminate panicles with a polystichous central axis and non-disar¬ticulating branches; central axes usually much denser and thicker than the usually distichous lateral branches, these lacking abscission layers. 2n = 20.</description>
+  <discussion>Zea mays subsp. mays is the familiar domesticated corn (or maize), from which around 400 indigenous races and many different kinds of cultivars have been developed. It is an obligate cultigen, unable to persist outside of cultivation because the caryopses are permanently attached to the rachis and enclosed by the subtending leaf sheaths. Supersweet cultivars have a double recessive gene that delays the conversion of sugar to starch; flint corns have unusually hard endosperm; and waxy cultivars have endosperm with an unusually high level of proteins and oils. Popcorns have a core of soft, relatively moist endosperm surrounded by hard endosperm. The grains "pop" when heat causes the moisture of the inner endosperm to vaporize.</discussion>
+</bio:treatment>

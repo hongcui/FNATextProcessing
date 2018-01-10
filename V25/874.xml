@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Bouteloua aristidoides (Kunth) Griseb. var. aristidoides</name_authority_date>
+  </taxon_identification>
+  <common_names>NEEDLE GRAMA</common_names>
+  <description type="morphology">Panicle branches 5-16 mm to the base of the terminal spikelets and extending an additional 6-10 mm, with 2-5 spikelets.</description>
+  <discussion>Bouteloua aristidoides var. aristidoides grows in dry mesas, plains, and washes from near sea level to about 2000 m. It matures rapidly following summer rains, and can be abundant over large areas within its range, which extends from California to western Texas and Mexico.
+ 
+</discussion>
+</bio:treatment>

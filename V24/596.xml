@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>18</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca heterophylla Lam. </name_authority_date>
+  </taxon_identification>
+  <common_names>VARIOUS-LEAVED FESCUE, FÉTUQUE HÉTÉROPHYLLE</common_names>
+  <description type="morphology">Plants densely to loosely cespitose, without rhizomes. Culms 60-120(150) cm, glabrous, smooth. Sheaths closed for about 3/4  their length, slowly shredding into fibers; collars glabrous; ligules 0.1-0.3 mm; blades varying within a plant, blades of the vegetative shoots to 60 cm long, (0.2)0.3-0.6 mm in diameter, conduplicate, veins 3-5(7), ribs 1(3), abaxial surfaces smooth or sparsely scabrous, adaxial surfaces scabrous, cauline blades to 25 cm long, 2-4 mm wide, flat; abaxial sclerenchyma of the vegetative shoot blades in 3-5 small strands less than twice as wide as high, of the upper cauline blades in 7-11 small strands; adaxial sclerenchyma absent. Inflorescences 6-18 cm, open or contracted, somewhat secund, with 1-2 branches per node; branches more or less erect, scabrous, lower branches with 2+ spikelets. Spikelets 7-14 mm, with (2)3-6(9) florets. Glumes exceeded by the upper florets; ovate-lanceolate to lanceolate, mostly smooth or scabrous on the upper midvein; lower glumes 3-5.5 mm; upper glumes 4-6.5(7) mm; lemmas (4.7)5-8.5 mm, lanceolate, mostly smooth, sometimes scabrous near the apices, awns 1.5-6 mm; paleas as long as the lemmas, intercostal region smooth or scabrous distally; anthers 2.5-4.5 mm; ovary apices pubescent. 2n = 28.</description>
+  <discussion>Festuca heterophylla is native to open forests and forest edges in Europe and western Asia. In the Flora region, it used to be planted as a turf grass for shady areas, and sometimes persists in old lawns.</discussion>
+</bio:treatment>

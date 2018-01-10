@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthelium ravenelii (Scribn. & Merr.) Gould </name_authority_date>
+  </taxon_identification>
+  <common_names>RAVENEL'S PANICGRASS</common_names>
+  <description type="morphology">Plants cespitose, with caudices. Basal rosettes well-differentiated; blades 3-8 cm, ovate to lanceolate. Culms 25-75 cm, 2-3 mm thick, erect, purplish; nodes densely bearded with spreading to retrorse hairs above a glabrous ring; internodes pilose or ascending hirsute, hairs papillose-based, also puberulent; fall phase with nearly erect culms, branching from the mid- and upper culm nodes; branches short, ascending, bushy, with several reduced, partly enclosed secondary panicles. Cauline leaves 4-6; sheaths not overlapping, papillose-hirsute and puberulent; collars densely pubescent; ligules 2-5 mm, of hairs; blades 8-17 cm long, 8-18 mm wide, lanceolate, stiff, thick, abaxial surfaces densely soft-pubescent, velvety, adaxial surfaces glabrous or sparsely pilose, with 9-11 major veins slightly more prominent than the minor veins, bases rounded or subcordate, margins with papillose-based cilia, apices acuminate. Primary panicles 5-11 cm, almost as wide as long, shortly exserted, with few spikelets; rachises and branches scabridulous and finely pubescent, hairs papillose-based. Spikelets 3.7-4.3 mm long, 1.6-2.1 mm wide, obovoid, turgid, often shiny, sparsely pustulose-villous. Lower glumes 1.8-2.5 mm, loose, strongly veined, acute; upper glumes shorter than the spikelets, strongly veined, purplish at the base; lower florets sterile; upper florets with a minute tuft of hairs around the umbonate apices. 2n = 18.</description>
+  <discussion>Dichanthelium ravenelii grows in dry, sandy wood¬lands of the southeastern United States. The primary panicles develop from early May through June, and are at least partly open-pollinated. The secondary panicles, which are produced from July through September, are cleistogamous. Putative hybrids with other species are very rare.</discussion>
+</bio:treatment>

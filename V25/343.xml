@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>18</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Chloris radiata (L.) Sw. </name_authority_date>
+  </taxon_identification>
+  <common_names>RADIATE WINDMILL-GRASS</common_names>
+  <description type="morphology">Plants annual; with dense fibrous root growth, not stoloniferous. Culms 30-60 cm, erect or decumbent, occasionally rooting at the lower nodes. Sheaths usually glabrous, occasionally pilose; ligules membranous, shortly ciliate; blades 10-30 cm long, to 10 mm wide, sometimes with long basal hairs, usually pilose elsewhere, occasionally glabrous or scabrous. Panicles with 5-15, evidently distinct branches in 1-2(3) whorls; branches 4.5-8 cm, spikelet-bearing to the base, with 11-15 spikelets per cm distally. Spikelets with 1 bisexual and 1 sterile floret. Lower glumes 0.7-1.6 mm; upper glumes 2-2.7 mm; lowest lemmas 2.8-3.3 mm long, 0.4-0.6 mm wide, lanceolate to elliptic, sides not conspicuously grooved, mostly glabrous, margins shortly ciliate distally, hairs less than 1 mm, apices awned, awns 6-13 mm; second florets 0.4-0.7 long, about 0.1 mm wide, borne on an equally long or longer rachilla segment, not or inconspicuously bilobed, awned, awns 3-5 mm. Caryopses 1.4-1.5 mm long, 0.3-0.4 mm wide, ellipsoidal. 2n = 40.</description>
+  <discussion>Chloris radiata is a weedy species of the eastern Caribbean, Central America, and northern South America. It may be native to Florida, but the record from Linton, Oregon, was from a ballast dump. The species is no longer found in Oregon.</discussion>
+</bio:treatment>

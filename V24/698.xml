@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Beckmannia syzigachne (Steud.) Fernald </name_authority_date>
+  </taxon_identification>
+  <common_names>AMERICAN SLOUGHGRASS, BECKMANNIE À ÉCAILLES UNIES</common_names>
+  <description type="morphology">Plants annual; tufted. Culms 20-120 cm. Ligules 5-11 mm, pubescent, entire or lacerate, usually folded back; blades 4-10(20) mm wide, flat, scabrous. Panicles 7-30 cm; branches spikelike, usually 1-2 cm. Spikelets 2-3 mm, round to ovate in side view, with 1 floret, a second undeveloped or well-developed floret occasionally present. Glumes appearing inflated, strongly keeled, 3-veined, apiculate; lemmas 2.4-3.5 mm, unawned, sometimes mucronate; paleas subequal to the lemmas, acute; anthers 0.5-1(1.5) mm, pale yellow. Caryopses shorter than 2 mm, light to medium brown. 2n = 14.</description>
+  <discussion>Beckmannia syzigachne grows in damp habitats such as marshes, floodplains, the edges of ponds, lakes, streams, and ditches, and in standing water. It is a good forage grass, but frequently grows in easily damaged habitats.</discussion>
+</bio:treatment>

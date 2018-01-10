@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Tragus heptaneuron Clayton </name_authority_date>
+  </taxon_identification>
+  <common_names>SEVEN-VEINED BURGRASS </common_names>
+  <description type="morphology">Plants annual. Culms 15-41cm. Ligules 0.5-1 mm; blades
+2.5-7 cm long, 3-5 mm wide, glabrous. Panicles 4-9.5 cm
+long, 7-9 mm wide; rachises pubescent; branches 0.5-1 mm, pubescent, with 2(3) spikelets, axes  not  extending  past  the distal spikelets; proximal internodes 0.5-0.8 mm, longer than the second internodes. Spikelets bisexual; proximal spikelets 3-3.5 mm; second spikelets 2.9-3.3 mm. Lower glumes absent or to 0.4 mm, glabrous; upper glumes 3-3.5 mm, minutely pubescent, 7-veined; glume projections 6-9, in 7 rows, 0.1-0.6(1) mm, uncinate; lemmas (2)2.3-2.7 mm, sparsely pubescent on the back; paleas 2.1-2.3 mm; anthers 3, 0.3-0.6 mm, yellow. Caryopses (1.2)1.4-1.6 mm long, 0.6 mm wide. 2n = unknown.
+</description>
+  <discussion>Tragus heptaneuron is native to tropical Africa, but it has been collected in Florence County, South Carolina.</discussion>
+</bio:treatment>

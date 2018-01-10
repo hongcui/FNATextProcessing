@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>14.51</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>SCOLOCHLOA Link</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; strongly rhizomatous, rhizomes succulent. Culms 70-200 cm, sometimes rooting at the lower nodes. Sheaths open; auricles absent; ligules membranous, truncate to rounded; blades 4-12 mm wide, flat. Inflorescences terminal, open panicles, some branches longer than 1 cm. Spikelets pedicellate, laterally compressed, with 3-4 florets; rachillas
+ 
+ 
+ 
+prolonged beyond the base of the distal floret, internodes glabrous or with a few hairs to 0.2 mm long; disarticulation above the glumes, between the florets. Glumes unequal, acute to acuminate, unawned; lower glumes shorter than the adjacent lemma, 1-5-veined; upper glumes usually exceeding, sometimes equaling, the distal floret, 3-7-veined; calluses short, blunt, hairy; lemmas glabrous, rounded, 3-9-veined, veins excurrent, apices indistinctly 3-lobed or toothed, unawned; paleas about as long as the lemmas; lodicules free, glabrous; anthers 3; ovaries with pubescent apices. Caryopses shorter than the lemmas, concealed at maturity, about 2 mm, dorsiventrally compressed, x = 7.</description>
+  <discussion>Scolochloa is a monospecific genus that grows in shallow water and marshes of the temperate regions of North America and Eurasia. In the Flora region, it grows primarily in the northern Great Plains and prairie pothole region, from British Columbia to Manitoba and south through Nebraska and Iowa, with disjunct populations in Alaska, eastern Oregon, Montana, Idaho, and Wyoming. Other outlying populations probably reflect introductions.</discussion>
+  <references>Galatowitsch, S.M. and A. van der Valk. 1994. Restoring Prairie Wetlands: An Ecological Approach. Iowa State University Press, Ames, Iowa, U.S.A. 246 pp.; Neckles, H.A., J.W. Nelson, and R.L. Pederson. 1985. Management of Whitetop (Scolochloa fes-tucacea) Marshes for Livestock Forage and Wildlife. Technical Bulletin 1-1985. Delta Waterfowl and Wetlands Research Station, Portage la Prairie, Manitoba, Canada. 12 pp.
+ 
+</references>
+</bio:treatment>

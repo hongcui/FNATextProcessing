@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Austrostipa elegantissima (Labill.) S.W.L. Jacobs & J. Everett </name_authority_date>
+  </taxon_identification>
+  <common_names>AUSTRALIAN FEATHERGRASS</common_names>
+  <description type="morphology">Plants perennial; to 2 m, shrubby; cespitose, shortly rhizomatous. Culms decumbent, branched, with 3-6(10} nodes, glabrous. Leaves not forming a basal cluster; sheaths becoming somewhat free, glabrous, often somewhat ribbed; ligules 2-3 mm, obtuse, erose, glabrous; blades (2)5-7.5 cm long, 1.5-2 mm wide, tightly rolled, glabrous, sometimes scabrous, margins glabrous, sometimes scabrous. Panicles 14-25 cm, open, with whorls of branches bearing few spikelets, detached at maturity; branches and pedicels plumose, hairs 1.5-3 mm. Glumes 7-12 mm, 3-veined basally, veins pilose; florets 4.5-10 mm, narrowly cylindrical; calluses 0.5-0.8 mm, nearly straight, sericeous; lemmas tuberculate, mostly glabrous, black when mature, margins with short strigose hairs proximally; awns 2-5 cm, once- or twice-geniculate, first segment scabrous; paleas about 1/2 the length of the lemmas; anthers 1.5-3 mm, penicillate. Caryopses 4-5 mm. 2n = unknown.</description>
+  <discussion>Austrostipa elegantissima is native to southern Australia. It is cultivated as an ornamental in the United States.</discussion>
+</bio:treatment>

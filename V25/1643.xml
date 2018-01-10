@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Coelorachis cylindrica (Michx.) Nash </name_authority_date>
+  </taxon_identification>
+  <common_names>CAROLINA JOINTGRASS</common_names>
+  <description type="morphology">Plants shortly rhizomatous. Culms 60-120 cm, terete. Sheaths terete; ligules 0.2-0.8 mm. Rames 6.5-12.5 cm, often purple. Sessile spikelets 5-5.5 mm; lower glumes with circular pits on the sides, the central region initially smooth, usually developing rectangular pits at maturity, occasionally remaining smooth; upper lemmas and paleas 4-4.5 mm. Pedicellate spikelets 1-2 mm. Caryopses about 2.2 mm. 2n = 18.</description>
+  <discussion>Coelorachis cylindrica is native to the southeastern United States, where it grows in tallgrass prairies, the edges of forests, and roadsides. The specimen from Michigan was found in an old field, in association with many native species. Its source is unknown.</discussion>
+</bio:treatment>

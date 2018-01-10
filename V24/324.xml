@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>41</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus secalinus L. </name_authority_date>
+  </taxon_identification>
+  <common_names>RYEBROME, BROME DES SEIGLES</common_names>
+  <description type="morphology">Plants annual. Culms 20-80 (120) cm, erect. Lower sheaths glabrous or loosely pubescent and glabrate; ligules 2-3 mm, glabrous, obtuse; blades 15-30 cm long, 2-4 mm wide, abaxial surfaces pilose or glabrous, adaxial surfaces pilose. Panicles 5-23 cm long, 2.5-12 cm wide, open, nodding; branches spreading to ascending; lower branches slightly drooping, often secund after anthesis, not sinuous. Spikelets 10-20 mm, shorter than at least some panicle branches, ovoid-lanceolate or ovate, laterally compressed, not purple-tinged; florets 4-9(10), ascending-spreading after flowering, bases visible at maturity; rachilla internodes visible at maturity. Glumes scabrous or glabrous; lower glumes 4-6 mm, 3-5-veined; upper glumes 6-7 mm, 7-veined; lemmas 6.5-8.5(10) mm long, 1.7-2.5 mm wide, elliptic, coriaceous, obscurely 7-veined, rounded over the midvein, backs usually glabrous, sometimes pubescent, scabrous to puberulent on the margins and near the apices, margins evenly rounded, inrolled at maturity, apices acute to obtuse, bifid, teeth shorter than 1 mm; awns (0)3-6(9.5) mm, straight or flexuous, arising less than 1.5 mm below the lemma apices; anthers 1-2 mm. Caryopses equaling the paleas, thick, strongly inrolled at maturity. 2n = 28.</description>
+  <discussion>Bromus secalinus is native to Europe. It is widespread in the Flora region, where it grows in fields, on waste ground, and along roadsides. Specimens with pubescent spikelets may be called B. secalinus var. velutinus (Schrad.) W.D.J. Koch.</discussion>
+</bio:treatment>

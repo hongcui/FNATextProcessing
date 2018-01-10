@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Achnatherum robustum (Vasey) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>SLEEPYGRASS</common_names>
+  <description type="morphology">Plants cespitose, not rhizomatous. Culms 100-230 cm tall, 2-4.5 mm thick, mostly glabrous, often pubescent below the nodes, the pubescence antrorse or retrorse; nodes 4-5. Basal sheaths mostly glabrous, margins usually ciliate distaily; collars hairy, those of the flag leaves densely hairy, hairs 0.5-2 mm, sides glabrous; basal ligules 1-2 mm; upper ligules to 4 mm, truncate, rounded, or obtuse, glabrous; blades 6-10 mm wide, glabrous, abaxial surfaces smooth, adaxial surfaces prominently ribbed, ribs scabrous. Panicles 15-30 cm long, 0.8-3.5 cm wide; branches straight, appressed to ascending, lower branches 3-9 cm. Spikelets appressed to the branches. Glumes subequal, 9-11.5 mm long, 1-1.4 mm wide; florets 5.9-8.5 mm long, 0.9-1.2 mm thick, fusiform, terete; calluses 0.3-1 mm, blunt; lemmas evenly hairy, hairs at midlength 0.3-0.8 mm, apical hairs to 1.5 mm; awns 20-32 mm, persistent, twice-geniculate, scabridulous to scabrous, scabrules to about 0.1 mm, longest on the middle segment, terminal segment straight; paleas 3.7-5.6 mm, 2/3 - 3/4 as long as the lemmas, hairy, hairs about 0.5 mm, not exceeding the apices, veins terminating below the apices, apices rounded; anthers 4-5 mm, dehiscent, penicillate. Caryopses 5-6 mm. 2n = 64.</description>
+  <discussion>Achnatherum robustum grows on dry plains and hills, in open woods and forest clearings, and along roadsides, from Wyoming through Colorado to Arizona, New Mexico, and northern Mexico. Records from Kansas represent recent introductions; it is not clear whether the species has persisted there. Achnatherum robustum is sometimes confused with A. nelsonii subsp. dorei and Nassella viridula; it differs from both in the densely hairy collars of its flag leaves. Although not widely available, it has potential as an ornamental grass, particularly in arid regions with cold winters.
+The English-language name refers to the effect some samples, particularly those from the Sacramento and Sierra Blanca mountains, New Mexico, have on livestock, especially horses and cattle. "Mildly poisoned animals are dejected, inactive, and withdrawn; severely poisoned animals lie on their sides in a profound slumber" (Cheeke and Shull 1985). The active ingredient is diacetone alcohol (Epstein et al  1964).
+</discussion>
+</bio:treatment>

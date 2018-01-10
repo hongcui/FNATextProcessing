@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>18</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Digitaria abyssinica (Hochst. ex A. Rich.) Stapf</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; rhizomatous, mat-forming. Culms 5-80 cm, decumbent, occasionally rooting at the lower nodes, branching freely at the base, erect portion 20-40 cm; nodes 2-6. Sheaths of midculm leaves glabrous or hirsute, with papillose-based hairs; ligules 0.8-2.1 mm; blades 4-15 cm long, 3-10 mm wide, glabrous or sparsely pubescent with papillose-based hairs. Panicles with 2-25 spikelike primary branches on 1-9 cm rachises; primary branches 2-11 cm, axes not winged or narrowly winged, wings less than 1/2 as wide as the midribs, bearing spikelets in unequally pedicellate pairs; secondary branches rarely present; pedicels not adnate to the branch axes. Spikelets 1.5-2.5 mm long, 0.8-0.95 mm wide, ovate-elliptic to broadly elliptic, usually plump, usually purple-tinged. Lower glumes absent or to 0.8 mm and acute; upper glumes 1.2-2.4 mm, from 0.8 times as long as to almost equaling the spikelets, glabrous, 3-7-veined, veins usually prominent; lower lemmas 1.5-2.5 mm, usually glabrous, occasionally obscurely puberulent on the margins or, very rarely, distinctly pubescent, 7-veined, veins usually prominent; upper lemmas light brown, gray, and purple. 2n = 36.</description>
+  <discussion>Introduced from Africa, Digitaria abyssinica is not known to be established in the Flora region although it has occasionally been cultivated in the southern United States. It is considered a potentially serious weed threat by the U.S. Department of Agriculture.</discussion>
+</bio:treatment>

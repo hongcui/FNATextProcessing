@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>56</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia rigida (Kunth) Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>PURPLE MUHLY</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 40-100 cm, erect, not conspicuously branched; internodes mostly smooth, sometimes scabridulous below the nodes. Sheaths longer than the internodes, smooth or scabridulous, basal sheaths rounded, not becoming spirally coiled when old; ligules (1)3-12(15) mm, firmer basally than distally, obtuse to acute, often lacerate; blades 12-35 cm long, 1-3 mm wide, flat or involute, smooth or scabridulous abaxially, scabridulous or hirtellous adaxially. Panicles 10-35 cm long, 2-5(12) cm wide, loosely contracted to open, purplish; primary branches 0.4-10 cm, lax, capillary, usually appressed to ascending, occasionally diverging up to 80° from the rachises, naked basally; pedicels 1-10 mm. Spikelets 3.5-5 mm, purplish. Glumes equal, 1-1.7(2) mm, exceeded by the florets, usually glabrous, sometimes mostly hirtellous but glabrous distally, 1-veined, obtuse to subacute, unawned; lemmas 3.5-5 mm, narrowly lanceolate, purplish, calluses hairy, hairs to 0.5 mm, lemma bodies scabridulous to scabrous, apices acuminate, awned, awns 10-22 mm, clearly demarcated from the lemma bodies, flexuous; paleas 3.5-5 mm, narrowly lanceolate, scabridulous, acuminate; anthers 1.7-2.3 mm, purplish. Caryopses 2-3.5 mm, fusiform, brownish. 2n = 40, 44.</description>
+  <discussion>Muhlenbergia rigida grows on rocky slopes, ravines, and sandy, gravelly slopes derived from granitic and calcareous substrates, at elevations of 1200-2200 m. It is often a common upland bunchgrass, and is also grown as an ornamental plant.
+Muhlenbergia rigida grows in two disjunct areas: the southwestern United States south to Chiapas, Mexico, and in Ecuador, Peru, Bolivia, and Argentina. It differs from M. setifolia and M. reverchonii in its purplish, scabridulous to scabrous lemmas.
+</discussion>
+</bio:treatment>

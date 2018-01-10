@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Chloris canterae var. grandiflora (Roseng. & Izag.) D.E. Anderson</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants densely cespitose. Culms 5-30 cm. Leaves primarily basal, 1-1.5 mm wide, involute. Panicles with 3-5 branches; branches 3-6 cm. 2n = unknown.</description>
+  <discussion>Chloris canterae var. grandiflora was collected around woolen mills in southeastern North America in the nineteenth and early twentieth centuries. It has also been found in Texas, but less frequently than var. canterae. In South America, it grows in drier, more rocky areas than var. canterae.</discussion>
+</bio:treatment>

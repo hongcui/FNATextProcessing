@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia sobolifera (Muhl. ex Willd.) Trin.</name_authority_date>
+  </taxon_identification>
+  <common_names>ROCK MUHLY</common_names>
+  <description type="morphology">Plants  perennial;  rhizomatous, usually not cespitose. Culms 25-95 cm tall, 0.8-1.5 mm thick, erect or ascending;  internodes smooth, shiny, and glabrous for most of their length, scabridulous immediately below the nodes. Sheaths glabrous, margins hyaline; ligules 0.3-1 mm, membranous, truncate, ciliolate; blades 4-16 cm long, 2-7 mm wide, flat, glabrous, usually smooth, occasionally scabridulous. Panicles 4-18 cm long, 0.2-0.8 cm wide, narrow, usually exserted; axillary panicles usually exserted, sometimes partially included in the subtending sheath; primary branches 0.6-4 cm, ascending to appressed; pedicels 0.3-1.6 mm, strigose. Spikelets 1.6-3 mm, erect, overlapping the next spikelet on the branch by 1/2 its length. Glumes equal to subequal, 1-2.5 mm, much shorter than the florets, scabridulous (particularly over the veins), 1-veined, narrowing from above the broad, overlapping bases to the acute apices, unawned or awned, awns to 1 mm; lemmas 1.6-2.8 mm, lanceolate, hairy on the calluses, lower 1/2 of the midveins, and margins, hairs 0.3-0.5 mm, apices acuminate, unawned or awned, awns to 1 mm; paleas 1.6-2.9 mm, lanceolate, basal 1/2 with hairs shorter than 1. 5 mm, apices scabridulous, acuminate; anthers 0.4-1 mm, yellow. Caryopses 1-1.5 mm, fusiform, brown. 2n = 40.</description>
+  <discussion>Muhlenbergia sobolifera grows in dry upland forests, oak woodlands, and on rock outcrops of sandstone, chert, or limestone formations, at elevations of 0-1200 m. It is restricted to the Flora region.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Zizania aquatica L. var. brevis Fassett </name_authority_date>
+  </taxon_identification>
+  <common_names>ESTUARINE WILDRICE</common_names>
+  <description type="morphology">Plants 0.2-1 m. Blades 3-12(20) mm wide. Pistillate spikelets 5-11 mm; awns 1-8 mm.</description>
+  <discussion>Zizania aquatica var. brevis is known from tidal mud flats along the St. Lawrence River, about 80 km up- and downstream from Quebec City, and from a small delta along the northern shore of the northwest Miramichi River estuary in New Brunswick.</discussion>
+</bio:treatment>

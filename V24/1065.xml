@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Trisetum aureum (Ten.) Ten. </name_authority_date>
+  </taxon_identification>
+  <common_names>GOLDEN OATGRASS</common_names>
+  <description type="morphology">Plants annual, without sterile shoots; tufted. Culms 7-30 cm, glabrous, erect, spreading, or geniculate. Sheaths somewhat inflated, glabrous or villous; blades to 10 cm long, to 3 mm wide, flat, subglabrous to villous. Panicles 1-5 cm long, 0.5-3 cm wide, pyramidal to ovoid, dense, shiny, yellowish to tan. Spikelets 2.5-3.5 mm, with 2-3 florets. Glumes unequal; lower glumes  
+2-2.5 mm long, narrower than the upper glumes, 1-veined; upper glumes 2.5-3 mm, 3-veined; callus hairs 0.3-0.4 mm; lemmas 1.6-2.7 mm, glabrous or hairy, with wide hyaline margins, apices bifid, teeth to about 0.5 mm, awned, awns 2-6 mm, arising from above midlength and exceeding the apices, slightly bent; anthers 1-1.5 mm. 2n = unknown.
+</description>
+  <discussion>Trisetum aureum is native to the Mediterranean region. It was collected from a ballast dump in Camden, New Jersey, in 1896 (Hitchcock 1951), and has not been reported since from the Flora region.
+ 
+</discussion>
+</bio:treatment>

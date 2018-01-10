@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Themeda arguens (L.) Hack. </name_authority_date>
+  </taxon_identification>
+  <common_names>CHRISTMAS GRASS</common_names>
+  <description type="morphology">Plants annual. Culms 1-3 m, erect, or geniculate and ascending. Sheaths glabrous, not flattened at the base. False panicles 20-100 cm; sheaths subtending the rame clusters 35-40 mm, pilose, hairs papillose-based; rames 3-5 per cluster, with 2-3 heterogamous spikelets. Homogamous spikelets 8-10 mm; lower glumes glabrous, acuminate. Heterogamous sessile spikelets 9-11 mm; calluses 3-4 mm; lower glumes hispid and tuberculate-scabrous, dark brown; awns 7-9 cm; pedicellate spikelets 8-10 mm. 2n = 20.</description>
+  <discussion>Themeda arguens is native to northern Australia and southeastern Asia. Reed (1964) reported finding it on ore piles in Maryland and Virginia. </discussion>
+</bio:treatment>

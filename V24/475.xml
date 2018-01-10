@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>36</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus hoffmannii K.B. Jensen & Asay </name_authority_date>
+  </taxon_identification>
+  <common_names>HOFFMANN'S WHEATGRASS</common_names>
+  <description type="morphology">Plants slightly to moderately rhizomatous. Culms 54-135 cm, glabrous. Leaves evenly distributed; sheaths glabrous; auricles absent or to 1 mm; ligules 0.6-1 mm, truncate, erose; blades 5-13 mm wide, flat to involute, abaxial surfaces smooth, glabrous, adaxial surfaces glabrous, veins closely spaced, all more or less equally prominent, smooth or scabrous. Spikes 10-50 cm long, 0.8-1.8 cm wide, with 1 spikelet per node, glabrous below the spikelets; internodes 5-8 mm long, about 0.2 mm thick, about 0.3 mm wide, both surfaces hairy, hairs 0.2-0.4 mm. Spikelets 15-27 mm, appressed to ascending, with 5-7 florets; rachillas scabridulous; disarticulation above the glumes, beneath the florets. Glumes equal, 5-11 mm long, 1.3-1.8 mm wide, stiff, lanceolate to linear-lanceolate, strongly rounded to keeled distally, keels inconspicuous and smooth on the proximal 1/3-1/2, conspicuous and with a few teeth distally, lateral veins inconspicuous, hyaline margins 0.1-0.2 mm wide, apices acuminate to awned, awns to 8 mm; lemmas 7-12 mm, glabrous, smooth, apices unawned or awned, awns to 12 mm, straight; paleas ciliate on the keels, apices about 0.6 mm wide; anthers 4-7 mm. 2n = 42.</description>
+  <discussion>Elymus hoffmannii was described from a breeding line of plants developed from seeds collected in Erzurum Province, Turkey by J.A. Hoffmann and R.J. Metzger (Jensen & Asay 1996). There is no information available about its native distribution. As indicated in the key, E. hoffmannii differs from E. repens (see previous) primarily in its evenly prominent, closely spaced leaf veins and, usually, in having longer awns.
+The description of Elymus hoffmannii was explicitly written to encompass the cultivar 'NewHy' that is derived from an artificial cross between E. repens and Pseudoroegneria spicata (p. 281). Because of its morphological similarity to plants obtained from the Turkish seed, Jensen and Asay suggested that E. hoffmannii had a similar parentage. 'NewHy' was released as a cultivar in the 1980s. Its distribution within the Flora region is not known.
+</discussion>
+</bio:treatment>

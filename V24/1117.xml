@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Alopecurus aequalis var. sonomensis P. Rubtzov</name_authority_date>
+  </taxon_identification>
+  <common_names>SONOMA SHORTAWN FOXTAIL</common_names>
+  <description type="morphology">Culms 30-75 cm. Blades to 7.5 mm wide. Panicles 2.5-9 cm long, 4-9 mm wide. Spikelets violet-gray to purplish-tinged, especially towards the apices; glumes to 3.7 mm; awns exceeding the lemmas by 1-2.5 mm; anthers 1-1.2 mm.</description>
+  <discussion>Alopecurus aequalis var. sonomensis is endemic to Marin and Sonoma counties, California, where it grows in shallow water and marshy or moist ground, usually in the open. It is listed as endangered by the U.S. Fish and Wildlife Service.</discussion>
+</bio:treatment>

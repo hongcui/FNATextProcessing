@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Jesus Valdes-Reyna</author>
+    </source>
+  </meta>
+  <number>17.17</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>BLEPHARIDACHNE Hack.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial (rarely annual); cespitose, from a knotty base, often mat-forming. Culms 3-8(20) cm, often decumbent and rooting at the lower nodes, frequently branched above the bases, forming short spur shoots at the ends of long internodes; internodes minutely pubescent. Leaves clustered at the bases of the primary and spur shoots; basal sheaths shorter than the internodes; ligules of hairs or absent; blades linear to triangular, convolute to conduplicate, or flat to plicate, sharp, those of the upper leaves usually exceeding the inflorescences. Inflorescences terminal, compact panicles, exserted or partially included in the upper sheath(s). Spikelets laterally compressed, subsessile or pedicellate, with 4 florets per spikelet; disarticulation above the glumes but not between the florets. Glumes subequal to each other and the lowest lemma, rounded or weakly keeled, 1-veined, awn-tipped or unawned; lowest 2 florets in each spikelet staminate or sterile; third floret pistillate or bisexual; lemmas rounded on the back, 3-veined, mostly glabrous but pilose across the bases and on the margins, strongly 3-lobed, lateral lobes wider than the central lobes, all lobes ciliate on 1 or both margins, lower lemmas with the lateral lobes rounded or mucronate to awned, central lobes awned; third lemmas 3-lobed, lobes awned; paleas from slightly shorter to slightly longer than the lemmas; lodicules absent; anthers 2 or 3 (rarely 1); style branches 2. Distal florets rudimentary, 3-awned, plumose, or hairy. Caryopses laterally compressed, x = 7. </description>
+  <discussion>The four species comprising Blepharidachne are restricted to the Americas, growing in arid and semi-arid regions of the United States, Mexico, and Argentina. Blepharidachne bigelovii and B. kingii are endemic to North America, whereas B. benthamiana (Hack.) Hitchc. and B. hitchcockii Lahitte are native to Argentina. Blepharidachne differs from all other genera in the tribe in having four florets per spikelet, with the first two florets being sterile or staminate, the third bisexual or pistillate, and the fourth a rudimentary 3-awned structure.
+ 
+</discussion>
+  <references>Hunziker,  A.T. and A.M. Anton. 1979. A synoptical revision of Blepharidachne (Poaceae). Brittonia. 31:446-453.</references>
+  <key>
+    <key_body>
+1. Glumes subacute, exceeded by the distal florets.....1. B. bigelovii
+1. Glumes acuminate or awn-tipped, exceeding the florets   .....2. B. kingii
+
+    </key_body>
+  </key>
+</bio:treatment>

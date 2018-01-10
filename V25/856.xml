@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Spartina maritima (Curtis) Fernald </name_authority_date>
+  </taxon_identification>
+  <common_names>SMALL CORDGRASS</common_names>
+  <description type="morphology">Plants rhizomatous; rhizomes with scales not inflated, not imbricate. Culms to 80 cm, relatively soft, solitary or in small clumps. Sheaths mostly glabrous, throat sometimes sparingly pilose, lower sheaths often wrinkled; ligules 0.2-0.6 mm; blades 6-12 cm long, 5-8 mm wide, loosely involute, disarticulating from the sheaths, abaxial surfaces glabrous, adaxial surfaces glabrous or sparsely pilose, margins smooth. Panicles 4-14 cm, with (1)2-3(7) branches; branches 2-11 cm, alternate, loosely appressed, not twisted, lower and upper branches more or less equally imbricate, with 5-30 spikelets. Spikelets 10-15 mm. Glumes straight, mostly appressed pubescent, only the margins glabrous; lower glumes 7-10 mm, narrow, acuminate, obtuse, or rounded; upper glumes 10-15 mm, acuminate (rarely obtuse); lemmas mostly appressed pubescent, margins and basal portion of the keels glabrous, apices acuminate; anthers 3-6.5 mm, well-filled, dehiscent at maturity. 2n = 56.</description>
+  <discussion>Spartina maritima is a European species that has been reported as growing in Mississippi (Kartesz and Meacham 1999); the record has not been verified for this treatment. It also grows in Africa, possibly as an introduction.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aristida gypsophila Beetle </name_authority_date>
+  </taxon_identification>
+  <common_names>GYPSUM THREEAWN</common_names>
+  <description type="morphology">Plants perennial. Culms 45-80 cm, erect, usually unbranched. Leaves basal and cauline; sheaths longer than the internodes, glabrous except at the summit; collars densely pilose, hairs 1-3 mm, cobwebby and tangled, often deflexed; ligules less than 0.5 mm; blades 5-15 cm long, about 0.5 mm wide, usually involute, occasionally loosely folded, glabrous, light green. Inflorescences paniculate, 12-20 cm long, 2-8 cm wide; primary branches 2-5 cm, erect to horizontal, with or without axillary pulvini, with 1-5 spikelets. Spikelets appressed or with axillary pulvini and spreading. Glumes 6-10(12) mm, equal or the lower glumes slightly shorter, 1-veined, brownish; calluses about 0.5 mm; lemmas (6)7-14(16) mm, mostly smooth, mottled, terminating in a 2-4 mm, usually twisted, scabrous beak; central awns 5-10 mm, sharply curved at the base, spreading distally; lateral awns absent or to 3 mm, erect; anthers 3, about 1.5 mm, brown. Caryopses 5-8 mm. 2n = unknown.</description>
+  <discussion>Aristida gypsophila grows on rocky limestone or gypsum hills in thorn-scrub communities of the Chihuahuan Desert, almost always growing in the protection of shrubs. It is very similar to A. pansa, which differs in having three well-developed awns and being, usually, shorter in stature. Both species have involute blades with a characteristic tuft of cobwebby hairs at the collar. Plants from the United States have spreading primary branches with axillary pulvini and appressed spikelets. Mexican plants sometimes have primary branches with no axillary pulvini.</discussion>
+</bio:treatment>

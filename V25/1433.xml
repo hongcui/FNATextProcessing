@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Hymenachne amplexicaulis (Rudge) Nees </name_authority_date>
+  </taxon_identification>
+  <common_names>WEST INDIAN MARSH GRASS</common_names>
+  <description type="morphology">Plants perennial. Culms to 3.5 m  tall, 1 cm or more thick, decumbent. Ligules 1-2.5 mm, brownish; blades 15-33 cm long, 12-28 mm wide, lax, flat, glabrous. Panicles 10-40 cm long, 0.7-1.2 cm thick, spikelike, dense, sometimes lobed near the base; basal branches 1.5-5 cm, strictly erect. Spikelets 3.5-5 mm, lanceolate, acuminate. Lower glumes 1-1.7 mm, 3-veined; upper glumes 2.8-3.9 mm; lower lemmas 3.6-4.6 mm, longer than the upper glumes, attenuate to subaristate; lower paleas absent; upper lemmas 2.5-3.5 mm; anthers 1.1-1.2 mm. 2n = 10.</description>
+  <discussion>In the Flora region, Hymenachne amplexicaulis is known only from low, wet pastures in southern Florida and it is rare even in that state. It is more abundant in the remainder of its range which extends through Mexico to Argentina.</discussion>
+</bio:treatment>

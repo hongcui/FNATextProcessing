@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>20</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa bigelovii Vasey & Scribn. </name_authority_date>
+  </taxon_identification>
+  <common_names>BIGELOW’S BLUEGRASS</common_names>
+  <description type="morphology">Plants usually annual, rarely longer-lived; densely tufted, tuft bases narrow, usually without sterile shoots, not stolonigerous, not rhizomatous. Basal branching intravaginal. Culms (2)5-60(70) cm tall, 0.3-1 mm thick, usually erect, bases rarely geniculate; nodes terete, usually 1 exserted. Sheaths closed for 1/4 - 1/2 their length, usually compressed and keeled, smooth or the keels scabrous; ligules 2-6 mm, smooth or scabrous, usually decurrent, obtuse to acute; blades 1.5-5 mm wide, flat, thin, soft, finely scabrous, apices broadly prow-shaped, cauline blades (1)4-15 cm, flag leaf blades usually 1-4 cm. Panicles (1)5-15 cm, erect, cylindrical, contracted, sometimes interrupted, congested, with 2-3(5) branches per node; branches erect or steeply ascending, smooth or sparsely to densely scabrous. Spikelets 4-7 mm, laterally compressed; florets 3-7; rachilla internodes to 1 mm, smooth, glabrous. Glumes subequal, distinctly keeled, keels and sometimes the lateral veins scabrous; lower glumes l(3)-veined; upper glumes shorter than or subequal to the lowest lemmas; calluses webbed; lemmas 2.6-4.2 mm, lanceolate, distinctly keeled, smooth, keels, marginal veins, and sometimes the lateral veins short- to long-villous, keels hairy to near the apices, marginal veins to 2/3 their length, lateral veins obscure to moderately prominent, intercostal regions glabrous or softly puberulent, upper margins white, apices acute; palea keels softly puberulent to short-villous at midlength, scabrous near the apices, intercostal regions usually softly puberulent; anthers 1-3, 0.2-1 mm. 2n = 28, 28+1.</description>
+  <discussion>Poa bigelovii grows in arid upland regions, particularly on shady, rocky slopes of the southwestern United States and northern Mexico. Plants from southeastern Arizona eastwards are usually glabrous between the lemma veins, whereas more western plants are usually puberulent between the lemma veins. Plants with 1 or 2 small anthers are found in the eastern portion of the species' range; they differ from P. chapmaniana (p. 534) in their persistently contracted panicles and broader leaf blades.</discussion>
+</bio:treatment>

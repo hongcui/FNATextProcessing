@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dasypyrum villosum (L.) P. Candargy [</name_authority_date>
+  </taxon_identification>
+  <common_names>MOSQUITOGRASS</common_names>
+  <description type="morphology">Plants annual. Culms 20-100 cm, decumbent to geniculate, glabrous. Blades 1-5 mm wide, supple, light green. Spikes 4-12 cm long, 0.6-2 cm wide. Spikelets 7-22 mm excluding the awns. Glumes 9-40 mm including the awns, with tufts of hair on the keels, hairs 1.5-3 mm, white; bisexual lemmas 10-13 mm, glabrous proximally, sparsely pilose distally, with a tuft of stiff  
+hairs below the awns, awns 15-60 mm, straight; sterile lemmas smaller, awns 7-10 mm; paleas to 14 mm; anthers 3, 4-7 mm. 2n = 14.
+</description>
+  <discussion>Dasypyrum villosum is native from southern Europe to Turkey, the Crimea, and the Caucasus. The only known North American record is a collection made in Philadelphia County, Pennsylvania, in 1877.
+Dasypyrum breviaristatum (H. Lindb.) Fred, differs from D. villosum in being perennial and shortly rhizomatous, and in having stiff, dark green leaves, glume keels with hairs that are not in tufts, and awns to 15 mm long.
+</discussion>
+</bio:treatment>

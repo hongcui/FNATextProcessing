@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>19</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca valesiaca Schleich. ex Gaudin </name_authority_date>
+  </taxon_identification>
+  <common_names>VALAIS FESCUE, FÉTUQUE DU VALAIS</common_names>
+  <description type="morphology">Plants densely cespitose, without rhizomes. Culms 20-50(60) cm, erect, glabrous, smooth. Sheaths closed for about 1/2 their length, usually glabrous, sometimes pubescent distally, persistent; collars glabrous; ligules 0.1-0.5 mm; blades (0.3) 0.5-0.8(1.2) mm in diameter, conduplicate, veins 5-7, ribs (1)3-5, abaxial surfaces glabrous or pubescent, not pilose, adaxial surfaces smooth or scabrous; abaxial sclerenchyma in 3 broad strands, sometimes with additional narrow strands between the midrib and margins; adaxial sclerenchyma absent. Inflorescences (3)5-10 cm, panicles, contracted, with 1-2 branches per node; branches erect or somewhat spreading, at least at anthesis, lower branches with 2+ spikelets. Spikelets (4.8)5.5-6.5(8.5) mm, with 3-5(8) florets. Glumes exceeded by the upper florets, ovate-lanceolate to lanceolate, mostly smooth or sometimes scabrous on the upper midvein; lower glumes 2-3 mm; upper glumes (2.3)2.5-4(4.3) mm; lemmas (3.2)3.5-4.5(5.3) mm, ovate-lanceolate to lanceolate, smooth throughout or scabrous distally, awns (0.5)1-2 mm, terminal; paleas as long as the lemmas, intercostal region puberulent distally; anthers 2.2-2.6 mm; ovary apices glabrous. 2n = 14.</description>
+  <discussion>Festuca valesiaca is widely distributed through central Europe and northern Asia, where it grows in steppes, dry meadows, and open rocky or sandy areas. It is sold in the North American seed trade as F. pseudovina Hack, ex Wiesb., and has been collected at a few scattered localities in the Flora region, apparently having become established from deliberate seeding.
+The taxonomy of the Festuca valesiaca complex is controversial, with different authors naming morphological variants and polyploid populations within it. No attempt has been made to determine which are present in the Flora region.</discussion>
+</bio:treatment>

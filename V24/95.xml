@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Glyceria septentrionalis Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>NORTHERN GLYCERIA, NORTHERN MANNAGRASS, GLYCERIE SEPTENTRIONALE</common_names>
+  <description type="morphology">Plants perennial. Culms 73-182 cm tall, to 8 mm thick, often decumbent and rooting from the lower nodes. Sheaths smooth or scabridulous, keeled; ligules 5-16 mm; blades 18-32 cm long, 2-15 mm wide, abaxial surfaces scabrous, adaxial surfaces scabridulous, usually glabrous, midcauline leaves sometimes papillose. Panicles 15-60 cm long, 1-3.5 cm wide; branches 3-17 cm, usually erect to strongly ascending, sometimes spreading at anthesis, usually straight, sometimes lax, with 1-9 spikelets; pedicels 0.7-1.7 mm. Spikelets (6.5)10-23 mm long, 1-3 mm wide, cylindrical and terete, except at anthesis when slightly laterally compressed, rectangular in side view, with 8-16 florets. Glumes elliptic to obo-vate, apices rounded to acute; lower glumes (0.3)1.5-3.7 mm; upper glumes (1.9)2.3-5.2 mm; rachilla internodes 1.1-1.8 mm; lemmas 2.4-4.8 mm, veins scabrous or hispidulous, intercostal regions scabridulous, scabrous, or hispidulous, midveins extending to within 0.1 mm of the apical margins, apices truncate to obtuse or acute, apical margins crenate to entire; paleas from slightly shorter than to exceeding the lemmas, apices bifid, teeth to 0.2 mm; anthers 3, 0.5-1.8 mm. Caryopses 1.5-2 mm; hila about as long as the caryopses.</description>
+  <discussion>Glyceria septentrionalis is native and restricted to North America. It grows in shallow water or very wet soils, from southern Quebec to the east coast and south to eastern Texas and South Carolina. Voss (1972) stated that it is the floating leaves of G. septentrionalis that develop papillose, non-wettable adaxial surfaces. They seem to be developed less often than in G. borealis; whether this reflects a difference in habitat or growth habit is not known.
+Glyceria septentrionalis resembles G. notata in its rather short, truncate to rounded lemmas, but it tends to have fewer spikelets on its branches. In addition, the veins of its leaf sheaths appear completely smooth, even under high magnification. That said, many specimens will be hard to identify if their provenance is not known.
+</discussion>
+  <key>
+    <key_body>
+1. Lemmas hispidulous over the veins, hairs about 0.1 mm long .....var. arkansana
+1. Lemmas scabrous over the veins, prickles  about 0.05 mm long .....var. septentrionalis
+
+    </key_body>
+  </key>
+</bio:treatment>

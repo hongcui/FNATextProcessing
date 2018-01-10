@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Ptilagrostis porteri (Rydb.) W.A. Weber </name_authority_date>
+  </taxon_identification>
+  <common_names>PORTER'S PTILAGROSTIS, ROCKY-MOUNTAIN PTILAGROSTIS</common_names>
+  <description type="morphology">Culms 23-50 cm tall, 0.6-1.2 mm thick. Lower ligules 0.7-1.5 mm; upper ligules to 2.5 mm; blades filiform, 0.3-0.6 mm in diameter. Panicles 7.5-12 cm, open or loosely contracted; branches spreading. Glumes 4.5-6 mm; florets 2.5-4 mm; calluses 0.1-0.8 mm; lemmas with 0.2-0.8 mm lobes; awns 5-25 mm, hairy, hairs on the lowest segment 1-2 mm; anthers 1.2-3 mm, glabrous. 2n = unknown.</description>
+  <discussion>Ptilagrostis porteri grows on hummocks of poorly drained wetlands, at 2700-3600 m, in central Colorado. It is often associated with Salix spp. and Deschampsia cespitosa. There are 29 known populations.
+The proportion of plants having closed and open panicles varies among the populations; in some populations all or almost all plants have open panicles, in others all or almost all plants have closed panicles (Johnston 2006). Barkworth (1983) treated P. porteri as a subspecies of P. mongolica (Turcz. ex Trin.) Griseb. because of their morphological similarity. They differ ecologically and geographically, P. mongolica sensu stricto growing in rocky alpine habitats of central Asia.
+</discussion>
+</bio:treatment>

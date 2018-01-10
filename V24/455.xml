@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>23</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus caninus (L.) L. </name_authority_date>
+  </taxon_identification>
+  <common_names>BEARDED WHEATGRASS</common_names>
+  <description type="morphology">Plants cespitose, not strongly rhizomatous. Culms 30-130 cm, erect or geniculate, usually hairy on or below the nodes. Leaves evenly distributed; sheaths glabrous; auricles to 1.5 mm; ligules 0.2-1.5 mm; blades 10-30 cm long, 4-10 mm wide, flat, both surfaces scabrous, adaxial surfaces sometimes with hairs over the veins, hairs to 0.5 mm, veins not prominent, widely spaced. Spikes 5-20 cm long, 0.5-1.5 cm wide including the awns, 5-8 mm wide excluding the awns, erect or arching, with 1 spikelet per node; internodes 4.5-7 mm, edges scabrous or ciliate, both surfaces hairy below the spikelets. Spikelets 10-15(20) mm long, 2-5(7) mm wide, appressed to slightly divergent, with 2-6 florets; rachillas scabridulous or pubescent, often more densely pubescent distally; disarticulation above the glumes, beneath each floret. Glumes equal to unequal, 0.6-1 mm wide, lanceolate to narrowly ovate, usually green, flat or weakly keeled, keels eccentric, adaxial surfaces hairy, hairs often inconspicuous, hyaline margins sometimes widest distally, narrowing abruptly to the acute to acuminate apices; lower glumes 8-11 mm, 3-veined, usually awned, awns to 3 mm; upper glumes 10-13 mm, 3-5-veined, sometimes awn-tipped, awns to 0.3 mm; lemmas 9-13 mm, glabrous, smooth to somewhat scabridulous distally, rounded on the back proximally, awned, awns 7-20 mm, straight or flexuous; paleas subequal to the lemmas, keels finely and densely ciliate over most of their length, straight or slightly outwardly curved, tapering to the apices, apices about 0.2 mm wide; anthers 2-3 mm. 2n = 28. Haplomes StH.</description>
+  <discussion>Elymus caninus is native to Eurasia; it is not known to be established in the Flora region. A.S. Hitchcock (1935, 1951) reported that it had been collected on ballast dumps in Portland, Oregon, but the specimens concerned belong to E. ciliaris (p. 336) and E. tsukushiensis (p. 336). Elymus caninus differs from E. ciliaris and E. tsukushiensis in having flatter glumes that are longer in relation to the lemmas, and palea keels that are straight or almost straight below the apices. Recent reports of its occurrence in the region reflect C.L. Hitchcock et al.'s (1969) treatment, in which E. caninus and E. trachycaulus were treated as conspecific subspecies. Because E. caninus is the older name, it is the correct name to use at the specific rank under such a treatment.
+The hairs on the inside of the glumes are difficult to see. Nevertheless, this is the single most reliable morphological character for distinguishing Elymus caninus from all other species of Elymus in this treatment. Elymus caninus is most likely to be confused with awned plants of E. trachycaulus (p. 321). The two species also differ in their molecular characteristics, and in at least one chromosome interchange (Sun et al. 1998).
+</discussion>
+</bio:treatment>

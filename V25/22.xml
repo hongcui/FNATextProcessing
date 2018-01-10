@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Phragmites australis (Cav.) Trin. ex Steud. </name_authority_date>
+  </taxon_identification>
+  <common_names>COMMON REED, PHRAGMITE COMMUN, ROSEAU COMMUN</common_names>
+  <description type="morphology">Culms 1-4 m tall, 0.5-1.5 cm thick, erect. Ligules about 1 mm; blades 15-40 cm long, 2-4 cm wide, long-acuminate, disar-ticulating from the sheath at maturity. Panicles 15-35 cm long, 8-20 cm wide, ovoid to lanceoloid, often purplish when young, straw-colored at maturity; rachilla hairs (4)6-10 mm. Spikelets with 3-10 florets. Lower glumes 3-7 mm; upper glumes (4)5-10 mm; lemmas 8-15 mm, glabrous, linear, margins somewhat inrolled, apices long-acuminate; paleas 3-4 mm, membranous; anthers 1.5-2 mm, purplish; styles persistent. Caryopses 2-3 mm, rarely maturing. 2n = 36, 42, 44, 46, 48, 49-52, 54, 72, 84, 96.</description>
+  <discussion>Phragmites australis grows in wet or muddy ground along waterways, in saline or freshwater marshes, and in sloughs throughout North America. Its tall, leafy, often persistent culms and plumose panicles make it one of our easier species to recognize. In Florida, Neyraudia reynaudiana is sometimes mistaken for P. australis, but the former has glabrous internodes and pilose lemmas.
+It is also one of the most widely distributed flowering plants, growing in most temperate and tropical regions of the world, spreading quickly by rhizomes. Once established, it is difficult to eradicate. Its uses include thatching, lattices, arrow shafts, construction boards, mats, and erosion control, and it was used in the past to make cigarettes and superior pen quills.
+Phragmites karka (Retz.) Trin. ex Steud. is sometimes attributed to the Flora region. It supposedly dif¬fers from P. australis as shown below, but all the characters intergrade. For this reason, they are treated here as components of a single species.
+</discussion>
+  <key>
+    <key_body>
+1. Blades smooth on the abaxial surfaces, the apices filiform, flexible; rachilla hairs 6-10 mm long; upper glumes 5-10 mm long   .....P. australis
+1. Blades scabrous on the abaxial surface, the apices attenuate, stiff; rachilla hairs 4-7mm long; upper glumes 4-6 mm long   .....P. karka
+    </key_body>
+  </key>
+</bio:treatment>

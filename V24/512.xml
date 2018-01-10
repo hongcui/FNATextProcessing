@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Leymus pacificus (Gould) D.R. Dewey </name_authority_date>
+  </taxon_identification>
+  <common_names>PACIFIC WILDRYE</common_names>
+  <description type="morphology">Plants not cespitose, strongly rhizomatous. Culms 10-30(60) cm tall, 1-2 mm thick, solitary or few together, glabrous or sparsely pubescent near the nodes. Leaves equaling or exceeding the spikes; sheaths glabrous; auricles to 1.4 mm; ligules 0.2-0.3 mm, truncate, erose; blades 10-30 cm long, 2-A mm wide, abaxial surfaces glabrous, adaxial surfaces scabrous, veins about 15, subequal, prominently ribbed. Spikes 2-8 cm long, 7-12 mm wide, with 1-2 spikelets per node; internodes 3.5-4 mm, surfaces glabrous and smooth, edges weakly scabrous distally. Spikelets 12-15 mm, with 4-6 florets. Glumes subequal, (5)7-15 mm long, 0.5-2.5 mm wide, narrowly lanceolate, tapering from near the base, stiff, keeled, the central portion thicker than the margins, bases mostly glabrous, margins ciliate, l-3(5)-veined, veins inconspicuous at midlength; calluses scarcely developed, glabrous; lemmas 7-11 mm, glabrous, smooth, apices acute to awn-tipped, awns to 0.8 mm; anthers 3-4 mm, dehiscent. 2n = 28.</description>
+  <discussion>Leymus pacificus is found on coastal bluffs from Mendocino to Santa Barbara counties, California. It is poorly represented in herbaria. In some years it grows almost entirely vegetatively, often being represented by scattered innovations with somewhat curved leaves.</discussion>
+</bio:treatment>

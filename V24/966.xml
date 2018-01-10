@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>William J. Crins</author>
+    </source>
+  </meta>
+  <number>14.36</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>VENTENATA Koeler</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual; tufted. Culms 10-75 cm, erect, puberulent below the nodes; nodes glabrous. Leaves mostly on the lower 1/2 of the culm; sheaths open, glabrous or sparsely pubescent; auricles absent; ligules hyaline, acute or obtuse, usually lacerate; blades flat initially, involute with age. Inflorescences open or contracted panicles, with spikelets borne near the ends of the branches on clavate pedicels. Spikelets laterally compressed, with 2-10 florets; disarticulation above the first floret and between the distal florets; rachillas sometimes prolonged beyond the base of the distal floret, sometimes terminating in a reduced floret. Glumes unequal, lanceolate, hispidulous, similar in texture to the lemmas, margins scarious, apices acuminate; lower glumes 3-7-veined; upper glumes 3-9-veined; calluses of the lower florets shorter than those of the upper florets, sparsely hairy, calluses of the distal florets with a dense tuft of white hairs; lemmas lanceolate, chartaceous, 5-veined, margins scarious, apices entire or bifid, awned or unawned; lowest lemma within a spikelet awned or unawned, awns straight, terminal; distal lemmas within a spikelet awned, awns dorsal, geniculate; paleas shorter than the lemmas, membranous, keels ciliate distally; lodicules 2, membranous, glabrous, toothed or not toothed; anthers 3; ovaries glabrous. Caryopses shorter than the lemmas, concealed at maturity, glabrous, x = 7. </description>
+  <discussion>Ventenata is native from central and southern Europe and north Africa to Iran. It has five species, all of which grow in dry, open habitats. Only one species is established in the Flora region.</discussion>
+  <references>Chambers, K.L. 1985. Pitfalls in identifying Ventenata dubia (Poaceae). Madrono 32:120-121; Old, R.R. and R.H. Callihan. 1986. Distribution of Ventenata dubia in Idaho. Idaho Weed Control Rep. 1986:153.
+ 
+</references>
+</bio:treatment>

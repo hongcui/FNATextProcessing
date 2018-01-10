@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus virginicus L. </name_authority_date>
+  </taxon_identification>
+  <common_names>VIRGINIA WILDRYE, ÉLYME DE VIRGINIE</common_names>
+  <description type="morphology">Plants cespitose, not rhizomatous, sometimes glaucous, especially in the spikes. Culms 30-130 cm, erect to slightly decumbent; nodes 4-9, con¬cealed or exposed, usually glabrous, rarely pubescent. Leaves evenly distributed; sheaths usually glabrous, rarely hirsute, occasionally reddish or purplish; auricles absent or to 1.8 mm, pale brown; ligules shorter than 1 mm; blades 2-14(18) mm wide, usually spreading or lax, sometimes becoming involute, basal blades similar to the upper blades, adaxial surfaces usually smooth, sometimes scabridulous, usually glabrous, occasionally pubescent. Spikes (3)4-16(22) cm long, 1-2.2(2.5) cm wide, erect, the bases often sheathed, with 2 spikelets per node, rarely with 3 at some nodes; internodes 3-5 mm long, 0.25-0.5 thick at the thinnest sections, smooth and glabrous, or scabrous, or with hairs beneath the spikelets. Spikelets 10-15 mm, appressed to slightly divergent, with (2)3-4(6) florets, lowest florets functional; disarticulation below the glumes and each floret, or the lowest floret falling with the glumes. Glumes subequal or equal, the basal 1-4 mm terete, indurate, without evident venation, bowed out, yellowish, glume bodies 7-15 mm long, (0.5)0.7-2.3 mm wide, linear-lanceolate, widening above the base, 3-5(8)-veined, usually smooth or scabridulous, margins firm, awns 3-10(15) mm, straight; lemmas 6-10 mm, scabridulous, glabrous or villous-hirsute, awns (5)8-20(25) mm, straight; paleas 5-9 mm, obtuse; anthers 2-3.5(4) mm. Anthesis usually mid-June to late July (mid-August). 2n = 28.</description>
+  <discussion>Elymus virginicus is widespread in temperate North America, growing as far west as British Columbia and Arizona. It is infrequent to rare in the Rocky Mountains, western Great Plains, and southeastern coastal plain. It is a complex species, divided here into four intergrading varieties.</discussion>
+  <key>
+    <key_body>
+1. Spikelets hispidulous to villous-hirsute, usually glaucous; anthesis usually in early July to mid-August .....var. intermedius
+1. Spikelets usually glabrous or scabrous, glaucous or not; anthesis usually in mid-June to late July.
+2. Spikes partly sheathed; glumes 1-2.3 mm wide, strongly indurate and bowed out in the basal 2-4 mm; plants not glaucous, becoming yellowish brown or occasionally somewhat purplish at maturity .....var. virginicus
+2. Spikes exserted; glumes (0.5)0.7-1.5(1.8) mm wide, moderately indurate and bowed  
+out in the basal 1-2 mm; plants usually glaucous, becoming yellowish or reddish brown at maturity.
+3. Culms usually 70-100 cm tall, with 6-8 nodes; blades 3-15 mm wide, flat; spikes 4-20 cm long, not strongly glaucous; glumes indurate only in the basal 1 mm.....var. jejunus
+3. Culms usually 30-80 cm tall, with 4-6 nodes; blades 2-9 mm wide, often becoming involute; spikes 3.5-11 cm long, often strongly glaucous; glumes usually indurate in the basal 1-2 mm ..........var. balophilus
+
+    </key_body>
+  </key>
+</bio:treatment>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>John W. Thieret</author>
+    </source>
+  </meta>
+  <number>26.06</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>MICROSTEGIUM Nees</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; straggling. Culms to 100 cm, often decumbent. Leaves not aromatic; ligules membranous; blades narrowly-elliptic to lanceolate, often pseudopetiolate. Inflorescences terminal, subdigitate to racemose clusters of 1-few rames; rame internodes slender, without a translucent longitudinal groove; disarticulation in the rames beneath the sessile spikelets, and below the pedicellate spikelets. Spikelets in homogamous, homomorphic, sessile-pedicellate pairs, with 1 or 2 florets. Lower glumes herbaceous to cartilaginous, longitudinally grooved, margins inflexed, 4-6-veined, usually keeled; upper glumes 3-veined, mucronate or shortly awned; lower florets absent, or reduced and sterile; upper florets bisexual; upper lemmas usually awned; anthers (2)3. x = 10. Pedicels not fused to the rame axes.</description>
+  <discussion>Microstegium is a genus of approximately 15 species, most of which are native to southeastern Asia; one is established in the Flora region.</discussion>
+  <references>Fairbrothers, D.E. and J.R. Gray. 1972. Microstegium vimineum (Trin.) A. Camus (Gramineae) in the United States. Bull. Torrey Bot. Club 99:97-100; Hunt, D.M. and R.E. Zaremba. 1992. The northeastward spread of Microstegium vimineum (Poaceae) into New York and adjacent states. Rhodora 94:167-170; Mehrhoff, L.J. 2000. Perennial Microstegium vimineum (Poaceae): An apparent misiden-tification. J. Torrey Bot. Soc. 127:251-254.</references>
+</bio:treatment>

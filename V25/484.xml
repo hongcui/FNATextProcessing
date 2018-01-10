@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Kelly W. Allred</author>
+    </source>
+  </meta>
+  <number>20.01</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>CORTADERIA Stapf</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; often dioecious or monoecious; cespitose. Culms 2-7 m, erect, densely clumped. Leaves primarily basal; sheaths open, often overlapping, glabrous or hairy; auricles absent; ligules of hairs; blades to 2 m, flat to folded, arching, edges usually sharply serrate. Inflorescences terminal, plumose panicles, 30-130 cm, subtended by a long, ciliate bract; branches stiff to flexible. Spikelets somewhat laterally compressed, usually unisexual, sometimes bisexual, with 2-9 unisexual florets; disarticulation above the glumes and below the florets. Glumes unequal, nearly as long as the spikelets, hyaline, 1-veined; calluses pilose; lemmas 3-5(7)-veined, long-acuminate, bifid and awned or entire and mucronate; lemmas of pistillate and bisexual florets usually long-sericeous; lemmas of staminate florets less hairy or glabrous; lodicules 2, cuneate and irregularly lobed, ciliate; paleas about 1/2 as long as the lemmas, 2-veined; anthers of bisexual florets 3, 1.5-6 mm, those of the pistillate florets smaller or absent. Caryopses 1.5-3 mm; hila linear, about 1/2 as long as the caryopses; embryos usually shorter than 1 mm. x = 9. </description>
+  <discussion>Cortaderia, a genus of about 25 species, is native to South America and New Zealand, with the majority of species being South American. Recent evidence suggests that the species in the two regions represent different lineages, each of which merits generic recognition. The species treated here would remain in Cortaderia if this change were made.
+Both of the species that are found in North America were originally introduced as ornamental species; both are now considered aggressive weeds in parts of the Flora region.
+</discussion>
+  <references>Barker, N.P., CM. Morton and H.P. Linder. 2000. The Danthonieae: Generic composition and relationships. Pp. 221-229 in S.W.L. Jacobs and J. Everett (eds.). Grasses: Systematics and Evolution. International Symposium on Grass Systematics and Evolution (3rd:1998). CSIRO Publishing, Collingwood, Victoria, Australia. 408 pp.; Connor, H.E. and E. Edgar. 1974. Names and types in Cortaderia Stapf (Gramineae). Taxon 23:595-605; Costas-Lippmann, M. 1977. More on the weedy "pampas grass" in California. Fremontia 4:25-27; Hitchcock, A.S. 1951 [title page 1950]. Manual of the Grasses of the United States, ed. 2, rev. A. Chase. U.S.D.A. Miscellaneous Publication No. 200. U.S. Government Printing Office, "Washington, D.C., U.S.A. 1051 pp.; Linder, H.P. and N.P. Barker. 2000. Biogeography of the Danthonieae. Pp. 231-238 in S.W.L. Jacobs and J. Everett (eds.). Grasses: Systematics and Evolution. International Symposium on Grass Systematics and Evolution (3rd:1998). CSIRO Publishing, Collingwood, Victoria, Australia. 408 pp.; Walsh, N.G. 1994. Cortaderia. Pp. 546-548 in N.G. Walsh and T.J. Entwisle. Flora of Victoria, vol. 2: Ferns and Allied Plants, Conifers and Monocotyledons. Inkata Press, Melbourne, Australia. 946 pp.</references>
+  <key>
+    <key_body>
+1. Sheaths hairy; panicles elevated well above the foliage; culms 4-5 times as long as the panicles.....1. C. jubata
+1. Sheaths glabrous or sparsely hairy; panicles elevated only slightly, if at all, above the foliage; culms 2-4 times as long as the panicles   .....2. C. selloana
+
+    </key_body>
+  </key>
+</bio:treatment>

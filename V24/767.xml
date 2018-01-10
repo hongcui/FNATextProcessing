@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>33</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa chambersii Soreng </name_authority_date>
+  </taxon_identification>
+  <common_names>CHAMBERS' BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; loosely tufted or with solitary shoots, short-rhizomatous. Basal branching all or mainly extravaginal. Culms 10-50 cm, erect or the bases decumbent, terete or weakly compressed; nodes terete, 0-1 exserted. Sheaths closed for 1/3 – 7/8 their length, terete to slightly compressed, smooth, glabrous, bases of basal sheaths glabrous, distal sheath lengths (1.15)1.5-4.6(6.6) times blade lengths; collars smooth, glabrous; ligules 0.5-2(2.5) mm, smooth, truncate to obtuse; innovation blades similar to the cauline blades; cauline blades gradually reduced in length distally, 2-5 mm wide, flat or folded, smooth or the adaxial surfaces sparsely scabrous, primarily over the veins, apices broadly prow-shaped, flag leaf blades 0.7-6 cm. Panicles 2-9 cm, erect, lanceoloid to ovoid, tightly to loosely contracted, with 15-35 spikelets, proximal internodes shorter than 2 cm; nodes with 1-2 branches; branches 0.9-3.2 cm, erect to ascending or slightly spreading, terete, smooth or sparsely scabrous, with 1-4 spikelets. Spikelets 6-12 mm, lengths to 3 times widths, laterally compressed, not sexually dimorphic; florets 2-7; rachilla internodes 0.8-1.5 mm, smooth or sparsely scabrous, glabrous. Glumes 3/5- 4/5 as long as the adjacent lemmas, distinctly keeled; lower glumes 3-veined; calluses of at least some proximal florets sparsely webbed, with 1-2 mm hairs, others glabrous, rarely all glabrous; lemmas 5-7 mm, lanceolate, 5-7-veined, distinctly keeled, smooth or sparsely finely scabrous, glabrous throughout or the keels and marginal veins sparsely softly puberulent over the proximal 1/4, lateral veins moderately prominent, intercostal regions glabrous, margins glabrous, apices acute; palea keels sparsely scabrous, intercostal regions glabrous; anthers vestigial (0.1-0.2 mm), aborted late in development, or 1.8-3.7 mm. 2n = unknown.</description>
+  <discussion>Poa chambersii is known only from upland forest openings in the Cascades of western Oregon, where it is dioecious, and from high elevations on Steens Mountain in southeastern Oregon, where it is gynodioecious. It resembles P. rhizomata (see previous), but has more closed sheaths, shorter ligules, less pubescent or glabrous lemmas, and lacks a well-developed web. It approaches P. cusickii subsp. purpurascens (p. 562), but is rhizomatous and sexually reproducing. It differs from P. wheeleri (p. 546) in having glabrous sheaths and flat or folded, glabrous innovation blades.</discussion>
+</bio:treatment>

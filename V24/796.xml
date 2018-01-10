@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>50</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa laxa Haenke </name_authority_date>
+  </taxon_identification>
+  <common_names>LAX BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; not or only slightly glaucous; densely tufted, not stoloniferous, not rhizomatous. Basal branching mixed, mainly extravaginal or mainly pseudointravaginal, sometimes intravaginal. Culms 8-35 cm tall, 0.5-0.9 mm thick, ascending to erect, slender; nodes terete, 0(1) exserted. Sheaths closed for 1/5-1/3 their length, terete, smooth, glabrous, bases of basal sheaths glabrous; collars smooth or scabrous, glabrous; ligules 2-4 mm, smooth, apices acute, often lacerate; innovation blades similar to the cauline blades; cauline blades 1-2(3) mm wide, flat, thin, soft, smooth, narrowly prow-tipped, blades not strongly graduated or reduced upwards. Panicles 2-8 cm, slightly lax, usually loosely contracted and sparse, infrequently contracted and dense; nodes with 1-3(5) branches; branches 1-3(4) cm, usually ascending or weakly spreading, infrequently erect, fairly straight or flexuous, slender, sulcate or angled, smooth or the angles sparsely scabrous, with 1-8 spikelets. Spikelets 4-6 mm, lengths to 3 times widths, laterally compressed; florets 2-5; rachilla internodes shorter than 1 mm, smooth, glabrous. Glumes nearly equaling or slightly longer than the adjacent lemmas, lanceolate to broadly lanceolate, thin, distinctly keeled, keels smooth or sparsely scabrous; lower glumes 1-3-veined; upper glumes shorter than or subequal to the lowest lemmas; calluses glabrous or webbed, hairs usually shorter than 1/4 the lemma length, sparse; lemmas 3-4.6 mm, lanceolate to broadly lanceolate, thin, distinctly keeled, keels and marginal veins short- to long-villous, lateral veins glabrous or sparsely softly puberulent, lateral veins obscure, intercostal regions glabrous, margins glabrous, apices acute; paleas sparsely scabrous over the keels; anthers (0.6)0.8-1.1(1.3) mm. 2n = 28, 42, 84.</description>
+  <discussion>Poa laxa is a low arctic to high alpine amphiatlantic species. It has been treated as a series of separate species, but the differences seem relatively minor and incomplete. Its short anthers and smoother branches usually distinguish it from P. glauca (p. 576), with which it can hybridize to form P. laxa x glauca (p. 572).
+Poa laxa has four subspecies, two of which are native to the Flora region; subsp. laxa grows in central Europe; and subsp. flexuosa (Sm.) Hyl. in northwestern Europe.
+</discussion>
+  <key>
+    <key_body>
+1. Innovations primarily extravaginal; panicle branches fairly straight; calluses glabrous .....subsp. banffiana
+1. Innovations primarily intravaginal; panicle branches flexuous, usually at least some florets having a webbed callus  .....subsp. fernaldiana
+
+    </key_body>
+  </key>
+</bio:treatment>

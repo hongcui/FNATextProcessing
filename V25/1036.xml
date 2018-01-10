@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Chasmanthium nitidum (Baldwin) H. O. Yates </name_authority_date>
+  </taxon_identification>
+  <common_names>SHINY CHASMANTHIUM</common_names>
+  <description type="morphology">Culms 40-120 cm, to 1 mm thick at the nodes, rarely branched, leafy for 80% of their height. Sheaths glabrous; collars glabrous; ligules 0.2-0.3 mm, entire; blades 9-16(33) cm long, 4-7 mm wide, lanceolate-fusiform, glabrous adaxially. Panicles (9)12-17(29) cm, open, erect; branches ascending to divergent; axils of panicle branches scabrous; pedicels 0.5-2 mm. Spikelets 12-24 mm long, (8)9-12(15) mm wide, with (5)7-9(11) florets, lower (0)1(2) florets sterile, fertile florets diverging to 45°. Lower glumes 3.1-5 mm, 7-9-veined; upper glumes 3-4.6 mm, (5)7-9-veined; calluses glabrous; fertile lemmas 5.5-8.5 mm, straight, 9-11-veined, keels not winged, scabridulous toward the apices; paleas 5-7.5 mm; anthers 1.9-2.4 mm, the length invariant within a spikelet. Caryopses 2.4-3 mm, enclosed at maturity. 2n = 24.</description>
+  <discussion>Chasmanthium nitidum grows along stream and river banks, roadside ditches, and the margins of low, moist woods in the southeastern United States.</discussion>
+</bio:treatment>

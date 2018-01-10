@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>13</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Spartina pectinata Link </name_authority_date>
+  </taxon_identification>
+  <common_names>PRAIRIE CORDGRASS, SPARTINE PECTINEE</common_names>
+  <description type="morphology">Plants strongly rhizomatous; rhizomes elongate, (2)3-8 mm
+thick, purplish-brown or light brown (drying white), scales
+closely imbricate. Culms to 250 cm tall, 2.5-11 mm thick,
+solitary or in small clumps, indurate. Sheaths mostly glabrous, throats often pilose; ligules 1-3 mm; blades 20-96 cm long, 5-15 mm wide, flat when fresh, becoming involute when dry, glabrous on both surfaces, margins strongly scabrous, blade of the second leaf below the panicles 32-96 cm long, 5-14 mm  
+wide, usually involute. Panicles 10-50 cm, not smooth in outline, with 5-50 branches; branches 1.5-15 cm, appressed to somewhat spreading, with 10-80 spikelets. Spikelets 10-25 mm. Glumes shortly awned, glabrous or sparsely hispidulous; lower glumes 5-10 mm, from 3/4 as long as to equaling the adjacent lemmas, keels hispid, apices awned; upper glumes 10-25 mm (including the awn), exceeding the florets, glabrous or sparsely hispid, keels scabrous to hispid, trichomes about 0.3 mm, lateral veins usually glabrous (rarely hispid), on either side of, and close to, the keels, apices awned, awns 3-8 mm; lemmas glabrous, keels pectinate distally, apices bilobed, lobes 0.2-0.9 mm; anthers 4-6 mm, well-filled, dehiscent. 2n = 42, 70, 84.
+</description>
+  <discussion>Spartina pectinata is native to Canada and the United States, but it has been introduced at scattered locations on other continents. On the Atlantic coast, it grows in marshes, sloughs, and flood plains, being a common constituent of ice-scoured zones of the northeast and growing equally well in salt and fresh water habitats. In western North America, it grows in both wet and dry soils, including dry prairie habitats and along roads and railroads.
+Spartina pectinata is thought to be one of the parents of S. xcaespitosa, the other parent being S. patens.
+</discussion>
+</bio:treatment>

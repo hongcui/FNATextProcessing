@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Hordeum jubatum L. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial, sometimes appearing annual; cespitose. Culms 20-80 cm, geniculate to straight, not bulbous based; nodes glabrous. Sheaths glabrous or pubescent; ligules to 0.8 mm; auricles absent; blades to 15 cm long, to 5 mm wide, scabrous, sometimes hairy. Spikes 3-15 cm, usually nodding, whitish green to light purplish. Glumes 15-85 mm long, conspicuous, bent, divergent to strongly divergent at maturity. Central spikelets: glumes (15)35-85 mm, setaceous throughout, strongly spreading at maturity; lemmas 4-8.5 mm, glabrous, awned, awns 11-90 mm, straight to ascending; paleas 5.5-8 mm; anthers 0.6-1.2 mm. Lateral spikelets staminate or sterile; glumes 17-83 mm, setaceous; lemmas 4-6.5 mm, awned; awns 2-15 mm, divergent; anthers 1-1.5 mm. 2n = 28.</description>
+  <discussion>Hordeum jubatum grows in meadows and prairies around riverbeds and seasonal lakes, often in saline habitats, and along roadsides and in other disturbed  
+sites. It is native from eastern Siberia through most of North America to Mexico, growing at elevations of 0-3000 m. It has been introduced to South America, Europe, and central Asia. It is grown in Russia and other areas outside its native range as an ornamental. In its native range, it is a weedy species.
+Hordeum jubatum shows a wide range of variation in almost all characters; most such variation is not taxonomically significant. Hordeum jubatum subsp. intermedium is considered to be a subspecies of H. jubatum because no clear-cut discontinuities exist in the characters used to distinguish it from H. jubatum subsp. jubatum. These plants are fertile.
+</discussion>
+  <key>
+    <key_body>
+1. Glumes of the central spikelet 15-35 mm long; lemma awns of the central spikelets 11-35 mm long.....subsp. intermedium
+1. Glumes of the central spikelet 35-85 mm long; lemma awns of the central spikelets 35-90 mm long  .....subsp. jubatum
+
+    </key_body>
+  </key>
+</bio:treatment>

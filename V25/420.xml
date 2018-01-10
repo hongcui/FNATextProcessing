@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bouteloua eriopoda (Torr.) Torr. </name_authority_date>
+  </taxon_identification>
+  <common_names>BLACK GRAMA</common_names>
+  <description type="morphology">Plants perennial; often shortly rhizomatous, stoloniferous, stolons long, densely woolly-pubescent. Culms 20-60(75) cm, wiry, decumbent, rooting at the lower nodes; lower internodes densely woolly-pubescent. Sheaths mostly glabrous or sparsely pilose, usually pilose near the ligules; ligules 0.1-0.4 mm, of hairs; blades 2.5-6 cm long, 0.5-2 mm wide, scabrous adaxially, margins with papillose-based hairs basally. Panicles (1)2-16 cm, with (1)2-8 branches; branches 14-50 mm, persistent, densely woolly-pubescent basally, with 8-18 spikelets, axes terminating in entire, sometimes scarious apices; disarticulation above the glumes. Spikelets pectinate, with 1 bisexual floret and 1 rudimentary floret. Glumes unequal, smooth or scabrous; lower glumes 2-4.5 mm; upper glumes 4.5-8(9) mm, glabrous, scabrous, or with hairs, hairs to 0.5 mm, not papillose-based; lower lemmas 4-7 mm, pubescent basally, glabrous or sparsely puberulent distally, acuminate, central awns 0.5-4 mm, lateral awns absent or shorter than 1 mm; lower paleas acuminate, unawned; anthers 1.5-3 mm, yellow to orange; rachilla segment to second florets about 2 mm, with a distal tuft of hairs; upper florets rudimentary, an awn column terminating in 3 awns of 4-9 mm. Caryopses 2.5-3 mm. 2n = 20, 21, 28.</description>
+  <discussion>Bouteloua eriopoda grows on dry plains, foothills, and open forested slopes, often in shrubby habitats, and also in waste ground. It is usually found between 1000-1800 m, but extends to 2500 m. Once a dominant in much of its range, under heavy grazing B. eriopoda persists only where protected by shrubs or cacti because it is highly palatable. Its range extends from the south¬western United States to northern Mexico.</discussion>
+</bio:treatment>

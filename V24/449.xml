@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Elymus elymoides (Raf.) Swezey subsp. elymoides</name_authority_date>
+  </taxon_identification>
+  <common_names>COMMON SQUIRRELTAIL</common_names>
+  <description type="morphology">Culms 15-45 cm, erect to decumbent. Blades usually puberulent abaxially, sometimes glabrous. Spikes 4-15 cm, exserted or partly included, usually with 2 spikelets per node. Spikelets with (1)2-3(4) fertile florets, lowest 1-2 florets sterile and glumelike. Glume awns 35-85 mm, often split into 2, sometimes 3, unequal divisions; lemma awns 25-75 mm, usually exceeded by those of the glumes; paleas with the veins extended as bristles.</description>
+  <discussion>Elymus elymoides subsp. elymoides grows in desert and shrub-steppe areas of western North America, extending to the western edge of the Great Plains and, as an adventive, occasionally further east. It is frequently associated with disturbed sites.</discussion>
+</bio:treatment>

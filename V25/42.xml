@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Monanthochloë littoralis Engelm. </name_authority_date>
+  </taxon_identification>
+  <common_names>SHOREGRASS</common_names>
+  <description type="morphology">Plants with extensively creeping stolons. Culms 8-15 cm, clus¬tered, erect. Sheaths 4-6 mm, rounded, smooth, shiny, glabrous or puberulent at the base; blades 0.5-1.5 cm long, 1-2(3) mm wide, uniformly many-veined. 2n = 40.</description>
+  <discussion>Monanthochloë littoralis grows in moist, sandy, saline soils along the coast of southern California and the southeastern United States, northeastern Mexico, and the Caribbean islands.</discussion>
+</bio:treatment>

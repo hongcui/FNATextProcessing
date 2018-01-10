@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>13</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sporobolus buckleyi Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>BUCKLEY'S DROPSEED</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 40-100 cm. Sheaths keeled and flattened below, margins occasionally hairy distally, hairs to 1.2 mm; ligules 0.2-0.4   mm; blades 12-35 cm long, 4-12 mm wide, flat, glabrous abaxially, scabridulous adaxially, margins smooth or scabridulous. Panicles 15-50 cm long, 7-22(30) cm wide, diffuse, ovate; primary branches 2-17 cm, spreading 40-100° from the rachis; secondary branches appressed to loosely spreading, without spikelets on the lower 1/4 - 1/2;  pulvini glabrous; pedicels 0.2-1.2 mm, appressed,  scabridulous. Spikelets 1-2 mm, purplish to brownish. Glumes unequal, narrowly lanceolate to lanceolate, membranous, prominently keeled; lower glumes 0.6-1 mm; upper glumes 1.1-1.8 mm, slightly shorter than or subequal to the lemmas; lemmas 1.2-2 mm, lanceolate, membranous, glabrous, acute; paleas 1.2-2 mm, ovate, membranous, glabrous, often splitting in two between the veins at maturity; anthers 0.2-0.4 mm, purplish. Fruits 0.6-1 mm, ovoid, slightly flattened, reddish-brown. 2n = 40.</description>
+  <discussion>Sporobolus buckleyi grows between 0-150 m, in loamy soils near the margins of woods or thorn scrub, sometimes in partial sunlight. Its range extends from southeastern Texas to Belize.</discussion>
+</bio:treatment>

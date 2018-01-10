@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bouteloua repens (Kunth) Scribn. & Merr.</name_authority_date>
+  </taxon_identification>
+  <common_names>SLENDER GRAMA</common_names>
+  <description type="morphology">Plants perennial; cespitose, usually not dense, hard, or knotty, without rhizomes or stolons. Culms 15-65 cm, erect, geniculate, or decumbent, sometimes rooting at the lower nodes, usually branching from the aerial nodes. Sheaths glabrous or pubescent; ligules 0.2-0.3 mm, membranous, ciliate; blades 5-20 cm long, 1-5 mm wide, bases with papillose-based hairs on the margins, both surfaces glabrous or pubescent. Panicles 4-14 cm, with (3)7-12 branches; branches 10-20 mm, with 2-8 spikelets, extending 4-6 mm beyond the base of the terminal spikelets, apices entire; disarticulation at the base of the branches. Spikelets appressed, all alike, with 1 bisexual and 1 staminate (rarely rudimentary) floret. Glumes glabrous, veins scabrous or strigose; lower glumes 4-7 mm; upper glumes 4-9 mm, mostly glabrous, sometimes scabrous or strigose over the veins, apices acute, unawned or awn-tipped, awns about 1 mm; lowest lemmas 4.5-8 mm, usually glabrous, rarely pubescent basally, 3-awned, awns wide basally, central awns slightly longer than the lateral awns, often flanked by 2 membranous 0.5-1.5 mm lobes; lowest paleas 6-8 mm, bilobed, often shortly 2-awned; anthers 3-5.5 mm, usually orange or yellow, occasionally red or purple; second lemmas 5.5-7 mm, glabrous, 3-awned, central awns 4-10 mm, often flanked by membranous lobes, lateral awns 2-10 mm; second paleas 4-7 mm; anthers smaller than those of the lowest florets; rachillas prolonged beyond the second florets as a short bristle. Caryopses 3-4 mm. 2n = 20, 40, 60.</description>
+  <discussion>Bouteloua repens grows in open, usually hilly terrain on many soil types, from sandy ocean shores to montane slopes, reaching elevations of 2500 m. Its native range extends from the southwestern United States through the Caribbean islands, Mexico, and Central America to Colombia and Venezuela.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>13</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthelium malacophyllum (Nash) Gould </name_authority_date>
+  </taxon_identification>
+  <common_names>SOFT-LEAVED PANICGRASS</common_names>
+  <description type="morphology">Plants cespitose, with caudices. Basal rosettes well-differentiated; blades 2-4 cm, ovate to lanceolate. Culms 20-70 cm, usually 1-2 mm thick, erect; nodes retrorsely bearded; internodes puberulent and densely pubescent with soft, spreading to retrorse hairs, hairs papillose-based, papillae small; fall phase branching from the mid- and upper culm nodes, ultimately much rebranched, with short, bushy clumps of blades and small, included secondary panicles, this branching beginning before the the primary panicles are exserted. Cauline leaves 5-6; sheaths not overlapping, pubescence not as dense as on the culms; collars puberulent; ligules 0.5-1 mm, of hairs, bases of the hairs forming a thickened ring, pseudoligules of 1-3 mm hairs also present; blades 5-10 cm long, 6-12 mm wide, lax, both surfaces velvety pubescent, with 9 or 11 major veins, these only slightly more prominent than the minor veins, bases rounded, margins ciliate. Primary panicles 3-7 cm long, 2-5 cm wide, tardily and shortly exserted; rachises and branches densely pubescent. Spikelets 2.5-3.2 mm long, 1.5-1.6 mm wide, broadly ellipsoid-obovoid, turgid, with papillose-based hairs, sometimes pilose. Lower glumes 1-1.6 mm, strongly veined, acute; upper glumes strongly veined, often purplish, especially towards the bases; lower florets sterile; upper florets minutely umbonate. 2n = 18.</description>
+  <discussion>Dichanthelium malacophyllum usually grows in cedar glades, on dry limestone soils. It is restricted to the United States. The primary panicles are briefly open-pollinated from late May to early June; the secondary panicles, which are produced from June to November, are cleistogamous. The species occasionally intergrades, and perhaps hybridizes, with D. oligosanthes and D. acuminatum.</discussion>
+</bio:treatment>

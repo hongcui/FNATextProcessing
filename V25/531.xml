@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Aristida dichotoma var. curtissii A. Gray</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Glumes unequal; lower glumes 5-8(10) mm; upper glumes 7-13 mm; lemmas 6-11 mm, glabrous or scabridulous; central awns 4-8 mm; lateral awns 2-4 mm. Caryopses 4-9 mm.</description>
+</bio:treatment>

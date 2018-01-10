@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa arctica subsp. lanata (Scribn. & Merr.) Soreng </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants usually densely, infrequently loosely, tufted, rhizomes short, fairly stout, sometimes poorly developed. Basal branching frequently intravaginal. Sheaths persistent; ligules 2-4 mm, obtuse to acute; blades 2-6 mm wide, usually flat, firm and fairly persistent, flag leaf blades (1.5)2.5-9 cm. Panicles lax to erect, open; branches ascending or widely spreading, somewhat sinuous and flexuous to fairly stout and straight, smooth to sparsely or moderately scabrous, with (1)2-3(5) spikelets, proximal branches 2/5-3/5 the panicle length. Spikelets (5)6-8 mm, infrequently bulbiferous; rachilla internodes sometimes muriculate, sparsely to moderately long-villous or glabrous. Glumes keeled, keels compressed, smooth or moderately scabrous; calluses webbed in normal plants, web copious, sometimes glabrous in bulbiferous plants; lemmas 4.5-6(7) mm; palea keels short- to long-villous, sometimes scabrous in bulbiferous plants; anthers usually fully developed in sexual plants, poorly developed in bulbiferous plants. 2n = 42, 56, 62, 70, 75, 78, 80.</description>
+  <discussion>Poa arctica subsp. lanata is amphiberingian in distribution, extending to northwestern British Columbia. It often grows with subsp. arctica, from which it differs in having larger and, usually, fewer spikelets and broader leaves. It intergrades with P. macrocalyx (p. 527) in one direction and P. arctica subsp. arctica in another.
+Poa malacantba Kom. is included here in P. arctica subsp. lanata. It supposedly differs in having soft hairs on the rachilla internodes and smaller spikelets, but neither feature excludes it from subsp. lanata. Bulbiferous forms of Poa arctica subsp. lanata are known primarily from uplands in the Alaska Range and Kenai Peninsula. The type of P. lanata var. vivipara Hulten is a robust plant that appears to belong to P. macrocalyx consequently the name cannot be applied to bulbiferous plants of subsp. lanata. 
+</discussion>
+</bio:treatment>

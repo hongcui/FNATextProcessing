@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Thomas F. Daniel</author>
+    </source>
+  </meta>
+  <number>14.25</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>SPHENOPHOLIS Scribn.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants usually perennial, rarely winter annuals; usually cespitose, sometimes the culms solitary. Culms (5)20-130 cm, leaves evenly distributed. Sheaths open; auricles absent; ligules membranous, erose; blades flat or involute, glabrous or pubescent. Inflorescences panicles, open or contracted, nodding to erect; disarticulation below the glumes, the distal floret sometimes disarticulating first. Spikelets pedicellate, 2.1-9.5 mm, laterally compressed, with 2-3 florets; rachillas glabrous or pubescent, prolonged beyond the base of the distal floret as a slender bristle. Glumes almost equaling the lowest floret, dissimilar in width, membranous to subcoriaceous, margins scarious, apices unawned; lower glumes narrower than the upper glumes, l(3)-veined, strongly keeled, apices acute; upper glumes elliptical to oblanceolate, obovate, or subcucullate, 3(5)-veined, strongly to slightly keeled, apices acuminate, acute, rounded, or truncate; calluses glabrous; lemmas herbaceous, not indurate, rounded on the lower back, smooth or partly or wholly scabrous, usually keeled near the apices, 3(5)-veined, veins usually not visible, unawned or awned from just below the apices, awns straight or geniculate; paleas hyaline, shorter than the lemmas; lodicules 2, free, membranous, glabrous, toothed or entire; anthers 3; ovaries glabrous. Caryopses shorter than the lemmas, concealed at maturity, linear-ellipsoid, glabrous; endosperm liquid, x = 7. </description>
+  <discussion>Sphenopholis includes six species, all of which are native to the Flora region. Its greatest diversity is in the southeastern United States. One species, Sphenopholis obtusata, extends outside the region to southern Mexico and the Caribbean. It has also been collected in Hawaii, but is not known to be established there. Interspecific hybridization is known in the genus, but intermediate plants are not frequently encountered. Trisetum interruptum Buckl. is sometimes treated in Sphenopholis (e.g., Finot et al. 2004) because its spikelets disarticulate below the glumes.
+Glume widths are measured in side view, from the lateral margin to the midvein.
+</discussion>
+  <references>Erdman, K.S. 1965. Taxonomy of the genus Sphenopholis (Gramineae). Iowa State Coll. J. Sci. 39:289-336; Finot, V.L., P.M. Peterson, R.J. Soreng, and F.O. Zuloaga. 2004. A revision of Trisetum, Peyritscia, and Sphenopholis (Poaceae: Pooideae: Aveninae) in Mexico and Central America. Ann. Missouri Bot. Gard. 91:l-30;Smith, E.B. (ed.). 1991. An Atlas and Annotated List of the Vascuhr Plants of Arkansas, ed. 2. Edwin B. Smith, Fayette\ ille, Arkansas, U.S.A. 489 pp.</references>
+  <key>
+    <key_body>
+1. Distal lemmas awned, awns 3-9 mm long; spikelets 4.5-9.5 mm long   .....1.S. pensylvanica
+1. Distal lemmas unawned or awned, awns 0.1-3 mm long; spikelets 2.1-5.2 mm long. 
+2. Distal lemmas scabrous on the sides, unawned or awned; anthers (0.5)1-2 mm long. 
+3. Lower glumes at least 1/3 as wide as the upper glumes; blades (1)2-5(7) mm wide, flat to slightly involute; awns absent or shorter than 1 mm .....2. S. nitida
+3. Lower glumes less than 1/3 as wide as the upper glumes, rarely slightly wider; blades 0.3-1.5(2) mm wide, involute to filiform; awns absent or (0.1)1-3 mm long .....3. S. filiformis
+2. Distal lemmas usually smooth on the sides, sometimes scabrous or scabridulous distally, unawned; anthers 0.2-1 mm long.
+4. Upper glumes subcucullate, the width/length ratio 0.3-0.5; panicles usually erect, often spikelike, the spikelets usually densely arranged .....4. S. obtusata
+ 
+ 
+4. Upper glumes not subcucullate, the width/length ratio 0.17-0.35; panicles usually nodding, not spikelike, the spikelets usually loosely arranged. 
+5. Spikelets 2.1-4 mm long; lowest lemmas 2.1-3 mm long; upper glumes 1.9-2.9 mm long  .....5.S. intermedia
+5. Spikelets 4-5.2 mm long; lowest lemmas 3.1-4.2 mm long; upper glumes 3-3.9 mm long .....6.S. longiflora
+
+    </key_body>
+  </key>
+</bio:treatment>

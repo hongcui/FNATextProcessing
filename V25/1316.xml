@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Urochloa arizonica (Scribn. & Merr.) Morrone & Zuloaga</name_authority_date>
+  </taxon_identification>
+  <common_names>ARIZONA SIGNALGRASS</common_names>
+  <description type="morphology">Plants annual. Culms 15-65 cm, erect or geniculate, branching from the lower nodes; nodes glabrous or hispid. Sheaths glabrous or with papillose based hairs, margins ciliate distally; ligules 1-1.6 mm; blades 5-15 cm long, 5-12 mm wide, glabrous. Panicles 6-20 cm long, 2-5 cm wide, ovoid, with 6-12 spikelike primary branches in more than 2 ranks; primary branches 3-7 cm, divergent, axes about 0.4 mm wide, triquetrous, densely pubescent with papillose-based hairs; secondary branches short, divergent; pedicels shorter than the spikelets, with papillose-based hairs. Spikelets 3.2-4 mm long, 1.2-1.6 mm wide, mostly paired, in 2 rows, appressed to the branches. Glumes scarcely separate, rachilla internodes short, not pronounced; lower glumes 1.5-2 mm, to 1/2 as long as the spikelets, glabrous, 5-veined, sometimes with evident cross venation near the apices; upper glumes 2.5-3.2 mm, glabrous or shortly hirsute, 7-veined, with evident cross venation distally; lower florets staminate or sterile; lower lemmas 2.5-3.2 mm, glabrous or shortly hirsute, 5-veined, about as long as the spikelet; lower paleas present; upper lemmas 2.8-3 mm long, 1.2-1.6 mm wide, acute, beaked or mucronate; anthers 0.8-1 mm. Caryopses 1.5-2 mm; hila punctiform. 2n = 36.</description>
+  <discussion>Urochloa arizonica is native to the southwestern United States and northern Mexico, but has been introduced to, and appears to be established in, the southeastern United States. It grows in open, dry areas with rocky or sandy soils.</discussion>
+</bio:treatment>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Surrey W.L. Jacobs</author>
+    </source>
+  </meta>
+  <number>10.15</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>AUSTROSTIPA S.W.L. Jacobs & J. Everett</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants facultative perennials; to 2.5 m, sometimes shrublike, often with knotty bases. Culms often persistent, sometimes geniculate at the base, sometimes with stiff branches at the upper nodes; basal branching usually extravaginal; prophylls not evident. Leaves not overwintering; sheaths open to the base, margins sometimes extending beyond the base of the ligule, the extensions often conspicuously hairy, sometimes grading into the ligule; auricles not present; ligules membranous; blades flat, convolute, or terete, usually scabrous, sometimes pubescent, those of the flag leaves longer than 10 mm, bases usually as wide as the top of the sheaths, sometimes narrower. Inflorescences panicles, sometimes contracted, rachises persistent or disarticulating whole at maturity; pedicels smooth or scabrous, sometimes hairy, hairs to 3 mm; disarticulation above the glumes, sometimes also at the base of the panicle. Spikelets with 1 floret; rachillas not prolonged. Glumes usually longer than the florets, narrow, more or less keeled, hyaline to chartaceous, l-5(7)-veined, apices usually acute or acuminate, rarely muticous or mucronate, remaining open after the floret falls; florets at least 5 times longer than wide; calluses strigose, usually sharp; lemmas usually coriaceous or indurate, 3-5(7)-veined, margins thin, usually convolute, rarely involute, apices glabrous or pilose, with 0-2 minute to small, membranous lobes, awned, lemma-awn junction evident; awns once- or twice-geniculate; paleas from shorter than to subequal to the lemmas, flat between the veins, 0-2-veined; lodicules 3 or 2; anthers 3, frequently penicillate; ovaries glabrous. Caryopses fusiform, terete; hila linear, nearly as long as the caryopses. x = unknown.</description>
+  <discussion>Austrostipa is a genus of 63 species, all of which are native to Australasia. Two species are cultivated in the Flora region.</discussion>
+  <references>Jacobs, S.W.L. and J. Everett. 1996. Austrostipa, a new genus, and new names for Australasian species formerly included in Stipa (Gramineae). Telopea 6:579-595.</references>
+  <key>
+    <key_body>
+1. Plants shrubby; panicle branches and pedicels plumose, hairs 1.5 mm or longer.....1. A. elegantissima 
+1. Plants bamboolike; panicle branches and pedicels not plumose, if hairy then the hairs to 0.3 mm long.....2. A. ramosissima
+    </key_body>
+  </key>
+</bio:treatment>

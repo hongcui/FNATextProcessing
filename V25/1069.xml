@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>14</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Digitaria longiflora (Retz.) Pers. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants of indefinite duration; stoloniferous, stolons long and branching. Culms 10-60 cm, occasionally branching from the lower nodes. Leaves 3-4, clustered near the base; sheaths usually glabrous; ligules 0.5-1 mm; blades 1.5-4 cm long, 3-5 mm wide, mostly glabrous, bases subcordate and ciliate, with 0.6-1 mm papillose-based hairs. Panicles with 2(-4) spikelike primary branches, digitate; primary branches 2-5 cm, strongly divergent; branch axes about 1 mm wide, wing-margined, wings wider than the central midribs, bearing spikelets in unequally pedicellate groups of 3; secondary branches rarely present; shortest pedicels about 0.3 mm; middle pedicels about 1 mm; longest pedicels 1.5-2 mm, adnate to the branch axes basally; axillary panicles not present. Spikelets 1.2-1.5 mm, elliptic or slightly obovate, acute. Lower glumes absent; upper glumes equaling or almost equaling the spikelets, 5-veined, minutely pubescent between the veins and on the margins; lower lemmas subequal to the upper glumes, 7-veined, usually pubescent on the margins and lateral veins, occasionally glabrous, hairs, if present, 0.2-0.4 mm; upper lemmas about 1.2 mm, pale brown or pale gray, becoming light brown at maturity, acute; anthers 0.8-0.8 mm. 2n = 18.</description>
+  <discussion>Digitaria longiflora is native to Africa and Asia. It is now established in disturbed areas of Florida, growing on railroad grades and in pastures and lawns.</discussion>
+</bio:treatment>

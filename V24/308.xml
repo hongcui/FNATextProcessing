@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>28</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus pubescens Muhl. ex Willd. </name_authority_date>
+  </taxon_identification>
+  <common_names>CANADA BROME</common_names>
+  <description type="morphology">Plants perennial; not rhizomatous. Culms 65-120(150) cm, erect; nodes (3)5-7(9), usually pubescent, sometimes glabrous; internodes pubescent or glabrous. Sheaths retrorsely pilose, midrib of the culm leaves not abruptly narrowed just below the collar, collars hairy or glabrous; auricles absent; ligules 0.5-2 mm, glabrous, obtuse to truncate, erose; blades 12-32 cm long, 6-15(19) mm wide, flat, 1 or both surfaces glabrous or hairy. Panicles 10-25 cm, open, usually nodding; branches usually spreading, sometimes ascending, often drooping. Spikelets (13)15-30 mm, elliptic to lanceolate, terete to moderately laterally compressed, with (4)5-10(13) florets. Glumes usually pubescent, rarely glabrous; lower glumes 4-8 mm, 1-veined; upper glumes 5-10 mm, 3(5)-veined, not mucronate; lemmas 8-12 mm, lanceolate, rounded over the midvein, backs and margins usually hairy, sometimes glabrous or scabrous, apices subulate to acute, entire; awns (3)4-7(8) mm, straight, arising less than 1.5 mm below the lemma apices; anthers 2-4(5) mm. 2n = 14.</description>
+  <discussion>Bromus pubescens grows in shaded, moist, often upland deciduous woods. Its range is centered in the eastern half of the United States, and extends northward to southern Manitoba, Ontario, and Quebec, westward in scattered locations to Arizona, and southward to eastern Texas and western Florida.</discussion>
+</bio:treatment>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Anthoxanthum aristatum Boiss.</name_authority_date>
+  </taxon_identification>
+  <common_names>VERNALGRASS</common_names>
+  <description type="morphology">Plants annual. Culms 5-60 cm, often geniculate at the base, freely branched. Auricles to 0.5 mm, sometimes absent; ligules 1-2(3) mm, obtuse to acute; blades 0.8-6 cm long, 1-5 mm wide. Panicles 1-4 cm; lowermost branches 8-12(15) mm; pedicels 0.1-0.3 mm, pubescent. Spikelets (4)5-9 mm; lower glumes 3-5 mm; upper glumes 5-7 mm; sterile florets about 3 mm, awn of the first floret 3.5-5 mm, awn of the second floret 6-10 mm, exceeding the upper glumes by 2-3 mm; fertile florets about 2 mm; anthers 2, 2.8-4.1 mm. 2n = 10, 20, </description>
+  <discussion>Anthoxanthum aristatum is native to Europe. It is now established but not common in the Flora region, being found in mesic to dry, open, disturbed habitats of western and eastern North America. North American plants belong to Anthoxanthum aristatum Boiss. subsp. aristatum, which differs from Anthoxanthum aristatum  
+subsp.  macranthum Valdes in having well-exserted awns and deeply bifid, sterile lemmas.
+Hitchcock (1951) stated that another annual species of Anthoxanthum, A. gracile Biv., is occasionally cultivated for dry bouquets, but it does not appear to be widely available at present. It differs from A. aristatum in having longer (10-12 mm) spikelets and simple or sparingly branched culms.
+</discussion>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Panicum sect. Repentia Stapf</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; rhizomatous, rhizomes long or short, sometimes with scalelike leaves, some¬times forming a compact, knotty base. Culms 20-300 cm, erect, firm, terete, often glaucous. Sheaths glabrous or pilose; ligules 0.5-6 mm, membranous, ciliate; blades linear (sometimes involute), firm. Panicles open or contracted. Spikelets lanceoloid, glabrous, acute to acuminate. Lower glumes about 1/4 - 2/3 as long as the spikelets, 1-7-veined, usually acute or truncate, some¬times acuminate; upper glumes and lower lemmas unequal, stiffly pointed, upper glumes often exceeding the lower lemmas, the two often separating (gaping) beyond the florets; lower florets staminate; lower paleas well-developed; upper florets smooth, shiny, often pointed.</description>
+  <discussion>There are approximately 12 species of Panicum sect. Repentia in the Western Hemisphere, four of which grow in the Flora region. The species generally inhabit wet sites, growing on coastal dunes, sea beaches or along the margins of rivers.</discussion>
+</bio:treatment>

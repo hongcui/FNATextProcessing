@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>25</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus macrourus (Turcz. ex Steud.) </name_authority_date>
+  </taxon_identification>
+  <common_names>NORTHERN WHEATGRASS</common_names>
+  <description type="morphology">Plants cespitose, sometimes appearing weakly rhizomatous. Culms 35-100 cm, ascending to erect; nodes sometimes pubescent. Sheaths glabrous; auricles absent; ligules 0.5-1 mm, truncate to rounded; blades 3-10 mm wide, flat, usually glabrous, abaxial surfaces smooth or scabridulous, adaxial surfaces scabrous. Spikes 5-20 cm long, 0.4-0.8 cm wide, erect, with 1 spikelet per node; internodes 7-8 mm long, about 0.5 mm wide, glabrous below the spikelets. Spikelets 12-20 mm, appressed, with 4-7 florets; rachillas hairy, hairs 0.3-0.5 mm; disarticulation above the glumes, beneath each floret. Glumes 6-10 mm long, 1/3-2/3 the length of the spikelets and to about 1/2 the length of the adjacent lemmas, 0.8-1.8 mm wide, widest at about midlength, lanceolate, flat, rounded, or symmetrically keeled, usually green or green tinged with purple, 3-4-veined, veins scabridulous, scabrous, or with hairs to 0.3 mm, usually glabrous elsewhere, margins subequal, about 0.3 mm wide, widest near midlength, apices acute, unawned or awned, awns to 1 mm; lemmas 8-12 mm, hairy throughout or glabrous distally, hairs all alike, 0.2-0.3 mm, apices unawned or awned, awns to 7 mm, straight; paleas subequal to the lemmas, tapering to the apices, apices about 0.8 mm wide; anthers 1-2 mm. 2n = 28.</description>
+  <discussion>Elymus macrourus grows on river banks and bars, lake shores, and hillsides in northwestern North America. Outside of North America, it grows across the Russian arctic, and extends south into the boreal forest. Plants growing on shifting river banks and bars often appear rhizomatous, as the lower internodes elongate in response to the disturbed substrate. Plants of E. macrourus differ from E. alaskanus (see next) in the shape of their glumes and their narrower glume margins, and from E. trachycaulus (p. 321) in their relatively short glumes and evidently hairy rachilla segments.
+Three varieties of Elymus macrourus are recognized in Russian treatments. It is not clear to which, if any, of the Russian varieties North American plants belong. A circumboreal study is needed, using plants grown from seeds collected in the wild. Seeds available as E. macrourus through germplasm resources appear to be misidentified.
+Elymus macrourus is one of the parents in both E. xpalmerensis (p. 340) and xElyhordeum pilosilemma (p. 284).
+</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Phalaris paradoxa L. </name_authority_date>
+  </taxon_identification>
+  <common_names>HOODED CANARYGRASS</common_names>
+  <description type="morphology">Plants annual; tufted. Culms 20-100 cm, not swollen at the base. Ligules 3-5 mm, truncate to acute; blades 5-10(15) cm long, 2-5 mm wide. Panicles 3-9 cm long, about 2 cm wide, dense, obovoid to clavate, tapering at the base, rounded to truncate at the top; branches with groups of 5-6 usually staminate, rarely sterile spikelets clustered around a terminal pistillate or bisexual spikelet; pedicels hispid; disarticulation beneath the spikelet clusters. Spikelets heterogamous, with 3 florets, lower 2 florets sterile and highly reduced, terminal floret usually staminate, pistillate, or bisexual, rarely sterile. Glumes of staminate or sterile spikelets varying, those at the base of the panicle reduced to knobs of tissue terminating the pedicels, those higher up often clavate, those near the top of the panicle similar to the glumes of the sexual spikelets but somewhat narrower; glumes of pistillate or bisexual spikelets 4-8 mm long, about 1 mm wide, keeled, keels winged, wings 0.2-0.4 mm wide, terminating below the apices and forming a single, prominent tooth, lateral veins conspicuous, apices acuminate to awned, awns about 0.5 mm; sterile florets of all spikelets 0.2-0.4 mm, knoblike projections on the calluses of the terminal florets often with 1-2 hairs; terminal florets of all spikelets 2.5-3.5 mm long, 0.8-1.5 mm wide, indurate, shiny, glabrous or with a few short hairs near the tip; anthers 1.5-2.5 mm. 2n = 14.</description>
+  <discussion>Phalaris paradoxa is native to the Mediterranean region; it is now found throughout the world, primarily in harbor areas and near old ballast dumps. It is an established weed in parts of Arizona and California. Within an inflorescence, the most reduced sterile spikelets are located near the base, and the most nearly normal spikelets are near the top.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>15</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Pennisetum setaceum (Forssk.) Chiov. </name_authority_date>
+  </taxon_identification>
+  <common_names>TENDER FOUNTAINGRASS</common_names>
+  <description type="morphology">Plants perennial, or annual in temperate climates; cespitose. Culms 40-150 cm, erect, pubescent beneath the panicle; nodes glabrous. Leaves green, sometimes glaucous; sheaths glabrous, margins ciliate; ligules 0.5-1.1 mm; blades 20-65 cm long, 2-3.5 mm wide, convolute or folded, scabrous, midvein noticeably thickened. Panicles (6)8-32 cm long, 40-52 mm wide, erect or arching, pink to dark burgundy; rachises pubescent. Fascicles 8-10 per cm; fascicle axes 2.3-4.5 mm, with 1-4 spikelets; outer bristles 28-65, 0.9-19 mm; inner bristles 8-16, 8-27 mm, ciliate; primary bristles 26.5-34.3 mm, ciliate, noticeably longer than the other bristles. Spikelets 4.5-7 mm, sessile or pedicellate; pedicels to 0.1 mm; lower glumes absent or to 0.3 mm, veinless; upper glumes 1.2-3.6 mm, (0)l-veined; lower florets usually sterile, sometimes staminate; lower lemmas 4-6 mm, 3-veined, acuminate, midvein excurrent to 0.7 mm; lower paleas usually absent, if present, to 4.4 mm; anthers absent or 2.3-2.4 mm; upper lemmas 4.5-6.7 mm, attenuate, 5-veined, midvein excurrent to 0.7 mm, margins glabrous; anthers 2.1-2.7 mm. 2n = 27.</description>
+  <discussion>Pennisetum setaceum is a desert grass native to the eastern Mediterranean region. It is a popular ornamental throughout the southern United States, but it is also an invasive weed.</discussion>
+</bio:treatment>

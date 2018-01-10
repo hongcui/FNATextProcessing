@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Cladoraphis cyperoides (Thunb.) S.M. Phillips </name_authority_date>
+  </taxon_identification>
+  <common_names>BRISTLY LOVEGRASS</common_names>
+  <description type="morphology">Culms 2-80 cm. Blades 2-11 cm long, 4-9 mm wide, margins ciliate basally. Primary branches to 8 cm, widely spaced, often separated by more than their own length. Spikelets with 4-9(20) florets, densely clustered,  
+appressed to and concealing the branch axes; lemmas about 3.5 mm. 2n = unknown.
+</description>
+  <discussion>Cladoraphis cyperoides was once collected on a ballast dump at Linnton (near Portland, Oregon). It is not known to have persisted in North America. The spinelike leaves and panicle branches would probably make an encounter memorable.</discussion>
+</bio:treatment>

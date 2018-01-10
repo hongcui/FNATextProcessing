@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Cottea pappophoroides Kunth </name_authority_date>
+  </taxon_identification>
+  <common_names>COTTA GRASS</common_names>
+  <description type="morphology">Culms 25-70 cm. Blades 5-15 cm long, 4-7 mm wide. Panicles 8-15 cm long, 2-6 cm wide, green or purplish; branches loosely ascending. Spikelets 5-10 mm (including the awns). Glumes 4-5 mm; lemmas 3-4 mm, conspicuously long-pilose basally, awns and teeth more or less alternating. Caryopses about 1.5 mm, plump, elliptical; embryos about 1/2 as long as the caryopses. 2n = 20.</description>
+  <discussion>Cottea pappophoroides grows on open hillsides from Arizona and Texas south to central Mexico, and from Ecuador to Argentina.</discussion>
+</bio:treatment>

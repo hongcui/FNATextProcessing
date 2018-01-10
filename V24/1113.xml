@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Alopecurus magellanicus Lam. </name_authority_date>
+  </taxon_identification>
+  <common_names>FOXTAIL, BOREAL FOXTAIL, VULPIN ALPIN, VULPIN BOREALE</common_names>
+  <description type="morphology">Plants perennial; shortly rhi¬zomatous. Culms (6)10-80 cm, erect or decumbent. Ligules 1-2 mm, truncate; blades 4-22 cm long, 2.5-7 mm wide; upper sheaths inflated. Panicles 1-5 cm long, 8-14 mm wide. Glumes 3-5 mm, connate in the lower 1/8, membranous, densely pilose throughout, keels not winged, ciliate, apices acute and parallel; lemmas 2.5-4.5 mm, connate in the lower 1/2 - 2/3, glabrous proximally, finely pubescent distally, apices usually obtuse, occasionally truncate, awns 2-6(8) mm, geniculate, exceeding the lemmas by 0-5 mm; anthers 2.3-3 mm, yellow. Caryopses 0.7-2 mm. 2n = 98, 100, 105, 112, 117, 119, ca. 120.</description>
+  <discussion>Alopecurus magellanicus has an arctic-alpine to subalpine circumpolar distribution, but it has not been found in Scandinavia or Iceland. It grows primarily in wet soils in tundra, meadows, along streams, shorelines, gravelbars, and floodplains, and occasionally in somewhat drier forest openings, in fine or silty to stony soils or moss. It is sometimes co-dominant with Dupontia fisheri in the arctic and subarctic portion of its range. The anthocyanic tint of the plant as a whole greatly increases to the north.
+In the past, this species has been called Alopecurus alpinus, the name being attributed to Smith. Dogan (1999) pointed out that the name had first been used by Villars for a different species, which meant that this species had to have another name; Dogan used A. borealis Trin., listing A. magellanicus as a synonym but, because A. magellanicus was published first, it has priority and is therefore the correct name.
+The morphological variability in Alopecurus magellanicus has prompted recognition of several segregate taxa, A. stejnegeri Vasey and A. occidentalis Scribn. & Tweedy being two of the more conspicuous extremes. The former are small plants occurring on enriched sites in the arctic, usually around seabird or seal colonies where high nutrient levels produce lush vegetative growth; the latter refers to tall-stemmed plants found in the Rocky Mountains. Because such plants are simply extremes in a continuum of variation, they do not merit taxonomic recognition.
+</discussion>
+</bio:treatment>

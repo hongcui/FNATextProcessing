@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Tridens congestus (L.H. Dewey) Nash </name_authority_date>
+  </taxon_identification>
+  <common_names>PINK TRIDENS</common_names>
+  <description type="morphology">Plants cespitose, with shortly rhizomatous bases. Culms 30-75 cm. Sheaths glabrous, rounded; ligules to 0.5 mm, membranous, ciliate; blades 1.5-5 mm wide, tapering and involute distally. Panicles 5-8(10) cm long, 1.2-2.5 cm wide, dense; branches 0.5-3 cm, erect to ascending; pedicels 1-3 mm. Spikelets 5-10 mm, with 5-12 florets. Glumes glabrous, usually tinged with pink, 1-veined; lower glumes 3-4.5 mm; upper glumes 4-4.5(5) mm; lemmas 3-5 mm, usually tinged with pink, midveins and margins pubescent on the basal 1/3 - 1/2, midveins shortly excurrent, lateral veins pilose to midlength, terminating before the distal margins; paleas 0.5-1 mm, shorter than the lemmas, scabrous on the veins, broadened below, bases bowed-out at maturity; anthers 1-1.5 mm. Caryopses (1)1.5-2 mm. 2n = unknown.</description>
+  <discussion>Tridens congestus grows in moist depressions, ditches, and low flats of otherwise dry hills in Texas. It resembles T. albescens, but usually has shorter panicles, spikelets that are more or less evenly pink rather than purple-tipped, and more deeply cleft lemma apices.</discussion>
+</bio:treatment>

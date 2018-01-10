@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Festuca brachyphylla subsp. breviculmis Fred. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms usually less than twice as long as the vegetative shoot leaves. Spikelets 3.5-5(5.5) mm. Lemmas 2.5-4 mm; awns 1-2(2.2) mm. 2n = 28(?) [chromosome count is unknown, but has been inferred].</description>
+  <discussion>Festuca brachyphylla subsp. breviculmis is endemic to California, where it grows in alpine habitats in the Sierra Nevada and White Mountains.</discussion>
+</bio:treatment>

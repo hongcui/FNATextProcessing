@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eriochloa sericea (Scheele) Munro ex Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>TEXAS CUPGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, shortly rhizomatous. Culms 30-130 cm, erect or decumbent, sometimes rooting at the lower nodes; internodes pubescent; nodes puberulent to densely pubescent. Sheaths 3-14 cm, not overlapping, frequently inflated or spreading from the culm, chartaceous, glabrous or pubescent; ligules 0.5-1.5 mm, densely ciliate; blades 10-30 cm long, 0.5-4 mm wide, filiform to linear, involute to flat, straight or lax, appressed to divergent, glabrous or with soft pubescence. Panicles 4-20 cm long, 0.5-1.5 cm wide, contracted; rachises pilose or villous; branches (2)4-8(10), 10-35 mm long, 0.4-0.7 mm wide, velutinous, sometimes winged, with 10-20 solitary spikelets; pedicels 0.4-0.7 mm, densely hirsute with a mixture of short and long hairs, apices with more than 12 hairs of 1.5-2.5 mm. Spikelets 4-5 mm long, 1.4-1.9 mm wide. Lower glumes absent; upper glumes appressed pubescent, ovate to elliptic, 5-7-veined, acute, unawned; lower lemmas 3.8-4.8 mm long, 1.5-1.9 mm wide, indurate, elliptic, pubescent to velutinous, 5-7-veined, acute, unawned; lower paleas absent; anthers absent; upper lemmas 2.7-3.6 mm, elliptic, acute, shortly awned, awns 0.1-0.2 mm; upper paleas slightly shorter than the lemmas, indurate, minutely rugose. 2n = 54.</description>
+  <discussion>Eriochloa sericea usually grows on clay or clay-loam soils in prairies, roadsides, or protected areas. It is widespread in the blackland prairie and Edwards Plateau of Texas, but extends into Kansas, Nebraska, and Oklahoma, and onto the coastal prairie and rolling plains of Texas and northern Mexico.</discussion>
+</bio:treatment>

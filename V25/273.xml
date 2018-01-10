@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>28</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia wrightii Vasey ex J.M. Coult.</name_authority_date>
+  </taxon_identification>
+  <common_names>SPIKE MUHLY</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 15-60 cm tall, 1.5-2.5 mm thick, compressed, erect, not rooting at the lower nodes; internodes mostly hispidulous or glabrous, strigose to hispidulous below the nodes. Sheaths usually shorter than the internodes, smooth or scabridulous, compressed-keeled, not becoming spirally coiled when old; ligules 1-3(5) mm, membranous, truncate; blades 1.4-12 cm long, 1-3 mm wide, flat to folded, smooth or scabridulous abaxially, strigose adaxially. Panicles 5-16 cm long, 0.2-1.2 cm wide, spikelike, dense; primary branches 0.3-2 cm, appressed; pedicels 0.1-1.4 mm. Spikelets 2-3 mm, dark green or plumbeous. Glumes equal, 0.5-1.6 mm, usually 1/2 - 3/4 as long as the lemmas, 1-veined, scabridulous on the veins, acute or obtuse, abruptly narrowed to a short (0.5-1 mm) awn; lemmas 2-3 mm, lanceolate, appressed-pubescent on the basal 1/2 - 3/4 of the midveins and margins, hairs about 0.5 mm, apices scabridulous, acute to acuminate, mucronate, mucros 0.3-1 mm; paleas 1.9-3 mm, lanceolate, intercostal region pubescent, apices acute to acuminate; anthers 1.3-1.8 mm, greenish. Caryopses 1.2-2 mm, fusiform, brownish. 2n = unknown.</description>
+  <discussion>Muhlenbergia wrightii grows in gravelly prairies, on rocky slopes, and in meadows on granitic, sandstone, or limestone-derived soils, at elevations of 1100-3000 m. Its range extends from the southwestern United States to northern Mexico.</discussion>
+</bio:treatment>

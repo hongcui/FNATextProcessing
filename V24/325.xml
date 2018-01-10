@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>42</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus commutatus Schrad. </name_authority_date>
+  </taxon_identification>
+  <common_names>MEADOW BROME, HAIRY CHESS</common_names>
+  <description type="morphology">Plants annual. Culms 40-120 cm, erect or ascending. Lower sheaths densely hairy, hairs stiff, often retrorse; upper sheaths pubescent or glabrous; ligules 1-2.5 mm, glabrous or pilose, obtuse, ciliolate; blades 9-18 cm long, 2-4 mm wide, pilose on both surfaces. Panicles 7-16 cm long, 3-6 cm wide, open, erect to ascending; branches sometimes longer than the spikelets, slender, ascending to spreading. Spikelets 14-18(30) mm, oblong-lanceolate, terete to moderately laterally compressed, not purple-tinged; florets 4-9(11), bases concealed or visible at maturity; rachilla internodes 1.5-2 mm, concealed or visible at maturity. Glumes usually glabrous, sometimes scabrous or pubescent; lower glumes 5-7 mm, 5-veined; upper glumes 6-9 mm, 7(9)-veined; lemmas 8-11.5 mm long, 1.7-2.6 mm wide, elliptic to lanceolate, coriaceous, backs usually glabrous, distinctly 7(9)-veined, not ribbed, rounded over the midvein, margins scabrous or pubescent, bluntly angled, inrolled or not at maturity, apices acute to obtuse, bifid, teeth shorter than 1 mm; awns 3-10 mm, straight, arising less than 1.5 mm below the lemma apices, awn of the lowest lemma shorter than the others; anthers 0.7-1.7 mm. Caryopses equaling or shorter than the paleas, weakly to strongly inrolled. 2n = 14, 28, 56.</description>
+  <discussion>Bromus commutatus grows in fields, waste places, and road verges. It is native to Europe and the Baltic region; in the Flora region, it is found mainly in the United States and southern Canada. Hildemar Scholz (pers. comm.) recognizes three subspecies of B. commutatus in Europe; no attempt has been made to determine which subspecies are present in the Flora region.</discussion>
+</bio:treatment>

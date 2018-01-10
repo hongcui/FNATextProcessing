@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Achnatherum occidentale (Thurb.) Barkworth subsp. occidentale </name_authority_date>
+  </taxon_identification>
+  <common_names>WESTERN NEEDLEGRASS</common_names>
+  <description type="morphology">Culms 14-50 cm tall, 0.3-1 mm thick, internodes glabrous. Basal sheaths mostly glabrous, often ciliate or sparsely tomentose at the throat; collars usually without tufts of hair at the sides; blades 0.3-2 mm wide when flat, usually convolute and 0.1-0.2 mm in diameter. Panicles 5-20 cm; longest branches 1.5-4 cm. Glumes often purplish; lemmas with apical pubescence similar in length to the basal awn pubescence; awns 15-42 mm, first 2 segments always pilose, terminal segment usually pilose, hairs becoming shorter distally, occasionally scabridulous or smooth.</description>
+  <discussion>Achnatherum occidentale subsp. occidentale grows above 2400 m, primarily in California. It differs from A. occidentale subsp. pubescens in having culms that are glabrous throughout and awns with terminal segments that are usually pilose. One specimen from Idaho has been seen; it has the palea/lemma ratio of subsp. californicum but the pilose terminal awn segments, slender habit, and purplish coloration of subsp. occidentale.</discussion>
+</bio:treatment>

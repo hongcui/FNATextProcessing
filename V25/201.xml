@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sporobolus jacquemontii Kunth</name_authority_date>
+  </taxon_identification>
+  <common_names>RATSTAIL</common_names>
+  <description type="morphology">Plants perennial; densely cespitose, not rhizomatous. Culms 40-100 cm. Sheaths keeled or rounded, glabrous, apices ciliate; ligules 0.2-0.4 mm; blades 10-40 cm long, 2-4 mm wide, flat but soon becom¬ing involute, tapering to a fine point. Panicles 14-35 cm long, 0.4-3 cm wide, contracted, interrupted, and rather lax; primary branches appressed to strongly ascending, spikelet-bearing to the base, lower branches 1.5-5 cm, much longer than the adjacent internodes; pedicels 0.1-1.2(1.8) mm. Spikelets 1.4-1.8(2) mm, plumbeous to greenish. Lower glumes 0.3-0.5 mm, obtuse; upper glumes 0.4-0.7 mm, usually less than M as long as the florets, faintly 1-veined, truncate, erose to denticulate; lemmas 1.4-2 mm, elliptic, glabrous, 1-veined, acute; paleas 1.4-2 mm, elliptic; anthers 3(2), 0.9-1.1 mm. Fruits 0.7-1 mm, quadrangular, laterally compressed, reddish-brown, truncate. 2n = 24.</description>
+  <discussion>Sporobolus jacquemontii, like S. indicus, is native to North America. It is not a common species in the Flora region, being known only from coastal and low elevation sites in Florida. It is sometimes included in S. indicus (Baaijens and Veldkamp 1991) or S. pyramidalis P. Beauv. (Laegaard and Peterson 2001), but is retained here pending more definitive study.</discussion>
+</bio:treatment>

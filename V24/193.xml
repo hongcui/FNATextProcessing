@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Ptilagrostis kingii (Bol.) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>KING'S PTILAGROSTIS, SIERRA PTILAGROSTIS</common_names>
+  <description type="morphology">Culms 15-38 cm tall, 0.4-0.8 mm thick. Basal ligules 1-2 mm, acute; upper ligules to 2.5 mm; blades filiform, about 0.3 mm in diameter. Panicles 6-10 cm, loosely contracted; branches ascending to appressed. Glumes 3-4.5 mm; florets 2.8-4.2 mm; calluses 0.3-0.7 mm; lemmas  
+with 0.1-0.4 mm lobes; awns 10-14 mm, scabridulous, not hairy, weakly once- or twice-geniculate; anthers 0.5-1.5 mm, penicillate. Caryopses 1.5-2.3 mm. 2n = 11. 
+</description>
+  <discussion>Ptliagrostis kingii grows along damp streambanks and wet meadows of the Sierra Nevada, at elevations from 2700-3500 m. It differs from most species in the genus in its scabridulous, rather than plumose, awns and short lemma lobes.</discussion>
+</bio:treatment>

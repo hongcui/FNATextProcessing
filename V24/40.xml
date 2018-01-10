@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Grant L. Pyrah</author>
+    </source>
+  </meta>
+  <number>5.02</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>LEERSIA Sw.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants usually perennial, rarely annual; terrestrial or aquatic; rhizomatous or cespitose; synoecious. Culms 20-150 cm (occasionally longer in floating mats), erect or decumbent, often rooting at the nodes, branched or unbranched. Leaves equitably distributed along the culm; sheaths open; auricles absent; ligules membranous; pseudopetioles absent; blades aerial, linear to broadly lanceolate, flat or folded, sometimes involute when dry. Inflorescences terminal panicles, usually exserted, axillary panicles sometimes also present; disarticulation beneath the spikelets. Spikelets bisexual, with 1 floret; florets laterally compressed, linear to suborbicular in sideview. Glumes absent; calluses not stipelike, glabrous; lemmas and paleas subequal, chartaceous to coriaceous, ciliate-hispid or glabrous, tightly clasping along the margins; lemmas 5-veined, obtuse or acute to acuminate, sometimes mucronate, usually unawned; paleas 3-veined, unawned; lodicules 2; anthers 1, 2, 3, or 6; styles 2, bases fused, stigmas laterally exserted, plumose. Caryopses laterally compressed; embryos about 1/3 as long as the caryopses; hila linear, x = 12.</description>
+  <discussion>Leersia is a genus of about 17 aquatic to mesophytic species, growing primarily in tropical and warm-temperate regions. Five species are native to the Flora region. Leersia is closely allied to Oryza. It is unusual in the variability in stamen numbers among its species.</discussion>
+  <references>Pyrah, G.L. 1969. Taxonomic and distributional studies in Leersia (Gramineae). Iowa State Coll. J. Sci. 44:215-270.</references>
+  <key>
+    <key_body>
+1. Spikelets 1.5-2 mm long, glabrous; plants not rhizomatous.....1. L. monandra
+1. Spikelets 2.5-6.5 mm long, usually ciliate on the margins and keel, and glabrous or pubescent elsewhere; plants rhizomatous.
+2. Spikelets nearly as wide as long.....2. L. lenticularis
+2. Spikelets not more than 1/2 as wide as long.
+3. Anthers 2; spikelets 2.5-3.6 mm long; panicle branches single at all nodes.....3. L. virginica
+3. Anthers 3 or 6; spikelets 3.2-6.5 mm long; panicle branches 1-2 or more at the lower nodes, single at the upper nodes. 
+4. Panicles exserted, 5-15 cm long; branches appressed to ascending, spikelet-bearing 
+to near the base; anthers 6; spikelets 3.2-4.7(5) mm long .....4. L. hexandra
+4. Panicles exserted or enclosed, 10-30 cm long; branches spreading on exserted panicles, naked on the lower 1/3; anthers 3; spikelets (4)4.2-6.5 mm long  .....5. L. oryzoides
+
+    </key_body>
+  </key>
+</bio:treatment>

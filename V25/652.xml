@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>13</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Echinochloa oryzicola (Vasinger) Vasinger </name_authority_date>
+  </taxon_identification>
+  <common_names>LATE BARNYARD GRASS</common_names>
+  <description type="morphology">Plants annual. Culms 40-150 cm, erect or nearly so, densely tufted; lower nodes usually antrorsely scabrous or villous; upper nodes glabrous. Lower sheaths densely pubescent; upper sheaths glabrous or pubescent at the throat, and sometimes on the collar; ligules absent; blades stiff, ascending, lower blades pubescent, upper blades usually glabrous. Panicles 8-20 cm, erect to slightly drooping, rachis nodes hispid ,with papillose-based hairs to 5.6 mm, internodes usually scabrous, sometimes also with a few papillose-based hairs; primary branches to 4 cm. Spikelets 4-6 mm, ovoid to ellipsoid, disarticulating at maturity. Lower glumes usually at least 1/2 as long as the spikelets; upper glumes equaling or exceeding the upper florets; lower florets sterile; lower lemmas often thickened and somewhat coriaceous, unawned or awned, awns to 1.5 mm; lower paleas well-developed; upper lemmas broadly ovate to elliptical, coriaceous portion rounded distally, passing abruptly into an early-withering, acuminate, membranus tip that is further demarcated from the coriaceous portion by minute hairs (use 25x magnification); anthers 0.9-1.2 mm. Caryopses 1.7-2.6 mm, brownish; embryos 89-98% as long as the caryopses. 2n = 36.</description>
+  <discussion>Like Echinochloa oryzoides, E. oryzicola is an introduced weed of rice fields, where it grows in the flooded portion, with the rice. The two are quite distinct, with E. oryzicola flowering after Oryza and having a longer embryo and an erect panicle. It is also more likely to have evidently pubescent cauline nodes, leaf sheaths, and collars than E. oryzoides and is never conspicuously awned.</discussion>
+</bio:treatment>

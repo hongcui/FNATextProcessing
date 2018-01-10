@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis ciliaris (L.) R. Br. </name_authority_date>
+  </taxon_identification>
+  <common_names>GOPHERTAIL LOVEGRASS</common_names>
+  <description type="morphology">Plants annual; tufted, without innovations, without glands. Culms (3)9-75 cm, erect or geniculate in the lower portion, not rooting at the lower nodes, glabrous. Sheaths hairy on the margins and at the apices, hairs to 4 mm; ligules 0.2-0.5 mm; blades 1.8-12(15) cm long, 2-5 mm wide, usually flat, occasionally involute, glabrous or ciliate basally. Panicles 1.7-15 cm long, 0.2-5 cm wide, cylindrical, contracted or open, branches usually forming glomerate lobes, sometimes more open, often interrupted in the lower portion; primary branches 0.4-4 cm, appressed or diverging to 50° from the rachises; pulvini usually glabrous, occasionally sparsely pilose; pedicels 0.1-1 mm, erect, shorter than the spikelets, glabrous. Spikelets 1.8-3.2 mm long, 1-2 mm wide, elliptical-ovate to ovate-lanceolate, yellowish-brown, sometimes with a purple tinge, with 6-11 florets; disarticulation basipetal, glumes peristent. Glumes ovate to lanceolate, keels scabridulous, veins commonly green, apices acute; lower glumes 0.7-1.2 mm; upper glumes 1-1.6 mm; lemmas 0.8-1.3 mm, elliptical-ovate to lanceolate, membranous, keels scabridulous,  lateral  veins  evident,  apices  obtuse  to acute; paleas 0.8-1.3 mm, membranous, keels prominently ciliate, cilia 0.2-0.8 mm, apices obtuse to acute; anthers 2, 0.1-0.3 mm, purplish. Caryopses 0.4-0.5 mm, ovoid, reddish-brown. 2n = 20, 40.</description>
+  <discussion>Eragrostis ciliaris is native to the paleotropics. It is naturalized in parts of the United States, growing along roadsides, on waste sites, in xerothermic vegetation, and sometimes in saline habitats, at 0-200 m. It may be more widespread than indicated.</discussion>
+  <key>
+    <key_body>
+1. Panicles 0.2-1.5 cm wide, contracted, the branches mostly appressed to the rachises, congested, forming glomerate lobes; spikelets densely packed.....var. ciliaris
+1. Panicles 1.5-5 cm wide, open, the branches spreading 20-50° from the rachises; spikelets widely separated from each other   .....var. laxa
+
+    </key_body>
+  </key>
+</bio:treatment>

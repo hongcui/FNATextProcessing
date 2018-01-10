@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aira caryophyllea L. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual; tufted. Culms 4.5-55 cm, erect. Sheaths scabridulous, occasionally smooth; ligules 1.2-8 mm, abaxial surfaces scabridulous, acute to subobtuse, becoming lacerate; blades 0.3-13.5 cm long, 0.3-2.5 mm wide, antrorsely scabridulous, glabrous, apices prow-tipped. Panicles 1.2-13.5 cm long, 1.5-10 cm wide, open; primary branches to 7.3 cm, ascending to divergent, antrorsely scabridulous, occasionally smooth; pedicels 0.9-11.3 mm, apices enlarged. Spikelets 1.7-3.3(3.5) mm, silvery-green to stramineous or purplish; rachillas usually not prolonged beyond the base of the distal floret, sometimes prolonged, vestigial. Glumes subequal to equal, 1.3-3.3(3.5) mm, scabridulous on the upper 1/2; callus hairs 0.2-0.4 mm; lemmas 1.3-2.6 mm, apices bifid, sometimes only the upper lemma awned, awns 2.1-3.9 mm, straight or geniculate; paleas 0.9-1.7 mm; anthers 0.2-0.5 mm.  
+Caryopses 0.9-1.5 mm long, 0.3-0.5 mm wide, abaxial surfaces grooved in the distal 1/2, adaxial surfaces grooved the entire length. 2n = 14.
+</description>
+  <discussion>Aira caryophyllea is native to Eurasia and Africa; it has become established in the Flora region, primarily on the Pacific, Gulf, and Atlantic coasts, and through much of the southeastern United States. It is usually found in disturbed areas, in vernally moist to dry, sandy to rocky, open sites, from sea level to subalpine elevations. It sometimes invades lawns or rock gardens.</discussion>
+  <key>
+    <key_body>
+1. Glumes subobtuse, usually denticulate, often mucronate; pedicels with abruptly thickened apices .....var. cupaniana
+1. Glumes acute; pedicels gradually thickening to the apices. 
+2. Pedicels usually 2-8 times as long as the spikelets; spikelets 1.7-2.5 mm long .....var. capillaris 
+2. Pedicels usually 1-2 times as long as the spikelets; spikelets 2-3.5 mm long   .....var. caryophyllea
+ 
+
+    </key_body>
+  </key>
+</bio:treatment>

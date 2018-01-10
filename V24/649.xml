@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Vulpia microstachys var. pauciflora (Scribn. ex Beal) Lonard & Gould </name_authority_date>
+  </taxon_identification>
+  <common_names>PACIFIC FESCUE</common_names>
+  <description type="morphology">Spikelets with 1-6 florets. Glumes and lemmas smooth or scabrous.</description>
+  <discussion>Vulpia microstachys var. pauciflora grows in sandy, often disturbed sites, and is the most common and widespread variety of the complex. It is often intermingled with plants of the other varieties.</discussion>
+</bio:treatment>

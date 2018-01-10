@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Chloris canterae Arechav. var. canterae</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants loosely cespitose. Culms to 100 cm. Leaves primarily cauline; blades 2.5-6 mm wide, flat. Panicles with 2-9 branches; branches (4)5-14 cm. 2n = 36.</description>
+  <discussion>Chloris canterae var. canterae has been collected in Texas and Louisiana. In South America, it grows on moist soils of the campo in Paraguay, southern Brazil, and northeastern Argentina.</discussion>
+</bio:treatment>

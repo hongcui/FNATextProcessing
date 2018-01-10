@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Calamagrostis muiriana B.L. Wilson & Sami Gray</name_authority_date>
+  </taxon_identification>
+  <common_names>Mum's REEDGRASS</common_names>
+  <description type="morphology">Plants sometimes with sterile culms; densely cespitose, often with rhizomes 1-3 cm long, 1-2 mm thick. Culms (10)12-35 cm, unbranched, smooth beneath the panicles; nodes 1-3. Leaves basally concentrated; sheaths and collars smooth or scabrous; ligules 1-2.5 mm, obtuse, entire to lacerate; blades (1)4-12 cm long, 0.2-0.4 mm in diameter, involute, abaxial surfaces scabrous, adaxial surfaces sparsely hairy. Panicles (1.5)1.9-5.7(7.5) cm long, 0.4-3 cm wide, contracted to open, usually dark purple, rarely straw-colored; branches (0.8)1.1-2(3.5) cm, smooth, spikelets usually confined to the ends of the branches. Spikelets (3)3.5-4.5(5) mm; rachilla prolongations about 2 mm, hairs 0.5-1 mm. Glumes rounded, midvein smooth or slightly scabrous, lateral veins obscure, apices acute to acuminate, rarely awn-tipped; callus hairs (0.2)0.3-0.6 mm, 0.1-0.2 times as long as the lemmas, sparse; lemmas (2.5)3-4 mm, 0.5-1 mm shorter than the glumes; awns 3.5-6 mm, attached to the lower 1/3 of the lemmas, exserted, bent, purple; anthers 0.9-2.5 mm. 2n = 28.</description>
+  <discussion>Calamagrostis muiriana grows in moist to dry, subalpine and alpine floodplain meadows, lake margins, and stream banks, at 2400-3900 m, in the Sierra Nevadas south of Sonora Pass in central California. It differs from C. bolanderi (p. 719) in having basally concentrated leaves.</discussion>
+</bio:treatment>

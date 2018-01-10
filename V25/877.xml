@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bouteloua chondrosoides (Kunth) Benth. ex S. Watson </name_authority_date>
+  </taxon_identification>
+  <common_names>SPRUCETOP GRAMA</common_names>
+  <description type="morphology">Plants perennial; cespitose, without rhizomes or stolons.
+Culms (10)30-60 cm, erect, unbranched. Leaves mostly basal; sheaths mostly glabrous, margins often long-ciliate
+distally; ligules 0.3-0.6 mm, of hairs; blades 1-10 cm long, 1-2.5(3) mm wide, flat, glaucous, bases with papillose-based hairs on the margins, similar hairs sometimes present on either or both surfaces. Panicles 2.5-6 cm, with 3-8(10) branches; branches (8)10-15 mm, densely pubescent, with 8-12 spikelets, axes extending to 5 mm beyond the base of the terminal spikelets, apices entire; disarticulation at the base of the branches. Spikelets appressed, all alike, 7-7.5 mm, with 1 bisexual and 1 rudimentary floret. Glumes evidently hairy; lower glumes 2.5-4.5 mm; upper glumes 4.5-6.5 mm; lowest lemmas 4.7-6.2 mm, hairy distally, 3-lobed, lobes unawned or shortly awned; lowest paleas 5-7.2 mm, pubescent along the veins and on the margins, bifid, veins excurrent as short awns; anthers 2.8-4 mm, yellow; upper florets rudimentary, glabrous, 3-awned, awns scabrous, sometimes arising from a short but evident awn column, central awns sometimes with a membranous margin, awns scabrous. Caryopses about 2.5 mm long, about 0.9 mm wide. 2n = 20, 22, 40.
+</description>
+  <discussion>Bouteloua chondrosoides grows on dry, rocky slopes and grassy plateaus at 200-2500 m. Its range extends from southern Arizona and western Texas to Costa Rica. It resembles B. eludens in having pubescent panicle branches, but B. eludens usually has 12-16 branches 5-11 mm long with 2-6 spikelets whereas B. chrondrosoides usually has 3-8 branches  10-15 mm long with 8-12 spikelets per branch.
+ 
+</discussion>
+</bio:treatment>

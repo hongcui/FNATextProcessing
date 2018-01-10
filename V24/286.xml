@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus riparius Rehmann </name_authority_date>
+  </taxon_identification>
+  <common_names>Bromus riparius Rehmann </common_names>
+  <description type="morphology">Plants perennial; cespitose, shortly rhizomatous. Culms 30-90 cm, erect or decumbent, forming distinct clumps; nodes 2-3, glabrous or puberulent; internodes glabrous or puberulent. Sheaths glabrous or with hairs; auricles to 1 mm on the lower leaves; ligules 0.4-1.0 mm, glabrous or ciliate, truncate, erose; blades 10-20 cm long, 2-3 mm wide, scabridulous, glabrous or sparsely pilose, margins sometimes ciliate. Panicles 8-20 cm long, lax; branches scabridulous, with 1-2 spikelets. Spikelets 20-32 mm, lanceolate, becoming cuneate, with 5-8 florets. Glumes glabrous, sometimes scabridulous on the veins; lower glumes 6.5-10 mm, l(3)-veined; upper glumes 7.5-12 mm, 3-5-veined; lemmas 10-13 mm, oblong to lanceolate, rounded over the midvein, 7-veined, glabrous or appressed-hairy, sometimes scabridulous, apices acute, entire or minutely bifid; awns 4-8 mm, straight or slightly spreading, arising less than 1.5 mm below the lemma apices; anthers 2.5-5.2 mm. 2n = 70.</description>
+  <discussion>Bromus riparius is an Asian species that was introduced to the United States in the late 1950s for cultivation as a pasture grass. Various cultivars are now grown, mainly in Canada and the northwestern United States. The description given here is derived in part from cultivated specimens. North American plants have sometimes been referred to, incorrectly, as Bromus biebersteinii Roem. & Schult. (Vogel et al. 1996). Bromus riparius differs from that species in having acute lemma apices and, usually, more pubescent leaf blades, sheaths, and lemmas.
+The existence of Bromus riparius in the Flora region was not realized until shortly before this treatment was submitted for publication, making it impossible to fully investigate its similarities to B. inermis and B. pumpellianus, particularly subsp. dicksonii. It appears to differ from both species in having shorter culms on average, longer awns than B. inermis, and shorter rhizomes than B. pumpellianus subsp. pumpellianus. Its distribution in the Flora region is not known.
+</discussion>
+</bio:treatment>

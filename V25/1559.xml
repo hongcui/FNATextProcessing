@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bothriochloa hybrida (Gould) Gould </name_authority_date>
+  </taxon_identification>
+  <common_names>HYBRID BLUESTEM</common_names>
+  <description type="morphology">Culms 30-80 cm, stiffly erect, moderately branched above the base; nodes glabrous or puberu-lent. Leaves primarily cauline; sheaths glabrous, green, some¬times glaucous; ligules 1-2 mm; blades 5-25 cm long, 2-5 mm wide, flat to folded, usually ciliate, with long hairs near the base and some hairs on the adaxial surface. Panicles 5-12 cm, lanceolate; rachises usually shorter than 5 cm; branches 3-8, without axillary pulvini, lower branches longer than the rachises; at least the lower branches rebranched and with multiple rames; rame internodes with 5-7 mm marginal hairs. Sessile spikelets 4.5-6.5 mm, narrowly ovate; lower glumes 4.5-5.7(6.5) mm, sparsely hairy near the base, with a dorsal pit above the middle; awns 18-25 mm; anthers 0.5-1 mm. Pedicellate spikelets 2.2-3.6 mm, sterile. 2n = 120.</description>
+  <discussion>Bothriochloa hybrida grows in open grasslands, rangeland pastures, disturbed ground, and roadsides, often on calcareous soil, usually at 50-500 m. Its range extends from southern Texas and Louisiana to central Mexico. It resembles B. edwardsiana in some respects, but the latter species has a less robust habit, more predominantly basal foliage, and narrower leaf blades.</discussion>
+</bio:treatment>

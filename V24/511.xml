@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Leymus xvancouverensis (Vasey) Pilg. </name_authority_date>
+  </taxon_identification>
+  <common_names>VANCOUVER WILDRYE</common_names>
+  <description type="morphology">Plants not cespitose, rhizomatous, green or slightly glaucous. Culms 60-122 cm tall, 2-3.5 mm thick, sparsely to densely pubescent below the spike. Leaves exceeded by the spikes; auricles to 1 mm; ligules 0.4-1.2 mm; blades to 9 mm wide, veins promimently rib¬bed, subequal, closely spaced. Spikes 7-32 cm long, 7-11 mm wide, sometimes glaucous, often purplish or green with traces of purple, with 1-2 spikelets per node; internodes 8-12 mm, surfaces hairy distally, hairs 0.1-0.3 mm, edges ciliate, hairs to 1 mm, coarser than the surface hairs. Spikelets 15-20 mm, with 2-6 florets. Glumes 9-28 mm long, 1.5-4 mm wide, lanceolate, glabrous towards the base, pubescent distally, midveins glabrous or with hairs to about 1.3 mm, stiff, keeled or flat proximally, keeled distally, the central portion thicker than the margins, 3(5)-veined at midlength, tapering from below midlength to an awn, awns to 4 mm; lemmas 8-10 mm, usually completely glabrous, margins and apices sometimes pubescent, apices tapering to an awn, awns to 4 mm; anthers 3.3-7.3 mm, indehiscent. 2n = 28, 42.</description>
+  <discussion>Leymus xvancouverensis grows at scattered locations on beaches along the Pacific coast, from southern British Columbia to California. It is a sterile hybrid, probably between L. mollis and L. triticoides (Bowden 1957). The northern populations are outside the current range of L. triticoides.</discussion>
+</bio:treatment>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>John R. Reeder</author>
+    </source>
+  </meta>
+  <number>18</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>tribe</rank>
+    <name_authority_date>PAPPOPHOREAE Kunth</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; rarely annual. Culms herbaceous. Ligules of hairs; blade epidermes with bicellular microhairs. Inflorescences terminal, dense, narrow to somewhat open panicles; disarticulation above the glumes but not between the florets (except in Cottea). Spikelets with 3-10 florets, sometimes only the lowest floret bisexual. Lemmas 5-13-veined, veins extending into awns, often with intermixed hyaline lobes. Caryopses with punctate hila; embryos 1/2 or more as long as the caryopses. x = 10.</description>
+  <discussion>The tribe Pappophoreae includes five genera and approximately 40 species. It is represented in tropical and warm regions around the world.</discussion>
+  <references>Reeder, J.R. 1965. The tribe Orcuttieae and the subtribes of the Pappophoreae (Gramineae). Madrono 18:18-28; Reeder, J.R. and D.N. Singh. 1968. Chromosome numbers in the tribe Pappophoreae. Madrono 19:183-187.</references>
+  <key>
+    <key_body>
+1. Spikelets disarticulating above the glumes and between the florets; florets 6-10, the lemmas with both awns and awned teeth, these not forming a pappuslike crown .....18.03 Cottea
+1. Spikelets disarticulating above the glumes but not between the florets, these falling as a unit; florets 3-6, the lemmas awned but without awned teeth, the awns forming a pappuslike crown.
+2. Lower glumes 1-veined; lemma awns scabridulous, not plumose   .....18.01 Pappophorum
+2. Lower glumes 5-7-veined; lemma awns plumose, not scabridulous.....18.02 Enneapogon
+
+    </key_body>
+  </key>
+</bio:treatment>

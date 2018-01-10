@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bothriochloa laguroides (DC.) Herter </name_authority_date>
+  </taxon_identification>
+  <common_names>SILVER BLUESTEM</common_names>
+  <description type="morphology">Culms 35-115(130) cm tall, usually less than 2 mm thick, erect or geniculate at the base, branched at maturity; nodes shortly hirsute, pilose with erect hairs, or glabrous. Leaves usually basal (sometimes cauline on robust plants), usually glaucous; ligules 1-3 mm; blades 5-25 cm long, 2-7 mm wide, flat to folded, mostly glabrous. Panicles 4-12(14) cm, narrowly oblong or lanceolate, silvery-white or light tan; rachises 4-8 cm, with more than 10 branches; branches 1-5.5 cm, erect-appressed, rarely with axillary pulvini, lower branches shorter than the rachises, usually with more than 1 rame; rame internodes with a groove wider than the margins, margins copiously hairy, hairs 3-9 mm, at least somewhat obscuring the spikelets. Sessile spikelets 2.5-4.5 mm, ovate, somewhat glaucous, apices blunt; lower glumes glabrous or hirtellous, rarely with a dorsal pit; awns 8-16 mm; anthers 0.6-1.4 mm. Pedicellate spikelets 1.5-2.5(3.5) mm, shorter than the sessile spikelets, sterile. 2n = 60.</description>
+  <discussion>Bothriochloa laguroides grows in well-drained soils of grasslands, prairies, roadsides, river bottoms, and woodlands, often on limestone, usually at 20-2100 m. Plants from the United States and northern Mexico belong to B. laguroides subsp. torreyana (Steud.) Allred & Gould, which differs from B. laguroides (DC.) Herter subsp. laguroides in its glabrous, or almost glabrous, nodes, long internode hairs, and pilose throat region. Occasional plants are found with spreading branches and axillary pulvini; they do not merit formal recognition. Bothriochloa laguroides subsp. torreyana is used in landscaping. It does well on rocky slopes and sandy banks.
+Bothriochloa laguroides has been confused with B. saccharoides (Sw.) Rydb., a more southern species that differs from B. laguroides in having pilose leaves, a narrow central groove in the internodes and pedicels, and panicle branches with axillary pulvini.
+</discussion>
+</bio:treatment>

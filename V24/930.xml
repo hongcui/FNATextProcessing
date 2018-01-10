@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>27</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Agrostis elliottiana Schult. </name_authority_date>
+  </taxon_identification>
+  <common_names>ELLIOTT'S BENT</common_names>
+  <description type="morphology">Plants annual. Culms 5-45 cm, erect, sometimes geniculate at the base, with (3)4-9 nodes. Leaves mostly basal or cauline; basal leaves withered at anthesis; sheaths smooth or scabridulous; ligules (0.7) 1.5-3.5 mm, dorsal surfaces scabrous, apices acute, rounded, or truncate, lacerate; blades 0.5-4 cm long, 0.5-1 mm wide, flat, becoming involute. Panicles 3-20 cm long, (0.5)2-12 cm wide, widely ovate, ultimately open and diffuse, the whole panicle detaching after maturity, blowing about as a tumbleweed, bases usually exserted, sometimes enclosed by the upper sheaths at maturity, lowest node with 1-6 branches; branches scabridulous, capillary, branching beyond midlength, initially ascending, becoming laxly spreading, spikelets clustered near the tips, lower branches 2-8 cm; pedicels 0.3-7.5 mm; secondary panicles sometimes present in the leaf axils. Spikelets narrowly elliptic to lanceolate, yellowish purple to greenish purple. Glumes equal, 1.5-2.2 mm, 1-veined, scabrous on the midvein, margins scabrous distally, acute; callus hairs to 0.6 mm, dense; lemmas 1-2 mm, smooth or scabrous to warty, translucent, 5-veined, veins prominent, apices acute, entire or 2-5-toothed, teeth minute, to 0.8 mm, usually awned from just below the apices, sometimes unawned, awns 3-10 mm, flexuous, not geniculate, deciduous; paleas absent or minute; anthers 1, 0.1-0.2 mm, lobes widely separated by the connective, usually retained at the apices of the caryopses. Caryopses 1-1.4 mm; endosperm liquid. 2n = 28.</description>
+  <discussion>Agrostis elliottiana grows in fields and scrublands and along roadsides. It has a disjunct distribution, occurring in western North America in northern California and southern Arizona and New Mexico; in eastern North America from Kansas and Texas east to Pennsylvania and northern Florida; and in Yucatan, Mexico. Although it has been introduced elsewhere, notably in Maine, it is not known to have become established at those locations.
+Agrostis elliottiana resembles A. scabra (p. 646) and A. hyemalis (p. 647) in its diffuse panicle, but differs in its flexible awn and single anther. Small Californian plants have sometimes been called A. exigua Thurb.; they are otherwise identical to A. elliottiana.
+</discussion>
+</bio:treatment>

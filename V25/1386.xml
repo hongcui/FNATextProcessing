@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Setariopsis auriculata (E. Fourn.) Scribn. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 20-70 cm, weak, erect or ascending, glabrous or with a few, short, appressed hairs on and immediately below the nodes. Sheaths mostly glabrous but with soft hairs near the ligule; ligules 1-1.5 mm; blades to 20 cm long, 5-15 mm wide, glabrous or with a few hairs on the collars. Panicles 8-16 cm long, 0.8-1.5 cm wide; branches 0.5-3.5 cm; bristles 3-10 mm, antrorsely barbed. Spikelets 3-3.5 mm, ovate, acute. Lower glumes about 1 mm long, 1.5 mm wide, inflated; upper glumes 2.7-3.2 mm, ovate, somewhat inflated, abruptly constricted below, margins resembling auricles, apices acute or obtuse; lower lemmas ovate-triangular, indurate in the lower 1/3 where the spikelet narrows; upper lemmas 2-2.5 mm, finely and transversely rugose, acute and apiculate; anthers 0.8-1 mm, purple. 2n =18.</description>
+  <discussion>Setariopsis auriculata was recently found to be established in Arizona (Reeder 2001), growing in moist, shady habitats. Prior to this discovery, its range was considered to extend from northern Mexico to Nicaragua, Colombia, and Venezuela.</discussion>
+</bio:treatment>

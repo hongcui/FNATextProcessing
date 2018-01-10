@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Zea mays subsp. mexicana (Schrad.) H.H. litis </name_authority_date>
+  </taxon_identification>
+  <common_names>CHALCO TEOSINTE, CENTRAL-PLATEAU TEOSINTE, NOBOGAME TEOSINTE</common_names>
+  <description type="morphology">Culms (0.5)1-3 m tall, (0.5)1-2(3) cm thick, unbranched when growing in corn fields to branched and with staminate inflorescences terminating the many branches when growing in the open. Blades 30-85 cm long, 3-8 cm wide. Pistillate inflorescences 5-8(10) cm long, 0.6-0.8 cm thick, distichous, with 2 rows of spikelets embedded in the rachis; rachises disarticulating at maturity; fruitcases (6)9-12(15), 6-10 mm long, 4-6 mm wide, triangular in side view, with pointed apices. Caryopses concealed in the fruitcases. Staminate panicles with 1-35+ ascending to divergent, somewhat stiff, disarticulating branches; central axes of staminate panicles as slender as the lateral branches. Staminate spikelets (6.6)7.5-10.5 mm. 2n = 20. </description>
+  <discussion>Zea mays subsp. mexicana is a weedy taxon, native to upland Mexico. It is most abundant in the Meseta Central of the Mexican neo-volcanic plateau, at elevations of 1700-2500 m. It grows almost entirely in and around cornfields, and readily hybridizes with subsp. mays. The long-day tolerant 'Northern Teosinte' is the result of a series of backcrosses between such hybrids and the northernmost population of subsp. mexicana, 'Nobogame Teosinte'.</discussion>
+</bio:treatment>

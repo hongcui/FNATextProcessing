@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eustachys petraea (Sw.) Desv. </name_authority_date>
+  </taxon_identification>
+  <common_names>PINEWOODS FINGERGRASS</common_names>
+  <description type="morphology">Culms 20-100 cm, erect, or decumbent and rooting at the nodes. Blades (2)5-8(26) cm long, 4-10 mm wide, folded, apices obtuse. Panicles with (1)4-6(11) branches; branches 2-11.5 cm. Spikelets 1.5-2.1 mm; florets 2-3. Lower glumes 1-1.7 mm, apices acute; upper glumes 1.5-1.8 mm, obovate, bilobed, lobes acute or obtuse, awned from between the lobes, awns 0.3-0.9 mm; calluses glabrous or with a few hairs, hairs to 0.3 mm; lowest lemmas 1.5-2 mm, ovate, dark brown at maturity, lateral veins and keels with appressed, brown hairs, hairs to 0.4 mm, apices mucronate; second lemmas about 1 mm, broadly cuneate, occasionally mucronate, apices rounded or truncate. Caryopses 1-1.2 mm. 2n = 40.</description>
+  <discussion>Eustachys petraea grows on dunes and open sandy areas and along roadsides and salt and brackish marshes. Its range extends south from the United States through Mexico to Panama.</discussion>
+</bio:treatment>

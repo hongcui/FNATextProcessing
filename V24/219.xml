@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Hesperostipa comata subsp. intermedia (Scribn. & Tweedy) Barkworth </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Lower cauline nodes usually exposed. Panicles usually fully exserted at maturity. Awns 65-130 mm, terminal segment 30-80 mm, straight. 2n =44-46.</description>
+  <discussion>Hesperostipa comata subsp. intermedia is found in pinyon-juniper woodlands, at elevations of 2175-3075 m, in the Sierra Nevada and Rocky Mountains, from southern Canada to New Mexico. It resembles H. curtiseta, but differs in its evenly pubescent lemmas and its often lacerate ligules.</discussion>
+</bio:treatment>

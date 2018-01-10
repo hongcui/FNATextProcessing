@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Lolium temulentum subsp. remotum (Schrank) Á. Löve & D. Love </name_authority_date>
+  </taxon_identification>
+  <common_names>FLAX DARNEL, IVRAIE DU LIN</common_names>
+  <description type="morphology">Blades 1-6.5 mm wide. Spikes 2-23 cm, with 3-20 spikelets; rachises slender. Spikelets 5-16 mm long, 1-5 mm wide. Glumes 5-16 mm, (1/2)2/3 as long as to somewhat exceeding the distal florets; lemmas 3.5-5.5 mm long, 1.2-1.8 mm wide, usually unawned, rarely awned, awns to 10 mm, attached 0.2-1 mm below the apices. Caryopses 3.2-4.5 mm long, 1.2-1.8 mm wide. </description>
+  <discussion>Lolium temulentum subsp. remotum is native to Europe, Asia, and northern Africa. It originated as a weed in flax fields, through unintentional selection for seeds that could not be separated from flax seed using early harvesting techniques. It is a rare weed in the Flora region, being reported only from southern Ontario and California, where it grows in waste places and fields.</discussion>
+</bio:treatment>

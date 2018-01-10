@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>16</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum urvillei Steud. </name_authority_date>
+  </taxon_identification>
+  <common_names>VASEYGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, with a knotty base composed of very short (less than 1 cm) rhizomes. Culms 50-220 cm, erect; nodes glabrous or pubescent. Sheaths glabrous or pubescent; ligules 1-4(7.7) mm; blades 12-60 cm long, 2-12 mm wide, flat, mostly glabrous, a few long hairs near the base of the adaxial surface. Panicles terminal, with (4)10-30 racemosely arranged branches; branches 1.2-11.5 cm, divergent; branch axes 0.5-1.1 mm wide, winged, glabrous, margins scabrous, terminating in a spikelet. Spikelets 1.8-2.8 mm long, 1.1-1.5 mm wide, paired, appressed to the branch axes, elliptic to slightly obovate, stramineous (rarely purple). Lower glumes absent; upper glumes and lower lemmas 3-veined, margins pilose; upper florets stramineous. Caryopses 1.2-1.7 mm, white. 2n = 40.</description>
+  <discussion>Paspalum urvillei has been introduced to the United States from South America. In the Flora region it grows in disturbed, moist to wet areas, primarily in the south¬eastern United States.</discussion>
+</bio:treatment>

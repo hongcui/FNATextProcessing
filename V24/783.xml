@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa cusickii subsp. epilis (Scribn.) W.A. Weber </name_authority_date>
+  </taxon_identification>
+  <common_names>SKYLINE BLUEGRASS</common_names>
+  <description type="morphology">Plants densely tufted. Basal branching intra- and extravaginal. Culms 20-45 cm, mostly erect, with 1-2 well-exserted nodes. Sheaths closed for 1/3-3/4  their length, distal sheath lengths 2-5 times blade lengths; innovation blades 0.7-1 mm wide; cauline blades more than 1.5 mm wide, flat or folded, apices narrowly to broadly prow-shaped, flag leaf blades 1.5-5 cm, apices broadly prow-shaped. Panicles usually 2-7 cm, usually contracted, with 20-70 spikelets; nodes with 2-5 branches; branches 1-3 cm, moderately stout, smooth to sparsely scabrous, with 1-8 spikelets. Spikelets (3)4-8 mm. Calluses glabrous; lemmas 3-6 mm, glabrous or, rarely, the keels and marginal veins sparsely puberulent proximally; anthers usually aborted late in development. 2n = 56, ca. 70.</description>
+  <discussion>Poa cusickii subsp. epilis tends to grow around timberline. It is strictly pistillate. It is usually quite distinct from subspp. cusickii and pallida, and differs from subsp. purpurascens in having on average more and shorter spikelets, lemmas that are shorter and rarely pubescent, and both intra- and extravaginal branching. It occurs throughout most of the range of the species, but is absent from the Yukon Territory, and uncommon in the Cascade Mountains. It is fairly uniform even though widespread.</discussion>
+</bio:treatment>

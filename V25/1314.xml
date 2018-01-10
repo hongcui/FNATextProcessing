@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Urochloa reptans (L.) Stapf </name_authority_date>
+  </taxon_identification>
+  <common_names>SPRAWLING SIGNALGRASS </common_names>
+  <description type="morphology">Plants annual; forming sprawling mats. Culms 10-35 cm, prostrate to decumbent; nodes glabrous or sparsely puberulent. Sheaths glabrous or sparsely pubscent, margins densely ciliate; ligules 0.5-1 mm; blades 2-6 cm long, 4-15 mm wide, adaxial surfaces glabrous or sparsely pubescent with papillose-based hairs, margins ciliate basally. Panicles 1.5-6(8) cm long, 4-5 cm wide, ovoid, with 3-16 spikelike branches in more than 2 ranks; primary branches 1-4 cm long, 0.2-0.5 mm wide, flat, scabrous; secondary branches occasionally present; pedicels shorter than the spikelets, scabrous, glabrous or with long hairs distally. Spikelets 1.8-2.2 mm long, 0.8-1 mm wide, mostly in pairs, in 2-4 rows, appressed to the branches. Glumes scarcely separate, rachilla internodes short, not pronounced; lower glumes 0.2-0.6 mm, 1/5 – 1/4 as long as the spikelets, 0-1-veined; upper glumes 1.7-2.1 mm, glabrous, 7-veined, without cross venation; lower florets sterile or staminate; lower lemmas 1.7-2.1 mm, glabrous, 5-veined, without cross venation; lower paleas present; upper lemmas 1.5-1.8 mm long, 0.8-1 mm wide, apices rounded, mucronate, mucros to about 0.1 mm; anthers 0.4-0.6 mm. Caryopses 0.8-1.2 mm. 2n = 14(18).</description>
+  <discussion>Urochloa reptans is widely distributed in tropical and subtropical regions of the world, growing in disturbed habitats. In the Flora region, it is found primarily in Texas and Louisiana.</discussion>
+</bio:treatment>

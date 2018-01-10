@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Hesperostipa curtiseta (Hitchc.) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>SMALL PORCUPINEGRASS</common_names>
+  <description type="morphology">Culms 24-65 cm; lower nodes usually glabrous, sometimes evenly pubescent, often concealed by the lower sheaths. Lower sheaths usually glabrous; ligules of lower leaves 0.2-1 mm, truncate to rounded, often highest at the sides, stiff; ligules of upper leaves to 3.5 mm, usually acute to rounded, sometimes truncate; blades 1.3-3 mm wide. Panicles 6-24 cm. Glumes subequal, 15-30 mm; florets 8.5-14 mm; calluses 3-5 mm; lemmas unevenly pubescent, densely pubescent on the margins, more sparsely pubescent elsewhere on the lower portion of the lemmas, usually glabrous distally, hairs brown at maturity; awns 50-105 mm, scabrous to scabridulous throughout, terminal segment straight. 2n = 46.</description>
+  <discussion>Hesperostipa curtiseta grows on light to clay loams in the prairies and northern portion of the central plains and northern intermontane grasslands, at elevations from 750-2050 m, extending primarily from British Columbia to Manitoba and North Dakota. It resembles H. comata subsp. intermedia, but differs in having unevenly pubescent lemmas and non-lacerate ligules. It is also very similar to H. spartea, differing in its smaller size, usually glabrous or evenly pubescent culm nodes, usually glabrous sheaths, and shorter florets. Misra (1961) argued that its shorter florets and awns restrict H. curtiseta to more mesic sites than H. spartea.</discussion>
+</bio:treatment>

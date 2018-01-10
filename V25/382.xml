@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>17.45</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>SPARTINA Schreb.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose from knotty bases or rhizomatous. Culms 10-350 cm, erect, terete, solitary or in small to large clumps. Leaves mostly cauline; sheaths open, smooth, sometimes striate; ligules membranous, ciliate, cilia longer than the membranous bases; blades flat or involute. Inflorescences terminal, usually exceeding the upper leaves, 3-70 cm, panicles of 1-75 spikelike branches attached to an elongate rachis; branches racemosely arranged, alternate, opposite, or whorled, appressed to strongly divergent, axes 3-sided, spikelets usually sessile on the 2 lower sides, usually divergent to strongly divergent; disarticulation beneath the glumes. Spikelets laterally compressed, with 1 floret. Glumes unequal, strongly keeled; lower glumes shorter than the florets, 1-veined; upper glumes usually longer than the florets, 1-6-veined; lemmas shorter than the paleas, 1-3-veined, midveins keeled, lateral veins usually obscure; paleas thin, papery, 2-veined, obscurely keeled; anthers 3; lodicules absent; styles 2, plumose. Caryopses rarely produced, x = 10.</description>
+  <discussion>Spartina is a genus of 15-17 species, most of which grow in moist to wet, saline habitats, both coastal and interior. Reproduction of all the species is almost entirely vegetative.
+There are nine native and two introduced species in the Flora region, plus three hybrids, one of which is native, the other two being deliberate introductions. One of the introduced species, 5. maritima, grows in both Europe and at a few locations in Africa; the African populations may also represent introductions.
+On the eastern seaboard of North America, the native species of Spartina extend as far north as Nova Scotia, but the few species native to the western seaboard do not extend north of California. Two species, S. alterniflora and S. densiflora, have, however, become established as far north as Washington and now threaten the health of many coastal salt marshes and mud flats (see http://www.spartina.org/ or http://www.wwta.org/environ/environ_topics.htm).
+Mobberley (1956), on whose work this treatment is based, described three groups within Spartina, but did not give them formal recognition. Most of the species in the Flora region belong to his third group, which he characterized as having hard culms, scabrous leaf margins, more or less divergent inflorescence branches, usually closely imbricate spikelets, and hispid keels on their glumes and lemmas. Spartina alterniflora and S. foliosa belong to Mobberley's second group, the species of which have rather thick, succulent culms, glabrous blades with smooth margins, and less closely imbricate spikelets than in the other two groups. Spartina spartinae is the only species of his first group to grow in the Flora region. Like other members of the group, it has hard, slender culms, numerous short, closely imbricate inflorescence branches, spikelets that are hispid or villous, at least on the keels of the glumes, and no rhizomes.
+</discussion>
+  <references>Coastal Conservancy. 2002. Invasive Spartina project, http://www.spartina.org/; Kartesz, J. and C.A. Meacham. 1999. Synthesis of the North American Flora, Version 1.0 (CD-ROM). North Carolina Botanical Garden, Chapel Hill, North Carolina, U.S.A.; Mobberley, D.G. 1956. Taxonomy and distribution of the genus Spartina. Iowa State Coll. J. Sci. 30:471-574; Spicher, D. and M. Joselyn. 1985. Spartina (Gramineae) in northern California: Distribution and taxonomic notes. Madrono 32:158-167.</references>
+  <key>
+    <key_body>
+1. Leaf blades with smooth or slightly scabrous margins.
+2. Panicles branches 2-8 cm long, usually closely appressed and often twisted, the lower branches evidently less closely imbricate than the upper branches; glumes usually curved; plants of California and Baja California, Mexico .....3. S. foliosa
+2. Panicle branches 2-24 cm long, usually loosely appressed or divergent, usually not twisted, lower and upper branches more or less equally imbricate; glumes straight; plants of varied distribution, including California and Baja California, Mexico. 
+3. Glumes usually mostly glabrous on the sides, sometimes with appressed hairs; panicles with 3-25 branches .....2. S. alterniflora
+3. Glumes usually with appressed hairs on the sides, the margins sometimes glabrous; panicles with 1-12 branches.
+4. Ligules 2-3 mm long; anthers 5-13 mm long, well-filled, dehiscent at maturity.....6. S. anglica
+4. Ligules 0.2-1.8 mm long; anthers 3-10 mm long, sometimes poorly filled and indehiscent at maturity. 
+5. Ligules 0.2-0.6 mm long; leaf blades 6-12 cm long; anthers 3-6.5 mm long, well-filled, dehiscent at maturity .....4. S. maritima
+5. Ligules 1-1.8 mm long; leaf blades 6-30 cm long; anthers 5-10 mm long, poorly filled and indehiscent at maturity .....5. S. xtownsendii
+1. Leaf blades with strongly scabrous margins.
+6. Panicles smooth in outline, with (6)15-75 tightly appressed panicle branches; branches 0.5-4(7) cm long; plants without rhizomes .....1. S. spartinae 
+6. Panicles not smooth in outline, with 2-67 tightly appressed to strongly divergent branches; branches 1-15 cm; plants with more than 15 panicle branches always strongly rhizomatous, those with less than 16 branches with or without rhizomes. 
+7. Plants without rhizomes or the rhizomes short; culms usually clumped; panicle branches 2-16.
+8. Upper glumes 1-veined   .....9. S. densiflora
+8. Upper glumes 3-4-veined.
+9. Spikelets 6-9 mm long; culms to 200 cm tall; plants of the southeastern United States ..... 7. S. bakeri
+9. Spikelets 10-17 mm long; culms to 120 cm tall; plants of the northeastern United States ..... 12. S. xcaespitosa
+7. Plants with well-developed rhizomes; culms usually solitary, sometimes a few together; panicle branches 3-67.
+10. Rhizomes whitish; upper glumes 1-veined or with all lateral veins on the same side of the keels; panicles with 2-15 branches, the branches 1-9 cm long.
+11. Spikelets 6-11 mm long, ovate to lanceolate; inland plants of western North America, rarely found east of Lake Winnipeg and the Mississippi Valley .....10. S. gracilis
+11. Spikelets  7-17 mm long,  linear-lanceolate to  ovate-lanceolate;  usually coastal, also known from a few inland sites in northeastern North America.
+12. Spikelets 7-12 mm long; blade of the second leaf below the panicles 0.5-4(7) mm wide; plants of disturbed and undisturbed  coastal habitats from the Gulf of St. Lawrence to the Gulf of Mexico and, as an introduction, on the west coast of North America .....11.S. patens
+12. Spikelets 10-17 mm long; blade of the second leaf below the panicles 2-7 mm wide; plants of disturbed habitats and artificial wetlands from Maine to Maryland .....12. S. xcaespitosa
+10. Rhizomes light brown to brownish-purple; upper glumes 1-veined or with lateral veins on either side of the keels; panicles with 3-67 branches, the branches 1.5-15 cm long. 
+13. Blade of the second leaf below the panicles 2-5(7) mm wide, usually involute even when fresh; panicles with 3-9 branches, the branches 3-9 cm long .....12. S. xcaespitosa
+13. Blade of the second leaf below the panicles 5-14 mm wide, flat when fresh; panicles with 5-67 branches, the branches 1.5-15 cm long. 
+14. Lower glumes 3/4 as long as to equaling the adjacent lemmas; upper glumes awned, the awns 3-8 mm, with glabrous, rarely hispid, lateral veins .....13. S. pectinata
+14. Lower glumes less than 1/2 as long to 2/3 as long as the adjacent lemmas; upper glumes unawned or with awns up to 2 mm long, usually with hispid lateral veins  .....8. S. cynosuroides
+    </key_body>
+  </key>
+</bio:treatment>

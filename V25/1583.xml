@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Andropogon liebmannii Hack. </name_authority_date>
+  </taxon_identification>
+  <common_names>LIEBMANN'S BLUESTEM, MOHR'S BLUESTEM</common_names>
+  <description type="morphology">Plants cespitose, cylindrical to oblong above. Culms 20-170 cm;  internodes not glaucous; branches mostly erect, straight. Sheaths smooth; ligules 0.7-1.2 mm, sometimes ciliate, cilia to 0.4 mm; blades 3-35 cm long, 2.5-7.5 mm wide, sparsely to densely pubescent with spreading, shaggy hairs. Inflorescence units 7-50 per culm; subtending sheaths (4)4.9-7.4(10) cm long, (3)4.2-6.1(10.1) mm wide; peduncles (10)24-68(130) mm, at least some extending beyond the subtending sheaths at maturity, with 2-13 rames; rames (2)2.4-4(5) cm, usually exserted at maturity, pubescence increasing in density distally within each internode. Sessile spikelets (3)4-4.5(6.9) mm; keels of lower glumes scabrous above (and sometimes below) the midpoint; awns 17-24 mm; anthers 1, 0.7-1.4 mm, yellow. Pedicellate spikelets vestigial or absent. 2n = 20.</description>
+  <discussion>Andropogon liebmannii has two varieties. Andropogon liebmannii var. pungensis (Ashe) C.S. Campb., the variety found in the Flora region, differs from A. liebmannii Hack. var. liebmannii, which grows in Mexico, in having culms that are usually more than 80 cm tall, leaves that are more than 15 cm long, and sessile spikelets that are more than 4.2 mm long; in var. pungensis the culms are usually less than 90 cm tall, the leaves less than 15 cm long, and the sessile spikelets less than 4.2 mm long.
+Andropogon liebmannii var. pungensis grows along the coastal plain of the southeastern United states in bog, swamp, savannahs, and flatwoods. It used to be treated as a species, which was known as A. mobrii. The English name "Mohr's Bluestem" reflects this treatment.
+</discussion>
+</bio:treatment>

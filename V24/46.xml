@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>J.K. Wipff</author>
+    </source>
+  </meta>
+  <number>5.03</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>HYGRORYZA Nees</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; aquatic, producing long, floating culms; synoecious. Culms 50-150 cm, spongy, developing adventitious roots at the nodes, branched; branches erect, leafy. Leaves cauline, glabrous, veins tessellate; sheaths open, inflated, serving as floats; ligules absent or hyaline; pseudopetioles present; blades elliptic, ovate, ovate-lanceolate, or oblong. Inflorescences terminal panicles, aerial, lowermost branches whorled; disarticulation beneath the spikelet calluses. Spikelets bisexual, laterally compressed, with 1 floret. Glumes absent or an annular rim; calluses (1)2-10 mm, stipelike, glabrous, junction with the pedicels marked by a tan constriction; lemmas 5-veined, margins clasping the paleas, apices acuminate, awned, awns terminal, antrorsely scabridulous; paleas similar to the lemmas, 3-veined, 1-keeled, acute-acuminate, unawned; lodicules 2, glabrous; anthers 6; styles 2, bases not fused, stigmas laterally exserted, plumose. Caryopses terete, fusiform; embryos small; hila linear, almost as long as the embryo, x = 12. </description>
+  <discussion>Hygroryza is a monospecific Asian genus that grows in India, Ceylon, and throughout southeast Asia. It forms floating masses, often of considerable extent, in lakes and slow-moving streams, and is sometimes a weed in rice.</discussion>
+  <references>Bor, NX. 1960. The Grasses of Burma, Ceylon, India and Pakistan (Excluding Bambuseae). International Series of Monographs on Pure and Applied Biology, Division: Botany, vol. 1. Pergamon Press, New York, Oxford, London, and Paris. 767 pp.; Koyama, T. 1987. Grasses of Japan and Its Neighboring Regions: An Identification Manual. Kodansha, Ltd., Tokyo, Japan. 370 pp.; Watson, L. and M.J. Dallwitz. 1992. The Grass Genera of the World. C.A.B. International, Wallingford, England. 1038 pp.</references>
+</bio:treatment>

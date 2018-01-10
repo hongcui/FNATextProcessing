@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>33</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus berteroanus Colla </name_authority_date>
+  </taxon_identification>
+  <common_names>CHILEAN CHESS</common_names>
+  <description type="morphology">Plants annual; often tufted. Culms 30-60 cm, slender. Sheaths pilose-pubescent to nearly glabrous; blades 7-28 cm long, 2-9 mm wide, pilose or glabrous. Panicles 10-20 cm long, 3-9 cm wide, erect, dense; branches appressed to spreading, sometimes flexuous. Spikelets 15-20 mm, elliptic to lanceolate, more or less terete, with 3-9 florets. Glumes glabrous, acuminate; lower glumes 8-10 mm, 1-veined; upper glumes 12-16 mm, 3(5)-veined; lemmas 11-14 mm, lanceolate to linear-lanceolate, sparsely pubescent, 5-veined, rounded over the midvein, apices acuminate, bifid, teeth 2-3 mm, usually aristate, sometimes acuminate; awns 13-20 mm, geniculate, strongly to moderately twisted in the basal portion, arising 1.5 mm or more below the lemma apices; anthers 2-2.5 mm. 2n = unknown.</description>
+  <discussion>Bromus berteroanus is from Chile, and can now be found in dry areas in western North America, including British Columbia, Montana, California, Nevada, Arizona, southwestern Utah, and Baja California, Mexico.</discussion>
+</bio:treatment>

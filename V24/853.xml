@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Stephen J. Darbyshire </author>
+      <author>Jacques Cayouette</author>
+    </source>
+  </meta>
+  <number>14.16</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>xARCTODUPONTIA Tzvelev</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; rhizomatous. Culms to 38 cm. Sheaths closed for 1/3-3/4  their length; auricles absent; ligules membranous, acute to truncate, lacerate; blades flat or folded, glabrous. Inflorescences partly open panicles; branches stiff, glabrous, lower branches sometimes reflexed. Spikelets somewhat compressed, with 2-4 florets. Glumes subequal, ovate, membranous, acute; calluses with scant, stiff hairs; lemmas ovate, membranous to subcoriaceous, l(3)-veined, apices truncate and lacerate-dentate; paleas 2-keeled, glabrous; anthers indehiscent; ovaries glabrous; lodicules 2, membranous. Caryopses apparently absent.</description>
+  <discussion>xArctodupontia is a sterile hybrid between the two monotypic genera Dupontia and Arctophila. It is intermediate between the two parents.</discussion>
+  <references>Brysting, A.K., S.G. Aiken, L.P. Lefkovitch, and R.L. Boles. 2003. Dupontia (Poaceae) in North America. Canad. J. Bot. 81:769-779.</references>
+</bio:treatment>

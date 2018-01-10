@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date></name_authority_date>
+  </taxon_identification>
+  <description type="morphology"></description>
+  <key>
+    <key_heading>Poa Subkey II</key_heading>
+    <key_discussion>Plants annual or perennial. Culms not bulbous-based. Basal leaf sheaths not swollen at the base. Spikelets not bulbiferous, florets developing normally. Anthers 0.1-1(1.2) mm long in all florets, anther sacs usually well developed, the distal 1-2 fertile florets sometimes with rudimentary stamens.</key_discussion>
+    <key_body>
+1. Calluses glabrous; lemmas usually softly puberulent to long-villous on the keel and marginal veins, often also on the lateral veins, glabrous between the veins, non-alpine plants rarely glabrous throughout; palea keels smooth, usually short- to long-villous near the apices, rarely glabrous; panicle branches and glume keels smooth; plants annual, sometimes surviving for a second season, introduced, weedy species (sect. Micrantherae). 
+2. Anthers 0.6-1(1.1) mm long, oblong prior to dehiscence; spikelets crowded or sparsely arranged on the branches; plants widespread .....10. P. annua
+2. Anthers 0.1-0.5 mm long, round to elliptical prior to dehiscence; spikelets crowded on the branches; plants uncommon outside of California .....11. P. infirma
+1. Calluses webbed or glabrous, if glabrous, the lemma pubescence not as above or the palea keels at least slightly scabrous near the apices; panicle branches and glume keels smooth or scabrous; plants annual or perennial, native, sometimes growing in disturbed habitats.
+3. Calluses webbed; lemma keels glabrous throughout or, if hairy on the proximal 1/2, the marginal veins glabrous.
+4. Culms 5-15(20) cm tall; plants alpine  .....61. P. abbreviata (in part)
+4. Culms 20-126 cm tall; plants of shady forests and forest openings.
+5. Lemmas hairy only on the keels; branches in whorls of (2)3-5(7)   .....2.P. abodes
+5. Lemmas usually glabrous, marginal veins rarely sparsely hairy at the base, hairs to 0.15 mm long; branches 1-3 per node.
+6. Sheaths closed for at least 9/10 their length.....4. P. marcida
+6. Sheaths closed for 1/3-3/4  their length.
+7. Plants perennial; panicles lax, less than 1/4 the height of the plants; second rachilla internodes shorter than 1 mm; lemma apices obtuse to sharply acute or acuminate .....1. P. saltuensis (in part)
+7. Plants usually annual, rarely longer-lived; panicles erect, 1/4-1/2 the height of the plants; second rachilla internodes longer than (1)1.2 mm; lemma apices sharply acute  .....17. P. bolanderi
+3. Calluses webbed or glabrous, if webbed, the lemmas hairy on the keel and marginal veins. 
+8. Plants annual, rarely persisting for a second season; calluses webbed.
+9. Anthers 1, 0.1-0.2(0.3) mm long; palea keels softly puberulent to long-villous at midlength; panicles eventually open; plants from east of the 100th meridian  .....19. P. chapmaniana
+9. Anthers (1-2)3 per floret, 0.2-1(1.2) mm long; palea keels scabrous or softly puberulent to short-villous at midlength; panicles contracted or eventually open; plants from west of the 100th meridian or Texas.
+10. Panicles eventually open; blade apices narrowly prow-shaped; lemmas with hairs of similar length over and between the veins; palea keels scabrous or softly puberulent at midlength  .....18. P. howellii
+10. Panicles contracted; blade apices broadly prow-shaped; lemmas long- to short-villous over the keels and marginal veins, glabrous or pilose between the veins; palea keels softly puberulent to short-villous at midlength  .....20. P. bigelovii
+8. Plants perennial; calluses glabrous or webbed.
+11. Panicles open, broadly rhomboidal to pyramidal, branches divaricately ascending to spreading, longest branches 1.5-5 cm long, pedicels often longer than the 3-5 mm long spikelets; calluses glabrous; lemmas crisply puberulent on the keel and marginal veins, glabrous elsewhere, rarely glabrous throughout .....60. P. pseudoabbreviata (in part) 
+11. Panicles contracted or open, if open and broadly rhomboidal to pyramidal, the branches not as above or, if approximately so, the calluses webbed or the lemma keels and marginal veins short- to long-villous.
+12. Sheaths closed from 1/10 – 1/4 (1/3) their length; panicles 1-7(10) cm long, contracted, branches shorter than 1.5 cm; plants densely tufted, basal branching all or mainly intravaginal; lower glumes usually 3-veined, lanceolate to broadly lanceolate, upper glumes subequal to or longer than the lowest lemmas; culms 1-25(30) cm tall; plants of high alpine and tundra habitats (sect. Abbreviatae).
+ 
+13. Lemmas short- to long-villous on the marginal veins and distal 3/4  of the keel, glabrous or softly puberulent between the veins; calluses webbed or glabrous .....61. P. abbreviata (in part)
+13. Lemmas glabrous or the keel and marginal veins sparsely puberulent proximally, glabrous between the veins; calluses glabrous.
+14. Anthers 0.2-0.8 mm long; spikelets 3-4 mm long; lower glumes usually exceeding the lower lemmas; upper florets frequently exceeded by or only slightly exceeding the glumes; blades thin, flat, folded, or slightly inrolled  .....59. P. lettermanii
+14. Anthers 0.8-1.2 mm long; spikelets 3.5-7 mm long; lower glumes shorter than to equaling the lower lemmas; upper florets exceeding both glumes; blades moderately thick, often folded and inrolled on the margins.
+15. Adaxial surfaces of the innovation blades smooth or sparsely scabrous, long cells papillate (at 100x); upper culm blades with 7-15 closely spaced ribs on the adaxial surface; plants of California   .....62. P. keckii (in part)
+15. Adaxial surfaces of the innovation blades densely and minutely hispidulous, puberulent, or scabrous, rarely smooth, long cells not papillate (at 100x); upper culm blades with 5-9 well-spaced ribs on the adaxial suface; plants of British Columbia, Washington, and Oregon ..... 63. P. suksdorfii (in part)
+12. Sheaths closed for 1/10 – 7/8 their length; panicles 1-40 cm long, loosely contracted to open, branches 0.5-20 cm long, or the panicles contracted to loosely contracted with the branches 0.5-2 cm long and the plants loosely tufted; basal branching mainly extravaginal or pseudointravaginal; lower glumes 1-3-veined, subulate to broadly lanceolate; upper glumes shorter than to subequal to the lowest lemmas; culms 5-150 cm tall; plants of various habitats.
+16. Sheaths closed for 1/10-1/5 their length; basal branching mainly extravaginal; lower 1-3 leaves of the culms and innovations bladeless; anthers 0.8-1.2 mm long, sometimes poorly developed.
+17. Flag leaf nodes at or above midculm length.....55. P. nemoralis (in part)
+17. Flag leaf nodes usually in the basal 1/3 of the culms.
+18. Anthers poorly developed, mature anther sacs about 0.1 mm wide and indehiscent; panicles dense to moderately dense, ovoid, 1.5-3.5 cm long; panicle branches not glaucous, angles smooth or sparsely scabrous; glumes broadly lanceolate, equal; upper glumes 3.7-4.7 mm long, the length 3.6-4.1 times the width; lemmas 3.7-4.5 mm long, glabrous between the veins, lateral veins usually glabrous, infrequently softly puberulent .....51. P. laxa x glauca
+18. Anthers well developed, mature anther sacs usually about 0.2 mm wide and dehiscent, rarely aborted; panicles dense to loose, ovoid to lanceoloid, 1-10 cm long; panicle branches glaucous, the angles scabrous, at least below the spikelets; glumes narrowly to broadly lanceolate, subequal; upper glumes 2-3.8(5.2) mm long, the length usually more than 4.1 times the width; lemmas 2.5-4 mm long, glabrous or softly puberulent between the veins, lateral veins usually sparsely softly, puberulent to short-villous  .....57. P. glauca (in part)
+16. Sheaths closed for 1/5 – 7/8 their length; basal branching extravaginal, mixed extra- and intravaginal, or pseudointravaginal; culms and innovations with or without bladeless leaves; anthers 0.2-1.2 mm long, well developed.
+19. Calluses usually glabrous, rarely sparsely and shortly webbed; palea keels softly puberulent to short-villous for much of their length; lemmas puberulent between the veins; panicles (5)8-20 cm long,
+broadly pyramidal; panicle branches moderately to densely scabrous on the angles, longest branches 5-12 cm long, with 3-8 spikelets .....6. P. autumnalis (in part)
+19. Calluses webbed or glabrous, if glabrous then the palea keels glabrous, lemmas glabrous between the veins, panicles 2-8 cm long, usually loosely contracted, infrequently contracted, panicle branches smooth or sparsely scabrous, longest branches 1-3(4) cm long, with 1-8 spikelets.
+20. Panicles 2-8 cm long, usually loosely contracted, infrequently contracted; panicle branches usually ascending or weakly divergent, infrequently erect, smooth or sparsely scabrous, sulcate, longest branches 1-3(4) cm long; calluses webbed or glabrous; anthers (0.6)0.8-1.1(1.3) mm long; sheaths closed for 1/5-1/3 their length; plants alpine .....50. P. laxa (in part)
+20. Panicles 2.5-40 cm long, open; panicle branches loosely ascending, spreading, or reflexed, smooth or scabrous, angled, sulcate, or terete, longest branches usually longer than 3 cm; calluses webbed; anthers 0.2-1.2 mm long; sheaths closed for 1/4-3/4  their length; plants alpine or not.
+21. Panicle branches smooth or sparsely scabrous, usually terete or slightly sulcate; lower glumes subulate to broadly lanceolate; lemmas glabrous between the veins.
+22. Lower glumes subulate to narrowly lanceolate, keels usually scabrous; lemma keels short- to long-villous for 1/3-2/3 their length; lateral veins glabrous; lemma apices narrowly acute; spikelets lanceolate to narrowly lanceolate, green to purple; panicle branches sparsely scabrous, longest branches with (3)4-15 spikelets; palea keels evenly pectinate-ciliate or scabrous at midlength  .....53. P. leptocoma (in part)
+22. Lower glumes narrowly to broadly lanceolate, keels usually smooth; lemma keels long-villous for 1/2 - 4/5 their length; lateral veins glabrous or hairy; lemma apices acute; spikelets lanceolate to ovate; panicle branches smooth or sparsely scabrous, if sparsely scabrous, with 1-3 ovate, dark purple spikelets on the lax to drooping capillary branches; longest branches with 1-18 spikelets; palea keels softly puberulent or scabrous at midlength. 
+23. Longest panicle branches with (3)6-18 spikelets; palea keels scabrous or sparsely puberulent at midlength; lemmas usually sparsely puberulent on the lateral veins; lower branches usually reflexed .....22. P. reflexa
+23. Longest panicle branches with 1-3(5) spikelets; palea keels sparsely scabrous at midlength; lemmas glabrous on the lateral veins; lower branches usually laxly ascending to spreading .....23. P. paucispicula
+21. Panicle branches sparsely to densely scabrous, terete or angled; lower glumes subulate or broader; lemmas glabrous or puberulent between the veins.
+24. Panicles conical, the lower nodes with (2)3-10 branches; branches eventually reflexed; upper sheaths often ciliate on the overlapping margins near the point of fusion; intercostal regions of the lemmas usually sparsely puberulent, lateral veins at least sparsely puberulent; palea keels puberulent.....3. P. sylvestris (in part)
+24. Panicles not conical, the lower nodes with 1-7 branches; branches usually ascending to spreading, sometimes drooping or reflexed; upper sheaths not ciliate on the margins; lemmas glabrous or puberulent between the keel and marginal veins; palea keels puberulent or glabrous.
+25. Lemmas usually puberulent on the lateral veins and between the veins; lower cauline sheaths and ligules densely retrorsely scabrous; panicles  (6)12-40 cm long, with 2-7 branches at the lower nodes; lower glumes 1-veined; plants densely tufted .....21. P. occidentalis
+25. Lemmas glabrous on the keel, lateral veins, and between the veins, rarely puberulent on the lateral veins and between the veins; sheaths and ligules smooth or sparsely to moderately densely retrorsely scabrous; panicles 3-30 cm long, branches 1-3(5) per node; lower glumes 1-3-veined; plants densely to loosely tufted.
+26. Plants loosely tufted or with solitary culms, long-rhizomatous; lower glumes lanceolate; palea keels scabrous; panicles 14-30 cm long .....24. P. laxiflora (in part) 
+26. Plants densely to loosely tufted, sometimes shortly rhizomatous; lower glumes subulate to lanceolate; palea keels scabrous or puberulent; panicles 3-15(18) cm long. 
+27. Ligules 1.5-4(6) mm long, obtuse to acute; lemmas often purple, keels pubescent for 1/3-2/3 their length, apices usually bronze-colored, sharply acute to acuminate; palea keels evenly pectinate-ciliate to scabrous; lower glumes 1-veined .....53. P. leptocoma (in part)
+27. Ligules 0.3-2.1 mm long, truncate; lemmas green, keels pubescent for 2/3 their length or more, apices white or faintly bronze, acute to obtuse; palea keels scabrous or puberulent; lower glumes 1-3-veined. 
+28. Palea keels puberulent; anthers (0.5) 0.8-1.2 mm long; lemmas (2.5)3.2-4.7 mm long, lateral veins distinct .....7. P. wolfii
+28. Palea keels scabrous; anthers 0.2-0.8 mm long; lemmas 2.5-4 mm long, lateral veins faint .....52. P. paludigena 
+
+    </key_body>
+  </key>
+</bio:treatment>

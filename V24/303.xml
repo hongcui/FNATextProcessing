@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>23</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus vulgaris (Hook.) Shear </name_authority_date>
+  </taxon_identification>
+  <common_names>COMMON BROME</common_names>
+  <description type="morphology">Plants perennial; not rhizomatous. Culms 60-120 cm, erect or spreading; nodes (3)4-6(7), usually pilose; internodes glabrous. Sheaths pilose or glabrous; auricles absent; ligules 2-6 mm, glabrous, obtuse or truncate, erose or lacerate; blades 13-25(33) cm long, to 14 mm wide, flat, abaxial surfaces usually glabrous, sometimes pilose, adaxial surfaces usually pilose, sometimes glabrous. Panicles 10-15 cm, open; branches ascending to drooping. Spikelets 15-30 mm, elliptic to lanceolate, terete to moderately laterally compressed, with (3)4-9 florets. Glumes glabrous or pilose; lower glumes 5-8 mm, l(3)-veined; upper glumes 8-12 mm, 3-veined; lemmas 8-15 mm, lanceolate, rounded over the midvein, backs sparsely hairy or glabrous, margins usually coarsely pubescent, sometimes glabrous, apices subulate to acute, entire; awns (4)6-12 mm, straight, arising less than 1.5 mm below the lemma apices; anthers 2-4 mm. 2n = 14.</description>
+  <discussion>Bromus vulgaris grows in shaded or partially shaded, often damp, coniferous forests along the coast, and inland in montane pine, spruce, fir, and aspen forests, from sea level to about 2000 m. Its range extends from coastal British Columbia eastward to southwestern Alberta and southward to central California, northern Utah, and western Wyoming.
+Varieties have been described within Bromus vulgaris; because their variation is overlapping, none are recognized here.
+</discussion>
+</bio:treatment>

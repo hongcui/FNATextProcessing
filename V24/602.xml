@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>24</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca trachyphylla (Hack.) Krajina </name_authority_date>
+  </taxon_identification>
+  <common_names>HARD FESCUE, SHEEP FESCUE,
+FÉTUQUE DRESSÉE À FEUILLES SCABRES</common_names>
+  <description type="morphology">Plants densely cespitose, without rhizomes. Culms (15)20-75 (80) cm, smooth, glabrous or with sparse hairs. Sheaths closed for less than 1/3 their length, usually glabrous, rarely pubescent, persistent; collars glabrous; ligules 0.1-0.5 mm; blades (0.5)0.8-1.2 mm in diameter, usually conduplicate, rarely flat, abaxial surfaces  glabrous, puberulent,  or scabrous, adaxial surfaces scabrous or puberulent to pubescent, veins 5-7(9), ribs 3-7, usually distinct; abaxial sclerenchyma usually in an irregular, interrupted or continuous band, rarely in 5-7 small strands, usually more than twice as wide as high; adaxial sclerenchyma absent. Inflor¬escences (2.5)3-13(16) cm, contracted, with 1-2 branches per node; branches erect or stiffly spreading, secondary branches not divaricate, lower branches with 2+ spikelets. Spikelets 5-9(10.8) mm, with 3-7(8) florets. Glumes exceeded by the upper florets, ovate-lanceolate to lanceolate, mostly smooth and glabrous, sometimes scabrous and/or pubescent distally; lower glumes (1.8)2-3.5(4) mm; upper glumes 3-5(5.5) mm; lemmas 3.8-5(6.5) mm, lanceolate, usually smooth and glabrous on the lower portion and scabrous or pubescent distally, especially on the margins, rarely entirely pubescent, awns 0.5-2.5(3) mm, usually less than 1/2 as long as the lemma body; paleas about as long as the lemmas, intercostal region puberulent distally; anthers (1.8)2.3-3.4 mm; ovary apices glabrous. 2n = 42.</description>
+  <discussion>Festuca trachyphylla is native to open forests and forest edge habitats of Europe. It has been introduced and has become naturalized in many temperate regions. In the Flora region, F. trachyphylla is generally sold under the name 'Hard Fescue', and is popular as a durable turf grass and soil stabilizer. It is particularly common in the eastern United States and southeastern Canada, but is probably grown throughout the temperate parts of the region. Its naturalized distribution can be expected to expand.
+For many years, Festuca trachyphylla was known, inappropriately, under other names, e.g., F. duriuscula L., F. ovina var. duriuscula (L.) W.D.J. Koch, and F. longifolia Thuill. Some European authors treat it as F. stricta subsp. trachyphylla (Hack.) Patzke. It has frequently been included in F. ovina (p. 422).
+</discussion>
+</bio:treatment>

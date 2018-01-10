@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Arctophila fulva (Trin.) Andersson </name_authority_date>
+  </taxon_identification>
+  <common_names>PENDANT GRASS, ARCTOPHILE FAUVE</common_names>
+  <description type="morphology">Culms (5)10-80(100) cm. Ligules (1)2-6(8) mm; blades 2-23 cm long, 1-5(10) mm wide. Panicles 3-20 cm long, (1.5)3-11 cm wide. Spikelets 2.5-7(8) mm. Glumes 1.5-4(5) mm; lower glumes exceeded by the lowest floret; upper glumes shorter than to longer than the lowest floret; lemmas 2.5-4 mm; paleas (1)1.8-4 mm; anthers 1.2-3 mm. Caryopses 1.5-2.2 mm. 2n = 42, 63. </description>
+  <discussion>Arctophila fulva grows as an emergent species in shallow, standing water, or along slow-moving streams,  
+wet meadows, marshes, and saturated soils of low arctic and subarctic regions, where it often forms pure stands. It is one of the few grasses that develop aquatic leaves. Field observations indicate that under some environmental conditions, A. fulva can propagate vegetatively from detached stems that have over¬wintered (Aiken and Buck 2002). In the Flora region, it grows from Alaska through the Yukon, Northwest Territories, Nunavut, Ontario, Quebec, and Labrador to Greenland. Its range extends across Eurasia to arctic Scandinavia. It forms a sterile hybrid, xArctodupontia scleroclada (p. 605), with Dupontia fisheri. The hybrid differs from Arctophila fulva in having lemmas with truncate, lacerate to dentate apices, rather than obtuse, entire apices.
+</discussion>
+</bio:treatment>

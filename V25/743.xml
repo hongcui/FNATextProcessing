@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>31</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia arenicola Buckley </name_authority_date>
+  </taxon_identification>
+  <common_names>SAND MUHLY</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms (15)20-60 (70) cm, somewhat decumbent, 1 or more nodes exposed; internodes hispidulous below the nodes. Leaves somewhat basally concentrated, most blades not reaching more than (1/4)1/2 of the plant height; sheaths usually a little shorter than the internodes, not keeled, scabridulous, margins hyaline, basal sheaths rounded, not becoming spirally coiled when old; ligules 2-9 mm, hyaline, acute, lacerate, often with lateral lobes; blades 4-10(16) cm long, 1-2.2 mm wide, not arcuate, flat, folded, or involute, scabrous, often glaucous, midveins and margins not thickened, green. Panicles 12-30 cm long, 5-20 cm wide, diffuse; primary branches 1-10 cm, diverging 30-80° from the rachises, naked basally; pedicels 1-4(6) mm. Spikelets 2.5-4.2 mm. Glumes equal, 1.4-2.5 mm, 1-veined, apices scabridulous, acute to acuminate, minutely erose, unawned or awned, awns to 1 mm; lemmas 2.5-4.2 mm, narrowly elliptic, usually purplish, scabrous distally, appressed-pubescent on the lower 1/2 - 3/4 of the margins and midveins, apices acuminate, awned, awns 0.5-4.2 mm; paleas 2.5-3.5 mm, narrowly elliptic, intercostal region sparsely pubescent, apices acuminate, with 2 short (0.1-0.2 mm) awns; anthers 1.5-2.1 mm, greenish. Caryopses 1.9-2.3 mm, fusiform, brownish. 2n = 80, 82.</description>
+  <discussion>Muhlenbergia arenicola grows on sandy mesas, lime-stone benches, and in valleys and open desert grasslands, at elevations of 600-2135 m. Its range extends from the southwestern United States to central Mexico. It also grows, as a disjunct, in northwestern Argentina.</discussion>
+</bio:treatment>

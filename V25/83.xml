@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Leptochloa dubia (Kunth) Nees </name_authority_date>
+  </taxon_identification>
+  <common_names>GREEN SPRANGLETOP</common_names>
+  <description type="morphology">Plants perennial. Culms (10) 30-110 cm, round or basally compressed, tillering from the basal nodes, not branching from the aerial nodes, mostly glabrous, sometimes pilose basally; internodes solid. Sheaths sometimes with a pilose collar; ligules 1-2 mm, truncate, erose; blades (2)8-35 cm long, 2-8 mm wide, glabrous, strigose, or pilose. Panicles 8-20 cm, with 2-15 subdigitate or racemose branches; secondary panicles often hidden in the lowest leaf sheaths; branches 2-19 cm, ascending to spreading at maturity. Spikelets 4-12 mm, light brown to dark olive green, with 4-13 florets, often widely diverging at anthesis. Glumes narrowly triangular to ovate, acute; lower glumes 2.3-4.8 mm; upper glumes 3.3-6 mm; lemmas 3.5-5 mm, membranous, ovate to obovate, lateral veins glabrous or sericeous, hairs often restricted to the basal portion, sometimes also sericeous on the midvein and between the veins, apices obtuse to truncate, usually emarginate, unawned, sometimes mucronate; paleas ciliate on the margins; anthers 3, 0.3-1.6 mm. Caryopses 1.5-2.3 mm long, 0.9-1 mm wide, strongly dorsally compressed. 2n = 40, 60, 80.</description>
+  <discussion>Leptochloa dubia grows from the southwestern United States and Florida through Mexico to Argentina, often in well-drained, sandy or rocky soils. It provides fair to good forage, but is seldom abundant.</discussion>
+</bio:treatment>

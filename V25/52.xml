@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Tridens muticus var. elongatus (Buckley) Shinners</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms usually 40-80 cm. Blades often 3-4 mm wide. Upper glumes usually 5.5-10 mm, 3-7-veined.</description>
+  <discussion>Tridens muticus var. elongatus grows on well-drained, clayey and sandy soils from Colorado to Missouri and from Arizona to Louisiana. It is not known from Mexico.</discussion>
+</bio:treatment>

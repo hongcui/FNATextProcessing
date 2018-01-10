@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>37</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus tsukushiensis Honda </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants loosely cespitose, without conspicuous rhizomes. Culms 25-100 cm tall, 1.3-3.5 mm thick, erect;  nodes  4-6, glabrous. Leaves basal and cauline; sheaths glaucous, glabrous or with hairs, margins glabrous or ciliate distally; auricles 1-2 mm; ligules 0.2-0.7 mm, truncate; blades 3-10 mm wide, flattish, often glaucous. Spikes (6.5)10-25 cm long, 1.4-4 cm wide including the awns, 0.7-20 cm wide excluding the awns, flexuous, nodding; rachises densely to sparsely hirsute on the edges, hairs about 0.2 mm, glabrous elsewhere, glaucous; internodes (5)8-20 mm. Spikelets 15-25 mm, loosely appressed or ascending, with 5-10 florets; rachillas hairy, hairs about 0.1 mm; disarticulation above the glumes, beneath the florets. Glumes lanceolate, tapering from about midlength, adaxial surfaces glabrous, hyaline margins about 0.1 mm wide, strongly keeled distally, midvein scabrous distally, other veins smooth or scabrous, apices acute to acuminate, sometimes awned, awns 2-5 mm; lower glumes 4-7 mm, 3-5-veined; upper glumes 5-8 mm, 5-veined; calluses glabrous; lemmas 8-12 mm, lanceolate, glabrous or pilose, apices acute, awned, awns 20-40 mm, straight or flexuous; paleas from slightly shorter than to longer than the lemmas, keels narrowly winged distally, not or scarcely extending beyond the intercostal region, distinctly outwardly curved below the apices, apices 0.3-0.5 mm wide; anthers 1.5-2.5 mm. 2n = 42.</description>
+  <discussion>Elymus tsuskushiensis  is  native  to  northeastern China, Japan, and Korea. It was collected from ballast dumps in Portland, Oregon, but is not established in the Flora region. Hitchcock (1951) identified it and E. ciliaris as Agropyron caninum (L.) P. Beauv. [= Elymus caninus, p. 322], but that species has flatter glumes that are longer in relation to the lemmas than those of E. tsuskushiensis,  and  paleas  with  straight  or  slightly outwardly curved keels.</discussion>
+</bio:treatment>

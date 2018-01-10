@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>John W. Thieret</author>
+    </source>
+  </meta>
+  <number>26.25</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>EREMOCHLOA Biise</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, sometimes stoloniferous. Culms 10-70 cm, herbaceous, erect to decumbent, basal branching extravaginal. Leaves not aromatic; sheaths open; auricles absent; ligules membranous, truncate; blades flaccid, linear to lanceolate. Inflorescences terminal, of long-pedunculate, solitary, 1-sided rames (axillary rames occasionally present) with more than 1 spikelet unit; rame internodes clavate, glabrous; disarticulation in the rames. Spikelets in heteromorphic sessile-pedicellate pairs, pedicellate spikelets absent or rudimentary. Sessile spikelets imbricate, not embedded in the rame axes, dorsally compressed, with 2 florets, unawned; calluses truncate; glumes exceeding the florets, differing in shape; lower glumes 4-9-veined, 2-keeled, keels with spinelike projections and often winged distally, smooth between the keels, margins folded inward; upper glumes often shorter than the lower glumes, 3-5-veined, keels entire; lower florets staminate; lower paleas present; upper florets bisexual or pistillate; lemmas and paleas hyaline, unawned; anthers 3; style branches 2, red, free to the base. Pedicels closely appressed but not fused to the rame axes, flattened, thick, widening above the bases, glabrous. Pedicellate spikelets usually absent or rudimentary, occasionally well-developed, x = 9. </description>
+  <discussion>Eremochloa is a genus of 11 species that are native to Asia and Australia. One species is naturalized in the southeastern United States; another was found once in California but is not established in the Flora region.</discussion>
+  <references>Buitenhuis, A.G. and J.F. Veldkamp. 2001. Revision of Eremochloa (Gramineae-Andropogoneae-Rottboellinae). Blumea 46:399-420.</references>
+  <key>
+    <key_body>
+1. Keels of the lower glumes of the sessile spikelets winged distally, with 1-several 0.2-0.3 mm hooklike spines at the base .....1.E. ophiuroides
+1. Keels of the lower glumes of the sessile spikelets not winged, spine-bearing throughout, the basal spines 1-3 mm .....2.E. ciliaris
+
+    </key_body>
+  </key>
+</bio:treatment>

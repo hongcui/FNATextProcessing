@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank></rank>
+    <name_authority_date></name_authority_date>
+  </taxon_identification>
+  <description type="morphology"></description>
+</bio:treatment>

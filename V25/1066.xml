@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Digitaria californica (Benth.)  Henrard </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, neither rhizomatous nor stoloniferous. Culms 40-100 cm, erect, sometimes geniculate, not rooting, at the lower nodes. Basal sheaths villous; upper sheaths glabrous, densely villous or densely tomentose, or sparsely to densely hairy, with papillose-based hairs; ligules (1)1.5-6 mm, entire or lacerate, not ciliate; blades 2-12(18) cm long, 2-5(7) mm wide, glabrous or the adaxial surfaces sparsely to densely villous or tomentose. Panicles with 4-10 spike¬like primary branches on 5-10 cm rachises, rarely with secondary branches; primary branches 3-6 cm, appressed to ascending, axes not wing-margined; internodes 2-5.5 mm (midbranch), bearing spikelets in unequally pedicellate pairs; secondary branches rarely present; pedicels not adnate to the branch axes; shorter pedicels 0.1-0.3 mm; longer pedicels 1-2 mm; terminal pedicels of branches 1.7-6(7) mm. Spikelets homomorphic, (3.7)4-7.5 mm (including pubescence), 3-5.4 mm (excluding pubescence). Lower glumes 0.4-0.6 mm; upper glumes 2.5-5.1 mm (excluding pubescence), narrower than the upper florets, 3-veined, densely villous, hairs 1.5-5 mm, silvery-white to purple, widely divergent at maturity; lower lemmas 2.7-5 mm (excluding pubescence), pubescence exceeding the upper florets by 2.2-4 mm, 7-veined, veins unequally spaced, only the 3 or 5 central veins visible, margins and outer lateral veins densely pubescent, hairs 1.5-5 mm, silvery-white to purple, widely divergent at maturity, intercostal regions glabrous, apices attenuate (acuminate); upper lemmas 2.5-3.4 mm, ovate-lanceolate, brown to dark brown, acuminate. Caryopses 1.3-2 mm. 2n = 36, 54, 70, 72.</description>
+  <discussion>Digitaria californica grows on plains and open ground from Arizona, southern Colorado, and Oklahoma through Mexico and Central America to South America. The name reflects the fact that the first collection was made in Baja California, Mexico. Plants in the Flora region belong to D. californica (Benth.) Henrard var. californica. They differ from those of D. californica var. villosissima Henrard in having densely villous, rather than densely tomentose, leaves.</discussion>
+</bio:treatment>

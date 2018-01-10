@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Ammophila breviligulata Fernald subsp. breviligulata</name_authority_date>
+  </taxon_identification>
+  <common_names>AMERICAN BEACHGRASS, AMMOPHILE À LIGULE COURTE</common_names>
+  <description type="morphology">Flag leaf blades 5-39 cm. Panicles (9.5)13-40 cm. Glumes 8-15 mm; lemmas 8-11.5(14) mm; anthers 3.5-7 mm. 2n = 28.</description>
+  <discussion>Ammophila breviligulata subsp. breviligulata grows on sand dunes and dry, sandy shores from around the Great Lakes to the Atlantic coast from Newfoundland to South Carolina and, as an introduction, on the west coast. Anthesis is from late July to September. It hybridizes with Calamagrostis canadensis on Grand Island, Michigan, and the adjacent mainland, to form xCalammophila don-hensonii Reznicek & Judz. The hybrid is morphologically intermediate between its parents. Most florets appear to be sterile; some appear normal. Discovery of a plant that appears to be a backcross to Calamagrostis canadensis supports the possibility that some of the hybrid seed is functional.</discussion>
+</bio:treatment>

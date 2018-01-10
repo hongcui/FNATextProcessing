@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Sandy Long</author>
+    </source>
+  </meta>
+  <number>14.23</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>COLEANTHUS Seidl</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual, tufted. Culms 2-7(10) cm, ascending or decumbent. Sheaths closed, inflated; auricles absent; ligules membranous, ovate; blades flat. Inflorescences panicles; branches distant, verticillate. Spikelets slightly laterally compressed, pedicellate, pedicels hairy, with 1 floret; rachillas not prolonged beyond the base of the floret; disarticulation below the floret. Glumes absent; calluses short, glabrous; lemmas 1-veined, narrowed to awnlike apices; paleas 2-4-toothed, 2-keeled; lodicules absent; anthers 2; ovaries glabrous. Caryopses elliptic, exceeding the lemmas and paleas, falling free; hila oval, x = 7.</description>
+  <discussion>Coleanthus is a monospecific genus that is native to Eurasia and North America.</discussion>
+  <references>Bernhardt, K.G., M, Koch, E. Ulbel, and J. Webhofer. 2004. The soil seed bank as a resource for in situ and ex situ conservation of extinct species. [Pagination unknown] in E. Robbrecht and A. Bogaerts (eds.). EuroGard III. Scripta Botanica Belgica Series, No. 29. National Botanic Garden, Meise, Belgium. 177 pp.; Conert, HJ. 1992. Coleanthus. Pp. 434-437 in G. Hegi. Illustrierte Flora von Mitteleuropa, ed. 3. Band I, Teil 3, Lieferung 6 (pp. 401—480). Verlag Paul Parey, Berlin and Hamburg, Germany; Hejny, S. 1969. Coleanthus subtilis (Tratt.) Seidl in der Tschechoslowakei. Folia Geobot. Phytotax. 4:345-399; Neiajev, A.P. and A.A. Necajev. 1972. Coleanthus subtilis (Tratt.) Seidl in the Amur Basin. Folia Geobot. Phytotax. 7:339-347; Woike, S. 1969. Beitrag zum Vorkommen von Coleanthus subtilis (Tratt.) Seidl (Femes Scheidenbliitgras) in Europa. Folia Geobot. Phytotax. 4:401-413.
+ 
+</references>
+</bio:treatment>

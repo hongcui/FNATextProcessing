@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>44</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus xsaundersii Vasey </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose, not rhizomatous. Culms 50-80 cm, erect, glabrous or pilose. Leaves somewhat basally concentrated; sheaths retrorsely hairy; auricles to 1 mm; ligules 0.5-1 mm; blades 10-15 cm long, 4-5 mm wide, flat, becoming involute when dry, tapering to the apices. Spikes 10-25 cm long, 1-2.5 cm wide, with 1 spikelet per node; internodes 4-5 mm; disarticulation at the rachis nodes. Spikelets 10-25 mm excluding the awns, with 3-6 florets. Glumes 6-8 mm, linear-lanceolate to lanceolate, 3-5-veined, veins scabrous, apices sometimes toothed, awned, awns 8-13 mm; lemmas 10-13 mm, glabrous, smooth proximally, scabrous distally, awned, awns 20-45 mm, outcurving; anthers 1.5-2 mm, usually indehiscent.</description>
+  <discussion>Elymus xsaundersii comprises hybrids between E. trachycaulus (p. 321) and E. elymoides (p. 318). Such hybrids are found throughout much of the western portion of the contiguous United States, mostly in disturbed areas. The hybrids are generally sterile and, as in all hybrids involving E. elymoides or E. multisetus (p. 318), the rachises disarticulate at maturity.</discussion>
+</bio:treatment>

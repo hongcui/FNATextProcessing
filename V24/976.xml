@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>James P. Smith, Jr.</author>
+    </source>
+  </meta>
+  <number>14.40</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>HAINARDIA Greuter</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual. Culms 5-45 cm, branched above the base; internodes solid. Uppermost sheath open, often partially enclosing the inflorescences; auricles absent; ligules membranous, truncate; blades flat or convolute. Inflorescences single, terminal spikes, cylindrical, with solitary spikelets embedded in and radial to the rachises, the abaxial surface of the upper glumes exposed; disarticulation at the rachis nodes. Spikelets dorsiventrally compressed, with 1-2 florets, second floret reduced and sterile; rachillas sometimes prolonged beyond the base of the distal floret. Lower glumes absent from all but the terminal spikelets; upper glumes coriaceous, stiff, longer and firmer than the lemmas, rigid, 3-7(9)-veined, acute, unawned, sometimes mucronate; lower lemmas membranous, lanceolate, 3(5)-veined, unawned; paleas hyaline; anthers 1-3; lodicules 2, oblique, glabrous, fleshy basally. Caryopses shorter than the lemmas, oblong, somewhat dorsally compressed, with an apical appendage, concealed at maturity; embryos about 1/5 the length of the caryopses; hila short, linear, x = 13. </description>
+  <discussion>Hainardia is a monospecific European genus that grows in saline and alkaline soils. It resembles Parapbolis, which also occupies coastal salt marshes, but Parapholis differs in having spikelets with 2 glumes and culms with hollow internodes.</discussion>
+  <references>Greuter.W. and K.H. Rechinger. 196^. Chloris Kythereia. Boissiera 13:22-196; Gandhi, K.N. 1996. Nomenclatural novelties for Western Hemisphere plants I. Harvard Pap. Bot. 8:63-66; Runenark, H. 1962. A revision of Parapholis and Monerma (Gramineae) in the Mediterranean. Bot. Not. 115:1-17.</references>
+</bio:treatment>

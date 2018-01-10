@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Aristida californica var. glabrata Vasey</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Cauline internodes glabrous. Lower glumes 4-8 mm; upper glumes 7-15 mm; awns forming a 4-16 mm column, free portions 12-40 mm.</description>
+  <discussion>Aristida californica var. glabrata grows in sandy to rocky soils of desert grassland and desert thorn-scrub communities in the Sonoran and Mojave deserts at elevations of 500-1400 m, generally to the east of var. californica.</discussion>
+</bio:treatment>

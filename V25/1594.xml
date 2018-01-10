@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>14</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Andropogon glomeratus (Walter) Britton, Sterns & Poggenb. </name_authority_date>
+  </taxon_identification>
+  <common_names>BUSHY BLUESTEM, BUSHY BEARDGRASS</common_names>
+  <description type="morphology">Plants cespitose, upper portion dense, oblong to oblanceolate or obpyramidal. Culms 20-250 cm; internodes green, sometimes glaucous; branches mostly erect, straight. Sheaths usually scabrous, sometimes smooth; ligules 0.6-2.2 mm, sometimes ciliate, cilia to 0.9 mm; blades 13-109 cm long, 2.9-9.5 mm wide, glabrous or sparsely to densely pubescent, hairs usually spreading, rarely appressed. Inflorescence units 10-600 per culm; subtending sheaths (2.0)2.9-4.4(6.5) cm long, (1.5)2.3-3.4(4.4) mm wide; peduncles (1)6-14(60) mm, with 2(4) rames; rames (1)1.7-2.5(3.5) cm, exserted or not at maturity, pubescence sparse basally and increasing in density distally within each internode. Sessile spikelets 3-5 mm; callus hairs 1-2.5 mm; keels of lower glumes sometimes scabrous below midlength, usually scabrous distally; awns 6-19 mm; anthers 1(3), 0.5-1.5 mm, yellow, red, or purple. Pedicellate spikelets vestigial or absent, sterile. 2n = 20.</description>
+  <discussion>Andropogon glomeratus hybridizes with both A. longiberbis and A. virginicus. Some of its varieties are morphologically similar to the latter species.</discussion>
+  <key>
+    <key_body>
+1. Blades glaucous, glabrous, and smooth .....var. glaucopsis 1. Blades green, often pubescent or scabrous. 
+2. Sheaths subtending the inflorescence units 1.5-3 mm wide; leaf sheaths usually smooth; ligules ciliate, the cilia 0.2-0.9 mm long.....var. pumilus
+2. Sheaths subtending the inflorescence units (1.5)2.3-3.4(4.4)  mm wide;  leaf sheaths often scabrous; ligules, when ciliate, with the cilia no more than 0.5 mm long. 
+3. Keels of the lower glumes scabrous below  and beyond midlength ..... var. scabriglumis
+3. Keels of the lower glumes usually smooth below midlength, scabrous distally.
+4. Upper portion of the plants oblong to obpyramidal; mature peduncles (4)11-35(60) mm long; anthers eventually falling   .....var. glomeratus
+4. Upper portion of the plants cylindrical to oblong; mature peduncles 2-5 (8) mm long; withered remnants of anthers retained within the spikelets.....var. hirsutior
+
+
+    </key_body>
+  </key>
+</bio:treatment>

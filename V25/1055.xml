@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Digitaria gracillima (Scribn.) Fernald </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; in dense tufts, not rhizomatous. Culms 60-100 cm, erect. Sheaths villous, particularly the lower sheaths; ligules 0.2-0.4, fimbriate; blades to 47 cm long, 1-2.1 mm wide, involute, glabrous and smooth abaxially, scabrous adaxially, sometimes with a few long hairs near the base. Panicles of 2-3(5) spikelike primary branches on elongate rachises; primary branches 8-13(20) cm, narrowly winged, wings no more than 1/2 as wide as the midribs, bearing spikelets in unequally pedicellate groups of 3-4(5); secondary branches rarely present; longest pedicels to 5 mm. Spikelets 1.7-2.3 mm, elliptical, glabrous. Lower glumes absent; upper glumes 0.9-1 mm, less than 1/2 as long as the spikelets, 3-veined, glabrous, broadly rounded to truncate; lower lemmas slightly shorter than the spikelets, 5-veined, glabrous; upper lemmas smooth, brown when immature, dark brown at maturity. 2n = unknown.</description>
+  <discussion>Digitaria gracillima is a rare species, endemic to scrub and dry pinelands of peninsular Florida. It was formerly interpreted as including D. bakeri, but differs from that species both morphologically and ecologically.</discussion>
+</bio:treatment>

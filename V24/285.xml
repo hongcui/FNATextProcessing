@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus inermis Leyss. </name_authority_date>
+  </taxon_identification>
+  <common_names>SMOOTH BROME, HUNGARIAN BROME, BROME INERME</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, rhizomes short to long-creeping. Culms 50-130 cm, erect, single or a few together; nodes (2)3-5(6), usually glabrous, rarely pubescent; internodes usually glabrous, rarely pubescent. Sheaths usually glab¬rous, rarely pubescent or pilose; auricles sometimes present; ligules to 3 mm, glabrous, truncate, erose; blades 11-35(42) cm long, 5-15 mm wide, flat, usually glabrous, rarely pubescent or pilose. Panicles 10-20 cm, open, erect; branches ascending or spreading. Spikelets 20-40 mm, elliptic to lanceolate, terete to moderately laterally compressed, sometimes purplish, with (5)8-10 florets. Glumes glabrous; lower glumes (4)6-8(9) mm, l(3)-veined; upper glumes (5)7-10 mm, 3-veined; lemmas 9-13 mm, elliptic to lanceolate, rounded over the midvein, usually glabrous and smooth, sometimes scabrous, margins sometimes sparsely puberulent, the basal part of the backs less frequently so, apices acute to obtuse, entire; awns absent or to 3 mm, straight, arising less than 1.5 mm below the lemma apices; anthers 3.5-6 mm. 2n = 28, 56.</description>
+  <discussion>Bromus inermis is native to Eurasia, and is now found in disturbed sites in Alaska, Greenland, and most of Canada as well as south throughout most of the contiguous United States except the southeast. It has also been used for rehabilitation, and is planted extensively for forage in pastures and rangelands from Alaska and the Yukon Territory toTexas.
+Bromus inermis is similar to B. pumpellianus, differing mainly in having glabrous lemmas, nodes, and leaf blades, but lack of pubescence is not a consistently reliable distinguishing character. Bromus inermis also resembles a recently introduced species, B. riparius, from which it differs primarily in its shorter or nonexistent awns.
+</discussion>
+</bio:treatment>

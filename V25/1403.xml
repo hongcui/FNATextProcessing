@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Setaria leucopila (Scribn. & Merr.) K. Schum. </name_authority_date>
+  </taxon_identification>
+  <common_names>STREAMBED BRISTLEGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose. Culms 20-100 cm. Sheaths compressed, glabrous, margins villous distally; ligules 1-2.5 mm, ciliate; blades 8-25 cm long, 2-5 mm wide, flat or folded, scabrous on both surfaces. Panicles 6-15 cm, tightly   spikelike, pale green; rachises scabrous or villous; bristles usually solitary, 4-15 mm, ascending. Spikelets 2.2-2.8(3)   mm, elliptical. Lower glumes about 1/2 as long as the spikelets, 3-veined; upper glumes from 3/4 as long as to equaling the florets, 5-veined; lower lemmas equaling the  upper lemmas, 5-veined; lower paleas 1/2 - 3/4 as long as the upper paleas, lanceolate; upper lemmas apiculate, finely    and transversely rugose; upper paleas similar. 2n = 54, 68, 72. </description>
+  <discussion>Setaria leucopila grows in the southwestern United States and northern Mexico. It is the most common of the perennial "Plains bristlegrasses."</discussion>
+</bio:treatment>

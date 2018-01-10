@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Achnatherum lettermanii (Vasey) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>LETTERMAN’S NEEDLEGRASS</common_names>
+  <description type="morphology">Plants tightly cespitose, not rhizomatous. Culms 15-90 cm tall, 0.5-0.8 mm thick, usually glabrous, sometimes puberulent to 5 mm below the lower nodes; nodes 2-3. Basal sheaths smooth, glabrous, margins not ciliate; collars, including the sides, glabrous or sparsely pubescent, collars of the flag leaves glabrous; ligules 0.2-1.5(2) mm, without tufts of hair on the sides, truncate to rounded; blades 0.5-2 , wide, abaxial surfaces smooth to scabridulous, adaxial surfaces scabrous or puberulent. Panicles 7-19 cm long, 0.5-1 cm wide; branches straight, appressed to strongly ascending, longest branches 1.2-2.5 cm. Spikelets appressed to the branches. Glumes 6.5-9 mm, subequal; lower glumes 1(3)-veined; upper glumes to 0.5 mm shorter than the lower glumes, 0.6-1 mm wide, 1-veined; florets 4.5-6 mm long, 0.8-1 mm thick, fusiform, teret, widest below midlength; calluses 0.4-1 mm, blunt; lemmas evenly hairy, hairs at midlength about 0.5 mm, apical hairs 0.7-1.5(2) mm, apical lobes 0.3-0.8, membranous, flexible; awns 12-25 mm, persistent, twice-geniculate, scabrous, terminal segment straight; paleas 3-4 mm, 3/4 - 4/5(9/10) as long as the lemmas, veins terminating at or before the apices, apices round, flat, apical hairs 0.5-1 mm, extending beyond the palea body; anthers 1.5-2 mm, dehiscent, not penicillate. Caryopses about 4 mm, fusiform. 2n = 32.</description>
+  <discussion>Achnatherum lettermanii grows in meadows and on dry slopes, from sagebrush to subalpine habitats, at 1700-3400 m. Its range extends from Oregon and Montana to southern California, Arizona, and New Mexico; it is not known from Mexico. When sympatric with A. nelsonii, A. lettermanii tends to grow in shallower or more disturbed soils. It can be distinguished from that species by its generally finer leaves and more tightly cespitose growth habit, as well as its blunter calluses and longer paleas. Its relatively long paleas also distinguish A. lettermanii from A. perplexum. </discussion>
+</bio:treatment>

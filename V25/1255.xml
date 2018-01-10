@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>15</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Panicum dichotomiflorum Michx. </name_authority_date>
+  </taxon_identification>
+  <common_names>FALL PANICUM, PANIC D'AUTOMNE</common_names>
+  <description type="morphology">Plants annual or short-lived perennials in the Flora region, perennial in the tropics; usually terrestrial, sometimes aquatic but not floating. Culms 5-200 cm tall, 0.4-3 mm thick, decumbent to erect, commonly geniculate to ascending, rooting at the lower nodes when in water, simple to divergently branched from the lower and middle nodes, usually succulent, slightly compressed, glabrous; nodes usually swollen, sometimes constricted on robust plants, glabrous; internodes glabrous, shiny, pale green to purplish. Sheaths compressed, inflated, sparsely pubescent near the base, elsewhere mostly glabrous, sparsely pilose, or hispid, hairs sometimes papillose-based, margins or throat ciliate, with papillose-based hairs; ligules 0.5-2 mm; blades 10-65 cm long, 3-25 mm wide, glabrous or sparsely pilose, often scabrous near the margins, midribs stout, whitish. Panicles 4-40 cm, diffuse, lax, with a few spikelets; branches to 15 cm, alternate or opposite, occasionally verticillate, ascending to spreading, stiff, scabrous; pedicels 1-6 mm, sharply 3-angled, scabrous, expanded to cuplike apices, appressed mostly to the abaxial side of the branches. Spikelets 1.8-3.8 mm long, 0.7-1.2 mm wide, ellipsoid to narrowly ovoid, light green to red-purple, glabrous, acute to acuminate. Lower glumes 0.6-1.2 mm, 1/4 - 1/3 as long as the spikelets, 0-3-veined, obtuse to acute; upper glumes and lower lemmas similar, exceeding the upper florets by 0.3-0.6 mm, 7-9-veined; lower paleas vestigial to almost as long as the lower lemmas; lower florets sterile; upper florets 1.4-2.5 mm long, 0.7-1.1 mm wide, narrowly ellipsoid, smooth, shiny, stramineous to nigrescent, with pale veins. 2n = 36, 54.</description>
+  <discussion>Panicum dichotomiflorum grows in open, often wet, disturbed areas such as cultivated and fallow fields, roadsides, ditches, open stream banks, receding shores, clearings in flood plain woods, and sometimes in shallow water. It is probably native throughout the eastern United States and adjacent Canada, but introduced elsewhere, including in the western United States. Its size and habit may be partly under genetic control, but these features also seem to be strongly affected by moisture levels, soil richness, competition, and the time of germination.</discussion>
+  <key>
+    <key_body>
+1. Spikelets 1.8-2.2 mm long, widest at the middle, acute; upper glumes and lower lemmas submembranaceous; pedicels often over 3 mm long.....subsp. puritanorum
+ 
+1. Spikelets 2.2-3.8 mm long, widest below the middle, acuminate; upper glumes and lower lemmas subcoriaceous; most pedicels less than 3 mm long. 
+2. Sheaths glabrous or sparsely pilose, hairs not papillose-based.....subsp. dichotomiflorum
+2. Sheaths hispid, hairs papillose-based   .....subsp. bartowense
+    </key_body>
+  </key>
+</bio:treatment>

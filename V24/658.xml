@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Lolium temulentum L. subsp. temulentum L. </name_authority_date>
+  </taxon_identification>
+  <common_names>DARNEL, IVRAIE ENIVRANTE</common_names>
+  <description type="morphology">Blades (1.5)3-10(12) mm wide. Spikes 5-40 cm, with 5-26 spikelets; rachises rather stout. Spikelets 8-28 mm long, 3-8 mm wide. Glumes (5.5)7-28 mm, from 3/4  as long as to longer than the florets, somewhat indurate; lemmas 4.5-8.5 mm long, 1.5-3 mm wide, unawned or awned. awns to 23 mm, attached 0.5-2 mm below the apices. Caryopses (3.8)4-7 mm long, (1)1.5-3 mm wide.</description>
+  <discussion>Lolium temulentum subsp. temulentum is found occasionally in disturbed sites throughout much of the Flora region. It is native to the Eastern Hemisphere, where it is known only as a weed, especially of grain fields. Awn presence or absence and length vary, and have no taxonomic significance.
+The seeds sometimes become infected with an endophytic fungus, assumed to be the source of the toxic pyrrolizidine alkaloids loline, 6-methyl loline, and lolinine, but not temuline, which is now considered an artifact of isolation (Dannhardt and Steindl 1985). Because primitive agricultural practices could not separate seeds of Lolium temulentum from those of wheat, infected seeds often resulted in poisonous flour.</discussion>
+</bio:treatment>

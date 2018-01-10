@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eriochloa contracta Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>PRAIRIE CUPGRASS</common_names>
+  <description type="morphology">Plants annual; cespitose. Culms 20-100 cm, erect or decumbent, sometimes rooting at the lower nodes; internodes pilose or pubescent; nodes pubescent to puberulent. Sheaths sparsely to densely pubescent; ligules 0.4-1.1 mm; blades 6-12(22) cm long, 2-8 mm wide, linear, flat to conduplicate, straight, appressed to divergent, both surfaces sparsely to densely pubescent with short, evenly spaced hairs. Panicles 6-20 cm long, 0.3-1.2 cm wide; rachises pilose, longer hairs 0.1-0.8 mm; branches 10-20(28), 15-45(60) mm long, 0.2-0.4 mm wide, appressed, pubescent to setose, not winged, with 8-16 mostly solitary spikelets, occasionally paired at the base of the branches; pedicels 0.2-1 mm, variously hirsute below, apices with fewer than 10 hairs more than 0.5 mm long. Spikelets (3.1)3.5-4.5(5) mm long, 1.2-1.7 mm wide, lanceolate. Upper glumes as long as the lower lemmas, with sparsely appressed pubescence on the lower 2/3, scabrous or glabrous distally, 3-9-veined, acuminate and awned, awns 0.4-1 mm; lower florets sterile; lower lemmas 3-4.3 mm long, 1.2-1.7 mm wide, lanceolate, setose, 3-7-veined, acuminate, unawned or mucronate; lower paleas absent; upper lemmas 2-2.5 mm, indurate, elliptic, 5-7-veined, acute to rounded and awned, awns 0.4-1.1 mm; upper paleas indurate, faintly rugose, blunt. 2n = 36.</description>
+  <discussion>Eriochloa contracta grows in fields, ditches, and other disturbed areas. It is known only from the United States, being native and common in the central United States, and adventive to the east and southwest. It differs from E. acuminata in its tightly contracted, almost cylindrical panicles and longer lemma awns, but intermediate forms can be found. It can also be confused with first-year plants of the perennial E. punctata, which have glabrous leaves, narrower and more tapering spikelets, and longer lemma awns.</discussion>
+</bio:treatment>

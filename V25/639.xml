@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Echinochloa muricata var. microstachya Wiegand</name_authority_date>
+  </taxon_identification>
+  <common_names>ECHINOCHLOA PIQUANT</common_names>
+  <description type="morphology">Spikelets 2.5-3.8 mm. Lower glumes 0.9-1.6 mm; upper glumes 2.8-3.8 mm; lower lemmas unawned or awned, awns to 10 mm; anthers 0.4-0.7 mm.</description>
+  <discussion>Echinochloa muricata var. microstachya is the common variety in the western part of North America, extending east to the Missouri River and the Texas panhandle.</discussion>
+</bio:treatment>

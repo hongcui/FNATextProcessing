@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Urochloa ramosa (L.) T.Q. Nguyen </name_authority_date>
+  </taxon_identification>
+  <common_names>BROWNTOP MILLET</common_names>
+  <description type="morphology">Plants annual; tufted. Culms 10-65 cm, decumbent, rooting or not at the lower nodes; nodes pubescent. Sheaths usually puberulous, sometimes glabrous or sparsely pilose, margins ciliate; ligules 0.8-1.7 mm; blades 2-25 cm long, 4-14 mm wide, glabrous, margins scabrous. Panicles 3-13 cm, simple, with 3-15 spikelike primary branches; primary branches 1-8 cm, divergent, axils glabrous, axes 0.4-0.6 mm wide, triquetrous, glabrous, scabrous, or pubescent, with or without some papillose-based hairs; secondary branches, if present, confined to the lower branches; pedicels shorter than the spikelets, scabrous or pubescent. Spikelets 2.5-3.4 mm long, 1.3-2 mm wide, ellipsoid, apices broadly acute to acute, paired, appressed to the branches. Glumes scarcely separated, rachilla internode between the glumes not pronounced; lower glumes 1-1.5 mm, 1/3 – 1/2 as long as the spikelets, glabrous, 3-5-veined; upper glumes 2.5-3.4 mm, usually puberulent, sometimes glabrous, margins sometimes somewhat pubescent, 7-9-veined, without evident cross venation; lower florets sterile, lower lemmas 2.4-3.3 mm, usually puberulent or occasionally glabrous, margins not ciliate, without cross venation, 5-veined; upper lemmas 2.3-3.3 mm, acute, mucronate; anthers 0.7-1.2 mm. Caryopses 1.2-2.3 mm; hila punctiform. 2n = 36 (usually); also 14, 28, 32, 42, 46, 72. </description>
+  <discussion>A weedy species of tropical Africa and Asia, Urochloa ramosa has spread throughout the tropics and subtropics, including the southeastern United States. It is considered a weed in the Flora area, but it is is cultivated in India as a grain and forage crop; the grain is sometimes used for birdseed.</discussion>
+</bio:treatment>

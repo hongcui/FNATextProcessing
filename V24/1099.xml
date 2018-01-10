@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Cinna bolanderi Scribn. </name_authority_date>
+  </taxon_identification>
+  <common_names>SIERRAN WOODREED, BOLANDER'S WOODREED</common_names>
+  <description type="morphology">Culms 85-203 cm; nodes 4-8. Ligules 3.5-7 mm; blades to 40 cm long, 2-19 mm wide. Panicles 7.5-43 cm; branches spreading to ascending. Spikelets (3.6)4-5.5(6.3) mm; rachilla prolongations 0.4-0.9 mm, sometimes absent. Lower glumes (3.3)3.5-5.2(6) mm, 1-veined; upper glumes (3.6)4-5.5(6.3) mm, 1- or 3-veined; stipes essentially absent, florets more or less sessile; lemmas (2.7)3.2-4.6 mm, 5-veined, lateral veins underdeveloped and often faint, awns 0.2-1.5 mm or absent; paleas 2-veined, the veins approximate; anthers 2, 1.2-2.6 mm, rarely to 0.7 mm. Caryopses 2-2.9 mm. 2n = 28.</description>
+  <discussion>Cinna bolanderi is endemic to meadows and streamsides at 1900-2400 m in Sequoia, Kings Canyon, and Yosemite national parks. It flowers from late summer to fall. It used to be included in C. latifolia, but it differs from that species in having 2 anthers, longer anthers and spikelets, and sessile florets. The two species do not overlap in distribution.</discussion>
+</bio:treatment>

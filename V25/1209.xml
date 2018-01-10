@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>28</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthelium aciculare subsp. neuranthum grows in moist, sandy, open ground and savannahs, primarily on the outer coastal plain and in Cuba and various other Caribbean islands.</name_authority_date>
+  </taxon_identification>
+  <common_names>KUNTH'S PANICGRASS</common_names>
+  <description type="morphology">Plants grayish-green, cespitose. Basal rosettes poorly differentiated; blades 2-8 cm, ovate to lanceolate, grading into the cauline blades. Culms 20-55 cm, erect; nodes densely bearded; internodes densely villous; fall phase with spreading culms branching from the lower and midculm nodes, eventually producing flabellate clusters of reduced, flat blades, secondary panicles much reduced. Cauline leaves 3-4; sheaths shorter than the internodes, pilose with ascending papillose-based hairs to villous; ligules 0.5-2 mm, of hairs; blades 4-12 cm long, 2-8 mm wide, stiffly ascending to erect, often wrinkled along the prominent veins, usually villous on both surfaces, apices involute-pointed, blades of the flag leaves much reduced. Primary panicles 3-7 cm long, 1-4 cm wide, well-exserted; branches usually ascending, glabrous or puberulent. Spikelets 2.3-3 mm long, 1.4-1.8 mm wide, obovoid, biconvex in side view, densely pubescent, attenuate basally. Lower glumes about 1/3 as long as the spikelets, attached about 0.2 mm below the upper glumes, clasping at the base, broadly triangular, thinner than the upper glumes, weakly veined; upper glumes with 5-9 prominent veins; lower florets sterile; upper florets broadly ellipsoid, apices blunt, minutely puberulent. 2n = 18.</description>
+  <discussion>Dichanthelium consanguineum grows in sandy wood-lands and low, boggy pinelands. It is restricted to the southeastern United States. The primary panicles are open-pollinated and produced from April to June; the secondary panicles are cleistogamous and produced from June into fall. Some specimens of D. consanguineum suggest that hybridization occasionally occurs with D. aciculare or D. ovale.</discussion>
+</bio:treatment>

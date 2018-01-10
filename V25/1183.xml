@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>18</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthelium boreale (Nash) Freckmann </name_authority_date>
+  </taxon_identification>
+  <common_names>NORTHERN PANICGRASS, PANIC BOREAL</common_names>
+  <description type="morphology">Plants cespitose. Basal rosettes well-differentiated; blades 2-4 cm, pubescent, reddish. Culms 18-75 cm, usually more than 1 mm thick, occasionally delicate, erect or ascending; nodes glabrous; internodes glabrous; fall phase with decumbent culms, branches arising from the lower and midculm nodes, rebranching 2-3 times, with small blades and secondary panicles compared to those on the culms, secondary panicles with 8-10 spikelets, partially included at maturity. Cauline leaves 3-5; sheaths shorter than the internodes, lower sheaths pubescent, upper sheaths glabrous, margins of all sheaths sparsely ciliate; ligules about 0.5 mm, of hairs; blades 5-11 cm long, 5-13 mm wide, thin, spreading to erect, usually glabrous, rarely pubescent abaxially, always glabrous adaxially, bases truncate to cordate, ciliate on the margins, blades of the flag leaves erect or ascending. Primary panicles 5-11 cm long, 3-8 cm wide, ovoid, long-exserted, with 40-220 spikelets. Spikelets 2-2.2 mm long, 0.8-1.3 mm wide, ellipsoid, usually reddish, shortly pubescent, subacute. Lower glumes 0.5-1 mm, triangular-ovate; lower florets sterile; upper florets slightly exceeding the upper glumes and lower lemmas, subacute. 2n = 18.</description>
+  <discussion>Dichanthelium boreale grows in open woodlands and thickets, wet meadows, and fields. It is restricted to the Flora region. The primary panicles are mostly open-pollinated and are produced in May and June; the secondary panicles are predominantly cleistogamous and are produced from mid-June into October.
+Dichanthelium boreale occasionally hybridizes with D. acuminatum and D. xanthophysum, producing a sterile triploid sometimes called Panicum calliphyllum Ashe.
+</discussion>
+</bio:treatment>

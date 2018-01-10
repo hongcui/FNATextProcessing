@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Deschampsia sukatschewii (Popl.) Roshev. </name_authority_date>
+  </taxon_identification>
+  <common_names>DESCHAMPSIE NAINE</common_names>
+  <description type="morphology">Plants perennial; usually densely cespitose. Culms 5-70 cm, erect or strongly geniculate at the first node, glabrous. Leaves mostly basal, sometimes forming a dense, moss-like tuft 5-20 cm in diameter; sheaths smooth, glabrous; ligules 1.5-8 mm, acute; blades 0.5-8 cm long, usually strongly rolled and 0.5-1.3 mm in diameter, rarely flat and to 1.5(2) mm wide, abaxial surfaces smooth, adaxial surfaces with 3-5(6) ribs, ribs smooth, the outer ribs sometimes scabrous. Panicles 3.5-17 cm long, 1.5-9 cm wide, usually open and pyramidal, sometimes closed and ovate; branches 0.5-6 cm, spreading to reflexed, flexuous, smooth. Spikelets 3.5-5.2 mm, shiny, purplish, with 2(3) florets. Glumes lanceolate, sometimes purplish over the proximal 1/2, acute to acuminate; lower glumes 2.7-4.8 mm, 0.8-0.9 times the length of the spikelets, 1-3-veined, veins smooth; upper glumes 3-5 mm, equaling or exceeding the lowest floret, 1-5-veined; callus hairs 0.3-1 mm; lemmas 2-4 mm, smooth, shiny, glabrous, sometimes purplish distally, apices rounded or truncate, erose, awns 0.8-2.5 mm, arising at or below midlength, straight, slender, only slightly or not exserted; anthers 0.7-2.5 mm. 2n = 26, 28, 36, ca. 39.</description>
+  <discussion>Deschampsia sukatschewii is a circumboreal species that extends from northern Russia through Alaska, northern Canada, and Greenland to Svalbard, and southward in the Rocky Mountains to Nevada and Utah. It ranges from short plants that form dense, mossy tufts on the Arctic coast to larger plants in subalpine and alpine habitats of the Rocky Mountains that have frequently been included in D. cespitosa .
+Arctic taxonomists recognize two subspecies of Deschampsia sukatschewii in arctic North America: the amphiberingian subsp. orientalis (Hulten) Tzvelev that extends to the northern coast of Alaska and the western Northwest Territories; and subsp. borealis (Trautv.) Tzvelev, which is circumpolar in the arctic. Chiapella and Probatova (2003) treated these two subspecies, and subsp. sukatschewii, as subspecies of D. cespitosa. Efforts to circumscribe infraspecific taxa of D. sukatschewii for this treatment failed.</discussion>
+</bio:treatment>

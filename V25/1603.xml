@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Cymbopogon citratus (DC.) Stapf </name_authority_date>
+  </taxon_identification>
+  <common_names>LEMON GRASS</common_names>
+  <description type="morphology">Plants perennial. Culms to 200 cm, flexuous; nodes not swollen. Basal sheaths closely overlapping, gaping at maturity, forming somewhat flattened fans, glabrous, strongly glaucous; ligules 0.5-2 mm, truncate; blades to 90 cm long, 6.5-15 mm wide. Inflorescences to 60 cm, nodding; rames 10-25 mm; internodes and pedicels pilose on the margins and dorsal surface. Sessile spikelets of heterogamous pairs 5-6 mm; lower glumes shallowly concave below, flat distally, keels narrowly winged; upper lemmas entire or bidentate, unawned or with a 1-2 mm awn. Pedicellate spikelets 4-4.5 mm, unawned. 2n = 40, 60.</description>
+  <discussion>Cymbopogon citratus is now known only in cultiva-tion, even in Asia. Young shoots are used as a spice, and the oils are extracted for lemon oil. It has been grown in Florida.</discussion>
+</bio:treatment>

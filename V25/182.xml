@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Stephan L. Hatch</author>
+    </source>
+  </meta>
+  <number>17.29</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>DACTYLOCTENIUM Willd.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; tufted, stoloniferous, or rhizomatous. Culms 5-115(160) cm, erect or decumbent, often rooting at the lower nodes, not branching above the base. Sheaths not over¬lapping, open, keeled; auricles absent; ligules membranous, membranous and ciliate, or of hairs; blades flat or involute. Inflorescences terminal, panicles of 2-11, digitately arranged spicate branches; branches with axes 0.8-11 cm long, extending beyond the spikelets, terminating in a point, the spikelets imbricate in 2 rows on the lower sides. Spikelets with 3-7 bisexual florets, additional sterile florets distally; disarticulation usually above the glumes, the florets falling as a unit. Glumes unequal, shorter than the adjacent lemmas, 1-veined, keeled; lower glumes acute, mucronate; upper glumes subapically awned, awns curved; calluses glabrous; lemmas membranous, glabrous, 3-veined (lateral veins sometimes indistinct), strongly keeled, apices entire, mucronate, or awned; paleas glabrous; anthers 3, yellow; ovaries glabrous; styles fused. Fruit utricles; seeds falling free of the hyaline pericarp, transversely rugose or granular, x = 10. </description>
+  <discussion>Dactyloctenium is primarily an African and Australian genus of 10-13 species. Three species have been introduced in the Flora region, two of which have become established. Dactyloctenium aegyptium is widespread throughout the warmer areas of the world.</discussion>
+  <references>Black, J.M. 1978. Gramineae. Pp. 88-249 in J.M. Black. Flora of South Australia, Part I, ed. 3 (rev. J.P. Jessop). D.J. Woolman, Government Printer, Adelaide, South Australia, Australia. 466 pp.; Clayton, W.D., S.M. Phillips, and S.A. Renvoize. 1974. Flora of Tropical East Africa. Gramineae (Part 2) (ed. R.M. Pohill). Whitefriars Press, Ltd., London, England. 373 pp.; Jacobs, S.W.L. and S.M. Hastings. 1993. Dactyloctenium. Pp. 527-529 in G.J. Harden (ed.). Flora of New South Wales, vol. 4. New South Wales University Press, Kensington, New South Wales, Australia. 775 pp.; Koekemoer, M. 1991. Dactylocteniium Wild. Pp. 99-101 in G.E. Gibbs Russell, L. Watson, M. Koekemoer, L. Smook, N.P. Barker, H.M. Anderson, and M.J. Dallwitz. Grasses of Southern Africa (ed. O.A. Leistner). National Botanic Gardens, Botanical Research Institute, Pretoria, Republic of South Africa. 437 pp.</references>
+  <key>
+    <key_body>
+1. Panicle branches 0.4-1.5 cm long; most spikelets touching those of an adjacent branch   .....2. D. radulans
+1. Panicle branches 1.5-7 cm long; only the first few proximal spikelets on each branch in contact with those on an adjacent branch.
+2. Anthers 0.5-0.9 mm long; upper glume awns 1-2.5 mm long.....1. D. aegyptium
+2. Anthers 1.1-1.7 mm long; upper glume awns 4.5-10 mm long   .....3. D. geminatum
+
+    </key_body>
+  </key>
+</bio:treatment>

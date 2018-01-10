@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>xElyhordeum dakotense (Bowden) Bowden </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 55-80 cm. Ligules about 0.2 mm, truncate; blades 1.5-2 mm wide. Spikes 7-10 cm long, 5-8 mm wide, nodding, with 2(3) spikelets per node. Spikelets with 2-4 florets. Glumes 20-50 mm including the awns, bases indurate; lemmas pubescent, awned, awns similar in length to those of the glumes; anthers not developed. 2n = unknown.</description>
+  <discussion>xElyhordeum dakotense refers to hybrids between Elymus canadensis and Hordeum jubatum. They are known only from Brookings, South Dakota.</discussion>
+</bio:treatment>

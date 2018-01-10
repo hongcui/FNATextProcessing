@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Luziola bahiensis (Steud.) Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>BRAZILIAN WATERGRASS</common_names>
+  <description type="morphology">Plants stoloniferous, emergent or immersed. Culms 10-50 cm, suberect to erect. Leaves mostly basal or scattered along the culms, not conspicuously floating or streaming in the current; sheaths glabrous or ciliate; ligules to about 6 mm, lanceolate, acuminate; pseudopetioles sometimes present; blades 3-30(39) cm long, 1-6 mm wide, glabrous or puberulent. Inflorescences panicles; pedicels capillary. Staminate panicles 4-6 cm, terminal, with 9-17 spikelets; staminate florets 4-8 mm; lemmas lanceolate, faintly 5-9-veined; paleas similar, 3-veined; anthers 6, 2-4 mm, linear. Pistillate panicles to about 12 cm, arising from the lower nodes of the culms, all or mostly exserted, with 9-17 spikelets; branches slender, divergent to reflexed; pistillate florets 3-5 mm, caducous; lemmas 8-13-veined, acuminate or caudate; paleas similar, 6-8-veined; stigmas 2-4 mm. Achenes 1.5-2.2 mm, ovoid or broadly ellipsoid, lightly to moderately striate, somewhat lustrous. 2n = 24.</description>
+  <discussion>Luziola bahiensis is native from the Caribbean south to Argentina. It has been found at scattered locations in southern Louisiana, Mississippi, Alabama, and north-western Florida. It grows in wet places or shallow water along streams and lakes.</discussion>
+</bio:treatment>

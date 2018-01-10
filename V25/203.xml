@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sporobolus diandrus (Retz.) P. Beauv. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 30-80 cm. Sheaths keeled or rounded; ligules 0.2-0.5 mm; blades 10-30 cm long, 2-4 mm wide, flat, becoming folded. Panicles 15-35 cm long, 0.4-4 cm wide, contracted to rather lax and open; primary branches appressed to strongly ascending, without spikelets on the lower XA, lower branches much longer than the internodes; pedicels 0.1-3 mm. Spikelets 1.3-1.8 mm, plumbeous to greenish. Lower glumes 0.4-0.8 mm, acuminate to truncate; upper glumes 0.7-1 mm, usually less than H as long as the florets, rarely longer, faintly 1-veined, truncate, erose to denticulate; lemmas 1.2-1.6(1.8) mm, elliptic, glabrous, 1-veined, acute to obtuse; paleas 1.4-1.8 mm, elliptic; anthers 2(3), 0.5-0.8 mm. Fruits 0.7-0.9 mm, quadrangular, laterally compressed, reddish-brown, truncate. 2n = 12.</description>
+  <discussion>Sporobolus diandrus is native from India to southeast Asia and Australia. It is not common in North America, being known only from a few counties in Florida, Mississippi, and Texas.</discussion>
+</bio:treatment>

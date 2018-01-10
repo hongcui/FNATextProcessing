@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bambusa oldhamii Munro </name_authority_date>
+  </taxon_identification>
+  <common_names>OLDHAM'S BAMBOO</common_names>
+  <description type="morphology">Plants forming dense to moderately loose clumps, without thorny branches. Culms 6-15 m tall, 3-13 cm thick, erect; internodes all similar, hollow, walls about 1 cm thick, pale green, glabrous, glaucous below the nodes. Branches very short, not thorny, the central branch at each node often tardily developed, branches not developing from the lower nodes, branchlets of the lower branches not thornlike. Culm leaves promptly deciduous, oblong, initially brown-sericeous, becoming glabrous, rounded distally; auricles absent or very small and rounded; fimbriae few, to 3 mm, curved; ligules to 2 mm, entire or finely serrulate; blades broadly subtriangular, usually with concave margins, abaxial surfaces glabrous, adaxial surfaces antrorsely hispid, apices acuminate. Foliage leaves: sheaths striate, glabrous or sparsely hispidulous, margins very shortly ciliate; auricles very small, rounded; fimbriae many, to 5 mm, fine, wavy; ligules to 1 mm, truncate, glabrous, entire; blades 15-30 cm long, 3-6 cm wide, oblong-lanceolate, abruptly acuminate, abaxial surfaces pubescent initially, becoming glabrous, adaxial surfaces glabrous. Pseudospikelets with 6-10 florets. 2n = unknown.</description>
+  <discussion>Bambusa oldhamii is native to low-lying areas of eastern China and Taiwan. It is the most commonly grown large, clump-forming bamboo in the United States, where it is grown mostly in Florida and California. With its upright culms and short branches it makes an excellent tall hedge.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa wolfii Scribn. </name_authority_date>
+  </taxon_identification>
+  <common_names>WOLF'S BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; not rhizomatous, not stoloniferous, loosely tufted. Basal branching mainly pseudointravaginal. Culms 25-90 cm. Sheaths closed for 1/2 - 3/4 their length, smooth or sparsely scabrous, margins not ciliate; ligules 0.3-2.1 mm, smooth or sparsely scabrous, truncate to obtuse, ciliolate; blades 0.6-3.5 mm wide, flat. Panicles 7.5-15(18) cm, lax, pyramidal, open, sparse; nodes with 1-3(5) branches; branches 3-8 cm, ascending, straight to spreading, angled, angles prominent, scabrous. Spikelets 4-6.5 mm, laterally compressed; florets 2-5; rachilla internodes to 1 mm, smooth, glabrous. Glumes 1/2-1/3 the length of the adjacent lemmas, distinctly keeled, keels scabrous; lower glumes subulate to narrowly lanceolate, (l)3-veined; upper glumes shorter than or subequal to the lowest lemmas; calluses webbed; lemmas (2.5)3.2-4.7 mm, lanceolate, green, distinctly keeled, keels and marginal veins long-villous, hairs extending up almost the whole keel length, lateral veins prominent, intercostal regions smooth, minutely bumpy, usually glabrous, rarely sparsely softly puberulent, apices acute, blunt, or pointed, white, not bronze; palea keels softly puberulent at midlength, apices scabrous; anthers (0.5)0.8-1.2(1.5) mm. 2n = 28. </description>
+  <discussion>Poa wolfii is an uncommon species that grows in boggy areas of eastern deciduous forests, primarily west of the Appalachian divide. It differs from P. sylvestris (p. 512) in having fewer branches, larger spikelets, and lemmas that are usually glabrous between the veins.</discussion>
+</bio:treatment>

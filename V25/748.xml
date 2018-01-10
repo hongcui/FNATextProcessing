@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>35</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia repens (J. Presl) Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>CREEPING MUHLY</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, not cespitose. Culms 5-42 cm tall, 0.5-1 mm thick, decumbent near the base, forming dense mats; internodes glabrous, slightly nodulose. Sheaths shorter or longer than the internodes, glabrous; ligules 0.1-1(1.8) mm, membranous, truncate, occasionally lacerate; blades 0.4-6 cm long, 0.5-1.4 mm wide, involute, glabrous, smooth or scabridulous adaxially. Panicles 1-9 cm long, 0.1-0.6 cm wide, contracted, not dense, usually partially included in the upper leaf sheaths; primary branches 0.2-3 cm, usually closely appressed at maturity, rarely diverging up to 40° from the rachises; pedicels 0.2-3.6 mm, setulose. Spikelets 2.6-4.2 mm, occasionally with 2 florets. Glumes subequal, 1.1-3.6 mm, from 1/2 as long as to equaling the lemmas, light green, l(2-3)-veined, acute, unawned; lemmas 2.6-3.2(4.2) mm, lanceolate, dark greenish or mottled, glabrous or the calluses and margins appressed-pubescent, hairs to 0.3 mm, apices scabridulous, attenuate, usually mucronate, mucros 0.1-0.3 mm; paleas 2.1-3.3 mm, lanceolate, smooth or scabridulous, acute; anthers 0.7-1.4 mm, yellow to purplish. Caryopses 1.1-1.5 mm, ellipsoid to ovoid, brownish. 2n = 60, 70-72.</description>
+  <discussion>Muhlenbergia repens grows in open, sandy meadows, canyon bottoms, calcareous rocky flats, gypsum flats, and on rolling slopes and roadsides, at elevations of 100-3120 m. Its range extends from the southwestern United States to southern Mexico.</discussion>
+</bio:treatment>

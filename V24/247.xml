@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Jarava plumosa (Spreng.) S.W.L. Jacobs & J. Everett </name_authority_date>
+  </taxon_identification>
+  <common_names>PLUMOSE NEEDLEGRASS</common_names>
+  <description type="morphology">Plants cespitose, shortly rhi¬zomatous, rhizomes forming knotted bases. Culms 15-85 cm, glabrous, bases dull gray-brown; nodes 2-6; basal branching mostly extravaginal, lower nodes sometimes with intravaginal branches. Sheaths glabrous, basal sheaths dull gray-brown; ligules 0.1-0.2 mm, truncate, abaxial surfaces puberulent, ciliolate to ciliate, hairs longest (1.5-4 mm) towards the sides of the leaves, at the top of the sheaths; blades 1-9(25) cm long, those of the innovations the longest, 1-1.5 mm wide and flat or conduplicate, or to 0.5 mm in diameter and convolute, straight to almost falcate, abaxial surfaces of the innovation leaves glabrous or pubescent, adaxial surfaces usually glabrous, sometimes slightly scabrous. Panicles 3-20 cm, ovoid, lax, partially included in the upper leaf sheaths; branches ascending to divergent; pedicels 1-1.5 mm. Spikelets 5-8 mm. Glumes from shorter than to subequal to the florets, linear-lanceolate, hyaline, smooth, ecostate or with 1 inconspicuous vein, apices attenuate; lower glumes 2.5-5 mm; upper glumes 4.5-6.5 mm; florets (4)5-7.5 mm; calluses 1-1.5 mm, strigose, hairs white; lemmas about 0.3 mm thick, mostly scabrous, strigose over the midvein, tapering to the apices, pappus hairs 5-8 mm; awns 15-30 mm, scabrous, weakly geniculate; paleas 1-2.5 mm, from 1/3 - 1/2 the length of the lemmas, hyaline, glabrous, weakly 2-veined; lodicules 2, 0.8-1 mm, linear. Caryopses 4-5 mm, narrowly lanceoloid. 2n = 40.</description>
+  <discussion>A native of Argentina, Chile, and Uruguay, Jarava plumosa was collected in Berkeley, California in 1983. It is not known to be established in the Flora region. In its native range, it often grows on poor, unstable soils. Matthei (1965) stated that it is a valuable forage species when young, but that it should not be overgrazed because of its value in preventing soil degradation.</discussion>
+</bio:treatment>

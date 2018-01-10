@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Eragrostis mexicana (Hornem.) Link subsp. mexicana</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms and sheaths sometimes with glandular depres¬sions. Spikelets 1.5-2.4 mm wide, ovate to oblong in outline. Lower glumes 1.2-2.3 mm; sum of spikelet width and lower glume length 2.7-4.7 mm.</description>
+  <discussion>Eragrostis mexicana subsp. mexicana grows from Ontario through the midwestern United States to California, South Carolina, and Texas and southwards to Mexico.</discussion>
+</bio:treatment>

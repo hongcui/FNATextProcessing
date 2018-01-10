@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>15</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus hallii (Hitchc.) Saarela & P.M. Peterson</name_authority_date>
+  </taxon_identification>
+  <common_names>HALL'S BROME</common_names>
+  <description type="morphology">Plants perennial; not rhizomatous. Culms 90-150 cm, erect; nodes 1-2(3), pubescent or puberulent; internodes usually puberulent, occasionally glabrous, pilose to densely pubescent below the nodes. Sheaths densely pubescent to pilose, hairs to 1 mm, collars pilose, hairs to 2 mm; auricles absent; ligules 0.5-2.5 mm long, sparsely to densely pubescent, obtuse, erose; blades 7.5-16.5 cm long, 3-12 mm wide, flat, densely pubescent on both surfaces. Panicles 5-16 cm, open; branches erect, ascending and appressed to slightly spreading. Spikelets 25-35(45) mm, terete to moderately laterally compressed, with  3-7  florets.  
+Glumes sparsely to densely pubescent; lower glumes 5-8(9) mm, l(3)-veined; upper glumes (7)8-9 mm, 3-veined, sometimes mucronate; lemmas 10-14 mm, elliptic, rounded over the midvein, backs sparsely to densely pubescent, margins pubescent, apices entire; awns 3.5-7 mm, straight, arising less than 1.5 mm below the lemma apices; anthers 3-6 mm. 2n = unknown.
+</description>
+  <discussion>Bromus hallii grows in southern California on dry, open or shaded hillsides, rocky slopes, and in montane pine woods, from 1500-2700 m.</discussion>
+</bio:treatment>

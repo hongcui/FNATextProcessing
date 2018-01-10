@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Cathestecum brevifolium Swallen </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; polygamous or dioecious; cespitose, forming dense, small clumps, stolonif¬erous, stolons thin, internodes to 10(12) cm, straight or only slightly arching. Culms 5-15 cm, erect or geniculate. Leaves primarily basal; lower sheaths densely villous basally, mostly glabrous or sparsely pilose distally, throats densely ciliate; blades 1-5 cm long, 1-2 mm wide, stiff, flat to involute, abaxial surfaces glabrous, adaxial surfaces scabrous and pilose, margins scabrous. Panicles with 3-10 branches; branches divergent, dimorphic, bearing staminate or bisexual spikelets, spikelets usually reddish  
+or purple. Staminate branches: all spikelets similar; lower glumes to 1 mm, often reduced to a scale, 0-1-veined; upper glumes 1/2 - 2/3 as long as the spikelets, nar¬rowly trullate to lanceolate, usually glabrous, veins sometimes sparsely pilose, glumes of the lateral spikelets about 2.5 mm, acute or acuminate, those of the central spikelets about 3 mm, minutely lobed and mucronate; lowest lemmas to 3 mm, sparsely pilose, with short lobes, mucronate between the lobes; distal lemmas to 2.5 mm, similar to the lowest lemmas but with deeper lobes; anthers 0.7-2 mm. Bisexual branches: lateral spikelets poorly developed, lower glumes to 1 mm, upper glumes to 2.5 mm, veins pilose, florets greatly reduced, sometimes just a cluster of awns, sterile (rarely staminate); central spikelets with glumes similar to those of the lateral spikelets; lowest florets pistillate, lemmas about 3 mm, scabrous, lobed, lobes about 1/4 as long as the lemmas, awned from the sinuses, awns slightly exceeding the lobes; distal florets staminate or sterile, about 2.5 mm, deeply lobed, awned from the sinuses, awns exceeding the lobes by 1-3 mm. 2n = 20, 40, 60, and 80.
+</description>
+  <discussion>The range of Cathestecum brevifolium extends from Ragged Top Mountain, Arizona, to El Salvador and Honduras. The Arizonan plants were originally identified as C. erectum but, like many Mexican popu¬lations of C. brevifolium, they have 2n = 60 and are dimorphic, consisting of relatively long-awned pistillate plants and more shortly-awned staminate plants (J.R. Reeder, pers. comm.).</discussion>
+</bio:treatment>

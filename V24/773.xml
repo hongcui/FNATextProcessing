@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>38</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa diaboli Soreng & D.J. Keil </name_authority_date>
+  </taxon_identification>
+  <common_names>DIABLO BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; loosely tufted, forming airy mounds to 30 cm across, shortly rhizomatous and stoloniferous. Basal branching extra-, pseudo-, and intravaginal. Culms 26-50 cm tall, 0.5-0.9 mm thick, bases decum¬bent or nearly erect, frequently branching above the base, terete or weakly compressed; nodes terete, 1-2 exserted. Sheaths closed for 2/5 – 7/10 their length, weakly keeled, sparsely scabrous, glabrous, bases of basal sheaths glabrous, distal sheath lengths 0.6-2.4 times blade lengths; collars scabrous or pubescent on the margins; ligules (1)2-3 mm, moderately densely scabrous, truncate, obtuse, or acute, lacerate to entire; innovation blades to 20 cm, adaxial surfaces sparsely scabrous, glabrous or hispidulous on and between the veins; cauline blades 1.5-2.4 mm wide, folded or flat, thin, soft, abaxial surfaces smooth, veins prominent, keel and margins scabrous, adaxial surfaces moderately scabrous over the veins, sparsely scabrous between the veins, apices narrowly prow-shaped, flag leaf blades 2.9-8.6(11) cm. Panicles (4)5.5-10.5(12.5) cm, erect, ovoid to broadly pyramidal, open, or eventually loosely contracted, sparse, with 10-40 spikelets; nodes with 1-2 branches; branches 2.1-4.5(7) cm, ascending, lax, angled, angles moderately to densely scabrous, less scabrous between the angles, with 1-9 spikelets. Spikelets 5.3-9 mm, lengths to 3 times widths, laterally compressed, not sexually dimorphic; florets (2)3-6(7); rachilla internodes 1-1.3 mm, visible from the sides, usually sparsely to densely, coarsely scabrous, infrequently smooth. Glumes distinctly keeled; lower glumes (2)2.7-3.8 mm, 3-veined, upper glumes (2.3)2.9-3.9 mm; calluses diffusely webbed, hairs 1/3-1/2 the lemma length; lemmas (3.2)4.25-5 mm, lanceolate to narrowly lanceolate, distinctly keeled, glabrous, moderately to densely, infrequently sparsely, scabrous, lateral veins prominent, margins narrowly scarious, glabrous, apices acute to narrowly acute; paleas 3/4  as long as to subequal to the lemmas, keels scabrous, intercostal regions scabrous; anthers (1.4)1.75-2.6 mm, or vestigial (0.1-0.2 mm). 2n = unknown.</description>
+  <discussion>Poa diaboli, which is sequentially gynomonoecious, is endemic to upper shaly slopes, in soft coastal scrub and openings in Bishop Pine stands, in the coastal mountains of San Luis Obispo County, California. It is closely related to P. confinis (see previous), from which it differs by a suite of characters. The two species are also ecologically and geographically distinct.</discussion>
+</bio:treatment>

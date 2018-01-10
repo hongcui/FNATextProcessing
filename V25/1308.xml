@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Melinis minutiflora P. Beauv. </name_authority_date>
+  </taxon_identification>
+  <common_names>MOLASSES GRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose; aromatic. Culms (50)80-150 cm, branching and sprawling, often becoming matted, usually rooting at the lower nodes; upper nodes appressed pubescent; internodes glabrous basally, appressed pubescent distally. Sheaths densely tomentose, hairs 0.5-5.2 mm, spreading, papillose-based, often sticky and smelling of linseed oil; ligules of hairs, 1-2 mm; blades 3.5-19 cm long, 4-14 mm wide, flat, pubescent, hairs sometimes papillose-based. Panicles (4.5)7-20 cm long, 1-9.5 cm wide, narrowly ovate; primary branches to 8 cm; pedicels usually shorter than the spikelets, glabrous, scabridulous. Spikelets 1.7-2.4 mm, usually purplish; calluses glabrous. Lower glumes absent or to 0.3 mm, glabrous, scabridulous; upper glumes 1.6-2.4 mm, glabrous, unawned, sometimes muticous; lower florets sterile; lower lemmas bilobed, lobes 0.2-0.7 mm, unawned or awned, awns to 18 mm; lower paleas absent; upper lemmas 1.4-1.9 mm, glabrous; upper paleas 1.5-1.9  mm,   usually slightly longer than the upper lemmas; anthers 3, 1-1.5 mm, reddish-brown to orange. Caryopses 0.9-1.2 mm long, 0.3-0.4 mm wide. 2n = 36.</description>
+  <discussion>Melinis minutiflora is native to Africa, but has been introduced throughout the tropics as a forage crop. It is now regarded as a serious weed in many places. In the Flora region, it is only known to be established in southern Florida.
+</discussion>
+</bio:treatment>

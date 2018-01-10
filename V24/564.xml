@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca subulata Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>BEARDED FESCUE</common_names>
+  <description type="morphology">Plants loosely cespitose, without rhizomes, with short extravaginal tillers. Culms (35)50-100(120) cm, erect or decumbent at the base, scabrous. Sheaths closed for less than 73 their length, glabrous or sparsely pubescent, shredding into fibers; collars glabrous; ligules 0.2-0.6(1) mm; blades 3-10 mm wide, flat or loosely convolute, abaxial and adaxial surfaces scabrous or puberulent, veins 13-29, ribs obscure; sclerenchyma in narrow abaxial and adaxial strands; pillars or girders formed at the major veins. Inflorescences 10-40 cm, open, with 1-2(5) branches per node; branches lax, usually spreading, sometimes reflexed. Spikelets 6-12 mm, with (2)3-5(6) florets. Glumes sparsely scabrous towards the apices, acuminate to subulate; lower glumes (1.8)2-3(4) mm; upper glumes (2)3-6 mm; calluses wider than long, glabrous, smooth or slightly scabrous; lemmas 5-9 mm, glabrous, sometimes sparsely scabrous, lanceolate, apices entire, acute to acuminate, awned, awns (2.5) 5-15(20) mm, terminal, straight, sometimes curved or kinked; paleas about as long as or slightly longer than the lemmas, intercostal region puberulent distally; anthers 1.5-2.5(3) mm; ovary apices pubescent. 2n = 28.</description>
+  <discussion>Festuca subulata grows on stream banks and in open woods, meadows, shady forests, and thickets, to about 2800 m. Its range extends from the southern Alaska panhandle eastward to southwestern Alberta and western South Dakota, and southward to central California and Colorado.
+Festuca subulata differs from F. subuliflora (p. 406) in having blunter, glabrous calluses and glabrous, often scabrous or puberulent leaf blades that are obscurely ribbed.
+</discussion>
+</bio:treatment>

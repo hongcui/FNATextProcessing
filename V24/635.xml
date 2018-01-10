@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Schedonorus giganteus (L.) Holub </name_authority_date>
+  </taxon_identification>
+  <common_names>GIANT FESCUE</common_names>
+  <description type="morphology">Plants perennial. Culms to 1.5 m. Leaves convolute in young shoots; auricles glabrous; ligules 0.5-2.5 mm; blades (10)20-40 cm long, 4-18 mm wide. Panicles 8-50 cm; branches usually 2 per node. Spikelets 8-13(20) mm long, 1.5-2.5 mm wide, with 3-10 florets. Lower glumes 4-7 mm; upper glumes 5-8 mm; lemmas 6-9 mm, usually scabrous or hispidulous, rarely smooth, awns 10-18 mm; paleas as long as to slightly longer than the lemmas; anthers 2.5-3 mm. Caryopses 3-4.6 mm long, 1-1.5 mm wide. 2n = 42.</description>
+  <discussion>Schedonorus giganteus is adventive from Europe. It is cultivated as an ornamental, and has escaped to woodland openings and edges and to shaded ravines, at isolated localities in Quebec, Ontario, Michigan, New York, and Connecticut.</discussion>
+</bio:treatment>

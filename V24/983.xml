@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>M.J. Harvey</author>
+    </source>
+  </meta>
+  <number>14.43</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>LACHNAGROSTIS Trin.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual, or short-lived perennials; cespitose, sometimes rhizomatous. Culms 10-80 cm, erect or geniculately ascending. Sheaths open, rounded over the midvein; auricles absent; ligules membranous; blades flat or folded, margins sometimes involute. Inflorescences panicles, lax. Spikelets pedicellate, with 1(2) floret(s), laterally compressed; rachillas prolonged beyond the base of the floret, sometimes equaling the paleas and the apices hairy, or minute and glabrous; disarticulation above the glumes, beneath the floret, in perennial species the panicles detaching with a portion of the uppermost cauline nodes at maturity, in annual species the panicles persistent. Glumes equal to subequal, exceeding the florets, ovate-elliptic to lanceolate, membranous, l(3)-veined, lateral veins much shorter than the midveins, keels scabridulous to scabrous, apices unawned; calluses minute, blunt, usually hairy, sometimes glabrous, hairs 1/5 – 2/3 the length of the lemmas; lemmas usually shorter and more flexible than the glumes, rarely as long as and firmer than the glumes, usually hairy, sometimes glabrous, rarely scabrous, (3)5-veined, rounded over the midveins, apices often denticulate, marginal veins slightly excurrent, apices erose or toothed, usually awned, sometimes unawned, awns not or only slightly exceeding the glumes, attached near midlength or subapically, dorsal awns straight or geniculate, subapical awns straight; paleas from 1/2 as long as to equaling the lemmas, hyaline, weakly 2-keeled; lodicules 2, linear to lanceolate, glabrous; anthers 3, not penicillate; ovaries glabrous; styles 2. Caryopses shorter than the lemmas, concealed at maturity, fusiform, endosperm doughy or dry.</description>
+  <discussion>Lachnagrostis includes about 20 species. It is native to the Southern Hemisphere, having its greatest concentration in Australasia. One species is established in the Flora region.
+ Lachnagrostis has usually been included in Agrostis. Its recognition as a segregate genus is supported by studies of both genera by Edgar (1995), Edgar and Connor (2000), Jacobs (2001), and Rugolo de Agrasar and Molina (2002). Lachnagrostis differs from Agrostis in its combination of sometimes disarticulating panicles, paleas at least half as long as the lemmas, well-developed, sometimes hairy rachilla prolongations, and smooth lemma epidermes in which the walls of the long cells are wavy and more or less flush with the surface rather than raised. Both genera have individual species that resemble the other species in one of these features, but there is usually no difficulty in placing them in the correct genus.
+</discussion>
+  <references>Edgar, E. 1995. New Zealand species of Deyeuxia P. Beauv. and Lachnagrostis Trin. (Gramineae: Aveneae). New Zealand J. Bot. 33:1-33; Edgar, E. and H.E. Connor. 2000. Flora of New Zealand, vol. 5. Manaaki Whenua Press, Lincoln, New Zealand. 650 pp.; Jacobs, S.W.L. 2001. The genus Lachnagrostis (Gramineae) in Australia. Telopea 9:439-448; Rugolo de Agrasar, Z.E. and A.M. Molina. 2002. El genero Lachnagrostis (Gramineae: Agrostideae) en America del Sur. Pp. 20-32 in A. Freire Fierro and D.A. Neill (eds.). 2002. La Botanica en el Nuevo Milenio: Memorias del Tercer Congresso Ecuatoriano de Botanica. FUNBOTANICA, Quito, Ecuador. 250 pp.
+ 
+</references>
+</bio:treatment>

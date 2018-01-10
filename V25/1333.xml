@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>18</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Urochloa maxima (Jacq.) R.D. Webster </name_authority_date>
+  </taxon_identification>
+  <common_names>GUINEA GRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, with short, thick rhizomes.  Culms (60)100-250 cm tall, about 10 mm thick, mostly erect, sometimes geniculate and rooting at the lower nodes; nodes pubescent or glabrous. Sheaths usually shorter than the internodes, glabrous or pubescent, sometimes with papillose-based hairs, margins sometimes ciliate; collars densely pubescent, hairs appressed or divergent; ligules 1-3 mm; blades (15)30-75(100) cm long, 10-35 mm wide, flat, erect or ascending, glabrous or pubescent, sometimes with appressed papillose-based hairs, margins scabrous, sometimes ciliate basally, midveins conspicuous, sunken, whitish. Panicles 20-65 cm, about 1/3 as wide as long, open, rachises smooth or scabrous; primary branches usually more than 20, 12-40 cm, axes 0.4-0.6 mm wide, not winged, ascending, those of the lower node(s) verticillate and pilose at the base, upper axils glabrous, lower branches naked basally; secondary and tertiary branches well-developed; pedicels 0.5-1.5 mm, unequal, straight or curved, glabrous or with a single setaceous hair near the apex. Spikelets 2.7-3.6 mm long, 0.9-1.1 mm wide, oblong-ellipsoid, usually glabrous (rarely densely covered with papillose-based hairs), solitary, paired (or in triplets), usually appressed to the branch axes. Glumes scarcely separate, rachilla between the glumes not pronounced; lower glumes 0.8-1.2 mm, 1-3-veined, obtuse or truncate, glabrous; upper glumes 2.1-3.5 mm, 5-veined, glabrous; lower lemmas 2.1-3.5 mm, subequal, glabrous, 5-veined, without cross venation, acute, muticous or mucronate; lower florets staminate; upper lemmas 1.9-2.4 mm, ellipsoid, pale, glabrous, apices acute, mucronulate; anthers 1.2-2.2 mm. 2n = 18, 32, 36, 44, 48.</description>
+  <discussion>Urochloa maxima is an important forage grass that is native to Africa. In the Flora region, it grows in fields, waste  places,   stream   banks,   and  hammocks.   It  is  cultivated widely as a forage grass at low elevations, especially near the coast, and often escapes.
+There are usually two varieties recognized. Only Urochloa maxima (Jacq.) R.D. Webster var. maxima, which has glabrous spikelets, is known in the Flora area. Specimens with densely pubescent spikelets belong to U. maxima var. trichoglumis (Robyns) R.D. Webster.
+</discussion>
+</bio:treatment>

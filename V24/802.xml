@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Poa sect. Stenopoa Dumort.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; densely to loosely tufted, not rhizomatous, infrequently stoloniferous. Basal branching all or mostly extravaginal. Culms 5-120 cm, terete or slightly compressed; nodes terete or slightly compressed. Sheaths closed for 1/10 – 1/5 their length, terete or slightly compressed, smooth or sparsely scabrous, distal sheaths shorter or longer than their blades; ligules 0.2-6 mm, usually scabrous, sometimes smooth, apices truncate or obtuse and usually ciliolate, or acute and not ciliolate; blades 0.8-8 mm wide, mostly flat, sometimes folded, moderately thin, abruptly ascending to spreading, lax or straight, margins scabrous, adaxial surfaces usually scabrous over the veins, apices narrowly prow-shaped. Panicles 1-30(41) cm, erect or lax, open, narrowly lanceoloid to ovoid, sparse to moderately congested; nodes with 2-9 branches; branches 0.4-15 cm, erect to reflexed, angled, angles scabrous. Spikelets 3-8(9) mm, lengths 2-3.5 times widths, narrowly lanceolate to narrowly ovate, laterally compressed, rarely bulbiferous; florets (1)2-5, bisexual, rarely bulb-forming; rachilla internodes mostly shorter than 1 mm, frequently muriculate or scabrous or pubescent. Glumes subulate to broadly lanceolate, distinctly keeled, keels smooth or sparsely scabrous; lower glumes 3-veined; calluses terete or slightly laterally compressed, glabrous or dorsally webbed; lemmas 2-4 mm, narrowly to broadly lanceolate, distinctly keeled, coriaceous-membranous, usually finely muriculate, keels and marginal veins long- to short-villous, intercostal regions glabrous or softly puberulent to short-villous, lateral veins obscure, apices usually partially bronze-colored; palea keels scabrous, sometimes softly puberulent at midlength, intercostal regions glabrous or puberulent; anthers 3, 0.8-2.5 mm.</description>
+  <discussion>Poa sect. Stenopoa includes 30 species. Most are Eurasian; three are native in, and one is restricted to, the Flora region. The North American species are cespitose or weakly stoloniferous, and have sheaths open for much of their length, scabrous panicle branches, and faint lateral lemma veins. The new shoots for the following year are initiated late in the growing season, after flowering and fruiting; vegetative and flowering shoots are usually not present at the same time.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Ixophorus unisetus (J. Presl) Schltdl. </name_authority_date>
+  </taxon_identification>
+  <common_names>TURKEY GRASS, CRANE GRASS</common_names>
+  <description type="morphology">Culms 15-150 cm tall, 1-10 mm thick. Ligules 1-1.5 mm; blades 5-60 cm long, usually 1-2 cm wide. Panicles 10-25 cm, with 4-50 branches. Spikelets 3-4 mm. </description>
+  <discussion>Ixophorus unisetus has been collected in Kleberg County, Texas, where it was being evaluated for its forage potential. It is not known to be established in the Flora region. </discussion>
+</bio:treatment>

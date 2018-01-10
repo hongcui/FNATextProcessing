@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Alopecurus arundinaceus Poir. </name_authority_date>
+  </taxon_identification>
+  <common_names>CREEPING MEADOW FOXTAIL, VULPIN ROSEAU</common_names>
+  <description type="morphology">Plants short-lived perennials; rhizomatous. Culms 30-110 cm, erect. Ligules 1.3-5 mm, truncate; blades 6-40 cm long, 3-12 mm wide; upper sheaths somewhat inflated. Panicles 3-10 cm long, 7-13 mm wide. Glumes 3.6-5 mm, connate in the lower 1/5-1/3, membranous, sparsely pubescent, keels not winged, ciliate, apices acute, divergent, pale green to lead-gray; lemmas 3.1-4.5 mm, connate in at least the lower 1/3, usually glabrous, sometimes with scattered hairs near the apices, apices truncate to obtuse, awns 1.5-7.5 mm, geniculate, exceeding the lemmas by 0-3 mm; anthers 2.2-3.5 mm. 2n = 26, 28, 30.</description>
+  <discussion>Alopecurus arundinaceus is native to Eurasia, extending north of the Arctic Circle and south to the Mediterranean. It grows in wet, moderately acid to moderately alkaline soils, on flood plains, near vernal ponds, and along rivers, streams, bogs, potholes, and sloughs. It was introduced for pasture in North Dakota and now occurs more widely, having been promoted as a forage species. It is sometimes used in seed mixtures for revegetation projects. It was evaluated for revegetation in Alberta, but there is no evidence that it was ever actually used in that province. Alopecurus arundinaceus suppresses Hordeum jubatum, a trouble¬some, unpalatable, weedy species, in irrigated pastures (Moyer and Boswall 2002).</discussion>
+</bio:treatment>

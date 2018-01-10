@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Echinochloa frumentacea Link </name_authority_date>
+  </taxon_identification>
+  <common_names>SIBERIAN MILLET, WHITE PANIC</common_names>
+  <description type="morphology">Plants annual. Culms 70-150 cm, erect, glabrous. Sheaths glabrous; ligules absent; blades 8-35 cm long, 3-20(30) mm wide, glabrous. Panicles 7-18 cm, erect to slightly drooping at maturity, rachises not or only sparsely hispid, nodes with papillose-based hairs; branches numerous, appressed or ascending, spikelike, not or only sparsely hispid, hairs papillose-based; primary branches 1.5-4 cm, glabrous or sparsely hispid, hairs to 3 mm, papillose-based; secondary branches, if present, usually concealed by the densely packed spikelets; longer pedicels 0.2-0.5 mm. Spikelets 3-3.5 mm, often with 1 sterile and 2 bisexual florets, not disarticulating at maturity (particularly those near the bases of the panicles), scabrous or short-hispid but without papillose-based hairs, green and pale at maturity, apices usually obtuse, varying to acute. Upper glumes narrower and shorter than the upper lemmas; lower florets sterile; lower lemmas unawned; lower paleas subequal to the lower lemmas; upper lemmas 2.5-3 mm, ovate to elliptic, coriaceous portion terminating abruptly at the base of the membranous tip; anthers 0.8-1 mm. Caryopses 1.7-2.2   mm long, 1.6-1.8 mm wide, whitish; embryos 66-86% as long as the caryopses. 2n = 54.</description>
+  <discussion>Echinochloa frumentacea originated in India, and possibly also in Africa. It is grown for grain, fodder, and beer, but not as extensively as in the past. It is found occasionally in the contiguous United States and southern Canada, the primary source being birdseed mixes. It used to be confused with E. esculenta, from which it differs in its whitish caryopses and proportionately smaller embryos. Hybrids between E. frumentacea and E. colona are partially fertile; those with E. esculenta are sterile.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Pharus glaber Kunth</name_authority_date>
+  </taxon_identification>
+  <common_names>Pharus glaber Kunth</common_names>
+  <description type="morphology">Plants cespitose. Culms 25-95 cm, generally decumbent and rooting at the nodes. Sheaths glabrous, extensively overlapping; ligules 1-2 mm; pseudopetioles 8-60 mm; blades 7-30 cm long, 2-6.5 cm wide, narrowly elliptic to obovate, often acuminate, lacking intercostal fibrous bands, sometimes whitened beneath, lateral veins diverging from the midvein at a 4-8° angle. Panicles 10-40 cm, sparsely flowered; branches solitary, with uncinate hairs, usually tipped with a staminate spikelet. Staminate spikelets 2.5-3.5 mm, on 4-11 mm pedicels, subtending the pistillate spikelets, purple; lower glumes 1-2 mm; upper glumes 1.5-3.2 mm, 1- or 3-veined; lemmas 2.5-3.5 mm; paleas about 3/4  the length of the lemmas; anthers 0.9-1.1 mm. Pistillate spikelets 7.5-12 mm, diverging slightly from the branches; glumes brown; lower glumes 5-7 mm, 5-7-veined; upper glumes 6-8 mm, 3-5-veined; lemmas 7.5-12 mm, linear-oblong, abruptly short-beaked, with uncinate hairs nearly to the base; paleas equaling the lemmas. 2n = 24.</description>
+  <discussion>Pharus glaber grows on limestone-influenced sand in the hammocks of central Florida. Only two remaining populations are known in the United States, but the species is still widely present elsewhere in the Neotropics. Hitchcock (1951) erroneously referred this species to Pharus parvifolius Nash, which differs primarily in the presence of intercostal fibrous bands on the adaxial surfaces of the leaf blades.</discussion>
+</bio:treatment>

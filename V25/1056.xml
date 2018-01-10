@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Digitaria bakeri (Nash) Fernald </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose. Culms 40-90 cm, erect, unbranched, glabrous; nodes 1-2. Sheaths densely hairy, hairs papillose-based; ligules 0.8-2.2 mm; blades 10-24 cm long, 2-4.5 mm wide, with papillose-based hairs. Panicles with 2-3 spikelike primary branches on 4-7 mm rachises; secondary branches rarely present; primary branches  (5)10-22  cm, axes 0.5-0.6 mm wide, not wing-margined, middle portions of the branches bearing spikelets in groups of 3; pedicels appressed to the axes. Spikelets 2.3-2.4 mm, lanceolate to oblanceolate-elliptic; lower glumes absent; upper glumes 1.4-1.5 mm, more than 1/2 as long as the spikelets, 3-veined, truncate to acute, mostly glabrous, apices sparsely hairy; lower lemmas about as long as the spikelets,  7-veined,  mostly glabrous,  apices  sparsely hairy; upper lemmas 2.3-2.4 mm, dark brown to black, apiculate; anthers 1-1.1 mm. 2n = unknown.</description>
+  <discussion>Digitaria bakeri grows in pastures, particularly horse pastures, from Florida through Mexico to Panama. It is probably more widespread in Florida than the map suggests but, because of its inclusion in D. gracillima, little information is available at present.</discussion>
+</bio:treatment>

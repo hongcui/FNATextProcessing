@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Imperata brevifolia Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>SATINTAIL</common_names>
+  <description type="morphology">Culms 51-129 cm. Ligules 0.7-2.9 mm; blades 7-14 mm wide, linear to lanceolate, abaxial surfaces smooth, adaxial surfaces sometimes densely pilose basally, otherwise scabrous. Panicles 16-34 cm, dense; lower branches 2-5 cm, divergent. Callus hairs 8-12 mm; glumes 2.7-4.1 mm; lower lemmas 2.5-3.9 mm, membranous, glumelike; upper lemmas 1.4-2.4 mm, completely surrounding the ovary; stamens 1, filaments dilated at the base; anthers 1.3-2.3 mm, yellow to orange; styles 0.9-2.4 mm; stigmas 2.1-4 mm, purple to brown. 2n = 20.</description>
+  <discussion>Once known from wet or moist sites in the southwestern deserts from southern California, Nevada, and Utah to western Texas, Imperata brevifolia is currently known only from populations in Grand Canyon National Park. It was last collected outside the park in the early 1970s at a site that is now under Lake Powell. Most collections were made before 1945, in sites that are now used for housing or agriculture.
+Imperata brevifolia is listed as a noxious weed by the state of California. The reason for the listing is not clear; it may stem from confusion of this native species with one of the introduced weedy species.
+</discussion>
+</bio:treatment>

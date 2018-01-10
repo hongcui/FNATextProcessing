@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Hordeum brachyantherum subsp. californicum (Covas 8c Stebbins) Bothmer, N. Jacobsen & Seberg </name_authority_date>
+  </taxon_identification>
+  <common_names>CALIFORNIA BARLEY</common_names>
+  <description type="morphology">Plants loosely cespitose. Culms 20-65 cm, usually slender. Basal sheaths usually densely pubescent; blades to 11.5 cm long, to 3.5(5.5) mm wide, usually hairy with spreading hairs of mixed lengths on both sides, rarely glabrous or almost glabrous. Glumes 9-19 mm, usually spreading at maturity; lemmas usually awned, awns to 7.5 mm, usually divergent at maturity; anthers 1.1-4 mm. 2n = 14.</description>
+  <discussion>Hordeum brachyantherum subsp. californicum is restricted to California. It grows on dry and moist grass slopes, in meadows and rocky stream beds, along stream margins, and around vernal pools, in oak woodlands and disturbed ground, and in serpentine, alkaline, and granitic soils, up to 2300 m. Records from outside California, and many from inside California, are based on misidentified specimens, usually of H. brachyantherum subsp. brachyantherum.</discussion>
+</bio:treatment>

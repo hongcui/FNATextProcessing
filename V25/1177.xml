@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Dichanthelium dichotomum subsp. lucidum (Ashe) Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms occasionally more than 60 cm, very slender, weak; nodes usually glabrous; internodes often flattened, green, glabrous; fall phase with reclining or decumbent culms and numerous axillary branches, branches elongated and widely divergent, not forming fascicles. Cauline sheaths usually shorter than the internodes, glabrous; blades slightly smaller than those of the other subspecies, ascending or spreading, often lustrous, bright green, glabrous throughout. Primary panicles slightly smaller and with fewer spikelets than in the other subspecies (particularly subsp. dichotomum, which it closely resembles). Spikelets 1.8-2.3 mm, ellipsoid, usually glabrous, obtuse to subacute; upper florets 1.7-2 mm. 2n = unknown.</description>
+  <discussion>Dichanthelium dichotomum subsp. lucidum grows in wet woods, the margins of cypress swamps, sphagnum bogs, and other similar, wet habitats. It is primarily a species of the coastal plain, ranging from New Jersey to Florida, southeastern Texas, and up the Mississippi embayment to western Tennessee and, as a disjunct, on the Indiana Dunes of Lake Michigan.</discussion>
+</bio:treatment>

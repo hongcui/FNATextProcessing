@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>48</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia peruviana (P. Beauv.) Steud. </name_authority_date>
+  </taxon_identification>
+  <common_names>PERUVIAN MUHLY</common_names>
+  <description type="morphology">Plants annual; tufted. Culms 3-27 cm, erect, glabrous.
+Sheaths usually longer than the internodes, smooth or scabridulous; ligules 1.5-3 mm, membra nous, acute; blades 1-5 cm long, 0.6-1.5 mm wide, flat to involute, smooth or scabridulous abaxially, sometimes shortly pubescent adaxially. Panicles 2-8 cm long, 0.3-3.4 cm wide, contracted or open; primary branches 1-5 cm, diverging up to 80° from the rachises; pedicels 0.4-5 mm, smooth or scabrous. Spikelets 1.4-4.2 mm. Glumes smooth or scabridulous; lower glumes 0.8-2.8 mm, narrow to broadly lanceolate, 1-veined, acute, often awn-tipped; upper glumes 0.9-3 mm, wider than the lower glumes, lanceolate, (l)2-3-veined, truncate to acute, 2- or 3-toothed; lemmas 1.4-4.2 mm, widest near the base, purplish mottled with dark green, hairy on the calluses and lower M of the lemma bodies, hairs to 0.5 mm, apices acuminate, usually bifid and awned from between the teeth, teeth to 0.5 mm, awns 3-10 mm, flexuous, purplish; paleas 1.3-3.8 mm, narrowly lanceolate, acuminate to subacute; anthers 0.5-1 mm, purplish to yellowish. Caryopses 1-1.6 mm, fusiform, brownish. 2n = 30.
+</description>
+  <discussion>Muhlenbergia peruviana grows in open gravelly flats, meadows, rock outcrops, sandy washes, gravelly drainages, rocky slopes, disturbed road cuts, and volcanic flats, in yellow pine forest associations, at elevations of 2000-4600 m. Its primary distribution is to the south of the Flora region, extending from the southwestern United States through Mexico to Ecuador, Peru, Bolivia, and Argentina.
+As treated here, Muhlenbergia peruviana includes what are sometimes identified as M. pulcherrima Scribn. ex Beal, M. pusilla Steud., and M. peruviana s. s. There are, however, numerous intermediates among the three extremes represented by these names.
+</discussion>
+</bio:treatment>

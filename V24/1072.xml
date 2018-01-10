@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Hans J. Conert  </author>
+    </source>
+  </meta>
+  <number>14.59</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>MIBORA Adans.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual; tufted. Culms 2-15 cm tall, to 0.3 mm wide, erect. Leaves primarily basal; sheaths closed almost to the top; auricles absent; ligules about 1 mm, hyaline, truncate; blades 0.3-1 mm wide, flat or involute. Inflorescences single, terminal, spikelike racemes; rachises smooth, glabrous, with 1 spikelet per node; pedicels 0.2-1 mm long, 0.1-0.2 mm thick. Spikelets imbricate, in 2 rows on 1 side of the rachis, slightly laterally compressed, with 1 floret; rachillas not prolonged beyond the base of the floret; disarticulation above the glumes, beneath the floret. Glumes subequal, exceeding the florets, membranous, glabrous, flexible, smooth, 1-veined. rounded on the back, unawned; calluses glabrous; lemmas about 2/3 the length of the spikelets, elliptical in side view, thinner than the glumes, 5-veined, shortly and densely pubescent throughout, unawned, apices truncate, often denticulate; paleas about as long as the lemmas, 2-veined. shortly and densely pubescent between the inconspicuous keels; lodicules 2; anthers 3; ovaries glabrous; styles fused at the base, dividing into 2 feathery stigmas. Caryopses elliptical, terete, 2/3 the length of the lemmas, enclosed by, but not fused to, the lemma and palea at maturity; embryos about 1/5 the length of the caryopses, elliptic; hila punctate, basal, x = 7.</description>
+  <discussion>Mibora is a genus of two species, both of which grow in damp, sandy soils. Mibora minima, the species that has been introduced to the Flora region, grows throughout much of western Europe. The second species, M. maroccana (Maire) Maire, is restricted to northwest Africa.</discussion>
+  <references>Conert, H.J. 1985. Mibora. Pp. 206-210 in G. Hegi. Illustrierte Flora von Mitteleuropa, ed. 3. Band I, Teil 3, Lieferung 3, Bg. 11-15 (pp. 161-240). Verlag Paul Parey, Berlin and Hamburg, Germany.</references>
+</bio:treatment>

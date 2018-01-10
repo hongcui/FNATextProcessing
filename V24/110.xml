@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Melica frutescens Scribn. </name_authority_date>
+  </taxon_identification>
+  <common_names>WOODY MELIC</common_names>
+  <description type="morphology">Plants densely cespitose, not rhizomatous. Culms 60-200 cm, not forming corms, often branched from the lower nodes; internodes smooth. Sheaths glabrous, sometimes scabridulous, sometimes purplish; ligules 2.5-9 mm; blades 2-5 mm wide, abaxial sufaces scabridulous, adaxial surfaces puberulent. Panicles 12-40 cm; branches 3.5-9 cm, appressed, with 5-15 spikelets; pedicels straight; disarticulation above the glumes. Spikelets 9-18 mm, with 3-5 bisexual florets; rachilla internodes 1-1.3 mm, not swollen when fresh, not wrinkled when dry. Lower glumes 7-12 mm long, 2-3 mm wide, 5-7-veined; upper glumes 8-15 mm long, 2.5-3.5 mm wide, 5-7-veined; lemmas 8-11 mm, glabrous, chartaceous for the distal 1/3 or more, 7-9-veined, sometimes purplish basally, veins inconspicuous, apices rounded to acute, unawned; paleas about 3/4 the length of the lemmas; anthers 3, 1-2 mm; rudiments 2-6 mm, blunt, enclosed in empty lemmas resembling those of the bisexual florets. 2n = 18.</description>
+  <discussion>Melica frutescens grows from 300-1500 m in the dry hills and canyons of southern California, Arizona, and adjacent Mexico. Boyle (1945) stated that its seeds remain viable longer than those of other North American species of Melica; he gave no information on how long.</discussion>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>35</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca frederikseniae E.B. Alexeev </name_authority_date>
+  </taxon_identification>
+  <common_names>FREDERKSEN'S FESCUE, FÉTUQUE DE FREDERIKSEN</common_names>
+  <description type="morphology">Plants densely cespitose, without rhizomes. Culms (5)10-35 (45) cm, pubescent near the inflorescence. Sheaths closed for about 1/2 their length, glabrous or puberulent, persistent; collars glabrous; ligules 0.2-0.5 mm; blades 0.5-0.8 mm in diameter, conduplicate, abaxial surfaces glabrous, smooth or scabrous, adaxial surfaces scabrous or hirsute, veins (3)5-7, ribs 3-5, 1 distinct and 2-4 indistinct; abaxial sclerenchyma in 3-7 broad, sometimes confluent strands, covering 1/2 or more of the surface. Inflorescences (1.5)2-10 cm, contracted, with 1(2) branches per node; branches erect, stiff, lower branches with 2+ spikelets. Spikelets pseudoviviparous, varying in length with the stage of vegetative proliferation, the glumes and often 1 or 2 adjacent florets more or less normally developed or only slightly elongated, the distal florets replaced by leafy bracts. Glumes ovate-lanceolate, densely puberulent to pubescent throughout; lower glumes 2-4.5 mm; upper glumes (2.7)3.8-5.2 mm; normal lemmas 3.5-5 mm, densely hairy to pubescent, sometimes awned, awns to 0.2 mm; vegetative bracts unawned, leaflike, sometimes with ligules; paleas usually reduced or absent, well-formed paleas about as long as the lemmas; anthers usually poorly developed and the pollen sterile, well-formed anthers to about 2.5 mm; ovary apices glabrous. 2n = 28.</description>
+  <discussion>Festuca frederikseniae grows on cliffs, rocky or sandy barrens, and alpine regions in southern Quebec (Mingan and Anticosti islands), Newfoundland, southern Labrador, and southern Greenland. It differs from F. vivipara (L.) Sm. of northern Europe and Asia in having densely pubescent spikelet bracts and fascicles, and an interrupted rather than continuous band of blade sclerenchyma. Frederiksen (1981) reported that F. vivipara occurs in southeastern Greenland, overlapping the range of F. frederikseniae and extending as far north as the southerly occurrences of F. viviparoidea subsp. viviparoidea; her paper should be consulted when trying to distinguish the complex pseudoviviparous fescues of Greenland.
+In Iceland and southern Greenland, putative hybrids between Festuca frederikseniae or F. vivipara and F. rubra (p. 412) have been reported, and named F. villosa-vivipara (Rosenv.) E.B. Alexeev. These plants are highly variable but, unlike F. frederikseniae, produce extravaginal shoots, have closed sheaths, and have blades about 1 mm wide, with 7-9 small strands of abaxial sclerenchyma. Such hybrids can be expected within the range of F. frederikseniae in North America.
+Festuca frederikseniae has frequently been included in F. ovina (p. 422).</discussion>
+</bio:treatment>

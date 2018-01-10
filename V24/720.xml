@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa bulbosa L. subsp. bulbosa</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 15-25 cm. Spikelets not bulbiferous; florets all normal. Calluses webbed; lemmas short-villous on the keels and marginal veins, intercostal regions sparsely softly puberulent; anthers 1.2-1.5 mm. 2n = unknown. </description>
+  <discussion>Poa bulbosa subsp. bulbosa is common in its native Europe. It is uncommon in the Flora region, with the only known collections being from Drake, Butler, and Preble counties, Ohio. Whether these collections represent independent introductions or reversion to reproduction by seed is not known.</discussion>
+</bio:treatment>

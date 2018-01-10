@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>24</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Panicum tenerum Beyr. ex Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>BLUE-JOINT PANICGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, with short, knotted rhizomes. Culms 40-100   cm, erect, simple or branching from the lower nodes; nodes glabrous; internodes glabrous. Sheaths shorter than the internodes, usually glabrous, lower sheaths sometimes pilose at the summit, hairs papillose-based; ligules 0.1-0.4 mm; blades 4-19 cm long, 1.5-4 mm wide, mostly involute at maturity, erect, firm, abaxial surfaces  usually glabrous,  adaxial surfaces  often sparsely pilose, particularly basally. Panicles 3-12 cm long, less than 1 cm wide, contracted, with few spikelets; branches 1-4 cm, few, ascending-appressed; ultimate branchlets 1-sided; pedicels 0.5-3 mm, scabridulous, appressed, usually with a few slender hairs at the apices. Spikelets 1.8-2.8 mm long, 0.8-1 mm wide, usually subsessile, lanceoloid to narrowly ovoid, green, often purplish-stained, glabrous, acute. Lower glumes 0.9-3 mm, 1/2 - 2/3 as long as the spikelets, 1-3-veined, not keeled over the midveins, acute or obtuse; upper glumes and lower lemmas subequal, 5-7-veined, midveins not keeled, acute to short-acuminate, occasionally gaping at the apices; lower florets sterile; lower paleas about 1/2 - 2/3 as long as the lower lemmas; upper florets 1.1-1.8 mm long, 0.6-0.8 mm wide, 2/5 – 3/4 as long as the spikelets, lustrous, usually brownish, apices glabrous; upper lemmas thick, stiff, clasping the upper paleas throughout their length. 2n = 20.</description>
+  <discussion>Panicum tenerum grows in wet or moist, sandy (often peaty) soil, depressions in pine savannahs, bogs, marshes, pond margins, and interdunal swales. Its range includes the Atlantic and Gulf coastal plains of the United States, the Antilles, Bahamas, and Central America. Panicum tenerum exhibits numerous features of the widespread and polymorphic P. rigidulum, particularly P. rigidulum subsp. pubescens.</discussion>
+</bio:treatment>

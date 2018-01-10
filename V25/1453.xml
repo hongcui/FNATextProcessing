@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum blodgettii Chapm. </name_authority_date>
+  </taxon_identification>
+  <common_names>CORAL PASPALUM</common_names>
+  <description type="morphology">Plants perennial; cespitose, bulbous; scales pubescent. Culms 40-100 cm, erect; nodes glabrous. Sheaths pubescent or glabrous; ligules 0.2-0.4 mm; blades 5-27 cm long, 1.9-8 mm wide, flat, glabrous, pubescent behind the ligules, margins scabrous, often ciliate basally. Panicles terminal, with 2-6 racemosely arranged branches; branches 1.5-7.5 cm, diverging to spreading; branch axes 0.5-0.8 mm wide, narrowly winged, terminating in a spikelet. Spikelets 1-1.3 mm long, 0.7-0.9 mm wide, paired, appressed to the branch axes, elliptic to elliptic-obovate, glandular pubescent, stramineous to light or golden brown. Lower glumes absent; upper glumes and lower lemmas 3-veined; upper florets 0.8-1.1 mm, stramineous. Caryopses 0.9-1.1 mm in diameter, orbicular, amber. 2n = 40.</description>
+  <discussion>Paspalum blodgettii grows in hammocks, low pinelands, and along roadsides in southern peninsular Florida, the Bahamas, the Greater Antilles, southeastern Mexico, and Belize.</discussion>
+</bio:treatment>

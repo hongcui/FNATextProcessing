@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Leptochloa virgata (L.) P. Beauv</name_authority_date>
+  </taxon_identification>
+  <common_names>TROPICAL SPRANGLETOP</common_names>
+  <description type="morphology">Plants perennial. Culms 30-200 cm, erect, occasionally geniculate below, compressed, branched; internodes solid. Sheaths glabrous, scabrous, or sparsely pilose below, hairs never papillose-based; ligules 0.3-1 mm, truncate, firmly membranous, fimbriate or erose, some¬times pilose at the sides; blades 5-45 cm long, 4-10 mm wide, glabrous abaxially, glabrous or sparsely pilose adaxially. Panicles 5-60 cm, with 9-25 usually racemose (rarely subdigitate) branches; secondary panicles not present in the lower sheaths; branches (1.5)3-18 cm, erect to spreading, somewhat flexible. Spikelets 2.5-4 mm, imbricate to distant, with 3-6(8) florets. Lower glumes 1.7-2.9 mm, lanceolate, acute; upper glumes 1.7-3.8 mm, lanceolate to ovate, acute, acuminate, rarely mucronate; lemmas (1.5)2.3-3.6 mm, ovate, chartaceous, veins sericeous, apices usually acute, rarely obtuse, unawned, mucronate, or awned, awns to 11 mm; paleas glabrous; anthers 2, 0.2-0.5 mm. Caryopses 1-1.8 mm long, about 0.5 mm wide, narrowly elliptic to ovate, somewhat laterally compressed. 2n = 40.</description>
+  <discussion>Leptochloa virgata is a common neotropical species that extends from the southeastern United States through the West Indies to Argentina. Awn length and lemma pubescence vary continuously and independently, precluding their use in recognizing additional taxa.</discussion>
+</bio:treatment>

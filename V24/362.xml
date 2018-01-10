@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Signe Frederiksen</author>
+    </source>
+  </meta>
+  <number>13.02</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>EREMOPYRUM (Ledeb.) Jaub. & Spach</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual. Culms 3-40 cm, geniculate. Sheaths open for most of their length; auricles present, often inconspicuous; ligules 0.4-2 mm, membranous, truncate; blades 1-6 mm wide, flat, linear. Inflorescences distichous spikes, 0.8-4.5 cm, with 1 spikelet per node, usually erect when mature; rachis internodes flat, margins glabrous or with hairs, hairs white; middle internodes 0.5-3 mm; disarticulation in the rachises, at the nodes beneath each spikelet, or at the base of each floret. Spikelets 6-25 mm, including the awns, more than 3 times the length of the internodes, divergent, laterally compressed, with 2-5 bisexual florets, sterile florets distal or absent. Glumes equal, 4-19 mm, including the awns, coriaceous, becoming indurate, 1-keeled initially, sometimes 2-keeled at maturity, keels glabrous or hairy, never with tufts of hair, bases slightly connate, apices tapering to a sharp point or straight awn; lemmas 5-24 mm, coriaceous, rounded basally, keeled distally, 5-veined, unawned or shortly awned; paleas usually shorter and thinner than the lemmas, 2-keeled, ciliate or scabrous distally, keels sometimes prolonged into 2 toothlike appendages; anthers 3, 0.4-1.3 mm, yellow. Ovaries pubescent; styles 2, free to the base, x = 7. Haplomes F, Xe. </description>
+  <discussion>Eremopyrum includes 5-10 species that grow in steppes and semidesert regions from Turkey to central Asia and Pakistan. Three species have been found in North America; only E. triticeum is widepsread. In their native ranges, species of Eremopyrum are valuable fodder on ephemeral spring pastures.</discussion>
+  <references>Frederiksen, S. 1991. Taxonomic studies in Eremopyrum (Poaceae). Nordic J. Bot. 11:271-285; Melderis, A. 1985. Eremopyrum (Ledeb.) Jaub. & Spach. Pp. 227-231 in P.H. Davis (ed.). Flora of Turkey and the East Aegean Islands, vol. 9. University Press, Edinburgh, Scotland. 724 pp.; Sakamoto, S. 1979. Genetic relationships among four species of the genus Eremopyrum in the tribe Triticeae, Gramineae. Mem. Coll. Agric. Kyoto Univ. 114:1-27.</references>
+  <key>
+    <key_body>
+1. Glumes 1-veined and 2-keeled at maturity; lemmas of the first floret in each spikelet pubescent on the lower 1/2, glabrous distally, the other lemmas glabrous; disarticulation beneath the florets, sometimes at the base of the spikes.....1.E. triticeum
+1. Glumes usually 3-5-veined and 1-keeled; lemmas of all florets alike in their pubescence or lack thereof; disarticulation at the rachis nodes.
+2. Glume bases straight; spikes 1.3-2.8 cm wide.....2. E. bonaepartis
+2. Glume bases arcuately curved; spikes 0.9-1.8 cm wide.....3. E. orientate
+    </key_body>
+  </key>
+</bio:treatment>

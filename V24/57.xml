@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Edward E. Terrell</author>
+    </source>
+  </meta>
+  <number>5.05</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>ZIZANIOPSIS Doll & Asch.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial or annual; aquatic, rooted and emergent; rhizomatous; monoecious. Culms 1-4 m, erect or decumbent, sometimes rooting at the nodes. Leaves basal and cauline; sheaths open, somewhat laterally compressed; ligules scarious; pseudopetioles absent; blades flat or folded at the base, lanceolate. Inflorescences terminal panicles, staminate and pistillate spikelets on the same branches, staminate spikelets proximal, pistillate spikelets distal; disarticulation beneath the spikelets; pedicel apices cupulate. Spikelets unisexual, laterally compressed to subterete, lemma margins not clasping the paleas, with 1 floret. Glumes absent; calluses glabrous. Staminate lemmas membranous, 5-7-veined, acuminate or terminally awned; paleas similar to the lemmas, 3-veined; lodicules 2; anthers 6. Pistillate lemmas membranous, 7-veined, terminally awned; paleas similar to the lemmas, 3-veined, awned or unawned; styles 2, bases fused, stigmas terminally exserted, plumose. Fruits achenes, ellipsoid or obovoid, beaked by the persistent style base; pericarps shell-like, partially free from the seed, smooth, coriaceous or crustaceous; seeds oblong, subterete, or 2-angled; embryos basal; hila linear, x = 12.</description>
+  <discussion>Zizaniopsis grows from the southern United States to Argentina. All of its five species grow in wet habitats. Only Zizaniopsis miliacea is native to and found in the Flora region.</discussion>
+  <references>Fox, A.M. and W.T. Haller. 2000. Production and survivorship of the functional stolons of giant cutgrass, Zizaniopsis miliacea (Poaceae). Amer. J. Bot. 87:811-818; McVaugh, R. 1983. Flora Novo-Galiciana: A Descriptive Account of the Vascular Plants of Western Mexico, vol. 14; Gramineae (series ed. W.R. Anderson). University of Michigan Press, Ann Arbor, Michigan, U.S.A. 436 pp.; Terrell, E.E. and H. Robinson. 1974. Luziolinae, a new subtribe of oryzoid grasses. Bull. Torrey Bot. Club 101:235-245.</references>
+</bio:treatment>

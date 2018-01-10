@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>41</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis elliottii S. Watson </name_authority_date>
+  </taxon_identification>
+  <common_names>ELLIOTT'S LOVEGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, with innovations, without rhizomes, not glandular. Culms 25-80 cm, erect, glabrous and shiny below the basal nodes. Sheaths sparsely hairy at the apices, hairs to 6 mm; ligules 0.2-0.4 mm; blades 6-30(52) cm long, 2-4.5 mm wide, flat, abaxial surfaces glabrous, adaxial surfaces scabridulous, some¬times with a few scattered hairs near the base. Panicles (25)30-60 cm long, 15—45 cm wide, broadly ovate to obovate, open, diffuse; primary branches mostly 5-25(32) cm, diverging 20-90° from the rachises, capillary; pulvini hairy; pedicels (4)10-35(50) mm, widely diverging, capillary, all the pedicels on each branch longer than the spikelets. Spikelets 4-18 mm long, 1.4-3 mm wide, linear-lanceolate, grayish-green or stramineous to purplish, with (6)9-30 florets; disarticulation acropetal, below the lemmas, paleas persistent. Glumes narrowly lanceolate, membranous; lower glumes 1.1-3.4 mm; upper glumes 1.6-3.4 mm, apices acuminate; lemmas 1.8-4.4 mm, lanceolate, membranous, lateral veins evident to inconspicuous, sometimes greenish, apices acute to acuminate; paleas 1.1-3.5 mm, hyaline to membranous, narrower than the lemmas, apices obtuse; anthers 2, 0.3-0.8 mm, purplish or brownish. Caryopses 0.6-0.8 mm, ovoid to ellipsoid, finely striate, reddish-brown. 2n = unknown. </description>
+  <discussion>Eragrostis elliottii grows in sandy pinelands and live-oak woodlands on the coastal plain, at 0-150 m. Its range extends from the southeastern United States through the West Indies and Gulf coast of Mexico to Central and South America.</discussion>
+</bio:treatment>

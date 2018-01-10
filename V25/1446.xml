@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum acuminatum Raddi </name_authority_date>
+  </taxon_identification>
+  <common_names>BROOK PASPALUM, CANOEGRASS</common_names>
+  <description type="morphology">Plants perennial; rhizomatous. Culms 30-100 cm, strongly decumbent, upright portion usually not standing more than 20 cm tall, much branched; nodes glabrous. Sheaths glabrous; ligules 1-2.4 mm; blades to 7 cm long, 3-6.5 mm wide, flat. Panicles terminal, with 2-5 racemosely arranged branches; branches 2-6 cm, diverging, persistent; branch axes 2-3.3 mm wide, broadly winged, glabrous, margins scabrous, terminating in a spikelet. Spikelets 3.2-4 mm long, 1.6-1.7 mm wide, solitary, appressed to the branch axes, elliptic, abruptly pointed, stramineous. Lower glumes absent; upper glumes and lower lemmas glabrous, 5-veined; upper florets stramineous, lemmas with a few minute hairs at the apices. Caryopses 2-3 mm, white. 2n = 40.</description>
+  <discussion>Paspalum acuminatum grows at the edges of lakes, ponds, rice fields, and wet roadside ditches. It is native to the Americas, with a range that extends from the southern United States to Argentina.</discussion>
+</bio:treatment>

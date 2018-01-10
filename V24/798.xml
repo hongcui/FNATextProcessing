@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa laxa subsp. fernaldiana (Nannf.) Hyl. </name_authority_date>
+  </taxon_identification>
+  <common_names>MOUNT WASHINGTON BLUEGRASS</common_names>
+  <description type="morphology">Basal branching mainly intravaginal. Blades very thin. Panicles 2-8 cm, lax, loosely contracted, sparse, with 1-3 branches per node; branches flexuous, smooth or infrequently very sparsely scabrous. Glumes lanceolate; calluses of at least some proximal florets sparsely webbed, rarely all glabrous; lemmas with keels short-villous for at least 1/2 their length, lateral veins glabrous; anthers (0.6)0.8-1.1(1.3) mm. 2n = 42.</description>
+  <discussion>Poa laxa subsp. fernaldiana is native from Newfoundland south to New England.</discussion>
+</bio:treatment>

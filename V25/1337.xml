@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eriochloa michauxii (Poir.) Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>LONGLEAF CUPGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose and rhizomatous. Culms 50-250 cm, erect, not rooting at the lower nodes; internodes glabrous; nodes 3-7, puberulent to appressed pilose, rarely glabrous. Sheaths glabrous; collars hairy; ligules 0.5-1.5 mm; blades 10-60 cm long, 5-15 mm wide, linear, flat to conduplicate, straight or lax, spreading, glabrous adaxially. Panicles 10-30 cm long, 2.5-10 cm wide, open or contracted; rachises villous or puberulent; branches 10-25, 15-60 mm long, 0.5-0.8 mm wide, appressed to spreading, villous to shortly pilose, rarely puberulent or scabrous, not winged, with 16-40 spikelets on the primary branches, spikelets in unequally pedicellate pairs or triplets proximally, solitary distally; pedicels 0.3-2.5 mm, variously hirsute below, with fewer than 10 hairs more than 0.5 mm long at the apices. Spikelets 3.7-5.7 mm long, 1.3-1.8 mm wide, ovate to elliptic. Upper glumes equaling the lower lemmas, ovate, hairy, 5-veined, acute, unawned, rarely mucronate; lower lemmas 3.5-5 mm long, 1.3-1.8 mm wide, ovate to elliptic, setose, 5(7)-veined, acute, unawned; lower paleas fully developed, as long as or longer than the lemmas, hyaline; anthers 3 or absent; upper lemmas 3.1-4.6 mm, indurate, elliptic, 5-veined, acute to rounded, mucronate or awned, awns 0.1-0.6 mm; upper paleas 3-4.3 mm, indurate, blunt. 2n = 36.</description>
+  <discussion>Eriochloa michauxii is endemic to the southeastern United States. There are two varieties, differing as shown in the following key. Intermediate plants have been collected in Lee and Monroe counties, Florida.</discussion>
+  <key>
+    <key_body>
+Eriochloa michauxii is endemic to the southeastern United States. There are two varieties, differing as shown in the following key. Intermediate plants have been collected in Lee and Monroe counties, Florida.
+    </key_body>
+  </key>
+</bio:treatment>

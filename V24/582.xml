@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>14</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca rubra L. </name_authority_date>
+  </taxon_identification>
+  <common_names>RED FESCUE, FETUQUE ROUGE</common_names>
+  <description type="morphology">Plants usually rhizomatous, usually loosely to densely ces¬pitose, culms sometimes single and widely spaced, sometimes stoloniferous. Culms (8)10-120 (130) cm, erect or decumbent, glabrous and smooth. Sheaths closed for about 3/4  their length when young, readily splitting with age, usually pubescent, at least distally, hairs retrorse or antrorse, sometimes glabrous, not persistent, older vegetative shoot sheaths shredding into fibers; collars glabrous; ligules 0.1-0.5 mm; blades usually conduplicate or convolute and 0.3-2.5 mm in diameter, sometimes flat and 1.5-7 mm wide, abaxial surfaces glabrous, smooth or scabrous, adaxial surfaces scabrous or pubescent, veins 5-9(13), ribs (3)5-7(9), usually conspicuous; abaxial sclerenchyma in 5-9(13) discrete or partly confluent strands, rarely forming a complete band; adaxial sclerenchyma sometimes present in fascicles opposite the veins; girders and pillars not developed. Inflorescences (2)3.5-25(30) cm, usually open or loosely contracted panicles, occasionally racemes, with 1-3 branches per node, lower branches with 2+ spikelets; branches erect or spreading, stiff or lax, glabrous, scabrous, or pubescent. Spikelets (6)7-17 mm, with 3-10 florets. Glumes ovate-lanceolate to lanceolate, exceeded by the distal florets; lower glumes (1.5)2-6(7) mm; upper glumes (3)3.5-8.5 mm; lemmas 4-9.5 mm, usually glabrous and smooth, sometimes scabrous towards the apices, sometimes densely pubescent throughout, attenuate or acuminate in side view, awned, awns (0.1)0.4-4.5 mm; paleas slightly shorter than to about equaling the lemmas, intercostal region puberulent distally; anthers 1.8-4.5 mm; ovary apices glabrous. 2n = 28, 42, 56, 70.</description>
+  <discussion>Festuca rubra is interpreted here as a morph¬ologically diverse polyploid complex that is widely distributed in the arctic and temperate zones of Europe, Asia, and North America. Its treatment is complicated by the fact that Eurasian material has been introduced in other parts of the world. In addition, hundreds of forage and turf cultivars have been developed, many of which have also been widely distributed. 
+Within the complex, morphologically, ecologically, geographically, and/or cytologically distinct taxa have been described, named, and given various taxonomic ranks. In some cases, these taxa represent extremes, and in other cases they are morphologically intermediate between other taxa. Moreover, hybridization and/or introgression between native taxa, and between native and non-native taxa, may be occurring. In Iceland and southern Greenland, putative hybrids between Festuca frederikseniae and F. rubra have been reported, and named F. villosa-vivipara (Rosenv.) E.B. Alexeev (see under F. frederikseniae, p. 436).
+Overlap in morphological characters between most taxa in the complex has led some taxonomists to ignore the variation within the complex, calling all its members Festuca rubra without qualification. This obscures what is known about the complex, and presents an extremely heterogenous assemblage of plants as a single “species”—or a mega-species. The following account attempts to reflect the genetic diversity of the F. rubra complex in the Flora region. All the taxa are recognized as subspecies, but they are not necessarily equivalent in terms of their distinction and genetic isolation. Much more work on the taxonomy of the F. rubra complex is needed before the boundairs of individual taxa can be firmly established. Some variants that need attention are (1) plants growing on the sandy shores of the Great Lakes that have glaucous leaves and spikelets, sometimes treated as F. rubra var. juncea (Hack.) K. Richt., (2) native plants along the James Bay and Hudson Bay shore that are ecologically distinct from F. rubra subsp. rubra, (3) native plants growing in marshes, sometimes called F. rubra var. megastachys (Gaudin) Hegi (Dore and McNeill 1980), (4) seashore variants along the Atlantic coast of North America, (5) plants with glaucescent leaves and spikelets which are widely distributed in the Flora region and have been called F. rubra subsp. glaucodea Piper, (6) the widespread variant with pubescent to villous lemmas, sometimes called F. rubra f. squarrosa (Hartm.) Holmb.
+Festuca earlei (p. 420) is sometimes confused with F. rubra. It differs in having pubescent ovary apices.  </discussion>
+  <key>
+    <key_body>
+1. Plants not rhizomatous, densely cespitose.
+2. Anthers 2.3-3.2 mm long; lemma awns 0.1-3 mm long; plants of natural habitats in coastal areas   .....subsp. pruinosa
+2. Anthers 1.8-2.2(3) mm long; lemma awns 1-3.3 mm long; plants of lawns, road verges, and other disturbed areas  .....subsp. commutata
+1. Plants rhizomatous, usually loosely to densely cespitose, sometimes with solitary culms.
+3. Vegetative shoot blades usually flat or loosely conduplicate; plants strongly rhizomatous; adaxial sclerenchyma strands always present  .....subsp. fallax
+3. Vegetative shoot blades usually conduplicate, sometimes flat; plants strongly or weakly rhizomatous; adaxial sclerenchyma strands sometimes present. 
+4. Plants not or only loosely cespitose, the culms usually single and widely spaced; plants of moist meadows in montane and subalpine regions of the western cordillera, usually above 1000 m   .....subsp. vallicola
+4. Plants loosely to densely cespitose, with several culms arising from the same tuft; plants of various habitats and elevations.
+5. Inflorescence branches scabrous or pubescent; lemmas usually moderately to densely pilose, sometimes only partially pilose, occasionally glabrous; lemma awns (0.2)0.5-1.6 (2.5) mm long; plants of subalpine, alpine, boreal, and arctic regions, both littoral and inland .....subsp. arctica
+5. Inflorescence branches scabrous; lemmas usually glabrous, the lemmas of littoral plants sometimes hairy; lemma awns (0.1)0.4-5 mm long; plants of various habitats. 
+6. Plants widely distributed, sometimes coastal.
+7. Lower glumes 3-4.5 mm long; inflorescences 7-12 cm long, lanceolate; plants of disturbed habitats throughout temperate and mesic regions .....subsp. rubra
+7. Lower glumes 2.2-3.2(4.5) mm long; inflorescences 3-10 (20) cm long, linear to lanceolate; plants of natural habitats in coastal areas .....subsp. pruinosa
+6. Plants of the Pacific coast, often growing close to the littoral zone.
+8. Cauline leaf sheaths tightly enclosing the culms; mature inflorescences usually completely exserted from the sheaths.
+9. Lemmas 4.5-6.5 mm long; sheaths glabrous or pubescent; plants of coastal rocks, cliffs, and sands ..... subsp. pruinosa
+9. Lemmas 6-9.5 mm long; sheaths pubescent; plants of maritime sands and gravels.....subsp. armaria
+8. Cauline leaf sheaths loosely or tightly enclosing the culms; mature inflorescences usually partly included in the uppermost sheaths.
+10.  Lemmas 4.5-6 mm long, acuminate in side view.....subsp. mediana
+10.  Lemmas 5.8-9 mm long, attenuate in side view.
+11. Inflorescences 10-25 cm long; cauline leaf blades 2-4 mm wide, usually flat or loosely conduplicate, not glaucous; lemmas 6-9 mm long, usually glabrous .....subsp. aucta
+11. Inflorescences 7.5-12 cm long; cauline leaf blades to 2.5 mm wide when flat, usually loosely to tightly conduplicate, sometimes glaucous; lemmas 5.8-6.6 mm long, glabrous or hairy.....subsp. secunda
+
+    </key_body>
+  </key>
+</bio:treatment>

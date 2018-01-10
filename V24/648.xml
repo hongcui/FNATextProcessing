@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Vulpia microstachys (Nutt.) Munro var. microstachys </name_authority_date>
+  </taxon_identification>
+  <common_names>DESERT FESCUE</common_names>
+  <description type="morphology">Spikelets with (1)2-5 florets. Glumes glabrous; lemmas sparsely to densely pubescent.</description>
+  <discussion>Vulpia microstachys var. microstachys grows most commonly in loose soil on open slopes and roadsides.</discussion>
+</bio:treatment>

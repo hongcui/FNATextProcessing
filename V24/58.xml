@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>. Zizaniopsis miliacea (Michx.) Doll & Asch. </name_authority_date>
+  </taxon_identification>
+  <common_names>GIANT CUTGRASS, WATER  MILLET</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, rhizomes to 1.5 cm thick. Culms 1-4 m tall, to 3.5 cm thick, erect or decumbent, glabrous, readily rooting at the nodes when decumbent and producing leafy buds. Sheaths thick, glabrous; ligules to 2 cm, glabrous; blades to 1 m long, 6-30 mm wide, sometimes scabrous, bluish-green, margins scabrous. Panicles to 80+ cm long, usually 4-20 cm wide, open; pedicels to 10 mm long, apices  0.1-0.4 mm wide. Staminate  lemmas 5-10 mm, lanceolate  to elliptic, glabrous, acuminate or awned, awns to 2 mm; paleas acuminate or awned, awns to 1 mm; anthers 2.5-5 mm. Pistillate lemmas 4-8 mm, ovate or elliptic, awned, awns to 9 mm; paleas caudate-acuminate or awned, awns to 1 mm; style bases 1-3 mm, stigmas 2-6 mm, conspicuously exserted. Achenes 2.5-4 mm long, 1-2 mm wide, ellipsoid or obovoid, smooth, lustrous, beaked by the persistent style base. 2n = 24.</description>
+  <discussion>Zizaniopsis miliacea grows in shallow, fresh- or brackish-water marshes, swamps, streams, lakes, and ditches. It is most common on the eastern coastal plain of the United States, extending south to Florida and west to Illinois, Oklahoma and Texas. It has also been reported growing as a disjunct in central Mexico (McVaugh 1983).
+Fox and Haller (2000) found that decumbent flowering culms readily produce roots and axillary shoots at the nodes. The decumbent culms act as functional stolons, allowing for rapid colonization; thus plants become established up to 3-4 m away from the parent plant.
+</discussion>
+</bio:treatment>

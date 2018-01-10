@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Pleuropogon californicus (Nees) Benth. ex Vasey</name_authority_date>
+  </taxon_identification>
+  <common_names>CALIFORNIA SEMAPHOREGRASS</common_names>
+  <description type="morphology">Plants annual or perennial; cespitose, with many innovations, not rhizomatous, or with poorly developed rhizomes. Culms 15-95 cm, erect or geniculate at the base, sometimes rooting at the lower nodes; nodes 3-6. Sheaths glabrous; ligules 2-6 mm; blades 3-29 cm long, 3-8 mm wide, adaxial surfaces slightly scabridulous. Racemes 8-35 cm, with 6-13 spikelets; internodes 1-6 cm; pedicels 1-5.5(9) mm, ascending to spreading. Spikelets 15-60 mm, ascending to spreading, with 7-20(30) florets, lower florets bisexual, upper florets pistillate, terminal florets sterile. Glumes lanceolate to broadly ovate; lower glumes 1-4.5 mm; upper glumes 2-6.5 mm, 1-3-veined; rachilla internodes 1-2.8 mm long, 0.2-0.5 mm thick, with a glandular swelling at the base; lemmas 4.5-7.5 mm, 7(9)-veined, veins distinct, often prominent, apices truncate or emarginate, unawned or awned, awns to 11 mm; paleal keels scabridulous, each with a 0.5-2.5 mm triangular, winglike appendage, often denticulate beyond the appendage; anthers 2.5-4 mm. Caryopses 2.5-3.1 mm. </description>
+  <key>
+    <key_discussion>Pleuropogon californicus is a Californian endemic with two varieties.</key_discussion>
+    <key_body>
+1. Plants annual or facultative perennials; lemmas usually with awns 5-11 mm long, rarely unawned; paleal appendages 0.5-2.5 mm long; spikelets 15-30 mm long.....var. californicus
+1. Plants perennial; lemmas unawned, sometimes mucronate, mucros to 1.5 mm long; paleal appendages 0.5-1 mm long; spikelets 25-60 mm long   .....var. davyi
+    </key_body>
+  </key>
+</bio:treatment>

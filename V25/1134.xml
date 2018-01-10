@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthelium latifolium (L.) Harvill </name_authority_date>
+  </taxon_identification>
+  <common_names>BROADLEAVED PANICGRASS, PANIC À LARGES FEUILLES</common_names>
+  <description type="morphology">Plants forming small clumps, with knotty rhizomes less than 2 mm thick. Basal rosettes well-differentiated; sheaths pubescent; blades ovate to lanceolate, dark green. Culms 45-110 cm, nearly erect; nodes glabrous or the lower nodes slightly bearded; internodes glabrous or sparsely pubescent; fall phase branching from the mid-culm nodes, branches nearly erect, scarcely rebranching, blades and secondary panicles only slightly reduced. Cauline leaves 4-6, often with a transitional leaf above the basal rosette; sheaths not overlapping, glabrous or softly villous basally, margins ciliate, collars pubescent; ligules 0.4-0.7 mm, membranous, ciliate, cilia longer than the membranous portion; blades 3.7-7 times longer than wide, 15-40 mm wide, ovate-lanceolate, glabrous or sparsely pubescent, with 11-13 major veins and 40-120 minor veins, bases cordate-clasping, with papillose-based cilia. Primary panicles 7-15 cm long, 4-12 cm wide, 1.5-2 times as long as wide, with 20-80 spikelets, eventually at least partially exserted; branches stiff, ascending to spreading. Spikelets 2.9-3.9 mm long, 1.6-2 mm wide, ellipsoid, sparsely pubescent. Lower glumes 1/3 – 1/2 as long as the spikelets, narrowly triangular; upper glumes and lower lemmas slightly shorter than the spikelets, often red-tinged basally and apically; lower florets staminate, anthers exserted prior to those of the upper florets; upper florets pointed, apiculate, upper lemmas with a minute fringe of hairs. 2n = 18, 36.</description>
+  <discussion>Dichanthelium latifolium grows in rich deciduous woods, often in slightly open areas within eastern North America. The primary panicles are open-pollinated and develop in May and June (and sometimes in September and October), the secondary panicles, which are produced from July through September, are rarely open-pollinated.</discussion>
+</bio:treatment>

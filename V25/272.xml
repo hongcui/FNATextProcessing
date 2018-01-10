@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>27</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia cuspidata (Torr. ex Hook.) Rydb. </name_authority_date>
+  </taxon_identification>
+  <common_names>PLAINS MUHLY</common_names>
+  <description type="morphology">Plants perennial; cespitose, with knotty bases, not rhizomatous. Culms 20-60 cm tall, 1-2 mm thick, erect, not rooting at the lower nodes; internodes mostly glabrous or sparsely hispidulous, always hispidulous below the nodes. Sheaths shorter than the internodes, laterally compressed, keeled, smooth or scabridulous, not becoming spirally coiled when old; ligules 0.2-0.8 mm, membranous, truncate; blades 2-22 cm long, 0.5-2.7(3.5) mm wide, flat to folded, smooth or scabridulous abaxially, strigose adaxially. Panicles 4-14 cm long, 0.1-0.8 cm wide, spikelike, not dense; primary branches 0.4-3 cm, appressed; pedicels 0.1-1.2(4) mm. Spikelets 2.5-3.6 mm, dark green or plumbeous, occasionally with 2 florets. Glumes subequal, 1.2-3 mm, about 3/4 as long as the spikelets, 1-veined, gradually acute to acuminate, occasionally mucronate, mucros to 0.3 mm; lemmas 2.5-3.6 mm, lanceolate, sometimes mottled with green¬ish-black areas, with short, appressed hairs on the basal 1/2 - 3/4 of the midveins and margins, apices acuminate, sometimes mucronate, mucros to 0.6 mm; paleas 2.4-3.6 mm, lanceolate, glabrous, acuminate; anthers 1.2-1.8 mm, greenish. Caryopses 1.6-2.3 mm, fusiform, brownish. 2n = 20.</description>
+  <discussion>Muhlenbergia cuspidata grows in dry, gravelly prairies, on gentle rocky slopes, rocky limestone outcrops, and in sandy drainages, at elevations of 300-1400 m, primarily in the central portion of the flora region. It flowers from June to October.
+Muhlenbergia cuspidata is often confused with M. ricbardsonis, but that species has rhizomes and longer ligules. Morden and Hatch (1984) found cleistogamous panicles in the lower sheaths of a plant from Benton County, Oklahoma.
+</discussion>
+</bio:treatment>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Lasiacis divaricata (L.) Hitchc. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose. Culms (0.5)1-5(7) m long, arching, clambering over brush or bending to the ground if unsupported. Sheaths mostly glabrous, margins and throats ciliate; ligules 0.8-13 mm, glabrous or ciliate; blades (3)5-12(16) cm long, 3-20(30) mm wide, linear-lanceolate to narrowly lanceolate, lower blades often deciduous. Panicles 2-12(20) cm; branches to 12 cm, with widely-spaced spikelets; lower branches usually reflexed; upper branches widely spreading. Spikelets 3.5-4.5 mm, obovate. Lower glumes 1.2-2.5 mm; lower florets sterile; upper florets 3.4-4 mm long, 1.9-2.4 mm wide, whitish to brown at maturity; anthers about 2 mm, white; stigmas purple. Caryopses whitish. 2n = 36.</description>
+  <discussion>Lasiacis divaricata is a Caribbean species. Its range extends from Florida through the West Indies to Mexico, Panama, and northern Venezuela. In Florida, it usually grows in hammocks, but occasionally in pinelands. The whitish to brown upper florets are unusual in the genus.
+Plants in the Flora region belong to Lasiacis divaricata var. divaricata, which differs from the other two varieties in having panicles with fewer spikelets and panicle branches that are usually reflexed.
+</discussion>
+</bio:treatment>

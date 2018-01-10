@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Saccharum alopecuroides (L.) Nutt. </name_authority_date>
+  </taxon_identification>
+  <common_names>SILVER PLUMEGRASS</common_names>
+  <description type="morphology">Plants rhizomatous. Culms 1-2.5 m; nodes hairy, occasionally glabrate, hairs 7-12 mm. Sheaths mostly glabrous, ciliate distally; auricles absent; ligules 1-3 mm; blades 30-60 cm long, 14-28 mm wide, glabrous at maturity. Peduncles 40-60 cm, pilose; panicles 3-10 cm wide, oblong to lanceolate; rachises 15-34 cm, densely pilose; lowest nodes glabrous or sparsely pilose; primary branches 3-12 cm, appressed; rame internodes 3-5 mm, pilose. Sessile spikelets 6-7 mm long, 1.1-1.4 mm wide, straw-colored; callus hairs 9-14 mm, exceeding the spikelets, silvery or purple-tinged; lower glumes 5-veined, smooth; upper glumes 3-5-veined; lower lemmas 4.8-5.6 mm, without veins or 1-veined; upper lemmas 4-4.6 mm, 1-veined, bifid, teeth 1.8-2 mm, ciliate; awns 14-20 mm, flattened and spirally coiled at the base; lodicule veins not extending into hairlike projections; anthers 2. Pedicels 2.5-4 mm, pilose. Pedicellate spikelets similar to the sessile spikelets, except frequently pilose. 2n = 30.</description>
+  <discussion>Saccharum alopecuroides grows in damp woods, open areas, and field margins. It is restricted to the southeastern United States. It is rare or non-existent on the sandy coastal plain, and there are few specimens from southern Florida and the higher elevations of the Appalachian Mountains. The combination of long rhizomes, long silvery callus hairs, and spirally coiled awns distinguish S. alopecuroides from all other species in the region.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>22</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sporobolus giganteus Nash </name_authority_date>
+  </taxon_identification>
+  <common_names>GIANT DROPSEED</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 100-200 cm, (3)4-10 mm thick near the base. Sheaths rounded below, striate, margins hairy distally, apices with conspicuous tufts of hairs, hairs to 2 mm; ligules 0.5-1.5 mm; blades 10-50 cm long, (3)4-10(13) mm wide, flat, glabrous on both surfaces, margins whitish, scabridulous. Panicles all terminal, 25-75 cm long, 1-4 cm wide, spikelike, dense, usually included in the uppermost sheath; lower nodes with 1-2(3) branches; primary branches mostly 0.5-6 cm, appressed or spreading to 30° from the rachis, spikelet-bearing to the base; secondary branches appressed; pulvini glabrous; pedicels 0.5-2 mm, appressed. Spikelets 2.5-3.5(4) mm, whitish to plumbeous. Glumes unequal, narrowly lanceolate, membranous, prominently keeled; lower glumes 0.6-2 mm; upper glumes 2-3.5(4) mm, subequal to the lemmas; lemmas 2.5-3.5(4) mm, linear-lanceolate, membranous, glabrous, acute; paleas 2.4-3.4(3.8) mm, linear-lanceolate, membranous, glabrous; anthers 0.6-1 mm, yellowish. Fruits 0.8-1.7 mm, ellipsoid, light yellowish-brown, sometimes translucent. 2n = 36.</description>
+  <discussion>Sporobolus giganteus grows in sand dunes and sandy areas along rivers and roadsides, at elevations from 100-1830 m. Its range extends from the southwestern United States into northern Mexico.</discussion>
+</bio:treatment>

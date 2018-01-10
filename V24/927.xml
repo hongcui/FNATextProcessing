@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>24</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Agrostis rossiae Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>Ross' BENT</common_names>
+  <description type="morphology">Plants annual. Culms 4-20 cm. Sheaths smooth, upper sheaths inflated; ligules (0.6)1-1.5 mm, dorsal surfaces scabrous, apices truncate to rounded, lacerate to erose-ciliolate; blades 1-2.5 cm long, 1-2 mm wide, flat or folded. Panicles 1.5-6 cm long, 0.4-2 cm wide, initially lanceo¬late, becoming ovate and diffuse, bases sometimes enclosed in the upper sheaths; branches 1-3 cm, erect to spreading, scabrous; pedicels 0.5-6.3 mm. Spikelets ovate, green, slightly to strongly tinged with purple. Glumes equal, 2-2.5 mm, 1-veined, acuminate; lower glumes scabrous on the midvein; upper glumes smooth or scabrous on the midvein; callus hairs to 0.1 mm, sparse; lemmas 1.3-1.7 mm, scabrous, translucent to opaque, 5-veined, veins mostly obscure, apices truncate, entire, erose, or the veins excurrent to about 0.12 mm, unawned; paleas to 0.2 mm, thin; anthers 3, 0.5-0.9 mm, often retained at the apices of the caryopses. Caryopses 1.2-1.5 mm; endosperm semisoft. 2n = unknown.</description>
+  <discussion>Agrostis rossiae is a rare species, originally known only from alkaline soils near hot springs in Yellowstone National Park, Wyoming. Tercek et al. (2003) showed that somewhat morphologically similar plants of A. scabra found around hot springs in Yellowstone and Lassen Volcanic national parks, and of A. pauzhetica Prob. found around hot springs on the Kamchatka Peninsula, Russia, are closely related to A. rossiae. They recommended, however, that the three be treated as separate species until more information has been obtained.
+ 
+</discussion>
+</bio:treatment>

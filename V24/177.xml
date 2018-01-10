@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>16</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Achnatherum eminens (Cav.) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>SOUTHWESTERN NEEDLEGRASS</common_names>
+  <description type="morphology">Plants cespitose, shortly rhizomatous, bases knotty. Culms 50-100 cm tall, 0.8-1.5 mm thick, glabrous; nodes 2-3. Basal sheaths mostly glabrous, ciliate on the margins; collars glabrous on the back, usually with tufts of hair on the sides, hairs about 0.8 mm; basal ligules 0.8-1.6 mm, membranous, glabrous, rounded to acute; upper ligules to 4.5 mm, acute; blades 0.7-3.5 mm wide, abaxial surfaces smooth to scabridulous, adaxial surfaces prominently ribbed, scabridulous or sparsely to densely pubescent, hairs about 0.1 mm. Panicles 20-55 cm long, 3-8 cm wide, open, often enclosed to midlength at anthesis; lower branches 5-8 cm, ascending to divergent, flexuous. Lower glumes 5-12 mm long, 0.5-0.7 mm wide, 3-5-veined; upper glumes 1-4 mm shorter, 3-veined; florets 4-7.5 mm long, 0.5-0.9 mm thick, fusiform, terete; calluses 1-2 mm, sharp; lemmas evenly hairy, hairs 0.4-0.8 mm throughout, apical lobes not present; awns 35-70 mm, persistent, twice-geniculate, first 2 segments scabrous, terminal segment flexuous; paleas 1-2 mm, 1/3 – 1/2 as long as the lemmas, sparsely to moderately pubescent, apices rounded, flat; anthers 3-3.5 mm, dehiscent, a few penicillate, hairs about 0.3 mm. Caryopses about 4 mm, fusiform. 2n = 44, 46.</description>
+  <discussion>Achnatherum eminens grows on dry, rocky slopes and valleys in the mountains of the southwestern United States, primarily in desert scrub, at 600-2600 m. Its range extends into Mexico. It is easy to recognize because of its open panicle, flexuous branches, and flexuous awns. It is superficially similar to Nassella  
+cernua, but differs in its longer, glabrous ligules, not or weakly overlapping lemma margins, pubescent paleas, and geographic distribution.
+</discussion>
+</bio:treatment>

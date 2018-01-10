@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Neil Snow</author>
+    </source>
+  </meta>
+  <number>17.19</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>LEPTOCHLOA P. Beauv.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; cespitose. Culms (3)10-250(300) cm, usually ascending to erect, often geniculate at the lower nodes, occasionally prostrate and rooting at the lower nodes, often branching at the aerial nodes; nodes usually glabrous; internodes usually hollow. Leaves usually primarily cauline, occasionally in basal rosettes; sheaths open; ligules 0.2-10(15) mm, obtuse to attenuate, usually membranous, sometimes ciliate; blades flat, involute when dry, usually ascending to erect, apices attenuate. Primary inflorescences terminal, panicles of 2-150 non-disarticulating, spikelike branches, usually exceeding the leaves; branches 1-22 cm, digitate, subdigitate, or racemose on the rachises, 1-sided, usually spikelet-bearing throughout their length, spikelets in 2 rows, axes terminating in a functional spikelet, lower branches occasion¬ally with secondary branching; secondary panicles sometimes present, axillary to and concealed by the lower sheaths, their florets not disarticulating; disarticulation in the primary panicles beneath the florets. Spikelets rounded to slightly keeled, distant to tightly imbricate, not conspicuously pubescent, with (2)3-12(20) bisexual florets; rachillas rarely prolonged. Glumes usually unequal, sometimes subequal, exceeded by the florets, membranous, rounded to weakly keeled, 1-veined, veins scabrous, apices unawned (rarely mucronate); lower glumes 0.5-4.9 mm; upper glumes 0.9-6 mm; florets usually bisexual; calluses distinct or poorly developed, glabrous or pubescent; lemmas membranous, usually pubescent at least over the lower portion of the veins, 3(5)-veined, apices entire or minutely bilobed, unawned, mucronate, or awned; paleas usually subequal to the lemmas, membranous or hyaline; anthers 1-3, 0.1-2.7 mm. Caryopses obovate to elliptic, falling free of the lemmas and paleas. x = 10. </description>
+  <discussion>Leptochloa is a pantropical, warm-temperate genus of 32 species. Eight of the ten species in this treatment are native to the Flora region. Of the other two, L. chloridiformis was introduced over 60 years ago but has not become established. Leptochloa chinensis is not yet known from the region; it is included here because of its potential threat as an invasive weed. Cladistic studies (Snow 1997) do not support recognition of the segregate genus Diplachne.
+Leptochloa tends to grow in somewhat basic soils. Many of the species, particularly the annual species, are poor ecological competitors and grow in relatively open, seasonally inundated soils, such as are found along rivers. In disturbed areas, they are associated with roadside ditches, the margins of reservoirs, and mesic agricultural lands. A few species, primarily perennial, grow on well-drained soils. The vegetative vigor of all species is greatly influenced by soil moisture availability.
+</discussion>
+  <references>Nicora, E.G. 1995. Los generos Diplachne y Leptochloa (Gramineae, Eragrosteae) de la Argentina y paises limitrofes. Darwiniana 33:233-256; Snow, N. 1997. Phylogeny and systematics of Leptochloa P. Beauv. sensu lato (Poaceae, Chloridoideae). Ph.D. dissertation, Washington University, St. Louis, Missouri, U.S.A. 506 pp.; Snow, N. 1998. Nomenclatural changes in Leptochloa P. Beauvois sensu lato (Poaceae, Chloridoideae). Novon 8:77-80.</references>
+  <key>
+    <key_body>
+1. Panicle branches digitate or subdigitate; plants perennial.
+2. Lemma apices obtuse to truncate and often emarginate; lemmas membranous; plants often with secondary panicles concealed in the lower leaf sheaths .....1. L. dubia
+2. Lemma apices usually acute; lemmas chartaceous; plants without secondary panicles concealed in the lower leaf sheaths. 
+3. Panicle branches always digitate, 7-17 cm long; lemmas mucronate but not awned; in the Flora region, known only from a few old collections in Cameron County, Texas .....2. L. chloridiformis 
+3. Panicle branches subdigitate, 1.5-18 cm long; lemmas unawned, mucronate, or awned; native in much of the southeastern United States, including parts of Texas  .....3. L. virgata
+1. Panicle branches racemose; plants annual or perennial.
+4. Ligules 2-8 mm long, attenuate, becoming lacerate at maturity.....4. L. fusca
+4. Ligules 0.3-5.4 mm long, truncate to obtuse, erose, ciliate, or lacerate.
+5. Sheaths sparsely to densly hairy, the hairs papillose-based.....5. L. panicea
+5. Sheaths lacking hairs or with hairs that are not papillose-based. 
+6. Panicles with 25-150 branches.
+7. Lemmas 2.4-3 mm long; anthers 0.6-0.8 mm long; spikelets 4-5 mm long.....10. L. panicoides
+7. Lemmas 1.2-2.4 mm long; anthers 0.2-0.6 mm long; spikelets 2.5-4.5 mm long.
+8. Leaf blades 8-16 mm wide; lemmas 2.1-2.4 mm long   .....7. L. scabra
+8. Leaf blades 4-8 mm wide; lemmas 1-2 mm long.
+9. Lower glumes 0.7-0.8 mm long; anthers 0.2-0.4 mm long; plants native to the southern United States ..... 6. L. nealleyi
+9. Lower glumes 1.1-1.7 mm long; anthers 0.4-0.6 mm long; plants aggressive weeds, currently not known from the Flora region .....8. L. chinensis
+6. Panicles with 2-25 branches. 10. Plants perennial.
+11. Lemmas 4-5 mm long, membranous, their apices broadly acute, obtuse, or truncate, unawned; panicles with 2-15 branches; caryopses 1.9-2.3 mm long, strongly dorsally compressed; secondary panicles often present in, and concealed by, the lower leaf sheaths   .....1. L. dubia
+11. Lemmas 1.5-3.6 mm long, chartaceous, their apices usually acute, rarely obtuse, unawned, mucronate, or awned, the awns to 11 mm long; panicles with 9-25 branches; caryopses 1.3-1.8 mm long, somewhat laterally compressed; secondary panicles not present in the lower leaf sheaths .....3. L. virgata
+10. Plants annual.
+12. Panicles 2-17 cm long, with 5-23 branches; anthers 0.4-0.5 mm long; caryopses 0.4-0.5 mm wide .....9. L. viscida
+12. Panicles 20-35 cm long, with 20-90 branches; anthers 0.6-0.8 mm long; caryopses about 0.7 mm wide ..... 10. L. panicoides
+ 
+
+    </key_body>
+  </key>
+</bio:treatment>

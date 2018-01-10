@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Achnatherum lemmonii (Vasey) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>LEMMON'S NEEDLEGRASS</common_names>
+  <description type="morphology">Plants tightly cespitose, not rhizomatous. Culms 15-90 cm tall, 0.7-1 mm thick, glabrous, pubescent, or tomentose; nodes 3-4. Basal sheaths glabrous, pubescent, or tomentose; collars, including the sides, glabrous or sparsely pubescent, hairs shorter than 0.5 mm; basal ligules 0.5-1.2 mm, hyaline, glabrous, truncate to acute; upper ligules to 2.5 mm; basal blades 0.5-1.5 mm wide, folded to convolute, abaxial surfaces smooth, glabrous, adaxial surfaces prominently ribbed, often with 0.3-0.5 mm hairs, sometimes glabrous; upper blades to 2.5 mm wide, otherwise similar to the basal blades. Panicles 7-21 cm long, about 1 cm wide; branches straight, strongly ascending to appressed, longest branches 4-5 cm. Spikelets appressed to the branches. Glumes subequal, 7-11.5 mm; lower glumes 0.9-1.1 mm wide, 4-5-veined; upper glumes 3-veined; florets 5.5-7 mm long, 0.8-1.3 mm thick, fusiform, somewhat laterally compressed; calluses 0.4-1.2 mm, blunt; lemmas coriaceous, evenly pubescent, hairs 0.4-1 mm, apices 1-lobed, lobe about 0.1 mm long, thick,  
+stiff, apical lemma hairs 0.4-0.8 mm; awns 16-30 mm, persistent, (once)twice-geniculate, all segments scab¬rous, terminal segment straight; paleas 4.5-6.5 mm, from 3/4 as long as to equaling the lemmas, sparsely to moderately pubescent, hairs not exceeding the apices, veins terminating below the apices, apices flat or pinched; anthers 2.3-3.5 mm, dehiscent, not penicillate. Caryopses 4-5 mm, fusiform. 2n = 34.
+</description>
+  <discussion>Achnatherum lemmonii grows in sagebrush and yellow pine associations, from southern British Columbia to California and east to Utah. It has been confused in the past with A. nelsonii; it differs in having narrower leaves, laterally compressed florets with a thick apical lobe, and longer paleas.</discussion>
+  <key>
+    <key_body>
+1. Lower sheaths and culms glabrous or pubescent, not tomentose, the hairs to 0.2 mm long.....subsp. lemmonii
+1. Lower sheaths and culms tomentose, the hairs 0.4-0.6 mm long .....subsp. pubescens
+
+    </key_body>
+  </key>
+</bio:treatment>

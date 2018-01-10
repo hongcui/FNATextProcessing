@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>27</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Panicum plenum Hitchc. & Chase </name_authority_date>
+  </taxon_identification>
+  <common_names>CANYON PANICGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, rhizomatous, rhizomes long. Culms 50-200 cm, strongly compressed, decumbent-erect, glaucous; nodes glabrous. Sheaths keeled, glabrous or pubescent near the throat, upper sheaths much shorter than the internodes; ligules 0.5-2 mm, membranous, dissected ciliate; blades 20-35 cm long, 7-17 mm wide, flat, glabrous on both surfaces or the adaxial surfaces sparsely pilose. Panicles 12-50 cm, about 2/3 as wide, open; primary branches  spreading,  often verticillate at the lower nodes; pedicels 0.2-4 mm, scabrous, spreading. Spikelets 2.5-3.4 mm long, about 1.2 mm wide, ellipsoid, glabrous. Lower glumes usually shorter than 1.7 mm, up to 1/2 as long as the spikelets, 3-veined, subacute; upper glumes and lower lemmas subequal, scarcely longer than the upper florets, 5-veined; lower florets sterile or staminate; upper florets 2.9-3 mm long, about 1 mm wide, ellipsoid, glabrous, dull, pale, obscurely transversely rugose, apices minutely pubescent. 2n = unknown.</description>
+  <discussion>Panicum plenum grows in moist places in canyons, along streams, and on mountain slopes, from Arizona and Texas to central Mexico. It appears to be closely related to P. bulbosum. Flowering is from July into October.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>42</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis secundiflora J. Presl </name_authority_date>
+  </taxon_identification>
+  <common_names>RED LOVEGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, with innovations, without rhizomes, not glandular. Culms 30-75 cm, erect, glabrous below. Sheaths mostly glabrous, hairy at the apices, hairs to 4 mm; ligules 0.2-0.3 mm; blades 10-25(40) cm long, 1-5 mm wide, involute, glabrous abaxially, scabridulous adaxially, sometimes also sparsely pilose. Panicles (3)5-30 cm long, 1-15 cm wide, from narrowly oblong, glomerate, and interrupted below to ovate and open; primary branches 0.5-12(16) cm, appressed or diverging up to 40° from the rachises, stiff; pulvini glabrous or sparsely hairy; pedicels 0-1(3) mm, appressed, flattened. Spikelets 6-16(23) cm long, 2.4-5 mm wide, ovate to linear-elliptic, flattened, stramineous, with reddish-purple margins or completely reddish-purple, with 10-45 florets; disarticulation basipetal, florets falling intact and before the glumes. Glumes ovate-lanceolate to lanceolate, membranous; lower glumes 1.7-3 mm; upper glumes 2.2-4 mm, apices acuminate; lemmas 2-6 mm, ovate, membranous to leathery, apices usually acuminate or attenuate, sometimes acute; paleas 1.5-3 mm, membranous to leathery, narrower than the lemmas, apices obtuse, sometimes bifid; anthers 2, 0.2-0.5 mm, brownish. Caryopses 0.8-1.3 mm, ellipsoid, somewhat laterally flattened, smooth, reddish-brown. 2n = 40.</description>
+  <discussion>There are two subspecies of E. secundiflora; plants from the Flora region belong to E. secundiflora subsp. oxylepis (Torrey) S.D. Koch. They grow in sandy soils, dunes, grasslands, beaches, and roadsides of the south¬ern United States and northern Mexico, at 0-1000 m. Eragrostis secundiflora J. Presl subsp. secundiflora grows in Mexico and Central and South America.</discussion>
+</bio:treatment>

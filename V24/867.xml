@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>14.20</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>CUTANDIA Willk.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual. Culms (4)10-42 cm. Sheaths open to the base; auricles absent; ligules membranous; blades flat to convolute. Inflorescences usually panicles, rarely racemes; branches divaricate, some branches longer than 1 cm; pedicels of lateral spikelets 0.3-2 mm, pedicels of terminal spikelets on a branch longer. Spikelets laterally compressed, with 2-9(12) florets, distal florets often reduced; disarticulation occurring variously at the base of the florets, the pedicels, or the branches. Glumes equal or unequal, usually shorter than the adjacent lemmas, membranous, acuminate, rounded, or emarginate, unawned or shortly awned, awns glabrous; lower glumes 1-3-veined; upper glumes 1-5-veined; calluses short, glabrous; lemmas membranous, 3-veined, keeled on each vein, apices usually emarginate or bifid, varying to rounded or acuminate, unawned, mucronate, or awned from the sinus or slightly below; paleas subequal to the lemmas; lodicules 2, free, membranous, ciliate; anthers 3; ovaries glabrous. Caryopses shorter than the lemmas, concealed at maturity, narrow, longitudinally grooved; hila oval, x = 7. </description>
+  <discussion>Cutandia is a Mediterranean and western Asian genus of six species, one of which has been collected in California.</discussion>
+  <references>Stace, C.A. 1978. Notes on Cutandia and related genera. Bot. J. Linn. Soc. 76:350-352.</references>
+</bio:treatment>

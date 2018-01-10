@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>28</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Achnatherum contractum (B.L. Johnson) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>CONTRACTED RICEGRASS</common_names>
+  <description type="morphology">Plants tightly cespitose, not rhizomatous. Culms 30-50 cm tall, 1-1.3 mm thick, glabrous; nodes 3-4. Sheaths glabrous; collars puberulent, hairs about 0.2 mm, sometimes the margins with poorly developed tufts of hair to 0.5 mm; ligules 1.8-5 mm, broadly to narrowly acute, glabrous; blades 0.5-1.5 mm wide, flat or convolute, abaxial surfaces smooth, adaxial surfaces scabridulous. Panicles 6-25 cm long, 7-15 cm wide; branches ascending to strongly divergent, longest branches 5-8 cm; pedicels appressed to the branches, paired, unequal, shorter pedicels in each pair usually less than 1/2 as long as the longer pedicels. Spikelets confined to the distal 1/2 of the branches. Glumes saccate below, tapering at midlength, glabrous, midveins sometimes scabridulous, apices acuminate; lower glumes 5.5-7 mm long, 0.9-1.5 mm wide; upper glumes about 0.3 mm shorter; florets 2.5-3.5 mm long, 0.7-1.5 mm thick, fusiform to obovoid; calluses 0.3-0.5 mm, blunt; lemmas densely pilose, hairs at midlength and on the apices similar, 1.2-2 mm, apical lobes 0.5-0.6 mm; awns 6.5-9 mm, readily deciduous, scabrous; paleas similar to the lemmas in length, texture, and pubescence, distal hairs exceeding the paleal apices, apices rounded, flat; anthers about 1.5 mm, penicillate, dehiscent, well-filled. Caryopses 1.5-2.5 mm, globose to obovoid. 2n = 48.</description>
+  <discussion>Achnatherum contractum grows in rocky grasslands in eastern Idaho, southwestern Montana, and Wyoming. It is a fertile derivative of a Piptatherum micranthum x Achnatherum hymenoides hybrid (Shechter and Johnson 1968; Shechter 1969). Immature specimens of A. hymenoides are sometimes confused with A. contractum because they have contracted panicles with appressed branches and pedicels; they differ in having pedicel pairs in which the shorter pedicel is more than half as long as the longer pedicel.</discussion>
+</bio:treatment>

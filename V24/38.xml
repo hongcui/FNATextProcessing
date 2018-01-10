@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Oryza punctata Kotschy ex Steud. </name_authority_date>
+  </taxon_identification>
+  <common_names>RED RICE</common_names>
+  <description type="morphology">Plants annual or perennial; cespitose. Culms 0.6-1.2 m tall, usually 4 mm or more thick, erect, branched, spongy. Sheaths smooth, glabrous; auricles present; ligules 1.5-10 mm, truncate to rounded, whitish, tending to split at maturity; blades 20-60 cm long, 10-30 mm wide, linear, usually scabrous, rarely glaucous. Panicles 20-35 cm long, 3-17 cm wide, loose; branches to 20 cm, divergent; pedicels 2-5 mm. Spikelets 4.6-9.2 mm long, 2-2.5 mm wide, asymmetrically elliptic-oblong to broadly oblong, deciduous, horizontally or slightly obliquely articulated with the pedicels, disarticulation scar centric or slightly eccentric. Sterile florets 1.2-2 mm, 1/5 – 2/5 as long as the spikelets, acute. Functional florets: lemmas 4.6-9.2 mm long, 1.9-2.6 mm wide (about 2.5 times longer than wide), hispid, awned, awns (1)2-7.5 cm; paleas usually slightly shorter than the lemmas, narrower, acute or tapering; anthers 1.5-3.2 mm. Caryopses 4-4.8 mm long, 1.5-1.8 mm wide, oblong, light brown. Haplomes B, BC. 2n = 24, 48.</description>
+  <discussion>Oryza punctata is an African grass that is not established in North America. It is considered a noxious weed by the U.S. Department of Agriculture; if any populations are found in the United States, that agency should be notified. It has two morphological types. The tetraploid race is perennial, with spikelets to 5.5 mm long and at least 2.3 mm wide. It grows in semi-open  
+or shaded forest habitats, in swampy areas, water holes, pools, and river areas that flood to 1 m in depth. The diploid race is annual, with spikelets 5.5 mm or more long and at most 2.3 mm wide. It grows in open to semi-open forest margins, grasslands, and thickets, scrub, and open bush, in swampy areas, water holes, pools, and river areas that flood to 1 m in depth.
+The vernacular name 'Red Rice' is used to refer to Oryza rufipogon, O. punctata, and weedy forms of O. sativa, some of which may be the result of introgression from the first two species.
+</discussion>
+</bio:treatment>

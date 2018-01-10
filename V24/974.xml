@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>James P. Smith, Jr.</author>
+    </source>
+  </meta>
+  <number>14.39</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>SCRIBNERIA Hack.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual; tufted. Culms 3-35 cm, ascending to erect, often branched at the lowest nodes, glabrous; nodes purple. Sheaths open; auricles absent; ligules membranous; blades involute, nearly filiform. Inflorescences terminal distichous spikes, with 1 spikelet at all or most nodes, occasionally 2 at some nodes, very rarely 3 or 4 spikelets per node, lower spikelets sessile, upper spikelets pedicillate; pedicels shorter than 3 mm. Spikelets tangential to and partially embedded in the rachises, laterally compressed, with 1 floret; rachillas prolonged beyond the base of the floret; disarticulation above the glumes, beneath the florets. Glumes 2, exceeding the floret, glabrous, coriaceous, stiff, reddish- or purplish-tinged, 2-keeled, unawned; lower glumes longer and narrower than the upper glumes, 2-3-veined; upper glumes 3-4-veined; calluses pubescent; lemmas membranous, inconspicuously 5-veined, shortly bifid, awned from the sinus, awns 2-4 mm; paleas tightly clasped by the lemmas; anthers 1; ovaries glabrous. Caryopses about 2.5 mm, fusiform; hila punctiform; embryos about 1/4 the length of the caryopses. x = 13.</description>
+  <discussion>Scribneria is a monospecific genus native to North America.</discussion>
+  <references>Crampton, B. 1955. Scribneria in California. Leafl. W. Bot. 7:219-220.
+ 
+</references>
+</bio:treatment>

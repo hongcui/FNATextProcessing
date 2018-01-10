@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Neostapfia colusana (Burtt Davy) Burtt Davy </name_authority_date>
+  </taxon_identification>
+  <common_names>COLUSAGRASS</common_names>
+  <description type="morphology">Plants cespitose, eventually forming rather large clumps, covered with prominent brown viscid glands at maturity. Culms 10-30 cm, simple, ascending or decumbent, often geniculate, not breaking apart at the nodes. Sheaths loosely enveloping the culms; blades 2-5 cm long, 5-12 mm wide. Spikes 2-8 cm long, 8-12 mm thick.Lower lemmas about 5 mm long, about 3 mm wide, 7-11-veined; anthers about 2.5 mm. Caryopses about 2.5 mm. 2n = 40.</description>
+  <discussion>Neostapfia colusana grows in vernal pools of Colusa, Merced, Solano, and Stanislaus counties, California, at elevations below 125 m. It is listed by the U.S. Fish and Wildlife Service as a threatened species because of its restricted habitat, much of which has been destroyed. The stout, cylindrical spikes emerging from the sheathing leaves resemble miniature ears of maize. This and the abundant viscid secretion make N. colusana a particularly distinctive species.</discussion>
+</bio:treatment>

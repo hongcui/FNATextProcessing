@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Sylvia M. Phillips</author>
+    </source>
+  </meta>
+  <number>17.28</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>ACRACHNE Wight & Arn. ex Chiov.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual; tufted. Culms to approximately 50 cm, erect or geniculate, not woody. Sheaths open; ligules membranous, ciliate; blades broadly linear. Inflorescences terminal, panicles of spike¬like branches, exceeding the upper leaves; branches 1.5-10 cm, subdigitate or in whorls along elongate rachises, axes flattened, with imbricate, subsessile spikelets, terminating in a rudimentary spikelet. Spikelets laterally compressed, with 3-25 florets; disarticulation of the spikelets below the glumes, of the lemmas within the spikelets acropetal, spikelets falling wholly or in part after only a few lemmas have fallen, paleas persistent. Glumes 1-veined, keeled, exceeded by the florets; lemmas 3-veined, strongly keeled, firmly membranous to cartilaginous, glabrous, cuspidate or awn-tipped. Fruits modified caryopses, pericarp hyaline, rupturing at maturity; seeds deeply sulcate, ornamented, x = 9. </description>
+  <discussion>Acrachne has four species, all of which are native to the Eastern Hemisphere. One species, Acrachne racemosa, which is widely distributed in the tropics, was recently found in southern California. The genus resembles Eleusine and Dactyloctenium in its fruits and ornamented seeds, but differs from both in its mode of disarticulation.</discussion>
+  <references>Clifford, H.T. 1996. Etymological Dictionary of Grasses, Version 1.0 (CD-ROM). Expert Center for Taxonomic Identification, Amsterdam, The Netherlands; Phillips, S.M. 1995. Flora of Ethiopia and Eritrea, vol. 7 (I. Hedberg and S. Edwards, eds.). National Herbarium, Biology Department, Science Faculty, Addis Ababa University, Addis Ababa, Ethiopia and Department of Systematic Botany, Uppsala University, Uppsala, Sweden. 420 pp.</references>
+</bio:treatment>

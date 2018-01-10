@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Panicum amarum subsp. amarulum (Hitchc. & Chase) Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants with short (usually) or ascending rhizomes. Culms usually 100-250 cm, robust, decumbent, densely bunched (occasionally with more elongated rhizomes and less bunching in the southern part of its range). Panicles usually more than 5 cm wide, spikelet density high; primary branches usually 2 or more per node, smooth to moderately scabrous, usually with quaternary branching. Spikelets 4-5.9 mm; lower glumes 3-5-veined, veins less evident than in subsp. amarum, midvein smooth distally.</description>
+  <discussion>Panicum amarum subsp. amarulum grows in swales behind the first dune and on sandy borders of wet areas. 
+It extends as far north as northern New Jersey and extends southward into Mexico. It has been introduced to Massachusetts, West Virginia, Cuba, and the Bahamas.
+Panicum amarum subsp. amarulum is a fertile tetraploid, and possibly a progenitor of subsp. amarum, with which it intergrades in the Gulf region. Plants that intergrade with P. virgatum are evident in some coastal areas; they may represent hybrids.
+</discussion>
+</bio:treatment>

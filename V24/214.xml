@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Hesperostipa comata (Trin. & Rupr.) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>NEEDLE-AND-THREAD</common_names>
+  <description type="morphology">Culms 12-110 cm; lower nodes glabrous or pubescent. Lower sheaths glabrous or pubescent, not ciliate; ligules of lower leaves 1-6.5 mm, scarious, usually acute, sometimes trun¬cate, often lacerate; ligules of upper leaves to 7 mm; blades 0.5-4 mm wide, usually involute. Panicles 10-32 cm, contracted. Glumes 16-35 mm, 3-5-veined; lower glumes 18-35 mm; upper glumes 1-3 mm shorter; florets 7-13 mm; calluses 2-4 mm; lemmas evenly pubescent, hairs about 1 mm, white, sometimes glabrous immediately above the callus; awns 65-225 mm, first 2 segments scabrous to strigose, hairs shorter than 1 mm, terminal segment scabridulous.</description>
+  <discussion>Hesperostipa comata is found primarily in the cool deserts, grasslands, and pinyon-juniper forests of western North America. The two subspecies overlap geographically, but are only occasionally sympatric. Both are primarily cleistogamous.</discussion>
+  <key>
+    <key_body>
+1. Terminal awn segment 40-120 mm long, sinuous to curled at maturity; lower cauline nodes usually concealed by the sheaths; panicles often partially enclosed in the uppermost sheath at maturity  .....subsp. comata
+1. Terminal awn segment 30-80 mm long, straight; lower cauline nodes usually exposed; panicles usually completely exserted at maturity.....subsp. intermedia
+
+    </key_body>
+  </key>
+</bio:treatment>

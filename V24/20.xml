@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Phyllostachys bambusoides Siebold & Zucc. </name_authority_date>
+  </taxon_identification>
+  <common_names>GIANT TIMBER BAMBOO, MADAKE</common_names>
+  <description type="morphology">Culms to 22 m tall and 15 cm thick, erect or leaning towards the light, base sinuous in some cultivars; internodes glabrous, usually green, in cultivars golden yellow, or with yellow and green stripes, lustrous; nodal ridges usually prominent (scarcely discernible in 'Crookstem' forms); sheath scars thin, not strongly flared, glabrous. Culm leaves: sheaths glabrous or pubescent, greenish to ruddy-buff, more or less densely dark-brown-spotted; auricles absent from the basal sheaths, narrow to broadly ovate or falcate on the upper sheaths; fimbriae greenish, crinkled; ligules rounded and ciliolate to truncate and ciliate with coarse hairs; blades short, lanceolate, reflexed and crinkled on the lower leaves, those above longer and recurved, green or variously striped. Foliage leaves: auricles and fimbriae usually well developed; ligules well developed; blades to 20 cm long and 3.2 cm wide, usually puberulent to subglabrous. 2n = 48.</description>
+  <discussion>Phyllostachys bambusoides, a widely cultivated species, is hardy to -17°C. Several cultivars are available, differing in the color of their culms and leaves.</discussion>
+</bio:treatment>

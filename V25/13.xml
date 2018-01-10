@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>E.A. Kellogg</author>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>family</rank>
+    <name_authority_date>PACCAD Grasses</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">The PACCAD group of grasses consists of the Panicoideae, Arundinoideae sensu stricto, Chloridoideae, Centothecoxideae, Aristidoideae, and Danthonioideae. It includes more than half the species in the Poaceae as a whole and, according to every molecular study, constitutes a monophyletic group. There is not, however, any obvious morphological character that dis-tinguishes it from other taxa or groups of taxa. Two characteristics that all its members share, so far as is known, are embryos with an elongated mesocotyl internode and lodicules that lack a distal membranous portion, but neither of these features is useful for routine identification.</description>
+  <discussion>Despite the lack of an obvious morphological character for recognizing PACCAD grasses, some general statements can be made. All C4 grasses are in the PACCAD group, but so are many C3 grasses. Perhaps because such a high proportion of the PACCAD grasses employ a C4 photo-synthetic pathway, the group is associated with warm climates and/or late summer blooming. Solid culms are common, but not universal, among PACCAD species; consequently a solid culm is a good indication that a grass belongs to one of the PACCAD subfamilies, but a hollow culm provides no information. Many PACCAD species have punctate hila, but so do many of the non-PACCAD grasses. It is generally easier to place a grass in its tribe or subfamily and from that determine whether it is a PACCAD grass than to work in the other direction.
+Within the PACCAD grasses, molecular data indicate that Panicoideae and Centothecoideae are sister taxa, as are the two pairs Arundinoideae + Chloridoideae and Aristidoideae + Danthonioideae. The last four subfamilies form a group that members of the Grass Phylogeny Working Group (2000, 2001) refer to as the "Ligule of Hairs clade" because many (but not all) of its members have ligules made up of a fringe of hairs. Other, more cryptic characteristics shared by members of the four subfamilies are the presence of compound starch grains in the endosperm and embryonic leaf margins that meet rather than overlap.
+
+</discussion>
+  <references>Grass Phylogeny Working Group. 2000. A phylogeny of the grass family (Poaceae), as inferred from eight character sets. Pp. 3-7 in S.W.L. Jacobs and J. Everett (eds.). Grasses: Systematics and Evolution. International Symposium on Grass Systematics and Evolution (3rd:1998). CSIRO Publishing, Collingwood, Victoria, Australia. 408 pp.; Grass Phylogeny Working Group. 2001. Phylogeny and subfamilial classification of the grasses (Poaceae). Ann. Missouri Bot. Gard. 88:373-457.</references>
+  <key>
+    <key_discussion>The following key to tribes includes only tribes in the PACCAD subfamilies. It is based primarily on morphological characters that can be observed with a hand lens, but many of the characters that delimit the tribes are microscopic or molecular. For this reason, several tribes have had to be keyed out more than once. A key to all tribes of grasses represented in the Flora region will be presented in Volume 24 of the Flora, as will as an artificial key to the genera.</key_discussion>
+    <key_body>
+1. Spikelets with 1 floret; lemmas terminating in a 3-branched awn (the lateral branches sometimes greatly reduced); callus well-developed (Aristidoideae)  .....21. Aristideae
+1. Spikelets with more than 1 floret or, if only 1, the lemma not terminating in a 3-branched awn; callus development various.
+2. Spikelets usually dorsally compressed, sometimes terete, rarely laterally compressed; sexually functional spikelets with 2 dimorphic florets (rarely only 1 floret), the lower floret sterile or staminate, the upper floret bisexual or unisexual; upper glumes markedly different in texture from the upper lemmas, the thicker of the 2 structures coriaceous to indurate, rarely merely membranous, the thinner structure hyaline to membranous (Panicoideae, in part).
+3. Glumes membranous, thinner than the upper lemmas; lower glumes usually shorter
+than the upper glumes, sometimes missing; upper glumes varying from slightly shorter
+to slightly longer than the upper lemmas; upper lemmas well-developed, usually
+indurate to coriaceous (sometimes membranous); lower lemmas similar in texture to
+the upper glumes; all spikelets pedicellate, often shortly so; inflorescence branches
+remaining intact at maturity.....25. Paniceae
+3. Glumes indurate, thicker than the lemmas, often subequal, at least 1 and usually both
+exceeding the florets; all lemmas hyaline; spikelets usually in pairs, sometimes in triplets,
+sometimes apparently solitary and sessile, 1 spikelet in each pair or triplet usually sessile,
+sometimes all spikelets pedicellate; inflorescence branches often breaking up at maturity .....26. Andropogoneae
+2. Spikelets usually laterally compressed, sometimes terete; spikelets with other than 2 florets or, if with 2, the sex distribution usually not as in the Paniceae or Andropogoneae; upper lemmas (if more than 1 floret present) usually as thick as or thicker than the upper glumes, usually membranous to coriaceous, rarely indurate.
+4. Ligules absent; plants viscid annuals.....19. Orcuttieae
+4. Ligules present; plants annual or perennial but, if annual, not viscid.
+5. Adaxial ligules composed of hairs or a membranous base and ciliate fringe, the fringe longer than the base, a cartilaginous ridge also sometimes present; hairs often present on either side of the collar region. 
+6. Lemmas flabellate or with (5)7-15 veins extending into teeth or awns (Chloridoideae, in part) .....18. Pappophoreae
+6. Lemmas lanceolate, rectangular, or ovate, with fewer than 5 veins or not all the veins extending into well-developed teeth or awns.
+7. Lemmas usually awned, occasionally merely mucronate; awns once-geniculate, the basal portion flattened in cross section but strongly twisted; lemma apices bifid or bilobed (Danthonioideae, in part) .....20. Danthonieae
+7. Lemmas unawned, mucronate, or awned; awns, when present, usually not geniculate, neither flattened nor strongly twisted in the basal portion. 
+8. Culms 200-700 cm tall, terminating in a plumose panicle; leaves mostly basal (Danthonioideae, in part)  .....20. Danthonieae
+8. Culms 1-350 cm tall; inflorescences various but never a terminal plumose panicle; leaves basal or cauline.
+9. Lemmas 1-3 or (5)7-13-veined, the lateral veins prominent; glumes often more than 3/4 as long as the spikelets, sometimes exceeding the distal florets; blades with Kranz anatomy (Chloridoideae, in part) .....17. Cynodonteae
+9. Lemmas 3-veined, the lateral veins not prominent; glumes up to 3/4 as long as the  spikelets; blades lacking Kranz  anatomy  (Arundinoideae,  in part) .....16. Arundineae
+5. Adaxial ligules membranous, sometimes ciliolate or ciliate, but the cilia never as long as the membranous portion; hairs sometimes present at the sides of the collar region. 
+10. Culms 1-700 cm tall, usually less than 1 cm thick; leaves often mostly basal, sometimes mostly cauline, a few species with culms shorter than 80 cm having strongly distichous, mostly cauline leaves; inflorescences various, often with spikelike branches.
+11. Lemmas with 1, 3, or 7-13 veins, the veins usually conspicuous; blades with Kranz leaf anatomy (Chloridoideae, in part).....17. Cynodonteae
+11. Lemmas with 1-15 veins, the lateral veins usually inconspicuous; blades with non-Kranz leaf anatomy. 
+12. Lowest 1-4 florets in each spikelet sterile; paleas of fertile florets with gibbous bases and winged keels (Centothecoideae, in part) .....22. Centotheceae
+ 
+12. Lowest florets in each spikelet fertile; paleas of fertile florets not gibbous at the base, keels not winged (Danthonioideae, in part) .....20. Danthonieae
+10. Culms 80-1500 cm tall, 1-5 cm thick; leaves mainly cauline, evidently distichous and more or less evenly distributed; inflorescence a single terminal panicle, the branches not spikelike. 
+13. Lemmas awned; leaves with a line of hairs across the collar (Arundinoideae, in part) ..... 16. Arundineae
+13. Lemmas unawned; leaves without a line of hairs across the collar.
+14. Midvein of the leaf blades 5-15 mm wide near the base of the blades; blades 2-10 cm wide, those of the lower cauline leaves disarticulating; florets and plants unisexual; plants cultivated, not established, not reaching reproductive maturity when grown outside in the Flora region (Panicoideae, in part) .....24. Gynerieae
+14. Midvein of the leaf blades 0.5-3 mm wide near the base of the blades; blades 0.2-10 cm wide, those of the lower cauline leaves sometimes disarticulating; florets bisexual; plants cultivated, not established in the Flora region, usually reaching reproductive maturity in at least some part of the region   .....23. Thysanolaeneae
+ 
+
+    </key_body>
+  </key>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus latiglumis (Scribn. ex Shear) Hitchc.</name_authority_date>
+  </taxon_identification>
+  <common_names>HAIRY WOODBROME, FLANGED BROME, BROME A LARGES GLUMES</common_names>
+  <description type="morphology">Plants perennial; not rhizomatous. Culms 80-150 cm, erect; nodes 9-20, glabrous, usually concealed by the leaf sheaths; internodes usually glabrous, sometimes hairy just below the nodes. Sheaths overlapping, densely to moderately retrorsely pilose or glabrous over most of their surface, throats and collars densely pilose; auricles 1-2.5 mm on most lower leaves; ligules 0.8-1.4 mm, hirsute, ciliate, truncate, erose; blades 20-30 cm long, 5-15 mm wide, flat, usually glabrous, rarely pilose, with 2 prominent flanges at the collar. Panicles 10-22 cm, open, nodding; branches spreading to ascending. Spikelets 15-30 mm, elliptic to lanceolate, terete to moderately laterally compressed, with 4-9 florets. Glumes pubescent or glabrous; lower glumes 4-7.5 mm, l(3)-veined; upper glumes 6-9 mm, 3-veined, sometimes mucronate; lemmas 8-14 mm, elliptic to lanceolate, rounded over the midvein, backs glabrous or pilose to pubescent, margins long-pilose, apices obtuse to acute, entire; awns 3-4.5(7) mm, straight, arising less than 1.5 mm below the lemma apices; anthers 2-3 mm. 2n = 14.</description>
+  <discussion>Bromus latiglumis grows in shaded or open woods, along stream banks, and on alluvial plains and slopes. Its range is mainly in the north-central and northeastern United States and adjacent Canadian provinces. Specimens with decumbent, weak, sprawling culms, densely hairy sheaths, and heavy panicles can be called Bromus latiglumis i. incanus (Shear) Fernald.</discussion>
+</bio:treatment>

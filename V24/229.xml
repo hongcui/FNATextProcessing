@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Piptochaetium stipoides (Trin. & Rupr.) Hack. </name_authority_date>
+  </taxon_identification>
+  <common_names>STIPOID RICEGRASS</common_names>
+  <description type="morphology">Culms 20-60 cm, erect to ascending; nodes 2-4, dark, glabrous. Sheaths glabrous or hispidulous towards the collar; ligules 0.8-2 mm, glabrous, abaxial surfaces scabridulous, margins occasionally ciliate; blades (5)14-30 cm long, 0.2-0.4 mm wide, linear, glabrous or villous, margins scabridulous. Panicles 4-15 cm long, 1.5-3 cm wide, with 10-70 spikelets; branches ascending, scabridulous; pedicels 1-11 mm, hispid. Glumes subequal, 4-8.5 mm long, 1.5-2 mm wide, purple towards the base, glabrous, 5-veined, apices aristulate; florets 2.3-4(5) mm long, 0.8-2.3 mm thick, obovoid, globose to laterally compressed; calluses 0.5-0.6 mm, blunt, hairs white to golden tan; lemmas shiny, glabrous, striate, dark brown to black at maturity, wholly smooth to conspicuously verrucose or sharply papillose, at least distally, constricted below the crown; crowns well-developed, 0.6-1.6 mm wide, distal margins slightly to strongly revolute, inner surfaces densely covered with hooks and hairs; awns 15-25 mm, eccentric, twice-geniculate, tardily deciduous; paleas 2.5-5 mm; lodicules 2, linear; anthers about 0.5 mm. Caryopses 1.5-2.5 mm, spherical to ellipsoid. 2n = unknown.</description>
+  <discussion>Piptochaetium stipoides is native to South America. There is one known population in the Flora region, in Marin County, California, which grows with P. setosum in a meadow adjacent to an old dirt road. The origin of the population is not known; it has been suggested that the seeds might have been brought in by birds, as the area was a bird refuge at one time.
+The Californian plants belong to Piptochaetium stipoides (Trin. & Rupr.) Hack. var. stipoides, which differs from the only other variety recognized by Cialdella and Arriaga (1998), P. stipoides var. echinulatum Parodi, in having lemmas that are mostly smooth as well as a less revolute crown.
+</discussion>
+</bio:treatment>

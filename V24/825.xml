@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa secunda subsp. juncifolia (Scribn.) Soreng </name_authority_date>
+  </taxon_identification>
+  <common_names>ALKALI BLUEGRASS, BIG BLUEGRASS, NEVADA BLUEGRASS</common_names>
+  <description type="morphology">Basal leaf tufts usually medium to robust, infrequently tiny. Basal branching mainly extravaginal. Culms 30-120 cm. Ligules of culm leaves 0.5-6 mm, those of the innovations 0.5-2 mm, scabrous, apices truncate to obtuse; blades 1-3(5) mm, moderately thick to thick, slightly lax to firm, tending to hold their form and persist. Panicles (4)10-25(30) cm, narrowly lanceoloid, contracted, congested; branches erect, scabrous. Spikelets (4)7-10 mm, lengths 4-5 times widths, narrowly lanceolate, subterete; calluses glabrous; lemmas sparsely to moderately scabridulous to scabrous, usually glabrous, keels and marginal veins infrequently crisply puberulent on the basal 1/4, hairs usually shorter than 0.2 mm; paleas glabrous. 2n = 42, 56, 60, 61, 62, 63, 64, ca. 65, ca. 66, 70, 78, 84, ca. 97. </description>
+  <discussion>Poa secunda subsp. juncifolia is usually more robust than subsp. secunda, and generally inhabits moister and sometimes saline habitats. It comprises two fairly distinct variants: a robust upland variant that is frequently used for revegetation (P. ampla Merr., Big Bluegrass) that grows in deep, rich, montane soils; and a riparian and wet meadow variant (P. juncifolia Scribn., Alkali Bluegrass). Apart from generally having glabrous lemmas, short ligules on the vegetative shoots, and leaf blades that hold their form better, P. secunda subsp. juncifolia differs anatomically in the predominance of sinuous-walled, rectangular long cells in the blade epidermis; smooth-walled, fusiform long cells are predominant in P. secunda subsp. secunda. Plants with glabrous lemmas and long ligules on the vegetative shoots have been called P. nevadensis Vasey ex Scribn.; they are intermediate between the subspecies. Chromosome numbers for P. secunda subsp. juncifolia center on 2n = 63, indicating a high degree of apomixis.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Charles M. Allen</author>
+    </source>
+  </meta>
+  <number>26.23</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>HEMARTHRIA R. Br.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial. Culms to 150 cm, erect or decumbent, rooting at the nodes, usually branched above the bases. Leaves not aromatic; sheaths mostly glabrous, sometimes ciliate near the base; ligules membranous, ciliate; blades usually linear-lanceolate, sometimes linear. Inflorescences terminal and axillary, with 1(2) flattened rames borne on a common peduncle, spikelets partially embedded in the rame axes; disarticulation in the rames, usually oblique and often tardy. Spikelets in heterogamous sessile-pedicellate pairs, dorsally compressed. Sessile spikelets with 2 florets; calluses blunt; lower glumes coriaceous, smooth; upper glumes equaling the lower glumes, chartaceous to membranous, sometimes partially adnate to the rame axes, sometimes awned; lower florets reduced to hyaline lemmas; upper florets bisexual, lemmas unawned. Pedicels thick, fused to the rame axes. Pedicellate spikelets morphologically similar to the sessile spikelets, staminate or sterile, x = 9, 10. </description>
+  <discussion>Hemarthria is a genus of 12 species, native to the tropics and subtropics of the Eastern Hemisphere, and possibly to the Western Hemisphere. All the species grow in or near water. One species has been introduced into the Flora region.</discussion>
+</bio:treatment>

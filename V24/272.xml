@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Bromus sect. Ceratochloa (P. Beauv.) Griseb.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual, biennial, or perennial. Spikelets elliptic to lanceolate, strongly laterally compressed, with 3-12 florets. Lower glumes 3-7(9)-veined; upper glumes 5-9(1 l)-veined; lemmas lanceolate, laterally compressed, strongly keeled, at least distally, apices entire or with acute teeth, teeth shorter than 1 mm; awns straight, erect to slightly divaricate.</description>
+  <discussion>Bromus sect. Ceratochloa is native to North and South America, and contains about 25 species. It is marked by polyploid complexes; the major one in North America is the Bromus carinatus complex. This treatment recognizes six species in the complex: B. aleutensis, B. arizonicus, B. carinatus, B. maritimus, B. polyanthus, and B. sitchensis. The lowest chromosome number known for members of this complex is 2n= 28, found in B. carinatus; the highest is 2n = 84, found in B. arizonicus. The remaining species are hexaploids with 2n = 42, or octoploids with 2n = 56. One other species in the section, B. catharticus, has been introduced from South America and is also part of a polyploid complex.
+There is morphological intergradation among the species recognized here, and some evidence that these intermediates are sometimes partially fertile (Harlan 1945a, 1945b; Stebbins and Tobgy 1944; Stebbins 1947). Stebbins and Tobgy (1944) commented that partial hybrid sterility between plants placed in different species on the basis of their morphology "supports the recognition of more than one species among the octoploid members of the complex," but later Stebbins (1981) stated that "... all the North American octoploids . . . should be united into a single species, in spite of the barriers of hybrid sterility that separate them."
+</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>13</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Setaria rariflora J.C. Mikan ex Trin.</name_authority_date>
+  </taxon_identification>
+  <common_names>BRAZILIAN BRISTLEGRASS</common_names>
+  <description type="morphology">Plants perennial. Culms 30-70 cm, usually erect, branching profusely at the base; nodes glabrous or sparsely hispid. Sheaths keeled, sparsely pubescent, margins ciliate distally; ligules to 1 mm, of hairs; blades 15-30 cm long, usually less than 5 mm wide, densely pubescent on both surfaces. Panicles 5-15 cm, slender, attenuate, interrupted, sparsely flowered; rachises pubescent; branches mostly shorter than 10 mm, villous; bristles usually solitary, 4-7 mm, antrorsely scabrous. Spikelets about 2 mm, ovate-lanceolate. Lower glumes about 1/3 as long as the spikelets, 3-veined; upper glumes about 1/2 as long as the spikelets, 5-7-veined; lower lemmas equaling the upper lemmas; lower paleas equaling the upper paleas, broad; upper lemmas finely and distinctly transversely rugose; upper paleas similar to the upper lemmas. 2n = unknown.</description>
+  <discussion>Setaria rariflora has its center of distribution in South America. It is probably only recently adventive in North America, where it is known from Florida and the West Indies.</discussion>
+</bio:treatment>

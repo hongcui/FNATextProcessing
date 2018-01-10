@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Agrostis anadyrensis Soczava </name_authority_date>
+  </taxon_identification>
+  <common_names>ANADYR BENT</common_names>
+  <description type="morphology">Plants perennial; loosely cespitose, not rhizomatous or stoloniferous. Culms 20-50 cm, erect. Basal leaves usually numerous; ligules 0.6-3.5 mm, scabridulous, rounded, erose, sometimes lacerate, ciliate; blades to 10 cm long, 3-4 mm wide, flat. Panicles 6-20 cm long, 1-4(8) cm wide, lanceolate to ovate, somewhat contracted but not spikelike; branches erect, slender, scabrous; pedicels 0.5-8 mm. Spikelets lanceolate, greenish purple. Glumes subequal, 2-3.5 mm, 1-veined, ciliate on the keels, otherwise smooth, acute; callus hairs less than 76 the length of the lemma; lemmas 1.6-3 mm, translucent, 5-veined, veins obscure or prominent distally, apices acute, entire, awned from above midlength, awns 1-1.5 mm, geniculate, exserted; paleas absent; anthers 3, 0.5-0.8 mm. 2n = 56.</description>
+  <discussion>Agrostis anadyrensis grows in sand and gravel shores of rivers and lakes, and in meadows and shrubby valleys in eastern Siberia. It has been reported by Tsvelev (1976) from arctic Russia and southern Alaska. Specimens from Alaska purporting to be A. anadyrensis so far have proven to be A. mertensii (see previous). Agrostis anadyrensis differs from A. mertensii in being more robust, with wider, more abundant basal leaves, larger panicles, and minor differences in the insertion of the awns on the lemmas. In addition, the panicle branches are strongly scabrous, with long acicules throughout their length, contrasting with the smooth to weakly scabrous branches of A. mertensii.</discussion>
+</bio:treatment>

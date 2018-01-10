@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Panicum amarum Elliott subsp. amarum</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants with horizontally elongated rhizomes, internodes mostly over 1 cm, scales not overlapping. Culms 20-150 cm, solitary and erect or somewhat bunched and decumbent at the base, often branching from the lower nodes. Panicles often less than 5 cm wide, spikelet density less than in subsp. amarulum; primary branches solitary or paired, often strongly scabrous, with secondary and tertiary branches. Spikelets 4.7-7.7 mm. Lower glumes with 7-9 prominent veins, midvein scabridulous distally.</description>
+  <discussion>Panicum amarum subsp. amarum grows on foredunes, where its longer rhizomes probably permit it to respond quickly to being buried under shifting sand, and occasionally in the swales with subsp. amarulum. It ranges farther north (into Connecticut) than subsp. amarulum, but apparently not into Mexico, Cuba, or the Bahamas. It includes both tetraploids and hexaploids, and is partially sterile. Hybridization with P. virgatum may have had some role in its origin.</discussion>
+</bio:treatment>

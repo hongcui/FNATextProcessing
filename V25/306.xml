@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>60</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia lindheimeri Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>LINDHEIMER'S MUHLY</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 50-150 cm, stout, erect, not rooting at the lower nodes; internodes mostly glabrous, sometimes puberulent below the nodes. Sheaths shorter or longer than the internodes, glabrous, basal sheaths laterally compressed, keeled, not becoming spirally coiled when old; ligules 10-35 mm, firm and brown basally, membranous distally, acuminate; blades 25-55 cm long, 2-5 mm wide, flat or folded, firm, scabridulous abaxially, scabrous and shortly pubescent adaxially. Panicles 15-50 cm long, 0.6-3 cm wide, often purplish-tinged; primary branches 0.5-7 cm, appressed or strongly ascending, rarely spreading as much as 20° from the rachises; pedicels 0.5-1.2 mm, scabrous. Spikelets 2.4-3.5 mm, light grayish. Glumes equal, 2-3.5 mm, shorter than or equal to the florets, scabrous or smooth, 1-veined, obtuse to acute, occasionally bifid and the teeth to 0.3 mm, unawned, rarely mucronate, mucros less than 0.2 mm; lemmas 2.4-3.5 mm, lanceolate, scabrous or smooth, rarely puberulent near the base, apices obtuse to acute, unawned or awned, awns to 4 mm, straight; paleas 2.4-3.5 mm, lanceolate, obtuse; anthers 1.1-1.5 mm, purplish. Caryopses 1.2-1.6 mm, fusiform, reddish-brown. 2n = 20, 26.</description>
+  <discussion>Muhlenbergia lindheimeri grows in sandy draws to rocky, calcareous soils, generally in open areas, at elevations of 150-500 m. It is an uncommon species throughout its range, which includes northern Mexico in addition to southern Texas, but it is also grown as an ornamental. It differs from the closely related M. longiligula in its compressed-keeled basal sheaths, grayish spikelets, and, when present, bifid glume apices.</discussion>
+</bio:treatment>

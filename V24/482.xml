@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>42</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus xpseudorepens (Scribn. & J.G. Sm.) Barkworth & D.R. Dewey</name_authority_date>
+  </taxon_identification>
+  <common_names>FALSE QUACKGRASS</common_names>
+  <description type="morphology">Plants rhizomatous. Culms 30-100 cm, ascending or erect, glabrous, mostly smooth, sometimes scabrous below the nodes. Leaves evenly distributed; sheaths glabrous; ligules to 0.5 mm; blades 10-25 cm long, 2-7 mm wide, involute when dry, both surfaces scabrous, adaxial surfaces sparsely pilose, hairs 0.7-1 mm. Spikes 5.5-13 cm long, 0.4-0.6 cm wide, with 1 spikelet per node; internodes 3.5-5 mm. Glumes 8-18 mm, equaling or exceeded by the adjacent lemmas, more or less flat, 5-9-veined, margins unequal, the wider margins to about 0.3 mm, narrowly acute, sometimes awned, awns to 1 mm; lemmas 7.5-15 mm, smooth and glabrous proximally, scabrous distally, mucronate or awned, awns to 3 mm; anthers 1.5-2 mm.</description>
+  <discussion>Elymus xpseudorepens consists of hybrids between E. lanceolatus (p. 327) and E. trachycaulus (p. 321). It appears to be fairly common, having been reported from Alberta to Michigan and south to Arizona, New Mexico, and Arkansas.</discussion>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Andropogon glomeratus var. scabriglumis C.S. Campb.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants oblanceolate to obpyramidal in the upper portion. Culms 80-150 cm; internodes not glaucous. Sheaths usually scabrous; ligules ciliate, cilia 0.2-0.5 mm; blades green, smooth or pubescent. Subtending sheaths of inflorescence units (2.3)2.9-4.5(6.3) cm long, (1.5)2.3-3.3(4.4) mm wide; peduncles (2)5-10(16) mm; rames (1.7)1.9-2.3(2.8) cm, exerted. Keels of lower glumes usually scabrous below and above the midpoint. </description>
+  <discussion>Andropogon glomeratus var. scabriglumis grows in moist soils of seepage slopes and the edges of springs, from California to New Mexico and southward into Mexico.</discussion>
+</bio:treatment>

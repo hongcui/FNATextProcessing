@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Claus Badenf</author>
+    </source>
+  </meta>
+  <number>13.19</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>PSATHYROSTACHYS Nevski</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, forming dense to loose clumps, sometimes stoloniferous, sometimes rhizomatous. Culms 15-120 cm, erect or decumbent. Sheaths of the basal leaves closed, becoming fibrillose, of the upper cauline leaves open; auricles sometimes present; ligules 0.2-0.3 mm, membranous; blades with prominently ribbed veins on the adaxial surfaces. Inflorescences spikes, with 2-3 spikelets per node; disarticulation in the rachises. Spikelets appressed to ascending, with 1-2(3) florets, often with additional reduced florets distally. Glumes equal to unequal, (3.5)4.2-48.5(65) mm including the awns, subulate, stiff, scabrous to pubescent, obscurely 1-veined, not united at the base; lemmas 5.5-14.3 mm, narrowly elliptic, rounded, glabrous or pubescent, 5-7-veined, veins often prominent distally, apices sharply acute to awned, sometimes with a minute tooth on either side of the awn base, awns 0.8-34 mm, straight, ascending to slightly divergent, sometimes violet-tinged; paleas equaling or slightly longer than the lemmas, membranous, scabrous or pilose on and sometimes also between the keels, bifid; anthers 3, 2.5-6.8(7) mm, yellow or violet; lodicules 2, acute, entire, ciliate. Caryopses pubescent distally, tightly enclosed by the lemmas and paleas at maturity, x = 7. </description>
+  <discussion>Psathyrostachys has eight species, all of which are native to arid regions of central Asia, from eastern Turkey to eastern Siberia, Russia, and Xinjiang Province, China. One species, P. juncea, was introduced to North America as a potential forage species, and is now established in the Flora region.
+Psathyrostachys is very similar to Leymus, particularly the cespitose species of Leymus. The major differences are that Psathyrostachys has disarticulating rachises and, usually, distinctly awned lemmas.
+</discussion>
+  <references>Anamthawat-Jonsson, K. 2005. The Leymus Ns-genome. Czech J. Genet. PI. Breed. «(Special Issue):13-20; Baden, C. 1991. A taxonomic revision of Psathyrostachys (Poaceae). Nordic J. Bot 11:3-26; Bodvarsdottir, S.K. and K. Anamthawat-Jonsson. 2003. Isolation, characterization, and analysis of Leymus-specific DNA sequences. Genome 46:673-682.</references>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Lithachne humilis Soderstr. </name_authority_date>
+  </taxon_identification>
+  <common_names>SMALL LITHACHNE</common_names>
+  <description type="morphology">Culms 15-27 cm, erect; nodes 5-6, glabrous, with prominent infra- and supranodal ridges. Foliage leaves: sheaths glabrous or puberulent, hairs to 0.2 mm; pseudopetioles 0.7-1 mm; ligules about 0.2 mm, petiolar region sparsely pilose abaxially, hirsute adaxially; blades 2-6 cm long, 0.4-1 cm wide, bases asymmetric, midveins thickened near the base, both surfaces hairy, abaxial surfaces more densely hairy, hairs about 0.2 mm. Pistillate racemes exserted from the lower leaf sheaths, with 1 spikelet; rachis 8-10 mm, with a thin, rudimentary flap of tissue below the pistillate spikelet. Pistillate spikelets 7.3-9.5 mm, triangular in side view, gibbous; glumes glabrous; lower glumes 5.9-9.5 mm, 7-9-veined; upper glumes 5-7.5 mm, 5-7-veined; florets subtended by a persistent rachilla internode of about 1 mm; lemmas 2.8-3.5 mm, white, glabrous, indurate; paleas slightly shorter than the lemmas, 2-veined, veins inconspicuous; lodicules 3;  
+ovaries with 1 style and 2 plumose style branches. Staminate racemes 1-4, exserted terminally, extending about 2 cm beyond the subtending leaf sheath, with 1-2 pairs of unequally pedicellate spikelets, an upper short-pedicellate spikelet and a terminal spikelet. Staminate spikelets 4.2-7.5 mm; glumes absent; lemmas membranous, 3-veined, glabrous; paleas 2-veined; lodicules 3; anthers 3, 3.5-5.4 mm, yellow, almost basifixed. Caryopses brown, gibbous; hila linear. 2n = unknown.
+</description>
+  <discussion>Lithachne humilis is endemic to Honduras. It is sold as an ornamental in the United States. Soderstrom (1980) postulated that the flap below the pistillate spikelet is a vestige of a staminate spikelet; the wide-ranging L. pauciflora (Sw.) P. Beauv. has 1-5 staminate spikelets below each of the pistillate spikelets, while the narrow endemics L. pineti (C. Wright ex Griseb.) Chase and L. horizontalis Chase (from eastern Brazil and eastern Cuba, respectively) have no staminate spikelets and no flap of tissue beneath the pistillate spikelets.</discussion>
+</bio:treatment>

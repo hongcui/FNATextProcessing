@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Melica califoraica Scribn. </name_authority_date>
+  </taxon_identification>
+  <common_names>CALIFORNIA MELIC</common_names>
+  <description type="morphology">Plants densely cespitose, not rhizomatous. Culms 50-130 cm, not forming corms; lower nodes strigose; internodes usually smooth, sometimes puber-ulent below the nodes, lower 2-3 internodes usually swollen. Sheaths glabrous or pilose; ligules 1.5-4 mm; blades 1.5-5 mm wide, strigose on both surfaces. Panicles 4-30 cm; branches 3-6 cm, appressed, straight, with 4-15 spikelets; pedicels straight; disarticulation above the glumes. Spikelets 5-15 mm, with 2-5 bisexual florets; rachilla internodes 1.1-1.6 mm. Lower glumes 3.5-12 mm long, 2.5-3 mm wide, 3-5-veined; upper glumes 5-13 mm long, 2-2.5 mm wide, 5-7-veined; lemmas 5-9 mm, glabrous, smooth to scabrous, 7-9-veined, veins inconspicuous, apices rounded to broadly acute, unawned; paleas about 3/4 the length of the lemmas; anthers 3, 1.8-3 mm; rudiments 1.4-3 mm, clublike, not resembling the bisexual florets, truncate to acute. 2n= 18.</description>
+  <discussion>Melica californica grows from sea level to 2100 m, in a wide range of habitats, from dry, rocky, exposed hillsides to moist woods. Its range extends from Oregon to California. It differs from M. bulbosa in its more obtuse spikelets and less strongly colored lemmas, as well as in not having corms.
+Melica californica var. nevadensis Boyle supposedly differs from var. californica in having shorter spikelets (averaging 8, rather than 10, mm), more acute glumes and lemmas, blunter rudiments, and in being restricted to the lower Sierra Nevada; the two varieties intergrade, both morphologically and geographically.
+Boyle (1945) obtained vigorous sterile hybrids from crosses between M. californica and M. imperfecta, but found no natural hybrids.
+</discussion>
+</bio:treatment>

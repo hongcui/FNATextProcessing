@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>17.38</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>TRICHLORIS E. Fourn. ex Benth.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, sometimes stoloniferous. Culms to 150 cm, herbaceous, solid, glabrous. Sheaths open, rounded; ligules membranous, ciliate, cilia longer than the membranous base, conspicuous tufts of stiff hairs present on either side of the ligules; blades linear, flat or folded. Inflorescences terminal, panicles of non-disarticulating spikelike branches, exceeding the leaves; branches in 1 or more whorl(s), spikelets in 2 rows on the abaxial side of the branches, axes terminating in a functional spikelet. Spikelets laterally compressed, with 2-5 florets, lowest 1-2 florets bisexual, distal 1-3 florets progressively reduced and sterile; disarticulation above the glumes, all the florets falling as a unit. Glumes much shorter than the spikelets, membranous; lower glumes linear, acuminate; upper glumes lanceolate-ovate, awned; calluses bearded; lowest lemmas linear-lanceolate, 3-veined, veins prolonged into 3 awns; central awns 8-12 mm; lateral awns 0.5-12 mm; paleas 2-keeled, acute; distal floret(s) 1-3-awned; lodicules 2; anthers 2 or 3. Caryopses sulcate; embryos 1/2 as long as the caryopses; hila punctate, x = 10.</description>
+  <discussion>Trichloris has two species, both of which are native to the Flora region. It differs from Chloris in its 3-awned lemmas. Both species of Trichloris have a disjunct distribution, populations in North America being widely separated from those in South America.</discussion>
+  <references>Davidse, G. 1994. Trichloris E. Fourn. ex Bentham. P. 289 in G. Davidse, M. Sousa S., and A.O. Chater (eds.). Flora Mesoamericana, vol. 6: Alismataceae a Cyperaceae. Universidad Nacional Autonoma de Mexico, Instituto de Biologia: Mexico, D.F., Mexico. 543 pp.</references>
+  <key>
+    <key_body>
+1. Lowest lemma awns subequal, the central awns 8-12 mm long, equaling or slightly longer than the lateral awns .....1.T. crinita
+1. Lowest lemma awns unequal, the central awns 8-12 mm long, the lateral awns 0.5-1.5 mm long .....2. T. pluriflora
+
+    </key_body>
+  </key>
+</bio:treatment>

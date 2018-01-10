@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Michael B. Piep</author>
+    </source>
+  </meta>
+  <number>11.01</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>BRACHYPODIUM P. Beauv.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial or annual; rhizomatous or cespitose, rhizomes often extensively branched. Culms 5-200 cm, erect or decumbent, often rooting at the lower nodes, sometimes branched above the base; nodes often pubescent. Leaves not basally concentrated; sheaths open, margins overlapping, not fused; auricles absent; ligules membranous, entire, toothed, or ciliate; blades flat or convolute, often attenuate. Inflorescences spikelike racemes, most or all nodes with 1 spikelet, sometimes some with 2-3, most or all spikelets appressed to strongly ascending; disarticulation above the glumes, beneath the florets. Spikelets 14-80 mm, terete to laterally compressed, with (3)5-24 florets. Glumes unequal, 1/2 as long as to equaling the adjacent lemmas, lanceolate, membranous, apices obtuse to acuminate, lower glumes 3-7-veined, upper glumes 5-9-veined; lemmas usually membranous, sometimes coriaceous at maturity, rounded on the back, (5)7-9-veined, apices obtuse or acute, unawned or terminally awned; paleas shorter than to slightly longer than the lemmas, with 2 well-developed veins, sometimes with minor veins in between, keeled over the well-developed veins, keels strongly ciliate; lodicules 2, oblong, attenuate distally, margins ciliate or apices puberulent; anthers 3; styles 2, free to the base, white. Caryopses oblong, flattened, apices pubescent; hila linear, x = 5,7, 9. </description>
+  <discussion>Brachypodium is a genus of about 18 species, with about 15 species in Eurasia, centered on the Mediterranean, and three in the Western Hemisphere, centered in Mexico. All five species in the Flora region are Eurasian. Four of the five species have been used in the western United States in seeding trials for mountain rangeland.</discussion>
+  <references>Catalan, P. and R.G. Olmstead. 2000. Phylogenetic reconstruction of the genus Brachypodium P. Beauv. (Poaceae) from combined sequences of chloroplast ndbV gene and nuclear ITS. PI. Syst. Evol. 200:1-19; Catalan, P., Y. Shi, L. Armstrong, and C.A. Stace. 1995. Molecular phylogeny of the grass genus Brachypodium P. Beauv. based on RFLP and RAPD analysis. Bot. J. Linn. Soc. 113:263-280; False-Brome Working Group, [viewed 2006]. Home page. http://www.appliedeco.org/FBWG.htm; Hull, A.C., Jr. 1974. Species for seeding mountain rangelands in southeastern Idaho, northeastern Utah, and western Wyoming. J. Range Managem. 27:150-153; Khan, M.A. and C.A. Stace. 1998. Breeding relationships in the genus Brachypodium (Poaceae: Pooideae). Nordic J. Bot. 19:257-269; Lucchese, F. 1990. Revision and distribution of Brachypodium phoenicoides (L.) Roemer et Schultes in Italy. Ann. Bot. (Rome) 48:163-177; Nevski, S.A. 1963. Genus 193. Brachypodium P.B. Pp. 472-474 in R.Yu. Rozhevits [R.J. Roshevitz] and B.K. Shishkin [Schischkin] (eds.). Flora of the U.S.S.R., vol. 2, trans. N. Landau (series ed. V.L. Komarov). Published for the National Science Foundation and the Smithsonian Institution, Washington, D.C. by the Israel Program for Scientific Translations, Jerusalem, Israel. 622 pp. [English translation of Flora SSSR, vol. II. 1934. Botanicheskii Institut Im. V.L. Komarova, Akademiya Nauk, Leningrad [St. Petersburg], Russia. 778 pp.]; Rivas-Martinez, S., D. Sanchez-Mata, and M. Costa. 1999. North American boreal and western temperate forest vegetation. Itinera Geobot. 12:3-331; Schippmann, U. 1991. Revision der europaischen Arten der Gattung Brachypodium Palisot de Beauvois (Poaceae). Boissiera 45:1-249.</references>
+  <key>
+    <key_body>
+1. Plants annual; spikelets laterally compressed; anthers 0.5-1.1 mm long   .....1. B. distachyon
+1. Plants perennial; spikelets terete or subterete; anthers 2.8-6 mm long.
+2. Lemma awns 7-15 mm long, as long as or longer than the lemmas.....2. B. sylvaticum
+2. Lemma awns absent or to 7 mm long, shorter than the lemmas.
+3. Blades with all veins more or less equally prominent on the adaxial surfaces.....3. B. phoenicoides
+3. Blades with the primary veins separated by finer secondary veins on the adaxial surfaces. 
+4. Leaf blades flat, dark green, abaxial surfaces scabrous, not shiny; lemmas usually hairy .....4. B. pinnatum
+4. Leaf blades involute or flat, light green, abaxial surfaces smooth or almost so, conspicuously shiny; lemmas usually glabrous  .....5.B. rupestre
+
+    </key_body>
+  </key>
+</bio:treatment>

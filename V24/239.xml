@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Nassella pulchra (Hitchc.) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>PURPLE NASSELLA, PURPLE NEEDLEGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 35-100 cm tall, 1.8-3.1 mm thick, erect or geniculate at the lowest nodes, sometimes scabrous below the panicles, internodes mostly glabrous, lower internodes sometimes pubescent below the nodes; nodes 2-3, pubescent. Sheaths glabrous or hairy, sometimes mostly glabrous, sometimes the distal margins ciliate, varying within a plant; collars with tufts of hair at the sides, hairs 0.5-0.8 mm; ligules 0.3-1.2 mm, glabrous, truncate to rounded; blades 10-20 cm long, 0.8-3.5 mm wide, flat to  convolute,  abaxial  surfaces  glabrous  or sparsely pilose. Panicles 18-60 cm, open; branches 3-9 cm, spreading, flexuous, often pilose at the axils, with 2-6 spikelets; pedicels 3-10 mm. Glumes subequal, 12-20 mm long, 1.1-2.2 mm wide, narrowly lanceolate, glabrous; florets 7.5-11.5 mm long, about 1.2 mm thick, terete; calluses 1.8-3.5 mm, sharp, strigose; lemmas papillose, evenly pubescent at maturity, constricted below the crown; crowns 0.6-1.1 mm long, 0.5-0.7 mm wide, straight-sided to slightly flared, rims with 0.8-0.9 mm hairs; awns 38-100 mm long, 0.3-0.45 mm thick at the base, strongly twice-geniculate, terminal segment straight; anthers 3.5-5.5 mm, penicillate. Caryopses 4.5-6 mm. 2n = 64.</description>
+  <discussion>Nassella pulchra grows in oak chaparral and grassland communities of the coast ranges and Sierra foothills of California, extending south into Mexico. It probably never formed extensive grasslands (Hamilton 1997), flourishing primarily in moderately disturbed areas. It resembles N. manicata, but has longer florets and less strongly developed crowns. Nassella pulchra and N. cernua sometimes hybridize.</discussion>
+</bio:treatment>

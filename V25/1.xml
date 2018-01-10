@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Avenula pubescens (Huds.) Dumort.</name_authority_date>
+  </taxon_identification>
+  <common_names>DOWNY ALPINE OATGRASS</common_names>
+  <description type="morphology">Plants shortly stoloniferous. Culms 30-110 cm, erect or geniculate at the base. Basal leaves: sheaths closed to near the top; ligules 0.5-1 mm, truncate; blades 10-40 cm long, 2-6(8.5) mm wide, usually with hairs to 2 mm. Cauline leaves: sheaths closed for nearly their entire length, pubescent; ligules 5-8 mm, acute; blades 10-40 cm long, 2-6 mm wide, usually pubescent, margins very narrowly cartilaginous. Panicles 6-20 cm long, 2-6 cm wide, erect or nodding; branches 4-35 mm, flexuous or straight, with 1-4 spikelets. Spikelets 10-26 mm, with 2-4 florets; rachilla internodes about 2.5 mm, hairs 3-7 mm. Glumes scabrous on the veins. Lower glumes 7-20 mm, l(3)-veined; upper glumes 10-26 mm, 3-veined; calluses bearded, hairs 2-5 mm; lemmas 8-16 mm, awned, awns 12-26 mm, terete below the bend; paleas 8-12 mm; anthers 5-7 mm. 2n = 14, 28.</description>
+  <discussion>Avenula pubescens is native to Eurasia, where it grows in meadows, pastures, and woodland clearings. The most widespread taxon in Avenula pubescens (Huds.) Dumort. subsp. pubescens, which differs from Avenula pubescens subsp. laevigata (Schur) Holub) in having smaller spikelets (10-17 mm long with 2-3 florets versus 15-26 mm long with 3-4 florets). Avenula pubescens subsp. pubescens has been collected in southern Ontario, Anticosti Island in Quebec, and in New England, but is not known to be established in Canada. </discussion>
+</bio:treatment>

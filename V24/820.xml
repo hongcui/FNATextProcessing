@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>62</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa keckii Soreng </name_authority_date>
+  </taxon_identification>
+  <common_names>KECK'S BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; not glaucous; densely tufted, not stoloniferous, not rhizomatous. Basal branching all or mainly intravaginal. Culms 2-10(18) cm, erect to spreading; nodes terete, none exserted. Sheaths closed for 1/10 – 1/5 their length, terete, smooth, glabrous, bases of basal sheaths glabrous, distal sheath lengths 1.5-7 times blade lengths; collars smooth, glabrous; ligules 1-3 mm, milky white, smooth or sparsely scabrous, apices obtuse to acute, ligules of upper innovation leaves shorter than 3 mm; innovation blades similar to the cauline blades; cauline blades 1-3.5(4.5) cm long, 0.9-1.8 mm wide, folded, moderately thick, soft, smooth, glabrous, adaxial surfaces infrequently sparsely scabrous, usually with papillae on the long cells (at 100x), apices narrowly prow-shaped, flag leaf blades folded, 1-1.8 mm wide, abaxial surfaces with 7-15 closely spaced, slightly protruding ribs. Panicles 1-4(6) cm, erect, ovoid to lanceoloid, contracted, congested, with 9-40 spikelets; nodes with 1-3 branches; branches 0.5-1.5 cm, erect, fairly straight, sulcate or angled, angles sparsely to densely scabrous, with 1-7 spikelets; pedicels shorter than the spikelets. Spikelets 3.5-6 mm long, lengths to 3.5(3.8) times widths, lanceolate, laterally compressed, fairly strongly anthocyanic, not glaucous; florets 2-3; rachilla internodes terete, to 1.5 mm, smooth, sometimes sparsely hispidulous. Glumes lanceolate, smooth, distinctly keeled, keels sparsely scabrous; lower glumes shorter than to equaling the lowest lemmas, 3-veined; upper glumes frequently exceeding the lowest lemmas, exceeded by the upper lemmas; calluses glabrous; lemmas 3-4.9 mm,  
+lanceolate, distinctly keeled, thin, smooth or finely scabrous, glabrous or the keels and marginal veins sparsely puberulent proximally, lateral veins obscure, margins glabrous, apices acute; palea keels scabrous; anthers 0.6-1.3(1.8) mm. 2n = unknown.
+</description>
+  <discussion>Poa keckii is endemic to high alpine frost scars and ledges, usually on open ground, in the Sierra Nevada and adjacent Sweetwater and White mountains of California. It is very similar to Poa suksdorfii (see next), but is consistently distinct in its details.</discussion>
+</bio:treatment>

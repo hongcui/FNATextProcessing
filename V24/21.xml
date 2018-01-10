@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Christopher M.A. Stapleton</author>
+    </source>
+  </meta>
+  <number>2.04</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>PSEUDOSASA Makino ex Nakai</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants shrublike, spreading or loosely to densely clumped; rhizomes leptomorphic. Culms 0.5-13 m tall, to 4 cm thick, self-supporting, erect or nodding, pluricespitose; nodes not or slightly swollen; supranodal ridge not evident; internodes mainly terete, only slightly flattened immediately above the branches, glabrous, with light wax below the nodes. Branches initially 1-3, erect to arcuate, often short, central branch dominant, with compressed basal nodes, branches fully sheathed, lateral branches arising either from the basal nodes or from more distal nodes, sheaths and prophylls more or less glabrous, persistent, tough. Culm leaves coriaceous and very persistent; blades erect or reflexed, narrowly triangular to strap-shaped. Foliage leaves: sheaths persistent; blades cross veined, medium to large for the size of the culm, without marginal necrosis in winter, their arrangement random. Inflorescences racemose or paniculate; branches subtended by much reduced or quite substantial bracts. Spikelets 2-20 cm, with 3-30 florets; rachillas sinuous; disarticulation below the florets. Glumes 2, shorter than the first lemma; lemmas to 1 cm; anthers 3; styles 3; paleas 2-keeled. </description>
+  <discussion>Pseudosasa includes about 36 species, all of which are native to China, Japan, and Korea.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>70</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa napensis Beetle </name_authority_date>
+  </taxon_identification>
+  <common_names>NAPA BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; fairly glaucous; densely tufted, not stoloniferous, not rhizomatous. Basal branching intravaginal. Culms 30-100 cm, erect, terete, with 0(1) exserted nodes. Sheaths closed for 1/10(1/8) their length, terete, bases of basal sheaths glabrous, distal sheath lengths 1.5-5 times blade lengths; ligules 4-6 mm, scabrous, obtuse to acute; innovation blades similar to the cauline blades; cauline blades 1-3 mm wide, folded to involute, thick, fairly firm, pale green, abaxial surfaces scabrous, apices narrowly prow-shaped. Panicles 5-18(21) cm, erect, narrowly to broadly lanceoloid, loosely contracted, congested, with 40-100+ spikelets; nodes with 2-3(5) branches; branches 3-10 cm, erect to ascending, straight, angles densely scabrous, with 5-27 spikelets in the distal1/2. Spikelets (4)4.5-7 mm, lengths 3-3.5 times widths, lanceolate, laterally compressed, drab; florets 3-5; rachilla internodes usually shorter than 1 mm, smooth. Glumes lanceolate, slightly unequal, pale, distinctly keeled, keels sparsely scabrous; lower glumes 3-veined; calluses glabrous, rarely with a crown of hairs, hairs to 0.1 mm; lemmas 3-4 mm, lanceolate, distinctly keeled, finely scabrous, usually glabrous, keels and marginal veins rarely sparsely puberulent proximally, lateral veins obscure to moderately prominent, intercostal regions muriculate, margins glabrous, apices acute; paleas scabrous over the keels; anthers 1.2-1.8 mm. 2n = 42.</description>
+  <discussion>Poa napensis is endemic to mineralized ground around hot springs in Napa County, California. It is listed as an endangered species by the United States Fish and Wildlife Service. The sectional placement of the species is suggested by the rare occurrence of a minute crown of hairs around the callus and its possession of a chloroplast genome like that of P. secunda (p. 588).</discussion>
+</bio:treatment>

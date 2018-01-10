@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Danthonia intermedia Vasey</name_authority_date>
+  </taxon_identification>
+  <common_names>TIMBER OATGRASS, DANTHONIE INTERMÉDIARE</common_names>
+  <description type="morphology">Culms 10-50(70) cm, not disarticulating at maturity. Sheaths usually glabrous; blades 5-10 cm long, 1-3.5 mm wide, glabrous or slightly pilose. Inflorescences with (4)5-10 spikelets; branches stiff, ap¬pressed or strongly ascending; lower branches with (1)2-3(5) spikelets; pedicels on the lowest branch shorter than the spikelets. Spikelets 11-15(19) mm. Calluses of middle florets longer than wide, concave abaxially; lemma bodies 3-6 mm, glabrous over the back, densely pilose along the margins, teeth 1.5-2.5 mm, acute to acuminate or aristate; awns 6.5-8 mm; anthers usually tiny, some¬times to 4 mm. Caryopses (2)2.3-3 mm long, 0.7-1.1 mm wide. Cleistogenes rarely produced. 2n = 36, 98.</description>
+  <discussion>Danthonia intermedia grows in boreal and alpine meadows, open woods, and on rocky slopes and northern plains. Its range extends from Kamchatka, Russia, to North America, south along the cordillera, and east, through boreal and alpine regions, to Quebec and Newfoundland and Labrador. Its primarily cleistogamous reproduction has probably facilitated its establishment and spread through more boreal and alpine habitats than other members of the genus.
+Tzvelev (1976) treats the American plants as D. intermedia (Vasey) subsp. intermedia and the Russian plants, which have 2n = 18, as D. intermedia subsp. riabuschinskii (Kom.) Tzvelev.
+</discussion>
+</bio:treatment>

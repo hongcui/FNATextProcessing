@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>37</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis hirsuta (Michx.) Nees </name_authority_date>
+  </taxon_identification>
+  <common_names>BIGTOP LOVEGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, with innovations and hardened bases, without rhizomes, not glandular. Culms (30)45-100 cm, erect, glabrous below the nodes. Sheaths rarely glabrous, apices and distal margins usually hairy, sometimes also densely hairy basally, dorsally, and on the collars, hairs to 6 mm, papillose-based; ligules 0.2-0.4 mm; blades 25-60 cm long, 3-8(11) mm wide, flat to loosely involute, usually glabrous, adaxial surfaces sometimes hairy basally. Panicles 25-85 cm long, 15-40 cm wide, broadly ovate, open; primary branches mostly 4-35(45) cm, diverging 20-90° from the rachises, capillary; pulvini glabrous or hairy; pedicels 2-28 mm, divergent. Spikelets 2-4(5) mm long, 1-1.7 mm wide, lanceolate, greenish with purplish tinges, with 2-6 florets; disarticulation acropetal, paleas persistent. Glumes lanceolate, hyaline to membranous; lower glumes 1.1-2 mm; upper glumes 1.5-2.8 mm, apices acuminate to acute; lemmas 1.6-2.4 mm, ovate, membranous, hyaline near the margins, lateral veins inconspicuous, apices acute; paleas 1.2-2.2 mm, hyaline, bases not projecting beyond the lemmas, apices acute to obtuse; anthers 3, 0.3-0.8 mm, purplish. Caryopses 0.8-1 mm, rectangular-prismatic, somewhat laterally compressed, with or without a well-developed  adaxial  groove, striate, opaque, reddish-brown. 2n = 100.</description>
+  <discussion>Eragrostis hirsuta grows in sandy clay loams on the coastal plain and along roadsides, at 0-150 m, usually in association with Pinus palustris and Quercus. Its range extends from the southeastern United States through eastern Mexico to Guatemala and Belize.</discussion>
+</bio:treatment>

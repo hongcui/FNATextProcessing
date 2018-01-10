@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>14</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia tenuifolia (Kunth) Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>SLENDER MUHLY</common_names>
+  <description type="morphology">Plants annual or short-lived perennials; cespitose, not rhizomatous. Culms 20-70 cm, erect or decumbent; internodes mostly scabridulous or smooth, always scabridulous below the nodes. Sheaths usually shorter than the internodes, glabrous, smooth or scabridulous, usually without necrotic spots, not becoming spirally coiled when old; ligules 1.2-3(5) mm, membranous through¬out, acute, often lacerate; blades 2-13 cm long, 1.2-2.5 mm wide, flat or loosely involute, scabridulous or glabrous abaxially, scabrous adaxially, usually without necrotic spots. Panicles numerous, terminal and axillary, 7-20 cm long, 0.3-1.4(3) cm wide, contracted, often lax, nodding, interrupted below; primary branches 3.5-7.5 cm, ascending or diverging up to 70° from the rachises, spikelet-bearing to the base; pedicels 1-3 mm, antrorsely scabrous; disarticulation above the glumes. Spikelets 2-4 mm, often purplish, borne singly. Glumes 1.2-2.8 mm, shorter than the florets, 1-veined, veins scabrous, apices often erose, unawned or awned, awns to 0.5 mm; lower glumes 1.2-2 mm, acute to acuminate; upper glumes 1.5-2.8 mm, acute; lemmas 2-3.5(4) mm, lanceolate, mostly smooth, scabridulous distally, pubescent on the calluses, lower 1/2 of the midveins, and margins, hairs 0.5-1.5 mm, apices acuminate to acute, awned, awns 10-30 mm, scabrous, sinuous to flexuous; paleas 1.8-3.4(3.8) mm, lanceolate, sparsely villous basally, apices acuminate to acute; anthers 0.9-1.5 mm, yellowish. Caryopses 1-2.2 mm, narrowly fusiform, brownish. Cleistogamous panicles not present. 2n = 20, 40. </description>
+  <discussion>Muhlenbergia tenuifolia grows in gramma grasslands and pine-oak woodlands on rocky slopes, limestone rock outcrops, gravelly roadsides, and in sandy drainages, at elevations of 1200-2200 m. Its range extends through Mexico to northern South America.</discussion>
+</bio:treatment>

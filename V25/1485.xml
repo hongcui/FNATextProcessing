@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>34</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum caespitosum Flüggé </name_authority_date>
+  </taxon_identification>
+  <common_names>BLUE PASPALUM</common_names>
+  <description type="morphology">Plants perennial; cespitose. Culms 20-60 cm, erect, base swollen,   bulblike; cataphylls pubescent; nodes sparsely pubescent or glabrous. Sheaths pubescent or glabrous; ligules 0.2-0.4 mm; blades to 25 cm long, 1.9-6.2 mm wide, flat, glabrous, pubescent behind the ligules, margins scabrous, often ciliate basally. Panicles terminal, with 2-5(8)  racemosely arranged branches; branches 0.9-4.4 cm, divergent to spreading, terminating in a spikelet; branch axes 0.2-0.5 mm wide, narrowly winged. Spikelets 1.3-2 mm long, 0.7-1 mm wide, paired (rarely appearing solitary as a result of aborted spikelets), imbricate, appressed to the branch axes, elliptic. Lower glumes absent; upper glumes and lower lemmas glabrous or sparsely and shortly pubescent basally or around the margins, 5-veined, margins entire; lower lemmas lacking ribs over the veins; upper florets 1.3-1.8 mm, stramineous to golden brown. Caryopses 1.2-1.4 mm, ellipsoid, amber. 2n = 40.</description>
+  <discussion>Paspalum caespitosum grows in hammocks and sandy pinelands. It is native in southern Alabama, Florida, the West Indies, Mexico, and Central America.</discussion>
+</bio:treatment>

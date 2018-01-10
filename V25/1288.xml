@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Panicum sect. Antidotalia Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; rhizomatous. Culms robust, lignified, branching at the middle nodes. Ligules membranous, ciliate, cilia longer than the membranous base. Panicles pyramidal, more or less lax, with many spikelets. Spikelets ellipsoid to ovoid. Lower glumes to 1/2 as long as the spikelets, 1-5-veined; upper glumes and lower lemmas 7-11-veined; lower florets staminate; upper florets smooth, shiny, x = 9.</description>
+  <discussion>In Panicum sect. Antidotalia, the culms become almost woody at maturity; even a hammer blow fails to flatten them.</discussion>
+</bio:treatment>

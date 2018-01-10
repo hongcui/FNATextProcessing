@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>15</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Glyceria xoccidentalis (Piper) J.C. Nelson </name_authority_date>
+  </taxon_identification>
+  <common_names>WESTERN MANNAGRASS</common_names>
+  <description type="morphology">Plants perennial. Culms 60-160 cm tall, 2.5-5 mm thick, erect or decumbent and rooting from the lower nodes. Sheaths smooth to scabridulous, keeled, sometimes weakly so; ligules 7-12 mm; blades 20-30 cm long, (2.5)4-12 mm wide, adaxial surfaces scab¬ridulous, occasionally papillose. Panicles 20-50 cm long, 2-15 cm wide, usually narrow, open at anthesis; branches 4.5-18 cm, somewhat lax, usually ascending, strongly divergent at anthesis, with 2-8 spikelets, pedicels 1.5-8 mm. Spikelets 13-23 mm long, 1.5-3.5 mm wide, cylindrical and terete, except at anthesis when slightly laterally compressed, rectangular in side view, with 6-13 florets. Glumes acute to obtuse;  
+lower glumes 1.1-2.8 mm; upper glumes 2.9-3.7 mm, about twice as long as the lower glumes; rachilla internodes 1-2.8 mm; lemmas 4.5-5.9 mm, scabridulous, midveins extending to within 0.1 mm of the apical margins, apices acute, usually slightly lobed or irregularly crenate; paleas usually shorter than or equaling the lemmas, sometimes slightly longer, keels winged, apices shallowly notched to slightly bifid, teeth to 0.2 mm, parallel; anthers 2, 0.6-1.6 mm. 2n = 40.
+</description>
+  <discussion>Glyceria xoccidentalis has hitherto been considered an uncommon native species that grows along lakes, ponds, and streams, and in marshy areas of western North America. It differs from other species in the region primarily in its longer lemmas and anthers. Studies of chloroplast DNA in western North American species of Glyceria demonstrated that, contrary to C.L. Hitchcock's (1969) conclusion, G. fluitans is present in western North America, and that all specimens being identified as G. xoccidentalis had cpDNA resembling that of G. leptostachya or G. fluitans; there was no distinctive G. xoccidentalis cpDNA (Whipple et al. [in press]). This strongly suggests that G. xoccidentalis is a series of reciprocal hybids, and probably backcrosses, between G. fluitans and G. leptostachya. As the key indicates, G. xoccidentalis is intermediate between its two putative parents. The cpDNA study also confirmed that G. declinata is distinct from G. xoccidentalis (see discussion under that species).</discussion>
+</bio:treatment>

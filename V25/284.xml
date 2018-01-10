@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>38</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia filiformis (Thurb. ex S. Watson) Rydb. </name_authority_date>
+  </taxon_identification>
+  <common_names>PULL-UP MUHLY</common_names>
+  <description type="morphology">Plants annual (often appearing perennial), tufted. Culms (3)5-20(35) cm, erect or geniculate, often rooting at the lower nodes; internodes glabrous. Sheaths shorter or longer than the internodes, glabrous, smooth or scabrid-ulous; ligules 1-3.5 mm, hyaline to membranous, rounded to acute; blades 1-4(6) cm long, 0.6-1.6 mm wide, flat or involute, smooth or scabridulous abaxially, scabrous or pubescent adaxially. Panicles 1.6-6 cm long, 0.2-0.5 cm wide, spikelike, interrupted near the base, long-exserted; primary branches 0.9-1.2 cm, closely appressed at maturity; pedicels 1-3 mm, scabrous. Spikelets 1.5-3.2 mm. Glumes greenish-gray, glabrous, 1-veined, rounded to subacute; lower glumes 0.6-1.4 mm; upper glumes 0.7-1.7 mm; lemmas (1.5)1.8-2.5(3.2) mm, lanceolate, dark greenish, appressed-pubescent on the margins and midveins, hairs shorter than 0.3 mm, apices scabridulous, acute to acuminate, unawned, sometimes mucronate, mucros shorter than 1 mm; paleas 1.6-2.6(3.1) mm, lanceolate, scabridulous distally; anthers 0.5-1.2 mm, purplish. Caryopses 0.9-1.5 mm, fusiform, reddish-brown. 2n = 18.</description>
+  <discussion>Muhlenbergia filiformis grows in open, moist meadows, on gravelly lake shores, along stream banks, and in moist humus near thermal springs, at elevations of 1060-3050 m. It is usually associated with yellow pine forests, but also grows in many other plant communities. Its range extends into northern Mexico.
+Muhlenbergia filiformis resembles M. richardsonis, but differs in having glabrous internodes and subacute apices. Large, robust specimens have been referred to M. simplex Scribn. or M. filiformis var. fortis E.H. Kelso but, until there is more evidence to the contrary, it seems best to treat such plants as representing an extreme of the variation within M. filiformis.
+</discussion>
+</bio:treatment>

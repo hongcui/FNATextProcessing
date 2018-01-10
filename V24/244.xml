@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Nassella viridula (Trin.) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>GREEN NASSELLA, GREEN NEEDLEGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 35-120 cm, erect or geniculate basally, internodes mostly glabrous, pubescent below the lower nodes; nodes 2-3, glabrous. Sheaths mostly glabrous, margins usually ciliate; collars of basal leaves hispidulous, with tufts of hair at the sides, hairs 0.5-1.8 mm, collars of flag leaves glabrous or sparsely pubescent; ligules 0.2-1.2 mm, glabrous, truncate to rounded; blades 10-30 cm long; 1.5-3 mm wide, flat to convolute, abaxial surfaces scabridulous, glabrous, adaxial surfaces glabrous. Panicles 2.9-7.2 cm, loosely contracted; branches 1-4 cm, appressed or ascending, with 3-7 spikelets; pedicels 1-9 mm. Glumes subequal, 6.8-13 mm long, 1-2.1 mm wide, narrowly lanceolate, glabrous, apiculate; florets 3.4-5.5 mm long, 1-1.2 mm wide, terete; calluses 0.7-1.4 mm, moderately sharp, strigose; lemmas papillose, evenly pubescent, not constricted below the crown; crowns 0.4-0.5 mm long, 0.3-0.5 mm wide, not conspicuous, straight-sided, rims with 0.5-0.75 mm hairs; awns 19-32 mm, evidently twice-geniculate, terminal segment straight; anthers (0.8)2-3 mm, sometimes penicillate. Caryopses about 3.5 mm. 2n = 82, 88.</description>
+  <discussion>Nassella viridula grows in grasslands and open woods, frequently on sandy soils. It is the most widespread species of Nassella in North America. Its morphology, distribution, and high chromosome number suggest that it may be an alloploid between Nassella and Achnatherum. It is included in Nassella because it resembles Nassella more than Achnatherum in the characters distinguishing the two genera. It differs from Achnatherum robustum in its tightly convolute lemmas and in having glabrous to sparsely pubescent collars on its flag leaves. It differs from the hybrid with Achnatherum hymenoides, xAchnella caduca, in its less saccate glumes, shorter lemmas hairs, and shorter paleas.</discussion>
+</bio:treatment>

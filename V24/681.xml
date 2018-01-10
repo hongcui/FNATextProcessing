@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>19</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Puccinellia nuttalliana (Schult.) Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>NUTTALL'S ALKALI GRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, not mat-forming. Culms 10-100 cm, usually erect. Leaves either concentrated at the base or distributed along the culms; ligules 1-3 mm, obtuse, usually entire, sometimes slightly erose; blades 1-4 mm wide, flat to involute. Panicles 5-30 cm, compact to diffuse at maturity, usually distinctly exserted from the sheaths, lower branches usually erect to diverging, occasionally descending, spikelet-bearing from the base or on the distal 2/3; pedicels scabrous, lacking tumid epidermal cells. Spikelets 3.5-9 mm, with 2-7 florets. Glumes rounded over the back, veins obscure, apices acute to obtuse; lower glumes 0.5-1.5 mm, usually less than 1/2 as long as the adjacent lemmas; upper glumes 1-2.8 mm; rachilla internodes slightly and gradually broadened to the point of attachment with the lemmas; calluses with a few hairs; lemmas (2)2.2-3(3.5) mm, herbaceous, glabrous or sparsely hairy on the proximal 1/2, principally along the veins, backs rounded, 5-veined, veins obscure, not extending to the margins, smooth distally, lateral margins inrolled or not, apical margins uniformly and densely scabrous, apices acute to obtuse, entire; palea veins glabrous, short-ciliate, or with a few long hairs proximally, smooth or scabrous distally; anthers 0.6-2 mm. 2n = 28, 42, 56.</description>
+  <discussion>Puccinellia nuttalliana is a widespread and variable species, restricted to the Flora region. It grows principally in the interior, but is also found in coastal settings, where it is difficult to distinguish from P. nutkaensis. Northern, primarily boreal or southern arctic populations with relatively short lemmas and anthers (2-2.8 mm and 0.6-0.9 mm, respectively), and with a few long hairs on the lower palea veins, have sometimes been recognized as P. borealis Swallen.</discussion>
+</bio:treatment>

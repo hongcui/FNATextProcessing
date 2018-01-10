@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Schedonnardus paniculatus (Nutt.) Trel. </name_authority_date>
+  </taxon_identification>
+  <common_names>TUMBLEGRASS</common_names>
+  <description type="morphology">Panicles 5-50 cm, rachises becoming curved; branches 2-8(16) cm. Lower glumes 1.5-3 mm; upper glumes 1.5-4(5.5) mm; lemmas 3-5 mm; anthers 0.7-1.4 mm. Caryopses 2.5-3.5 mm. 2n = 20, 30.</description>
+  <discussion>Schedonnardus paniculatus is frequently found in disturbed areas. At maturity, the panicle breaks at the base and functions as a tumbleweed for seed dispersal. It is often a conspicuous feature of deserted towns in films of the American West.</discussion>
+</bio:treatment>

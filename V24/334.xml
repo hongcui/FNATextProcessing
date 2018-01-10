@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>47</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus caroli-henrici Greuter </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual. Culms 10-40 cm, erect or ascending. Lower sheaths densely retrorsely villous-pubescent, upper sheaths glabrous; ligules 0.5-1 mm, glabrous, truncate, dentate or lacerate; blades 5-20 cm long, 1.5-4 mm wide, pilose, sparingly pubescent, or subglabrous. Panicles 6-15 cm long, 1-2 cm wide, racemose, dense, strongly contracted, stiffly erect; branches shorter than the spikelets, stiff, erect, straight. Spikelets 17-45 mm long, 4-7 mm wide, narrowly oblong or lanceolate, terete to moderately laterally compressed, usually 1 per node; florets (4)8-12, bases concealed at maturity; rachilla internodes concealed at maturity. Glumes glabrous or puberulent; lower glumes 7-9 mm, 3-veined, upper glumes 8-11 mm, 5-7-veined; lemmas 11-15(17) mm long, 3-5 mm wide, lanceolate, glabrous or pubescent, 9-veined, rounded over the midvein, margins bluntly angled, not inrolled at maturity, apices and teeth acuminate, teeth shorter than 1 mm; awns 12-20 mm, strongly divaricate at maturity, flattened and often basally twisted, arising 1.5 mm or more below the lemma apices; anthers 0.75-1.5 mm. Caryopses equaling or shorter than the paleas, thin, weakly inrolled or flat. 2n = 14, 28.</description>
+  <discussion>Bromus caroli-henrici is native to Mediterranean Europe. In the Flora region, it grows in open, disturbed areas in Butte and Yolo counties, California. It has been misidentified as B. alopecuros Poir. It differs in having 1, rather than 2-3, spikelets at the rachis nodes, and acuminate, rather than broadly triangular, lemma teeth.</discussion>
+</bio:treatment>

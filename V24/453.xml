@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Elymus trachycaulus (Link) Gould subsp. trachycaulus </name_authority_date>
+  </taxon_identification>
+  <common_names>SLENDER WHEATGRASS, ÉLYME À CHAUMES RUDES, AGROPYRE À CHAUMES RUDES</common_names>
+  <description type="morphology">Culms 30-150 cm. Spikes (4)8-30 cm long, 0.5-0.8 cm wide, 2-sided; internodes 8-15 mm. Spikelets with 3-9 florets, the bases usually visible. Glumes 5-17 mm, at least 1 vein scabrous to near the base, sometimes all veins scabrous, unawned or with straight awns shorter than 2 mm; lemmas unawned or awned, awns to 5 mm, straight.</description>
+  <discussion>Elymus trachycaulus subsp. trachycaulus grows throughout the habitat and range of the species, and exhibits considerably more variation than subsp. subsecundus. Two aspects of the variation that seem particularly worthy of further study are the glume venation and the spacing of spikelets in the spikes. Plants with glumes having 5-7 well-developed, narrowly spaced veins are restricted to lower elevations and the southern portion of the subspecies range; northern plants and plants at higher elevations generally have 3-5 weakly developed and widely spaced veins. The former glumes resemble those of E. glaucus, with which E. trachycaulus subsp. trachycaulus is often sympatric; the latter, those of E. violaceus (p. 324). Spikelet spacing also varies considerably. In at least some instances, plants with widely spaced spikelets appear to be associated with more shady habitats.</discussion>
+</bio:treatment>

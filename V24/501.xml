@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>13.15</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>PASCOPYRUM Á. Löve  </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; rhizomatous. Culms 20-100 cm. Leaves basally concentrated; sheaths striate when dry, smooth, usually glabrous, rarely pilose; auricles present; ligules membranous. Inflorescences terminal, distichous spikes, spikelets usually 1 per node, occasionally in pairs at the lower nodes, spikelets at the lower 4-6 nodes often sterile; lowest internodes to 26 mm, 2 times as long as the middle internodes. Spikelets 12-26(30) mm, 1-3 times the length of the internodes, straight, usually ascending, not appressed, with 2-12 florets; disarticulation above the glumes, beneath the florets. Glumes 5-15 mm, 1/2 - 2/3 the length of the spikelets, usually narrowly lanceolate, stiff, tapering from midlength or below, slightly curving to the side distally, not keeled, 3-5-veined basally, 1-veined distally, apices acuminate; lemmas lanceolate, rounded on the back, acute, mucronate to awned, awns to 5 mm, straight; paleas slightly shorter than the lemmas; anthers 3, 2.5-6 mm. Caryopses 4-5 mm, falling with the lemmas and paleas. 2n = 56. Haplomes St, H, Ns, and Xm. </description>
+  <discussion>Pascopyrum is a North American allooctoploid genus with one species. It combines the genomes of Leymus with those of Elytnus. There are no other species that combine these two tetraploid genomes, although there are many species of both Elymus and Leymus in Eurasia and North America.</discussion>
+  <references>Dewey, D.R. 1975. The origin of Agropyron smithii. Amer. J. Bot. 62:524-530; Gillett, J.M. and H.A. Senn. 1960. Cytotaxonomy and infraspecific variation of Agropyron smithii Rydb. Canad. J. Bot. 38:747-760.</references>
+</bio:treatment>

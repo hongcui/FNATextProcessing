@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Hordeum jubatum subsp. intermedium Bowden</name_authority_date>
+  </taxon_identification>
+  <common_names>INTERMEDIATE BARLEY</common_names>
+  <description type="morphology">Central spikelets: glumes 15-35 mm, spreading at maturity; lemmas awned, awns 11-35 mm.</description>
+  <discussion>Hordeum jubatum subsp. intermedium is most abundant in the dry prairies of the northern Rocky Mountains and northern plains, growing at 0-3000 m. It also grows, as a disjunct, in southern Mexico. It is sometimes treated as a species, either as H. intermedium Hausskn. or H. ^intermedium Hausskn., the latter reflecting a suspected hybrid origin involving H. jubatum and H. brachyantherum.</discussion>
+</bio:treatment>

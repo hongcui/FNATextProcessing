@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>14</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Panicum lacustre Hitchc. & Ekman </name_authority_date>
+  </taxon_identification>
+  <common_names>CYPRESS-SWAMP PANICUM</common_names>
+  <description type="morphology">Plants perennial; emergent aquatic or terrestrial, rooting at the lower nodes. Culms 100-150 cm, erect, succulent, with short innovations; nodes glabrous; internodes glabrous. Sheaths compressed, not keeled, overlapping but narrow, exposing the nodes, bladeless and glabrous or sparsely pilose below the water; ligules 1-2 mm, membranous, ciliate; blades 1-30 cm long, 2-4 mm wide, narrow, linear, flat or folded, abaxial surfaces sparsely pubescent, adaxial surfaces sparsely pilose. Panicles 10-30 cm, open, with many spikelets; primary branches fascicled at the base of the panicles, solitary and distant distally; pedicels 1-4 mm, sharply 3-angled, appressed. Spikelets 2-2.2 mm, glabrous. Lower glumes truncate to broadly triangular, 1/4 as long as the spikelets, 3-veined; lower paleas absent; upper glumes and lower lemmas equal, slightly exceeding the upper florets, 5- or 7-veined, pointed; lower florets sterile; upper florets relatively thin, smooth. 2n = unknown.</description>
+  <discussion>Panicum lacustre grows in shallow water or wet soil at the edge of cypress ponds in the Everglades of southern Florida. It also grows in Cuba.</discussion>
+</bio:treatment>

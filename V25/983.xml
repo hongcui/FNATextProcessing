@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Kelly W. Allred</author>
+    </source>
+  </meta>
+  <number>21.01</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>ARISTIDA L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants usually perennial; herbaceous, usually cespitose, occasionally rhizomatous. Culms 10-150 cm, not woody, sometimes branched above the base; internodes usually pith-filled, sometimes hollow. Leaves sometimes predominantly basal, sometimes predominantly cauline; sheaths open; auricles lacking; ligules of hairs or very shortly membranous and long-ciliate, the 2 types generally indistinguishable. Inflorescences terminal, usually panicles, sometimes racemes, occasionally spikes; primary branches without axillary pulvini and usually appressed to ascending, or with axillary pulvini and ascending to strongly divergent or divaricate. Spikelets with 1 floret; rachillas not prolonged beyond the florets; disarticulation above the glumes. Glumes often longer than the florets, thin, usually 1-3-veined, acute to acuminate; florets terete or weakly laterally compressed; calluses well-developed, hirsute; lemmas fusiform, 3-veined, convolute, usually glabrous or scabridulous, usually enclosing the palea at maturity, usually with 3 terminal awns, lateral awns reduced or obsolete in some species, lemma apices sometimes narrowed to a straight or twisted beak below the awns; awns ascending to spreading, usually straight, bases sometimes twisted together into a column or the bases of the individual awns coiled, twisted, or otherwise contorted, occasionally disarticulating at maturity; paleas shorter than the lemmas, 2-veined, occasionally absent; anthers 1 or 3. Caryopses fusiform; hila linear, x = 11, 12. </description>
+  <discussion>Aristida is a tropical to warm-temperate genus of 250-300 species. It grows throughout the world in dry grasslands and savannahs, sandy woodlands, arid deserts, and open, weedy habitats and on rocky slopes and mesas. All 29 species in this treatment are native to the Flora region.
+The divergent awns aid in wind and animal transportation of the florets and, by holding the florets and the caryopses they contain at an angle to the ground, in establishment. The presence of Aristida frequently indicates soil disturbance or abuse. Although generally poor forage grasses and, because of the calluses, potentially harmful to grazing animals, some species of Aristida are an important source of spring forage on western rangelands. Quail and small mammals eat small amounts of the seed.
+</discussion>
+  <references>Allred, K.W. 1984. Morphologic variation and classification of the North American Aristida purpurea complex (Graraineae). Brittonia 36:382-395; Allred, K.W. 1984, 1985, 1986. Studies in the genus Aristida (Gramineae) of the southeastern United States. Rhodora 86:73-77; 87:137-145, 145-155; 88:367-387; Henrard, J.T. 1926, 1927, 1928, 1933. A critical revision of the genus Aristida. Meded. Rijks-Herb. 54:1-701; 55G703-747; Henrard, J.T. 1929, 1933. A monograph of the genus Aristida. Meded. Rijks-Herb. 58:1-325; Kesler, T.R. 2000. A taxonomic reevaluation of Aristida striata (Poaceae) using anatomy and morphology. Master's thesis. Florida State University, Tallahassee, Florida, U.S.A. 33 pp.; Peet, R.K. 1993. A taxonomic study of Aristida striata and A. beyricbiana. Rhodora 95:25-37; Reeder, J.R. and R.S. Felger. 1989. The Aristida californica-glabrata complex (Gramineae). Madrono 36:187-197; Trent, J.S. and K.W. Allred. 1990. A taxonomic comparison of Aristida ternipes and Aristida hamulosa (Gramineae). Sida 14:251-261; Vaughn, J.M. 1981. Systematics of Aristida dichotoma, basiramea, and curtissii (Poaceae). Master's thesis. University of Oklahoma, Norman, Oklahoma, U.S.A. 38 pp.; Walters, T.E., D.S. Decker-Walters, and D.R. Gordon. 1994. Restoration considerations for wiregrass (Aristida striata): Allozymic diversity of populations. Conservation Biol. 8:581-585.</references>
+  <key>
+    <key_discussion>NOTE: Lemma lengths are measured from the base of the callus to the divergence of the awns.</key_discussion>
+    <key_body>
+1. Lower glumes 3-7-veined.
+2. Awns nearly equal, the lateral awns 8-66 mm long and at least 3/4 as long as the central awns. .....13. A. oligantha
+2. Awns markedly unequal, the lateral awns 1-4 mm long, no more than 1/2 as long as the central awns, sometimes absent.
+3. Plants annual; inflorescences 5-12 cm long, 2-4 cm wide.....12. A. ramosissima
+3. Plants perennial; inflorescences 10-30 cm long, 4-26 cm wide.....7. A. schiedeana
+ 
+1. Lower glumes l-2(3)-veined.
+4. Central awns spirally coiled at the base.
+5. Lateral awns 1-4 mm long, erect.....15. A. dichotoma
+5. Lateral awns 5-13 mm long, spreading.....14. A. basiramea
+4. Central awns straight to curved, sometimes loosely contorted but not spirally coiled, at the base.
+6. Lateral awns markedly reduced, usually 1/3 or less as long as the central awns. 
+7. Panicles 1-6 cm wide, the branches erect-appressed to strongly ascending, without axillary pulvini or the pulvini only weakly developed. 
+8. Plants annual; culms often highly branched above the base.
+9. Awns flattened at the base   .....17. A. adscensionis
+9. Awns terete at the base.
+10. Lemmas 2.5-10 mm long; central awns curving up to 100° at the base.....16. A. longespica
+10. Lemmas 8-22 mm long; central awns with a semicircular bend at the base .....12. A. ramosissima 
+8. Plants perennial; culms rarely branched above the base.
+11. Collars  densely  pilose,  the hairs 1-3 mm, often densely tangled and deflexed; blades usually tightly involute, about 0.5 mm in diameter .....11. A. gypsophila
+11. Collars mostly glabrous or with straight hairs, often with long hairs at the sides; blades usually flat to loosely involute, sometimes tightly involute. 
+12. Lateral awns absent; panicle branches spikelet-bearing to the base; plants of the Florida keys .....5. A. floridana
+12. Lateral awns usually present, varying from much shorter than to equaling the central awns; panicle branches sometimes naked near the base; plants rarely found east of the Mississippi and not known at all from Florida.
+13. Primary panicle branches 3-6 cm long; lateral awns (1)8-140 mm long .....19. A. purpurea 
+13. Primary panicle branches 6-16 cm long; lateral awns absent or to 1(3) mm long .....7. A. schiedeana
+7. Panicles 6-45 cm wide, at least the lower branches spreading and having well-developed axillary pulvini. 
+14. Lateral awns absent or no more than 3 mm long.
+15. Central awns often deflexed at a sharp angle when mature; lemma apices often twisted at maturity. 
+16. Blades usually flat, sometimes folded, 1-2 mm wide; plants of juniper, oak, or pine woodlands .....7. A. schiedeana
+16. Blades usually tightly involute, about 0.5 mm in diameter; plants of thorn-scrub deserts .....11. A. gypsophila
+15. Central awns usually straight or arcuate; lemma apices not twisted.
+17. Panicle branches spikelet-bearing from the base; lower glumes longer than the upper glumes.....5. A. floridana
+17. Panicle branches usually naked at the base; lower glumes about equal to the upper glumes .....6. A. ternipes
+14. Lateral awns 3-23 mm long. 
+18. Anthers 0.8-1 mm long.
+19. Spikelets usually divergent and the pedicels with axillary pulvini; secondary branches usually absent; primary branches 2-6 cm long; lemma apices with 0-2 twists when mature .....9. A. havardii
+19. Spikelets usually appressed and the pedicels without axillary pulvini; secondary branches usually well-developed; primary branches 5-13 cm long; lemma apices with 4 or more twists when mature .....8. A. divaricata
+18. Anthers 1.2-3 mm long.
+20. Collars glabrous or strigillose; blades with scattered hairs 1.5-3 mm long above the ligule on the adaxial surface; lower glumes about equal to or slightly shorter than the upper glumes .....6. A. ternipes
+ 
+20. Collars pubescent, with hairs 0.2-0.8 mm long; blades glabrous, sometimes scabridulous, above the ligule on the adaxial surface; lower glumes slightly longer than the upper glumes .....4. A. patula
+6. Lateral awns well-developed, usually at least 1/2 as long as the central awns.
+21. Blades tightly involute, the adaxial surfaces densely scabrous or densely short-pubescent   .....21. A. stricta
+21. Blades flat or folded and lax, or, if involute, the adaxial surfaces neither densely scabrous nor densely short pubescent. 
+22. Rachis nodes and leaf sheaths usually lanose or floccose, sheaths occasionally glabrous ..... 25. A. lanosa
+22. Rachis nodes glabrous, scabrous, or with straight hairs; leaf sheaths glabrous, pilose, or floccose.
+23. Junction of the lemma and awns evident; awns disarticulating at maturity. 
+24. Plants perennial.
+25. Culms 45-100 cm tall; culms unbranched or sparingly branched; blades 12-28 cm long .....18. A. spiciformis
+25.  Culms 10-40 cm tall; culms much branched; blades usually less than 6 cm long .....3. A. californica
+24. Plants annual.
+26. Awns divergent but not arcuate or entwined above the column; cauline internodes pubescent or glabrous .....3. A. californica
+26. Awns strongly arcuate, often entwined above the column or no column present; cauline internodes glabrous. 
+27. Glumes 10-17 mm long; lemmas beaked, the beak 2-7 mm long; awns not forming a column; calluses 1-2.5 mm long .....1. A. desmantha
+27. Glumes 20-30 mm long; lemmas not beaked; awns forming a column 8-15 mm long; calluses 3-4 mm long  .....2. A. tuberculosa
+23. Junction of the lemma and awns not evident; awns not disarticulating at maturity. 28. Lemmas terminating in a beak 7-30 mm long; upper glumes awned, the awns 10-12 mm long .....18. A. spiciformis
+28. Lemmas not beaked or with a beak less than 7 mm long; upper glumes unawned or with an awn to 6 mm long.
+29. At least the lower primary panicle branches divergent and with axillary pulvini.
+30. Lateral awns about 1/2 as thick as the central awns.....4. A. patula
+30. Lateral awns nearly as thick as the central awns.
+31. Panicles narrow and contracted above, usually only the lower 1-2 branches spreading and with a pulvinus; lemma apices 0.2-0.3 mm wide .....19. A. purpurea
+31. Almost all panicle branches spreading and with axillary pulvini; lemma apices 0.1-0.2 mm wide. 
+32. Anthers 0.8-1 mm long.
+33. Spikelets usually divergent and the pedicels with axillary pulvini; secondary branches absent or nearly so; primary branches 2-6 cm long; lemma apices straight or with 1 or 2 twists.....9. A. havardii
+33. Spikelets usually appressed and the pedicels without axillary pulvini; secondary branches usually well-developed; primary branches 5-13 cm long; lemma apices with 4 or more twists at maturity .....8. A. divaricata
+32. Anthers 1-3 mm long.
+34. Base of the blades with scattered hairs 1.5-3 mm long on the adaxial surfaces .....6. A. ternipes
+ 
+34. Base of the blades glabrous or puberulent on the adaxial surface, the hairs, if present, less than 0.5 mm long.
+35. Glumes reddish, the lower glumes often shorter than the upper glumes; awns ascending to divaricate, (8)13-140 mm long; terminal spikelets usually appressed and without axillary pulvini .....19. A. purpurea
+35. Glumes brownish, equal or unequal; awns spreading to horizontal, 5-15 mm long; terminal spikelets often spreading from axillary pulvini ..... 10. A. pansa
+29. Lower primary panicle branches (pedicels in racemose species) appressed, without axillary pulvini. 
+36. Plants with well-developed rhizomes; basal sheaths shredding into threadlike segments at maturity .....22. A. rhizomopbora
+36. Plants tufted, without rhizomes; basal sheaths not fibrous, not shredding into threadlike segments even when old. 
+37. Lower inflorescence nodes with only 1 spikelet; inflorescences spicate or racemose  .....23. A. mobrii
+37. Lower inflorescence nodes with 2  or more spikelets; inflorescences racemose or paniculate. 
+38. Lower glumes usually 1/3– 3/4 as long as the upper glumes.
+39. Plants annual   .....17. A. adscensionis
+39. Plants perennial.
+40. Lemma awns 8-15 mm long; lemmas 5-7 mm long .....29. A. gyrans
+40. Lemma awns (8)15-140 mm long; lemmas 6-16 mm long .....19. A. purpurea
+38. Lower glumes usually more than 3/4 as long as the upper glumes. 
+41. Plants annual.
+42. Awns flat at the base.....17. A. adscensionis
+42. Awns terete at the base.....16. A. longespica
+41. Plants perennial.
+43. Lemma apices prominently twisted for 3-6 mm; blades usually curled at maturity; leaves forming a basal tuft .....20. A. arizonica
+43. Lemma apices straight or only slightly twisted; blades usually not curled at maturity; leaves variously distributed.
+44. Lower glumes prominently 2-keeled, (7.5)9-13 mm long; central awns 15-40 mm long  .....26. A. palustris
+44. Lower glumes usually 1-keeled, if 2-keeled, 5-9 mm long; central awns 8-25 mm long, [revert to left] 
+45. Central awns about twice as thick as the lateral awns, divergent to arcuate-reflexed. 
+46. All 3 awns divergent to reflexed and contorted at the base; lower rachis nodes usually associated with 2 spikelets (occasionally 1 or 3), 1 pedicellate and 1 sessile .....24. A. simpliciflora
+46. Lateral awns usually erect to ascending and not contorted at the base; lower rachis nodes usually associated with more than 2 spikelets, pedicellate to subsessile  .....27. A. purpurascens
+45. Central awns about the same thickness as the lateral awns, erect to spreading.
+47. Lower glumes 1-4 mm longer than the upper glumes.....27. A. purpurascens
+47. Lower glumes from shorter than to 1 mm longer than the upper glumes.
+ 
+
+ 
+48. Culms usually 3-6 mm thick at the base; primary panicle branches 4-20 cm long; lower glumes 1-veined .....28. A. condensata
+48. Culms usually 1-4 mm thick at the base; primary panicle branches 1-5 cm long; lower glumes 1-2-veined.
+49. Calluses 0.4-0.8 mm long.....27. A. purpurascens
+49. Calluses 1-2 mm long.....29. A. gyrans
+
+    </key_body>
+  </key>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Andropogon gerardii Vitman </name_authority_date>
+  </taxon_identification>
+  <common_names>BIG BLUESTEM, BARBON DE GERARD</common_names>
+  <description type="morphology">Plants often forming large clumps, rhizomes, if present, with internodes shorter than 2 cm. Culms 1-3 m, often glaucous. Sheaths glabrous or pilose; ligules 0.4-2.5 mm; blades 5-50 cm long, (2)5-10 mm wide, usually pilose adaxially, at least near the collar. Inflorescence units usually only terminal; peduncles with 2-6(10) rames; rames 5-11 cm, exserted at maturity, usually purplish, sometimes yellowish; internodes sparsely to densely pubescent, hairs 2.2-4.2 mm, usually white, rarely yellowish. Sessile spikelets 5-11 mm, scabrous; awns 8-25 mm; anthers 3, 2.5-4.5 mm. Pedicellate spikelets 3.5-12 mm, usually well-developed and staminate. 2n = 20, 40, 60 (usually), 70, 80.</description>
+  <discussion>Andropogon gerardii grows in prairies, meadows, and generally dry soils. It is a widespread species, extending from southern Canada to Mexico, and was once dominant over much of its range. It is frequently planted for erosion control, restoration, or as an ornamental; the records from Washington and central Montana reflect such plantings. It hybridizes with A. ballii, the two sometimes being treated as conspecific subspecies.</discussion>
+</bio:treatment>

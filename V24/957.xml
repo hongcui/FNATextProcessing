@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Arctagrostis latifolia subsp. latifolia </name_authority_date>
+  </taxon_identification>
+  <common_names>POLARGRASS, ARCTAGROSTIS À LARGES FEUILLES</common_names>
+  <description type="morphology">Culms (10)15-50(95) cm; uppermost nodes usually in the lowest 1/3 of the culm. Uppermost sheaths usually longer than the blades; blades 1-16 cm long, 1.5-9 mm wide. Panicles 2.5-10(17) cm long, 0.7-3 cm wide; longest branches 0.5-4(6.5) cm, with 3-15(40) spikelets per branch; secondary branches usually appressed, spreading in warmer habitats. Spikelets (3)4-6.5 mm. Glumes subequal; lower glumes 1.8-4.5 mm, 1(3)-veined; upper glumes 2.3-5.5 mm, usually about 1 mm shorter than the lemmas, (l)3-veined; lemmas 3-6.5 mm; anthers 1.8-4 mm. 2n = 56.</description>
+  <discussion>Arctagrostis latifolia subsp. latifolia is the common subspecies from the arctic coast of Alaska to Nunavut, northern Quebec, and northern Greenland.
+ 
+</discussion>
+</bio:treatment>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Dichanthelium ensifolium subsp. curtifolium (Nash) Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Cauline sheaths sparsely spreading-pilose; ligules usually 1-1.8 mm; blades sparsely pilose or glabrous on both surfaces.</description>
+</bio:treatment>

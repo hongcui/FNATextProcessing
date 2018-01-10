@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>J.K. Wipff</author>
+    </source>
+  </meta>
+  <number>17.09</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>TRIRAPHIS  R. Br.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; cespitose. Culms (1)4-140 cm, erect or geniculate at the lower nodes. Leaves cauline; auricles absent; ligules of hairs or membranous and long-ciliate; blades narrow, often involute. Inflorescences terminal, open or contracted (occasionally spikelike) simple panicles, exceeding the leaves. Spikelets laterally compressed, with 3-9 bisexual florets, reduced florets (if present) distal; disarticulation above the glumes and beneath the florets. Glumes subequal, exceeded by the florets, 1-veined; calluses short, bearded; lemmas 3-veined, 3-4-lobed or toothed, lateral veins pilose or ciliate, midveins glabrous or sparsely pubescent, all 3 veins extending into awns; paleas shorter than the lemmas, 2-veined; lodicules 2; anthers 3. Caryopses trigonous, falling free of the lemmas and paleas; embryos large relative to the caryopses. x = 10. </description>
+  <discussion>Triraphis is a genus of seven species that are often found in dry, open habitats in sandy or rocky soil. Most of its species are native to Africa and Arabia, but one species is native to Australia. The Australian species is established in the Flora region.</discussion>
+</bio:treatment>

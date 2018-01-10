@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>67</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa hartzii Gand. </name_authority_date>
+  </taxon_identification>
+  <common_names>HARTZ'S BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; not glaucous; densely to loosely tufted, not rhizomatous,occasionally weakly stoloniferous. Basal branching extra- and intravaginal. Culms 10-33(45) cm, usually decumbent, terete; nodes terete, 0(1) exserted. Sheaths closed for 1/7 – 1/5(1/3) their length, terete, usually lustrous, bases of basal sheaths glabrous; ligules (1.5)2-7 mm, smooth or sparsely scabrous, margins usually decurrent, apices obtuse to acuminate; innovation blades similar in texture and shape to those of the culms; cauline blades 2-9 cm, gradually increasing or decreasing in length upwards, 1.5-3 mm wide, folded to involute, moderately thick, soft, abaxial surfaces smooth, adaxial surfaces smooth or somewhat scabrous, usually glabrous, infrequently sparsely hispidulous, apices narrowly prow-shaped. Panicles 2.5-6(12) cm, erect, narrowly lanceolate, contracted or narrowly ovate in some bulbiferous plants, moderately congested, with 7-40 spikelets; nodes with (1)2(4) branches; branches 1-3 cm, erect to ascending, straight, sulcate, smooth or sparsely to moderately scabrous, with 1-10 spikelets in the distal 1/3 – 2/3. Spikelets 4.8-7.4 mm, lengths 3.5-4 times widths, lanceolate, weakly laterally compressed, sometimes bulbiferous, lustrous; florets (2)3-5(6), normal or bulb-forming; rachilla internodes 0.8-2 mm, smooth, sometimes sparsely hispidulous. Glumes mostly broadly scarious, somewhat lustrous, keels indistinct, smooth or sparsely scabrous distally; lower glumes 3-veined; upper glumes frequently exceeding the lowest lemmas; calluses glabrous or with a crown of hairs, hairs to 2 mm; lemmas (3.3)3.5-7 mm, lanceolate, usually weakly keeled, more or less evenly and somewhat loosely to densely hairy over the proximal 1/3-1/2, hairs usually longer than 0.5 mm, sparsely scabrous in the middle 1/3, smooth distally, lateral veins obscure, margins weakly inrolled, broadly scarious, glabrous, apices long-scarious, acute to shortly obtuse, often erose, often bronze-colored below the apices; palea keels sparsely scabrous, softly puberulent at midlength, intercostal regions softly puberulent; anthers usually all aborted late in development and 0.8-1.8 mm, infrequently well developed and 2-2.8 mm. 2n = 63, 70.</description>
+  <discussion>Poa hartzii grows only in the high arctic. It generally grows on open ground, on sandy or clayey soils, or on slumping slopes of old marine terraces. It carries two chloroplast genomes within its populations; one of these links it to P. secunda (p. 586) and P. ammophila (see next), the other to P. glauca (p. 576). Morphologically, it is closest to P. secunda and P. ammophila.</discussion>
+  <key>
+    <key_body>
+1. Spikelets bulbiferous.....subsp. vrangelica
+1. Spikelets not bulbiferous.
+2. Lemmas 5.5-7 mm long; anthers well developed, 2-2.8 mm long.....subsp. alaskana
+2. Lemmas 3.3-5.4 mm long; anthers usually aborted and shorter than 1.5 mm.....subsp. hartzii
+
+    </key_body>
+  </key>
+</bio:treatment>

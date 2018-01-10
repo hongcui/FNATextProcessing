@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Amphicarpum amphicarpon (Pursh) Nash </name_authority_date>
+  </taxon_identification>
+  <common_names>PURSH'S BLUE MAIDENCANE, HAIRY MAIDENCANE</common_names>
+  <description type="morphology">Plants annual. Culms 30-80 cm, erect. Leaves mostly basal; sheaths hirsute; blades 10-15 cm long, 5-15 mm wide, hirsute on both surfaces, margins ciliate. Subterranean spikelets 7-8 mm, acuminate. Aerial panicles 3-20 cm; aerial spikelets 4-5 mm, ellipsoidal. 2n = 18.</description>
+  <discussion>Amphicarpum amphicarpon grows in sandy pinelands of the eastern United States. It used to be known as A. purshii Kunth, but A. amphicarpon has priority.</discussion>
+</bio:treatment>

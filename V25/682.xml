@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>19</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sporobolus texanus Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>TEXAS DROPSEED</common_names>
+  <description type="morphology">Plants perennial (often appearing annual); cespitose, with fibrous roots, not rhizomatous. Culms 20-70 cm, erect to decumbent, glabrous or scurfy roughened below. Sheaths rounded basally, apices glabrous or with scattered, appressed, papillose-based hairs, hairs to 4 mm; ligules 0.2-0.6 mm; blades 2.5-13(18) cm long, 1-4.2 mm wide, flat to involute, glabrous abaxially, scabrous adaxially, margins scabridulous, often also with a few papillose-based hairs; flag blades ascending. Panicles 10-35 cm long, 4.5-30 cm wide, open, diffuse, subpyramidal, about as long as wide, partially included in the uppermost leaf sheath; lower nodes with 1-2 branches; primary branches 4-14 cm, capillary, spreading 10-80° from the rachis; secondary branches spreading, without spikelets on the lower 1/3 - 1/2 ; pedicels 6-25 mm, spreading. Spikelets 2.3-3 mm, purplish-tinged. Glumes unequal, linear-lanceolate to lanceolate, membranous; lower glumes 0.5-1.7 mm, often without midveins; upper glumes 1.7-3 mm, at least 2/3 as long as the florets, often longer; lemmas 1.8-3 mm, lanceolate to ovate, membranous, glabrous, acute; paleas 1.7-2.9 mm, ovate, membranous, glabrous, often splitting as the fruit matures; anthers 0.3-1 mm, yellowish. Fruits 1.1-1.5 mm, obovoid, light brown, translucent, occasionally rugulose. 2n = unknown.</description>
+  <discussion>Sporobolus texanus grows along rivers, ponds, and in wet alkaline habitats, at 100-3300 m. It is known only from the United States.</discussion>
+</bio:treatment>

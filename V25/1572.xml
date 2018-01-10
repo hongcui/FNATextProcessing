@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Andropogon L. sect. Andropogon</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Inflorescences usually only terminal, axillary inflorescences absent or few. Lower glumes thinly coriaceous, with 3-9 veins between the keels; keels often winged. Pedicellate spikelets usually well-developed, staminate.</description>
+</bio:treatment>

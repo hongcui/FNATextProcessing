@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>19</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa chapmaniana Scribn. </name_authority_date>
+  </taxon_identification>
+  <common_names>CHAPMAN'S BLUEGRASS</common_names>
+  <description type="morphology">Plants annual; densely tufted, tuft bases narrow, not stoloniferous, not rhizomatous. Culms 5-30(40) cm tall, 0.3-0.7 mm thick, erect or the bases geniculate; nodes terete, usually 1 exserted. Sheaths closed for 1/10 – 1/2 their length, terete or weakly compressed, smooth; ligules 0.7-5 mm, decurrent, truncate to acute; blades of innovations and culms similar, 2-5(8) cm long, 0.6-2.8 mm wide, flat or folded, thin, soft, smooth, margins scabrous, apices narrowly prow-shaped. Panicles 2-9.6 cm, erect, eventually open, moderately to densely congested, with 1-4(7) branches per node; branches eventually ascending to spreading, rarely reflexed, terete, smooth or sparsely scabrous, spikelet-bearing to near the base or middle. Spikelets (2)2.4-4.5 mm, laterally compressed; florets (1)2-6; rachilla internodes usually shorter than 0.7 mm, smooth or scabrous, glabrous. Glumes subequal, about 3/4 as long as to subequal to the adjacent lemmas, lanceolate, thin, distinctly keeled, keels scabrous; lower glumes 1-3-veined; calluses webbed; lemmas 1.9-3 mm, broadly lanceolate, distinctly keeled, smooth, keels and marginal veins short- to long-villous, hairs on the keels extending to near the apices, lateral veins obscure, usually softly puberulent, intercostal regions usually sparsely softly puberulent, apices obtuse to acute; palea keels softly puberulent to long-villous at midlength, scabrous near the apices; anthers 1, 0.1-0.2(0.3) mm. 2n = unknown.</description>
+  <discussion>Poa chapmaniana is native from the central part of the Great Plains east and southward to the coast. It grows in dry to mesic forests, forest openings, and the margins of bottomlands, often in disturbed ground and on acidic substrates. Records from New York probably represent introductions. Its web and single short anther distinguish P. chapmaniana from P. annua (p. 520) and most plants of P. bigelovii. It also differs from P. bigelovii (see below), probably its closest relative, in having narrower leaf blades, and panicle branches that are eventually spreading.</discussion>
+</bio:treatment>

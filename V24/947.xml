@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Phleum alpinum L. </name_authority_date>
+  </taxon_identification>
+  <common_names>ALPINE TIMOTHY, FLÉOLE ALPINE, PHLÉOLE ALPINE</common_names>
+  <description type="morphology">Plants perennial; cespitose, sometimes shortly rhizomatous. Culms 15-50 cm, often decum¬bent, lower internodes not en¬larged or bulbous. Sheaths of the flag leaves inflated; auricles not developed, leaf edges some-times wrinkled at the junction of the sheath and blade; ligules 1-4 mm, truncate; blades to 17 cm long, 4-7 mm wide, flat. Panicles 1-6 cm long, 5-12 mm wide, usually 1.5-3 times as long as wide, subglobose to broadly cylindric, not tapering distally; branches adnate to the rachises. Glumes 2.5-4.5 mm, sides scabrous, keels hispid, apices awned, awns 0.8-2.5(3.2) mm; lemmas 1.7-2.5 mm, about 3/4  as long as the glumes, mostly glabrous, keels hairy, hairs to 0.1 mm; anthers 1-1.5(2) mm. 2n = 14, 28.</description>
+  <discussion>Phleum alpinum grows along stream banks, on moist prairie hillsides, and in wet mountain meadows. It is a circumboreal species extending, in the Flora region, from northern North America southward through the mountains to Mexico and South America. It is also widespread in northern Eurasia. Isolated, depauperate plants of P. pratense may be difficult to distinguish from P. alpinum; there is never any difficulty in the field.
+Kula et al. (2006) demonstrated that American and northern European plants of Phleum alpinum belong to the same taxon. They mistakenly identified the taxon as P. commutatum Gaudin. Because Humphries (1978) lectotypified P. alpinum on a plant from Lapland, it has priority over P. commutatum. North American plants belong to P. alpinum L. subsp. alpinum and are tetraploid. The count of 2n =14 applies to Phleum alpinum subsp. rhaeticum Humphries, which grows in the mountains of central and southern Europe.
+</discussion>
+</bio:treatment>

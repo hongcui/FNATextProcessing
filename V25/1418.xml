@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>22</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Setaria viridis (L.) P. Beauv. </name_authority_date>
+  </taxon_identification>
+  <common_names>GREEN BRISTLEGRASS, SETAIRE VERTE</common_names>
+  <description type="morphology">Plants annual. Culms 20-250 cm; nodes glabrous. Sheaths glabrous, sometimes scabridu-lous, margins ciliate distally; ligules 1-2 mm, ciliate; blades to 20 cm long, 4-25 mm wide, flat, scabrous or smooth, glabrous. Panicles 3-20 cm, densely spicate, nodding only from near the apices; rachises hispid and villous; bristles 1-3, 5-10 mm, antrorsely scabrous, usually green, rarely purple. Spikelets 1.8-2.2 mm. Lower glumes about as long as the spikelets, triangular-ovate, 3-veined; upper glumes nearly equaling the upper lemmas, elliptical, 5-6-veined; lower lemmas slightly exceeding the upper lemmas, 5-veined; lower paleas about as long as the lower lemmas, hyaline; upper lemmas very finely and transversely rugose, pale green, 5-6-veined; upper paleas similar to the upper lemmas. 2n = 18.
+ 
+</description>
+  <discussion>Setaria viridis resembles S. italica but differs in its shorter spikelets and rugose upper florets, and mode of disarticulation. It is also a more aggressive weed. It is native to Eurasia but is now widespread in warm temperate regions of the world.</discussion>
+  <key>
+    <key_body>
+1. Culms 100-250 cm tall; blades  10-25 mm wide; panicles 10-20 cm long .....var. major
+1. Culms 20-100 cm tall; blades 4-12 mm wide; panicles 3-8 cm long .....var. viridis
+
+    </key_body>
+  </key>
+</bio:treatment>

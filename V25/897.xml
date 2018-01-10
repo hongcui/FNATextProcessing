@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>16</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bouteloua simplex Lag. </name_authority_date>
+  </taxon_identification>
+  <common_names>MAT GRAMA</common_names>
+  <description type="morphology">Plants annual. Culms 3-35 cm, usually decumbent, occasionally erect, rarely branching; internodes glabrous. Sheaths smooth, deeply striate; ligules 0.1-0.2 mm, of short hairs, sometimes with a few papillose-based hairs on either side; blades 2-8 cm long, 0.5-1.5 mm wide, flat to involute, adaxial surfaces mostly glabrous, often pilose basally. Panicles usually with only 1 branch (terminating the culm), or with 2-4 branches and subdigitate; branches 10-25(40) mm, persistent, straight, arcuate, or circular, with 30-80 spikelets, axes terminating in a reduced spikelet; disarticulation above the glumes. Spikelets pectinate, with 1 bisexual floret and 1-2 rudimentary florets. Glumes glabrous, sometimes scabrous distally, acute or acuminate; lower glumes 1.5-2.5 mm; upper glumes 3.5-5 mm; lowest lemmas 2.5-3.5 mm, pilose over the veins, 3-awned, awns stout and flattened, central awns 1-2 mm, flanked by 2 membranous lobes, lateral awns shorter than the central awns; lowest paleas obovate, unawned; rachilla segments subtending second florets with densely pubescent apices; second florets reduced to an awn column with 3 awns of 5-6 mm; third florets, if present, flabellate scales. 2n = 20.</description>
+  <discussion>Bouteloua simplex grows on rocky, open slopes in grassy and open shrub vegetation at 1200-2500 m. Its native range extends from the southwestern United States through Mexico and Central America to western South America. It is adventive in Maine, where it has been grows in disturbed places, but it is not common there.</discussion>
+</bio:treatment>

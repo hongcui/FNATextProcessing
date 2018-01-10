@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>31</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Digitaria setigera Roth </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants of indefinite duration. Culms to 120 cm tall, bases long-decumbent and rooting at the lower nodes. Sheaths with papillose-based hairs; ligules 2.5-3.5 mm; blades 4-28 cm long, 4-12 mm wide, scabrous, usually with some scattered papillose-based hairs on the base of the adaxial surfaces, sometimes with hairs all over. Panicles with 3-11 spikelike primary branches in 1-several whorls, rachises to 6 cm; primary branches 5-15 cm, axes wing-margined, wings more than 1/2 as wide as the midribs, lower and middle portions bearing spikelets in unequally pedicellate pairs; secondary branches absent; shorter pedicels 0.3-0.8 mm; longer pedicels 1.7-2.7 mm. Spikelets 2.4-3.5 mm, homomorphic, ovate. Lower glumes absent or to 0.1 mm; upper glumes 0.2-1.3 mm, 1/6 - 1/3 as long as the spikelets, 1-3-veined, margins and apices with appressed, white hairs about 0.5 mm, truncate or bilobed; lower lemmas (5)7-veined, veins smooth or scabrous only over the distal 1/3, unequally spaced, margins and lateral intercostal regions silky-ciliate; upper lemmas tan or gray when immature, brown at maturity, acuminate; anthers 0.6-1.3 mm. 2n = 70, 72. </description>
+  <discussion>Digitaria setigera is native to southeastern Asia. It is now established in tropical America, growing in disturbed habitats in Florida and Central America, and probably in tropical South America. It has often been confused with D. sanguinalis.
+Plants in the Flora region belong to Digitaria setigera Roth var. setigera. Unlike plants of D. setigera var. calliblepharata (Henrard) Veldkamp, they do not have large, glassy hairs on their lower lemmas.
+</discussion>
+</bio:treatment>

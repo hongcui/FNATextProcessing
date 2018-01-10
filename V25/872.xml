@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bouteloua uniflora Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>NEALLY'S GRAMA</common_names>
+  <description type="morphology">Plants perennial; cespitose, without rhizomes or stolons.
+Culms 20-60 cm, stiffly erect, glabrous. Sheaths mostly
+glabrous, a few long hairs present near the ligules; ligules
+0.2-0.5 mm, of hairs; blades 6-16 cm long, 1-2 mm wide, involute when dry, glabrous, bases usually with papillose-based hairs on the margins. Panicles 5-10(14) cm, with 15-70 branches; branches 5-9 mm, deciduous, scabrous, with 1 spikelet (lower branches occasionally with 2 spikelets), axes extending 3-4 mm beyond the terminal spikelets, apices entire; disarticulation at the base of the branches. Spikelets appressed, with 1 bisexual and 0-1 rudimentary florets. Glumes acute to slightly cleft and minutely apiculate, midveins usually scabrous; lower glumes 2.5-4 mm; upper glumes 6.2-8 mm, mostly smooth, midveins usually scabrous; lowest lemmas 6-7.5 mm, acute or minutely cleft, glabrous, unawned, sometimes mucronate; lowest paleas unawned, glabrous; anthers 2.5-3 mm, bright yellow; second florets absent or reduced to 1 or 3 short awns, glabrous. Caryopses about 3 mm. 2n = 20.
+</description>
+  <discussion>Bouteloua uniflora grows primarily in fertile, rocky, limestone soils of Texas and adjacent Coahuila, Mexico at 300-1000 m. A disjunct collection has been reported from Zion National Park, Utah. Plants in the Flora region belong to Bouteloua uniflora Vasey var. uniflora, which differs from B. uniflora var. coahuilensis Gould & Kapadia in having taller (40-60 cm, not 20-40 cm) leafy, rather than scapose, culms, longer leaf blades (12-16 cm versus 6-12 cm), and 50-70, rather than 15-40, panicle branches.</discussion>
+</bio:treatment>

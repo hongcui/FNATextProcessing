@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Tribolium obliterum (Hemsley) Renvoize </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; usually cespitose, sometimes stolon-iferous, stolons to 30 cm. Culms 12-40 cm, decumbent or erect, branching intravaginal. Sheaths mostly glabrous, ciliate distally; ligules about 0.2 mm, membranous, ciliolate; blades 1-8 cm long, 0.5-1 mm wide. Inflorescences terminal, panicles, 1-5 cm long, 5-15 mm wide, obovate or cylindrical, with 10-40 spikelets; branches scabridulous. Spikelets 3.5-4.5 mm, with 5-10 florets. Glumes 2.5-3.5 mm, longer than the basal lemmas but exceeded by the distal florets, 5-veined, glabrous or scabridulous over the veins, acute; lemmas 2-3.5 mm, with submarginal tufts of hairs in the lower 1/2, hairs acute, 0.2-0.3 mm, lemma apices acute to acuminate; paleas 1.5-2 mm, glabrous between the keels, sometimes with tufts of hairs on the margins; anthers 0.3-0.5 mm, pale yellow. Caryopses obovate, 0.7-1 mm long, 0.5-0.7 mm wide, plano-convex to concavo-convex, pale brown, smooth; embryos 0.4-0.5 mm; hila 0.1 mm. 2n = 24, 36.</description>
+  <discussion>Tribolium obliterum is native to Cape Province, South Africa, where it usually grows in gravelly, well-drained soils at elevations below 600 m. It has been introduced into Australia and St. Helena and was recently discovered in a roadside ditch near Fort Ord, Monterey County, California. It appears to be naturalized there.</discussion>
+</bio:treatment>

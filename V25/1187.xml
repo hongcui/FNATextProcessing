@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>20</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Plants cespitose, with caudices. Basal rosettes well-differentiated. Culms 5-60 cm tall, 0.2-0.8 (1.6) mm thick, erect or reclining, sometimes geniculate at the lower nodes, glabrous or sparsely pubescent near the bases; fall phase branching from the lower and midculm nodes. Cauline leaves 3-9; sheaths glabrous or sparsely pilose, usually ciliate; ligules 0.2-1.8 mm, of hairs; blades usually 2-5 cm, sometimes with prominent white, cartilaginous margins. Spikelets 1.1-1.7 mm, ellipsoid to narrowly obovoid, glabrous or puberulent. Upper florets subacute to acute.</name_authority_date>
+  </taxon_identification>
+  <common_names>SWORD-LEAF PANICGRASS</common_names>
+  <description type="morphology">Plants cespitose, with caudices. Basal rosettes well-differentiated; blades 1.5-6 cm, ovate to lanceolate, soft, glabrous. Culms 10-40 cm tall, 0.2-0.8 (1.6) mm thick, weak, erect or reclining; nodes usually glabrous, sometimes sparsely bearded; internodes usually glabrous, occasionally sparsely pubescent; fall phase with spreading culms, sparingly branched, branching mostly from the midculm nodes, occasionally producing small fascicles of leafy branchlets. Cauline leaves 4-9; sheaths much shorter than the internodes, prominently veined, glabrous or sparsely pilose and ciliate, particularly at the top; ligules 0.2-1.8 mm, often more than 1 mm, of hairs, without adjacent pseudoligules; blades 1.5-3.5 cm long (seldom longer),  1.5-4 mm wide, all similar in size, thin, spreading or reflexed, abaxial surfaces puberulent, at least apically, or sparsely pilose, adaxial surfaces glabrous or sparsely pilose, at least basally, bases abruptly and strongly constricted, occasionally ciliate, margins entire or faintly scabridulous, rarely white-cartilaginous. Primary panicles 1.5-4 cm, nearly as wide as long, long-exserted; branches wiry, mostly spreading, minutely scabridulous. Spikelets 1.2-1.5 mm, ellipsoid to obovoid, yellow-green to purplish, puberulent or glabrous, subacute or obtuse. Lower glumes seldom more than 1/4  as long as the spikelets, acute or obtuse; upper glumes usually slightly shorter than the lower lemmas and upper florets, not strongly veined; upper florets 1.1-1.4 mm long, less than 1 mm wide, ellipsoid, acute. 2n = 18.</description>
+  <discussion>Dichanthelium ensifolium grows in wet to moist, sandy pinelands, savannahs, and bogs, often on Sphagnum mats, primarily on the coastal plain. It extends south into Mesoamerica, and has been reported from Venezuela. Occasional specimens grade towards the larger D. tenue, and are usually found on somewhat drier sites. It also resembles D. chamaelonche, but that species is usually more densely cespitose, has slightly smaller, glabrous spikelets, and generally occupies drier, disturbed sites.
+The two subspecies are sympatric, often growing together at the same sites.</discussion>
+  <key>
+    <key_body>
+1. Sheaths sparsely spreading-pilose; ligules usually 1-1.8 mm long; blades sparsely pilose or glabrous on both surfaces.....subsp. curtifolium
+1. Sheaths glabrous; ligules 0.2-1 mm long; blades usually puberulent abaxially, usually glabrous, occasionally pubescent adaxiall,    .....subsp. ensifolium
+
+    </key_body>
+  </key>
+</bio:treatment>

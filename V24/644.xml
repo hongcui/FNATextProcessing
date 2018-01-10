@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Vulpia bromoides (L.) Gray </name_authority_date>
+  </taxon_identification>
+  <common_names>BROME FESCUE</common_names>
+  <description type="morphology">Culms 5-50 cm, solitary or loosely tufted, erect or decumbent, smooth, scabridulous, or puberulent, unbranched distally. Sheaths glabrous or puberulent; ligules to 0.5(1) mm; blades usually 2-10 cm long, 0.5-2.5 mm wide, rolled or flat, glabrous or puberulent. Panicles 1.5-15 cm long, 0.5-3 cm wide, conspicuously exserted, with 1 branch per node; branches usually appressed to erect at maturity, without axillary pulvini; pedicels flattened, sometimes clavate distally. Spikelets 5-10 mm, with 4-8 florets, not closely imbricate; rachilla internodes 0.6-1.1 mm. Lower glumes 3.5-5 mm, 1/2 - 4/5 the length of the upper glumes; upper glumes 4.5-9.5 mm, midveins scabrous distally; lemmas 4-8 mm, 5-veined, scabrous distally, apices entire, awns of the lowermost lemma in each spikelet 2-13 mm; paleas 4-6.3 mm, equaling or shorter than the lemmas, minutely bifid; anthers 0.4-0.6(1.5) mm. Caryopses 3.5-5 mm. 2n = 14.</description>
+  <discussion>Vulpia bromoides is a common European species that grows in wet to dry, open habitats. It is adventive and naturalized in North and South America. In North America, it is most common on the west coast, where it grows from British Columbia to northern Baja California; it occurs sparingly in other regions.</discussion>
+</bio:treatment>

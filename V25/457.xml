@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Zoysia pacifica (Goudswaard) M. Hotta & Kuroki </name_authority_date>
+  </taxon_identification>
+  <common_names>MASCARENEGRASS, KOREAN VELVETGRASS</common_names>
+  <description type="morphology">Plants rhizomatous. Sheaths glabrous, overlapping; ligules 0.07-0.25 mm; blades to 3 cm long, to 0.5 mm in diameter, patent, involute to strongly convolute (the margins overlapping), mostly glabrous abaxially, abaxial calluses 0.2-0.6 mm, hairs about 1 mm. Peduncles included or extending to 1 cm beyond the sheaths of the flag leaves. Racemes 0.4-2 cm, with 3-12 spikelets. Spikelets 2.2-2.9 mm long, 0.5-0.8 mm wide, lanceolate to linear, unawned or awned, awns to 0.5 mm. 2n = 40. </description>
+  <discussion>Zoysia pacifica is less cold-tolerant than either Z. matrella or Z. japonica. It is not a common lawn grass in the Flora region, not even in the southern United States. The cultivar 'Cashmere' has many of the characteristics of Z. pacifica; it is probably derived from a hybrid between Z. matrella and Z. pacifica.</discussion>
+</bio:treatment>

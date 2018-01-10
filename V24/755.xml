@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>23</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa paucispicula Scribn. & Merr. </name_authority_date>
+  </taxon_identification>
+  <common_names>FEW-FLOWER BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; slightly or loosely tufted, not stoloniferous, not rhizomatous. Basal branching mainly extravaginal. Culms 10-30 cm. Sheaths closed for 1/4 - 3/5 their length, terete; ligules 1-2 mm, smooth or sparsely scabrous, truncate to obtuse; blades 1-3 mm wide, flat, thin, soft, apices broadly prow-shaped. Panicles 2.5-10 cm, lax to nearly erect, open, sparse, with 1-2 branches per node; branches (2)3-6 cm, ascending to spreading, lower branches infrequently reflexed, lax or drooping, capillary, terete to slightly sulcate, usually smooth, rarely some branches within a panicle sparsely scabrous, with 1-3(5) spikelets. Spikelets 4-6 mm, laterally compressed, broadly lanceolate to ovate, usually dark purple, with 3-5 florets; rachilla internodes smooth, glabrous. Glumes lanceolate to broadly lanceolate, thin, distinctly keeled, keels smooth or nearly so; lower glumes 1-veined; upper glumes shorter than or subequal to the lowest lemmas; calluses sparsely webbed; lemmas 3-4 mm, broadly lanceolate, usually strongly purple, distinctly keeled, thin, keels and marginal veins short- to long-villous, keels hairy for 1/2-1/3 their length, lateral veins glabrous, intercostal regions smooth, glabrous, margins glabrous, not infolded, apices acute, sometimes slightly bronze-colored; palea keels sparsely scabrous at midlength; anthers 0.4-1 mm. 2n = 28, 42.</description>
+  <discussion>Poa paucispicula grows in arctic and alpine regions, from the north coast of Alaska and the western Northwest Territories south to Washington, Idaho, and Wyoming; it also grows in arctic far east Russia. It is a delicate species that prefers open, mesic, rocky slopes. It has sometimes been included in P. leptocoma (p. 573), a member of Poa sect. Oreinos. It differs from P. leptocoma in having smoother branches, fewer spikelets, and broader glumes. Chloroplast DNA studies confirm that it is not closely related to species of sect. Oreinos; ITS data support its relationship to P. leptocoma.</discussion>
+</bio:treatment>

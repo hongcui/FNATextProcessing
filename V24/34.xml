@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Edward E. Terrell</author>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>tribe</rank>
+    <name_authority_date>ORYZEAE Dumort.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; synoecious or monoecious. Culms annual, 20-500 cm tall, aerenchymatous, sometimes floating. Leaves aerenchymatous; auricles present or absent; ligules membranous or scarious, sometimes absent; pseudopetioles sometimes present; blades with parallel veins, cross venation not evident; abaxial blade epidermes with microhairs and transversely dumbbell-shaped silica bodies; first seedling leaf without a blade. Inflorescences usually panicles, sometimes racemes or spikes; disarticulation below the spikelets, not occurring in cultivated taxa. Spikelets laterally compressed or terete, with 1 bisexual or unisexual floret, sometimes with 2 sterile florets below the sexual floret, these no more than 1/2 (9/10) the length of the fertile floret; unisexual spikelets in the same or different panicles; rachillas not prolonged. Glumes absent or highly reduced, forming an annular ring or lobes at the pedicel apices; sterile florets 1/8 – 1/2 (9/10) as long as the spikelets; fertile lemmas 3-14-veined, membranous or coriaceous, apices entire, unawned or with a terminal awn; paleas similar to the lemmas, 3-10-veined, 1-keeled; lodicules 2; anthers usually 6(1-16); styles 2, bases fused or free, stigmas linear, plumose. Fruits usually caryopses, sometimes achenes, ovoid, oblong, or cylindrical; embryos of the F+FP or F+PP type, small or elongate, with or without a scutellar tail; hila usually linear, x = 12, 15, 17.</description>
+  <discussion>The Oryzeae include about 10-12 genera and 70-100 species. Its members are native to temperate, subtropical, and tropical regions. Oryza sativa is one of the world's most important crop species. Four genera are native to the Flora region; two are introduced.</discussion>
+  <references>Clayton, W.D. and S.A. Renvoize. 1986. Genera Graminum: Grasses of the World. Kew Bull., Addit. Ser. 13. Her Majesty's Stationery Office, London, England. 389 pp.; Guo, Y.-L. and S. Ge. 2005. Molecular phylogeny of Oryzeae (Poaceae) based on DNA sequences from chloroplast, mitochondrial, and nuclear genomes. Amer. J. Bot. 92:1548-1558; Liu, L. and S.M. Phillips. 2006. Oryzeae. P. 183 in Z.-Y. Wu, P.H. Raven, and D.-Y. Hong (eds.). Flora of China, vol. 22 (Poaceae). Science Press, Beijing, Peoples Republic of China and Missouri Botanical Garden Press, St. Louis, Missouri, U.S.A. 653 pp. http://flora.huh.harvard.edu/china/mss/volume22/index.htm/.</references>
+  <key>
+    <key_body>
+1. Lemma margins free; fruits achenes, ellipsoid, obovoid, ovoid or subglobose, beaked with a shell-like pericarp. 
+2. Lemmas of the pistillate spikelets awned; plants emergent, more than 1 m tall.....5.05 Zizaniopsis
+2. Lemmas of the pistillate spikelets unawned; plants emergent and less than 1 m tall or submerged aquatics    .....5.06 Luziola
+1. Lemmas and paleas clasping along their margins; fruits caryopses, cylindrical or laterally compressed, not beaked.
+3. Spikelets unisexual; caryopses terete   .....5.04 Zizcmia
+3. Spikelets bisexual; caryopses laterally compressed or terete.
+4. Sterile florets present below the fertile floret, 1/8 – 1/2 (9/10) as long as the spikelets.....5.01 Oryza
+4. Glumes absent.
+5. Leaf blades aerial, not pseudopetiolate, linear to broadly lanceolate; spikelets pedicellate, without stipelike calluses; lemmas unawned; widespread native species  ..... 5.02 Leersia
+5. Leaf blades floating, pseudopetiolate, elliptic to ovate or ovate-lanceolate; spikelets on stipelike calluses (1)2-10 mm long; lemmas awned; aquatic ornamental species, not known to be established in the Flora region.....5.03 Hygroryza
+    </key_body>
+  </key>
+</bio:treatment>

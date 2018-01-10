@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>J. Gabriel Sanchez-Ken</author>
+    </source>
+  </meta>
+  <number>22</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>tribe</rank>
+    <name_authority_date>CENTOTHECEAE Ridl.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; cespitose, herbaceous, delicate to sometimes reedlike. Culms to 4 m tall, not woody, glabrous; internodes solid or hollow. Sheaths open; auricles sometimes present; ligules scarious or membranous, truncate, sometimes ciliolate; pseudopetiole present in some genera; blades flat, relatively wide, usually with evident cross venation (not in Chasmanthium), not disarticulating from the sheaths. Inflorescences terminal, paniculate, sometimes with spicate branches. Spikelets solitary, pedicellate or subsessile, laterally compressed, with 1-many florets, bisexual, pistillate or staminate, lowest and distal florets often sterile; rachillas terminating in a rudimentary floret; disarticulation variable, at the base of the pedicels, below the glumes, above the glumes, beneath the florets, between the florets, or some combination of these. Glumes sometimes lacking, if present, membranous, shorter than the florets, 2-9-veined, acute to obtuse; lowest florets sometimes sterile, with or without paleas; upper lemmas membranous, 3-15-veined, unawned or awned; upper paleas nearly as long as the lemmas, apices entire or notched; lodicules 2, free (rarely fused in some genera), cuneate, truncate or somewhat lobed; anthers 1, 2, or 3. Caryopses ellipsoid to circular, or trigonous; embryos about 1/3 or less as long as the caryopses; hila subbasal to basal, punctate, x = 12.</description>
+  <discussion>The tribe Centotheceae has approximately 10 genera and 30 species, most of which grow in tropical forests. Chasmanthium, the only member of the tribe represented in the Flora region, is also the only genus to extend into temperate regions. Most members of the tribe are easily recognized by the evident cross venation of their wide blades. Unfortunately, Chasmanthium is exceptional in this regard, lacking evident cross venation.</discussion>
+  <references>Grass Phylogeny Working Group. 2001. Phylogeny and subfamilial classification of the grasses (Poaceae). Ann. Missouri Bot. Gard. 88:373-457; Yates, H.O. 1966. Revision of grasses traditionally referred to Uniola, II. Chasmanthium. SouthW. Naturalist 11:415-455.</references>
+</bio:treatment>

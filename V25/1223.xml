@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Panicum L. sect. Panicum</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; perennials usually cespitose, sometimes shortly rhizomatous. Culms 2-300 cm, erect or decumbent, not succulent, sometimes almost woody at the base, often branching from the lower nodes. Sheaths not compressed. Panicles usually lax and diffuse; pedicels divergent. Spikelets ellipsoid to lanceoloid, glabrous. Lower glumes (1/3)1/2 - 3/4 as long as the spikelets, (3)5-7-veined, truncate, obtuse, acute, or acuminate; lower paleas present or absent.</description>
+  <discussion>Panicum sect. Panicum includes approximately 22 species and extends from the southern United States to Argentina. Most species grow in dry, open places, but a few grow in moist sites such as river banks.</discussion>
+</bio:treatment>

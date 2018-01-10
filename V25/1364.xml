@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>13</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Pennisetum setigerum (Vahl) Wipff </name_authority_date>
+  </taxon_identification>
+  <common_names>BIRDWOOD GRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose from a hard, knotty base, without rhizomes. Culms 5-100 cm, erect, sometimes branching, mostly glabrous but sometimes scabrous beneath the panicle; nodes glabrous. Leaves green; sheaths glabrous or pubescent, margins ciliate; ligules 0.6-1.2 mm, membranous, ciliate; blades 2-45 cm long, 2.5-7 mm wide, flat, glabrous or pubescent, margins ciliate or glabrous basally. Panicles 2-13.8 cm long, 4-11 mm wide, erect, green or dark purple; rachises terete, scabrous. Fascicles 11-24 per cm, disarticulating at maturity; fascicle axes 0.2-1.1 mm, with 1-12 spikelets; outer bristles 10-62, 0.1-1.8 mm, not exceeding the spikelets; inner bristles 6-32, 1.2-5 mm, ciliate, fused for 1/3 – 1/2 their length; flattened, grooved; primary bristles 2.9-6.5 mm, ciliate, not noticeably longer than the other bristles. Spikelets 3.1-5.3 mm, sessile, glabrous; lower glumes 1-2.5 mm, 0-1-veined; upper glumes 1.5-3.4 mm, (0)l-3-veined, about 1/2 as long as the spikelet; lower florets staminate or sterile; upper florets not disarticulating at maturity; lower lemmas 2.7-5.3 mm, 3-7-veined; lower paleas absent or 2.5-4.5 mm; anthers absent or 0.9-3 mm; upper lemmas 2.8-5 mm, 3-5-veined; anthers 3, 2-3.2 mm. Caryopses 1.2-1.8 mm long, 0.4-1 mm wide. 2n = 34, 36, 37, 54, 72.</description>
+  <discussion>Penniseum setigerum is grown as a forage grass in the southern United States, but is not known to be established in the Flora region. It is native to Africa, Arabia, and India. It is sometimes included in Cenchrus, based solely on the fusion of its bristles.</discussion>
+</bio:treatment>

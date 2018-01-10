@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Triticum dicoccum Schrank ex Schiibl. </name_authority_date>
+  </taxon_identification>
+  <common_names>EMMER, FARRO, FAR</common_names>
+  <description type="morphology">Culms 80-150 cm, decumbent; nodes glabrous or pubescent; internodes mostly hollow, solid for 1 cm below the spikes. Blades to 20 mm wide, pubescent. Spikes 5-10 cm, about as wide as thick to wider than thick, cylindrical to strongly flattened; rachises glabrous or shortly ciliate at the nodes and margins; internodes (0.5)2-5 mm, disarticulating with pressure, dispersal units wedge-shaped. Spikelets 10-16 mm, elliptical to ovate, with 3-4 florets, usually only the lower 2 seed-forming. Glumes 6-10 mm, coriaceous, tightly appressed to the lower florets, with 1 prominent keel, keel winged only in the distal 2/3 terminating in a tooth; lemmas 9-12 mm, awned, lower 2 lemmas awned, awns to 17 cm, upper lemmas unawned or shortly awned; paleas not splitting at maturity. Endosperm flinty. Haplomes AUB. 2n = 28.</description>
+  <discussion>Culms 80-150 cm, decumbent; nodes glabrous or pubescent; internodes mostly hollow, solid for 1 cm below the spikes. Blades to 20 mm wide, pubescent. Spikes 5-10 cm, about as wide as thick to wider than thick, cylindrical to strongly flattened; rachises glabrous or shortly ciliate at the nodes and margins; internodes (0.5)2-5 mm, disarticulating with pressure, dispersal units wedge-shaped. Spikelets 10-16 mm, elliptical to ovate, with 3-4 florets, usually only the lower 2 seed-forming. Glumes 6-10 mm, coriaceous, tightly appressed to the lower florets, with 1 prominent keel, keel winged only in the distal 2/3 terminating in a tooth; lemmas 9-12 mm, awned, lower 2 lemmas awned, awns to 17 cm, upper lemmas unawned or shortly awned; paleas not splitting at maturity. Endosperm flinty. Haplomes AUB. 2n = 28.</discussion>
+</bio:treatment>

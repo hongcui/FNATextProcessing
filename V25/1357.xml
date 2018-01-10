@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Pennisetum macrourum Trin.</name_authority_date>
+  </taxon_identification>
+  <common_names>WATERSIDE REED</common_names>
+  <description type="morphology">Plants perennial; rhizomatous. Culms 60-200 cm, erect; nodes pubescent or glabrous. Sheaths pubescent or glabrous; ligules 1-1.7 mm; blades 20-50 cm long, 4-12 mm wide, flat to involute, glabrous, pubescent, or scabrous. Panicles terminal, 6-40 cm long, 20-46 mm wide, fully exerted from the sheaths, erect, white to stramineous; rachises terete, scabrous. Fascicles 21-46 per cm; fascicle axes 0.4-0.6(2) mm, with 1(2) spikelet(s); outer bristles 15-20, 2.5-8 mm; inner bristles 8-10, 4-9 mm, scabrous; primary bristles 12.5-20 mm, noticeably longer than the other bristles. Spikelets 3-8 mm, sessile or pedicellate, glabrous; pedicels to 0.2 mm; lower glumes absent or 1.2-1.4 mm, veinless; upper glumes 0.8-2 mm, 0-1-veined; lower florets sterile; lower lemmas 3-7.7 mm, 3-5(7)-veined; lower paleas absent; upper lemmas 3-6.8 mm, 5-veined; anthers 2.6-3.5 mm. 2n = 54.</description>
+  <discussion>Pennisetum macrourum is native to Africa, where it grows along rivers and lake margins. In the Flora region, it is known only from one location in Monterey County, California. Although sometimes recommended as an ornamental grass, the U.S. Department of Agriculture considers it a noxious weed.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sorghum halepense (L.) Pers. </name_authority_date>
+  </taxon_identification>
+  <common_names>JOHNSON GRASS</common_names>
+  <description type="morphology">Plants perennial; rhizomatous. Culms 50-200 cm tall, 0.4-2 cm thick; nodes appressed pubescent; internodes glabrous. Ligules 2-6 mm, membranous, conspicuously ciliate; blades 10-90 cm long, 8-40 mm wide. Panicles 10-50 cm long, 5-25 cm wide, primary branches compound, terminating in rames of 1-5 spikelet pairs; disarticulation usually beneath the sessile spikelets, sometimes also beneath the pedicellate spikelets. Sessile spikelets bisexual, 3.8-6.5 mm long, 1.5-2.3 mm wide; calluses blunt; glumes indurate, shiny, appressed pubescent; upper lemmas unawned, or with a geniculate, twisted awn to 13 mm; anthers 1.9-2.7 mm. Pedicels 1.8-3.3 mm. Pedicellate spikelets staminate, 3.6-5.6 mm; glumes membranous to coriaceous, unawned. Caryopses not exposed at maturity. 2n = 20, 40; several dysploid counts also reported.</description>
+  <discussion>Sorghum halepense is native to the Mediterranean region. It is sometimes grown for forage in North America, but it is considered a serious weed in warmer parts of the United States. It hybridizes readily with S. bicolor, and derivatives of such hybrids are widespread. The annual Sorghum xalmum Parodi, which has wider (2-2.8 mm) sessile spikelets with more veins in the lower glumes (13-15 versus 10-13) than S. halepense, is one such derivative.</discussion>
+</bio:treatment>

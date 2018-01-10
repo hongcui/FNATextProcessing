@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa saltuensis Fernald & Wiegand </name_authority_date>
+  </taxon_identification>
+  <common_names>OLDPASTURE BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; not rhizomatous, not stoloniferous, loosely tufted. Basal branching mainly pseudointravaginal. Culms 20-95 cm tall, 0.8-1.5 mm thick. Sheaths closed for 1/3-2/3 their length; ligules 0.2-3(4) mm, smooth or sparsely scabrous, truncate to obtuse; blades 1-3.6 (6) mm wide, flat, thin, lax, veins prominent. Panicles 4-20(24) cm long, less than 1/4 the plant height, lax; nodes with 1-3 branches; branches ascending to spreading, lax, angled, angles prominent, scabrous. Spikelets 3-5.6 mm, laterally compressed; florets 2-5; rachilla internodes glabrous, usually shorter than 1 mm. Glumes 2/3 – 3/4 as long as the adjacent lemmas, distinctly keeled; lower glumes l(3)-veined; upper glumes shorter than or subequal to the lowest lemmas; calluses webbed; lemmas 2.4-4 mm, lanceolate to broadly lanceolate, distinctly keeled, usually glabrous, bases of marginal veins rarely sparsely softly puberulent, lateral veins prominent, intercostal regions smooth, minutely bumpy, apices obtuse to sharply acute or acuminate; palea keels scabrous; anthers 0.4-1.5 mm.</description>
+  <discussion>Poa saltuensis grows in woodlands of the north-central and northeastern United States and adjacent Canada, extending south to Tennessee. The two subspecies are sometimes treated as species. The variation between the two overlaps and is correlated to some extent with ecology and geography. Poa marcida (p. 512), a western species once included in P. saltuensis, differs in having closed sheaths and attenuate lemmas.</discussion>
+  <key>
+    <key_body>
+1. Anthers 0.4-1 mm long; lemma apices obtuse to acute, firm or scarious for up to 0.25 mm .....subsp. languida
+1. Anthers 0.9-1.5 mm long; lemma apices acute to acuminate, scarious for 0.25-0.5  mm .....subsp. saltuensis
+
+    </key_body>
+  </key>
+</bio:treatment>

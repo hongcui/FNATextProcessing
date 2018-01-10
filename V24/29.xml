@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Grass Phylogeny Working Group</author>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subfamily</rank>
+    <name_authority_date>EHRHARTOIDEAE Link</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial. Culms annual, sometimes woody, hollow or solid. Leaves distichous; sheaths open; auricles sometimes present; abaxial ligules absent; adaxial ligules membranous, scarious, or of hairs; pseudopetioles sometimes present; blades rarely cordate or sagittate at the base, venation parallel; mesophyll not radiate; adaxial palisade layer usually absent; fusoid cells sometimes present; arm cells absent or present; Kranz anatomy not developed; midribs simple or complex; adaxial bulliform cells present; stomates with dome-shaped or triangular subsidiary cells; bicellular microhairs present, terminal cells tapered; papillae sometimes present. Inflorescences panicles, racemes, or spikes, rarely with bracts other than those of the spikelets; disarticulation usually above the glumes, sometimes beneath the spikelets or at the base of the primary branches. Spikelets bisexual or unisexual, with 1 pistillate or bisexual floret, sometimes with 1-2 sterile florets below the functional floret. Glumes absent or 2; lemmas without uncinate hairs, sometimes terminally awned, awns single; paleas well-developed, lacking in sterile florets; lodicules 2, usually membranous, rarely fleshy, heavily vascularized; anthers (1)3-6(16); ovaries glabrous, without an apical appendage; styles 2, free to the base to fused throughout, 2-branched. Fruits caryopses or achenes; hila long-linear; endosperm without lipid, usually containing compound starch grains, rarely with simple starch grains; embryos to 1/3 the length of the caryopses; epiblasts usually present; scutellar cleft usually present; mesocotyl internode absent or very short; embryonic leaf margins usually overlapping. x =12 (10,15,17).</description>
+  <discussion>The Ehrhartoideae encompasses three tribes, one of which, the Oryzeae, is native to the Flora region; the Ehrharteae is represented by introduced species. The third tribe, Phyllorachideae C.E. Hubb., is native to Africa and Madagascar. It was included in the subfamily on the basis of its morphological similarity to the other two tribes. There are approximately 120 species in the Ehrhartoideae. They grow in forests, open hillsides, and aquatic habitats.
+Molecular data provide strong support for the close relationship of the Oryzeae and Ehrharteae (Grass Phylogeny Working Group 2001). Morphologically, they are characterized by spikelets that have a distal unisexual or bisexual floret with up to two proximal sterile florets, and the frequent presence of six stamens in the staminate or bisexual florets.</discussion>
+  <references>Gibbs Russell, G.E., L. Watson, M. Koekemoer, L. Smook, N.P. Barker, H.M. Anderson, and M.J. Dallwitz. 1991. Grasses of Southern Africa (ed. O.A. Leistner). National Botanic Gardens, Botanical Research Institute, Pretoria, Republic of South Africa. 437 pp.; Grass Phylogeny Working Group. 2001. Phylogeny and subfamilial classification of the grasses (Poaceae). Ann. Missouri Bot. Gard. 88:373-457.</references>
+  <key>
+    <key_body>
+1. Spikelets with 2 sterile florets below the functional floret, both well-developed, at least the upper sterile floret as long as or longer than the functional floret; glumes from 1/2 as long as the spikelets to exceeding the florets; culms not aerenchymatous; plants of dry to damp habitats.....4. Ehrharteae
+1. Spikelets with 0-2 sterile florets below the functional floret, when present, sterile florets 1/8 - 9/10 as long as the functional floret; glumes absent or highly reduced; culms aerenchymatous; plants of wet habitats.....5. Oryzeae
+    </key_body>
+  </key>
+</bio:treatment>

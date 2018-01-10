@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Anthoxanthum nitens (Weber) Y. Schouten & Veldkamp</name_authority_date>
+  </taxon_identification>
+  <common_names>VANILLA SWEETGRASS, HIEROCHLOE ODORANTE, FOIN D'ODEUR, HERBE SAINTE</common_names>
+  <description type="morphology">Plants perennial; loosely cespitose or the culms solitary, rhizomes elongate, 0.7-2 mm thick. Culms (5)15-50(90) cm. Sheaths brownish or reddish, glabrous or puberulent; ligules 0.5-6.5(8) mm, truncate, obtuse, or acute; blades 10-30 cm long, 2-8 mm wide, usually flat, sometimes inrolled, abaxial surfaces glabrous or pubescent, without prominent cross venation, adaxial surfaces glabrous; flag leaf blades 0.3-1.5(4.5) cm long, 1.5-4.5(6) mm wide. Panicles (2)4-9(12.5) cm long, (1.5)2-5(7) cm wide, open, pyramidal, with 8-100 spikelets; branches with 3+ spikelets. Spikelets (2.5)3.5-7.5 mm, mostly tawny, sometimes tinged with green; rachilla internodes 0.15-0.3 mm, glabrous. Glumes subequal, exceeding the florets, glabrous; lower glumes with lengths 2-5 times widths, usually shorter and wider than the upper glumes; lowest 2 florets staminate; lemmas hairy, particularly distally, hairs brown, often papillose-based, to 0.8 mm on the margins and to 0.3 mm near the apices, margins with 11-26 hairs per mm, midvein usually terminating at the apices or extending beyond as an awn, apices acute to rounded, entire or bifid, unawned, mucronate, or with a thin awn, awns to 0.5 mm; first lemma 3.4-5 mm long, 1-1.5 mm wide, length usually less than 4 times width, elliptic; bisexual lemmas 2.5-4 mm, usually hairy distally, hairs 0.1-0.5 mm, appressed or almost so at maturity, longer, divergent hairs, if present, concentrated near the midvein; anthers of staminate florets 0.9-2.3 mm, those of bisexual florets 1.2-1.6 mm. 2n = 28, 42.</description>
+  <discussion>Anthoxanthum nitens is primarily a European species. In the Flora region, it grows along the coast from northern Labrador to New England. It is not known from Greenland, although it grows in Iceland and northwestern Europe. It grows in wet meadows and at the edges of sloughs, marshes, roadsides, and fields. Only A. nitens (Weber) Y. Schouten & Veldkamp subsp. nitens is present in the region; it is also present in Europe. It differs from A. nitens subsp. balticum (G. Weim.) G.C. Tucker in being almost always awned and having In = 28.
+North American taxonomists have generally interpreted Anthoxanthum nitens as including A. hirtum (and treated both as Hierochloe odorata (L.) Wahlenb.). The two are distinct, although not easy to distinguish. Weimarck (1971) separated the two by the density of the lateral hairs and development of the awns of the staminate florets. The difference in abundance and distribution of hairs more than 0.5 mm long on the apices of the bisexual florets is more reliable, A. nitens having few such long hairs concentrated near the midvein. M.J. Harvey (pers. comm.), who did not distinguish between the two species, found that plants from the Maritime Provinces collected near saltwater were uniformly 2n = 28, whereas those from the interior of New Brunswick westward had 2n = 56. This observation is consistent with Weimark's chromosome counts and distribution maps.
+</discussion>
+</bio:treatment>

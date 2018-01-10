@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Jarava ichu Ruiz & Pav. </name_authority_date>
+  </taxon_identification>
+  <common_names>PERUVIAN NEEDLEGRASS</common_names>
+  <description type="morphology">Plants densely cespitose, not rhizomatous. Culms (15)30-100 cm, bases dull brown, glabrous; nodes 2-4; branching intravaginal. Sheaths mostly glabrous, scabridulous, basal sheaths dull brown; ligules 0.3-1 mm, truncate, erose, abaxial surfaces glabrous or almost so, ciliate, hairs longest (to 2 mm) towards the sides of the leaves, at the top of the sheaths; blades (3)10-40 cm long, 0.5-1 mm wide, all alike, straight, erect, convolute, apices sharp. Panicles (3)10-25(30) cm, narrow, cylindrical to lanceoloid, dense, from partially to wholly exserted at anthesis, erect or nodding distally; branches strongly ascending. Spikelets 5.5-11 mm. Glumes subequal, clearly exceeding the florets, linear-lanceolate, tapering to attenuate apices; lower glumes 5.5-11 mm, 1-3-veined; upper glumes 5-10.5 mm, 3-veined; florets 2.3-3 mm, cylindrical to fusiform; calluses 0.2-0.4 mm, acute to broadly acute, strigose; lemmas hairy throughout, hairs on the lower portion about 0.15 mm, sparse, appressed, pappus hairs 3-4 mm; awns 9-15 mm, twice-geniculate, first 2 segments twisted, scabridulous; paleas 1-1.5 mm, sparsely pubescent, 2-veined, apices rounded; lodicules 2, 0.6-1 mm; anthers about 0.8 mm. Caryopses 1.8-2.2 mm long, 0.6-0.7 mm thick, cylindrical.</description>
+  <discussion>Jarava ichu is native to Mexico, Costa Rica, Venezuela, Colombia, Ecuador, Peru, Bolivia, and Argentina. It is abundant in much of this range. In the Flora region, it is sold as an attractive ornamental. The species could become a problem, because it is self-compatible and produces a large quantity of wind-dispersed seeds. In parts of its native range, J. ichu is highly valued for its ability to prevent soil erosion, and for its use in thatch, mats, and basketry. "Ichu" is a term used to describe any bunchgrass in some parts of South America.</discussion>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>16</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus svensonii G.L. Church </name_authority_date>
+  </taxon_identification>
+  <common_names>SYENSON'S WILDRYE</common_names>
+  <description type="morphology">Plants cespitose, not rhizomatous, strongly glaucous. Culms 50-110 cm, erect; nodes 6-8, mostly exposed, often reddish brown, glabrous. Leaves evenly distributed; sheaths glabrous or villous, often somewhat purplish; auricles 1-2 mm, purplish or reddish brown; ligules to 1 mm, often reddish brown; blades 4-8(10) mm wide, lax, usually pale green, adaxial surfaces usually villous. Spikes 10-16 cm long, 3-5 cm wide, nodding, with 2 spikelets per node; internodes (4)6-10(12) mm long, about 0.2 mm thick at the thinnest sections, flexuous, glabrous, without green lateral bands. Spikelets 10-16 mm, usually appressed, with (3)4-5 florets, lowest florets functional; disarticulation above the glumes, beneath each floret. Glumes usually differing in length by more than 5 mm, sometimes vestigial to absent from the upper spikelets or throughout, (0)1-15(18) mm long including the undifferentiated awns, indurate at the base, 0.1-0.3 mm wide, setaceous to subulate, entire, 0-1-veined, tapering from the base, glabrous, margins firm, awns often curving outward; lemmas 8-10 mm, glabrous, veins occasionally hispidulous near the lemma apices, awns (8)10-20(25) mm, moderately to strongly outcurving at maturity; paleas 7-9 mm, obtuse or truncate, occasionally emarginate; anthers 3-5 mm. Anthesis from mid-June to early July. 2n = unknown.</description>
+  <discussion>Elymus svensonii grows in dry, rocky soils in open woods of the interior low plateaus, mostly along bluffs of the Kentucky River and its tributaries in the bluegrass region of Kentucky, and along bluffs of the Cumberland River and its Caney Fork in the central basin of Tennessee. Most sites are on Ordovician limestone, but its discovery by Natural Heritage programs in Kentucky along the Green River on Mississippian limestone, and in Tennessee along the Piney River on Silurian limestone, suggest that it may be more widespread. It has been a candidate for federal protection in the United States.
+Elymus svensonii, like E. diversiglumis (p. 316) and E. cburchii (see next), may be derived from hybrids between E. hystrix (p. 316) and E. canadensis (p. 303) (Church 1967a), even though E. canadensis currently has its eastern limit 50-100 miles west of most E. svensonii.
+Elymus svensonii hybridizes naturally with E. hystrix, E. virginicus (p. 298) and other species of Elymus. Plants with little glume development are frequent; they appear to be introgressed by E. hystrix. Artificial crosses with E. interruptus (p. 306) have been successful, but those with E. diversiglumis have not (Church 1967a). Elymus svensonii resembles E. churchii; it differs in having less open spikes, shorter awns, more florets per spikelet, and more pubescent, glaucous foliage.</discussion>
+</bio:treatment>

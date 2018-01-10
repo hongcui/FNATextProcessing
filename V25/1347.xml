@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eriochloa acuminata (J. Presl) Kunth </name_authority_date>
+  </taxon_identification>
+  <common_names>SOUTHWESTERN CUPGRASS</common_names>
+  <description type="morphology">Plants annual; cespitose. Culms 30-120 cm, erect or decumbent, sometimes rooting at the lower nodes; internodes glabrous or with scattered hairs; nodes glabrous or pilose. Sheaths some¬ times conspicuously inflated, glabrous or pubescent; ligules 0.2-1.2 mm; blades 5-12(18) cm long, (2)5-12(16) mm wide, linear, flat or folded, straight or lax, glabrous or sparsely pubescent adaxially. Panicles 7-16 cm long, 1-6 cm wide, loosely contracted; rachises scabrous or hairy; branches 5-20, 1-5 cm long, 0.4-0.6 mm wide, appressed to divergent, pubescent, sometimes setose, not winged, with 20-36 spikelets, spikelets mostly in unequally pedicellate pairs, solitary distally; pedicels 0.1-1 mm, hairy. Spikelets 3.8-5(6) mm long, 1.1-1.4 mm wide, lanceolate to ovate. Lower glumes absent; upper glumes equaling the lower lemmas, lanceolate to ovate, hairy, 5(7)-veined, acuminate to acute, unawned or awned, awns to 1.2 mm; lower lemmas 3.6-5 mm long, 1.1-1.4 mm wide, lanceolate to ovate, setose, 5(7)-veined, acuminate to acute, unawned; lower paleas absent; anthers absent; upper lemmas 2.3-3.3 mm, 0.7-0.9 times as long as the lower lemmas, indurate, elliptic, rounded, 5-veined, awned, the awns 0.1-0.3 mm; upper paleas indurate, blunt, rugose. 2n = 36.</description>
+  <discussion>Eriochloa acuminata is native to the southern United States and northern Mexico, but has become established outside this region. It may hybridize with E. lemmonii, from which it differs in its lack of lower paleas, upper glumes and lower lemmas with level veins, and narrower, glabrous or sparsely pubescent leaf blades.
+There are two varieties of Eriochloa acuminata, differing as shown in the key below. Both grow in Mexico as well as the United States.
+</discussion>
+  <key>
+    <key_body>
+1. Spikelets 4-6 mm long,  long-acuminate  or tapering to a short awn .....var. acuminata
+1. Spikelets 3.8-4 mm long, acute.....var. minor
+
+    </key_body>
+  </key>
+</bio:treatment>

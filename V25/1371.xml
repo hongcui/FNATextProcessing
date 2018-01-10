@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Michael T. Stieber </author>
+      <author>J.K. Wipff</author>
+    </source>
+  </meta>
+  <number>25.16</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>CENCHRUS L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial. Culms 5-200 cm, erect or decumbent, usually geniculate; nodes and internodes usually glabrous. Sheaths open, usually glabrous; ligules membranous, ciliate, cilia as long as or longer than the basal membrane; blades flat or folded, margins cartilaginous, scabridu-lous. Inflorescences terminal, spikelike panicles of highly reduced branches termed fascicles ("burs"); fascicles consisting of 1-2 series of many, stiff, partially fused, usually retrorsely scabridulous to strigose, sharp bristles surrounding, sometimes almost concealing, 1-4 spikelets; outer (lower) bristles, if present, in 1 or more whorls, terete or flattened; inner (upper) bristles usually strongly flattened, fused at least at the base and forming a disk, frequently to more than 1/2 their length and forming a cupule; disarticulation at the base of the fascicles. Spikelets sessile, with 2 florets; lower florets usually sterile; upper florets bisexual. Lower glumes ovate, scarious, glabrous, 1-veined, acute to acuminate; upper glumes and lower lemmas ovate, 3-9-veined; lower paleas equaling the lemmas, tawny or purplish; upper lemmas and paleas subequal, indurate, ovate, obscurely veined, acuminate. Caryopses obtrulloid. x = 17.</description>
+  <discussion>Cenchrus has about 16, primarily tropical species, most of which are readily (and painfully) recognized by their spiny fascicles. Most of its species differ from those of Pennisetum in having retrorsely scabrous or strigose inner bristles that are fused to well above their bases. The species are generally considered to be undesirable weeds.
+Seven species of Cenchrus are native to the Flora region. The eighth species in this treatment was collected once in Westchester County, New York, but does not appear to have become established in the Flora region.
+</discussion>
+  <references>Chase, A. 1920. The North American species of Cenchrus. Contr. U.S. Natl. Herb. 22':45-77; DeLisle, D.G. 1963. Taxonomy and distribution of the genus Cenchrus. Iowa State Coll. J. Sci. 37:259-351; Gayle, E.E. 1892. The spines of Cenchrus tribuloides L. Bot. Gaz. 17:126-127; Sohns, E.R. 1955. Cenchrus and Pennisetum: Fascicle morphology. J. Wash. Acad. Sci. 45:135-143.</references>
+  <key>
+    <key_body>
+1. All bristles terete, fused only at the base; fascicles not burlike.....7. C. myosuroides
+1. Inner bristles flattened, variously fused, forming a shallow disk or distinct cupule; fascicles burlike.
+2. Fascicles having 1 whorl of fused, flattened inner bristles, subtended by 5-25 free, terete, outer bristles. 
+3. Inner bristles fused only at the base and forming a shallow disk, their abaxial surfaces with 1-3 grooves .....8. C. biflorus
+3. Inner bristles fused for 1/3 – 1/2 their length or more, forming a globose cupule, their abaxial surfaces not grooved. 
+4. Rachis internodes 0.8-1.7 mm long; the majority of the outer bristles equaling or slightly exceeding the inner, flattened bristles  .....1. C. brownii
+4. Rachis internodes 2-4 mm long; the majority of the outer bristles about 1/2 as long as the inner, flattened bristles .....2. C. echinatus
+2. Fascicles having more than 1 whorl of flattened inner bristles, these originating at irregular intervals throughout the body of the cupule, sometimes subtended by terete outer bristles. 
+5. Plants perennial, long-lived; fascicles not imbricate, usually glabrous; leaf blades 1-3.5 mm wide  .....3. C. gracillimus
+5. Plants annual or perennial but short-lived; fascicles imbricate, usually pubescent; leaf blades (1)3-14.2 mm wide.
+6. Inner bristles 0.5-0.9(1.4) mm wide at the base; fascicles with 45-75 bristles.....5. C. longispinus
+6. Inner bristles 1-3 mm wide at the base; fascicles with 8-43 bristles.
+7. Fascicles densely pubescent, 9-16 mm long, with 1(2) spikelets; inner bristles 4-8 mm long .....6. C. tribuloides
+7. Fascicles glabrous or sparsely to moderately pubescent, 5.5-10.2 mm long, with 2-4 spikelets; inner bristles 2-5.8 mm long .....4. C. spinifex
+
+    </key_body>
+  </key>
+</bio:treatment>

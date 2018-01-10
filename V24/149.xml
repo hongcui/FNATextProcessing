@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Achnatherum occidentale (Thurb.) Barkworth </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants tightly cespitose, not rhizomatous. Culms 14-120(180) cm tall, 0.3-2 mm thick, inter-nodes glabrous or puberulent to densely pubescent; nodes 2-4, glabrous or pubescent. Basal sheaths glabrous or puberulent to densely pubescent, often ciliate at the throat; collars often with tufts of hair at the sides; ligules 0.2-1.5 mm, often ciliate; blades 0.5-3 mm wide and flat, or convolute and 0.1-0.8 mm in diameter, lax to straight. Panicles 5-30 cm long, 0.5-1.5 cm wide; branches appressed, straight, longest branches 1-7 cm. Spikelets appressed to the branches. Glumes subequal, 9-15 mm long, 0.6-0.9 mm wide; florets 5.5-7.5 mm long, 0.5-0.9 mm thick, fusiform, terete; calluses 0.8-1.2 mm, sharp, dorsal boundary of the glabrous tip with the callus hairs narrowly acute; lemmas evenly hair)-, hairs 0.5-1.5 mm at midlength, apical hairs somewhat longer than those below, sometimes similar in length to those at the base of the awns, sometimes longer, apical lobes 0.3-0.5 mm, membranous; awns 15-55 mm, twice-geniculate, first 2 segments evidently hairy, terminal segment glabrous or partly to wholly pilose, sometimes scabrous; paleas 2.2-3.5 mm, 2/5 – 3/5 as long as the lemmas, hairs at the tip usually shorter than 1 mm, frequently extending beyond the apices, apices rounded; anthers 2.5-3.5 mm, dehiscent, not penicillate. Caryopses 4-6 mm, fusiform. 2n =36.</description>
+  <discussion>Achnatherum occidentale, which extends from British Columbia to California, Utah, and Colorado, varies considerably in pubescence and size. The three subspecies recognized here occasionally occur together.</discussion>
+  <key>
+    <key_body>
+1. Terminal awn segment usually pilose; culms 0.3-1 mm thick, glabrous even on the basal internodes; glumes often purplish   .....subsp. occidentale
+1. Terminal awn segment usually scabrous or glabrous, occasionally pilose at the base; culms 0.5-2 mm thick; glumes usually green.
+2. First 2 awn segments scabrous or pilose with hairs of mixed lengths; apical lemma hairs longer than the basal awn hairs .....subsp. californicum
+2. First 2 awn segments pilose, the hairs gradually and evenly becoming shorter towards the first geniculation; apical lemma hairs similar in length to the basal awn hairs   .....subsp. pubescens
+
+    </key_body>
+  </key>
+</bio:treatment>

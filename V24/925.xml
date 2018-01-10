@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>22</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Agrostis blasdalei Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>BLASDALE'S BENT</common_names>
+  <description type="morphology">Plants perennial; forming dense, stiff clumps, not rhizomatous or stoloniferous. Culms 6-30 cm, decumbent to erect. Leaves forming a dense, bristly basal tuft; ligules 0.7-2.3 mm, dorsal surfaces scabridulous, apices truncate to obtuse, often erose, sometimes lacerate or ciliolate; blades 2-5 cm long, less than 1 mm wide, soon becoming tightly inrolled and rigid. Panicles 2-8 cm long, 0.2-0.6 cm wide, narrowly cylindric, spikelike, dense, occasionally interrupted near the base, the base often enclosed by the upper sheaths; branches to 2 cm, scabrous, strongly appressed, hidden by the spikelets; pedicels 0.5-7 mm. Spikelets lanceolate to narrowly ovate, greenish to purplish. Glumes 1.8-4 mm, often 3-veined, midveins scabrous to smooth, acute to acuminate; calluses glabrous; lemmas 1.5-2.5 mm, 5-veined, veins obscure or prominent distally, extending as teeth to 0.2 mm, unawned or awned from above midlength, awns to 1.2 mm, usually scarcely exceeding the lemma apices, straight; paleas to 0.3 mm, thin; anthers 3, 0.7-2 mm. Caryopses 1-1.5 mm; endosperm liquid. 2n = 42.</description>
+  <discussion>Agrostis blasdalei is a xerophytic species that is known only from Mendocino to Santa Cruz counties, California, where it grows on coastal cliffs and dunes and in shrublands. It hybridizes with A. densiflora (p. 651).</discussion>
+</bio:treatment>

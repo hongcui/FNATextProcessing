@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Dichanthelium sect. Sphaerocarpa (Hitchc. & Chase) Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose, with caudices. Basal rosettes well-differentiated; blades large, ovate-lanceolate. Culms 15-95 cm, usually nearly erect, sometimes spreading to ascending, glabrous or almost glabrous, slightly fleshy or thickened; fall culms with sparse branching. Cauline leaves 3-7, glabrous or almost glabrous throughout; ligules almost obsolete, usually of hairs shorter than 0.8 mm, sometimes with a minute membranous base; blades firm, thick, margins cartilaginous, bases cordate, ciliate. Spikelets 1-1.8 mm, spherical to broadly obovoid, puberulent or some¬times glabrous. Upper florets blunt or minutely umbonate.</description>
+  <discussion>Dichanthelium sect. Sphaerocarpa extends from the southeastern United States through Central America and Cuba to northern South America. Pairs of species often grow together, with infrequent apparent hybridization.</discussion>
+</bio:treatment>

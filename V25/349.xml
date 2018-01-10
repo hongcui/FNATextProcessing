@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eustachys caribaea (Spreng.) Herter </name_authority_date>
+  </taxon_identification>
+  <common_names>CHICKENFOOT GRASS</common_names>
+  <description type="morphology">Culms 20-70 cm, erect. Blades 2-22 cm long, 4-10 mm wide, flat or folded, apices obtuse or mucronate. Panicles with 3-10 branches; branches 3-9 cm. Spikelets 2-2.5 mm; florets 2. Lower glumes 0.9-1.3 mm, acute; upper glumes 1.6-1.8 mm, obovate, apices bilobed, lobes obtuse, awned, awns 0.4-0.7 mm; calluses sparsely hairy; lowest lemmas 2.1-2.5 mm, ovate, tawny to reddish-brown at maturity, lateral veins and keels with spreading, white, 0.5-1 mm hairs, apices mucronate; second lemmas 1.2-1.5 mm, obconic, truncate. Caryopses 1.1-1.2 mm. 2n = unknown.</description>
+  <discussion>Eustachys caribaea has been introduced to the United States from South America. It is now established in North America, growing along roadsides at a few locations within the Flora region.</discussion>
+</bio:treatment>

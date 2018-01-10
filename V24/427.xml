@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Elymus canadensis var. brachystachys (Scribn. & C.R. Ball) Farw. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Spikes 6-20 cm, nodding, not strongly glaucous, often becoming yellowish or pale reddish brown, rarely with 3 spikelets per node; internodes mostly 3-4 mm. Glumes not clearly indurate or bowed out at the base, awns 10-20 mm; lemmas smooth or scabridulous, awns usually 20-30 mm, moderately outcurving.</description>
+  <discussion>Elymus canadensis var. brachystachys is widespread in the southern Great Plains from Nebraska to Mexico, where anthesis is from March to early June. It also occurs sporadically as far north as southern Canada, from British Columbia to Quebec. Plants of this variety occasionally appear introgressed from E. virginicus (p. 298), particularly E. virginicus var. jejunus, but not to the same extent as E. canadensis var. robustus.</discussion>
+</bio:treatment>

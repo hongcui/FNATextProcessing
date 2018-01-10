@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Phalaris caroliniana Walter</name_authority_date>
+  </taxon_identification>
+  <common_names>CAROLINA CANARYGRASS</common_names>
+  <description type="morphology">Plants annual. Culms to 150 cm. Ligules 1.5-7 mm, truncate to broadly acute; blades 1.5-15 cm long, 2-11 mm wide, smooth, shiny green, apices acuminate. Panicles 0.5-8(8.5) cm long, 0.8-2 cm wide, ovoid to subcylindrical, not lobed; branches not evident, spikelets borne singly, not clustered. Spikelets homogamous, with 3 florets, terminal floret bisexual; disarticulation above the glumes, beneath the sterile florets. Glumes 3.8-6(8) mm long, 0.8-1.5 mm wide, keels smooth or scabridulous, narrowly to broadly winged distally, wings 0.1-0.5 mm wide, entire, smooth, lateral veins prominent, usually smooth, sometimes scabridulous, apices acute or acuminate; sterile florets 2, equal to subequal, 1.5-2.5 mm, 1/2 or more the length of the bisexual florets, the basal 0.2-0.5 mm glabrous, the remainder hairy; bisexual florets 2.9-4.7 mm long, 0.9-1.8 mm wide, shiny, stramineous when immature, brown when mature, apices hairy, acuminate to beaked; anthers 1.5-2 mm. 2n = 14.</description>
+  <discussion>Phalaris caroliniana grows in wet, marshy, and swampy ground. It is a common species in suitable habitats through much of the southern portion of the Flora region and in northern Mexico. It has also been found in Puerto Rico, where it may be an introduction, and in Europe and Australia, where it is undoubtedly an introduction. It appears to hybridize with P. lemmonii and P. caroliniana (Baldini 1995).</discussion>
+</bio:treatment>

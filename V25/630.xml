@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Oplismenus hirtellus (L.) P. Beauv. </name_authority_date>
+  </taxon_identification>
+  <common_names>BRISTLE BASKETGRASS</common_names>
+  <description type="morphology">Plants perennial.  Culms to 90 cm, mostly decumbent and root¬ing at the nodes, distal 15-35 cm ascending when flowering; nodes usually pubescent; internodes usually pubescent along 1 side (sometimes glabrous). Sheaths conspicuously ciliate on the margins; ligules 0.4-1.6(2.3) mm, ciliate; blades (0.6)1.3-11.5 cm long, 2-20 mm wide, glabrous, scabrous, or pubescent, margin(s) usually undu-lating. Panicles (1.5)2.5-16.5 cm, with 2-10 primary branches; branches 0.1-2.5 cm. Spikelets 2.2-3.5(4.5) mm; calluses shortly pubescent at the base awns usually purplish. Lower glumes 1.5-3 mm, scabridulous and/or pubescent, 3-5-veined, awns (1.6)3.2-14.5 mm; upper glumes 1.5-2.5 mm, sparsely pubescent, 5-7-veined, awns 0.8-6(10) mm; lower florets usually sterile, occasionally staminate; lower lemmas 2.2-3.1 mm, sparsely pubescent above, (5)7-9-veined, awns 0.1-1.2 mm; lower paleas absent or to 2.3 mm, hyaline; upper lemmas (2.1)2.3-3 mm, glabrous, weakly cartilaginous, white to cream-colored; anthers 3, 1.3-1.7 mm. Caryopses 1.7-1.8 mm long, 0.5-0.9 mm wide, glabrous. 2n = 36, (54), 72, (90).</description>
+  <discussion>Oplismenus hirtellus grows at scattered locations in the southeastern United States, extending south in sub¬tropical and tropical habitats to Argentina. Scholz (1981) recognized 11 subspecies and two forms within the species, but they overlap, both morphologically and geographically. The key below is included for conven¬ience. It includes the three subspecies attributed to the Flora region. In addition, a variegated form cultivated as an ornamental is sold as Panicum variegatum.</discussion>
+  <key>
+    <key_discussion>According to Scholz (1981), Oplismenus hirtellus subsp. fasciculatus U. Scholz is restricted to southern Louisiana and eastern Mexico; O. hirtellus subsp. setar¬ius (Lam.) Mez ex Ekman is more widely distributed, growing both in the southeastern United States and Mexico. Oplismenus hirtellus subsp. undulatifolius (Ard.) U. Scholz was found recently in Maryland (Peterson et al. 1999); it is native to the Eastern Hemisphere.</key_discussion>
+    <key_body>
+1. Sheaths and culms noticeably pilose, the hairs
+1-3 mm long; lemmas 7-veined .....subsp. undulatifolius 
+1. Sheaths and culms glabrous or with a few, scattered hairs less than 1 mm long; lemmas (7)9-11-veined. 
+2. Spikelets  2.2-2.7(3.3) mm long; lowest
+panicle branches 0.1-0.5 cm long  .....subsp. setarius 
+2. Spikelets 3-3.4(4.5) mm long; lowest panicle branches 0.5-0.7 cm long .....subsp. fasciculatus
+
+    </key_body>
+  </key>
+</bio:treatment>

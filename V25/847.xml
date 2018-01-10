@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Cynodon x magennisii Hurcombe</name_authority_date>
+  </taxon_identification>
+  <common_names>MAGENNIS' DOGSTOOTH GRASS</common_names>
+  <description type="morphology">Plants stoloniferous and rhizomatous. Culms to 20 cm. Ligules of hairs; blades 1-1.5 mm wide, pubescent, at least adaxially. Panicles with 2-4 branches; branches in a single whorl, axes triquetrous. Spikelets about 3 mm. Glumes about 2 mm, about 2/3 as long as the spikelets; lemma keels not winged; anthers indehiscent at maturity. 2n = 27.</description>
+  <discussion>Cynodon xmagennisii is a natural triploid hybrid between C. dactylon and C. transvaalensis (Harlan et al. 1970). Several cultivars have been developed for lawns and golf courses in the southern United States. These exhibit differing mixes of the characteristics of the two parent species.
+Like triploid cultivars of C. dactylon, C. xmagennisii fails to produce either pollen or seeds and its anthers remain narrow and indehiscent at maturity. Diploid and tetraploid plants of C. dactylon also frequently fail to set seed because they are highly self-sterile, but they produce good pollen and their anthers dehisce at maturity.
+</discussion>
+</bio:treatment>

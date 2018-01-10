@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>21</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus nottowayanus Fernald </name_authority_date>
+  </taxon_identification>
+  <common_names>VIRGINIA BROME</common_names>
+  <description type="morphology">Plants perennial; not rhizomatous. Culms (60)70-140 cm, erect or spreading; nodes 5-9, pubescent or glabrous, often concealed by the sheaths; inter-nodes usually glabrous. Sheaths usually retrorsely pilose, some¬times glabrous, with a dense line of hairs at the collar, lower sheaths often sericeous; auricles absent; ligules 0.4-1 mm, often hairy, truncate, erose, ciliolate; blades 15-30 cm long, 5-12 mm wide, often shiny yellow-green, flat, abaxial surfaces pilose, adaxial surfaces glabrous or pilose over the veins. Panicles 9-25 cm, open, nodding; branches ascending or spreading, often recurved. Spikelets 18-30 mm, elliptic to lanceolate, terete to moderately laterally compressed, often purplish, with 6-12 florets. Glumes usually pubescent; lower glumes 5.5-8 mm, l(3)-veined; upper glumes 7-10 mm, 5-veined, often mucronate; lemmas 8-13 mm, elliptic to lanceolate, rounded over the midvein, usually uniformly densely hairy, or the backs less densely so, apices acute to obtuse, entire; awns 5-8 mm, straight, arising less than 1.5 mm below the lemma apices; anthers 2.8-3.5(5) mm. 2n = 14.</description>
+  <discussion>Bromus nottowayanus is native to the east-central and eastern United States from Iowa to New York, south to Oklahoma, northern Alabama, and Virginia. It  
+grows in damp, shaded woods, often in ravines and along streams.
+</discussion>
+</bio:treatment>

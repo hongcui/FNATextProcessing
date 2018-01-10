@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Koeleria macrantha (Ledeb.) Schult. </name_authority_date>
+  </taxon_identification>
+  <common_names>JUNEGRASS, KOELERIE ACCRETE, KOELERIE A CRETES</common_names>
+  <description type="morphology">Plants cespitose, sometimes loosely so. Culms 20-85(130) cm, mostly glabrous, pubescent below the panicles and near the nodes. Leaves primarily basal; sheaths pubescent or glabrous, usually breaking off with age, if disintegrating into fibers, then the fibers straight or nearly so; ligules 0.5-2 mm; blades 2-20 cm long, 0.5-3(4.5) mm wide, flat, involute when dry, minutely scabrous, occasionally glabrous or densely pubescent, margins of the basal blades glabrous or with hairs averaging shorter than 1 mm near the base. Panicles 4-27 cm long, 0.5-2 cm wide, interrupted at the base, otherwise dense; branches finely pubescent to villous. Spikelets 2.5-6.5 mm, obovate to obelliptic, with 2(3) florets; rachillas pubescent. Glumes 2.5-5 mm, ovate, membranous, green, scabrous except for the ciliate keels, apices acute; calluses pubescent; lemmas 2.5-6.5 mm, membranous, shiny, usually glabrous, sometimes scabrous, particularly on the keels, usually green when young, sometimes purple-tinged, stramineous at maturity, acuminate, midveins prolonged into a 1 mm awn; paleas shorter than the lemmas; anthers 1-2.5(3) mm. 2n = 14, 28.</description>
+  <discussion>Koeleria macrantha is widely distributed in temperate regions of North America and Eurasia. In North America, it grows in semi-arid to mesic conditions, on dry prairies or in grassy woods, generally in sandy soil, from sea level to 3900 m. It differs from Sphenopholis intermedia, with which it is frequently confused, in its less open panicles, and in having spikelets that disarticulate above the glumes.
+The species is treated here as a polymorphic, polyploid complex. North American plants have sometimes been treated as a separate species, Koeleria nitida Nutt., but no morphological characters for distinguishing them from Eurasian members of the complex are known (Greuter 1968). Some plants from Oregon and Washington have densely pubescent culms, and high-elevation populations from western North America are often densely cespitose, with very short culms and purple leaves and inflorescences; both variants appear to intergrade with more typical plants.
+</discussion>
+</bio:treatment>

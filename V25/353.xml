@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Enteropogon chlorideus (J. Presl) Clayton </name_authority_date>
+  </taxon_identification>
+  <common_names>BURYSEED UMBRELLAGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose and rhizomatous, each    rhizome terminating in a cleistogamous spikelet. Culms to 100 cm, erect. Sheaths sparsely pilose near the ligules; ligules  of lower leaves with a single prominent tuft of hairs;  ligules of upper leaves usually glabrous; blades to 30 cm long, to 1 cm wide, usually scabrous, occasionally pilose. Panicles with 3-10(15) racemosely arranged branches, usually most nodes with more than 1 branch; branches 6-10 cm, naked below, with about 4 spikelets per cm distally. Spikelets with 1 bisexual and 1 sterile floret. Lower glumes 1-2 mm; upper glumes 2-3.5 mm; lower lemmas 4.5-7.5 mm long, about 1 mm wide, linear to narrowly lanceolate, glabrous or the margins sparsely strigose above, apices acute to acuminate, often bidentate, unawned or awned, awns 6.5-15 mm; sterile florets 1.4-3 mm long, to 0.3 mm wide, awns 2-8 mm. Chasmogamous caryopses about 4.5 mm long, about 0.8 mm wide; cleistogamous caryopses to 4 mm long, about 2.5 mm wide. 2n = 40, 80.</description>
+  <discussion>Enteropogon chlorideus is native from the south-western United States through Mexico to Honduras. The spikelet-bearing rhizomes distinguish Enteropogon from most other grasses, but they are often missing from herbarium specimens. Seed set is highest in the cleistogamous spikelets.</discussion>
+</bio:treatment>

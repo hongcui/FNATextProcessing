@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>34</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis palmeri S. Watson </name_authority_date>
+  </taxon_identification>
+  <common_names>Rio GRANDE LOVEGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, with innovations and knotty bases, without rhizomes, not glandular. Culms 50-90(120) cm, glabrous below the nodes. Sheaths villous and the hairs not papillose-based, or mostly glabrous, apices hairy, hairs to 5 mm, not papillose-based; ligules 0.2-0.4 mm; blades (14)20-35 cm long, 1-2.4 mm wide, involute, abaxial surfaces glabrous, adaxial surfaces scabridulous, sometimes sparsely hairy. Panicles 12-40 cm long, 4-20 cm wide, oblong, open; primary branches 2-20 cm, diverging 20-70° from the rachises, capillary; pulvini glabrous or sparsely hairy; pedicels (0.4)1-4(14) mm, appressed or diverging, only the terminal pedicels on each branch longer than 4 mm. Spikelets 4-6(7.3) mm long, 1-2 mm wide, linear-lanceolate, plumbeous, with 5-12 florets; disarticulation acropetal, paleas persistent. Glumes lanceolate to ovate, hyaline; lower glumes 1.1-1.8 mm; upper glumes 1.2-2.2 mm, exceeded by the basal lemmas; lemmas 2-2.6 mm, ovate, membranous, hyaline towards the apices and margins, keels weak or strong, without glands, lateral veins from inconspicuous to conspicuous, apices acute; paleas 1.7-2.4 mm, hyaline, bases not projecting beyond the lemmas, apices truncate, often notched; anthers 3, 0.6-1.3 mm, yellowish to purplish. Caryopses 0.6-0.8 mm, rectangular-prismatic to subellipsoid, laterally compressed,  with  a  well-developed  adaxial  groove, faintly striate, opaque, reddish-brown. 2n = 40.</description>
+  <discussion>Eragrostis palmeri grows on rocky slopes and hills between 300-2150 m, generally in association with Pinus edulis, Juniperus monosperma, Bouteloua gracilis, and Prosopis. Its range extends from the southwestern United States into Mexico. It resembles E. erosa, but differs in its shorter lemmas and caryopses.</discussion>
+</bio:treatment>

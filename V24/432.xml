@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus glaucus Buckley </name_authority_date>
+  </taxon_identification>
+  <common_names>COMMON WESTERN WILDRYE, BLUE WILDRYE</common_names>
+  <description type="morphology">Plants densely to loosely cespitose, sometimes weakly rhizomatous, often glaucous. Culms 30-140 cm, erect or slightly decumbent; nodes 4-7, mostly exposed, usually glabrous, sometimes puberulent. Leaves evenly distributed; sheaths scabrous or smooth, glabrous or, particularly those of the lower leaves, retrorsely puberulent to hirsute, often purplish; auricles usually present, to 2.5 mm, often purplish; ligules to 1 mm, truncate, erose-ciliolate or entire; blades 2-13(17) mm wide, usually lax, sometimes slightly involute, adaxial surfaces glabrous, scabrous, or strigose on the veins, sometimes pilose to villous. Spikes 5-21 cm long, (0.2)0.5-2 cm wide, erect to slightly nodding, rarely somewhat pendent, usually with 2 spikelets per node, sometimes with 1 at all or most nodes, rarely with 3 at some nodes; internodes 4-8(12) mm long, 0.15-0.5 mm thick at the thinnest sections, angles scabrous, glabrous below the spikelets. Spikelets 8-25 mm, sometimes purplish at higher latitudes and elevations, appressed to slightly divergent, with (1)2-4(6) florets, lowest florets functional; disarticulation above the glumes and beneath each floret. Glumes subequal, 3/4 as long as or equaling the adjacent lemmas, bases often overlapping, usually flat and thin with evident venation, glume bodies (6)9-14(19) mm long, 0.6-1.5(2) mm wide, linear-lanceolate, entire, widening above the base, (l)3-5(7)-veined, 2-3 veins extending to the apices, glabrous, veins smooth or evenly scabrous, margins 0.1-0.2 mm wide, whitish hyaline, tapering towards the apices, unawned or awned, awns to 5(9) mm, straight; lemmas (8)9-14(16) mm, glabrous, scabrous, or short-hirsute, awns (0)1-30(35) mm, usually straight to flexuous, sometimes slightly curving; paleas 7-13 mm, keels straight or slightly concave, usually scabrous to ciliate, apices often bidentate; anthers 1.5-3.5 mm. Anthesis from May to July. 2n = 28.</description>
+  <discussion>Elymus glaucus grows in moist to dry soil in meadows, thickets, and open woods. It is widespread in western North America, from Alaska to Saskatchewan, and south to Baja California and New Mexico. It is also sporadic, sometimes appearing transitional to E. trachycaulus (p. 321), from the northern Great Plains to southern Ontario and New York and, as a disjunct, on rocky sites in the Ozark and Ouachita mountains.
+Populations can differ greatly in morphology, especially in rhizome development, leaf width, pubescence, and the prevalence of solitary spikelets; their crossing relationships are partly correlated with such variation (Snyder 1950, 1951; Stebbins 1957, Wilson et al. 2001). Rhizome development and the production of solitary spikelets may also be environmental responses. Rhizomatous plants are more common on unstable slopes or sandy soils. Plants with solitary spikelets are more common on poor soil or in shade. They are often confused, particularly in the herbarium, with E. stebbinsii (p. 329) or E. trachycaulus. They differ from E. stebbinsii in their shorter anthers and awned glumes. Distinction from E. trachycaulus can be difficult with herbarium specimens, but is generally easy in the field, E. glaucus having more evenly leafy culms, laxer and wider blades, more tapered glumes that are almost always awned, and shorter anthers than the sympatric E. trachycaulus.
+There are reports of natural hybrids with several other species of Elymus, including E. elymoides (p. 318), E. multisetus (p. 318) (see E. xhansenii, p. 340), E. trachycaulus, and E. stebbinsii. These hybrids often appear at least partially fertile. Elymus glaucus can also form intergeneric hybrids with Leymus and Hordeum (see xElyleymus, p. 343, and xLeydeum, p. 368).
+The following three subspecies appear to be morphologically, ecologically, and geographically distinct. Plants found at elevations of up to 2200 m along the Pacific coast, with hairy leaf blades and lemma awns usually shorter than 20 mm, have been called subsp. jepsonii (Burtt Davy) Gould, but Wilson et al. (2001) demonstrated that such plants are neither genetically nor ecologically distinct from those with glabrous leaf blades; they are included here in subsp. glaucus.
+</discussion>
+  <key>
+    <key_body>
+1. Lemma awns (0)1-5(7) mm long; glume awns 0-2 mm long .....subsp. virescens
+1. Lemma awns (5)10-30(35) mm long; glume awns (0.5)1-9 mm long.
+2. Blades 4-17 mm wide, adaxial surfaces glabrous or strigose, occasionally pilose to hirsute with hairs of fairly uniform length; glume awns (0.5)1-5(9) mm long.....subsp. glaucus
+2. Blades 3-8 mm wide, densely short-pilose with scattered longer hairs; glume awns 3-8 mm long.....subsp. mackenziei
+
+    </key_body>
+  </key>
+</bio:treatment>

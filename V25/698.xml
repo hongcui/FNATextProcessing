@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Crypsis schoenoides (L.) Lam. </name_authority_date>
+  </taxon_identification>
+  <common_names>SWAMP PRICKLEGRASS</common_names>
+  <description type="morphology">Culms 2-75 cm, prostrate to erect, sometimes geniculate, usually not branching above the base, but some plants profusely branched. Sheaths glabrous or ciliate at the throat, often inflated; collars glabrous; ligules 0.5-1 mm; blades 2-10 cm long, 2-6 mm wide, not disarticulating. Panicles 0.3-4(7.5) cm long, 5-6(15) mm wide, 1-5 times longer than wide, bases usually enclosed in the uppermost leaf sheaths at maturity. Spikelets 2.7-3.2 mm, tardily disarticulating. Lower glumes 1.8-2.3 mm; upper glumes 2.2-2.7 mm; lemmas 2.4-3 mm; paleas 2-veined; anthers 3, 0.7-1.1 mm. Caryopses about 1.3 mm. 2n = 32.</description>
+  <discussion>Crypsis schoenoides is common to abundant in clay or sandy clay soils around drying lake margins and vernal pools. In the Flora region, it is most abundant in California, but also appears to be established in a few other western states. It is known from a few collections in several eastern states (where it was first introduced in the late 1800s), though apparently none more recently than 1955. Its native range extends from southern Europe and northern Africa through western Asia to India.</discussion>
+</bio:treatment>

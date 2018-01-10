@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Eragrostis pilosa var. perplexa (L.H. Harv.) S.D. Koch</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms with numerous glandular pits. Sheaths with glandular pits; blades with glandular pits. Spikelets 0.6-1.4 mm wide. Upper glumes 1-1.4 mm; lemmas 1.8-2 mm. Caryopses 0.8-1 mm.</description>
+  <discussion>Eragrostis pilosa var. perplexa is known from widely scattered locations in Wyoming, North Dakota, Nebraska, Colorado, and northwestern Texas.</discussion>
+</bio:treatment>

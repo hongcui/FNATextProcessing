@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Echinochloa esculenta (A. Braun) H. Scholtz</name_authority_date>
+  </taxon_identification>
+  <common_names>JAPANESE MILLET</common_names>
+  <description type="morphology">Plants annual. Culms 80-150 cm tall, 4-10 mm thick, glabrous. Sheaths glabrous; ligules absent, ligule region sometimes pubescent; blades 10-50 cm long, 5-25 mm wide. Panicles 7-30 cm, dense, rachis nodes densely hispid, hairs papillose-based, internodes scabrous; primary branches 2-5 cm, erect or spreading, simple or branched, often incurved at maturity, nodes hispid, hairs papillose-based, internodes usually scabrous; longer pedicels 0.5-1 mm. Spikelets 3-4 mm long, 2-2.5 mm wide, not or only tardily disarticulating at maturity, obtuse to shortly acute, purplish to blackish-brown at maturity. Upper glumes narrower and shorter than the upper lemmas; lower florets sterile; lower lemmas usually unawned; lower paleas shorter and narrower than the lemmas; upper lemmas longer and wider than the upper glumes, broadly ovate to ovate-orbicular, shortly apiculate, exposed distally at maturity; anthers 1-1.2 mm. Caryopses 1.2-2.3 mm, brownish; embryos 84-96% as long as the caryopses. 2n = 54.</description>
+  <discussion>Echinochloa esculenta was derived from E. crus-galli in Japan, Korea, and China. It is cultivated for fodder, grain, or birdseed. It has sometimes been included in E. frumentacea, from which it differs in its brownish cary-opses and longer pedicels. Hybrids between E. crus-galli and E. esculenta are fully fertile, but those with E. fru-mentacea are sterile.</discussion>
+</bio:treatment>

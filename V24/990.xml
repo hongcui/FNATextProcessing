@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Nancy F. Refulio</author>
+    </source>
+  </meta>
+  <number>14.46</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>DISSANTHELIUM Trin.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; cespitose, sometimes rhizomatous. Culms to 10(25) cm. Sheaths open, usually glabrous, lower sheaths shorter than the upper sheaths; auricles absent; ligules 2-6 mm, membranous. Inflorescences contracted panicles, some branches longer than 1 cm. Spikelets pedicellate, 2.5-5 mm, laterally compressed, with 2(3) florets, all florets bisexual or some florets bisexual and others pistillate; disarticulation above the glumes, beneath the florets. Glumes equal or subequal, usually exceeding all the florets, sometimes subequal to them, ovate or acuminate, margins scarious, apices unawned; lower glumes 1-veined; upper glumes 3-veined; calluses poorly developed, glabrous; lemmas oval or elliptic, 3(5)-veined, lateral veins near the margins, glabrous, scabrous, or pilose, apices acute or obtuse, sometimes denticulate, unawned; paleas slightly shorter than the lemmas; lodicules 2; anthers 3. Caryopses shorter than the lemmas, concealed at maturity, x = unknown. </description>
+  <discussion>Dissanthelium contains about 20 species, and has an amphi-neotropical distribution. Most species grow in South America; two grow in North America. One of the two North American species, D. matbewsii (Ball) R.C. Foster & L.B. Sm., has a disjunct distribution, growing in both central Mexico and South America. The other, D. californicum, is discussed below.</discussion>
+  <references>Renvoize, S.A. 1998. Gramfneas de Bolivia. Royal Botanic Gardens, Kew, England. 644 pp.; Swallen, J.R. and O. Tovar. 1965. The grass genus Dissanthelium. Phytologia 11:361-376; Tovar, O. 1993. Las gramineas (Poaceae) del Peru. Ruizia 13:1-480.
+ 
+</references>
+</bio:treatment>

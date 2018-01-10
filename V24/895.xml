@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Deschampsia cespitosa subsp. holciformis (J. Presl) W.E. Lawr. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose, sometimes glaucous. Culms 50-125 cm. Ligules 3-4.3 mm; blades 15-30 cm long, 1-4 mm wide when flat. Panicles 10-25 cm long, 3-8 cm wide, dense; primary and secondary branches appressed to ascending, scabridulous to densely scabrous. Spikelets 5.5-8 mm, usually strongly imbricate. Glumes usually exceeded by the distal floret, often purplish over more than 1/2 their area; lower glumes 4.6-5.8 mm, midveins scabrous distally; upper glumes 4.5-5.6 mm; callus hairs 1-2.3 mm; lemmas 3.8-4.5 mm, often purplish over more than 1/2 their area, awns 2-3 mm, straight to slightly geniculate, attached near or slightly above the middle of the lemma; anthers 2.5-3 mm. 2n = 26.</description>
+  <discussion>Deschampsia cespitosa subsp. holciformis grows in coastal marshes and sandy soils, from the Queen Charlotte Islands, British Columbia, to central California. It intergrades and is interfertile with D. cespitosa subsp. beringensis, differing in its closed panicles, scabrous veins on the lower glumes, and more strongly imbricate spikelets. There are relatively few collections; it is not clear whether this reflects lack of collecting or rarity.</discussion>
+</bio:treatment>

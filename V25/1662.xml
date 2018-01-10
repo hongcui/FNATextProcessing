@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Zea perennis (Hitchc.) Reeves & Mangelsd. </name_authority_date>
+  </taxon_identification>
+  <common_names>PERENNIAL TEOSINTE</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, rhizomes to 40 cm or longer, internodes 1-6 cm, not forming tuberous short shoots. Culms 1-2.5 m tall, 1.5-2 cm thick, loosely clumped, usually branched above. Blades 20-65(80) cm long, 2-4.5 cm wide, linear. Pistillate peduncles 1-2(3) per node, 10-25 cm, at least 1 and sometimes 2 extending far beyond the terminal leaf sheaths; pistillate rames 4-8 cm long, 4-6 mm thick, distichous, with 5-10 solitary spikelets, distal portions often staminate; fruitcases trapezoidal in side view, 6-9 mm on the long side, 2.5-4.5 mm on the short side, 4-5 mm in diameter. Caryopses concealed by the lower glumes. Terminal staminate panicles 12-20 cm, with 2-8 branches; branches 9-15 cm, erect to nodding, internodes 2.4-6.2 mm; spikelets 8.5-11 mm long, 2-2.5(3.2) mm wide, densely imbricate; lower glumes flat dorsally, stiff, not translucent, margins tightly enclosing the upper glumes, lateral veins prominent, strongly winged distally. 2n = 40. </description>
+  <discussion>Zea perennis is parapatric to Z. diploperennis, being native to the northern base of the Volcan de Colima, Jalisco, Mexico, at elevations of 1520-2200 m. It is rare, although locally abundant, in and around maize fields and orchards in former open oak and pine forests and savannahs. Zea perennis crosses infrequently with Z. mays subsp. mays. The hybrids, being triploid, are sterile. It has also been cultivated at research stations in the United States for many years and Hitchcock (1951) reported that it was established at James Island, South Carolina. It is not known if the population has persisted.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>50</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia xinvoluta Swallen </name_authority_date>
+  </taxon_identification>
+  <common_names>CANYON MUHLY</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 60-140 cm, erect; internodes puberulent or glabrous for most of their length, puberulent below the nodes. Sheaths shorter or longer than the internodes, smooth or scabridulous, tightly imbricate, yellowish-brown, basal sheaths laterally compressed, keeled, not becoming spirally coiled when old; ligules 3-12 mm, firm and brown basally, membranous distally, acute; blades 10-45 cm long, 1.6-5 mm wide, tightly folded, scabrous abaxially, hirsute adaxially. Panicles 18-40 cm long, 1.5-7 cm wide, loosely contracted to open, not dense; branches 1-10 cm, ascending or diverging up to 60° from the rachises, stiff, naked basally; pedicels 2-8 mm, hirtellous. Spikelets 3-4.2 mm, yellowish to purplish. Glumes subequal, 2-3 mm, exceeded by the florets, scabridulous or smooth, 1-veined, acute or obtuse, unawned; lemmas 3-4.2 mm, lanceolate, glabrous or appressed-pubescent on the lower 1/4 of the margins, apices acute to obtuse, usually bifid and awned, teeth to 0.3 mm, awns 0.5-4 mm, straight; paleas 3-4.2 mm, lanceolate, glabrous, acute to acuminate; anthers 1-1.8 mm, purplish. Caryopses not seen. 2n = 24.</description>
+  <discussion>Muhlenbergia xinvoluta grows on rocky, calcareous slopes in openings and along canyons, at elevations of 150-500 m. It has only been found growing naturally in Texas, but it is also available commercially as an ornamental. Swallen (1932) suggested that M. reverchonii and M. lindheimeri were its parents, but M. rigida seems to be another plausible possibility.</discussion>
+</bio:treatment>

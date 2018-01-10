@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>21</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aristida stricta Michx. </name_authority_date>
+  </taxon_identification>
+  <common_names>WIREGRASS, PINELAND THREEAWN</common_names>
+  <description type="morphology">Plants perennial; cespitose, occasionally with rhizomes. Culms 60-120 cm, stiffly erect, unbranched. Leaves basal or nearly basal; sheaths shorter than the internodes, smooth and mostly glabrous abaxially, sometimes with a line of widely spaced, 0.5-1 mm hairs over the midvein, not disintegrating into threadlike fibers at maturity; collars glabrous, sometimes with a few conspicuous hairs at the sides; ligules 0.1-0.3 mm; blades 15-50 cm long, 0.3-1 mm wide, tightly involute, stiff, yellow-green, abaxial surfaces villous on both sides of the midvein, at least on the basal portion, hairs 0.6-1.5 mm, adaxial surfaces densely scabrous or densely short pubescent. Inflorescences paniculate, 20-35 cm, 5-8 mm wide; nodes glabrous; primary branches 2-5 cm, appressed, without axillary pulvini, with 4-12 spikelets, spikelet-bearing to the base. Spikelets appressed. Glumes subequal, glabrous, light brown or tan, usually 1(2)-veined, bifid and awned, awns 1.5-2.5 mm; lower glumes 7-10 mm; upper glumes 6-9 mm; calluses 0.4-0.6 mm; lemmas 6-9 mm, glabrous, light-colored when young, reddish when mature, column 1-2 mm, not twisted, junction with the awns inconspicuous; awns (7)10-15(22) mm, subequal, usually horizontally spreading or curving downward, not disarticulating at maturity; anthers 3, about 3 mm, reddish-brown. Caryopses 4-5 mm, chestnut brown. 2n = unknown.</description>
+  <discussion>Aristida stricta grows in pine barrens and sandy fields of the coastal plain from Louisiana to North Carolina. Peet (1993) segregated northern populations of A. stricta as a separate species, A. beyrichiana Trin. & Rupr., based on pubescence patterns of the sheath and blades. Investigations into alloyzyme diversity (Walters et al. 1994), anatomy, morphology, and phenotypic expression (garden transplants) led Kesler (2000) to conclude that such a segregation was not justified; pubescence patterns particularly were inconclusive. Consequently, A. beyrichiana is treated here as part of A. stricta.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Echinochloa muricata var. muricata is the common variety in eastern North America.</name_authority_date>
+  </taxon_identification>
+  <common_names>COAST BARNYARD GRASS, ECHINOCHLOA DE WALTER</common_names>
+  <description type="morphology">Plants annual. Culms (30) 50-200+ cm tall, to 2.5 cm thick; nodes pilose or villous, upper nodes usually with sparser and shorter pubescence, occasionally glabrous. Lower sheaths usually hispid, hairs papillose-based, sometimes just papillose; upper sheaths hispid or glabrous; ligules absent; blades to 55 cm long, 10-35(60) mm wide, scabrous. Panicles 8.5-35 cm, erect to slightly drooping, nodes hispid, hairs 3.5-5 mm, papillose-based, sometimes sparsely so, internodes usually glabrous, sometimes hispid, hairs papillose-based; primary branches 1-10 cm, loosely erect, not concealed by the spikelets, nodes usually hispid, hairs papillose-based, sometimes glabrous, internodes scabrous, sometimes also sparsely hispid, hairs papillose-based; secondary branches present on the longer primary branches. Spikelets 3-5 mm, disarticulating at maturity, scabrous to variously muricate and hairy, hairs usually not papillose-based, margins sometimes with a few papillose-based hairs. Lower glumes usually more than 1/2 as long as the spikelets, abruptly narrowing to a fine, 0.5 mm point; lower florets sterile; lower lemmas usually awned, awns 8-25(60) mm; lower paleas subequal to the lower lemmas; upper lemmas 3-5 mm long, about 1.5 mm wide, not or scarcely exceeding the upper glumes, narrowly ovate to elliptical, coriaceous portion subacute, tips acuminate, membranous, without a line of hairs at the base of the tip; anthers 0.6-1(1.2) mm. Caryopses 1.2-1.8 mm, brownish; embryos 52-77% as long as the caryopses. 2n = 36.</description>
+  <discussion>Echinochloa walteri grows in wet places, often in shallow water and brackish marshes. It is a native species that extends through Mexico to Guatamala. It is found in both disturbed and undisturbed sites although not in rice fields. Occasional specimens of E. walteri with glabrous lower sheaths and short awns can be distinguished from E. crus-pavonis by their less dense panicles.</discussion>
+</bio:treatment>

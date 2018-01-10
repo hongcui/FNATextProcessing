@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eustachys glauca Chapm. </name_authority_date>
+  </taxon_identification>
+  <common_names>SALTMARSH FINGERGRASS</common_names>
+  <description type="morphology">Culms 60-150 cm, erect. Leaves basally disposed, glaucous; blades to 30 cm long, 4-15 mm wide, flat or folded, apices obtuse. Panicles with 8-24 branches; branches 5-15 cm. Spikelets 1.5-2(2.4) mm; florets 2. Lower glumes 1.2-1.4 mm, acute; upper glumes 1.3-1.8 mm, narrowly oblong, truncate, awned, awns 0.4-0.8 mm; calluses glabrous; lowest lemmas 1.6-2.1 mm, nar¬rowly ovate, dark brown at maturity, veins glabrous, occasionally both keels and veins with a few short, stiff hairs, apices acute, unawned, occasionally mucronate; second lemmas 1-1.3(1.6) mm, oblong, frequently keeled, acute. Caryopses about 1 mm. 2n = unknown.</description>
+  <discussion>Eustachys glauca grows in the margins of low woods and in ditches and brackish marshes. It is endemic to the southeastern United States.</discussion>
+</bio:treatment>

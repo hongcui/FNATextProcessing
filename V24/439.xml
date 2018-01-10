@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>14</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus pringlei Scribn. & Merr.</name_authority_date>
+  </taxon_identification>
+  <common_names>MEXICAN WILDRYE</common_names>
+  <description type="morphology">Plants cespitose, not rhizomatous, usually somewhat glaucous. Culms 50-110 cm, erect or somewhat geniculate at the base; nodes 6-9, mostly exposed, glabrous. Leaves evenly distributed; sheaths usually glabrous, occasionally pilose, hairs somewhat retrorse; auricles about 1 mm, pale or brownish; ligules about 1 mm, erase; blades 3-12 mm wide, lax, adaxial surfaces sparsely scabridulous, sometimes hispidulous to pilose on the veins, usually glaucous. Spikes 4-12 cm long, 2-3 cm wide, erect, the bases sometimes sheathed, with 2  
+spikelets per node; internodes 3-6 mm, about 0.2 mm thick at the thinnest sections, with 2 hispid dorsal angles, without green lateral bands. Spikelets 10-15 mm excluding the awns, 18-30 mm including the awns, appressed, with 3-5(6) florets, lowest florets functional; disarticulation above the glumes, beneath each floret. Glumes subequal, 12-22 mm long including the undifferentiated awns, 0.2-0.3(0.6) mm wide, setaceous, entire, 0-l(2)-veined, tapering from the base, glabrous, margins firm, awns more or less straight; lemmas 8-10 mm, usually scabrous-hispid or thinly strigose, at least distally, awns 8-22 mm, straight or flexuous; paleas 7-8 mm, obtuse, often emarginate; anthers 2.5-4 mm. Anthesis May to June. 2n = unknown.
+</description>
+  <discussion>Elymus pringlei grows on moist slopes and canyons, in pine and deciduous tree woods, at 1500-2300 m in the Sierra Madre Orientale of eastern Mexico. This poorly known species is similar to E. texensis (see next) and E. interruptus (p. 306). It is included here because it seems likely that it also grows in southern Texas, having been collected in Coahuila, Mexico, 54 miles from the border, near Big Bend National Park (Campbell 2002).</discussion>
+</bio:treatment>

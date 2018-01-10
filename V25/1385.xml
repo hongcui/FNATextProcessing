@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>John R. Reeder</author>
+    </source>
+  </meta>
+  <number>25.19</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>SETARIOPSIS Scribn.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual. Culms 20-80 cm, to about 1 mm thick, solid, branching above the base. Sheaths open; ligules of hairs; blades flat. Inflorescences terminal, panicles, 8-23 cm long, 0.8-2 cm wide, with pilose rachises; branches 0.5-1.5 cm, spikelets congested, shortly pedicellate, the pedicels subtended by a 3-10 mm, terete bristle; disarticulation below the glumes. Spikelets dor-sally compressed, with 2 florets, lower florets usually sterile, upper florets bisexual. Lower glumes about 1/4 as long as the spikelets, 5-7-veined, subclasping; upper glumes slightly shorter than the spikelets, 11-19-veined, indurate at maturity, constricted at the base, auriculate above the point of constriction; lower lemmas longer than the glumes, membranous but somewhat indurate at the base; lower paleas usually present, short; upper lemmas indurate, finely trans¬versely rugose, apiculate, margins clasping the paleas; upper paleas similar to the lemmas in length and texture; lodicules 2; anthers 3, purple; ovaries glabrous; style branches 2, free to the base. Caryopses ovate, plano-convex; embryos about 1/2 as long as the caryopses. x = 9. </description>
+  <discussion>Setariopsis includes two species, both of which were thought to be endemic to Mexico until the recent discovery of the following species in Arizona (Reeder 2001).</discussion>
+  <references>Pohl, R.W. 1994. Setariopsis Scribner P. 364 in G. Davidse, M. Sousa S., and A.O. Chater (eds.). Flora Mesoamericana, vol. 6: Alismataceae a Cyperaceae. Universidad National Autonoma de Mexico, Instituto de Biologia, Mexico, D.F., Mexico. 543 pp.; Reeder, J.R. 2001. Noteworthy collections: Arizona. Madrono 48:212-213.</references>
+</bio:treatment>

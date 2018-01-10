@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>3.01</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>LITHACHNE P. Beauv.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; loosely cespitose. Culms 6-75 cm, not woody; nodes numerous, swollen. Sheaths open; adaxial ligules membranous; pseudopetioles 1-2 mm; blades lanceolate to ovate, folding downwards at night or when stressed, bases and apices asymmetric. Inflorescences racemes, partly enclosed by the leaf sheaths; axillary racemes unisexual or bisexual, if bisexual, the staminate spikelets below 1 to several pistillate spikelets, pedicels clavate; terminal racemes staminate, pedicels filiform. Spikelets with 1 floret. Pistillate spikelets much larger than the staminate spikelets, floret borne on a persistent peglike rachilla internode; glumes exceeding the floret, subequal, several-veined; lemmas helmet-shaped, indurate, laterally compressed, the margins from overlapping the palea margins to nearly concealing the paleas; style branches 2, plumose. Staminate spikelets lanceolate, early deciduous; glumes absent; lemmas translucent, 3-veined; anthers 3. x = 11. </description>
+  <discussion>Lithachne has four species. Its primary range extends south from Mexico and the Caribbean islands to Ecuador, but there are disjunct populations in Peru, southern Brazil, northern Argentina, and Paraguay. One species is sold as an ornamental in the United States.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Schizachyrium scoparium (Michx.) Nash var. scoparium </name_authority_date>
+  </taxon_identification>
+  <common_names>LITTLE BLUESTEM, BROOM BEARDGRASS, BROOM BLUESTEM, SCHIZACHYRIUM À BALAIS</common_names>
+  <description type="morphology">Plants usually cespitose, sometimes producing short rhizomes. Culms 30-210 cm. Sheaths usually glabrous, keeled; blades 9-45 cm long, 1.5-9 mm wide, flat, usually glabrous, occasionally pubescent. Peduncles to 10 cm; rames 2-8 cm, with 6-13 spikelets, exserted. Sessile spikelets 6-11 mm; calluses about 0.5 mm, hairs to 2.5 mm, awns 2.5-17 mm; Pedicels 3-7.5 mm, straight or curving out at maturity. Pedicellate spikelets usually 1-6 mm, sterile, without lemmas, occasionally staminate and with a lemma, unawned or awned, awns to 4 mm.</description>
+  <discussion>Schizachyrium scoparium var. scoparium grows in a variety of soils and in open habitats. It was once a dominant component of the prairie grasslands that extended through the central plains of North America and into Mexico, but it has largely been replaced by fields of maize, wheat, sorghum, sunflowers, and field mustard. It is the most variable of the varieties recognized within S. scoparium, with morphological features that vary inde¬pendently and continuously across its range, coming together in distinctive combinations in some regions. Some of these phases have been named as varieties, or even species, but they have proven to be untenable taxo-nomic entities when plants from throughout the range of the species are considered.</discussion>
+</bio:treatment>

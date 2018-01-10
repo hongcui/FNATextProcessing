@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Cenchrus myosuroides Kunth </name_authority_date>
+  </taxon_identification>
+  <common_names>BIG SANDBUR</common_names>
+  <description type="morphology">Plants perennial. Culms 5-200 cm, stout, glaucous. Sheaths from shorter than to equaling the internodes; ligules 1.5-2(3.4) mm; blades 12-40 cm long, 4-13 mm wide, glabrous or sparsely pilose adaxially. Panicles 4-23 cm; fascicles 3.8-8 mm long, 1.2-2.6 mm wide, composed of several whorls of bristles, not burlike; bristles 3-5.8 mm long, 0.2-0.6 mm wide, fused only at the base, not forming a cupule, terete, increasing in size inwards, inner bristles pubescent on the lower 1/2 - 2/3. Spikelets 1(2-3) per fascicle, 3.8-4.8(5.6) mm. Lower glumes 1.5-3 mm; upper glumes 3-5 mm, 3-5-veined; lower lemmas 3-5.5 mm; upper lemmas 3.8-5.4 mm; anthers 0.8-2.2 mm. Caryopses 1.5-2.6 mm long, 1-1.5 mm wide, ovoid. 2n = (54), 70.</description>
+  <discussion>Cenchrus myosuroides is a native species that grows mostly along roadsides and in other waste places. Its native range extends through the Caribbean and Central America to northern South America.</discussion>
+</bio:treatment>

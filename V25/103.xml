@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>17.22</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>DINEBRA Jacq.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual. Culms 13-120 cm, not woody. Ligules membranous, truncate, lacerate, sometimes ciliate; blades linear, flat. Inflorescences terminal, panicles of 1-70, 1-sided, spikelike branches, irregularly disposed on elongate rachises, clearly exceeding the upper leaves; branches with 2 rows of 1 or more closely imbricate, sessile spikelets, proximal spikelets sometimes replaced by short, tardily deciduous, secondary branches; disarticulation at the base of the branches or at the base of the secondary branches and (eventually) beneath the florets. Spikelets laterally compressed, cuneate, with 1-3 florets. Glumes subequal, much longer than the florets, usually exceeding the distal florets, coriaceous or membranous, strongly keeled, acuminate-aristate; lemmas thinly membranous, weakly keeled, 3-veined, pilose over the veins, apices acute to 2-lobed, central veins excurrent, forming mucros. Caryopses elliptic-oblong, trigonous, x = 10. </description>
+  <discussion>Dinebra, a genus of three species, is native from Africa to Madagascar and India. One species has been reported from the Flora region.</discussion>
+  <references>Reed, C.F. 1964. A flora of the chrome and manganese ore piles at Canton, in the Port of Baltimore, Maryland and at Newport News, Virginia, with descriptions of genera and species new to the flora of the eastern United States. Phytologia 10:321-405.</references>
+</bio:treatment>

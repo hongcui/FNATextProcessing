@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>34</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus diandrus Roth </name_authority_date>
+  </taxon_identification>
+  <common_names>GREAT BROME, RIPGUT GRASS</common_names>
+  <description type="morphology">Plants annual. Culms 20-90 cm, erect or decumbent, puberulent below the panicle. Sheaths softly pilose, hairs often retrorse or spreading; auricles absent; ligules 2-3 mm, glabrous, obtuse, lacerate or erose; blades 3.5-27 cm long, 1-9 mm wide, both surfaces pilose. Panicles 13-25 cm long, 2-12 cm wide, erect to spreading; branches 1-7 cm, stiffly erect to ascending or spreading, with 1 or 2 spikelets. Spikelets 25-70 mm, sides parallel or diverging distally, moderately laterally compressed, with 4-11 florets. Glumes smooth or scabrous, margins hyaline; lower glumes 15-25 mm, 1-3-veined; upper glumes 20-35 mm, 3-5-veined; lemmas 20-35 mm, linear-lanceolate, scabrous, 7-veined, rounded over the midvein, margins hyaline, apices bifid, acuminate, teeth 3-5 mm; awns 30-65 mm, straight, arising 1.5 mm or more below the lemma apices; anthers 0.5-1 mm. 2n = 42, 56.</description>
+  <discussion>Bromus diandrus is native to southern and western Europe. It is now established in North America, where it grows in disturbed ground, waste places, fields, sand dunes, and limestone areas. It occurs from southwestern British Columbia to Baja California, Mexico, and eastward to Montana, Colorado, Texas, and scattered locations in the eastern United States. The common name 'ripgut grass' indicates the effect it has on animals if they consume the sharp, long-awned florets of this species.
+Bromus diandrus, as treated here, includes B. rigidus Roth. Sales (1993) reduced these two taxa to varietal rank, pointing out that the differences between them in panicle morphology and callus and scar shape are subtle enough that identification of many specimens beyond B. diandrus sensu lato is often impossible.
+</discussion>
+</bio:treatment>

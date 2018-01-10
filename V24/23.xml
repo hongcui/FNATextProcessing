@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>OLYREAE Kunth</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants usually perennial; cespitose, stoloniferous. Culms perennial, 3-350 cm or climbing, not woody; nodes often with 2 thick circumferential ridges, with more elastic tissue between; branches usually not developed at the middle and upper nodes. Leaves often crowded towards the culm tips; abaxial ligules absent; adaxial ligules membranous; pseudopetioles 1-2 mm, not twisted; blades usually persistent, usually folding at night or when stressed, venation parallel, cross venation sometimes evident, particularly at the base, the bases and apices often asymmetric. Inflorescences spicate or paniculate, usually produced at the middle and upper nodes of the leafy culms; disarticulation above or below the glumes. Spikelets unisexual and dimorphic, usually mixed within an inflorescence, with 1 floret. Pistillate spikelets on clavate pedicels; glumes usually exceeding the floret, many-veined; lemmas usually coriaceous to indurate, pale when immature, mottled with dark spots or uniformly dark when mature, glabrous or with non-uncinate hairs, unawned; paleas usually shorter than and enclosed by the lemmas; lodicules 3; style branches 2(3). Caryopses dry; embryos small relative to the caryopses; hila usually linear. Staminate spikelets deciduous; glumes usually lacking; lemmas membranous or hyaline; lodicules 3 or absent; anthers 3, 2, or multiples of 6. x = 7, 9, 10, 11.</description>
+  <discussion>The Olyreae is primarily a New World tribe that extends from Mexico to Argentina and southern Brazil. It includes about 20 genera and 110 species. One species has been found in tropical Africa and Sri Lanka; it is not clear whether it is native or introduced to those regions. One species is sold as an ornamental in the United States. It is included here as a representative of this fascinating group of grasses.</discussion>
+  <references>Judziewicz, E.J., L.G. Clark, X. Londono, and M.J. Stern. 1999. American Bamboos. Smithsonian Institution Press, Washington, D.C., U.S.A. 392 pp.</references>
+</bio:treatment>

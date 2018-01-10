@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>William J. Crins</author>
+    </source>
+  </meta>
+  <number>14.66</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>ALOPECURUS L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; sometimes cespitose, sometimes shortly rhizomatous. Culms 5-110 cm, clumped or solitary, erect or decumbent, occasionally cormlike at the base; nodes glabrous. Leaves inserted mostly on the lower 1/2 of the culms; sheaths open, upper sheaths sometimes inflated; auricles absent; ligules 0.6-6.5 mm, truncate to acute, membranous, puberulent or glabrous, entire to lacerate; blades 0.7-12 mm wide, flat or involute, glabrous or scabrous, blades of uppermost leaves sometimes short or absent. Inflorescences terminal panicles, spikelike, capitate to cylindrical; branches usually shorter than 5 mm, lower branches sometimes to 2 cm; disarticulation below the glumes. Spikelets 1.8-7 mm, pedicellate, strongly laterally compressed, oval in outline, with 1 floret; rachillas not prolonged beyond the base of the floret. Glumes equaling or exceeding the florets, membranous or coriaceous, free or connate in at least the lower 1/2, narrowing from above midlength, 3-veined, keeled, keels ciliate, at least basally, apices obtuse to acute or shortly awned; calluses blunt, glabrous; lemmas membranous, margins often connate in the lower 1/2, keeled, indistinctly 3-5-veined, apices truncate to acute, awned dorsally from just above the base to about midlength, geniculate or straight; paleas absent or greatly reduced; lodicules absent; anthers 3, 0.3-4.1 mm; ovaries glabrous; styles fused, with 2 branches. Caryopses shorter than the lemmas, concealed at maturity, glabrous; hila short, x = 7. </description>
+  <discussion>Alopecurus is a genus of 36 species that grow primarily in open, mesic habitats, and are native to the northern temperate zone and South America. Four species are native to the Flora region, four were introduced and have become established, and two were introduced and are not known to persist. Some species, including some native to the Flora region, have been introduced as pasture grasses outside of their native ranges. Of these, only A. pratensis has become widely naturalized.
+Some species of Alopecurus can appear similar to Phleum, which has truncate glumes that are abruptly awned or mucronate, lemmas without awns or keels, and well-developed paleas; Alopecurus has glumes that are obtuse to acute and gradually awned or unawned, lemmas with both awns and keels, and paleas that are absent or greatly reduced.
+</discussion>
+  <references>Dogan, M. 1999. A concise taxonomic revision of the genus Alopecurus L. (Gramineae). Turk. J. Bot. 23:245-262; Mover, J.R. and A.L. Boswall. 2002. Tall fescue or creeping foxtail suppresses foxtail barley. Canad. J. PI. Sci. 82:89-92; Tsvelev, N.N. 1995. Alopecurus. Pp. 106-114 in J.G. Packer (ed., English edition). Flora of the Russian Arctic, vol. 1, trans. G.C.D. Griffiths. University of Alberta Press, Edmonton, Alberta, Canada [English translation of A.I. Tolmachev (ed.). 1964. Arkticheskaya Flora SSSR, vol. 2. Nauka, Leningrad [St. Petersburg], Russia. 272 pp.].
+</references>
+  <key>
+    <key_body>
+1. Glume keels winged; glumes glabrous, pubescent over the veins.
+2. Glumes 4.5-7.5 mm long, connate in the lower 1/2, the apices acute, convergent to parallel; lemma apices acute .....9. A. myosuroides
+2. Glumes 3-4.5 mm long, connate in the lower 1/2 - 4/5, the apices obtuse, mucronate, divergent; lemma apices truncate .....10. A. creticus
+1. Glume keels not winged; glumes usually sparsely to densely pubescent, sometimes glabrous.
+3. Plants annual, without rhizomes, not rooting at the lower nodes; blades 1-16 cm long, 0.9-4 mm wide; culms 5-50 cm tall.
+4. Glumes 5-6.4 mm long, coriaceous and dilated in the lower 1/2; glume and lemma apices acute to acuminate; anthers about 3 mm long .....6. A. rendlei
+4. Glumes 2.1-5 mm long, membranous, not dilated below; glume and lemma apices obtuse; anthers 0.3-1.8 mm long.
+5. Upper sheaths conspicuously inflated; glumes 3-5 mm long; lemmas 3-5 mm long, awns exceeding the lemmas by 3-6 mm; panicles 5.5-13 mm wide, excluding the awns .....7. A. saccatus
+5. Upper sheaths not or only slightly inflated; glumes 2.1-3.1 mm long; lemmas 1.9-2.7 mm long, awns exceeding the lemmas by 1.6-4 mm; panicles 3-6 mm wide, excluding the awns .....8. A. carolinianus
+3. Plants perennial, often rhizomatous, sometimes rooting at the lower nodes; blades 2-40 cm long, 1-12 mm wide; culms 5-110 cm tall. 
+6. Glumes 1.8-3.7 mm long, the apices obtuse; anthers 0.5-2.2 mm long.
+7. Awns geniculate, exceeding the lemmas by 1.2-4 mm; anthers (0.9)1.4-2.2 mm long .....4. A. geniculates
+7. Awns straight, not exceeding the lemmas or exceeding them by less than 2.5 mm; anthers 0.5-1.2 mm long .....5. A. aequalis
+6. Glumes 3-6 mm long, the apices acute; anthers 2-4 mm long.
+8. Glume margins connate in the lower 1/8; glumes densely pilose throughout.....3. A. magellanicus
+8. Glume margins connate in the lower 1/5 – 1/3; glumes with long hairs mainly restricted to the veins.
+9. Lemma apices acute; glume apices parallel or convergent   .....1. A. pratensis
+9. Lemma apices obtuse to truncate; glume apices divergent.....2. A. arundinaceus
+ 
+
+    </key_body>
+  </key>
+</bio:treatment>

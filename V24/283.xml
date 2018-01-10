@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus polyanthus Scribn. </name_authority_date>
+  </taxon_identification>
+  <common_names>COLORADO BROME, GREAT-BASIN BROME</common_names>
+  <description type="morphology">Plants perennial; loosely cespitose. Culms 60-120 cm tall, to 3 mm thick, erect, glabrous or puberulent. Sheaths usually smooth or scabrous, sometimes hairy except at the throat; auricles absent; ligules (1)2-2.5 mm, glabrous, obtuse, erose; blades 10-31 cm long, 2-9 mm wide, flat, sometimes scabrous, usually glabrous, rarely puberulent to pubescent near the collar. Panicles 10-20 cm, open to somewhat contracted; lower branches shorter than 10 cm, (1)2-3 per node, erect, ascending or spreading, with 1-2 spikelets variously distributed. Spikelets 20-35 mm, shorter than at least some pedicels and branches, elliptic to lanceolate, strongly laterally compressed, not crowded or overlapping, with 6-11 florets. Glumes smooth or scabrous; lower glumes (5.5)7-10(11.5) mm, 3-veined; upper glumes (7.5) 9-11(12.5) mm, 5-7-veined, shorter than the lowest lemma; lemmas 12-15 mm, lanceolate, laterally compressed, strongly keeled at least distally, glabrous, sometimes scabrous, 7-9-veined, veins usually not raised or riblike, apices entire or with acute teeth, teeth shorter than 1 mm; awns 4-7 mm; anthers 1-5 mm. 2n = 56.</description>
+  <discussion>Bromus polyanthus grows on open slopes and in meadows. It is found primarily in the central Rocky Mountains, but the limits of its range include British Columbia in the north, California in the west, and Arizona, New Mexico, and western Texas in the south. It is not known from Mexico. It intergrades with B. carinatus var. marginatus. Plants with an erect, contracted panicle and awns 4-6 mm long can be called B. polyanthus var. polyanthus; those with with an open, nodding panicle and awns up to 8 mm long can be called B. polyanthus var. paniculatus Shear. Because the variation in both characters is continuous, the varieties are not recognized here.</discussion>
+</bio:treatment>

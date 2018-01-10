@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Eragrostis pectinacea var. tracyi (Hitchc.) P.M. Peterson</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Pedicels divergent, usually diverging 20-70° from the branches. Anthers 0.5-0.7 mm.</description>
+  <discussion>Eragrostis pectinacea var. tracyi is known from only Lee, Mantee, and Sarasota counties, Florida. It flowers from March-May and August-December in the Flora region.</discussion>
+</bio:treatment>

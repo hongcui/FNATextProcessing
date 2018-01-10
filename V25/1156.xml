@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Dichanthelium sect. Lanuginosa (Hitchc.) Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose, with caudices. Basal rosettes well-differentiated. Culms 15-100 cm, erect, ascending, or decumbent; internodes glabrous, puberulent, pilose, or densely pubescent or velvety; fall phase often much branched. Cauline leaves 4-7; sheaths glabrous, puberulent, sparsely to densely pubescent, pilose or velvety, often with hairs of two lengths; ligules 0.5-3 mm, of hairs, often with an adjacent pseudoligule of 2-5 mm hairs. Spikelets 0.8-3 mm, more or less ellipsoid, pubescent to subglabrous, acute to acuminate, upper glumes and lower lemmas not strongly veined. Upper florets acute to obtuse, sometimes minutely umbonate or apiculate.</description>
+  <discussion>Hybridization, often followed by segregation in autogamous lines, produces a reticulate pattern of intergradation between members of this section. In the descriptions, no distinction is made between the ligules and pseudoligules because of the difficulty of distinguishing the two at less than 30x.</discussion>
+</bio:treatment>

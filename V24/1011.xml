@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Calamagrostis scopulorum M.E. Jones </name_authority_date>
+  </taxon_identification>
+  <common_names>JONES' REEDGRASS, DITCH REEDGRASS</common_names>
+  <description type="morphology">Plants without sterile culms; loosely cespitose, with rhizomes to 2 cm long, 2-3 mm thick. Culms (40)50-92 cm, sometimes branched, sparsely to densely scabrous; nodes 2-3. Sheaths and collars smooth or scabrous; ligules (3)4-7(9) mm, obtuse, lacerate; blades 10-38 cm long, (2)3-4(7) mm wide, flat, scabridulous, adaxial surfaces glabrous or sparsely hairy. Panicles (4)7-16(18) cm long, (0.7)1.1-2(3) cm wide, nodding, contracted, pale green to purple-tinged; branches 1-5(6.5) cm, sparsely to densely scabrous, usually spikelet-bearing to the base. Spikelets (4)4.5-6 mm; rachilla prolongations 1-2 mm, hairy throughout, hairs 1.5-2.5 mm. Glumes keeled, mostly smooth, keels slightly scabrous distally, lateral veins obscure, apices acuminate; callus hairs 2-3 mm, 0.5-0.6 times as long as the lemmas, somewhat sparse; lemmas 3.5-5 mm, 0.5-1.5 mm shorter than the glumes; awns (0.5)1-1.5(2) mm, attached to the upper 2/5 of the lemmas, not exserted, slender, straight, easily overlooked when short; anthers (1.8)2-2.7(3) mm. 2n = 28.</description>
+  <discussion>Calamagrostis scopulorum grows on canyon slopes and wash bottoms, and in dry to moist montane to alpine habitats, often on rocky, sandy to silty soil, at 1000-3550 m. It grows from western Montana and Wyoming south to Arizona and New Mexico.</discussion>
+</bio:treatment>

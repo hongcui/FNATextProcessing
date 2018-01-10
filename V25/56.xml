@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Tridens buckleyanus (L.H. Dewey) Nash </name_authority_date>
+  </taxon_identification>
+  <common_names>BUCKLEY'S TRIDENS</common_names>
+  <description type="morphology">Plants cespitose. Culms 30-60 cm, erect; lower nodes sometimes hispid. Sheaths scabridulous, rounded; ligules 0.4-1 mm, membranous, ciliate; blades 1-4 mm wide, flat, apices attenuate. Panicles 10-28 cm long, 1-6 cm wide; branches (2)4-13 cm, widely-spaced, ascending to spreading; pedicels 1-2 mm. Spikelets 7-10 mm, pale to dark purple, with 2-5 florets. Glumes 1-veined; lower glumes 4-5(6) mm; upper glumes slightly shorter; lemmas 4-6 mm, midveins and back pubescent below midlength, lateral veins pubescent to well above midlength, midveins occasionally excurrent, lateral veins usually ending before the distal margins, rarely excurrent; paleas 3.5-4 mm, veins pubescent basally; anthers 1.5-2 mm. Caryopses about 2.5 mm. 2n = 32, "but this may be erroneous" (Gould 1975).</description>
+  <discussion>Tridens buckleyanus is endemic to the southeastern portion of the Edwards Plateau, Texas. It grows on rocky slopes along shaded stream banks and the borders of woodlands.</discussion>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>43</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia filiculmis Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>SLIMSTEM MUHLY</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 5-30(40) cm, erect, rounded near the base; internodes smooth or scabridulous. Sheaths longer than the lower internodes, glabrous, becoming flattened and papery or ribbonlike at maturity; ligules 2-4(5) mm, membranous, acute; blades 2-6 cm long, 0.4-1.6 mm wide, tightly involute, filiform, stiff, scabrous abaxially, sparsely hirtellous adaxially, apices sharp. Panicles 1.5-7 cm long, 0.4-2 cm wide, contracted, sometimes dense; primary branches 0.1-2.8 cm, mostly tightly appressed or diverging up to 30° from the rachises; pedicels 0.1-2 mm, scabrous. Spikelets 2.2-3.5 mm. Glumes subequal, 0.8-2.5 mm, scabridulous distally; lower glumes 1-veined, awned, awns to 1.6 mm; upper glumes usually 3-veined, apices truncate to acute, 3-toothed, teeth sometimes shortly awned, awns to 0.6 mm; lemmas 2.2-3.5 mm, lanceolate, yellowish mottled with dark green, sparsely appressed-pubescent on the lower portion of the midveins and margins, hairs to 0.4 mm, apices scabridulous, acute to acuminate, awned, awns 1-5 mm, straight or flexuous; paleas 2.2-3.5 mm, lanceolate, acute to acuminate; anthers 1.5-2 mm, purplish. Caryopses 1.3-1.6 mm, fusiform, brownish. 2n = unknown.</description>
+  <discussion>Muhlenbergia filiculmis grows on rocky slopes, dry meadows, and dry gravelly flats in forest openings and grasslands, at elevations of 2500-3500 m in the southern Rocky Mountains and northern Arizona. Kartesz and Meacham (1999) report it as occurring in North Dakota and Utah, but neither of the sources cited (McGregor et al. 1986; Welsh et al. 1993) supports its occurrence in these states.
+It is sometimes difficult to distinguish Muhlenbergia filiculmis from M. montana, but that species has longer spikelets and lemma awns, and leaf blades that are flatter and not sharply tipped.
+</discussion>
+</bio:treatment>

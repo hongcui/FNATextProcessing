@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>15</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia microsperma (DC.) Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>LlTTLESEED MUHLY</common_names>
+  <description type="morphology">Plants annual, sometimes appearing as short-lived perennials; tufted. Culms 10-80 cm, often geniculate at the base, much branched near the base; internodes mostly scabridulous or smooth, always scabridulous below the nodes. Sheaths often shorter than the internodes, glabrous, smooth or scabridulous; ligules 1-2 mm, membranous to hyaline, truncate to obtuse; blades 3-8.5(10) cm long, 1-2.5 mm wide, flat or loosely involute, scabrous abaxially, strigulose adaxially. Panicles 6.5-13.5 cm long, 1-6.5 cm wide, not dense, often purplish; branches 1.6-4 cm, ascending or diverging up to 80° from the rachises, spikelet-bearing to the base; pedicels 2-6 mm, appressed to divaricate, antrorsely scabrous; disarticulation above the glumes. Spikelets 2.5-5.5 mm, borne singly. Glumes 0.4-1.3 mm, exceeded by the florets, 1-veined, obtuse, often minutely erose; lower glumes 0.4-1 mm; upper glumes 0.6-1.3 mm; lemmas 2.5-3.8(5.3) mm, narrowly lanceolate, mostly smooth, scabridulous distally, hairy on the calluses, lower 1/2 of the margins, and midveins, hairs 0.2-0.5 mm, apices acuminate, awned, awns 10-30 mm, straight to flexuous; paleas 2.2-4.8 mm, narrowly lanceolate, acuminate; anthers 0.3-1.2 mm, purplish. Caryopses 1.7-2.5 mm, fusiform, reddish-brown. Cleistogamous panicles with 1-3 spikelets present in the axils of the lower leaves. 2n = 20, 40, 60.</description>
+  <discussion>Muhlenbergia microsperma grows on sandy slopes, drainages, cliffs, rock outcrops, and disturbed road¬sides, at elevations of 0-2400 m. It is usually found in creosote scrub, thorn-scrub forest, sarcocaulescent desert, and oak-pinyon woodland associations. Its range extends from the southwestern United States through Central America to Peru and Venezuela. Morphological variation among and within its populations is marked.</discussion>
+</bio:treatment>

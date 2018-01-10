@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>John R. Reeder</author>
+    </source>
+  </meta>
+  <number>18.03</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>COTTEA Kunth</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, softly pilose throughout. Culms 25-70 cm, ascending or erect from hard knotty bases. Sheaths pilose, rounded on the backs; blades flat, linear; microhairs of blades each with an elongated basal cell and an inflated terminal cell. Inflorescences terminal, open, rather narrow panicles; disarticulation above the glumes and between the florets. Spikelets with 6-10 florets, distal florets reduced. Glumes subequal, about as long as the lowest lemmas, pilose, 7-13-veined, midveins sometimes prolonged as short awns, apices acuminate or 3-toothed; lemmas rounded on the backs, with 9-13 prominent veins, some of these extending into antrorsely barbed awns of various lengths, others into awned teeth, awns and teeth not forming a pappuslike crown; paleas slightly longer than the lemmas, 2-veined, 2-keeled, keels hairy; anthers 3. Cleistogamous spikelets, usually consisting of a single floret, produced in the lower sheaths, x = 10. </description>
+  <discussion>Cottea is a monotypic American genus.</discussion>
+</bio:treatment>

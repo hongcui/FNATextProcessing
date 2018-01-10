@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Allolepis texana (Vasey) Soderstr. & H.E Decker </name_authority_date>
+  </taxon_identification>
+  <common_names>FALSE  SALTGRASS</common_names>
+  <description type="morphology">Culms (10) 25-70 cm, ascending, glabrous; stolons to 15 m long, 1-4 mm thick, strongly ribbed. Sheaths mostly glabrous, the apices with a tuft of hairs; lower sheaths shorter than the internodes; ligules 0.5-1.4 mm; blades (6)10-43 cm long, (2.5)4-6 mm wide, usually flat, glabrous, scabridulous near the apices, margins scabrous. Panicles (3)10-23 cm; branches 3-6 cm. Pistillate spikelets 10-30 mm. Glumes subcoriaceous, glabrous, midveins scabridu¬lous; lower glumes 5.5-9 mm; upper glumes 6.8-10.3 mm; lower lemmas 6.5-10.5 mm, broadly ovate, coriaceous, glabrous, midveins scabrous distally, margins clasping the bases of the florets above. Staminate spikelets 9-25 mm long, 3-8 mm wide; lower glumes 3.5-5 mm, glabrous except for the scabrous midvein; upper glumes 4.5-6 mm, glabrous; lowest lemma 5-6.3 mm, glabrous; anthers 3, 3-3.7 mm, yellow. 2n = 40.</description>
+  <discussion>Allolepis texana grows in the Big Bend region of Texas and northern Mexico. It is not common, but it may be locally abundant, growing on sandy or silty, but not alkaline, soils.</discussion>
+</bio:treatment>

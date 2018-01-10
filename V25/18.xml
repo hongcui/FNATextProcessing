@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>16.02</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>HAKONECHLOA Makino ex Honda</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; loosely cespitose, rhizomatous and stoloniferous. Culms 30-90 cm, erect or geniculate at the base. Sheaths open; auricles absent; abaxial ligules present, composed of a line of hairs across the collar; adaxial ligules membranous and sparsely ciliate, sometimes lacerate, cilia subequal to the base; blades flat, linear-lanceolate, resupinate, in living plants the glaucous-green adaxial surface facing downwards and the bright green abaxial surface facing upwards. Panicles not plumose. Spikelets pedicellate, somewhat laterally compressed, with 5-10 florets; rachilla segments conspicuously pilose; disarticulation at the base of the rachilla segment and below each spikelet. Glumes unequal, lanceolate, unawned; calluses 1.5-2 mm, strigose, hairs 1-1.5 mm; lemmas chartaceous, 3-veined, margins with papillose-based hairs near the base, apices inconspicuously bidentate, awned from between the teeth; awns 3-5 mm, straight; paleas 2-keeled. Caryopses glabrous, x = 10. </description>
+  <discussion>Hakonechloa is a monotypic genus, endemic to Japan, but grown as an ornamental in the Flora region. The resupination of the blades is not evident on herbarium specimens.</discussion>
+  <references>Koyama, T. 1987. Grasses of Japan and Its Neighboring Regions: An Identification Manual. Kodansha, Ltd., Tokyo, Japan. 370 pp.</references>
+</bio:treatment>

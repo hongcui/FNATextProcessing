@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Stephan L. Hatch</author>
+    </source>
+  </meta>
+  <number>17.12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>TRIPLASIS P. Beauv.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; cespitose, occasionally rhizomatous. Culms 14-100 cm, ascending to erect; nodes pubescent to hirsute. Sheaths open; auricles absent; ligules of hairs or membranous and ciliate; blades 1-5 mm wide, flat or involute. Primary inflorescences terminal, open panicles, with few spikelets, exerted or partially included in the upper sheath, apices exceeding the upper leaf blades, axillary panicles sometimes also present; cleistogamous inflorescences also present in the upper sheaths. Spikelets laterally compressed, purplish, with 2-5 florets; sterile florets above the fertile florets; rachillas prolonged; disarticulation above the glumes and beneath the florets and, subsequently, at the cauline nodes. Glumes equal or unequal, shorter than the first lemma, 1-veined, keeled; calluses hairy; lemmas 3-veined, veins villous, apices bilobed to incised, midveins sometimes extending into an awn, awns to 11 mm; paleas bowed-out, keels hairy, distal hairs 0.5-2 mm, longer than those below; lodicules 2, truncate; anthers 3, yellow or reddish-purple; stigmas pink to purple. Caryopses dorsiventrally compressed, x = 10.</description>
+  <discussion>Triplasis is an American genus of two species that is probably related to Tridens. The disarticulating culm, which helps disperse the cleistogenes, aids in distinguishing Triplasis from other genera.</discussion>
+  <key>
+    <key_body>
+1. Lemmas with lobes 4.5-8 mm long, tapering to acute tips; lemma awns 5-11 mm long; culm internodes puberulent to pilose .....1. T. americana
+1. Lemmas with lobes about 1 mm long, rounded; lemma awns less than 2 mm long; culm internodes glabrous  .....2. T. purpurea
+
+    </key_body>
+  </key>
+</bio:treatment>

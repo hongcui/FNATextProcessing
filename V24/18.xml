@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Christopher M.A. Stapleton </author>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>2.03</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>PHYLLOSTACHYS Siebold & Zucc.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants shrublike to arborescent, in open or dense, spreading clumps or thickets; rhizomes leptomorphic. Culms 3-10(20) m tall, 3-10(15) cm thick, self-supporting, erect or nodding, diffuse or pluricespitose, rarely solitary; nodes slightly swollen; supranodal ridge prominent; internodes strongly flattened for their whole length, doubly sulcate above the branches, glabrous, smooth. Branches 2(3) per midculm node, unequal, initially erect, becoming deflexed, basal internodes not compressed. Culm leaves coriaceous, very quickly deciduous; blades usually strap-shaped and narrow, usually reflexed. Foliage leaves: sheaths deciduous; blades small to medium-sized, usually glossy and thickened, indistinctly cross veined. Inflorescences open or congested, sometimes spicate to subcapitate, fully bracteate, bracts usually bearing a small blade at the apex. Spikelets or pseudospikelets with 2 to several florets, the uppermost rudimentary. Lemmas lanceolate; paleas not exceeding the lemmas, strongly to very weakly 2-keeled, often bifid; anthers 3; styles or style branches 3. x = 12. </description>
+  <discussion>Phyllostachys is a hardy, temperate, Asiatic genus of at least 50 species, native mainly to China, from Hainan to the Yellow River, and from Yunnan to Taiwan, but introduced to surrounding countries, especially Japan. Many species and a large number of cultivars have been introduced. The genus is characterized by the two unequal branches at most nodes, a result of a complete lack of internodal compression, along with the almost universal presence of buds at all nodes. Phyllostachys is the most distinct genus of hardy temperate bamboos, of enormous economic importance in eastern Asia, and increasingly valued in North America and Europe.
+All species are ornamental, especially those having cultivars with colored culms. Almost all species are likely to be invasive. Rhizomes may extend as far as the height of the culms. Root barriers should generally be installed if uncontrolled spreading is not acceptable.</discussion>
+  <references>McClure. EA. 1957. Bamboos of the Genus Phyllostachys Under Cultivation in the United States. U.S. Department of Agriculture, Agricultural Research Service, Agriculture Handbook No. 114. U.S. Government Printing Office, Washington, D.C., U.S.A. 69 pp.; Wang, C.-E, Z.-H. Yu, and G.-H. Ye. 1980. A taxonomical study of Phyllostachys in China [parts 1 & 2]. Acta Phytotax. Sin. 18:15-19, 168-193.</references>
+  <key>
+    <key_body>
+1. Neither auricles nor fimbriae present on any culm leaves.....1. P. aurea
+1. Auricles present on the upper culm leaves; fimbriae present on all culm leaves.....2. P. bambusoides
+    </key_body>
+  </key>
+</bio:treatment>

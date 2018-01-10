@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Puccinellia phryganodes (Trin.) Scribn. & Merr.</name_authority_date>
+  </taxon_identification>
+  <common_names>GOOSE GRASS, PUCCINELLIE RAMPANTE, PUCCINELLIE TROMPEUSE</common_names>
+  <description type="morphology">Plants perennial; stoloniferous, often forming extensive low mats. Culms 2-15 cm, erect or decumbent. Ligules 0.4-1.5 mm, acute, obtuse, or truncate, entire; blades 0.4-2.2 mm wide when flat, 0.2-1 mm in diameter when involute. Panicles usually not developed, if developed, 1-7 cm, diffuse, lower branches ascending, spikelets usually confined to the distal 1/3; pedicels scabrous, usually with tumid epidermal cells. Spikelets 6-9 mm, with 3-6(7) florets. Glumes rounded or slightly keeled over the back, veins obscure or distinct, apices acute or obtuse; lower glumes 1.5-2.2 mm; upper glumes 2.3-2.8 mm; calluses glabrous or almost so; lemmas 3.2-3.8(4.5) mm, membranous, usually glabrous, occasionally sparsely hairy, backs rounded, 5-veined, veins obscure, not extending to the margins, apices acute or rounded, apical margins whitish, hyaline, smooth, entire; palea veins glabrous; anthers (1.5)2-2.5 mm, aimost always indehiscent, mature pollen rarely produced. Caryopses rarely developed. 2n = 21, 28.</description>
+  <discussion>Puccinellia phryganodes is a widespread and common circumpolar arctic species that grows on seashores at or near the high tide line, in wet saline meadows, and in saline or brackish marshes.</discussion>
+</bio:treatment>

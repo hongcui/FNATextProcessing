@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Saccharum brevibarbe (Michx.) Pers. var. brevibarbe</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Upper lemmas of sessile spikelets entire at maturity; awns 15-22 mm, straight or sinuous throughout.</description>
+  <discussion>Saccharum brevibarbe var. brevibarbe grows in the southeastern coastal states and is common in central and southern Arkansas, eastern Oklahoma, the piney woods region of eastern Texas, and northern Louisiana.</discussion>
+</bio:treatment>

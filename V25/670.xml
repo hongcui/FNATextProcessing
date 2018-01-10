@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Dichanthelium commutatum subsp. ashei (T.G. Pearson ex Ashe) Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants from small caudices. Culms slender, wiry, erect, densely crisp-puberulent. Basal blades usually shorter than 3 cm, to 6 mm wide. Cauline blades 5-8 cm long, 5-10 mm wide, linear-lanceolate, thick, often yellowish-green, bases symmetrical. Spikelets 2.2-2.7 mm. Lower glumes 1/5 – 1/4  the length of the spikelets; lower lemmas pointed.</description>
+  <discussion>Dichanthelium commutatum subsp. ashei grows in open woodlands. It sometimes resembles, and may hybridize with, D. dichotomum.</discussion>
+</bio:treatment>

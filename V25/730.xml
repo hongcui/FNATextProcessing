@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>19</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia glauca (Nees) B.D. Jacks. </name_authority_date>
+  </taxon_identification>
+  <common_names>DESERT MUHLY</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, rhizomes slender, well-developed. Culms 25-60 cm tall, 1-2 mm thick, often decumbent, some¬ times erect; internodes mostly scabrous, retrorsely hispidulous below the nodes. Sheaths longer    than    the    internodes, scabridulous; ligules 0.5-2 mm, truncate to obtuse, erose or lacerate; blades 4-12 cm long, 1-2.6 mm wide, flat to involute distally, not arcuate, scabrous abaxially, hirsute or scabrous adaxially. Panicles 4-12(17) cm long, 0.3-2.4 cm wide, contracted, interrupted below; branches 0.3-3 cm, usually appressed, occasionally diverging up to 30° from the rachises; pedicels 0.1-1.2 mm, scabrous to hirsute. Spikelets 2.4-3.5 mm. Glumes equal, 1.5-3.5 mm, 1-veined, veins scabrous, apices acute or acuminate, usually awned, awns, if present, to 1.5 mm; lemmas 2.4-3.4 mm, elliptic, pubescent on the lower the 1/2 of the midveins and margins, hairs to 0.6 mm, tawny, apices acuminate to acute, awned, awns 0.1-3(5) mm; paleas 2.2-3.4 mm, elliptic, intercostal region pubescent on the lower 1/2, apices acuminate to acute; anthers 1.8-2.4 mm, orange. Caryopses 1.7-2 mm, fusiform, brownish. 2n = 60.</description>
+  <discussion>Muhlenbergia glauca grows on calcareous rocky slopes, cliffs, canyon walls, table rocks, and volcanic rock outcrops, at elevations of 1200-2780 m. Its range extends from the southwestern United States to central Mexico. M. glauca resembles M. polycaulis, but differs in its shorter lemma awns and strongly rhizomatous habit.</discussion>
+</bio:treatment>

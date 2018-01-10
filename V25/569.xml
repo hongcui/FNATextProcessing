@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>J. Gabriel Sanchez-Ken</author>
+    </source>
+  </meta>
+  <number>23.01</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>THYSANOLAENA Nees</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, shortly rhizomatous, reedlike. Culms 1.5-4 m, woody, persistent, glabrous, usually not branched above the base; internodes solid. Leaves cauline, distichous; sheaths open; auricles sometimes present; ligules membranous to somewhat leathery, entire, minutely erose, or ciliolate; pseudopetioles poorly developed; blades flat, disarticulating from the sheaths when old, cross venation not evident. Inflorescences terminal, open diffuse panicles. Spikelets solitary, pedicellate, terete, with 2(3-4) florets, lowest floret in each spikelet sterile; rachilla extension prolonged, often terminating in a rudimentary floret; disarticulation at the pedicel bases, subsequently below the spikelets. Glumes membranous, shorter than the florets, 0-1-veined, obtuse; lowest florets equaling the upper florets, sterile; lowest lemmas membranous, 1-3-veined; lowest paleas not present; upper florets bisexual; upper lemmas membranous, 3-veined, unawned, marginal veins with papillose-based hairs, hairs 0.8-1.5 mm, strongly diverging at maturity; upper paleas about 1/2 as long as the lemmas, apices notched; lodicules 2, free, broadly cuneate, truncate to irregularly lobed; anthers 2(3). Caryopses nearly spherical to broadly ovoid; embryos about 3/4 as long as the caryopses; hila subbasal, punctate, x = 12. </description>
+  <discussion>Thysanolaena is a monotypic genus of tropical Asia, where it grows in open habitats, generally in mountainous areas. Its only species is grown as an ornamental in the Flora region.</discussion>
+  <references>Baaijens, G.J. and J.F. Veldkamp. 1991. Sporobolus (Gramineae) in Malesia. Blumea 35:393-458.</references>
+</bio:treatment>

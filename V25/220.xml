@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>26</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sporobolus heterolepis (A. Gray) A. Gray </name_authority_date>
+  </taxon_identification>
+  <common_names>PRAIRIE DROPSEED, SPOROBOI.E A GLUMES INEGALES</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 30-80(90) cm.  Sheaths dull and fibrous basally, glabrous or sparcely pilose below,  hairs  to  4  mm, contorted; ligules 0.1-0.3 mm; blades 7-31 cm long, 1.2-2.5mm wide, flat to folded, glabrous abaxially, scabridulous adaxially, margins scabrous. Panicles 5-22(25) cm long, (0.6)1-11 cm wide, open to somewhat contracted, longer than wide, narrowly pyramidal, not diffuse; lower nodes with 1-2(3) branches; primary branches 0.6-8(11) cm, appressed or spreading to 70° from the rachis, not capillary, without spikelets on the lower 1/3, pedicels 0.8-6 mm, appressed, occasionally spreading. Spikelets 3-6 mm, plumbeous. Glumes unequal, lanceolate, membranous; lower glumes (1.2)1.8-4.5 mm; upper glumes 2.4-6 mm, at least 2/3 as long as the florets, occasionally 3-veined; lemmas (2.7)3-4.3 mm, ovate, membranous, glabrous, acute; paleas 3.1-4.5 mm, slightly longer than the lemmas, ovate, membranous, glabrous; anthers 1.7-3 mm, yellowish to purplish. Fruits 1.4-2.1 mm, pyriform to globose, indurate, without a loose pericarp, smooth, shining, light brown. 2n = 72.</description>
+  <discussion>Sporobolus heterolepis grows at elevations of 40-2250 m, in lowland and upland prairies, along the borders of woods, roadsides, and swamps, and in north-facing swales. It is associated with many plant communities, and is also available commercially as an ornamental. It is restricted to the Flora region.</discussion>
+</bio:treatment>

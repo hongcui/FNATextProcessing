@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Bromus hordeaceus subsp. molliformis (J. Lloyd ex Billot) Maire & Weiller </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 15-25(60) cm. Panicles to 10 cm, usually with more than 1 spikelet. Lemmas (7)8-11 mm, pubescent, margins rounded; awns less than 0.1 mm wide at the base, often divaricate or recurved at maturity. Caryopses shorter than the paleas.</description>
+  <discussion>Bromus hordeaceus subsp. molliformis grows in California and other scattered locations, including Idaho, New Mexico, and southern Michigan.</discussion>
+</bio:treatment>

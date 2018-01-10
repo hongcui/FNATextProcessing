@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Melica smithii (Porter ex A. Gray) Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>SMITH'S MELIC</common_names>
+  <description type="morphology">Plants loosely cespitose, not rhizomatous. Culms 60-160 cm, thickened basally, sometimes appearing cormous; internodes sometimes pubescent below the nodes. Sheaths usually glabrous, sometimes pilose or retrorsely scabrous, particularly at the throat, veins often prominent; ligules 2-4 mm; blades 15-25 cm long, 5-12 mm wide, both surfaces usually scabridulous, glabrous, sometimes the adaxial surfaces with hairs. Panicles 12-30 cm; branches 7-11 cm, spreading to reflexed, with 4-7 spikelets, spikelets restricted to the distal portion, axils frequently with brownish pulvini; pedicels straight; disarticulation above the glumes. Spikelets 12-18 mm, with 3-5 bisexual florets; rachilla internodes 2.5-3 mm. Lower glumes 4.5-7 mm long, 1-1.5 mm wide, 1-3-veined; upper glumes 6.5-9 mm long, 1.2-1.8 mm wide, 3-5-veined; lemmas 9.5-12 mm, glabrous or scabrous, 7-veined, apices bifid to emarginate, awned, awns 3-10 mm; paleas about 2/3 the length of the lemmas; anthers 1.3-2.5 mm; rudiments 3.5-6 mm, tapering, resembling the bisexual florets. 2n = unknown.</description>
+  <discussion>Melica smithii grows in cool, moist woods from British Columbia and Alberta south to Oregon and Wyoming and, as a disjunct, from the Great Lakes region to western Quebec. It often forms colonies in the eastern portion of its range. Its disjunct distribution pattern is unusual among North America's grasses.</discussion>
+</bio:treatment>

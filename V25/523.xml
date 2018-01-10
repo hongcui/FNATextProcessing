@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aristida divaricata Humb. & Bonpl. ex Willd.</name_authority_date>
+  </taxon_identification>
+  <common_names>POVERTY GRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose. Culms 25-70 cm, erect or prostrate, unbranched or sparingly branched. Leaves tending to be basal; sheaths longer than the internodes, glabrous except at the summit; collars densely pilose; ligules 0.5-1 mm; blades 5-20 cm long, 1-2 mm wide, flat to loosely involute, glabrous. Inflorescences paniculate, 10-30 cm long, 6-25 cm wide, peduncles  flattened  and  easily  broken;  rachis nodes glabrous or with hairs, hairs to 0.5 mm; primary branches 5-13 cm, stiffly divaricate to reflexed, with axillary pulvini, usually naked on the basal 1/2; secondary branches usually well-developed. Spikelets overlapping, usually appressed, sometimes divergent and the pedicels with axillary pulvini. Glumes 8-12 mm, 1-veined, acuminate or shortly awned, awns to 4 mm; calluses about 0.5 mm; lemmas 8-13 mm long, the terminal 2-3 mm with 4 or more twists when mature, narrowing to 0.1-0.2 mm wide just below the awns, junction with the awns not evident; awns (7)10-20 mm, not disarticulating at maturity; central awns almost straight to curved at the base, ascending to somewhat divergent distally; lateral awns slightly thinner and from much to slightly shorter than the central awns, ascending to divergent; anthers 3, 0.8-1 mm. Caryopses 8-10 mm, light brown. 2n = 22.</description>
+  <discussion>Aristida divaricata grows on dry hills and plains, especially in pinyon-juniper-grassland zones, from the southwestern United States through Mexico to Guatemala. It occasionally intergrades with A. havardii, but that species has lemma beaks that are straight or have only 1-2 twists, shorter primary branches, usually no secondary branches, and pedicels that more frequently have axillary pulvini so the spikelets are more frequently divergent than in A. divaricata.</discussion>
+</bio:treatment>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Leymus simplex (Scribn. & T.A. Williams) D.R. Dewey </name_authority_date>
+  </taxon_identification>
+  <common_names>ALKALI WILDRYE</common_names>
+  <description type="morphology">Plants not cespitose, strongly rhizomatous, often glaucous. Culms 35-75 cm tall, 1-2.5 mm thick, solitary or few together, glabrous or sparsely pubescent near the nodes. Leaves exceeded by the spikes; sheaths glabrous, smooth; auricles infrequently present, to 0.8 mm, the auricular location often with hairs to 2 mm; ligules 0.3-0.5 mm, truncate, erose; blades 4-29 cm long, 1-2(5) mm wide, flat, becoming involute when dry, stiff, adaxial surfaces scabrous, with scattered hairs to 2 mm, veins 7-11, subequal, prominently ribbed. Spikes 1.5-27 cm long, 4-15 mm wide, with 1 spikelet per node at midspike, sometimes with 2 at the lower nodes; internodes 7-20 mm, surfaces glabrous or strigillose, edges ciliate, cilia to 1 mm. Spikelets 16-25 mm, pedicellate, pedicels 1-2(5) mm, with 3-12 florets. Glumes subequal, 8-12 mm long, 0.5-1.5 mm wide, subulate, tapering from about 1/4 of their length, stiff, glabrous at least at the base, the central portion thicker than the margins, keeled, 0-l(3)-veined, veins inconspicuous at midlength; lemmas 7-12 mm, glabrous, awned, awns 2.3-6.5(12) mm; anthers 3.7-4.5 mm, dehiscent. 2n = 28.</description>
+  <discussion>Leymus simplex is found in meadows and drifting sand in southern Wyoming, and along the Green River in northeastern Utah.</discussion>
+  <key>
+    <key_body>
+1. Culms 55-75 cm tall; spikes 10-27 cm long; internodes 10-20 mm .....var. luxurians
+1. Culms 35-55 cm tall; spikes 1.5-13 cm long; internodes 7-9 mm  .....var. simplex
+
+    </key_body>
+  </key>
+</bio:treatment>

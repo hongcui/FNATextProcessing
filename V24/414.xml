@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>xElyhordeum californicum (Bowden) Barkworth</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 30-40 cm, glabrous throughout or hairy on the lower portion. Sheaths glabrous; auricles to 0.5 mm; ligules 0.4-1.5 mm, rounded; blades to about 15 cm long, 1-2(3) mm wide, abaxial surfaces glabrous or sparsely hairy, adaxial surfaces scabridulous, all veins equally prominent. Inflorescences spikelike, 2.5-5 cm long, 7-10 mm wide excluding the awns, 20-30 mm wide including the awns, straight, nodes with 3 spikelets; internodes 2.2-4 mm, bases about 1/2 as wide as the apices. Spikelets 8-10 mm excluding the awns, 25-28 mm including the awns, with 1-2 florets, the lateral spikelets shortly pedicellate, the central spikelet sessile. Glumes 15-35 mm including the awns, setaceous, straight; lemmas 7-8 mm, smooth throughout or scabrous distally, awned, awns 10-20 mm, straight or slightly divergent at maturity; anthers about 1.5 mm.</description>
+  <discussion>Culms 30-40 cm, glabrous throughout or hairy on the lower portion. Sheaths glabrous; auricles to 0.5 mm; ligules 0.4-1.5 mm, rounded; blades to about 15 cm long, 1-2(3) mm wide, abaxial surfaces glabrous or sparsely hairy, adaxial surfaces scabridulous, all veins equally prominent. Inflorescences spikelike, 2.5-5 cm long, 7-10 mm wide excluding the awns, 20-30 mm wide including the awns, straight, nodes with 3 spikelets; internodes 2.2-4 mm, bases about 1/2 as wide as the apices. Spikelets 8-10 mm excluding the awns, 25-28 mm including the awns, with 1-2 florets, the lateral spikelets shortly pedicellate, the central spikelet sessile. Glumes 15-35 mm including the awns, setaceous, straight; lemmas 7-8 mm, smooth throughout or scabrous distally, awned, awns 10-20 mm, straight or slightly divergent at maturity; anthers about 1.5 mm.</discussion>
+</bio:treatment>

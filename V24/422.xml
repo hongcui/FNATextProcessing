@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Elymus virginicus L. var. virginicus </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants not glaucous, usually becoming yellowish brown, occasionally somewhat purplish at maturity. Culms (30)40-90(130) cm; nodes usually 4-8, concealed or exposed; auricles and ligules sometimes pronounced. Blades 3-18 mm wide, lax or involute, usually scabridulous, rarely pubescent. Spikes 4-16(22) cm, partly sheathed; spikelets smooth or scabridulous, not glaucous; glumes 1-2(2.3) mm wide, indurate and bowed out in the basal 2-4 mm. Anthesis mid-June to late July.</description>
+  <discussion>Elymus virginicus var. virginicus grows in moist to damp or rather dry soil, mostly on bottomland or fertile uplands, in open woods, thickets, tall forbs, or weedy sites. It is widespread and abundant in the eastern range of the species, but also overlaps with var. jejunus in the  
+Great Plains, east to Texas and Manitoba. Its dimensions have much genetic and phenotypic variation (Brooks 1974). It occasionally hybridizes with sympatric Elymus species, including E. riparius (p. 302), and even with Hordeum (Bowden 1958; Church 1958; Pohl 1959; Nelson and Tyrl 1978). In its eastern range, most plants are distinctively short, reaching only 30-90 cm, with sheathed spikes 6-10 cm long. In more open or drier environments, especially in midwestern regions, plants are often more glaucous, robust, and exserted, grading into var. jejunus. Awn length increases towards the south, suggesting introgression with E. glabriflorus (p. 296) (Davies 1980). Pubescent blades are generally absent, but appear more frequently in Wisconsin and perhaps other northern areas.
+</discussion>
+</bio:treatment>

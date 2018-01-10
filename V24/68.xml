@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>tribe</rank>
+    <name_authority_date>NARDEAE W.D.J. Koch</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose. Culms annual, to 60 cm; internodes hollow. Sheaths open, margins not fused; collars glabrous, without tufts of hair at the sides; auricles absent; ligules scarious, not ciliate, those of the upper and lower cauline leaves usually similar; pseudopetioles not present; blades filiform, venation parallel, cross venation not evident, secondary veins parallel to the midvein; cross sections non-Kranz, without arm or fusoid cells, adaxial epidermes with bicellular microhairs, not papillate. Inflorescences terminal spikes, 1-sided, spikelets solitary, radial to the rachises; rachises with the spikelets partially embedded. Spikelets not compressed, triangular in cross section, with 1 floret, floret bisexual; rachillas not prolonged beyond the floret base; disarticulation above the glumes, beneath the floret. Glumes absent or vestigial; lower glumes a cupular rim; upper glumes absent or vestigial; florets 5-10 mm, not compressed; calluses poorly developed, glabrous; lemmas chartaceous, 3-veined, angled over the veins, most strongly so over the lateral veins, apices entire, awned, awns terminal, not branched, lemma-awn transition gradual, not evident; paleas subequal to the lemmas, hyaline, 2-keeled; lodicules absent; anthers 3; ovaries glabrous; styles 1. Caryopses fusiform, style bases not persistent; hila linear, more than 1/2 as long as the caryopses; embryos about 1/6 the length of the caryopses. x = 13.</description>
+  <discussion>There is only one genus, Nardus, in the Nardeae. Its relationships are obscure. Embryo characters, ligule texture, and DNA sequence data suggest it belongs in the Pooideae; the bicellular microhairs suggest a bambusoid or arundinoid affiliation. Its inclusion here in the Pooideae reflects the findings of the Grass Phylogeny Working Group (2001).</discussion>
+  <references>Davis, J.I. and R.J. Sorcng. 1993. Phylogenetic structure in the grass family (Poaceae) as inferred from chloroplast DNA restriction site variation. Amer. J. Bot. 80:1444-1454; Grass Phylogeny Working Group. 2001. Phylogeny and subfamilial classification of the grasses (Poaceae). Ann. Missouri Bot. Gard. 88:373-457.</references>
+</bio:treatment>

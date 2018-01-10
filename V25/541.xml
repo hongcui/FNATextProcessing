@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Aristida purpurea var. longiseta (Steud.) Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>RED THREEAWN</common_names>
+  <description type="morphology">Culms 10-40(50) cm. Leaves sometimes mostly basal, sometimes mostly cauline; blades 4-16 cm, usually involute. Panicles 5-15 cm; primary branches appressed or ascending at the base, without axillary pulvini, stout and straight to delicate and drooping distally, usually neither flexible nor tangled. Lower glumes 8-12 mm; upper glumes (14)16-25 mm; lemmas 12-16 mm long, apices 0.3-0.8 mm wide; awns subequal, 40-100(140) mm long, 0.2-0.5 mm wide at the base. 2n = 22, 44, 66, 88.</description>
+  <discussion>Aristida purpurea var. longiseta grows on sandy or rocky slopes and plains, and in barren soils of disturbed ground from western Canada to northern Mexico. It is the most variable variety of Aristida purpurea, ranging from short plants with basal leaves and short panicles suggestive of var. fendleriana, to tall plants with long cauline leaves and long, drooping panicles resembling var. purpurea. The length of its glumes, width of its lemma apex, and the length and thickness of its awns distinguish it from all the other varieties. The callus and long, stiff awns are especially troublesome to sheep and cattle.</discussion>
+</bio:treatment>

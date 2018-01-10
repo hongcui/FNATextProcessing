@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>13.18</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>xLEYDEUM Barkworth</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; rhizomatous, sometimes shortly so. Culms to 140 cm tall, 1-3 mm thick. Spikes 10-15 cm long, 5-12 mm wide excluding the awns, erect, sometimes lax, nodes with 2-3 spikelets; internodes 3-5 mm; disarticulation in the rachises, sometimes delayed. Spikelets appressed, with 1-3 florets. Glumes equal or unequal, 10-25 mm long, 0.2-1.5 mm wide, tapering from below midlength or subulate from the base; lemmas glabrous or hairy, awned, awns 1-10 mm; anthers 1.8-3 mm long, 0.1-0.3 mm thick. Caryopses not developed.</description>
+  <discussion>xLeydeum consists of hybrids between Hordeum and Leymus. The number of named xLeydeum hybrids is substantially lower than that for hybrids between Hordeum and Elymus.
+This probably reflects the lower likelihood of such hybrids being formed, because Leymus does not incorporate the H genome of Hordeum, whereas Elymus does. It is also possible that such hybrids are less likely to be recognized, because inland species of Leymus, like Hordeum, have narrow glumes. Of the three species recognized, two involve the coastal species L. mollis, which has flat glumes; these hybrids have intermediate glumes and rachises that tend to disarticulate. xLeydeum piperi, the only hybrid involving one of the inland species of Leymus, differs from Leymus in its disarticulating rachises, and from Hordeum in having 2 spikelets per node and 2-3 florets in the larger spikelets.</discussion>
+  <references>Bowden, W.M. 1967. Taxonomy of intergeneric hybrids of the tribe Triticeae from North America. Canad. J. Bot. 45:™ll-724; Covas, G. 1949. Taxonomic observations on the North American species of Hordeum. Madrono 9:233-264; Hodgson, H.J. and W.W. Mitchell. 1965. A new Elymordeum hybrid from Alaska. Canad. J. Bot 43:1355-1358; Hulten, E. 1968. Comments on the flora of Alaska and Yukon. Ark. Bot., n.s., 7:1-147.</references>
+</bio:treatment>

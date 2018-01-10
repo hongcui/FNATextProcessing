@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Piptatherum racemosum (Sm.) Eaton </name_authority_date>
+  </taxon_identification>
+  <common_names>MOUNTAIN RICEGRASS</common_names>
+  <description type="morphology">Plants loosely cespitose to soboliferous, rhizomatous. Culms 48-80 cm, scabrous or pubescent adjacent to the nodes; basal branching extravaginal. Leaves not basally concentrated; sheaths usually smooth and glabrous, occasionally scabridulous and inconspic-uously pubescent near the margins; ligules of upper leaves 0.3-0.7 mm, truncate; blades of basal leaves 0-2 cm; blades of upper leaves 10-27 cm long, 8-16 mm wide, abaxial surfaces evenly but sparsely pubescent, adaxial surfaces with straight hairs to 0.3 mm on the primary veins and flexuous hairs of 0.5-0.9 mm on the minor veins, tapering from near midlength to the apices. Panicles 12-25 cm, lower nodes with 1-2 branches; branches 3-9.5 cm, straight, strongly ascending to strongly divergent, with 2-5 spikelets. Glumes 6-8 mm, from subequal to the florets to exceeding the florets by 2 mm, ovate, 5-7-veined, acuminate; florets 4.5-7.5 mm; calluses 0.3-0.6 mm, disarticulation scars circular; lemmas coriaceous, sparsely pubescent to glabrate throughout, margins fused at the base, not overlapping, shiny dark brown to black at maturity; awns 10-25 mm, deciduous, slightly twisted, flexuous; anthers 3.5-5.5 mm, not penicillate; ovaries developing 2 conelike extensions, each terminating in a style. Caryopses 5-6 mm; hila linear, 4/5 – 9/10 as long as the caryopses. 2n = 46,48.</description>
+  <discussion>Pipiatherum racemosum usually grows in deciduous woods, and less often in open pine woods, in rocky, mountainous areas, from the St. Lawrence and Ottawa rivers south to the Missouri River, Tennessee, and Virginia, and east to Maine. The absence of basal blades and the dark, shiny lemmas distinguish it from all other North American Stipeae. It is highly palatable to livestock, but is never sufficiently abundant to be important as forage.</discussion>
+</bio:treatment>

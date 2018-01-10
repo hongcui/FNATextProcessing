@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Blepharidachne kingii (S. Watson) Hack.</name_authority_date>
+  </taxon_identification>
+  <common_names>KING’S EYELASH GRASS</common_names>
+  <description type="morphology">Plants cespitose. Culms 3-8(14) cm. Sheaths often with a tuft of hairs at the throat, sheaths immediately below the
+inflorescences often spathelike; ligules to 0.5 mm; blades 0.7-3 cm long, less than 1 mm wide, strongly convolute	to conduplicate, stiffly arcuate, often deciduous. Panicles 10-25 mm, subcapitate, usually partially included in the 2 spathelike upper leaf sheaths. Spikelets 6-9 mm. Glumes exceeding the florets, papery and translucent, scabridulous toward the base, acuminate or awn-tipped, awns to about 1.3 mm; lower glumes 6-7.5 mm; upper glumes 6.8-8.5 mm; lowest 2 florets usually sterile; lemmas of sterile florets 3.4-5.8 mm, lateral lobes 2.2-3 mm; paleas of sterile florets linear, plumose; third florets bisexual; third lemmas with lateral lobes 0.5-1.5 mm, awned, central awns 3-5 mm; paleas of third florets subequal to slightly longer than the lemmas; anthers 2(1), about 1.5 mm. Caryopses about 2 mm, compressed. 2n = 14.
+</description>
+  <discussion>Blepharidachne kingii grows at scattered locations in arid regions of the Great Basin, sometimes being locally abundant.</discussion>
+</bio:treatment>

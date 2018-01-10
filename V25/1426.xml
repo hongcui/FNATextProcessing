@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Setaria pumila subsp. pallidefusca (Schumach.) B.K. Simon</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Blades dark green. Bristles reddish. Spikelets 2-2.5 mm. 2n = 18, 36, 54, 72.</description>
+  <discussion>Setaria pumila subsp. pallidefusca is native to tropical Africa. It is now established as a weed in south¬eastern Louisiana, but it has also been collected in the past on ballast dumps in Portland, Oregon.
+Reports of S. nigrirostris (Nees) T Durand & Schinz in North America have not been verified. It differs from S. pumila in being a rhizomatous perennial with spikelets 3.5-5 mm long and bristles with thickened tips (those of S. pumila are slender throughout). It is a native of southern Africa.
+</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Calamovilfa gigantea (Nutt.) Scribn. & Merr.</name_authority_date>
+  </taxon_identification>
+  <common_names>GIANT SANDREED</common_names>
+  <description type="morphology">Rhizomes elongate, covered with shiny, coriaceous, scalelike leaves. Culms to 2.5 m. Sheaths entirely glabrous or pubescent at the throat; ligules 0.7-2 mm; blades to 90 cm  long, about 12 mm wide. Panicles 20-80 cm long, 20-60 cm wide; branches to 35 cm, ascending to strongly divergent, lowermost branches sometimes reflexed. Spikelets 7-10.8 mm. Glumes straight; lower glumes 4.5-10.5 mm; upper glumes 6.4-10.1 mm; callus hairs 1/4 - 3/4 as long as the lemma; lemmas 6-10 mm, straight, pubescent, sometimes sparsely so, very rarely glabrous; paleas 6-8.3 mm, pubescent or glabrous; anthers 3-5.5 mm. 2n = 60.  </description>
+  <discussion>Calamovilfa gigantea grows on sand dunes, prairies, river banks, and flood plains in the Rocky Mountains and central plains from Utah and Nebraska to Arizona and Texas. </discussion>
+</bio:treatment>

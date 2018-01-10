@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aristida havardii Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>HAVARD’S THREEAWN</common_names>
+  <description type="morphology">Plants perennial; cespitose. Culms 15-40 cm, slender, usually erect, occasionally decumbent, often tightly clustered into hemispheric clumps, unbranched. Leaves mostly basal; sheaths longer than the internodes, glabrous except at the summit; collars densely pilose; ligules 0.5-1 mm; blades 5-20 cm long, 1-2 mm wide, flat to loosely involute, glabrous. Inflorescences paniculate, 8-18 cm long, 4-12 cm wide, peduncles often flattened and easily broken; rachis nodes glabrous or with straight, less than 0.3 mm hairs; primary branches 2-6 cm, stiffly divaricate to reflexed, with axillary pulvini, usually naked on the lower 1/2 secondary branches usually absent. Spikelets usually divergent, pedicels usually with axillary pulvini. Glumes 8-12 mm, 1-veined, acuminate or awned, awns to 4 mm; calluses about 0.5 mm; lemmas 8-13 mm long, glabrous, smooth or scabrous, terminal 2-3 mm straight or with 1-2 twists, narrowing to 0.1-0.2 mm wide, junction with the awns not evident; awns (7)10-22 mm, not disarticulating at maturity, from almost straight to somewhat curved basally, ascending to divergent distally; lateral awns slightly shorter and thinner than the central awns; anthers 3, 0.8-1 mm. Caryopses 8-10 mm, light brown. 2n = 22.</description>
+  <discussion>Aristida havardii grows on dry hills and plains in desert grassland to pinyon-juniper zones, and in sandy to rocky ground from the southwestern United States to northern Mexico. It occasionally intergrades with A. divaricata, but that species differs in having more twisted lemma beaks, longer primary branches, well-developed secondary branches, and, usually, appressed spikelets.</discussion>
+</bio:treatment>

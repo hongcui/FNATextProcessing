@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>14</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum fimbriatum Kunth </name_authority_date>
+  </taxon_identification>
+  <common_names>WINGED PASPALUM, PANAMA CROWNGRASS</common_names>
+  <description type="morphology">Plants annual. Culms 15-70 cm, erect; nodes glabrous or pubescent. Sheaths pubescent, sometimes sparsely so; ligules 1-1.9 mm; blades to 35 cm long, 1.9-16.2 mm wide, flat, sparsely pubescent on both surfaces, margins ciliate basally. Panicles terminal, with 2-8 racemosely  arranged  branches; branches 2-6.4 cm, diverging to  erect; branch  axes 0.9-1.6 mm wide, winged, glabrous, margins scabrous, terminating in a spikelet. Spikelets 2.5-3.5 mm long, 2.4-3 mm wide, paired, appressed to the branch axes, suborbicular, stramineous. Lower glumes absent; upper glumes and lower lemmas 1.9-2.1 mm, ovate, winged, 1-veined, margins ciliate-lacerate; upper florets 1.7-1.9 mm, stramineous. Caryopses 0.9-1.1 mm, orbicular, white. 2n = 20.</description>
+  <discussion>Paspalum fimbriatum has probably been introduced into the United States. Its primary range extends from southern Mexico to Colombia, Venezuela, and French Guiana. In the Flora region, it grows in disturbed areas of Florida.</discussion>
+</bio:treatment>

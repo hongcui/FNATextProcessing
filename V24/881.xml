@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Stephen J. Darbyshire</author>
+    </source>
+  </meta>
+  <number>14.24</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>EREMOPOA Roshev.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual. Culms 5-60 cm. Sheaths open for most of their length; auricles absent; ligules glabrous; blades flat or convolute. Inflorescences panicles; branches glabrous, scabrous, some branches longer than 1 cm, some pedicels longer than 3 mm, usually less than 1 mm thick, flexible. Spikelets pedicellate, terete to slightly laterally compressed, with (1)2 to many florets, fertile florets (1)2-6, distal florets vestigial; rachillas straight or slightly bowed, scabrous or puberulent; disarticulation above the glumes and beneath the florets. Glumes unequal in length, subequal in width, usually shorter than the adjacent lemmas, unawned; lower glumes 1-veined; upper glumes 3-veined; calluses short, blunt, glabrous; lemmas lanceolate, glabrous or the bases slightly pilose, 5-veined, veins converging distally, apices not mucronate, unawned; paleas shorter than the lemmas; lodicules 2, free, glabrous; anthers 3; ovaries glabrous. Caryopses shorter than the lemmas, concealed at maturity, linear, adhering to the lemmas and/or paleas. x = 7. 
+ 
+</description>
+  <discussion>Eremopoa is a genus of two to six species that are native from the eastern Mediterranean to western China.</discussion>
+  <references>Stevenson, G.A. 1965. Notes on the more recently adventive flora of the Brandon area, Manitoba. Canad. Field-Naturalist 79:174-177.
+</references>
+</bio:treatment>

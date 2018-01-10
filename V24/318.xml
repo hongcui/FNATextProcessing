@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>36</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus tectorum L. </name_authority_date>
+  </taxon_identification>
+  <common_names>CHEATGRASS, DOWNY CHESS</common_names>
+  <description type="morphology">Plants annual. Culms 5-90 cm, erect, slender, puberulent below the panicle. Sheaths usually densely and softly retrorsely pubescent to pilose, upper sheaths sometimes glabrous; auricles absent; ligules 2-3 mm, glabrous, obtuse, lacerate; blades to 16 cm long, 1-6 mm wide, both surfaces softly hairy. Panicles 5-20 cm long, 3-8 cm wide, open, lax, drooping distally, usually 1-sided; branches 1-4 cm, drooping, usually 1-sided and longer than the spikelets, usually at least 1 branch with 4-8 spikelets. Spikelets 10-20 mm, usually shorter than the panicle branches, sides parallel or diverging distally, moderately laterally compressed, often purplish-tinged, not densely crowded, with 4-8 florets. Glumes villous, pubescent, or glabrous, margins hyaline; lower glumes 4-9 mm, 1-veined; upper glumes 7-13 mm, 3-5-veined; lemmas 9-12 mm, lanceolate, glabrous or pubescent to pilose, 5-7-veined, rounded over the midvein, margins hyaline, often with some hairs longer than those on the backs, apices acuminate, hyaline, bifid, teeth 0.8-2(3) mm; awns 10-18 mm, straight, arising 1.5 mm or more below the lemma apices; anthers 0.5-1 mm. 2n = 14.</description>
+  <discussion>Bromus tectorum is a European species that is well established in the Flora region and other parts of the world. It grows in disturbed sites, such as overgrazed rangelands, fields, sand dunes, road verges, and waste places. In the southwestern United States, Bromus tectorum is considered a good source of spring feed for cattle, at least until the awns mature. It is highly competitive and dominates rapidly after fire, especially in sagebrush areas. The resulting dense, fine fuels permanently shorten the fire-return interval, further hindering reestablishment of native species. It now dominates large areas of the sagebrush ecosystem of the western Flora region.
+Specimens with glabrous spikelets have been called Bromus tectorum f. nudus (Klett & Richt.) H. St. John.  
+They occur throughout the range of the species, and are not known to have any other distinguishing characteristics. For this reason, they are not given formal recognition in this treatment.
+</discussion>
+</bio:treatment>

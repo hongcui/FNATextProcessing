@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>23</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aristida mohrii Nash </name_authority_date>
+  </taxon_identification>
+  <common_names>MOHR'S THREEAWN</common_names>
+  <description type="morphology">Plants perennial; cespitose, bases knotty. Culms 55-110 cm, erect, unbranched.  Leaves cauline; sheaths shorter or longer than the  internodes, glabrous, not disintegrating     at maturity; collars glabrous, or sparsely pilose at the sides; ligules about 0.2 mm; blades 5-25 cm long, 1-2 mm wide, flat or loosely folded, pale green, cauline leaves usually glabrous adaxially, innovation leaves pilose. Inflorescences spikelike racemes, 20-45 cm long, 1-2 cm wide; nodes glabrous, with only 1 spikelet. Spikelets solitary, not overlapping. Glumes 9-11 mm, equal or the lower glumes slightly longer than the upper, narrowly oblong, often slightly falcate, tan to brown, 1-veined; lower glumes occasionally with 1-2 faint lateral veins, awn-tipped, awns about 0.5 mm; upper glume awned, awns 1-2.5 mm; calluses 1-1.5 mm; lemmas 7-10 mm, brown, lead-colored, or purplish, not beaked, junction with the awns not evident; awns equally thick, not disarticulating at maturity; central awns 14-20 mm, slightly longer than the lateral awns, strongly curved basally, distal portion reflexed; lateral awns horizontal to  
+reflexed; anthers 3, about 4.5 mm, purplish. Caryopses 4-5 mm, chestnut-colored. 2n = unknown.
+</description>
+  <discussion>Aristida mohrii is endemic to the southeastern United States, growing on dry, sandy pinelands and oak barrens, and occasionally in waste places. It is some¬times confused with A. simpliciflora because both have reduced, spikelike inflorescences, but A. simpliciflora has lateral awns that are only about half as thick as the central awn, and its spikelets are borne in pairs.</discussion>
+</bio:treatment>

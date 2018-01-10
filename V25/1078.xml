@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>23</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Digitaria eriantha Steud. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; sometimes stoloniferous, stolons to 6 m, or cespitose, with or without rhizomes, rhizomes, if present, short, giving the plants knotty bases. Culms 35-140 cm, erect or decumbent, not rooting at the basal nodes. Basal sheaths glabrous or pubescent, often densely so, hairs 4-6 mm, papillose-based; ligules (1.8)3-5 mm, erose and ciliate; blades 5-40 cm long, 3-6 mm wide, scabridulous, often also papillose-hairy. Panicles with 3-15 spikelike primary branches, digitate or with rachises to 3 cm; primary branches 5-25 cm, wing-margined, wings wider than the midribs, bearing spikelets in unequally pedicellate pairs; shorter pedicels 0.5-1.5 mm; longer pedicels 1.5-3 mm. Spikelets homomorphic, 2.8-3.5 mm, narrowly lanceolate to narrowly elliptic. Lower glumes 0.3-0.5 mm, veinless, acute; upper glumes 1.7-1.9 mm, wooly pubescent; lower lemmas 2.5-3.5 mm, 7-veined, veins unequally spaced and smooth, occasionally the lateral veins scabridulous over the distal 1/4, margins and region between the 2 inner lateral veins appressed-pubescent, with 0.5-1.5 mm hairs; upper lemmas gray when immature, becoming brownish at maturity; anthers 1.2-1.6 mm, purple. 2n = 36.</description>
+  <discussion>Digitaria eriantha is an African species that is widely cultivated in warm climates as a pasture grass. Several cultivars have been released for forage and hay use. The appearance of the spikelets varies considerably with the length of the hairs, those of subsp. eriantha usually being longer than those of subsp. pentzii.
+The cultivar, 'Survenola' has been developed from Digitaria xumfolozi D.W. Hall, a hybrid between D. setivalva Stent [= D. eriantha subsp. eriantha] and D. decumbens Stent [= D. eriantha subsp. pentzii] and has been released for use in the tropics and on well-fertilized upland soils in Florida. It is described as having much wider leaf blades than any other cultivars that have been released so far (usually 10-13 mm wide, rather than usually less than 8 mm) and glabrous leaf sheaths.
+</discussion>
+  <key>
+    <key_body>
+1. Plants cespitose.....subsp. eriantha
+1. Plants stoloniferous.....subsp. pentzii
+
+    </key_body>
+  </key>
+</bio:treatment>

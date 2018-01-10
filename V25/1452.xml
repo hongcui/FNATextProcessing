@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum minus E. Fourn. </name_authority_date>
+  </taxon_identification>
+  <common_names>MATTED PASPALUM</common_names>
+  <description type="morphology">Plants perennial; shortly rhizomatous. Culms 3-60 cm, erect; nodes glabrous. Sheaths glabrous or pubescent; ligules 0.2-0.7 mm; blades 8-18 cm long, 2-7.1 mm wide, flat, glabrous or pubescent. Panicles terminal, usually composed of a digitate pair of branches, a third branch sometimes present below the terminal pair; branches 1.8-6.4 cm, diverging to erect; branch axes 0.5-1.3 mm wide, narrowly winged, glabrous, margins scabrous, terminating in a spikelet. Spikelets 1.9-2.3 mm long, 1.2-2 mm wide, solitary, appressed to the branch axes, broadly elliptic to ovate to obovate, glabrous, stramineous, apices obtuse. Lower glumes absent; upper glumes 3-veined, lower lemmas faintly 3-veined; upper florets stramineous. Caryopses 1.8-2.2 mm, white. 2n = 20, 40, 50.</description>
+  <discussion>Paspalum minus grows in disturbed areas and on the edges of forests. It grows from southern Texas to Florida in the Flora region; outside the region, it extends through Mexico and the West Indies to Peru, Bolivia, Brazil, and Paraguay.</discussion>
+</bio:treatment>

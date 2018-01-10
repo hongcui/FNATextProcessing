@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Surrey W.L. Jacobs</author>
+    </source>
+  </meta>
+  <number>14.48</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>AMPHIBROMUS Nees</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; cespitose, sometimes rhizomatous or stoloniferous. Culms to 180 cm, erect or geniculate. Sheaths open, lower sheaths often enclosing cleistogamous panicles with unawned spikelets having fewer florets and smaller anthers than the aerial spikelets; auricles absent; ligules elongate, membranous, becoming lacerate; blades flat or inrolled. Terminal inflorescences panicles, open to spikelike. Spikelets laterally compressed, with 2-10 florets, cleistogamous florets occasionally intermixed with the chasmogamous florets, distal florets often reduced, staminate; rachillas pubescent, prolonged beyond the base of the most distal pistillate floret, empty or terminating in a reduced floret; disarticulation above the glumes, beneath the florets. Glumes subequal to unequal, shorter than the adjacent lemmas, ovate to lanceolate, scarious, acute to obtuse, often erose, unawned; lower glumes shorter and narrower than the upper glumes, 1-5-veined; upper glumes 3-7-veined; calluses blunt, pubescent; lemmas chartaceous, smooth or scabrous, with 5-9 prominent veins, awned, apices with 2-4 teeth or lobes, outer lobes often smaller than the inner lobes, all lobes aristate to obtuse, awns arising from below midlength to near the apices, sometimes straight when young, geniculate at maturity, spreading or recurved; paleas subequal to or much shorter than the lemmas, bilobed; lodicules 2, free, glabrous, not lobed; anthers 3; ovaries glabrous. Caryopses shorter than the lemmas, concealed at maturity, terete, apices often with a few hairs; hila to 1/2 the length of the caryopses. x = unknown.</description>
+  <discussion>Amphibromus is a genus of 12 species, two native to South America, one to both New Zealand and Australia, and the remainder endemic to Australia; two have been introduced into the Flora region. Most species grow in open, damp habitats such as floodplains and other areas that are periodically flooded, and on the banks of, and sometimes in, inland and coastal rivers, marshes, lagoons, waterholes, and swamps.
+Cleistogamy is common in Amphibromus. Cleistogamous spikelets in the terminal panicles resemble the chasmogamous spikelets, but have smaller anthers; those in the lower leaf sheaths are unawned. Plants usually flower in response to rain or flooding.
+</discussion>
+  <references>Calaway, M.L. and J.W. Thieret. 1985. Amphibromus scabrivalvis (Gramineae) in Louisiana. Sida 11:207-214; Jacobs, S.W.L. and L. Lapinpuio. 1986. The Australian species of Amphibromus (Poaceae). Telopea 2:715-729; Nees von Esenbeck, C.G. 1843. Gramina Nova: Hollandiae, prassertim Insula; Van Diemen, collections Lindleyana;, a v. cl. Drummond, Gunn, aliisque collecta. London J. Bot. 2:409-420; Swallen, J.R. 1931. The grass genus Amphibromus. Amer. J. Bot. 18:411-415.</references>
+  <key>
+    <key_body>
+1. Pedicels absent or to 10 mm long; lowest internodes usually swollen; awns 8-17 mm long .....1. A. scabrivalvis 
+1. Pedicels usually longer than 10 mm; lowest internodes not swollen; awns 12-26 mm long.
+2. Awns arising from the lower 2/5 – 3/5 of the lemmas; lemma apices not appearing constricted  ..........2. A. nervosus
+2. Awns arising from the upper 2/3 - 3/4 of the lemmas; lemma apices appearing constricted.....3. A. neesii
+ 
+
+    </key_body>
+  </key>
+</bio:treatment>

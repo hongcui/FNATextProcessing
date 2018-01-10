@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Saccharum spontaneum L. </name_authority_date>
+  </taxon_identification>
+  <common_names>WILD SUGARCANE</common_names>
+  <description type="morphology">Plants with long rhizomes. Culms 2-4 m tall, 0.6-2 cm thick, solitary or few together. Sheaths usually glabrous; ligules 1.5-3 mm; blades 50-100 cm long, 10-25 mm wide, usually glabrous, markedly hirsute above the ligules. Peduncles pilose; panicles 40-70 cm, narrowly oblong to widely ovate, rachises 25-50 cm, densely pilose; primary branches 2.5-7 cm. Sessile spikelets 3.5-7 mm. Callus hairs to 12 mm; glumes glabrous over the back, ciliate toward the tip; lower lemmas about 3 mm; upper lemmas subequal to the lower lemmas, entire; awns absent; anthers 3. Pedicels 1.5-3 mm, ciliate. Pedicellate spikelets similar to the sessile spikelets. 2n = 20, 24-30, 32, 36, 38, 40, 48-60, 64, 69.</description>
+  <discussion>Saccharum spontaneum is a weedy species, native to tropical Africa and Asia, that is now established in Mesoamerica but not, so far as is known, in the Flora region. It is listed as a noxious weed by the U.S. Department of Agriculture, but it is grown in breeding programs as a source of potentially useful genes for S. officinarum (sugar cane), with which it readily hybridizes. Because of the potential economic damage of uncontrolled hybridization between S. spontaneum and S. officinarum, the U.S. Department of Agriculture should be notified of plants found growing outside a controlled planting.</discussion>
+</bio:treatment>

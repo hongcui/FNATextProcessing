@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Glyceria melicaria (Michx.) F.T. Hubb. </name_authority_date>
+  </taxon_identification>
+  <common_names>MELIC MANNAGRASS, GLYCERIE MELICAIRE</common_names>
+  <description type="morphology">Plants perennial. Culms 50-100 cm tall, 3-5 mm thick, erect. Sheaths smooth, not or only weakly keeled; ligules 0.2-0.9 mm, translucent, rounded to truncate; blades 25-40 cm long, 2-7 mm wide, abaxial surfaces smooth, adaxial surfaces scabridulous. Panicles 15-25 cm long, 0.8-1.5 cm wide, linear, nodding; branches 5-9 cm, appressed, scarcely surpassing the node above, with 30-60+ spikelets; pedicels 0.5-2 mm. Spikelets 3.5-5 mm long, 1-2.5 mm wide, laterally compressed, oval in side view, with 3-4 florets. Glumes lanceolate, veins terminating below the apices, apices acute; lower glumes 1.3-2.4 mm; upper glumes 1.7-3 mm; rachilla internodes 0.4-0.6 mm; lemmas 1.9-2.8 mm, smooth or scabridulous, 5-7-veined, veins raised, apices acute, prow-shaped; paleas slightly shorter to slightly longer than the lemmas, lengths 2.5-4 times widths, keels well developed, not winged, tips incurved, narrowly notched between the keels; anthers 2, 0.3-0.5 mm. Caryopses 1-1.5 mm; hila subequal to the caryopses. 2n = 40.</description>
+  <discussion>Glyceria melicaria grows in swamps and wet soils. Its range extends from southeastern Ontario east to Nova Scotia, south to Illinois and the northeastern United States and, in the Appalachian Mountains, to northern Georgia. Glyceria xgatineauensis Bowden is a sterile hybrid between G. melicaria and G. striata. For further comments, see p. 77.</discussion>
+</bio:treatment>

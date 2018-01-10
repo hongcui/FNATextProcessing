@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>18</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Melica ciliata L. </name_authority_date>
+  </taxon_identification>
+  <common_names>CILIATE MELIC, SILKY-SPIKE MELIC, HAIRY MELIC</common_names>
+  <description type="morphology">Plants cespitose, sometimes shortly rhizomatous. Culms 20-60(100) cm, not forming corms. Sheaths glabrous or shortly and sparsely pubescent; ligules 1-4 mm; blades 7-15 cm long, 1-4 mm wide, usually involute. Panicles 4-8(25) cm, narrowly cylindrical, lax, pale; branches 1.5-4 cm, appressed to ascending, with 3-12(15) spikelets; pedicels sharply bent below the spikelets; disarticulation below the glumes. Spikelets 6-8 mm, with 1 bisexual floret, sometimes purple-tinged. Lower glumes 4-6 mm long, 1.5-2.5 mm wide, ovate, 1-5-veined, acute; upper glumes 6-8 mm long, about 1.5 mm wide, lanceolate, acute to acuminate; lemmas 4-6.5 mm, lanceolate, 7-9-veined, papillose, margins and marginal veins pubescent, hairs 3.5-5 mm, not twisted; rudiments 1-1.7 mm, ovoid, not resembling the bisexual florets. 2n =18, 36.</description>
+  <discussion>Melica ciliata is grown as an ornamental in North America and is not known to have escaped. It is native to Europe, northern Africa, and southwestern Asia, where it grows on damp to somewhat dry soils.</discussion>
+</bio:treatment>

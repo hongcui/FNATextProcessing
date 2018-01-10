@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Festuca rubra subsp. arenaria (Osbeck) F. Aresch.</name_authority_date>
+  </taxon_identification>
+  <common_names>FÉTUQUE ROUGE DES SABLES</common_names>
+  <description type="morphology">Plants strongly rhizomatous, usually loosely cespitose, with several culms arising from the same tuft. Culms  
+(10)30-60 cm. Sheaths pubescent, shredding into fibers, cauline leaf sheaths tightly enclosing the culms; vegetative shoot blades 0.8-1(1.5) mm in diameter, conduplicate, veins (5)7-9(13), ribs (3)5-7(9), abaxial surfaces smooth or scabrous, green or glaucous, adaxial surfaces scabrous or pubescent; cauline blades (1)5-15(20) cm, conduplicate or flat; abaxial sclerenchyma in 5-7(9) broad strands, often confluent, sometimes forming a continuous band; adaxial sclerenchyma strands usually present. Inflorescences (5.5)7-15(16) cm, open, lanceolate, usually completely exserted from the uppermost leaf sheaths; branches scabrous. Spikelets (7)9-10(13) mm, with (4)6-8(9) florets. Glumes ovate-lanceolate, acute; lower glumes 3-6(6.5) mm; upper glumes (3.5)4-6.5(8.5) mm; lemmas 6-8(9.5) mm, lanceolate, green, sometimes glaucous, glabrous or villous, apices acute to acuminate, awned, awns (0.5)1-2(3) mm; anthers 2.6-4.5 mm. 2n = 56.
+</description>
+  <discussion>Festuca rubra subsp. arenaria is a European taxon that grows in maritime sands and gravels. It is known in the Flora region only from one specimen collected on Vancouver Island; it is not known to have persisted. The description is based on the range of variation seen in Europe. In the Flora region, the name has long been misapplied to F. richardsonii Hook. [= F. rubra subsp. arctica], which also has hairy lemmas.</discussion>
+</bio:treatment>

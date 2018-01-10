@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date></name_authority_date>
+  </taxon_identification>
+  <description type="morphology"></description>
+  <key>
+    <key_heading>POEAE SUBKEY II</key_heading>
+    <key_discussion>Synoecious, monoecious, or dioecious grasses with spikelets having 2-22 sexual florets, the lower florets sexual, the distal florets sometimes sterile.</key_discussion>
+    <key_body>
+1. One or both glumes exceeding the adjacent lemmas, sometimes exceeding the distal floret. 
+2. All lemmas within a spikelet unawned or with awns shorter than 2 mm.
+3. Spikelets usually with 2 florets, lemmas of the lower florets unawned, lemmas of the upper florets awned, the awns strongly curved or hooked .....14.53 Holcus (in part)
+3. Spikelets with 2-22 florets, all lemmas unawned or if awned, the awns straight.
+4. Leaf sheaths closed for at least 1/2 their length; caryopses falling free of the lemma and palea; plants of arctic or subarctic regions.
+5. Lemma apices obtuse; paleas subequal to the lemmas  .....14.17 Arctophila (in part)
+5. Lemma apices acute to acuminate; paleas shorter than the lemmas.....14.15 Dupontia (in part)
+4. Leaf sheaths open for most of their length; caryopses usually falling with the lemma and palea attached; plants of temperate, arctic, or subarctic regions.
+6. Glumes 15-50 mm long; plants annual.....14.52 Avena (in part)
+6. Glumes 0.4-9 mm long; plants annual or perennial.
+7. Lemmas inflated, about as wide as long, with broadly rounded backs; calluses glabrous; spikelets pendulous    .....14.21 Briza (in part)
+7. Lemmas not inflated, longer than wide, keeled to rounded over the midvein; calluses usually with hairs, sometimes glabrous; spikelets not pendulous.
+8. Plants annual; spikelets with 2 florets; lemmas evenly hairy, 3-veined  .....14.46 Dissanthelium 
+8. Plants usually perennial, sometimes annual; spikelets with 2-10 florets; lemmas usually glabrous or with unevenly distributed hairs, never both annual and with evenly distributed hairs, 3-9-veined. 
+9. Rachilla internodes hairy, hairs at least 1 mm long.
+10. Lemma apices truncate, erose to 2-4-toothed  .....14.26 Deschampsia (in part)
+10. Lemmas apices acute, bifid .....14.56 Trisetum (in part)
+9. Rachilla internodes glabrous or with hairs shorter than 1 mm on the distal portion.
+11. Plants strongly rhizomatous; glumes 5-9 mm long   .....14.51 Scolochloa (in part)
+11. Plants not or weakly rhizomatous; glumes 0.4-9 mm long.
+12. Panicle branches densely pubescent, hairs 0.1-0.2 mm long; lemma apices entire, sometimes mucronate;  lemma  veins converging distally .....14.57 Koeleria (in part)
+12. Panicles branches glabrous, sometimes scabrous; lemma apices entire or serrate to erose, not mucronate; lemma veins more or less parallel distally .....14.06 Puccinellia (in part)
+2. One or all lemmas within a spikelet awned, the awns at least 2 mm long.
+13. Lemmas 14-40 mm long; glumes 7-11-veined  .....14.52 Avena
+13. Lemmas 1.3-16 mm long; glumes 1-9-veined. 
+14. Lemmas 7-16 mm long.
+15. Adaxial surfaces of the leaves ribbed; rachillas pilose on all sides; ligules truncate to rounded, 0.5-1.5 mm long .....14.47 Helictotrichon (in part)
+15. Adaxial surfaces of the leaves unribbed; rachillas glabrous on the side adjacent to the paleas, hairy elsewhere; ligules acute to truncate, 0.5-7 mm long .....14.45 Avenula (in part)
+14. Lemmas 1.3-7 mm long.
+16. Lemmas 1-veined, awned, awns articulated near the middle, the proximal segment yellow-brown to dark brown, the distal segment pale green to whitish, the junction marked by a ring of minute, conical protuberances .....14.55 Corynephorus
+16. Lemmas 3-7-veined, at least some lemmas awned, awns not articulated.
+ 
+17. Disarticulation below the glumes.
+18. Spikelets usually with 2 florets, the lower florets bisexual with unawned lemmas, the upper florets staminate or sterile with awned lemmas  .....14.53 Holcus (in part)
+18. Spikelets with 2-5 florets, all florets bisexual or sometimes the distal florets sterile; all lemmas awned.....14.56 Trisetum (in part)
+17. Disarticulation above the glumes.
+19. Lowest lemma within a spikelet unawned or with a straight awn up to 4 mm long, the distal lemmas within a spikelet always awned, awns 10-16 mm long, geniculate .....14.36 Ventenata (in part)
+19. All lemmas within a spikelet similarly awned or the awns of the lower lemmas longer than those of the upper lemmas, or the upper lemmas with awns shorter than 10 mm.
+20. Callus hairs about 1/2 as long as the lemmas; rachillas not prolonged or prolonged about 0.5 mm or less beyond the base of the distal floret; plants loosely cespitose .....14.41 Vahlodea
+20. Calluses usually glabrous or the hairs much shorter than 1/2 the length of the lemmas, if about 1/2 as long, the rachillas prolonged more than 0.5 mm beyond the base of the distal floret and the plants usually densely cespitose. 
+21. Plants annual; culms 1-60 cm tall; rachillas not prolonged beyond the base of the distal florets .....14.22 Aira (in part)
+21. Plants perennial or annual; culms 5-150 cm tall; rachillas prolonged beyond the base of the distal florets, the prolongations hairy.
+22. Rachilla internodes glabrous or with hairs shorter than 1 mm on the distal portion; panicle branches densely pubescent, not scabrous .....14.57 Koeleria (in part)
+22. Rachilla internodes hairy, hairs at least 1 mm long; panicles branches usually glabrous, sometimes scabrous. 
+23. Lemma apices truncate, erose or 2-4-toothed .....14.26 Deschampsia (in part)
+23. Lemmas apices acute, bifid   .....14.56 Trisetum (in part)
+1. Both glumes shorter than or subequal to the adjacent lemmas.
+24. Upper lemma(s) in a spikelet with hooked or geniculate awns, awns 2-16 mm long; lowest  lemmas unawned or terminally awned, awns straight, to 4 mm long. 
+25. Spikelets 9-15 mm long, with 2-20 florets; awns of the distal florets 10-16 mm long .....14.36 Ventenata (in part)
+25. Spikelets 3-7 mm long, with 2 florets; awns of the distal floret 2-5 mm long .....14.53 Holcus (in part) 
+24. Lemmas all similarly awned or unawned.
+26. Lower lemmas with awns longer than 2 mm.
+27. Calluses hairy; rachillas prolonged beyond the base of the distal florets.
+28. Glumes shorter than the adjacent lemmas; ligules 4.5-20 mm long   .....14.48 Amphibromus
+28. Glumes subequal to the adjacent lemmas; ligules 0.5-6 mm long .....14.56 Trisetum (in part)
+27. Calluses glabrous or sparsely hairy; rachillas sometimes prolonged beyond the base of the distal florets.
+29. Panicles dense, spikelike; plants annual.....14.59 Rostraria (in part)
+29. Panicles not both dense and spikelike; plants perennial or annual.
+30. Anthers 1; plants annual.....14.04 Vulpia (in part)
+30. Anthers 3; plants perennial.
+31. Leaves without auricles; blades flat, conduplicate, involute, or convolute .....14.01 Festuca (in part)
+31. Lower leaves with auricles; blades flat   .....14.03 Schedonorus (in part)
+26. Lower lemmas unawned, mucronate, or with awns up to 2 mm long.
+32. Lemmas inflated, about as wide as long; spikelets pendulous   .....14.21 Briza (in part)
+ 
+32. Lemmas not inflated, longer than wide; spikelets appressed to divergent, not pendulous. 
+33. Lemmas apices rounded, truncate, obtuse, or emarginate.
+34. Lemmas conspicuously 3-veined; lower glumes 0-3-veined.
+35. Lower glumes without veins; lemmas not keeled over the lateral veins .....14.19 Catabrosa
+35. Lower glumes 1-3-veined; lemmas keeled over each vein .....14.20 Cutandia (in part)
+34. Lemmas (3)5-9-veined, the veins often inconspicuous; lower glumes 1-5-veined.
+36. Inflorescences usually exceeded by the leaves; lemmas indurate at maturity; pedicels 0.5-0.8 mm thick; culms usually prostrate to procumbent,  sometimes  ascending;  upper glumes 2.6-6.2  mm long .....14.09 Sclerochloa (in part)
+36. Inflorescences exceeding the leaves at maturity; lemmas usually membranous at maturity, sometimes coriaceous; pedicels less than 0.5 mm thick; culms usually erect; upper glumes 0.7-4.5(9) mm long. 
+37. Lower glumes about as long as the upper glumes but no more than 1/2 as wide; disarticulation below the glumes .....14.25 Sphenopholis (in part)
+37. Lower glumes shorter than the upper glumes or subequal and more than 1/2 as wide; disarticulation above the glumes.
+38. Sheaths closed for more than 1/2 their length.....14.17 Arctophila (in part)
+38. Sheaths open their entire length.
+39. Panicle branches stiff; lemmas coriaceous; plants annual; culms to 60 cm tall ..... 14.35 Desmazeria (in part)
+39. Panicle branches flexible; lemmas usually membranous, sometimes coriaceous; plants usually perennial, sometimes annual or biennial; culms 2-145 cm tall.
+40. Lemma veins excurrent, lemma apices indistinctly 3-lobed or toothed; plants strongly rhizomatous, rhizomes succulent .....14.51 Scolochloa (in part)
+40. Lemma veins not excurrent, lemma apices entire, serrate, or erose; plants sometimes rhizomatous, rhizomes not succulent. 
+41. Lemma veins  (5)7-9, prominent; plants  of non-saline and non-alkaline habitats .....14.18 Torreyochloa (in part)
+41. Lemma veins (3)5(7), inconspicuous or prominent; plants of saline and alkaline habitats .....14.06 Puccinellia (in part)
+33. Lemma apices acute to acuminate, sometimes mucronate or shortly awn-tipped.
+42. Lemmas (3)5-9-veined, veins more or less parallel distally, conspicuous. 
+43. Lemma veins (5)7-9; plants rhizomatous, growing in non-saline and non-alkaline habitats  .....14.18 Torreyochloa (in part)
+43. Lemma veins (3)5(7); plants not truly rhizomatous, sometimes the culms rooting at buried lower nodes, growing in saline and alkaline habitats .....14.06 Puccinellia (in part)
+42. Lemmas 3-9-veined, veins converging distally, usually inconspicuous, sometimes conspicuous.
+44. Lemmas conspicuously 3-veined, keeled over each vein; panicle branches divaricate; plants annual .....14.20 Cutandia (in part)
+ 
+44. Lemmas inconspicuously (3)5-9-veined, sometimes keeled over the midvein, not over the other veins; panicle branches divaricate or not; plants annual or perennial. 
+45. Disarticulation below the glumes; lower glumes subequal to the upper glumes but no more than 1/2 as wide  .....14.25 Sphenopholis (in part)
+45. Disarticulation above the glumes, sometimes above the basal floret; lower glumes shorter than the upper glumes or, if subequal, more than 1/2 as wide.
+46. Panicle branches smooth, hairy, hairs soft   .....14.57 Koeleria (in part)
+46. Panicle branches smooth or scabrous, glabrous or strigose, never covered with soft hairs. 
+47. Rachillas pilose, hairs at least 2 mm long (see Stipeae, p. 110) .....10.01 Ampelodesmos
+47. Rachillas glabrous or with hairs shorter than 1 mm.
+48. Basal leaves with auricles   .....14.03 Schedonorus (in part)
+48. No leaves with auricles.
+49. Lemma veins parallel distally; plants of saline and alkaline habitats ..... 14.06 Puccinellia (in part)
+49. Lemma veins converging distally; plants of many habitats, including saline habitats.
+50. Leaf blades with translucent lines on either side of the midvein, apices often prow-tipped; lemmas often with a tuft of hair at the base of the midvein; hila round to oval .....14.13 Poa (in part)
+50. Leaf blades without translucent lines on either side of the midvein, apices not prow-tipped, often flat; lemmas without a tuft of hair below the midvein hila usually linear, always linear in perennial species. 
+51. Plants perennial.
+52. Plants and florets bisexual; glumes not translucent; caryopses obovoid-oblong   .....14.01 Festuca (in part)
+52. Plants unisexual; glumes translucent; caryopses fusiform.....14.02 Leucopoa
+51. Plants annual.
+53. Ligules up to 1 mm long; lemma apices mucronate or awned  .....14.04 Vulpia (in part)
+53. Ligules 1-4  mm long; lemma apices never awned,  sometimes mucronate.
+54. Panicle branches up to 2 cm long, stiff, spikelet-bearing to the base; culms procumbent to erect   .....14.35 Desmazeria (in part)
+54. Panicles branches 2-10 cm long, flexible, spikelets confined to the distal portion; culms erect  .....14.24 Eremopoa
+
+    </key_body>
+  </key>
+</bio:treatment>

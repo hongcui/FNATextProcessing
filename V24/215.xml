@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Hesperostipa comata (Trin. & Rupr.) Barkworth subsp. comata </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Lower cauline nodes usually concealed by the sheaths. Panicles often partially included in the uppermost sheath at maturity. Awns 75-225 mm, terminal segment 40-120 mm, sinuous to curled. 2n = 38, 44, 46.</description>
+  <discussion>Hesperostipa comata subsp. comata grows on well-drained soils of cool deserts, grasslands, and sagebrush associations, at elevations of 200-2500 m. It is widespread and often abundant in western and central North America, particularly in disturbed areas. It is similar to H. neomexicana, differing primarily in having awns that are either not hairy or have hairs that are no more than 0.5 mm long, and in having thinner, longer ligules. Intermediates to H. neomexicana exist but are not common.
+Hesperostipa comata subsp. intermedia is found in pinyon-juniper woodlands, at elevations of 2175-3075 m, in the Sierra Nevada and Rocky Mountains, from southern Canada to New Mexico. It resembles H. curtiseta, but differs in its evenly pubescent lemmas and its often lacerate ligules.</discussion>
+</bio:treatment>

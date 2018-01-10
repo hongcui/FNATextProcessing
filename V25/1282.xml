@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Panicum sect. Obtusa (Hitchc.) Pilg.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; rhizomatous or stoloniferous. Culms wiry; nodes swollen, villous (especially on the stolons). Ligules membranous, papery. Panicles contracted; branches spikelike, appressed, 1-sided; pedicels 0.1-2.5 mm. Spikelets ellipsoid, paired. Lower glumes 3/4 - 4/5 as long as the spikelets, 5-7-veined; upper glumes and lower lemmas 7-11-veined, blunt; lower florets stami-nate; lower paleas large; upper florets large, with tiny hairs near the bases and apices, x = 10. </description>
+  <discussion>Panicum sect. Obtusa includes only Panicum obtusum.</discussion>
+</bio:treatment>

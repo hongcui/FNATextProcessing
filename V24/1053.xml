@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>John W. Thieretf</author>
+    </source>
+  </meta>
+  <number>14.55</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>CORYNEPHORUS P. Beauv.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial. Culms to 60 cm, erect. Sheaths open; auricles absent; ligules membranous; blades flat or involute. Inflorescences terminal panicles. Spikelets pedicellate, laterally compressed, with 2 bisexual florets; rachillas prolonged beyond the base of the distal floret, pilose; disarticulation above the glumes, beneath the florets. Glumes subequal, exceeding the florets, lanceolate, membranous, acute, unawned; lower glumes 1-veined; upper glumes 3-veined at the base; calluses pilose; lemmas about 1/2 as long as the glumes, ovate-lanceolate,
+ 
+ 
+membranous, 1-veined, acute, awned from just above the base, awns geniculate, articulated near the middle, with a ring of minute, conical protuberances near the joint, proximal segment yellow-brown to dark brown, smooth, thicker than the distal segment, distal segment pale green to whitish, clavate; paleas shorter than the lemmas, membranous; lodicules 2, free, glabrous, toothed; anthers 3; ovaries glabrous. Caryopses shorter than the lemmas, concealed at maturity, usually adhering to the lemmas and/or paleas, longitudinally grooved. x = 7.</description>
+  <discussion>Corynephorus is a Eurasian and North African genus of five species, one of which has been introduced into the Flora region. Flowering specimens are easily recognized by their distinctive awns, but sterile plants, with their involute, glaucous leaves, resemble involute-leaved species of Festuca, such as F. trachyphylla.</discussion>
+  <references>Albers, F. 1973. Cytosystematische Untersuchungen in der Subtribus Descbampsiineae Holub (Tribus Aveneae Nees): I. Zwei Arten der Gattung Corynephorus P.B. Preslia 45:11-18; Douglas, G.W., G.B. Straley, and D.V. Meidinger (eds) 1994. The Vascular Plants of British Columbia: Part 4-Monocotyledons. Research Branch, Ministry of Forests, Victoria, British Columbia, Canada. 257 pp.; Jirasek, V. and J. Chrtek. 1962. Systematische Studie über die Arten der Gattung Corynephorus Pal.-Beauv. (Poaceae). Preslia 34:374-386.
+ 
+</references>
+</bio:treatment>

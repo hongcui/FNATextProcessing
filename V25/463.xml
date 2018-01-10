@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Pappophorum vaginatum Buckley </name_authority_date>
+  </taxon_identification>
+  <common_names>WHIPLASH PAPPUSGRASS</common_names>
+  <description type="morphology">Culms (40)50-100 cm. Sheaths mostly glabrous, with a tuft of hairs at the throat; blades 10-25 cm long, 2-5 mm wide, flat to involute, adaxial surfaces scabridulous. Panicles 10-25 cm, tightly contracted, usually white or tawny, rarely slightly purple-tinged. Spikelets with 1(2) bisexual florets and 2 reduced florets. Glumes (3)4-4.5 mm, glabrous, acute; lowest lemma bodies 3-3.2 mm, midveins and margins pubescent from the base to about midlength, awns about twice as long as the lemma bodies, tending to spread at right angles when mature; paleas longer than the lemma bodies. 2n = 60.</description>
+  <discussion>Pappophorum vaginatum grows in similar habitats to P. bicolor, the two species sometimes growing together. Its range extends from southern Arizona to Texas and northern Mexico and from Uruguay to Argentina.</discussion>
+</bio:treatment>

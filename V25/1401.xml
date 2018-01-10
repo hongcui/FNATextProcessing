@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Setaria texana Emery </name_authority_date>
+  </taxon_identification>
+  <common_names>TEXAS BRISTLEGRASS</common_names>
+  <description type="morphology">Plants perennial. Culms 30-70 cm, wiry, much branched distally. Sheaths keeled, margins ciliate distally; collars glabrate; ligules to 1 mm, densely ciliate; blades 5-15 cm long, 2-4 mm wide, flat, scabrous. Panicles 2-6 cm, spikelike, basal portion rarely lobed, tapering distally; rachises scabrous to puberulent; bristles solitary, 3-10 mm. Spikelets 1.9-2.1 mm. Lower glumes about 1/2 as long as the spikelets, 3-veined; upper glumes about 3/4 as long as the spikelets, 5-veined; lower lemmas nearly equaling the upper lemmas, 5-veined; lower paleas rudimentary to 1/2 as long as the upper paleas; upper lemmas finely and transversely rugose; upper paleas narrow. 2n = 36.</description>
+  <discussion>Setaria texana grows in shaded habitats on sandy loam soils of the Rio Grande plain of south Texas and northeastern Mexico.</discussion>
+</bio:treatment>

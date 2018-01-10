@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Tripsacum sect. Fasciculata Hitchc.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Staminate spikelets in sessile-pedicellate pairs, the pedicels slender and relatively flexible.</description>
+</bio:treatment>

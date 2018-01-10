@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Panicum rigidulum subsp. abscissum (Swallen) Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants yellowish-green. Culms compressed, densely cespitose. Sheaths strongly keeled, 3-6 mm wide from the keel to the margins, truncate or broadly auriculate, occasionally ciliate distally; ligules minute, membranous; blades 0.7-1.5 mm wide from the blunt keel to the margins, to 2.5 mm wide overall, thick, curved or flexuous, rigid, glabrous or scabridulous on both surfaces and along the margins, bases much narrower than the subtending sheaths, margins often sparsely ciliate, with long, slender hairs near the base. Panicles slender, purplish, long-exserted; branches few, appressed or ascending, with relatively few spikelets. Spikelets 2.4-2.8(3) mm, purplish, glabrous, obliquely set on the pedicels, mostly abortive. Lower glumes 1.6-2 mm, often divergent; upper glumes and lower lemmas subequal, often spreading apart.</description>
+  <discussion>Fanicum rigidulum subsp. abscissum is endemic to central Florida. It usually grows in marshy, sandy ground, but is occasionally found in dry, sandy sites (e.g., the type specimen, collected near Lake Sebring).
+Fanicum rigidulum subsp. abscissum is very similar vegetatively and reproductively to subsp. pubescens and subsp. combsii. In addition, its spikelets also suggest those of P. virgatum.
+</discussion>
+</bio:treatment>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Stephen N. Stephenson </author>
+      <author>Jeffery M. Saarela</author>
+    </source>
+  </meta>
+  <number>6.01</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>BRACHYELYTRUM P. Beauv.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; rhizomatous, rhizomes knotty. Culms 28-102 cm, erect, not branched above the bases; internodes solid; nodes glabrous or retrorsely pubescent. Leaves mostly cauline; sheaths open; auricles absent; ligules membranous; lower leaf blades absent or reduced; upper leaf blades flat, tapering both basally and apically. Inflorescences terminal panicles, contracted; branches appressed, with 1-3(5) spikelets. Spikelets pedicellate, terete to dorsally compressed, with 1 floret; rachillas prolonged beyond the floret base, glabrous; disarticulation above the glumes, beneath the floret. Glumes 1 or 2; lower glumes 0.1-1.1 mm, sometimes absent; upper glumes 0.2-7 mm, clearly exceeded by the florets; florets 8-12 mm; calluses about 0.8 mm, blunt, with hairs; lemmas membranous to coriaceous, scabrous, enclosing the paleas, 5-veined, tapering, awned, awns terminal, lemma-awn transition gradual; awns 9.5-32.5 mm, longer than the lemma bodies, straight, scabrous; paleas subequal to the lemmas, 2-veined; lodicules 2, veined; anthers 3, yellow; styles 2, bases free, white. Caryopses linear, longitudinally grooved, apices beaked, pubescent; hila linear, x = 11. Name from the Greek brachys, 'short', and elytron, 'husk' or 'involucre', a reference to the short glumes.</description>
+  <discussion>Brachyelytrum includes three species, two native to eastern North American and one to eastern Asia (Saarela et al. 2003). The ranges of the two North American species overlap but, although they often grow closely together, neither mixed populations nor apparent hybrids have been found (Stephenson 1971; Saarela et al. 2003). Saarela et al. (2003) were unable to detect any differences in the ecological preferences of the two North American taxa.</discussion>
+  <references>Campbell, C.S., P.E. Garwood and L.P. Specht. 1986. Bambusoid affinities of the north temperate genus Brachyelytrum (Gramineae). Bull. Torrey Bot. Club 113:135-141; Koyama, T. and S. Kawano. 1964. Criticn.l taxa of grasses with North American and eastern Asiatic distribution. Canad. J. Bot. 42:859-884; Saarela, J.M., P.M. Peterson, R.J. Soreng, and R.E. Chapman. 2003. A taxonomic revision of the eastern North American and eastern Asian disjunct genus Brachyelytrum (Poaceae): Evidence from morphology, phytogeography and AFLPs. Syst. Bot. 28:674-692; Stephenson, S.N. 1971. The biosystematics and ecology of the genus Brachyelytrum (Gramineae) in Michigan. Michigan Bot. 10:19-33.</references>
+  <key>
+    <key_body>
+1. Lemmas hispid, hairs 0.2-0.9 mm long, visible at lOx magnification; anthers 3.5-6 mm long; awns 13-17(20) mm long  .....1. B. erectum
+1. Lemmas scabrous, scabrules 0.08-0.14(0.2) mm long; anthers 2-3.5 mm long; awns (14)17-24(26) mm long .....2. B. aristosum
+    </key_body>
+  </key>
+</bio:treatment>

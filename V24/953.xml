@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Gastridium phleoides (Nees & Meyen) C.E. Hubb. </name_authority_date>
+  </taxon_identification>
+  <common_names>NIT GRASS</common_names>
+  <description type="morphology">Culms 7-70 cm; nodes 3-5, glabrous, darkened. Sheaths 0.6-10.5 cm, smooth or scabridulous and minutely papillose; ligules 1-7 mm, veined, erose to lacerate, scabridulous and minutely papillose; blades (0.8) 1.5-20 cm long, (0.4)1.5-6 mm wide, antrorsely scabridulous, glabrous. Panicles (1.1)2-16.5 cm long, (1.5)3-37 mm wide; rachises glabrous; branches to 3.4 cm, appressed to ascending, antrorsely scabridulous, pedicels with enlarged apices. Rachilla prolongations 0.3-0.6 mm, densely pubescent. Glumes scabridulous and papillose proximally, scabriduous to scabrous distally, keels scabrous, margins hyaline; lower glumes 3-7 mm; upper glumes 2.7-5.5 mm; lemmas 1-1.5 mm, appressed-pubescent, unawned or awned, awns to 6 mm, twisted; paleas 1-1.3 mm, glabrous; anthers 0.5-0.9 mm, yellow-orange or purple. Caryopses 0.8-1 mm long, 0.4-0.5 mm wide, glabrous. 2n = 14.</description>
+  <discussion>Native to southwest Asia and northeast Africa, Gastridium phleoides now grows in Australia, South Africa, North America, and South America, in dry, often disturbed areas. In the Flora region, it is established in Oregon and California; it has also been collected, but may not be established, in southwestern British Columbia, Arizona, western Texas (county unknown; US 843557, Texas, 1884, Nealley s.n.), Massachusetts, and South Carolina.
+In North America, Gastridium phleoides has been mistakenly placed in G. ventricosum (Gouan) Schinz & Thell. It differs from that species in having densely pubescent lemmas and well-developed, densely pubescent rachilla prolongations.
+ 
+</discussion>
+</bio:treatment>

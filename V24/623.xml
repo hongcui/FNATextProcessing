@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>37</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca occidentalis Hook. </name_authority_date>
+  </taxon_identification>
+  <common_names>WESTERN FESCUE</common_names>
+  <description type="morphology">Plants densely to loosely ces¬pitose, without rhizomes. Culms (25)40-80(110) cm, glabrous, smooth. Sheaths closed for much less than 1/2 their length, glabrous, somewhat persistent or slowly shredding into fibers; collars glabrous; ligules 0.1-0.4 mm, usually longer at the sides; blades all alike, 0.3-0.7 mm in diameter, conduplicate, abaxial surfaces smooth or scabridulous, veins (3)5, ribs 1-5; abaxial sclerenchyma in 5-7 narrow strands, about as wide as the adjacent veins; adaxial sclerenchyma absent. Inflorescences (5)10-20 cm, open, with 1-2 branches per node; branches 1-15 cm, lax, widely spreading to reflexed, lower branches usually reflexed at maturity, with 2+ spikelets. Spikelets 6-12 mm, with 3-6(7) florets. Glumes exceeded by the upper florets, ovate to ovate-lanceolate, glabrous and smooth or slightly scabrous; lower glumes 2-5 mm; upper glumes 3-6 mm; lemmas (4)4.5-6.5(8) mm, ovate-lanceolate to attenuate, glabrous or finely puberulent, awns 3-12 mm, usually longer than the lemma bodies; paleas slightly shorter than the lemmas, intercostal region scabrous or puberulent distally; anthers (1)1.5-2(3) mm; ovary apices densely pubescent. 2n = 28 [other numbers have been reported for this species, but are probably based on misidentifications].</description>
+  <discussion>Festuca occidentalis grows in dry to moist, open woodlands, forest openings, and rocky slopes, up to 3100 m. It extends from southern Alaska and northern British Columbia to southwestern Alberta, south to southern California and eastward to Wyoming, and, as a disjunct, around the upper Great Lakes in Ontario, eastern Wisconsin, and Michigan. It is sometimes important as a forage grass, but is usually not sufficiently abundant.</discussion>
+</bio:treatment>

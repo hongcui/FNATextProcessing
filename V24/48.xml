@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Edward E. Terrell</author>
+    </source>
+  </meta>
+  <number>5.04</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>ZIZANIA L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; aquatic, usually rooted in the substrate; sometimes rhizomatous or stoloniferous; monoecious. Culms to 5 m, erect and emergent or floating. Leaves concentrated on the lower portion of the stem or evenly distributed; sheaths open, not inflated; ligules membranous or scarious, glabrous; pseudopetioles absent; blades flat, aerial or floating, scabrous or smooth. Inflorescences terminal panicles; branches usually unisexual, lower branches staminate, upper branches pistillate, middle branches sometimes with staminate and pistillate spikelets intermixed; pedicel apices cupulate; disarticulation beneath the spikelets, in cultivated strains disarticulation delayed, the spikelets tending not to shatter until harvested. Spikelets unisexual, with 1 floret. Glumes absent; calluses inconspicuous; lemmas 5-veined; paleas 3-veined; lodicules 2, membranous. Staminate spikelets pendant, terete or appearing so; lemmas membranous; paleas membranous, loosely enclosing the stamens; anthers 6. Pistillate spikelets terete; lemmas chartaceous or coriaceous, margins involute and clasping the margins of the paleas, apices acute to acuminate, sometimes awned, awns terminal, slender, scabridulous; styles 2, bases not fused, stigmas laterally exserted, plumose. Caryopses cylindrical; embryos linear, often as long as the caryopses; hila linear, x = 15. </description>
+  <discussion>Zizania includes three North American and one eastern Asian species. Zizania aquatica and Z. palustris are important constituents of aquatic plant communities in North America, providing food and shelter for numerous animal species. Zizania palustris is also an important food source for humans. Zizania texana is federally listed as an endangered species in the United States. Zizania latifolia, an Asian species, is available through horticultural outlets despite its potential for harboring a fungus that would devastate the native species (for additional information, see the comment following the species description).</discussion>
+  <references>Aiken, S.G., P.F. Lee, D. Punter, and J.M. Stewart. 1988. Wild Rice in Canada. Agriculture Canada Publication 1830. NC Press, Toronto, Ontario, Canada. 130 pp.; Dore, W.G. 1969. Wild Rice. Canada Department of Agriculture Publication No. 1393. Information Canada, Ottawa, Ontario, Canada. 84 pp.; Duvall, M.R. and D.D. Biesboer. 1988. Nonreciprocal hybridization failure in crosses between annual wild-rice species (Zizania palustris x Z. aquatica: Poaceae). Syst. Bot. 13:229-234; Environment Walkato. 2002-2007. Regional Pest Management Strategy. Walkato Regional Council, Hamilton East, New Zealand, http://www.ew.govt.nz/policyandplans/rpmsintro/ rpms2002/operative5.2.7.htm/; Liu, L. and S.M. Phillips. 2006. Zizania. Pp. 187-188 in Z.-Y. Wu, P.H. Raven, and D.-Y. Hong (eds.). Flora of China, vol. 22 (Poaceae). Science Press, Beijing, Peoples Republic of China and Missouri Botanical Garden Press, St. Louis, Missouri, U.S.A. 653 pp. http://flora.huh.harvard.edu/china/mss/volume22/index.htm/; Terrell, E.E. and L.R. Batra. 1982. Zizania latifolia and Ustilago esculenta, a grass-fungus association. Econ. Bot. 36:274-285; Terrell, E.E., W.H.P. Emery, and H.E. Beaty. 1978. Observations on Zizania texana (Texas wildrice), an endangered species. Bull. Torrey Bot. Club 105:50-57; Terrell, E.E., P.M. Peterson, J.L. Reveal, and M.R. Duvall. 1997. Taxonomy of North American species of Zizania (Poaceae). Sida 17:533-549; Warwick, S.I. and S.G. Aiken. 1986. Electrophoretic evidence for the recognition of two species in annual wild rice (Zizania, Poaceae). Syst. Bot. 11:464-473.</references>
+  <key>
+    <key_body>
+1. Culms decumbent, completely immersed or the upper parts of the culm emergent; known only from the San Marcos River in Hays County, Texas .....3. Z. texana
+1. Culms usually erect at maturity, rarely completely immersed; plants not known from Texas.
+2. Plants rhizomatous, perennial; middle branches of the panicles with both staminate and pistillate spikelets, other branches with either staminate or pistillate spikelets; plants cultivated as ornamentals .....4. Z. latifolia
+2. Plants without rhizomes, annual; all panicle branches unisexual, with either staminate or pistillate spikelets; plants native and widespread, also cultivated for grain.
+3. Lemmas of the pistillate spikelets flexible and chartaceous, dull or sublustrous, bearing short, scattered hairs, these not or only slightly more dense towards the apices; aborted pistillate spikelets 0.4-1 mm wide; pistillate inflorescence branches usually divaricate at maturity .....1. Z. aquatic
+3. Lemmas of the pistillate spikelets stiff and coriaceous or indurate, lustrous, glabrous or with lines of short hairs, the apices more densely hairy; aborted pistillate spikelets 0.6-2.6 mm wide; pistillate inflorescence branches usually appressed at maturity, or with 1 to few, somewhat spreading branches .....2. Z. palustris
+    </key_body>
+  </key>
+</bio:treatment>

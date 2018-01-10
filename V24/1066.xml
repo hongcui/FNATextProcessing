@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Lisa A. Standley</author>
+    </source>
+  </meta>
+  <number>14.57</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>KOELERIA Pers.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; usually cespitose, sometimes weakly rhizomatous. Culms 5-130 cm, erect. Sheaths open; auricles absent; ligules membranous; blades flat to involute, pubescent or glabrous. Inflorescences panicles, erect, usually dense and spikelike, sometimes lax, stiffly and narrowly pyramidal at anthesis; main rachis and branches smooth, softly hairy. Spikelets laterally compressed, with 2-4 florets; rachillas to 1 mm, glabrous or pubescent, usually prolonged beyond the base of the distal floret, or with a vestigial floret; disarticulation above the glumes, beneath the florets. Glumes subequal to or slightly exceeding the lemmas, membranous, scabrid to tomentose, keels sometimes ciliate, unawned; lower glumes 1-veined, somewhat narrower and shorter than the upper glumes; upper glumes obscurely 3(5)-veined; calluses glabrous or hairy; lemmas thin, membranous, 5-veined, margins shiny, scarious, apices acute, sometimes mucronate or awned; paleas equaling or subequal to the lemmas, hyaline; lodicules 2, glabrous, toothed; anthers 3; ovaries glabrous. Caryopses glabrous. x = 7.</description>
+  <discussion>Koeleria is a cosmopolitan genus of about 35 species that grow in dry grasslands and rocky soils; two are native to the Flora region. Koeleria pyramidata is sometimes said to be in the Flora region; such reports seem to reflect a different interpretation of the species. In Europe, Koeleria forms a series of polyploid complexes in which cytotypes are morphologically and ecologically distinct, but species boundaries are not. Koeleria sometimes includes the genus Rostraria, which differs in its annual growth habit, and in having awned lemmas and paleas.</discussion>
+  <references>Arnow, L.A. 1994. Koeleria macrantha and K. pyramidata (Poaceae): Nomenclatural problems and biological distinctions Syst Bot. 19:6-20; Greuter, W. 1968. Notulae nomenclatures et bibliographicae, 1-4. Candollea 23:81-108; Ujhely, J. 1972. Evolutionary problems of the European Koelerias. Pp. 163-176 in G. Vida (ed.). Evolution in Plants. Symposia Biologica Hunganca No. 12. Akademiai Kiado, Budapest, Hungary. 231 pp.
+ 
+</references>
+  <key>
+    <key_body>
+1. Lemmas pubescent to densely tomentose, purple to almost black; panicles 1-5 cm long; culms 5-35 cm tall, finely pubescent throughout .....1. K. asiatica
+1. Lemmas usually glabrous, usually green when young, sometimes purple-tinged, stramineous at maturity; panicles 4-27 cm long; culms 20-130 cm tall, mostly glabrous, pubescent near the nodes and sometimes below the panicle.
+2. Spikelets 2.5-6.5 mm long; old sheaths usually breaking off with age or, if disintegrating, the fibers straight or nearly so; margins of the basal leaf blades glabrous or with hairs usually shorter than 1 mm near the base .....2. K. macrantha
+ 
+2. Spikelets 6-10 mm long; old sheaths weathering to wavy, curled, or arched fibers; margins of the basal leaf blades frequently with hairs longer than 2 mm near the base  .....3. K. pyramidata
+
+    </key_body>
+  </key>
+</bio:treatment>

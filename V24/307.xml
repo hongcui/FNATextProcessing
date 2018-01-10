@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>27</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus mucroglumis Wagnon </name_authority_date>
+  </taxon_identification>
+  <common_names>SHARPGLUME BROME</common_names>
+  <description type="morphology">Plants perennial; not rhizomatous. Culms 50-100 cm, erect or spreading; nodes 5-7, pilose or pubescent; internodes glabrous. Basal sheaths pubescent or pilose, throats pilose; upper sheaths pubescent or glabrous, midrib of the culm leaves not abruptly narrowed just below the collar; auricles absent; ligules 1-2 mm, glabrous, truncate or obtuse; blades 20-30 cm long, (4)7-11 mm wide, flat, both surfaces pilose or the abaxial surface glabrous. Panicles 10-20 cm, open, nodding; branches ascending or spreading. Spikelets 20-30 mm, elliptic to lanceolate, terete to moderately laterally compressed, with 5-10 florets. Glumes usually pilose or pubescent, rarely glabrous; lower glumes 6-8 mm, 1-veined; upper glumes 8-8.5 mm, 3-veined, mucronate; lemmas 10-12 mm, elliptic to lanceolate, rounded over the midvein, backs and margins pilose or pubescent, apices acute to obtuse, entire; awns 3-5 mm, straight, arising less than 1.5 mm below the lemma apices; anthers 1.5-3 mm. 2n = 28.</description>
+  <discussion>Bromus mucroglumis grows at 1500-3000 m in the southwestern United States and northern Mexico.</discussion>
+</bio:treatment>

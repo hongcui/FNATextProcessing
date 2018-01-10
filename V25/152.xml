@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>35</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis polytricha Nees </name_authority_date>
+  </taxon_identification>
+  <common_names>HAIRYSHEATH LOVEGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, with innovations, without rhizomes, not glandular. Culms 30-62 cm, erect, glabrous and shiny below the nodes. Sheaths sometimes densely pilose dorsally and on the collars, margins and apices hairy, hairs to 5 mm; ligules 0.2-0.4 mm; blades 5-20(33) cm long, 1-3.5 mm wide, involute to flat, both surfaces with scattered hairs, adaxial surfaces densely hairy behind the ligules, hairs to 7 mm. Panicles 15-25 cm long, 5-27 cm wide, ovate, open; primary branches 0.6-15 cm, diverging up to 90° from the rachises, capillary, naked basally; pulvini hairy, hairs to 8 mm; pedicels 1.4-10(16) mm, divergent. Spikelets (2.5)3-5 mm long, 1.1-1.6 mm wide, narrowly lanceolate to linear-oblong, plumbeous, with 4-9 florets; disarticulation acropetal, paleas persistent. Glumes broadly ovate to narrowly lanceolate, hyaline to membranous; lower glumes 1.1-1.6 mm; upper glumes 1.2—1.8 mm; lemmas 1.2-1.8 mm, broadly ovate, membranous throughout, lateral veins inconspicuous, apices acute; paleas 1.1-1.7 mm, membranous to hyaline, narrower than the lemmas, apices obtuse; anthers 3, 0.3—0.5 mm, reddish-purple. Caryopses 0.5-0.8 mm, obovoid to somewhat prism-shaped, laterally compressed, with a well-developed adaxial groove, finely striate, opaque to translucent, reddish-brown. 2n = 60, 80.</description>
+  <discussion>Eragrostis polytricha grows in sandy and rocky areas, at 0-30 m, usually in open pinelands. It is native to Florida but its primary range lies to the south of the Flora region, from southern Mexico through Central America to Venezuela, Chile, and Argentina.</discussion>
+</bio:treatment>

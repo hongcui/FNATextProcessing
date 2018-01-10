@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Microstegium vimineum (Trin.) A. Camus </name_authority_date>
+  </taxon_identification>
+  <common_names>Microstegium vimineum (Trin.) A. Camus </common_names>
+  <description type="morphology">Plants annual. Culms 40-100 cm tall, 1-1.5 mm thick, freely-branching, lower portions prostrate, rooting at the nodes, terminal portions and flowering branches erect; nodes glabrous. Sheaths shorter than the internodes, mostly glabrous or sparsely pubescent above, margins ciliate, becoming pilose at the throat; ligules 0.5-0.8 mm, truncate; blades 3-10 cm long, 8-15 mm wide, glabrous or sparsely pubescent, bases cuneate, midveins white, apices attenuate, acute. Cleistogamous inflorescences concealed in the upper sheaths; chasmogamous inflorescence exserted, of (1)2-4(6) racemose to subdigitate, erect to ascending rames; rames 3-7 cm, glaucous-green; internodes 3.5-5 mm, gradually widened above, ciliate. Spikelets 3.7-6.5 mm. Lower glumes 2-keeled, subtruncate to shallowly 2-toothed; upper glumes acute; upper lemmas usually awned, awns 2-5(15) mm, often concealed by the glumes; anthers 3, 0.7-1 mm. Pedicels 3-4 mm. 2n = 40. </description>
+  <discussion>Microstegium vimineum was introduced to Tennessee from Asia around 1919 and is now established in much of the eastern United States. Although often associated with forested and wetland areas, it also does well in many disturbed areas. In suitable habitats it quickly spreads by rooting from its prostrate culms, forming dense, monospecific stands. It is sometimes confused with Leersia virginica Willd., but differs from that species in its glabrous cauline nodes and the presence of hairs at the summit of the leaf sheaths. In addition, M. vimineum flowers in late September and October and is clearly a member of the Andropogoneae, whereas L. viriginica flowers in June through July and is a member of the Oryzeae.
+ 
+</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>48</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus lanceolatus Roth </name_authority_date>
+  </taxon_identification>
+  <common_names>LANCEOLATE BROME</common_names>
+  <description type="morphology">Plants annual. Culms 30-70 cm, erect or ascending. Sheaths often densely hairy with soft, white  hairs;  ligules 1-2  mm, hairy, obtuse, erose; blades 10-30 cm long, 3-5 mm wide, glabrous or pubescent. Panicles 5-15 cm long, 2-9 cm wide, erect, densely contracted when immature, more open with age; branches usually shorter than the spikelets, rigid, ascending to slightly spreading, slightly curved or straight. Spikelets 20-50 mm, lanceolate, terete to moderately laterally compressed, often 2+ per node; florets 7-20, bases concealed at maturity; rachilla internodes concealed at maturity. Glumes pilose; lower glumes 5-9 mm, 3-5-veined: upper glumes 8-12 mm, 5-7-veined; lemmas 11-20 mm long, 1.8-2.5 mm wide, lanceolate, pilose, obscurely 7-veined, rounded over the midvein, margins rounded, not inrolled at maturity, apices acute, bifid, teeth shorter than 1 mm; awns 6-12 mm, to 20 mm on some distal lemmas, divaricate when mature, arising 1.5 mm or more below the lemma apices; anthers 1-1.5 mm. Caryopses equaling or slightly shorter than the paleas, thin, weakly inrolled or flat. 2n = 28, 42.</description>
+  <discussion>Bromus lanceolatus grows in waste places, and is also cultivated as an ornamental. It has been introduced to the Flora region from southern Europe, and is reported from scattered sites, e.g., Yonkers, New York (wool waste); College Station, Texas; and Pima County, Arizona.</discussion>
+</bio:treatment>

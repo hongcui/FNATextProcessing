@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Sporobolus compositus (Poir.) Merr. var. compositus</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants not rhizomatous. Culms stout, 2-5 mm thick. Uppermost sheaths usually 2.6-6 mm wide. Panicles with 30-90 spikelets per cm2 when pressed. Fruits 1-1.8 mm.</description>
+  <discussion>Sporobolus compositus var. compositus is the most widespread of the three varieties, being found through¬out most of the range shown for the species, but not in South Carolina or Florida.</discussion>
+</bio:treatment>

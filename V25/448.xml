@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Hilaria belangeri (Steud.) Nash var. belangeri</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants stoloniferous. Ligules 1-1.5 mm; blades 3-10 cm long, 1-2 mm wide.</description>
+  <discussion>Hilaria belangeri var. belangeri grows from Arizona to Texas, and south through Mexico. It was the domi¬nant grass on Texas' shortgrass prairies.</discussion>
+</bio:treatment>

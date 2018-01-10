@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Nassella trichotoma (Nees) Hack, ex Arechav.</name_authority_date>
+  </taxon_identification>
+  <common_names>SERRATED TUSSOCKGRASS, YASS TUSSOCKGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 20-60 cm tall, about 1 mm thick, erect, internodes glabrous; nodes 2-4, pubescent. Sheaths glabrous, smooth; collars glabrous, without tufts of hair at the sides; ligules 0.5-2.5 mm, glabrous, obtuse; blades 15-45 cm long, 0.2-0.6 mm wide, convolute, stiff, scabridulous. Panicles 8-25 cm, open, lax, sparse; branches 2-6 cm, with 1-8 spikelets; pedicels 3-12 mm. Glumes subequal, 4-10 mm long, 0.9-1.2 mm wide, narrowly lanceolate, scabridulous, apices aristate; florets 1.5-2.5 mm long, 0.7-0.9 mm wide, terete, widest near the top; calluses 0.1-0.3 mm, acute, strigose, hairs reaching to midlength on the lemmas; lemmas strongly tuberculate, particularly distally, mostly glabrous, narrowing abruptly to the crown, midveins pubescent proximally; crowns about 0.5 mm long, about 0.2 mm wide, straight-sided, rims entire or irregularly lacerate, glabrous; awns 15-35 mm, eccentric, straight to twice-geniculate; anthers 3, 1-1.5 mm. Caryopses about 1.2 mm, oblong, dark brown. 2n = 36.</description>
+  <discussion>Nassella trichotoma is a native of South America, and has been accidentally introduced into the United States. Because it is on the U.S. Department of Agriculture's noxious weed list, all known populations have been eliminated. New populations should be reported to the Department.</discussion>
+</bio:treatment>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Tripsacum L. sect. Tripsacum</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Staminate spikelets in sessile pairs or 1 member of each pair on a short, stout pedicel.</description>
+</bio:treatment>

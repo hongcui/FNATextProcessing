@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Zea mays subsp. huehuetenangensis (H.H. litis & Doebley) Doebley</name_authority_date>
+  </taxon_identification>
+  <common_names>HUEHUETENANGO TEOSINTE</common_names>
+  <description type="morphology">Zea mays subsp. huehuetenangensis is morphologically similar to subsp. parviglumis (see below), but it often grows more than 5 m tall, and has essentially glabrous leaves, and smaller staminate panicles with fewer (less than 40), firmer branches, and different ecological, phenological, and molecular characteristics.</description>
+  <discussion>It is endemic to the Province of Huehuetenango, Guatemala, where it grows as a common weed on the edges of, and in, maize fields, and in seasonally moist oak cloud and tropical deciduous forests, at elevations from 900-1650 m. In its native range, it commonly hybridizes with Z. mays subsp. mays, both subspecies flowering from mid-December to mid-January, at the end of the wet season.</discussion>
+</bio:treatment>

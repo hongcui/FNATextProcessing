@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Jerrold I. Davis </author>
+      <author>Laurie L. Consaul  </author>
+    </source>
+  </meta>
+  <number>14.06</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>PUCCINELLIA Pari.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual, biennial, or perennial; usually cespitose, sometimes weakly or strongly stoloniferous and mat-forming. Culms 2-100 cm, erect or decumbent, sometimes geniculate; internodes hollow. Sheaths open to the base or nearly so; auricles absent; ligules membranous, acute to truncate, entire or erose; blades flat, folded, or involute. Inflorescences terminal panicles, open to contracted; branches smooth or scabrous, some branches longer than 1 cm; pedicels usually longer than 3 mm, thinner than 0.5 mm. Spikelets pedicellate, subterete to weakly laterally compressed, with 2-10 florets; disarticulation above the glumes, beneath the florets. Glumes usually unequal, sometimes subequal to equal, usually distinctly shorter than the lowest lemma in the spikelets, sometimes only slightly shorter, rarely longer, membranous, rounded or weakly keeled, veins obscure or prominent, apices unawned; lower glumes 1(3)-veined; upper glumes (l)3(5)-veined; calluses blunt, glabrous or pubescent; lemmas membranous to slightly or distinctly coriaceous, glabrous or pubescent, pubescence sometimes restricted to the bases of the veins, rounded or weakly keeled, at least distally, (3)5(7)-veined, veins obscure to prominent, more or less parallel distally, usually not extending to the apices, lateral veins sometimes reduced, apical margins with or without scabrules, apices usually acute to truncate, sometimes acuminate, entire or serrate to erose, unawned; paleas subequal to the lemmas, scarious or membranous distally, 2-veined, veins terminating at or beyond midlength; lodicules 2, free, glabrous; anthers 3; ovaries glabrous. Caryopses shorter than the lemmas, concealed at maturity, oblong, terete to dorsally flattened, falling free or with the palea or both the lemma and palea attached; hila oblong, about 1/3 or less the length of the caryopses. x = 7. 
+</description>
+  <discussion>Puccinellia, a genus of approximately 120 species, is most abundant in the middle and high latitudes of the Northern Hemisphere. There are 21 species in the Flora region, of which 3 are introduced. Ten are confined to the arctic, four are circumarctic and two are transberingian. Most species of Puccinellia are halophytes, either in coastal habitats or in saline or otherwise mineralized soils of interior habitats. Polyploidy, selfing, and hybridization are widespread in the genus, and many of the species boundaries are controversial. Several of the species with Arctic distributions have received different taxonomic treatments in North America and Eurasia.
+The angle of the panicle branches (whether erect, ascending, etc.) refers to their position when the caryopses are mature. Lemma measurements should be made on the lowest lemma in the spikelets. Principal features of the lemmas, as used in the key and descriptions, are as follows. Scabrules (short, pointed hairs, similar in form to those that occur on the pedicels and inflorescence branches of many species of Puccinellia, and generally requiring magnification to observe) often occur along the distal margins of the lemmas. When present, they may be few and irregularly scattered, with gaps between them that are either wider than the individual scabrules (e.g., in some P. pumila, p. 472), or arranged in a continuous palisade-like row that lacks gaps (e.g., in P. distans, p. 474). Independent of the presence or absence of scabrules, the lemma margins may be entire (e.g., in P. pumila and P. distans) or serrate to erose (e.g., in P. andersonii, p. 474, and P. vabliana, p. 468).
+</discussion>
+  <references>Argus, G.W. and K.M. Pryer. 1990. Rare Vascular Plants in Canada: Our Natural Heritage. Canadian Museum of Nature, Ottawa, Ontario, Canada. 191 pp.; Consaul, L.L. and L.J. Gillespie. 2001. A re-evaluation of species limits in Canadian Arctic island Puccinellia (Poaceae): Resolving key characters. Canad. J. Bot. 79:927-956; Consaul, L.L., L.J. Gillespie, and K.I. Maclnnes. [in press]. Addition to the flora of Canada? A specimen from the Arctic Archipelago, Northwest Territories links two allopatric species of alkali grass; Davis, J.I. 1983. Phenotypic plasticity and the selection of taxonomic characters in Puccinellia (Poaceae). Syst. Bot. 8:341-353; Fernald, M.L. and G.A. Weatherby. 1916. The genus Puccinellia in eastern North America. Rhodora 18:1-23; Porsild, A.E. 1964. Illustrated Flora of the Canadian Arctic Archipelago, ed. 2, rev. Bulletin of the National Museum of Canada No. 146 [Biological Series No. 50]. R. Duhamel, Queen's Printer, Ottawa, Ontario, Canada. 218 pp.; Scribner, F.L. and E.D. Merrill. 1910. The grasses of Alaska. Contr. U.S. Natl. Herb. 133:47-92; S0rensen, T.J. 1953. A revision of the Greenland species of Puccinellia Pari, with contributions to our knowledge of the arctic Puccinellia flora in general. Meddel. Gronl. 136:1-169; Serensen, T.J. 1955. Puccinellia agrostidea, Puccinellia bruggemannii, Puccinellia poacea. Pp. 78-82 in A.E. Porsild. The Vascular Plants of the Western Canadian Arctic Archipelago. Bulletin of the National Museum of Canada No. 135 [Biological Series No. 45]. E. Cloutier, Queen's Printer, Ottawa, Ontario, Canada. 226 pp.; Swallen, J.R. 1944. The Alaskan species of Puccinellia. J. Wash. Acad. Sci. 34:16-32;Tsvelev, N.N. 1995. Puccinellia. Pp. 237-263 in J.G. Packer (ed., English edition). Flora of the Russian Arctic, vol. 1, trans. G.C.D. Griffiths. University of Aiberta Press, Edmonton, Alberta, Canada. 330 pp. [English translation of A.I. Tolmachev (ed.). 1964. Arkticheskaya Flora SSSR, vol. 2. Nauka, Leningrad [St. Petersburg], Russia. 272 pp.] </references>
+  <key>
+    <key_body>
+1. Plants stoloniferous perennials, forming low, often extensive mats; most plants lacking inflorescences, the spikelets, when present, usually not producing mature pollen or caryopses .....1. P. phryganodes
+1. Plants annual, biennial, or cespitose perennials, sometimes stoloniferous but not mat-forming; plants reproducing sexually, forming mature pollen and caryopses. 
+2. Lemmas slightly to markedly coriaceous for most or all of their length; plants of temperate regions.
+3. Lemmas with hyaline apical margins; lemma midveins prominent.....2. P. rupestris
+3. Lemmas with coriaceous apical margins; lemma midveins obscure.
+4. Lemmas 1.8-3 mm long; lower branches of the panicles ascending to erect, spikelet-bearing nearly to the base; anthers 0.6-1 mm long .....3. P. fasciculata
+4. Lemmas 3-5 mm long; lower branches of the panicles erect to descending, spikelet-bearing from about midlength; anthers 1.5-2.6 mm long  .....4. P. maritima
+ 
+2. Lemmas mostly membranous or herbaceous, apical margins sometimes hyaline; plants of temperate and arctic regions. 
+5. Plants annual, of temperate regions.
+6. Lemma apices acute; lemmas 2.5-4 mm long, veins glabrous or hairy, particularly on the basal 1/2, short (about 0.1 mm) hairs sparsely and evenly distributed between the veins.....5. P. simplex
+6. Lemma apices obtuse to truncate; lemmas 1.8-2.2 mm long, veins densely hairy on the basal 1/2 - 3/4, glabrous between the veins .....6. P. parishii
+5. Plants perennial, of temperate and arctic regions.
+7. Palea veins with curly, intertwined hairs proximally, scabrous distally; plants of arctic regions.
+8. Pedicels smooth; apical margins of the lemmas smooth, veins obscure or distinct. 
+9. Lower glumes 2/3 to nearly as long as the adjacent lemmas; culms 5-15 cm; panicles 2-4 cm, anthers 0.8-1.5 mm .....7. P. vahliana
+9. Lower glumes usually less than 2/3 as long as the adjacent lemmas, culms 15-40 cm; panicles 5-8 cm, anthers 1.5-2.5 mm .....8. P. wrightii
+8. Pedicels scabrous; apical margins of the lemmas scabrous, sometimes minutely so, veins obscure.
+10. Culms 50-65 cm tall; panicles 15-30 cm long.....9. P. groenlandica
+10. Culms 5-35 cm tall; panicles 1-13 cm long.
+11. Lemmas 3.5-5.2 mm long; panicles (4)5-13 cm long.....10. P. angustata
+11. Lemmas 2.8-3.8 mm long; panicles 1-4 cm long.....11. P. bruggemannii
+7. Palea veins glabrous, shortly ciliate, or with fewer than 5 longer hairs proximally, never with curly intertwined hairs, scabrous or smooth distally; plants of temperate and arctic regions. 
+12. Lemma margins smooth or with a few scabrules at and near the apices.
+13. Lemmas 2-2.5 mm long, usually purple with whitish margins, veins distinct, apices obtuse to truncate; lemmas and palea veins smooth and glabrous; pedicels smooth .....12. P. tenella
+13. Lemmas 2.4-4.6 mm long, variously colored, margins not white, veins obscure to distinct, apices acute to truncate; lemmas and palea veins glabrous or hairy on the lower portion, often scabrous distally; pedicels smooth or scabrous.
+14. Lemmas glabrous or with a few hairs on the lower portion of the veins; lemma apices entire; plants of temperate regions or the low arctic, but not of the high arctic. 
+15. Pedicels scabrous; palea veins scabrous distally; anthers 1-2 mm long; plants not littoral .....13. P. lemmonii (in part)
+15. Pedicels smooth or with a few scattered scabrules; palea veins smooth or with a few scabrules distally; anthers 0.5-1.2 mm long; plants littoral .....14. P. pumila
+14. Lemmas usually sparsely to moderately hairy, particularly on the vein bases, sometimes glabrous; lemma apices entire, irregularly serrate, or erose; plants of the low and high arctic.
+16. Panicles with (2)3-5 branches at the lowest node; lemmas 2.5-3.7 mm long, veins obscure to distinct, apices entire or slightly erose; anthers 1.2-2.2 mm long .....15. P. arctica (in part)
+16. Panicles usually with 2 branches at the lowest node; lemmas 3-4.5 mm long, veins obscure, apices irregularly serrate or erose; anthers 0.8-1.2 mm long .....16. P. andersonii (in part)
+12. Lemma margins densely scabrous at and near the apices.
+17. Lemmas 1.5-2.2 mm long, apices widely obtuse to truncate; anthers 0.4-0.8 mm long; lower panicle branches horizontal to descending .....17. P. distans
+ 
+17. Lemmas 2-5 mm long, apices usually acute to obtuse, occasionally acuminate or rounded; anthers 0.5-2.2 mm long; lower panicle branches erect to descending. 
+18. Lemma apices irregularly serrate or erose; lemmas 3-4.5 mm long; anthers 0.8-1.2 mm long .....16. P. andersonii (in part)
+18. Lemma apices entire or slightly erose; lemmas 2-4.5(5) mm long; anthers 0.5-2.2 mm long.
+19. Pedicels smooth or with a few scattered scabrules; lemmas glabrous or with a few hairs on the lower 1/2, principally along the veins; anthers 1.5-2 mm long; plants restricted to mineralized springs in California .....18. P. howellii
+19. Pedicels smooth to uniformly scabrous; lemmas glabrous or sparsely to moderately hairy on the lower 1/2; anthers 0.5-2.2 mm long; plants of varied habitats, including hot springs.
+20. Lemma midveins often extending to the apical margins; lemma apices acute; lemmas mostly smooth, midveins often slightly scabrous distally; leaf blades involute, 1.2-1.9 mm wide when flattened; leaves concentrated at the base of plant; plants of inland, temperate habitats .....13. P. lemmonii (in part)
+20. Lemma midveins usually not extending to the margins; lemma apices usually acute to obtuse, occasionally acuminate; lemmas scabrous or smooth distally; leaf blades involute or flat, 0.5-6 mm wide when flat, leaves ranging from nearly all basal to evenly distributed along the culms; plants of coastal and inland habitats in temperate and arctic regions.
+21. Culms 10-100 cm tall; lower glumes 0.5-1.6 mm long; plants usually growing south of 65° N latitude.
+22. Pedicel epidermal cells not tumid, pedicels uniformly scabrous; lower branches of the panicles erect to descending; lemmas (2)2.2-3(3.5) mm long; plants usually of interior habitats, occasionally of coastal habitats   .....19. P. nuttalliana (in part)
+22. Pedicel epidermal cells often tumid, pedicels sparsely to densely scabrous; lower branches of the panicles usually erect to ascending, occasionally spreading to descending; lemmas (2.2)3-4.5(5) mm long; plants of coastal habitats .....20. P. nutkaensis
+21. Culms 6-30(40) cm tall; lower glumes 0.8-2.5 mm long; plants usually growing north of 65° N latitude.
+23. Anthers 1.2-2.2 mm long; lateral margins of the lemmas often inrolled .....15. P. arctica (in part)
+23. Anthers 0.6-1.2 mm long; lateral margins  of the lemmas usually not inrolled. 
+24. Lemmas 2.8-4 mm long; panicles usually barely exserted from the sheaths .....21. P. vaginata
+24. Lemmas 2-2.8 mm long; panicles usually distinctly exserted from the sheaths ..... 19. P. nuttalliana (in part)
+
+    </key_body>
+  </key>
+</bio:treatment>

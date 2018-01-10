@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia frondosa (Poir.) Fernald </name_authority_date>
+  </taxon_identification>
+  <common_names>WIRESTEM MUHLY, MUHLENBERGIE FEUILLÉE</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, not cespitose. Culms 50-110 cm tall, 0.7-1.8 mm thick, ascending, geniculate, or decumbent, bushy and much branched above; internodes smooth and shiny for most of their length, glabrous throughout. Sheaths glabrous, margins hyaline; ligules 0.7-1.7 mm, membranous, truncate, lacerate-ciliolate; blades 4-18 cm long, 2-7 mm wide, flat, glabrous, smooth or scabridulous, those of the lateral branches similar to those of the primary culms. Panicles 2-15 cm long, 0.3-2 cm wide, sometimes dense; axillary panicles common, partly included in the sheaths; primary branches 0.3-4.2 cm, ascending, appressed, occasionally diverging up to 30° from the rachises; pedicels 0.4-5 mm, smooth or scabrous. Spikelets 2.2-4 mm, imbricate along the branches. Glumes subequal, 2-4 mm, 3/4 as long as to longer than the lemmas, 1-veined, unawned or awned, awns to 2 mm; upper glumes acuminate to acute; lemmas 2.2-4 mm, narrowly lanceolate, hairy on the calluses, lower 1/3 of the midveins, and margins, hairs 0.3-0.8 mm, apices scabridulous, acuminate, unawned or awned, awns 0.1-13 mm; paleas 2.3-4 mm, narrowly lanceolate, acuminate; anthers 0.3-0.6 mm, usually yellow, occasionally purplish. Caryopses 1.6-1.9 mm, fusiform, brown. 2n = 40.</description>
+  <discussion>Muhlenbergia frondosa grows in forest borders, thickets, clearings, alluvial plains, and disturbed sites within deciduous forests, at elevations of 20-1000 m. It grows only in southern Canada and the contiguous United States. The collection from Oregon was made in an artificial cranberry bog and was probably introduced with the plants.
+Plants with unawned or shortly (less than 4 mm) awned lemmas can be called M. frondosa forma frondosa, and those with lemma awns 4-13 mm long, M. frondosa forma commutata (Scribn.) Fernald.
+</discussion>
+</bio:treatment>

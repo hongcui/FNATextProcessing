@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>17.51</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>HILARIA Kunth</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial or annual; tufted or cespitose, sometimes stoloniferous, perennial species sometimes rhizomatous. Culms 5-250 cm, erect or decumbent; nodes usually villous or pilose, particularly the upper nodes. Sheaths open, glabrous or pilose, lower sheaths often glabrous basally and pilose distally, margins sometimes villous or pilose, upper sheaths often glabrous even if the lower sheaths are pilose; ligules 0.5-5 mm, membranous, lacerate or ciliate. Inflorescences terminal, spikelike panicles of reduced, disarticulating branches, exceeding the upper leaves; branches with 3 spikelets, appressed to the rachises, bases straight, seated in a ciliate, cuplike structure, sometimes with a 0.5-2 mm callus, calluses pilose, axes not extending past the distal florets; disarticulation at the base of the branches, leaving the zig-zag rachises. Lateral spikelets of each branch shortly pedicellate, with 1-4(5) sterile or staminate florets; glumes almost as long as the florets, deeply cleft into 2 or more lobes, with 1 or more dorsal awns; lemmas membranous, hyaline. Central spikelets sessile, with 1 pistillate or bisexual floret; glumes shorter than the florets, rigid, indurate and fused basally, apices with 2 or more lobes; lemmas membranous, awned or unawned. x = 9. </description>
+  <discussion>Hilaria is a genus of 10 species that ranges from the southwestern United States to northern Guatemala, growing primarily in dry grasslands and desert areas. Most of the species are important forage species. The stoloniferous species are important soil binders.
+Hilaria is interpreted here as having two groups, the Hilaria group and the Pleuraphis group [= Pleuraphis Torr.]. These are sometimes treated as separate genera but, although they differ consistently in some morphological characters, their overall similarity is striking. One molecular study (Columbus et al. 1998, 2000) has included representatives of both groups. It showed them to be sister taxa; there seems little value in promoting each to generic rank.
+In the key and descriptions below, the term "fascicle" refers to a branch and its spikelets. Actual branch lengths are much shorter and harder to measure.
+</discussion>
+  <references>Columbus, J.T., M.S. Kinney, R. Pant, and M.E. Siqueiros Delgado. 1998. Cladistic parsimony analysis of internal transcribed spacer region (nrDNA) sequences of Bouteloua and relatives (Graminese: Chloridoideae). Aliso 17:99-130; Columbus, J.T., M.S. Kinney, M.E. Siqueiros Delgado, and R. Cerros Tlatilpa. 2000. Homoplas", polyphyly, and generic circumscription: The demise of the Boutelouinae (Gramineae: Chloridoideae). [Abstract.] Amer. J. Bot. 87, Suppl.:120; Sohns, E.R. 1956. The genus Hilaria. J. Wash. Acad. Sci. 46:311-321.</references>
+  <key>
+    <key_body>
+1. Glumes thickened, indurate, and conspicuously fused at the base; central spikelets with 1 pistillate floret (Hilaria group). 
+2. Glumes pale to purplish, those of the lateral spikelets with dark glands confined to the base or lacking, awned from below midlength .....4. H. belangeri
+2. Glumes gray to dark brown, those of the lateral spikelets evenly covered with dark glands, awned from above midlength .....5. H. swallenii
+1. Glumes papery or membranous throughout, not conspicuously fused at the base; central spikelets with 1 bisexual floret (Pleuraphis group).
+3. Glumes of the lateral spikelets flabellate, the awns not exceeding the apical lobes; cauline nodes usually only shortly pubescent, sometimes glabrous .....1. H. mutica
+3. Glumes of the lateral spikelets lanceolate or parallel-sided, the awns exceeding the apical lobes; cauline nodes pilose, villous, or glabrous.
+4. Lower cauline internodes tomentose .....2. H. rigida
+4. Lower cauline internodes glabrous  .....3. H. jamesii
+
+    </key_body>
+  </key>
+</bio:treatment>

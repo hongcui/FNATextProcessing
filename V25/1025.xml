@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>26</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aristida palustris (Chapm.) Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>LONGLEAF THREEAWN</common_names>
+  <description type="morphology">Plants perennial; cespitose, bases hard, knotty. Culms 90-150 cm, often thickened basally, stiffly erect, usually unbranched; internodes hollow. Leaves cauline; sheaths usually shorter than the internodes, glabrous, remaining intact at maturity; collars glabrous; ligules to 0.1 mm; blades (8)10-30(35) cm long, 2-4 mm wide, usually flat, occasionally loosely involute, lax, glabrous, light yellow-green to bluish-green when young, drying brownish. Inflorescences paniculate, 25-45(55) cm long, 3-6 cm wide; nodes glabrous; primary branches 2-8 cm, usually single or paired, appressed to erect, occasionally ascending, without axillary pulvini, with (1)2-12 spikelets. Spikelets overlapping, appressed. Glumes (7.5)9-13.5  mm,  
+subequal, stiff, glabrous or scabridulous, light brown or greenish-brown; lower glumes prominently 2-veined, 2-keeled by the development of 1 lateral vein, shortly (1-2 mm) awn-tipped; upper glumes 1-veined, shortly (0.5-1 mm) awn-tipped; calluses 1-1.4 mm; lemmas 6-9 mm, glabrous, 0.3-0.5 mm wide distally, light tan to brown, junction with the awns not evident; awns not disarticulating at maturity; central awns 15-40 mm, usually strongly curved basally, strongly divergent to horizontal distally; lateral awns 8-35 mm, at least 1/2 as long as the central awns, erect to strongly divergent; anthers 3, about 3 mm, purplish. Caryopses 4.4-5 mm, chestnut brown. 2n = unknown.
+</description>
+  <discussion>Aristida palustris is endemic to the southeastern United States, where it grows in seepage bogs, pitcher plant savannahs, wet pine flatwoods, bald-cypress depressions, and wet prairies. It is a distinctive species of the southeastern coastal plain region that differs from A. lanosa in several reproductive, vegetative, and habitat characteristics.</discussion>
+</bio:treatment>

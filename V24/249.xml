@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mirta O. Arriaga</author>
+    </source>
+  </meta>
+  <number>10.14</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>AMELICHLOA Arriaga & Barkworth</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose. Culms erect, with 2-3 nodes, not branching at the upper nodes; basal branching intravaginal; prophylls concealed by the leaf sheaths, winged over the keels, apices bifid, teeth 0.5-3.5 mm. Leaves mostly basal; sheaths open, smooth, glabrous; cleistogenes often present, spikelets of cleistogenes 0.5-1 mm long, with thin glumes shorter than the florets, florets unawned or with reduced awns; auricles absent; ligules scarious, rounded to acute, ciliate; blades stiff, involute, apices stiff, brown, sharply pointed, blades of the flag leaves 5-13 cm long, bases similar in width to the top of the sheaths. Inflorescences panicles, the main panicle terminal, apparently wholly chasmogamous. Spikelets with 1 floret; disarticulation above the glumes, beneath the floret. Glumes exceeding the floret, acute to acuminate, 1-5-veined; florets fusiform, terete; calluses antrorsely strigose, blunt; lemmas pubescent, often more densely and/or more persistently so over the midvein and lateral veins, hairs on the proximal portion about 0.7-2 mm, hairs on the distal portion often longer; crowns not developed; awns once- or twice-geniculate, scabrous, persistent; paleas 3/4 as long as to almost equaling the lemmas, flat, hairy, hairs 0.2-1 mm, veins terminating at or near the apices, apices similar in texture to the body; lodicules 3; anthers 3, anthers sometimes all of equal size and more than 2 mm, sometimes 1 longer than 2 mm and 2 much shorter, sometimes all shorter than 2 mm; ovaries glabrous; styles with 2 branches, united at the base, stigmas plumose. Caryopses obovoid, with 3 smooth, longitudinal ribs at maturity, stylar bases 1-2 mm, persistent, sometimes eccentric; hila linear, about as long as the caryopses. x = unknown.</description>
+  <discussion>Amelichloa includes five species, four of which are South American. The fifth species, A. clandestina, grows in northern Mexico. Two species are established in the Flora region. A third species, A. caudata. was found on ballast dumps near Portland, Oregon, at the turn of the twentieth century; it is not established in the region.Cattle avoid species of Amelichloa because of their sharply pointed leaves. This means that any of the species could become a serious problem in rangelands. Mowing favors their establishment and spread because it does not eliminate, and may disperse, the cleistogenes. The species are eaten by goats.</discussion>
+  <references>Caro, J.A. and E. Sanchez. 1971. La identidad de Stipa brachychaeta Godron, S. caudata Trinius y S. bertrandii Philippi. Darwinia 16:637-653; Torres, M.A. 1993. Revision del genero Stipa (Poaceae) en la Provincia de Buenos Aires. Monografia 12. Comision de Investigaciones Cientificas, Provincia de Buenos Aires, La Plata, Argentina. 62 pp.</references>
+  <key>
+    <key_body>
+1. Mature caryopses with inclined, eccentric stylar bases; lemmas glabrous or hairy between the lateral and marginal veins, glabrous between the midvein and the lateral vein, even at the base  .....2. A. caudata
+1. Mature caryopses with erect, usually centric stylar bases; proximal 1/2 of the lemmas pubescent between the lateral and marginal veins, at least initially, usually also between the midvein and lateral veins.
+2. Florets 4-5.5 mm long; ligules 0.2-0.6 mm long; anthers 2-3 mm long   .....1. A. brachychaeta
+2. Florets 5.5-8 mm long; ligules 0.5-1.5 mm long; anthers 3-4 mm long.....3. A. clandestina
+
+    </key_body>
+  </key>
+</bio:treatment>

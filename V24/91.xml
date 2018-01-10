@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Glyceria canadensis (Michx.) Trin. var. canadensis</name_authority_date>
+  </taxon_identification>
+  <common_names>CANADIAN GLYCERIA, CANADIAN MANNAGRASS,
+RATTLESNAKE MANNAGRASS, GLYCERIE DU CANADA</common_names>
+  <description type="morphology">Spikelets 5-8 mm, with 4-10 florets. Lower glumes 1.6-2.4 mm; upper glumes 1.8-2.5 mm, acute; lemmas 2.4-4 mm. 2n = 60.</description>
+  <discussion>Glyceria canadensis var. canadensis grows through¬out the range of the species. The spikelets bear some resemblance to those of Bromus briziformis, otherwise known as rattlesnake brome, hence the vernacular name "rattlesnake mannagrass".</discussion>
+</bio:treatment>

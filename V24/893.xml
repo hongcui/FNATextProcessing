@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Deschampsia cespitosa subsp. beringensis (Hulten) W.E. Lawr. </name_authority_date>
+  </taxon_identification>
+  <common_names>BERINGIAN HAIRGRASS</common_names>
+  <description type="morphology">Plants loosely cespitose, often glaucous. Culms (15)70-140 cm. Ligules 4.5-13 mm; blades 5-12 cm long, 2-4 mm wide. Panicles 9-40 cm long, 8-30 cm wide, open, pyramidal; branches divergent, scabridulous to scabrous. Spikelets 4.5-8 mm, greenish, not to somewhat imbricate. Glumes from exceeding to exceeded by the distal floret, lengths usually 5+ times widths; lower glumes 4.3-7 mm, midveins smooth or scabridulous distally; upper glumes 4.4-7.5 mm; callus hairs 0.7-1.6 mm; lemmas 3-5(7) mm, apices 4-toothed or bifid, usually mostly green, awns 3.3-6.3 mm, straight to weakly geniculate, attached within the proximal 1/3 of the lemma; anthers (1.5)1.9-2.5 mm. 2n = 26.</description>
+  <discussion>Deschampsia cespitosa subsp. beringensis is primarily a coastal species, growing up to 800 m along the Aleutian chain and the southern coast of Alaska south to Sonoma County, California, and west to the Kamchatka Peninsula, Russia. Typical plants are tall, glaucous, have long ligules and spikelets, and long, narrow glumes, but in the Pribiloff Islands and at scattered locations elsewhere, they intergrade with plants that are only 15-25 cm tall and also have smaller spikelet parts (Lawrence 1945). Deschampsia cespitosa subsp. beringensis differs from D. mackenzieana primarily in its coastal distribution and lower chromosome number. It supposedly differs from D. cespitosa subsp. cespitosa in having long glumes but, as the descriptions indicate, there is considerable overlap in this and other characters. The morphological, geographic, and ecological boundaries between the two subspecies need further study.
+</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Glyceria nubigena W.A. Anderson </name_authority_date>
+  </taxon_identification>
+  <common_names>GREAT SMOKY MOUNTAIN MANNAGRASS, GREAT SMOKY MOUNTAIN GLYCERIA</common_names>
+  <description type="morphology">Plants perennial. Culms 100-200 cm tall, 3-5 mm thick, smooth. Sheaths smooth or scabridulous, weakly keeled; ligules 1-1.5 mm, truncate; blades to 45 cm long, 6-10 mm wide, abaxial surfaces smooth or scabrous, adaxial surfaces scabrous. Panicles 20-30 cm long, 7.5-14 cm wide, open, pyramidal; branches 7.5-14 cm, spreading or reflexed, lax, with 16-80 spikelets; pedicels 2-7 mm. Spikelets 3.5-5.5 mm long, 2-3(3.5) mm wide, laterally compressed, oval in side view, with 3-5 florets. Glumes tapering from below midlength to the narrowly (< 45°) acute apices, veins not extending to the apices; lower glumes 0.8-1.5 mm; upper glumes 1.8-2.2 mm; rachilla internodes about 0.5 mm; lemmas 2.2-2.7 mm, 0.9-1.1 mm wide in dorsal view, veins distinctly raised, usually smooth over and between the veins, sometimes scabridulous over the veins, apices acute, prow-shaped; paleas slightly shorter than the lemmas, lengths 2-2.7 times widths, keels not winged, tips incurved, apices narrowly notched between the keels; anthers 2, about 1.5 mm, dehiscent at maturity. Caryopses about 1.5 mm. 2n = 40.</description>
+  <discussion>Glyceria nubigena is known only from moist areas of balds and high ridges in the Great Smoky Mountains of North Carolina and Tennessee.</discussion>
+</bio:treatment>

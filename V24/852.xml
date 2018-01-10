@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dupontia fisheri R. Br. </name_authority_date>
+  </taxon_identification>
+  <common_names>FISHER'S TUNDRAGRASS, DUPONTIE DE FISHER</common_names>
+  <description type="morphology">Rhizomes 1-3 mm thick. Culms 5-80 cm, erect, glabrous. Ligules of lower leaves 0.4-3 mm; ligules of flag leaves 1-4(5.5) mm, usually lacerate; blades 1-13 cm long, 1-4 mm wide. Panicles 2.5-18 cm long, 1-6 cm wide. Spikelets 4-8.5(9) mm; rachilla internodes 1-1.5 mm. Glumes 4-8.5(9) mm; lemmas 3-6.5 mm; paleas 2.8-6 mm; anthers 1.5-3.5 mm. Caryopses 1.5-3 mm. 2n = 42, 44, 66, 84, 88, about 105, about 126, 132.</description>
+  <discussion>Dupontia fisheri grows in wet meadows, wet tundra, marshes, and along streams and the edges of lagoons, ponds, and lake shores, in sand, silt, clay, moss, and rarely in bogs.
+Two subspecies of Dupontia are sometimes recognized in North America. Dupontia fisheri R. Br. subsp. fisheri supposedly differs from subsp. psilosantha (Rupr.) Hulten in being shorter than 40 cm, having erect panicle branches, 2-4 florets per spikelet, pubescent, obtuse lemmas, and 2n= 84, 88, or 132.
+ 
+Dupontia fisheri subsp. psilosantha is taller, has reflexed panicle branches, 1-2 florets per spikelet, more or less glabrous, acute lemmas, and 2n =42 or 44. Plants referable to subsp. psilosantha are restricted to coastal marshes, rarely penetrating inland along riparian habitats, from James Bay to the lower arctic archipelago. Plants referable to subsp. fisheri are less halophytic and more northerly in their distribution, being found in a variety of inland marshes and wet tundra habitats from northern Alaska to Ellesmere Island. Intermediates are readily found (e.g., hexaploid, 2N = 66 "hybrids" from Alaska) and the correlations among chromosome number, morphology, ecology, and distribution are relatively weak in North America and Greenland. For these reasons, no subspecific taxa are recognized in this treatment.
+Dupontia fisheri hybridizes with Poa eminens to form xDupoa labradorica (p. 602). The hybrids differ from D. fisheri in having glumes that usually do not exceed the florets, and in having some woolly or crinkly callus hairs. The hybrid genus xArctodupontia is formed from D. fisheri and Arctophila fulva, and differs from D. fisheri in having lemmas with truncate, lacerate to dentate apices, rather than acute to acuminate apices.
+</discussion>
+</bio:treatment>

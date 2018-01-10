@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>10.03</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>PTILAGROSTIS Griseb.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; tightly cespitose, not rhizomatous. Culms 10-60 cm tall, 0.4-1.2 mm thick, erect, glabrous, not branching at the upper nodes; nodes 1, exposed; basal branching intravaginal; prophylls shorter than the sheaths. Leaves mostly basal, not overwintering; cleistogenes not developed; sheaths open for most of their length, glabrous, smooth to somewhat scabrous; auricles absent; ligules 0.2-3 mm, membranous, rounded to acute, glabrous, not ciliate; blades convolute, 0.2-0.6 mm in diameter, apices stiff, flag leaf blades longer than 1 cm. Inflorescences terminal panicles; branches capillary, often flexuous, sometimes straight, glabrous or sparsely hirtellous; disarticulation above the glumes, beneath the floret. Spikelets 3.4-7 mm, with 1 floret; rachillas not prolonged beyond the floret. Glumes subequal, hyaline, mostly purplish, venation not evident, apices rounded to acute; florets slightly shorter than the glumes, terete; calluses 0.1-0.8 mm, blunt, hairy; lemmas thickly membranous, smooth, hairy over the basal portion or throughout, hairs 0.2-0.4 mm, margins flat, not overlapping at maturity, apices lobed, lobes 0.1-1 mm, membranous, apices with a single terminal awn, lemma-awn junction evident; awns 5-30 mm, centric, persistent, once- or twice-geniculate, sometimes weakly so, scabrous or hairy, hairs to 2 mm; paleas slightly shorter to slightly longer than the lemmas, hairy, hairs to 0.5 mm, 2-veined, not keeled over the veins, flat between the veins, veins ending before the apices, apices rounded; lodicules 3, free, membranous; anthers 3, 0.4-3.3 mm, sometimes penicillate; ovaries glabrous; styles 2, white, free to the base. Caryopses 2-5 mm, fusiform, not ribbed, x = unknown. </description>
+  <discussion>Ptilagrostis is an alpine and subalpine genus of about 9 species. It grows in central Asia and the high mountains of western North America, sometimes in bogs. Its leaves differ from those of most other members of the Stipeae in lacking sclerenchyma pillars or girders. Two species are native to the Flora region.</discussion>
+  <references>Barkworth, M.E. 1983. Ptilagrostis in North America and its relationship to other Stipeae (Gramineae). Syst. Bot. 8:395-419; Johnston, B.C. 2006. Ptilagrostis porteri (Rydberg) W.A. Weber (Porter's False Needlegrass): A technical conservation assessment. Species Conservation Project Report. U.S. Department of Agriculture-Forest Service, Rocky Mountain Region, Lakewood, Colorado, U.S.A. 62 pp. http://www.fs.fed.us/r2/projects/scp/assessments/ptilagrostisporteri.pdf.</references>
+  <key>
+    <key_body>
+1. Awns not hairy; panicles loosely contracted  .....1. P. kingii
+1. Awns hairy, hairs on the lowest segment 1-2 mm long; panicles open or loosely contracted   .....2. P. porteri
+
+    </key_body>
+  </key>
+</bio:treatment>

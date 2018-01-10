@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Leymus multicaulis (Kar. & Kir.) Tzvelev </name_authority_date>
+  </taxon_identification>
+  <common_names>MANY-STEM WILDRYE</common_names>
+  <description type="morphology">Plants somewhat cespitose, rhizomatous. Culms 50-80 cm tall, 1.5-3 mm thick, usually few together, glabrous, mostly smooth, scabrous beneath the spikes. Leaves exceeded by the spikes; sheaths glabrous, smooth; auricles to 1 mm; ligules 1-2 mm; blades 3-8 mm wide, flat or the margins slightly involute, grayish green, sometimes glaucous, abaxial surfaces smooth, adaxial surfaces glabrous, with both primary and secondary veins, primary veins 5-7, not prominently ribbed. Spikes 5-14 cm long, 6-13 mm wide, with 2-4(6) spikelets per node; internodes 4-6 mm, glabrous or strigillose, hairs about 0.1 mm, edges ciliate, cilia to 0.4 mm. Spikelets 8-15 mm, with 2-6 florets. Glumes 4-10 mm long, to 1 mm wide, stiff, keeled, glabrous, scabrous, the central portion thicker than the margins, bases not overlapping, tapering from below midlength to the subulate apices, inconspicuously 1-veined at midlength; calluses usually with at least some hairs, hairs about 0.2 mm; lemmas 5-9 mm, mostly glabrous and smooth, scabrous distally, apices tapering to an awn, awns 2-3 mm, scabrous; anthers 3-4 mm, dehiscent. 2n = 42.</description>
+  <discussion>Leymus multicaulis is native to Eurasia, extending from the Volga River delta in Russia to Xinjiang, China. In its native range, it grows in alkaline meadows and saline soils, and as a weed in fields, near roads, and around human habitations. It is very similar to L. triticoides, and hybrids with that species are highly fertile. A cultivar of L. multicaulis, 'Shoshone', that was originally thought to be a productive strain of L. triticoides, has been widely distributed for forage. Leymus multicaulis differs from L. triticoides primarily in having both primary and secondary veins in its blades, and small hairs on its calluses. Because it has only recently been realized that L. multicaulis has been introduced to North America, its distribution in North America is unknown.</discussion>
+</bio:treatment>

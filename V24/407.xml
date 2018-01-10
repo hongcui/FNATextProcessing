@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>xElyhordeum pilosilemma  (W.W. Mitch. & H.J.
+Hodgs.) Barkworth 
+</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">xElyhordeum pilosilemma  (W.W. Mitch. & H.J.
+Hodgs.) Barkworth 
+</description>
+  <discussion>xElyhordeum pilosilemma is a hybrid between Elymus macrourus and Hordeum jubatum that occurs in many locations where the two parental species co-occur. It is very similar to xE. jordalii, a hybrid between E. macrourus and H. brachyantherum.</discussion>
+</bio:treatment>

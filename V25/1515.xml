@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Miscanthus nepalensis (Trin.) Hack. </name_authority_date>
+  </taxon_identification>
+  <common_names>HIMALAYA FAIRYGRASS</common_names>
+  <description type="morphology">Plants cespitose, shortly rhizomatous. Culms 40-80(150) cm. Sheaths more or less keeled, with scattered hairs, particularly below the collar; ligules 2-3.5 mm, obtuse, lacerate and shortly pubescent; blades 20-60 cm long, 4-10 mm wide, stiff, flat or folded, abaxial surfaces with scattered fine hairs, adaxial surfaces glabrous. Panicles 10-20 cm, flabellate, golden brown, with more than 15 branches; rachises about 1/2 as long as the panicles; branches 3.5-10.5 cm, ascending. Shorter pedicels 1.5-2 mm; longer pedicels 2.5-3.5 mm. Spikelets 2-2.8 mm; callus hairs 3-4 times longer than the spikelets, golden brown. Lower glumes hairy on the lower margins, hairs to 3 times longer than the glumes; awns of upper lemmas 9-13 mm, exceeding the glumes, flexuous to weakly geniculate. 2n = 40.</description>
+  <discussion>Miscanthus nepalensis is native from Pakistan through the Himalayas to Myanmar. It is cultivated occasionally in the Flora region. Edgar and Conner (2000) report that, in New Zealand, M. nepalensis has escaped cultivation and is spreading.</discussion>
+</bio:treatment>

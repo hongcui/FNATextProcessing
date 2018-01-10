@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>24</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthelium polyanthes (Schult.) Mohlenbr. </name_authority_date>
+  </taxon_identification>
+  <common_names>MANY-FLOWERED PANICGRASS</common_names>
+  <description type="morphology">Plants cespitose, with few culms per tuft. Basal rosettes well-differentiated; blades 3-8 cm long, often to 2 cm wide, ovate-lanceolate. Culms 30-95 cm, nearly erect, fairly stout; nodes glabrous or puberulent; internodes usually glabrous; fall phase with few, long-ascending branches, sparingly rebranched, branches arising mostly near the base of the culms. Cauline leaves 4-7; sheaths shorter than the internodes, mostly glabrous, margins ciliate; ligules vestigial; blades 10-25 cm long, 14-25 mm wide, thick, firm, often light green, veins evident (some more prominent than others), bases cordate, with papillose-based cilia, margins whitish, cartilaginous. Primary panicles 7-20 cm, less than 1/2 as wide as long, exserted. Spikelets 1.3-1.7 mm, broadly ellipsoid-spherical, often purplish at the base, puberulent. Lower glumes 0.4-0.7 mm, acute to obtuse, upper florets 1.1-1.4 mm, broadly ellipsoid, blunt. 2n = 18.</description>
+  <discussion>Dichanthelium polyanthes grows in woods, stream banks, and ditches, and is restricted to the eastern United States. It occasionally hybridizes with D. sphaerocarpon.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Setaria reverchonii subsp. ramiseta (Scribn.) W.E. Fox </name_authority_date>
+  </taxon_identification>
+  <common_names>RIO GRANDE BRISTLEGRASS</common_names>
+  <description type="morphology">Sheaths with papillose-based hairs; blades 5-15 cm long, 2-4 mm wide, adaxial surfaces with papillose-based hairs. Spikelets about 2.5 mm, obovate, turgid, subtending bristles 2-4 mm. Lower glumes 5-veined; upper glumes 7-9-veined. 2n = 36.</description>
+  <discussion>Setaria reverchonii subsp. ramiseta grows in the sandy plains and prairies of southeastern New Mexico, southern Texas, and northern Mexico.</discussion>
+</bio:treatment>

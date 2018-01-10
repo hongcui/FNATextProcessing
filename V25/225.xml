@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>31</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sporobolus pinetorum Weakley & P.M. Peterson </name_authority_date>
+  </taxon_identification>
+  <common_names>CAROLINA DROPSEED</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms (30)45-120 (180) cm. Sheaths shiny and indurate basally, glabrous or appressed hairy elsewhere, hairs to 5 mm, margins hyaline; ligules 0.2-0.6 mm; blades 20-50 cm long, 1.2-2(3) mm wide, flat, folded or involute, dark green, remaining so well into winter, glabrous on both surfaces or the adaxial surface sparsely hairy basally, margins scabridulous. Panicles 15-30 cm long, 2-6 cm wide, open (contracted when immature), longer than wide, pyramidal to ovate, not diffuse; lower nodes with 1-2(3) branches;  primary  branches  2-8   cm,   appressed  or spreading to 50° from the rachis, not capillary, without spikelets on the lower 1/3; secondary branches spreading; pulvini hairy or glabrous; pedicels 2-22 mm, longer than the spikelets, spreading, glabrous, scabridulous. Spikelets 3.5-6.5 mm, purplish-brown. Glumes linear-lanceolate, membranous; lower glumes 2.4-4.5 mm, 0.6-0.83 times as long as the upper glumes; upper glumes (3.5)4-6(6.5) mm, as long as or longer than the florets; lemmas 3.4-4.3 mm, ovate to lanceolate, membranous, glabrous, acute; paleas 3.4-4.4 mm, ovate, membranous, glabrous; anthers 2.5-3.4 mm, purplish. Fruits 1.8-2.2 mm, fusiform, brown. 2n = unknown.</description>
+  <discussion>Sporobolus pinetorum grows in wet to moist pine woodlands, in soils seasonally to semi-permanently saturated, at elevations of 0-160 m. It is endemic to the southeastern United States.</discussion>
+</bio:treatment>

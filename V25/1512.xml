@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>26.03</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>MISCANTHUS Andersson</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, sometimes rhizomatous. Culms 40-400 cm, erect. Leaves not aromatic; sheaths open; ligules membranous, truncate, ciliate; blades flat. Inflorescences terminal, ovoid or corymbose panicles, with elongate rachises and numerous ascending, spikelike branches; branches usually more than 10 cm long, with unequally pedicellate spikelet pairs, spikelets homogamous and homomorphic; disarticulation below the glumes. Calluses short, blunt, pilose, with fine hairs, hairs often exceeding the spikelets. Glumes membranous to coriaceous; lower glumes broadly convex to weakly 2-keeled, without raised veins; lower florets sterile; upper florets bisexual; upper lemmas entire and unawned or bidentate and awned from the sinuses; anthers 2 or 3. Pedicels free, x = 19. </description>
+  <discussion>Miscanthus is a genus of approximately 25 species. Most of the species are native to southeast Asia; a few extend into Africa. Some species hybridize with Saccharum, from which Miscanthus differs in its non-disarticulating branches and unequally pedicellate, rather than sessile-pedicellate, spikelets.
+The five species found in the Flora region are all grown as ornamentals because of their large, plumose panicles and striking growth habit. They flower in late summer to fall. The differing chromosome numbers within Miscanthus sinensis and M. sacchariflorus are associated with morphological differences in Japan, but it is not known if this is true for cultivated plants.
+</discussion>
+  <references>Adati, S. and I. Shiotani. 1962. The cytotaxonomy of the genus Miscanthus and its phylogenetic status. Bull. Fac. Agric. Mie Univ. 25:1-24; Edgar, E. and H.E. Connor. 2000. Flora of New Zealand, vol. 5. Manaaki \Hienua Press, Lincoln, New Zealand. 650 pp.; Koyama, T. 1987. Grasses of Japan and Its Neighboring Regions: An Identification Manual. Kodansha, Ltd., Tokyo, Japan. 370 pp.; Scott, T. 1995. Whispering grasses. Gardens 111. 15:56-65.</references>
+  <key>
+    <key_body>
+1. Callus hairs 2-4 times as long as the spikelets.
+2. Spikelets 4-6 mm long; upper lemmas unawned or the awns not exceeding the glumes.....4. M. sacchariflorus
+2. Spikelets 2-2.8 mm long; upper lemmas awned, the awns 9-13 mm long, exceeding the glumes  .....3. M. nepalensis
+1. Callus hairs from shorter than to twice as long as the spikelets.
+3. Culms few together or solitary; basal leaves with reduced blades, only the cauline leaves with long blades; panicles loose, with 2-5 branches .....5. M. oligostachyus
+3. Culms densely tufted, forming large clumps; many basal leaves with long blades; panicles usually with more than 15 branches.
+4. Spikelets 3.5-7 mm long; blades 6-20 mm wide; rachises 1/3 – 2/3 as long as the panicles   .....2. M. sinensis
+4. Spikelets 3-3.5 mm long; blades 15-40 mm wide; rachises 3/4 – 4/5 as long as the panicles ..... 1. M. floridulus
+
+    </key_body>
+  </key>
+</bio:treatment>

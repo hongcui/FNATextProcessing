@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aristida ternipes Cav. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose. Culms 25-120 cm, wiry, erect to sprawling, unbranched. Leaves basal and cauline; sheaths usually longer than the internodes, glabrous; collars glabrous or strigillose; ligules less than 0.5 mm; blades 5-40 cm long, 1-2.5 mm wide, flat to folded, straight to lax at maturity, adaxial surfaces with scattered, 1.5-3 mm hairs near the ligule. Inflorescences paniculate, 15-40 cm long, (8)10-35(45) mm wide; rachis nodes glabrous or strigillose; primary branches 5-25 cm, remote, stiffly ascending to divaricate, with axillary pulvini, usually naked near the base; secondary branches and pedicels usually appressed. Spikelets usually congested. Glumes 9-15 mm, subequal, 1-veined, acuminate; calluses 1-1.2 mm; lemmas 9-15 mm long, smooth to tuberculate-scabrous, narrowing to slightly keeled, usually not twisted, 0.1-0.2 mm wide apices, junction with the awns not evident; awns not disarticulating at maturity, unequal or almost equal; central awns 8-25(30) mm, straight to arcuate at the base; lateral awns absent or to 0-23 mm; anthers 3, 1.2-2.4 mm. Caryopses 6-8 mm, light brownish. 2n = 22, 24.</description>
+  <key>
+    <key_body>
+1.  Lateral awns 2-23 mm long.....var. gentilis
+1.  Lateral awns 0-2 mm long   .....var. ternipes
+
+    </key_body>
+  </key>
+</bio:treatment>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Dichanthelium sect. Linearifolia Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose, with caudices. Basal rosettes poorly differentiated; blades narrow, erect or ascending, resembling the lower cauline blades in shape. Culms 10-50 cm, erect to spreading or drooping, lower internodes very short, upper 2-4 internodes often much elongated; fall phase branching from the basal nodes, usually producing sterile shoots or condensed secondary panicles within about 5 cm of the ground. Cauline leaves 2-4; ligules 0.5-1 mm, of hairs; blades usually erect, stiff, upper blades 1-5 mm wide, 15-60 times as long. Primary panicles usually exserted. Spikelets narrowly ellipsoid to obovoid, usually pubescent, sometimes glabrous. Upper florets subacute to acute or umbonate.</description>
+</bio:treatment>

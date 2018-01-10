@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>13</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa pratensis L. </name_authority_date>
+  </taxon_identification>
+  <common_names>KENTUCKY BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; green or anthocyanic, sometimes glaucous; extensively rhizomatous, densely to loosely tufted or the shoots solitary. Basal branching mainly extravaginal or evenly extra- and intravaginal. Culms 5-70(100) cm, erect or the bases decumbent, not branching above the base, terete or weakly compressed; nodes terete or weakly compressed, 1-2(3) exposed, proximal node(s) usually not exserted. Sheaths closed for 1/4-1/2 their length, terete to slightly compressed, glabrous or infrequently sparsely to moderately hairy, bases of basal sheaths glabrous, not swollen, distal sheath lengths 1.2-5(6.2) times blade lengths; collars smooth, glabrous; ligules 0.9-2(3.1) mm, smooth or scabrous, truncate to rounded, infrequently obtuse, ciliolate or glabrous; blades of extravaginal innovations like those of the culms, those of the intravaginal shoots sometimes distinctly narrower, 0.4-1 mm wide, flat to involute; cauline blades 0.4-4.5 mm wide, flat, folded, or involute, soft and lax to moderately firm, abaxial surfaces smooth, glabrous, adaxial surfaces smooth or sparsely scabrous, frequently sparsely hairy, hairs 0.2-0.8 mm, erect to appressed, slender, curving, sinuous or straight, apices usually broadly prow-shaped, sometimes narrowly prow-shaped, blades subequal, the middle blades longest, the flag leaf blades 1.5-10 cm. Panicles 2-15(20) cm, narrowly ovoid to narrowly or broadly pyramidal, loosely contracted to open, sparse to moderately congested, with (25) 30-100+ spikelets and (1)2-7(9) branches per node; branches (1)2-9 cm, spreading early or late, terete or angled, smooth or sparsely to moderately densely scabrous, with 4-30(50) spikelets usually fairly crowded in the distal 1/2. Spikelets 3.5-6(7) mm, lengths 3.5 times widths, laterally compressed, sometimes bulbiferous; florets 2-5, usually normal, sometimes bulb-forming; rachilla internodes usually shorter than 1 mm, smooth, glabrous. Glumes unequal to subequal, usually distinctly shorter than the adjacent lemmas, narrowly lanceolate to lanceolate, infrequently broadly lanceolate, distinctly keeled, keels usually sparsely to densely scabrous, infrequently smooth; lower glumes 1.5-4(4.5) mm, usually narrowly lanceolate to  
+lanceolate, occasionally sickle-shaped, 1-3-veined; upper glumes 2-4.5(5) mm, distinctly shorter than to nearly equaling the lowest lemmas; calluses dorsally webbed, sometimes with additional webs below the marginal veins, hairs at least 1/2 as long as the lemmas, crimped; lemmas 2-4.3(6) mm, lanceolate, green or strongly purple-tinged, distinctly keeled, keels and marginal veins long-villous, lateral veins usually glabrous, infrequently short-villous to softly puberulent, lateral veins prominent, intercostal regions glabrous, lower portion smooth or finely muriculate, upper portion smooth or sparsely scabrous, margins narrowly to broadly hyaline, glabrous, apices acute; paleas scabrous, keels sometimes softly puberulent, intercostal regions narrow, usually glabrous, rarely sparsely hispidulous; anthers usually 1.2-2 mm, infrequently aborted late in development. 2n = 27, 28, 32, 35, 37, 41-46, 48-147.
+</description>
+  <discussion>Poa pratensis is common, widespread, and well established in many natural and anthropogenic habitats of the Flora region. The only taxa that are clearly native to the region are the arctic and subarctic subspp. alpigena and colpodea. Outside the Flora region, P. pratensis is native in temperate and arctic Eurasia. It is now established in temperate regions around the world.
+Poa pratensis is a highly polymorphic, facultatively apomictic species, having what is probably the most extensive series of polyploid chromosome numbers of any species in the world. Poa pratensis is a hybridogenic species, i.e., it comprises numerous lineages with the same basic maternal genome, but different paternal genomes. The lineages are perpetuated by agamospermic and vegetative reproduction. Some major forms are recognized as microspecies or subspecies. These have some correlated ecological and morphological differences, but the morphological boundaries between them are completely bridged, and in some cases the taxa (e.g., subspp. agassizensis and colpodea) may represent environmentally induced plasticity.
+Natural hybrids have been identified between Poa pratensis and P. alpina, P. arctica, P. wheeleri, and P. secunda. Many other artificial hybrids have been made; these involve many different, often distantly related, species. In addition, there are many cultivated forms of the species; these have been seeded widely throughout the Flora region for lawns, soil stabilization, and forage. Most cultivated forms favor subsp. irrigata morphologically; others tend towards subspp. pratensis and angustifolia, the latter occurring most commonly in xeric sites.
+Poa rhizomata (p. 546) resembles P. pratensis, but has acute ligules arid sparse inflorescences, florets that are usually unisexual, and generally larger spikelets; Poa macrocalyx (p. 527) looks like a robust P. pratensis with large spikelets, and lemmas and paleas that are generally hispidulous between the veins and palea keels. Poa confinis (p. 552) also resembles P. pratensis, but differs in having glabrous or sparsely hairy lemmas, and diffusely webbed calluses.
+</discussion>
+  <key>
+    <key_body>
+1. At least some spikelets bulbiferous; plants of the high arctic tundra .....subsp. colpodea
+1. Spikelets not bulbiferous; plants widely distributed.
+2. Panicle branches smooth or almost smooth.
+3. Basal branching primarily extravaginal; blades flat or folded, soft, adaxial surfaces usually glabrous, sometimes sparsely hairy; plants of alpine and tundra regions.....subsp. alpigena
+3. Basal branching both intra- and extravaginal; blades folded or involute, somewhat firm, adaxial surfaces often sparsely hairy; plants widely distributed, but not in  alpine  or tundra  regions .....subsp. agassizensis
+2. Panicles branches more or less scabrous.
+4. Intravaginal innovation shoots present, intra- and extravaginal blades alike, 0.4-1 mm wide, folded to involute, somewhat firm, adaxial surfaces often sparsely and sofly hairy; plants of dry meadows and forests.....subsp. angustifolia
+4. Intravaginal innovation shoots present or absent, if present then differentiated or alike, at least some with blades 1.5-4.5 mm wide, flat or folded, adaxial surfaces rarely hairy; plants widespread, often of more mesic sites.
+5. Culms 8-30(50) cm tall, often somewhat glaucous, particularly the glumes; blades flat; intravaginal shoots absent or present and with blades similar to those of the extravaginal shoots; panicles with few spikelets per branch and 1-2(5) branches per node; plants of low, wet, often sandy ground  ..... subsp. irrigata
+5. Culms to 100 cm tall, not glaucous; blades flat or folded; intravaginal shoots present, with blades similar to those of the extravaginal shoots or distinctly narrower; panicles with several to many spikelets per branch and 3-5(7) branches per node; plants of various habitats, including those of subsp. irrigata.....subsp. pratensis
+
+    </key_body>
+  </key>
+</bio:treatment>

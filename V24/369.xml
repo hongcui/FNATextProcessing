@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>J.K. Wipff</author>
+    </source>
+  </meta>
+  <number>13.04</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>TAENIATHERUM Nevski</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual. Culms (5)10-55(70) cm, erect, glabrous; nodes 3-6. Leaves evenly distributed; sheaths open, usually glabrous; auricles 0.1-0.5 mm, rarely absent; ligules membranous, truncate; blades flat to involute. Inflorescences spikes, erect; nodes 4-24(28), each with 2(3, 4) spikelets; internodes 0.5-3.5 mm. Spikelets with 2(3) florets, the lowest floret in each spikelet bisexual, the distal floret(s) highly reduced, sterile; disarticulation above the glumes. Glumes 5-80 mm, equal, awnlike, erect to spreading or reflexed, bases connate. Bisexual florets: lemmas 5-veined, glabrous or scabrous, margins flat, scabrous, apices terminally awned, awns 20-110 mm, longer than the lemmas, divergent, often cernuous; paleas as long as the lemmas, keels antrorsely ciliate, apices truncate; lodicules 2, lobed, ciliate. Reduced florets: lemmas 3-veined, awned; paleas absent; anthers 3, yellow to purple. Caryopses narrowly elliptic, with an adaxial groove, apices pubescent, x = 7. Haplome Ta.</description>
+  <discussion>Taeniatherum includes only one species. It is native to Eurasia.</discussion>
+  <references>Frederiksen, S. 1986. Revision of Taeniatherum (Poaceae). Nordic J. Bot. 6:389-397; Humphries, C.J. 1978. Variation in Taeniatherum caput-medusae (L.) Nevski. Bot. J. Linn. Soc. 76:340-344.</references>
+</bio:treatment>

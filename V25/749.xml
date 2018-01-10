@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>36</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia utilis (Torr.) Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>APAREJOGRASS</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, not cespitose. Culms 7-30 cm tall, 0.5-1 mm thick, erect to decumbent; internodes mostly smooth to slightly nodulose, minutely pubescent or glabrous below the nodes. Sheaths shorter or longer than   the internodes, glabrous; ligules 0.2-0.8 mm, membranous, truncate; blades 0.5-4.7 cm long, 0.2-1.8 mm wide, usually involute, sometimes flat, often at right angles to the culm, glabrous abaxially, hirtellous adaxially. Panicles 1-5 cm long, 0.1-0.4 cm wide, contracted, usually partially included in the upper sheaths, rachises usually visible between the branches; primary branches 0.2-1.2 cm, usually closely appressed at maturity, rarely diverging up to 30° from the rachises; pedicels 0.1-1.1 mm, glabrous. Spikelets 1.4-2.4 mm. Glumes subequal, 0.5-1.4 mm, 1/3 – 1/2 as long as the lemmas, yellowish to light green, glabrous, 1(2-3)-veined, acute, unawned; lemmas 1.3-2.4 mm, lanceolate, green or purplish, glabrous or the calluses and margins appressed-pubescent, hairs shorter than 0.3 mm, apices acute, unawned; paleas 1-2 mm, lanceolate, glabrous, acute; anthers 0.7-1.4 mm, yellow to purplish. Caryopses 0.7-1.2 mm, ellipsoid to ovoid, brown. 2n = 20.</description>
+  <discussion>Muhlenbergia utilis grows in wet soils along streams, ponds, and depressions in grasslands and alkaline or gypsiferous plains, at elevations of 200-1800 m. Its range extends from the southern United States through Mexico to Costa Rica.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>24</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia arsenei Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>NAVAJO MUHLY</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, rhizomes sometimes short and the plants loosely cespitose. Culms 10-50 cm tall, 0.4-1 mm thick, decumbent; internodes glabrous or strigulose. Sheaths shorter than the internodes, strigulose or glabrous, usually without necrotic spots, not becoming spirally coiled when old; ligules 1-2 mm, membranous throughout, obtuse, strigulose or glabrous, erose or toothed, with lateral lobes, lobes less than 1.5 mm longer than the central portion; blades 1-6 cm long, 1-2 mm wide, flat to involute, smooth or scabridulous abaxially, hirsute adaxially, usually without necrotic spots. Panicles 4-13 cm long, 1-3(5) cm wide, not dense; primary branches 0.5-4 cm, appressed or diverging up to 30° from the rachises, spikelet-bearing to the base; pedicels 0.1-3 mm. Spikelets 3.5-5 mm. Glumes subequal, 2-4 mm, exceeded by the florets, 1-veined, scabrous on the veins and near the apices, apices acuminate, unawned or awned, awns to 1.2 mm; lemmas 3.5-5 mm, lanceolate, mostly purplish, veins conspicuously green, pubescent on the lower 1/3-1/2 of the midveins and margins, hairs to 1.5 mm, apices scabridulous, acuminate, awned, awns 4-12(20) mm, flexuous; paleas 3.5-5 mm, narrow-lanceolate, intercostal region pubescent, apices acuminate, veins sometimes extending into awns to 0.5 mm; anthers 1.3-3 mm, purple. Caryopses 2-2.3 mm, fusiform, brownish. 2n = unknown.</description>
+  <discussion>Muhlenbergia arsenei grows among granitic boulders, on rocky slopes, limestone rock outcrops, and in arroyos, at elevations of 1400-2850 m. Its range extends from the southwestern United States into Baja California, Mexico. It flowers from August to September.</discussion>
+</bio:treatment>

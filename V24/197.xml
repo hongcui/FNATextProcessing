@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Piptatherum canadense (Poir.) Dorn </name_authority_date>
+  </taxon_identification>
+  <common_names>CANADIAN PIPTATHERUM, ORYZOPSIS DU CANADA</common_names>
+  <description type="morphology">Plants cespitose, not rhizomatous. Culms 30-90 cm, glabrous; basal branching mostly intravaginal. Leaves basally concentrated; sheaths smooth or scabridulous; ligules 1-4 mm, hyaline, truncate, rounded, or acute; basal blades 4-15 cm long, 1-1.5 mm wide when flat, 0.5-0.8 mm in diameter when folded or convolute. Panicles 9-15 cm, lower nodes with 1-2 branches; branches 1-6 cm, somewhat flexuous, ascending to divergent. Glumes subequal, 3-6 mm long, 1.3-2 mm wide, ovate, 1-3-veined, apices acute to mucronate; florets 2.2-4.5 mm, obovoid, dorsally compressed; calluses 0.2-0.5 mm, hairy, disarticulation scars elliptic; lemmas coriaceous, evenly pubescent, tan at maturity, margins widely separated even when immature; awns 5-15 mm, persistent, once- or twice-geniculate, first segments strongly twisted; paleas similar to the lemmas in length, texture, and pubescence; anthers 1-2 mm; ovaries developing 2 conelike style bases, each bearing a single, unbranched style. Caryopses about 2.5 mm long, 0.5 mm thick; hila linear, almost equaling the caryopses. 2n = 22.</description>
+  <discussion>Piptatherum canadense grows in grasslands and open woods, from the British Columbia-Alberta border east to Newfoundland, extending south into the Great Lakes region and the northeastern United States. Its persistent, longer awns distinguish P. canadense from P. pungens.</discussion>
+</bio:treatment>

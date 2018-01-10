@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Robert B. Shaw</author>
+      <author>Robert D. Webster</author>
+      <author>Christine M. Bern</author>
+    </source>
+  </meta>
+  <number>25.14</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>ERIOCHLOA Kunth</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; cespitose, sometimes with short rhizomes or stolons, not producing subterranean spikelets. Culms 20-250 cm, erect or decumbent, usually with 2-5 nodes. Sheaths open; auricles absent; ligules membranous, ciliate. Inflorescences terminal, panicles of spikelike branches on elongate rachises; branches with many pedicellate, loosely appressed spikelets, terminating in a spikelet, without stiff bristles or flat bracts, spikelets in pairs, triplets, or solitary, often solitary distally when in pairs or triplets at the middle of the branches; pedicels terminating in a well-developed disk; disarticulation below the glume(s). Spikelets with 2 florets, lower florets usually sterile, upper florets bisexual. Lower glumes typically reduced (sometimes absent) and fused with the glabrous callus to form a cuplike structure; upper glumes lanceolate to ovate, glabrous or variously pubescent, 3-9-veined, unawned or awned; lower lemmas similar to the upper glumes in length, shape, venation, and pubescence, unawned; lower paleas absent to fully developed; upper lemmas lanceolate to ovate, indurate, rugose, dull, glabrous, rounded on the back, veins not pronounced, margins involute; anthers 3; lodicules 2, papery; styles with 2 branches, purple, plumose. Caryopses not longitudinally grooved; endosperm solid, x = 9. </description>
+  <discussion>Eriochloa, a genus of 20-30 species, grows in tropical, subtropical, and warm-temperate areas of the world. Eight species of Eriochloa are native to the Flora region and three are introduced. Of the three introduced species only two, E. polystachya and E. pseudoacrotricha, have become naturalized.
+Only one native species, Eriochloa sericea, is abundant enough to be an important forage species. The introduced E. polystachya is also used for this purpose.
+</discussion>
+  <references>Shaw, R.B. and F.E. Smeins. 1981. Some anatomical and morphological characteristics of the North American species of Eriochloa (Poaceae: Paniceae). Bot. Gaz. 142:534-544; Shaw, R.B. and R.D. Webster. 1987. The genus Eriochloa (Poaceae: Paniceae) in North and Central America. Sida 12:165-207.</references>
+  <key>
+    <key_body>
+1. Spikelets solitary at the middle of the branches, sometimes in unequally pedicellate pairs near the base.
+2. Pedicels with more than 12 long (1.5-3 mm) hairs near the apices, densely hirsute or villous below, the hairs mostly about 0.1 mm long, but with some longer hairs interspersed among the short hairs.
+3. Blades 0.5-4 mm wide; spikelets 1.4-1.9 mm wide; plants perennial.....1. E. sericea
+3. Blades 5-12 mm wide; spikelets 2-2.5 mm wide; plants annual.....2.E. villosa
+2. Pedicels with fewer than 10 long (1.5-3 mm) hairs near the apices; variously hirsute below.
+4. Lower floret of each spikelet with a palea.....3. E. michauxii
+4. Lower floret of each spikelet without a palea.
+5. Rachises hairy, the longer hairs 0.1-0.8 mm long; spikelets 3.1-5 mm long, 1.2-1.7 mm wide .....4. E. contracta
+5. Rachises glabrous or scabrous, not hairy; spikelets 2.7-3.6 mm long, 0.8-1.5 mm wide .....5. E. fatmensis
+
+ 
+ 
+1. Spikelets in unequally pedicellate pairs or triplets at the middle of the branches, sometimes solitary distally.
+6. Adaxial surfaces of the blades velvety to the touch; cauline internodes pubescent to pilose. .....6. E. lemmonii
+6. Adaxial surfaces of the blades glabrous or hairy, but not velvety to the touch; cauline internodes glabrous or pubescent. 
+7. Upper lemmas unawned or the awns shorter than 0.2(0.3) mm.
+8. Plants annual; upper glumes acute to acuminate, often terminating in awnlike apices up to 1.5 mm long; lower florets without paleas.
+9. Longer pedicels of the spikelet pairs or triplets to 1 mm long; upper glumes acute to acuminate, unawned or awned, the awns up to 1.2 mm long .....10. E. acuminata .
+9.  Longer pedicels of the spikelet pairs to 3 mm long; upper glumes always acuminate, awned, the awns 0.5-3.5 mm long  .....8. E. aristata
+8. Plants perennial; upper glumes acute, unawned; lower floret of each spikelet usually with a palea.
+10. Culms erect, not rooting at the lower nodes; spikelets 3.7-5.7 mm long, 1.3-1.8 mm wide; lower floret of each spikelet always with a palea. ..... 3. E. michauxii
+10. Culms decumbent, rooting at the lower nodes; spikelets 3.2-3.9 mm long, 1.1-1.3 mm wide; lower floret of each spikelet with or without a palea .....11. E. polystachya
+7. Upper lemmas awned, the awns 0.2-1.5 mm long.
+11. Spikelets 2.7-3.6 mm long, 0.8-1.5 mm wide  .....5. E. fatmensis
+11. Spikelets 3.6-8.8 mm long, 0.9-1.6 mm wide.
+12. Pedicels uniformly hirsute, the hairs about 0.1 mm long; plants rhizomatous .....7.E. punctata . 
+12. Pedicels with some hairs  0.5-2.5 mm long,  at least distally; plants not rhizomatous.
+13. Plants perennial  .....9. E. pseudoacrotricha
+13. Plants annual.
+14. Longer pedicels of the spikelet pairs or triplets to 1 mm long; upper glumes acute to acuminate, unawned or awned, the awns up to 1.2 mm long .....10. E. acuminata
+14. Longer pedicels of the spikelet pairs to 3 mm long; upper glumes always acuminate, awned, the awns 0.5-3.5 mm long .....8. E. aristata
+ 
+
+    </key_body>
+  </key>
+</bio:treatment>

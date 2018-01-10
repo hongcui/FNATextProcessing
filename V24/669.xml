@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Puccinellia vahliana (Liebm.) Scribn. & Merr.</name_authority_date>
+  </taxon_identification>
+  <common_names>VAHL'S ALKALI GRASS, PUCCINELLIE DE VAHL</common_names>
+  <description type="morphology">Plants perennial; cespitose, not mat-forming. Culms 5-15 cm, erect. Ligules 1-2.5 mm, acute to obtuse, entire; blades 2-8 mm wide, flat or folded. Panicles 2-4 cm, usually contracted and dense, sometimes slightly diffuse at maturity, lowest node usually with long and short branches, lower branches erect to ascending, spikelets usually confined to the distal 2/3; pedicels glabrous and smooth, lacking tumid epidermal cells or with very small tumid epidermal cells. Spikelets 3.8-6.5 mm, with 2-4(5) florets. Glumes broadly ovate, enfolding the bases of the lower lemmas, rounded over the back, veins obscure or distinct, apices acute to obtuse; lower glumes 2-3.5 mm, at least 2/3 as long as the adjacent lemmas; upper glumes 2.4-4 mm; rachilla internodes abruptly broadened at the point of attachment to the lemmas, less than 0.09 mm thick; calluses with a few hairs; lemmas 3-5.2 mm, usually herbaceous and mostly purplish, sometimes membranous with purple veins, basal 1/2 hairy over and between the veins, backs rounded, 5-veined, veins obscure or distinct, often dark purple, not extending to the margins, apical margins hyaline, often yellowish, smooth, apices acute, entire, becoming erose with age; palea veins with curly, intertwined hairs on the proximal portion, scabrous distally; anthers 0.8-1.5 mm. 2n = 14.</description>
+  <discussion>Puccinellia vahliana is an arctic species that is circumpolar, except in the Beringian region. In the Flora region, it extends from Alaska through northern Canada to Greenland. It is generally non-halophytic, growing in calcareous gravel, sand, clay, or moss of imperfectly drained moist areas, and on seepage slopes from near sea level to 700 m, or, rarely, in seasonally dry, turfy sites. It is often a pioneering species in moist clay and silt by alpine brooks, ephemeral lakes, glacial runoff streams, and on snowbeds. The roots of this species and P. wrightii are characteristically thicker and more tightly curled than those of other Puccinellia species. It sometimes hybridizes with Phippsia algida.</discussion>
+</bio:treatment>

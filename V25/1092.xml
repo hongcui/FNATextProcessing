@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Anthenantia villosa (Michx.) P. Beauv </name_authority_date>
+  </taxon_identification>
+  <common_names>PURPLE SILKYSCALE</common_names>
+  <description type="morphology">Culms 70-110 cm, erect from scaly rhizomes. Leaves mostly shorter than 30 cm, junction of the sheath and blade evident; blades 5-10 mm wide, at an angle to the sheaths, surfaces glabrous or the adaxial surfaces hirsute, margins hispid, with papillose-based hairs. Panicles 8-16 cm long, 1-3 cm wide; branches stiffly to loosely erect. Spikelets 3-4 mm long, 0.7-1.5 mm wide. Upper glumes and lower lemmas pubescent, hairs 0.5-1 mm, appressed or spreading, usually colorless or white; anthers 1-1.8 mm. Caryopses 1.2-1.4 mm. 2n = 20.</description>
+  <discussion>Anthenantia villosa grows in dry, usually sandy soil on the southeastern coastal plain from eastern Texas to North Carolina. It usually grows in wetter habitats in southeastern Texas than in other portions of its range.</discussion>
+</bio:treatment>

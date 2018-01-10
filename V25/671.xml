@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Dichanthelium commutatum (Schult.) Gould subsp. commutatum</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants with caudices. Culms more or less erect, usually glabrous, sometimes sparsely pubescent or puberulent. Basal blades large, usually 8-14 cm long, 7-22 mm wide. Cauline blades 3.5-8 times as long as wide, 6-25 mm wide, thin, ovate-lanceolate, green, sometimes glaucous, bases almost symmetrical. Spikelets 2.6-2.9 mm. Lower glumes about 1/4 as long as the spikelets; lower lemmas rounded apically.</description>
+  <discussion>Dichanthelium commutatum subsp. commutatum grows in wet to dry woodlands. Its range extends to South America.</discussion>
+</bio:treatment>

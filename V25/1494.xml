@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>43</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum unispicatum (Scribn. & Merr.) Nash </name_authority_date>
+  </taxon_identification>
+  <common_names>ONE-SPIKE PASPALUM</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, not rooting at the lower nodes. Culms 50-80 cm, erect. Sheaths glabrous, pubescent apically, margins scarious; ligules 1-2 mm, membranous, lacerate; blades 3-4 mm wide, flat, glabrous, pubescent behind the ligules, margins papillose-ciliate. Inflorescence terminal, erect, a spicate raceme 7-15 cm long, or a panicle with 1-2 subterminal spicate branches that are wholly or partially enclosed in the upper sheath, often arcuate; branches terminating in a spikelet. Spikelets 2.7-3 mm, paired, imbricate, obovate, stramineous. Lower glumes absent, or 1-2.3 mm; upper glumes and lower lemmas glabrous, 3-veined, margins entire; lower lemma lacking ribs over the veins; lower florets often staminate; lower paleas 2.5-2.9 mm, membranous; upper florets 2.3-2.9 mm, white, stramineous, or golden brown. 2n = 40.</description>
+  <discussion>Paspalum unispicatum grows in sandy soil in the coastal plain of Texas and extends southward through Mexico and Central America to Cuba and Paraguay, Uruguay, and Argentina. It has not been reported from Brazil.</discussion>
+</bio:treatment>

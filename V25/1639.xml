@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elionurus tripsacoides Humb. & Bonpl. ex Willd. </name_authority_date>
+  </taxon_identification>
+  <common_names>PAN-AMERICAN BALSAMSCALE</common_names>
+  <description type="morphology">Plants cespitose; with short, knotty, rhizomatous bases. Culms 60-120 cm, glabrous throughout. Sheaths glabrous or pilose on the margins; ligules 0.5-1 mm, membranous, shortly ciliate; blades 16-30 cm long, 2-4 mm wide, adaxial surfaces with hairs to 5 mm basally, glabrous distally, margins ciliate near the bases. Rames 6-15 cm; internodes pilose. Sessile spikelets 6-8 mm; calluses about 1 mm, antrorsely hirsute; lower glumes usually mostly glabrous, rarely sparsely pilose dorsally, keels ciliate distally, apices acuminate, bidentate, teeth about 0.5 mm; pedicels hispid on the margins, usually glabrous elsewhere. Pedicellate spikelets similar to the sessile spikelets. 2n = 20.</description>
+  <discussion>Elionurus tripsacoides grows in moist pine woods and low prairies around southern Texas and the Gulf coast to Georgia, and south through Mexico and Central America to Argentina.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Cortaderia jubata (Lemoine ex Carriere) Stapf </name_authority_date>
+  </taxon_identification>
+  <common_names>PURPLE PAMPAS GRASS</common_names>
+  <description type="morphology">Plants pistillate (in North America). Culms 2-7 m, 4-7 times as long as the panicles. Leaves primarily basal; sheaths hairy, sometimes densely so; ligules 1-2 mm; blades 1 m long or longer, 2-10 cm wide, mostly flat, often horizontal, dark green, abaxial surfaces hairy near the base. Panicles 30-100 cm, elevated well above the basal foliage, deep violet when young. Spikelets 14-16 mm, pistillate; florets readily disarticulating; calluses about 0.6 mm; lemmas about 10 mm, long-attenuate to an awn, awns to 1 mm; paleas to 4 mm, keels ciliate, apical hairs extending beyond the body of the paleas; stigmas usually not exerted. Caryopses to 2.5 mm; embryos to 1 mm. 2n = 108.</description>
+  <discussion>Cortaderia jubata is found on the west coast of the coterminus United States, growing in disturbed, open ground such as brushy slopes, eroded banks and cliffs, road cuts, cut-over timber areas, and sand dunes. It is native to mountainous areas of Ecuador, Peru, and Bolivia. It was grown in the past as an ornamental because of its attractive panicles, but is now a serious weed in California, reproducing apomictically and invading many open habitats. It was mistakenly called C. rudiuscula Stapf by Hitchcock (1951). The florets of C. rudiuscula differ from those of C. jubata in being longer and narrower, having shorter, less hairy calluses, and in having no hairs that extend beyond the top of the palea. C. rudiuscula is not known from North America.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Lolium persicum Boiss. & Hohen. </name_authority_date>
+  </taxon_identification>
+  <common_names>PERSIAN DARNEL</common_names>
+  <description type="morphology">Plants annual. Culms 14-45(60) cm. Blades 3.5-20 cm long, 1.5-7 mm wide. Spikes 3-21 cm, with 3-12 spikelets; rachises 0.5-2 mm thick at the nodes, often flexuous, spikelets not sunken in the rachises, not concealed by the glumes. Spikelets 9-27 mm long, 1.5-7 mm wide, with 4-9 florets. Glumes (4.7)7.5-23 mm, from 2/3 as long as to equaling the distal florets, somewhat indurate; lemmas (5.2)7-12 mm long, 1.5-2.7 mm wide, awns (1.5)5-18 mm, attached 0.2-1 mm below the apices; paleas usually 0.5-1.8 mm longer than the lemmas; anthers 1.5-3 mm. Caryopses 4.8-7 mm long, 1.2-2 mm wide, 3.7-5 times longer than wide. 2n = 14.</description>
+  <discussion>Lolium persicum, a native of southwest Asia, has been found as a weed in grain fields and waste places in southern Canada, Montana, North Dakota, and Wyoming and, as an adventive, in New York and Missouri. It is now one of the top ten weeds of western Canadian cereal crops. It first became established in North America in Cavalier County, North Dakota, prior to 1910 (Dore 1950).</discussion>
+</bio:treatment>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Edward E. Terrell</author>
+    </source>
+  </meta>
+  <number>14.05</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>LOLIUM L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; cespitose, sometimes shortly rhizomatous. Culms 10-150 cm, slender to stout, erect to decumbent, rarely prostrate. Sheaths open, rounded, glabrous, sometimes scabrous; ligules to 4 mm, membranous, glabrous; auricles sometimes present; blades flat, linear. Inflorescences distichous spikes, with solitary spikelets oriented radial to the rachises, perpendicular to the rachis concavities. Spikelets laterally compressed, with 2-22 florets, distal florets reduced; rachillas glabrous; disarticulation above the glumes, beneath the florets. Glumes usually 1, 2 in the terminal spikelets, lanceolate to oblong, rounded over the midvein, membranous to indurate, 3-9-veined, unawned; lower glumes absent from all but the terminal spikelet; upper glumes from shorter than to exceeding the distal florets; calluses short, blunt, glabrous; lemmas lanceolate, ovate or oblong, rounded over the midvein, membranous, chartaceous, 3-7-veined, apices sometimes hyaline, unawned or awned, awns subterminal, more or less straight; paleas membranous, usually smooth, keels ciliolate; lodicules 2, free, lanceolate to ovate; anthers 3; ovaries glabrous. Caryopses dorsally compressed, oblong, broadly elliptic or ovate, longitudinally sulcate; hila linear, in the furrow; embryos 1/5 - 1/3 as long as the caryopses. x = 7. </description>
+  <discussion>As interpreted here, Lolium comprises five species that are native to Europe, temperate Asia, and northern Africa. All have been introduced to the Flora region, often as forage grasses; most have become established.
+Lolium used to be included in the Triticeae, but evidence from genetics, morphology, and other studies shows its closest relationship to be to the species included here in Schedonorus. Artificial hybrids have been produced among L. perenne, L. multiflorum, Schedonorus pratensis, and S. arundinaceus. Cultivars of these crosses have been registered for commercial use and are sometimes used for forage. Natural hybrids are not uncommon in Europe.
+</discussion>
+  <references>Aiken, S.G., M.J. Dallwitz, C.L. Mcjannet, and LX. Consaul. 1997. Fescue Grasses of North America: Interactive Identification and Information Retrieval. DELTA, CSIRO Division of Entomology, Canberra, Australia. CD-ROM; Dannhardt, G. and L. Steindl. 1985. Alkaloids of Lolium temulentum: Isolation, identification and pharmacological activity. Pi. Med. (Stuttgart) 1985:212-214; Dore, W.G. 1950. Persian darnel in Canada. Sci. Agric. (Ottawa) 30:157-164; Soreng, R.J. and E.E. Terrell. 1997 [publication date 1998]. Taxonomic notes on Schedonorus, a segregate genus from Festuca or Lolium, with a new nothogenus, xSchedololium, and new combinations. Phytologia 83:85-88; Terrell, E.E. 1968. A Taxonomic Revision of the Genus Lolium. Technical Bulletin, United States Department of Agriculture No. 1392. U.S. Government Printing Office, Washington, D.C., U.S.A. 65 pp.</references>
+  <key>
+    <key_body>
+1. Plants either long-lived perennials with 2-10 florets per spikelet, or annuals or short-lived perennials with 10-22 florets per spikelet. 
+2. Plants long-lived perennials, with 2-10 florets per spikelet; lemmas unawned or awned, awns to about 8 mm long .....1. L. perenne
+2. Plants annuals or short-lived perennials, with 10-22 florets per spikelet; lemmas usually awned, awns to 15 mm long, rarely unawned  .....2. L. multiflorum
+1. Plants annuals, with 2-10(11) florets per spikelet.
+3. Spikelets somewhat sunken in the rachises and partly concealed by the glumes  .....3. L. rigidum
+3. Spikelets not sunken in the rachises and not concealed by the glumes.
+4. Lemmas 3.5-8.5 mm long; paleas from 1.2 mm shorter than to 0.8 mm longer than the lemmas; mature florets and caryopses 2-3 times longer than wide .....4. L. temulentum
+4. Lemmas (5.2)7-12 mm long; paleas usually 0.5-1.8 mm longer than the lemmas; mature florets and caryopses 3.7-5 times longer than wide .....5.L. persicum
+
+    </key_body>
+  </key>
+</bio:treatment>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>14.29</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>xAGROPOGON P. Fourn.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; loosely cespitose to spreading, rhizomatous. Culms 8-60 cm, usually branched below, ascending from a decumbent base or the lower nodes geniculate. Sheaths smooth, open; auricles absent; ligules membranous, puberulent, acute to obtuse, often bifid or denticulate with age; blades usually glabrous, sometimes scabrous. Inflorescences panicles, moderately dense to very dense, often interrupted; disarticulation tardy, below the glumes. Spikelets laterally compressed, with 1 floret. Glumes similar, narrowly oblong to elliptic, 1-veined, apices notched, midveins extending into a short awn; calluses glabrous; lemmas shorter than the glumes, inconspicuously 5-veined, awned from just below the minutely toothed apices; paleas about 3/4 i as long as the lemmas; anthers usually indehiscent. x = 7.</description>
+  <discussion>xAgropogon comprises hybrids between Agrostis and Polypogon; one hybrid grows in the Flora region.</discussion>
+  <references>Rugolo de Agrasar, Z.E. and A.M. Molina.  1997. Presencia del hfbrido xAgropogon littoralis (Gramineae: Agrostideae) en Chile. Hickenia 11:209-214.
+ 
+</references>
+</bio:treatment>

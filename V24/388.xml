@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Triticum timopheevii (Zhuk.) Zhuk. </name_authority_date>
+  </taxon_identification>
+  <common_names>TIMOPHEEV'S WHEAT</common_names>
+  <description type="morphology">Culms to 140 cm; nodes glabrous or pubescent; internodes mostly hollow, partially solid to hollow for 1 cm below the spikes. Blades to 10 mm wide, densely hairy, hairs 1.5-4 mm. Spikes 5-7 cm, strongly flattened, wider than thick; rachises ciliate at the nodes and margins; internodes 1.5-2.5 mm, disarticulating with pressure, dispersal units wedge-shaped. Spikelets 16-18 mm, elliptical to ovate, strongly flattened, with 3 florets, usually the lower 2 seed-forming. Glumes 7-10 mm, usually coriaceous and tightly appressed to the lower florets, sometimes chartaceous, acute, with 1 prominent keel, keel winged only in the distal 2/3, terminating in a tooth; lemmas 10-12 mm, lower 2 lemmas awned, awns to 9 cm; paleas not splitting at  
+maturity. Endosperm flinty. Haplomes AbG. 2n = 28.
+</description>
+  <discussion>Triticum timopheevii is the domesticated derivative of T. araraticum Jakubz. It is established in Georgia, Armenia, and northeastern Turkey. It differs from other species of Triticum in its long leaf hairs and their relatively higher density. Plants with tough rachises and chartaceous glumes have been named T. militinae Zhuk. & Migush.</discussion>
+</bio:treatment>

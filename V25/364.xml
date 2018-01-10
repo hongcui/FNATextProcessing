@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Gymnopogon brevifolius Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>SHORTLEAF SKELETONGRASS</common_names>
+  <description type="morphology">Plants rhizomatous, rhizomes to 9 cm. Culms 10-100 cm, erect or decumbent, single or in clumps, simple or sparingly branched. Sheaths mostly glabrous, throats pubescent; collars mostly glabrous, margins often with hairs; ligules about 0.5 mm; blades (1)2-8 cm long, 2-8(10) mm wide, glabrous abaxially, glabrous or scabrous adaxially. Panicles 10-30 cm; branches (6)10-17(20) cm, naked for at least the lower 1/3 of their length, spikelets distant to remote. Spikelets with 1(2) florets; rachilla extensions naked or with a minute rudimentary floret. Glumes (2)3.5-5 mm; bisexual lemmas 1.8-3.8 mm, awns 0.8-3 mm; anthers 3, 0.8-1 mm. Caryopses 1.6-1.9 mm long, 0.3-0.5 mm wide. 2n = unknown.</description>
+  <discussion>Gymnopogon brevifolius grows in dry to somewhat moist sandy pine woodlands of the southeastern United States, usually in loamy soils. It generally has rather weak, decumbent culms that tend to be obscured by the surrounding vegetation. Plants with stiffer culms tend to be confused with Gymnopogon ambiguus, but differ as discussed under G. ambiguus. Intermediate plants may be hybrids between the two species; there has been no experimental evaluation of this hypothesis.</discussion>
+</bio:treatment>

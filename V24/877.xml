@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Aira caryophyllea var. cupaniana (Guss.) Fiori </name_authority_date>
+  </taxon_identification>
+  <common_names>SILVERY HAIRGRASS</common_names>
+  <description type="morphology">Pedicels 2.8-6.5 mm, usually 1-3 times as long as the spikelets, abruptly thickened at the apices. Spikelets 1.3-2.6 mm, spreading, divergent from the secondary  
+branches, silvery-green. Glumes equal to subequal, 1.3-2.6 mm, 1-3-veined, subobtuse, usually denticulate, often mucronate; lower lemmas 1.3-1.9 mm, usually unawned; upper lemmas 1.3-2 mm, apices bifid, awned, awns 1.8-2.5 mm, geniculate; paleas 0.9-1.4 mm; anthers 0.2-0.4 mm, yellow or purple. Caryopses about 1 mm long, 0.3-0.4 mm wide, glabrous.
+</description>
+  <discussion>Aira caryophyllea var. cupaniana is native to southern Europe and northern Africa, growing in mesic, open habitats in disturbed areas or open woodland. It was discovered in a prescribed burn area of Mount Diablo State Park in Contra Costa County, California, in 1995, but was not relocated in 1999.</discussion>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>1. Panicles contracted to open; plants rhizomatous; culms erect; nodes usually pubescent; plants of the range of the species 	subsp. pumpellianus</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose, sometimes shortly rhizomatous. Culms 65-135 cm, ascending, often geniculate; nodes 3-7, glabrous or pubescent; internodes glabrous. Sheaths glabrous or hairy; auricles sometimes present; ligules 0.5-4 mm; blades 7-30 cm long, 2.5-8.5 mm wide, glabrous or hairy on both surfaces, sometimes only the adaxial surface hairy. Panicles 10-24 cm, usually open, nodding to partially erect; branches spreading to drooping. Spikelets 16-32(45) mm. Glumes glabrous or hairy; lower glumes 5-10 mm, l(3)-veined; upper glumes 7.5-13 mm, 3-veined; lemmas 9-16 mm, sparsely to densely hairy throughout or along the marginal vein and keel; awns 2.5-7.5 mm; anthers (3.5)4-6(6.8) mm. 2n = 28.</description>
+  <discussion>Bromus pumpellianus subsp. dicksonii grows in shallow, rocky soils of river banks and bluffs in the Yukon River drainage of Alaska. Apart from the more restricted distribution, it is not clear how this subspecies differs from the introduced B. riparius.</discussion>
+</bio:treatment>

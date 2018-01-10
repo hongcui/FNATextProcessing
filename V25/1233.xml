@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Panicum philadelphicum Bernh. ex Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>PHILADELPHIA WITCHGRASS</common_names>
+  <description type="morphology">Plants annual; hirsute, hairs papillose-based, usually yellow-green to green, sometimes purplish. Culms 8-100 cm tall, about 1 mm thick, erect to decumbent, simple to profusely branched; nodes sparsely to densely   pilose. Leaves often crowded basally; sheaths rounded, usually longer than the internodes, hispid, hairs papillose-based, to 5 mm; ligules 0.5-1.5 mm; blades 3-30 cm long, 2-12 mm wide, linear, ascending to erect, flat, hirsute to sparsely pilose, greenish or purplish, bases truncate to subcordate and ciliate on the margins, apices acute. Panicles 7-27 cm long, 4-24 cm wide, 1/4 - 1/3 as long as the plants, diffuse, usually exserted at anthesis, not breaking at the base of the peduncles to become a tumbleweed; rachises glabrous or sparsely pilose basally; primary branches spreading, secondary branches and pedicels confined to the distal 2/3  secondary branches diverging to appressed, with 1-4 spikelets; pedicels 3-15 mm, spreading to appressed, scabrous or hirsute; pulvini glabrous or pilose. Spikelets 1.4-2.4 mm long, 0.5-0.7 mm wide, usually green, glabrous. Lower glumes 0.5-0.9 mm, usually less than 1/2 as long as the spikelets, 3-4-veined, truncate to acuminate; upper glumes 1.6-2 mm, 7-veined, veins not prominent; lower lemmas 1.6-1.9 mm, 7-9-veined, veins not prominent; lower paleas absent; lower florets sterile; upper florets 1.5-1.7 mm long, about 0.4 mm wide, often dark brown, sometimes disarticulating, apices minutely papillose. 2n = 18.</description>
+  <discussion>Panicum philadelphicum grows in open areas such as fallow fields, roadside ditches, receding shores, and rock crevices. It is restricted to the eastern part of the Flora region. It intergrades with P. capillare, possibly as a result of hybridization, especially in the southeastern United States. Seeds germinating on receding shores in late summer often produce tiny plants.</discussion>
+  <key>
+    <key_body>
+1. Spikelets less than 1/2 as wide as long; plants purplish .....subsp. lithophilum
+1. Spikelets usually more than 1/2 as wide as long; plants green or yellow-green.
+2. Spikelets 1.9-2.4 mm long; apices of the upper glumes and lower lemmas straight; secondary branches and pedicels divergent; blades often 6-12 mm wide, those of the flag leaves usually more than 1/2 as long as the panicles   .....subsp. gattingeri
+2. Spikelets 1.4-2.1 mm long; apices of the upper glumes and lower lemmas curving over the upper florets at maturity; secondary panicle branches and pedicels appressed; blades usually 2-6 mm wide, those of the flag leaves usually less than M as long as the panicles.....subsp. philadelphicum
+
+    </key_body>
+  </key>
+</bio:treatment>

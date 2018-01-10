@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Bouteloua curtipendula (Michx.) Torr. var. curtipendula</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants not cespitose, with long rhizomes. Culms solitary or in small clumps. Blades 3-7 mm, flat. Panicles with 40-70 branches, averaging 3-7 spikelets per branch. Glumes and lemmas typically purple or purple-tinged; anthers red or red-orange, infrequently yellow, orange, or purple. 2n = 40, 41-66.</description>
+  <discussion>Bouteloua curtipendula var. curtipendula is the common variety of B. curtipendula in most of the Flora region. It grows on rich, loamy, well-drained prairie soils. Its elevational range extends from below 100 m to 2500 m.</discussion>
+</bio:treatment>

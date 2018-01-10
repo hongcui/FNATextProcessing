@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Axonopus scoparius (Humb. & Bonpl. ex Flüggé) Kuhlm. </name_authority_date>
+  </taxon_identification>
+  <common_names>CARPETGRASS</common_names>
+  <description type="morphology">Plants rhizomatous, frequently also stoloniferous. Culms (50)100-300 cm, to about 1 cm thick, sometimes branching above the base; nodes glabrous. Leaves primarily cauline; sheaths often much wider than the internodes, mostly glabrous but the collars pubescent, lower sheaths compressed; ligules 0.5-2.9 mm, ciliolate; blades 15-50 cm long, (5)20-35 mm wide, bases usually wider than the sheaths. Panicles terminal and axillary, 10-50 cm overall, rachises 2-3.5 cm, with 30-100+ branches; lower branches 10-24 cm, frequently fasci¬cled. Spikelets 2.1-2.7 mm, ovoid to oblong-ellipsoid, acute or apiculate; upper glumes and lower lemmas usu¬ally 5-veined, sparsely pilose; upper florets 0-0.4 mm shorter than the upper glumes and lower lemmas, obtuse to subacute. Caryopses usually absent. 2n = 20. </description>
+  <discussion>Axonopus scoparius is native from southern Mexico to Peru, Bolivia, and Brazil. In Mesoamerica, it rarely sets seed but is grown for forage and often persists after cultivation has ceased. It has been grown experiment¬ally in Florida, but it is not winter hardy even there. Not surprisingly, A. scoparius is not established in the Flora region.</discussion>
+</bio:treatment>

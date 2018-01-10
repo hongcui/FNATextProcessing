@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>13</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bouteloua trifida Thurb. ex S. Watson </name_authority_date>
+  </taxon_identification>
+  <common_names>RED GRAMA</common_names>
+  <description type="morphology">Plants perennial; cespitose, older plants occasionally shortly rhizomatous. Culms 5-40 cm, slender, wiry, erect or slightly geniculate at the lower nodes; lower internodes glabrous, shorter than those above. Leaves mostly basal; sheaths glabrous, sometimes scabridu-lous, becoming flattened, persistent; ligules 0.2-0.5 mm, of hairs; blades 0.7-8 cm long, 0.5-1.5(2) mm wide, scabridulous, margins often with papillose-based hairs basally. Panicles 3-9 cm, with 2-7 branches; branches 7-25 mm, persistent, spreading, ascending, or appressed, straight to slightly arcuate, with 8-24(32) spikelets, axes terminating in a spikelet; disarticulation above the glumes. Spikelets appressed to pectinate, reddish-purple; with 1 bisexual floret and 1 rudimentary floret. Glumes bilobed; lower glumes 1.7-3.4 mm, slightly shorter than the upper glumes, veins excurrent to 0.6 mm; upper glumes 1.9-4 mm, glabrous or pubescent, hairs not papillose-based, veins excurrent to 1 mm; lower lemmas 1.2-2.2 mm, glabrous, sparsely appressed pubescent along the veins or densely appressed pubescent for much of their length and on the margins, trilobed, lobes veined, tapering into 3 awns, awns 2.2-6.6 mm, central awns not flanked by membranous lobes; anthers 0.2-0.4 mm, yellow; rachilla segments glabrous; upper florets glabrous, of 3 equal awns, awns 2-7 mm. Caryopses 0.8-1.5 mm long, 0.3-0.6 mm wide. 2n = 20.</description>
+  <discussion>Bouteloua trifida grows on dry open plains, shrubby hills, and rocky slopes, at 2200-2500 m. Its range extends from the southwestern United States to central Mexico. It is a drought-resistant species that is some¬times mistaken for Aristida because of its delicate, cespitose growth habit and purplish, 3-awned spikelets. Juvenile plants may also be confused with B. barbata but that species is annual, with the central awn flanked by two membranous lobes and the lowest paleas 4-lobed and 2-awned.</discussion>
+  <key>
+    <key_body>
+1. Lower lemmas densely appressed pubescent; awns 2.2-4.5 mm long; anthers 0.2-0.3 mm long   .....var. burkii
+1. Lower lemmas glabrous or sparsely appressed pubescent along both sides of the veins; awns (3.2)4-6.6 mm long; anthers 0.3-0.4 mm long   .....var. trifida
+
+    </key_body>
+  </key>
+</bio:treatment>

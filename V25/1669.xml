@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Zea mays subsp. parviglumis H.H. litis & Doebley </name_authority_date>
+  </taxon_identification>
+  <common_names>BALSAS TEOSINTE, GUERRERO TEOSINTE</common_names>
+  <description type="morphology">Culms (0.5)2-4 m, unbranched or branched above the middle, thinner than in subsp. mexicana. Leaves pubescent. Fruitcases 5-8 mm long, 3-5 mm wide. Caryopses concealed. Staminate panicles with (2)10-100(235) slender, often drooping branches; spikelets 4.6-7.2 mm, distant. 2n = 20.</description>
+  <discussion>Zea mays subsp. parviglumis, which has the smallest fruitcases of all the wild taxa, is endemic to the Pacific slope of southern Mexico, from Oaxaca to Jalisco, being most abundant in the Balsas River drainage. It grows in highly seasonal, sunny thorn scrub, and open tropical deciduous forests and savannahs, at elevations of (450)600-1400(1950) m. One of its higher elevation populations appears to be the ancestor of subsp. mays. In the southern United States, Z. mays subsp. parviglumis is grown as part of breeding programs. In its native habitat, it tends to be seasonally isolated from subsp. mays, flowering a few weeks later, but the two sometimes form abundant hybrids in local areas.</discussion>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Robert W. Freckmann </author>
+      <author>Michel G. Lelong</author>
+    </source>
+  </meta>
+  <number>25.24</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>STEINCHISMA Raf.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, rhizomatous, rhizomes short, slender. Culms slender, often compressed. Sheaths usually keeled; ligules minute, membranous, often erose or ciliate; blades exhibiting Kranz anatomy, with few organelles in the external sheath and 5-7 isodiametric mesophyll cells between the vascular bundles. Inflorescences terminal, open to contracted panicles; primary branches few, slender; pedicels short, to 1 mm. Spikelets ellipsoid or lanceolate, initially somewhat compressed, ultimately expanding greatly. Glumes glabrous; lower glumes 1/3 – 1/2 as long as the spikelets, usually 3(5)-veined, acute; upper glumes and lower lemmas subequal, 3-5(7)-veined; lower florets sterile or staminate, often standing apart from the upper florets at maturity; lower paleas longer than the lower lemmas, greatly inflated at maturity, indurate; upper florets ovoid or ellipsoid; upper lemmas usually dull-colored, minutely papillose, papillae in longitudinal rows, apices acute, x = 9 or 10.</description>
+  <discussion>Steinchisma is a genus of 5-6 species that grow in moist or wet, usually open, sandy areas in warm-temperate and tropical regions of the Western Hemisphere. A single species is native the Flora region. It is sometimes included in Panicum, but recent studies support its recognition as a separate genus. Photosynthesis in Steinchisma is intermediate between C3 and C4 plants.</discussion>
+  <references>Clifford, H.T. 1996. Etymological Dictionary of Grasses, Version 1.0 (CD-ROM). Expert Center for Taxonomic Identification, Amsterdam, The Netherlands; Zuloaga, F.O., O. Morrone, A.S. Vega, and L.M. Giussani. 1998. Revision y analisis cladistico de Steinchisma (Poaceae: Panicoideae: Paniceae). Ann. Missouri Bot. Gard. 85:631-656.</references>
+</bio:treatment>

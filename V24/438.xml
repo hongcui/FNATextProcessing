@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>13</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus sibiricus L. </name_authority_date>
+  </taxon_identification>
+  <common_names>SIBERIAN WILDRYE</common_names>
+  <description type="morphology">Plants usually cespitose, some¬times weakly rhizomatous, usually glaucous, occasionally strongly so. Culms 40-150 cm, erect or slightly geniculate at the base; nodes 6-9, usually exposed, glabrous. Leaves evenly distributed; sheaths glabrous or hirsute, often purplish; auricles to 1 mm, often absent; ligules to 1 mm; blades (3)5-14(16) mm wide, lax, adaxial surfaces usually pilose to hirsute on the veins, sometimes scabrous or smooth. Spikes 7-30 cm long, 2-5 cm wide, flexuous, nodding to pendent, with (1)2(3-4) spikelets per node, solitary spikelets usually basal or distal, rarely occurring throughout; internodes 5-10 mm long, 0.2-0.7 mm thick at the thinnest sections, mostly glabrous, sometimes scabrous below the spikelets, angles ciliate. Spikelets 10-18 mm, appressed to divergent, usually becoming purplish, with (3)4-5(7) florets, lowest florets functional; disarticulation above the glumes, beneath each floret. Glumes equal or subequal, the bases flat, evidently veined, not indurate, glume bodies 3-8 mm long, 0.4-1(1.2) mm wide, linear-lanceolate to subsetaceous, entire, widening or parallel-sided above the base, 3(5)-veined, veins smooth or scabrous, margins hyaline or scarious, awns 1-6 mm, straight; lemmas 8-13 mm, densely scabridulous to scabrous, at least along the outer veins, awns 10-25 mm, usually somewhat outcurving from near the base; paleas 8-12 mm, keels spinose-ciliate, bidentate, apices acute, 0.15-0.3 mm wide between the veins; anthers 0.9-1.7 mm. Anthesis from June to July. 2n = 28.
+</description>
+  <discussion>Elymus sibiricus grows in dry to damp grasslands and thickets, on slopes, eroding river banks, mud flats, coastal benches, dunes, clearings, and other disturbed areas, in southern Alaska, the southern Yukon Territory, the southwestern MacKenzie District in the Northwest Territories, and central British Columbia. Porsild and Cody (1980) suggested that at least some of the populations are native to North America. In a more extensive analysis, Bennett (2006) concluded that all North American populations are the result of recent introductions. The species is widespread in cool temperate regions of central and eastern Asia. In China, it is considered an excellent forage grass, having a high protein content.
+North American plants differ from Asian plants in several respects: they are up to 150 cm tall, versus 90 cm in Asia; their leaves are usually pubescent, rather than glabrous to scabrous; and their lemmas are scabridulous to scabrous, rather than glabrous to strigulose or pilose.
+</discussion>
+</bio:treatment>

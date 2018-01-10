@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Secale cereale L. </name_authority_date>
+  </taxon_identification>
+  <common_names>RYE, SEIGLE, SEIGLE CULTIVÉ</common_names>
+  <description type="morphology">Plants annual or biennial. Culms (35)50-120(300) cm. Blades (3)4-12 mm wide, usually glabrous. Spikes (2) 4.5-12(19) cm, often nodding when ma¬ture; disarticulation tardy, in the rachises, at the nodes, or not occurring. Glumes 8-20 mm, keels scabrous, terminating in awns, awns 1-3 mm; lemmas 14-18 mm, awns 7-50 mm; anthers about 7 mm. 2n = 14, 21, 28.</description>
+  <discussion>Secale cereale is one of the world's most important cereal grasses; it is also widely used in North America for soil stabilization and, particularly in Canada, for whisky. When dry, the spike is often distinctly nodding. Frederiksen and Petersen (1998) placed cultivated plants with a non-disarticulating rachis into Secale cereale L. subsp. cereale, and wild or weedy plants  
+with more fragile rachises into S. cereale subsp. ancestrale Zhuk.
+</discussion>
+</bio:treatment>

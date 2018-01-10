@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>60</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa pseudoabbreviata Roshev. </name_authority_date>
+  </taxon_identification>
+  <common_names>SHORT-FLOWERED BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; glaucous; densely tufted, delicate, not stoloniferous, not rhizomatous. Basal branching all or mainly intravaginal. Culms 4-20(30) cm, to 18 cm in bulbiferous plants, slender. Sheaths closed for 1/10 – 1/6 their length, terete; ligules 1-4 mm, smooth; blades 0.5-1.5(2) mm wide, flat or folded, thin, soft, apices narrowly prow-shaped. Panicles 2-7 cm, 2-4 cm in bulbiferous plants, widths equal to lengths, erect, broadly rhomboidal to pyramidal, open, exserted from the sheaths, sparse; branches 1.5-5 cm, ascending to spreading, divaricate, slender, sulcate or angled, angles sparsely to moderately scabrous; pedicels often longer than the spikelets. Spikelets 3-5 mm, laterally compressed, rarely bulbiferous, usually strongly anthocyanic, glaucous or not; florets 2-4, rarely bulb-forming; rachilla internodes shorter than 1 mm, smooth to scabrous. Glumes distinctly keeled; lower glumes subequal to equaling the lowest lemmas, 3-veined, upper glumes frequently longer than the lowest lemmas; calluses glabrous; lemmas 2-3 mm, lanceolate, distinctly keeled, thin, keels and marginal veins crisply puberulent, rarely glabrous, intercostal regions glabrous, apices acute; paleas scabrous over the keels; anthers 0.2-0.7 mm. 2n = 14.</description>
+  <discussion>Poa pseudoabbreviata is a low arctic to subarctic and alpine species of Alaska, northwestern Canada, Siberia, and the Russian Far East. It grows mainly on frost scars, rocky slopes, and ridges, often on open ground. It is one of only three diploid species native to the Western Hemisphere.
+Poa pseudoabbreviata is easily distinguished from all other alpine and arctic species of Poa by its spreading, capillary branches, long pedicels, short stature, small spikelets, and glabrous calluses. Bulbiferous plants are known only from the Brooks Range, Alaska.
+</discussion>
+</bio:treatment>

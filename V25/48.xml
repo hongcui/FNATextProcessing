@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Tridens albescens (Vasey) Wooton & Standi. </name_authority_date>
+  </taxon_identification>
+  <common_names>WHITE TRIDENS</common_names>
+  <description type="morphology">Plants cespitose, often with hard, knotty, shortly rhizomatous bases. Culms 30-100 cm; lower nodes sometimes sparsely bearded. Sheaths glabrous, not or obscurely keeled; ligules to 0.5 mm, membranous, ciliate; blades 1-4 mm wide, folded or involute, glabrous, apices sharp. Panicles 8-25 cm long, 0.5-1.3 cm wide, dense; branches appressed, lowest branches 2-6 cm; pedicels 1-2 mm. Spikelets 4-10 mm, with 4-11 florets. Glumes about as long as the adjacent lemmas, thin, 1-veined, acute or apiculate; lower glumes 4-4.5 mm; upper glumes 4-4.5 mm; lemmas 3-4(5) mm, thin, papery, mostly white, often purple distally, glabrous or the lateral veins with a few short hairs towards the base, all veins ending before the distal margin; paleas 3-3.5 mm, glabrous, bowed-out at the base; anthers 1-1.5 mm. Caryopses 1.5-1.8 mm. 2n = 60, 64, 72.</description>
+  <discussion>Tridens albescens grows in plains and open woods, often in clay soils that periodically receive an abundance of water. Its range extends into northern Mexico.</discussion>
+</bio:treatment>

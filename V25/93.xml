@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Leptochloa nealleyi Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>NEALLEY'S SPRANGLETOP</common_names>
+  <description type="morphology">Plants annual. Culms (30)60-250 cm, mostly erect, compressed, sometimes branch¬ing from the lower nodes; internodes hollow. Sheaths glabrous, smooth or minutely scabrous; ligules 1.5-3 mm, membranous, truncate, erose, sometimes appearing ciliate because of the hairs at the base of the blades; blades 10-75 cm long, 4-7 mm wide, sometimes with stiff hairs behind the ligules, both surfaces scabridulous elsewhere. Panicles 30-76 cm, with 25-75 racemose branches; branches mostly 1-5(9) cm, steeply ascending to erect, stiff; lower branches sometimes included in the upper leaf sheaths. Spikelets 2.8-3.4 mm, imbricate, with 3-4 florets. Glumes lanceolate, lower glumes 0.7-0.8 mm, acute to narrowly obtuse; upper glumes 0.9-1.3 mm, obtuse; lemmas 1-2 mm, broadly lanceolate, membranous, veins sericeous basally, apices obtuse to acute or apiculate; paleas sericeous along the veins; anthers 3, 0.2-0.4 mm. Caryopses 0.5-1 mm long, 0.4-0.5 mm wide, elliptic to obovate, nearly round in cross section. 2n = 40.</description>
+  <discussion>Leptochloa nealleyi is native to coastal Louisiana, Texas, and Mexico; it also grows, but rarely, in Cuba. The species is not established in Arizona, but it was collected once from a farm in the Wellton area (NCU 303513). It is not clear whether the plants were being cultivated or growing as weeds.
+The numerous, short, stiffly ascending or erect panicle branches make Leptochloa nealleyi easy to identify.
+</discussion>
+</bio:treatment>

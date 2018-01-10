@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>17</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis pectinacea (Michx.) Nees </name_authority_date>
+  </taxon_identification>
+  <common_names>TUFTED LOVEGRASS, ERAGROSTIDE PECTTNEE</common_names>
+  <description type="morphology">Plants annual; tufted, without innovations, without glandular pits. Culms 10-80 cm, erect to geniculate or decumbent below, glabrous. Sheaths hirsute at the apices, hairs to 4 mm; ligules 0.2-0.5 mm; blades 2-20 cm long, 1-4.5 mm wide, flat to involute, abaxial surfaces glabrous and smooth, adaxial surfaces scabridulous. Panicles 5-25 cm long, 3-12(15) cm wide, ovoid to pyramidal, usually open, sometimes contracted; primary branches 0.6-8.5 cm, appressed or diverging to 80° from the rachises, solitary or paired at the lowest 2 nodes; pulvini glabrous or sparsely hairy; pedicels 1-7 mm, flexible, appressed to widely divergent, sometimes capillary. Spikelets 3.5-11 mm long, 1.2-2.5 mm wide, linear-oblong to narrowly lanceolate, plumbeous, yellowish-brown, or dark reddish-purple, with 6-22 florets; disarticulation acropetal, paleas persistent. Glumes subulate to ovate-lanceolate, hyaline; lower  glumes 0.5-1.5 mm, at least 1/2 as long as the adjacent lemmas; upper glumes 1-1.7 mm, usually broader than the lower glumes; lemmas 1-2.2 mm, ovate-lanceolate, hyaline to membranous, grayish-green proximally, reddish-purple distally, lateral veins moderately conspicuous, apices acute; paleas 1-2 mm, hyaline to membranous, keels scabridulous, apices obtuse; anthers 3, 0.2-0.7 mm, purplish. Caryopses 0.5-1.1 mm, pyriform, slightly laterally compressed, smooth, faintly striate, brownish. 2n = 60.</description>
+  <discussion>Eragrostis pectinacea is native from southern Canada to Argentina. In the Flora region, it grows in disturbed sites such as roadsides, railroad embankments, gardens, and cultivated fields, at 0-1200 m.</discussion>
+  <key>
+    <key_body>
+1. Anthers 0.5-0.7 mm long.....var. tracyi
+1. Anthers 0.2-0.4 mm long.
+2. Pedicels appressed, rarely diverging to 20° from the branches .....var. pectinacea
+2. Pedicels widely divergent, usually diverging 20-60° from the branches  .....var. miserrima
+
+    </key_body>
+  </key>
+</bio:treatment>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>tribe</rank>
+    <name_authority_date>PHAREAE Stapf</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; rhizomatous, sometimes cespitose; monoecious. Culms annual, 10-300 cm, erect to decumbent; internodes usually solid. Ligules scarious, sometimes ciliolate; pseudopetioles present, twisted, placing the abaxial surface of the blades uppermost; blades linear to oblong, not folding or drooping at night, lateral veins diverging obliquely from the midveins, cross venation evident. Inflorescences panicles, usually espatheate; ultimate branches with 1-2 pistillate spikelets and 1 terminal, staminate spikelet; disarticulation beneath the pistillate florets and in the panicle branches. Spikelets unisexual, heteromorphic, usually in staminate-pistillate pairs on branchlets, with 1 floret; rachillas not prolonged beyond the florets. Staminate spikelets pedicellate, smaller than the pistillate spikelets, lanceolate to ovate, caducous; glumes unequal; lower glumes absent or much shorter than the upper glumes; upper glumes somewhat shorter than the floret; lodicules minute or absent; anthers 6. Pistillate spikelets sessile or shortly pedicellate, terete, sometimes inflated; glumes unequal to subequal, shorter than the florets, scarious, entire, sometimes persistent; lemmas chartaceous, becoming coriaceous, veins 5 or more, margins involute or utriculate, partly or wholly covered with uncinate hairs, not terminating in a branched awn; paleas 2-veined; lodicules absent; styles 1, 3-branched. Caryopses oblong to linear; hila as long as the caryopses. x = 12.</description>
+  <discussion>The Phareae include three genera, all of which grow in tropical and subtropical forests. The tribe is represented by one genus in the Western Hemisphere, Pharus.</discussion>
+  <references>Clark, L.G. and E.J. Judziewicz. 1996. The grass subfamilies Anomochlooideae and Pharoideae (Poaceae). Taxon 45:641-645; Clark, L.G., W. Zhang, and J.E Wendel. 1995. A phylogeny of the grass family (Poaceae) based on ndhF sequence data. Syst. Bot. 20:436-460; Grass Phylogeny Working Group. 2001. Phylogeny and subfamilial classification of the grasses (Poaceae). Ann. Missouri Bot. Gard. 88:373-457.</references>
+</bio:treatment>

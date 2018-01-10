@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Echinochloa crus-pavonis (Kunth) Schult. var. crus-pavonis</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Panicles usually drooping. Lower paleas 1/2 or more as long as the lower lemmas.</description>
+  <discussion>This is generally the more southern of the two varieties, extending through Mexico and the Caribbean to Bolivia and Argentina. It appears, presumably as an adventive species, as far north as Humboldt County, California.</discussion>
+</bio:treatment>

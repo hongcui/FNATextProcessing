@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca ligulata Swallen </name_authority_date>
+  </taxon_identification>
+  <common_names>Festuca ligulata Swallen </common_names>
+  <description type="morphology">Plants loosely to densely cespitose, with short rhizomes. Culms 45-80 cm, erect or the bases decumbent, scabrous near the inflorescence. Sheaths closed for less than 1/3 their length, glabrous or finely scabrous; collars glabrous; ligules 3-5(8) mm; blades 1-3 mm wide when flat, 0.6-1.2 mm in diameter when conduplicate, persistent, abaxial surfaces glabrous, smooth to sparsely scabrous, adaxial surfaces scabrous, veins (5)7-9, ribs 5-9; abaxial sclerenchyma in strands opposite the veins, rarely a discontinuous band; adaxial sclerenchyma sometimes present; girders sometimes present at the major veins; pillars usually present if the girders not developed. Inflorescences 6-10(16) cm, contracted or loosely open, with 1-2(3) branches per node; branches erect or spreading, lower branches sometimes reflexed, spikelets borne towards the ends of the branches. Spikelets 6-8.5 mm, with 2-3(4) florets. Glumes scabrous, acute; lower glumes 3-4(5.5) mm; upper glumes 3.5-5.5(6.5) mm; lemmas 4-6.5 mm, ovate-lanceolate, glabrous, smooth or sparsely scabrous towards the apices, unawned; paleas as long as to slightly longer than the lemmas, intercostal region puberulent distally; anthers 1.5-2.6 mm; ovary apices pubescent. 2n = unknown.</description>
+  <discussion>Festuca ligulata grows on moist, shady slopes in the mountains of western Texas and north-central Mexico. It is listed as an endangered species under the Endangered Species Act of the United States.</discussion>
+</bio:treatment>

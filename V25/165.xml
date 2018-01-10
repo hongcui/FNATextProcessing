@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>48</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis airoides Nees </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, with innovations, without rhizomes, not glandular. Culms 30-110 cm, erect, glabrous below the nodes. Sheaths glabrous or pilose, hairs to 5 mm; ligules 0.1-0.2 mm; blades 8-22 mm long, (1)2-4(5) mm wide, flat to folded, glabrous abaxially, scabridulous adaxially. Panicles 18-70 cm long, 3-25 cm wide, diffuse, ovate; primary branches 4-20 cm, appressed or diverging 10-70° from the rachises, naked basally; pulvini glabrous; pedicels 2.4-11 mm, divergent. Spikelets 1.3-2 mm long, 0.8-1.8 mm wide, ovate to lanceolate, plumbeous, with 1-3 florets; disarticulation acropetal, in the rachilla below the florets, glumes deciduous; rachilla prolonged above the terminal floret. Glumes lanceolate to ovate, membranous; lower glumes 0.8-1 mm; upper glumes 1.1-1.4 mm; lemmas 0.8-1.2 mm, ovate, membranous, plumbeous, keels and lateral veins inconspicuous, apices obtuse; paleas 0.8-1.2 mm, membranous, bases not projecting beyond the lemmas, apices obtuse; anthers 3, 0.3-0.5 mm, purplish. Caryopses 0.4-0.5 mm, ovoid, reticulate, reddish-brown. 2n = 36 (Davidse, pers. comm.).</description>
+  <discussion>Eragrostis airoides is a South American species that, in the Flora region, is known only from roadsides and disturbed sites in Brazos County, Texas. It is an enigmatic species, often treated as Sporobolus brasiliensis (Raddi) Hack., which it resembles in its chromosome base number of x = 9 and caryopsis morphology, but its frequent possession of spikelets with more than 1 floret and its mode of spikelet disarticulation argue for its retention in Eragrostis.</discussion>
+</bio:treatment>

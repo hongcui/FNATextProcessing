@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Danthonia decumbens (L.) DC. </name_authority_date>
+  </taxon_identification>
+  <common_names>MOUNTAIN HEATH-GRASS</common_names>
+  <description type="morphology">Culms 8-60 cm, usually erect, sometimes decumbent, not disarticulating. Sheaths glabrous or pilose; blades 5-15 cm long, 0.5-4 mm wide, usually flat, glabrous or sparsely pilose. Inflorescences with up to 15 spikelets; branches erect; lower branches with 1-3 spikelets. Spikelets 6-15 mm; florets usually cleistogamous, rarely chasmogamous. Calluses of middle florets from as long as to a little longer than wide, convex abaxially; lemma bodies 5-6 mm, margins glabrous or pubescent for most of their length, scabrous apically, apices with acute teeth, teeth often scabrous, sometimes scabridulous, mucronate, not awned, from between the teeth; palea veins swollen at the base, forming pulvini; anthers of the cleistogamous florets 0.2-0.4 mm, those of the chasmogamous florets about 2 mm. Caryopses 2.1-2.5 mm long, 1.1-1.8 mm wide. 2n = 24, 36, 124.</description>
+  <discussion>Culms 8-60 cm, usually erect, sometimes decumbent, not disarticulating. Sheaths glabrous or pilose; blades 5-15 cm long, 0.5-4 mm wide, usually flat, glabrous or sparsely pilose. Inflorescences with up to 15 spikelets; branches erect; lower branches with 1-3 spikelets. Spikelets 6-15 mm; florets usually cleistogamous, rarely chasmogamous. Calluses of middle florets from as long as to a little longer than wide, convex abaxially; lemma bodies 5-6 mm, margins glabrous or pubescent for most of their length, scabrous apically, apices with acute teeth, teeth often scabrous, sometimes scabridulous, mucronate, not awned, from between the teeth; palea veins swollen at the base, forming pulvini; anthers of the cleistogamous florets 0.2-0.4 mm, those of the chasmogamous florets about 2 mm. Caryopses 2.1-2.5 mm long, 1.1-1.8 mm wide. 2n = 24, 36, 124.</discussion>
+</bio:treatment>

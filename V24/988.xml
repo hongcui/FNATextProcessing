@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Avenula hookeri (Scribn.) Holub </name_authority_date>
+  </taxon_identification>
+  <common_names>SPIKE OATGRASS</common_names>
+  <description type="morphology">Plants cespitose, not stoloniferous. Culms 10-75 cm, erect. Sheaths closed for less than 1/3 their length, smooth to scabridulous; ligules 3-7 mm, acute, usually lacerate; blades usually 4-20 cm long, 1-4.5 mm wide, smooth to scabridulous, margins cartilaginous and whitish. Panicles (4)6-11(13) cm long, usually 0.8-2.5 cm wide, erect or ascending; branches 10-25 mm, usually straight, stiff, usually with 1-2 spikelets. Spikelets 12-16 mm, with 3-6 florets; rachilla internodes usually 1.5-2.5 mm, hairs 0.2-1.5 mm. Glumes thin, acute; lower glumes 9-13 mm, 3-veined; upper glumes 9-14 mm, 3-5-veined; calluses bearded, hairs usually shorter than 1 mm; lemmas 10-12 mm, awned, awns 10-17 mm, flattened below the bend; paleas 6-8.75 mm; anthers 2.5-5 mm. 2n = 14.</description>
+  <discussion>Avenula hookeri grows on mesic to dry, open prairie slopes, hillsides, forest openings, and meadows, in montane to subalpine zones, from the Yukon and Northwest Territories to northern New Mexico.</discussion>
+</bio:treatment>

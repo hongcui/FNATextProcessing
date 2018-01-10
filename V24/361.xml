@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Hordeum vulgare L. </name_authority_date>
+  </taxon_identification>
+  <common_names>BARLEY, ORGE, ORGE VULGAIRE</common_names>
+  <description type="morphology">Plants summer or winter annuals; loosely tufted. Culms to 100(150) cm, usually erect; nodes glabrous. Lower sheaths pilose; upper sheaths glabrous; auricles to 6 mm, well developed even on the upper leaves; blades to 30 cm long, 5-15 mm wide, flat, scabrous or glabrous. Spikes 5-10 cm long, 0.8-2 cm wide, green to purplish or blackish; nodes 10-30, with 3 spikelets per node, 0-2 lateral spikelets, in addition to the central spikelets, forming seed at maturity (resulting in 2-, 4-, and 6-rowed barley); rachises usually not disarticulating at maturity. Central spikelets sessile; glumes 10-30 mm, pubescent, flattened near the base; lemmas 6-12 mm long, 3+ mm wide, glabrous, sometimes scabrous, particularly distally, unawned or awned, awns 30-180 mm, usually scabrous; anthers 6-10 mm, yellowish. Lateral spikelets usually sessile if seed-forming, pedicellate if sterile; pedicels to 3 mm; lemmas usually 6-15 mm, awned when fertile, obtuse to acute when sterile. 2n = 14 (28).</description>
+  <discussion>Hordeum vulgare is native to Eurasia. Plants in the Flora region belong to the cultivated subspecies, H. vulgare L. subsp. vulgare. The progenitor of cultivated barley, H. vulgare subsp. spontaneum (K. Koch) Thell., has a brittle rachis, tough awn, and, often, shrunken seeds. It does not grow in the Flora region.
+Hordeum vulgare subsp. vulgare was first domesticated in western Asia. It is now grown in most temperate parts of the world. In the Flora region, it occurs as a cultivated species that is often found as an adventive in fields, roadsides, and waste places throughout the region, not just at the locations shown on the map. There are many distinctive, but interfertile, forms. Bothmer et al. (1995) presented an artificial classification of such forms. 
+</discussion>
+</bio:treatment>

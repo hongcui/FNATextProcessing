@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Calamovilfa curtissii (Vasey) Scribn. </name_authority_date>
+  </taxon_identification>
+  <common_names>FLORIDA SANDREED</common_names>
+  <description type="morphology">Rhizomes short, covered with the persistent bases of the foliage leaves. Culms to 2 m. Sheaths to 30 cm; ligules to 0.5 mm; blades to 50 cm long, 2-5 mm wide.  Panicles to 50 cm long, about 3.5 cm wide, contracted; branches to 20 cm, erect. Spikelets 3.5-5.4 mm. Glumes straight; lower glumes 2-4.7 mm; upper glumes 3.5-5.4 mm; callus hairs 1/4 - 1/2 as long as the lemmas; lemmas 3.5-5.2 mm,   straight, lightly to markedly pubescent; paleas 3.5-5 mm, slightly to markedly pubescent; anthers 2.5-3.1 mm. 2n = unknown. </description>
+  <discussion>Calamovilfa curtissii is a rare species, although sometimes locally common. It is restricted to two disjunct regions in Florida. Most Gulf coast populations grow in moist flatwoods or adjacent to wet cypress depressions; Atlantic coast populations occur in interdune swales.</discussion>
+</bio:treatment>

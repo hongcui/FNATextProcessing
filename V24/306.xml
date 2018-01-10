@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>26</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus suksdorfii Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>SUKSDORF'S BROME</common_names>
+  <description type="morphology">Plants perennial; not rhizomatous. Culms 50-100 cm, erect; nodes 2-3(4), glabrous, internodes glabrous or puberulent just below the nodes. Sheaths glabrous; auricles absent; ligules to 1 mm, glabrous, truncate; blades (8)12-19(24) cm long, 4-8(14) mm wide, flat, glabrous, margins scabrous. Panicles 6-14 cm, erect, contracted; branches erect or ascending. Spikelets 15-30 mm, elliptic to lanceolate, terete to moderately laterally compressed, with (3)5-7 florets. Glumes glabrous or sparsely pubescent; lower glumes 7-11 mm, l(3)-veined; upper glumes 9-12 mm, 3-veined; lemmas 12-15 mm, elliptic, rounded over the midvein, backs and margins pubescent or nearly glabrous, apices obtuse, entire; awns 2-5 mm, straight, arising less than 1.5 mm below the lemma apices; anthers 2-3.5 mm. 2n = 14.</description>
+  <discussion>Bromus suksdorfii grows on open slopes and in open subalpine forests, at about 1300-3300 m, from southern Washington to southern California.</discussion>
+</bio:treatment>

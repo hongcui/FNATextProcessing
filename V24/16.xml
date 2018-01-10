@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bambusa multiplex (Lour.) Raeusch. ex Schult. & Schult. f. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants densely clumping, without thorny branches. Culms 0.5-7 m tall, 1-2.5 cm thick, emerging at an angle, broadly arching above, usually thin-walled and hollow, solid in some cultivars; nodes not swollen; internodes all similar, 3-60 cm. Branches to 20 per node, erect to spreading, the central branch slightly dominant, often becoming densely congested and forming tangled clusters of rhizomes, aborted shoots, and stunted roots, branchlets of the lower branches not thornlike. Culm leaves 12-15 cm, narrowly triangular, tardily deciduous, initially light green, becoming reddish brown to stramineous, glabrous; auricles and fimbriae developed; blades 1-2 cm, initially appressed to the culm, initially antrorsely hispid on both surfaces, becoming glabrous. Foliage leaves: sheaths glabrous; ligules to 0.5 mm; auricles absent; fimbriae sometimes present; blades 7-15 cm long, 1-2 cm wide, abaxial surfaces glaucous and slightly pubescent, adaxial surfaces dark green and glabrous. Pseudospikelets 30-40 mm, with up to 10 florets. 2n = 72.</description>
+  <discussion>Bambusa multiplex is native to southeast Asia. It is now widely planted around the world. The dense foliage with many leaves on each branchlet makes it well suited to hedging. A large number of cultivars are available, some with striped culms and leaves, others with greatly reduced stature and leaf size suitable for bonsai culture or hedging. The tangled branch clusters allow natural dispersal and easy propagation in hot, humid climates. Plants listed as B. glaucescens (Willd.) Sieb. ex Munro in North America probably belong to B. multiplex.</discussion>
+</bio:treatment>

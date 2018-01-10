@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Chloris canterae Arechav. </name_authority_date>
+  </taxon_identification>
+  <common_names>PARAGUAYAN WINDMILL-GRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose. Culms to 100 cm, erect. Sheaths glabrous; ligules about 0.5 mm, membranous, erose; blades to 25 cm long, 1-6 mm wide, flat or involute, sometimes appear¬ing filiform, bases with hairs to 7 mm. Panicles digitate, with 2-9 evidently separate branches; branches 3-14 cm, erect to curving, averaging 11 spikelets per cm. Spikelets strongly imbricate, light to medium brown, with 2(3) sterile florets. Lower glumes 1.6-2.4 mm; upper glumes 2.3-3.8 mm; lowest lemmas 2.7-4.2 mm long, 0.6-1.1 mm wide, marginal veins and keels densely and conspicuously hairy, hairs 1.5-3 mm, awns 2.4-5.5 mm; second florets 1.1-1.8 mm, about 1/2 as wide as long, conspicuously widened distally, laterally compressed, glabrous, truncate, awned, awns 1.5-3.5 mm; distal sterile floret(s) similar but smaller, longer than the subtending rachilla segments, unawned. Caryopses 1.3-2 mm long, 0.8-0.9 mm wide, ovoid-ellipsoid.</description>
+  <discussion>Chloris canterae is native to South America. Both of its varieties are found in the coastal plain of Texas and Louisiana. In South America, they are essentially sympatric, but occupy different habitats.</discussion>
+  <key>
+    <key_body>
+1. Leaves primarily cauline, 2.5-6 mm wide, flat; panicle branches 4-14 cm long  .....var. canterae
+1. Leaves primarily basal, 1-1.5 mm wide, involute; panicle branches 3-6 cm long   .....var. grandiflora
+
+    </key_body>
+  </key>
+</bio:treatment>

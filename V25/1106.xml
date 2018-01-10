@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>1. Ligules of stiff hairs present on the lower leaves; lower florets staminate; plants perennial. 
+2. Plants without scaly rhizomes, sometimes rooting at the lower nodes; lower lemmas usually awned, sometimes merely apiculate; known outside of experimental plantings 	1.E. polystachya
+2.	Plants with short, scaly rhizomes; lower lemmas unawned, sometimes long-cuspidate; in the Flora region, known only from experimental plantings 	2. E. pyramidalis
+1. Ligules almost always absent from all leaves, the ligule region sometimes pubescent; lower florets sterile or staminate; plants usually annual, sometimes short-lived perennials.
+3.	Lower lemmas usually unawned; spikelets, particularly those near the base of the panicles, not disarticulating at maturity; upper lemmas wider and longer than the upper glumes at maturity and, hence, exposed at maturity.
+4. Spikelets always green and pale at maturity, their apices usually obtuse, varying to acute; rachis nodes not or only sparsely hispid with papillose-based hairs; caryopses whitish	9. E. frumentacea
+4.	Spikelets purplish to blackish-brown at maturity, their apices obuse to shortly acute; rachis nodes densely hispid with papillose-based hairs; caryopses brownish  	11. E. esculenta
+3. Lower lemmas often awned; spikelets disarticulating at maturity; upper lemmas not or scarcely exceeding the upper glumes in length and width at maturity.
+5.	Plants essentially obligate weeds of rice, growing in the fields; culms erect, densely tufted; spikelets 3.7-7 mm long; plants resembling rice in their vegetative growth.
+6. Panicles horizontal or drooping at maturity; spikelets broadly ovate to ovate; lower lemmas usually awned; caryopses 1.9-3 mm long, the embryos 70-85% as long as the caryopses   	12. E. oryzoides
+6.	Panicles erect to slightly drooping; spikelets ovate-elliptical; lower lemmas awned or not; caryopses 1.7-2.6 mm long, the embryos 89-98% as long as the caryopses 	13. E.  oryzicola
+5. Plants not obligate weeds of rice, found in summer crops and wet places, and often in rice fields; culms sprawling, decumbent or erect; spikelets 2-5 mm long; plants occasionally resembling rice vegetatively but, if so, the spikelets less than 3 mm long.
+7.	Lower florets staminate; anthers of the upper florets 1.2-1.7 mm long	3. E. paludigena
+7. Lower florets sterile; anthers of the upper florets 0.5-1.2 mm long.
+8. Panicle branches 0.7-2(4) cm long, without secondary branches; spikelets 2-3 mm long, unawned 	8. E.  colona
+8. Panicle branches 1-14 cm long, usually rebranched, the secondary branches often short and inconspicuous; spikelets 2.5-5 mm long, awned or unawned.
+9. Upper lemmas broadly ovate to elliptical, if elliptical, each with a line of minute (need 25x magnification) hairs across the base of the early-withering tips.
+10. Upper lemmas with rounded or broadly acute coriaceous apices that pass abruptly into a membranous tip, a line of minute hairs present at the base of the tip 	10. E. crus-galli
+10. Upper lemmas with acute or acuminate coriaceous apices that extend into the membranous tip, without hairs at the base of the tip 	4. E. muricata
+ 
+ 
+9. Upper lemmas narrowly ovate to elliptical, never with a line of minute hairs across the base of the early-withering, membranous tips. 
+11. Spikelets 2.5-3.4 mm long; lower lemmas unawned or with awns 3-10(15) mm long, curved 	6. E. crus-pavonis
+11. Spikelets 3-5 mm long; lower lemmas usually with awns 8-25 mm long, typically straight.
+12. Blades 10-35(60) mm wide; sheaths usually hispid and the margins ciliate with prominent papillose-based hairs, sometimes the sheaths only papillose; lower lemmas awned, the awns 8-25(60) mm long; common in the eastern portion of the Flora region 	5. E. walteri
+12. Blades 5-10 mm wide; sheaths glabrous or with papillose-based hairs; lower lemmas unawned or awned, the awns 8-16(50) mm long; in the Flora region, known only from southern Arizona	7.E. oplismenoides
+ 
+</name_authority_date>
+  </taxon_identification>
+  <common_names>CREEPING RIVER GRASS</common_names>
+  <description type="morphology">Plants perennial; not rhizomatous. Culms 1-2 m tall, to 1 cm thick, erect or decumbent and rooting at the lower nodes, upper portion sometimes floating distally; nodes glabrous or   antrorsely  villous.   Sheaths mostly glabrous, minutely puberulent, or hispid, hairs papillose-based, throat hispid; ligules present on the lower leaves, 1-5 mm, of stiff hairs; blades 15-70 cm long, 5-13 mm wide, glabrous. Panicles 13-45 cm, erect, rachis nodes hispid, hairs 3-6.5 mm, papillose-based, internodes scabrous; primary branches 4-10 cm, subverticillate, ascending, nodes hispid, hairs 2.5-4 mm, papillose-based, internodes scabrous; secondary branches short, spikelets subsessile, in clusters. Spikelets 4-7 mm, hispid, hairs appressed, disarticulating at maturity. Lower glumes at least 1/2 as long as the spikelets; lower florets staminate; lower lemmas apiculate or awned, awns to 18 mm; lower paleas subequal to the lower lemmas, often purple; anthers of lower florets 1.5-3.6 mm, orange; upper lemmas 2.5-5 mm, elliptic or narrowly ovate, apices obtuse, with a membranous, soon-withering tip; anthers of upper florets shorter than those of the lower florets. Caryopses to 3 mm. 2n = 54.</description>
+  <discussion>Echinochloa polystachya grows in coastal marshes, often in standing water, from Texas, Louisiana, and Florida south through Mexico and the Caribbean islands to Argentina. Two varieties exist. Echinochloa polystachya var. polystachya has glabrous culms and leaf sheaths; Echinochloa polystachya var. spectabilis (Nees ex Trin.) Mart. Crov. has swollen, pubescent cauline nodes and pubescent leaf sheaths.</discussion>
+</bio:treatment>

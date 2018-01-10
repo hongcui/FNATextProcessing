@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Robert I. Lonard</author>
+    </source>
+  </meta>
+  <number>14.04</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>VULPIA C.C. Gmel.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants usually annual, rarely perennial. Culms 5-90 cm, erect or ascending from a decumbent base, usually glabrous. Sheaths open, usually glabrous; auricles absent; ligules usually shorter than 1 mm, membranous, usually truncate, ciliate; blades flat or rolled, glabrous or pubescent. Inflorescences panicles or racemes, sometimes spikelike, usually with more than 1 spikelet associated with each node; branches 1-3 per node, appressed or spreading, usually glabrous, scabrous. Spikelets pedicellate, laterally compressed, with 1-11(17) florets, distal florets reduced; disarticulation above the glumes and beneath the florets, occasionally also at the base of the pedicels. Glumes shorter than the adjacent lemmas, subulate to lanceolate, apices acute to acuminate, unawned or awn-tipped; lower glumes much shorter than the upper glumes, 1-veined; upper glumes 3-veined; rachillas terminating in a reduced floret; calluses blunt, glabrous; lemmas membranous, lanceolate, 3-5-veined, veins converging distally, margins involute over the edges of the caryopses, apices entire, acute to acuminate, mucronate or awned; paleas usually slightly shorter than to equaling the lemmas, sometimes longer; anthers usually 1, rarely 3 in chasmogamous specimens. Caryopses shorter than the lemmas, concealed at maturity, elongate, dorsally compressed, curved in cross section, falling with the lemma and palea. x = 7. </description>
+  <discussion>Vulpia, a genus of 30 species, is most abundant in Europe and the Mediterranean region (Cotton and Stace 1967). The Flora region has three native and three introduced species. Most species, including ours, are weedy, cleistogamous annuals, usually having one anther per floret. Festuca, in which Vulpia is sometimes included, consists of chasmogamous species having three anthers per floret. The two genera are closely related to each other. Sterile hybrids between Vulpia and Festuca, and Vulpia and Lolium, are known.</discussion>
+  <references>Cotton, R. and C.A. Stace. 1967. Taxonomy of the genus Vulpia (Gramineae): I. Chromosome numbers and geographical distribution of the Old World species. Genetica 46:235-255; Lonard, R.I. and F.W. Gould. 1974. The North American species of Vulpia (Gramineae). Madrono 22:217-230; Stace, C.A. 1975. Wild hybrids in the British flora. Pp. 111-125 in S.M. Walters (ed.). European Floristic and Taxonomic Studies. E.W. Classey, Faringdon, England. 144 pp.</references>
+  <key>
+    <key_discussion>In the key and descriptions, the spikelet and lemma measurements exclude the awns.</key_discussion>
+    <key_body>
+1. Lower glumes less than 1/2 the length of the upper glumes.
+2. Lemmas 5-veined, glabrous except the margins sometimes ciliate; rachilla internodes 0.75-1.9 mm long .....1. V. myuros
+2. Lemmas 3(5)-veined, pubescent or glabrous, the margins ciliate; rachilla internodes 0.4-0.9 mm long .....6.V. ciliata
+1. Lower glumes 1/2 or more the length of the upper glumes.
+3. Lemmas 2.5-3.5 mm long, the apices more pubescent than the bases; caryopses 1.5-2.5 mm long .....2. V. sciurea
+3. Lemmas 2.7-9.5 mm long, if pubescent, the apices no more so than the bases but occasionally ciliate; caryopses 1.7-6.5 mm long.
+4. Panicle branches 1-2 per node; spikelets with 4-17 florets; rachilla internodes 0.5-0.7 mm long; awn of the lowermost lemma in each spikelet 0.3-9 mm long; caryopses 1.7-3.7 mm long .....3.V. octoflora
+4. Panicle branches solitary; spikelets with 1-8 florets; rachilla internodes 0.6-1.2 mm long; awn of the lowermost lemma in each spikelet 2-20 mm long; caryopses 3.5-6.5 mm long. 
+5. Panicle branches appressed to erect at maturity, without axillary pulvini; paleas equal to or shorter than the lemmas .....4.V. bromoides
+5. Panicle branches spreading to reflexed at maturity, with axillary pulvini; paleas usually slightly longer than the lemmas  .....5.V. microstachys
+
+    </key_body>
+  </key>
+</bio:treatment>

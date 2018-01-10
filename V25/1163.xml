@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Dichanthelium acuminatum subsp. lindheimeri (Nash) Freckmann & Lelong </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms often yellowish-green, usually glabrous; nodes glabrous; fall phase usually with stiffly spreading culms with dense fascicles of branches with reduced, often involute blades. Cauline sheaths often yellowish-green, usually glabrous or the lowest sheaths sparsely ascending-pubescent; blades 4-9 cm long, 4-8 mm wide, stiffly ascending or spreading, often yellowish-green, glabrous on both surfaces or puberulent abaxially, bases rounded, margins faintly whitish-scabridulous, with conspicuous, long, papillose-based cilia at the base. Primary panicles 3.5-7 cm, open, less than twice as long as wide. Spikelets 1.3-1.6 mm, diverging to ascending, usually obovoid, obtuse.</description>
+  <discussion>Dichanthelium acuminatum subsp. lindheimeri grows in dry or moist, sandy or clayey, open, often disturbed areas, open woodlands, limestone glades, and roadsides, primarily in the eastern portion of the species range. It intergrades occasionally with the pubescent subsp. fasciculatum and subsp. implicatum.</discussion>
+</bio:treatment>

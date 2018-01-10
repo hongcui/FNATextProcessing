@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Panicum sect. Tenera (Hitchc. & Chase) Pilg.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose. Culms wiry, somewhat compressed, erect. Ligules less than 0.4 mm, membranous. Panicles narrow, with a few spikelets; branches appressed; pedicels short, with a few long hairs at the apices. Lower glumes 1- or 3-veined; lower florets sterile; lower paleas small; upper florets smooth, shiny, x = 10.
+ 
+</description>
+</bio:treatment>

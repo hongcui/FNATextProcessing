@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>17.06</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>ALLOLEPIS Soderstr. & H.F. Decker</name_authority_date>
+  </taxon_identification>
+  <common_names>J.K. Wipff</common_names>
+  <description type="morphology">Plants perennial; dioecious, staminate and pistillate plants similar; stoloniferous. Culms 10-70 cm. Leaves mostly cauline; ligules membranous, ciliate. Inflorescences terminal panicles, exceeding the upper leaves; branches appressed or ascending, usually spikelet-bearing to the base. Spikelets not disarticulating. Pistillate spikelets with 5-10 florets; lower glumes 1-5-veined, only the midveins conspicuous; upper glumes with 3 conspicuous veins, sometimes with 2-4 inconspicuous lateral veins; lemmas 3-5(6)-veined, unawned; paleas shorter than the lemmas, completely surrounding the ovaries, saccate basally, narrowing distally and surrounding the styles, intercostal region coriaceous, veins keeled, scabrous and puberulent, margins scarious. Staminate spikelets with 4-21 florets; lower glumes 1-veined; upper glumes 1-3-veined; lemmas conspicuously 3-veined, unawned; paleas equaling or slightly longer than the lemmas, linear, 2-veined, veins ciliolate. Lodicules 2, cuneate. x = 10. </description>
+  <discussion>Allolepis is a monotypic North American genus. It used to be included in Distichlis, but it differs in its paleal morphology, in never producing rhizomes, and in its soil preferences.</discussion>
+  <references>Soderstrom, T.R. and H.F. Decker. 1965. Allolepis: A new segregate of Disticblis (Gramineae). Madrono 18:33-64.</references>
+</bio:treatment>

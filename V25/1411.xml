@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>15</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Setaria liebmannii E. Fourn. </name_authority_date>
+  </taxon_identification>
+  <common_names>LIEBMANN'S BRISTLEGRASS</common_names>
+  <description type="morphology">Plants annual. Culms 30-90 cm. Sheaths glabrous, margins ciliate; ligules ciliate; blades to 20 cm long, 10-20 mm wide, flat, scabrous on both surfaces. Panicles 10-25 cm, loosely spicate; rachises scabrous; bristles solitary, 7-15 mm, slender, antrorsely scabrous. Spikelets 2-2.7(3) mm. Lower glumes about 1/3 as long as the spikelets, 3-veined; upper glumes and lower lemmas 7-veined, the 5 central veins coalescing at the apices; lower paleas absent; upper lemmas gibbous, strongly and coarsely transversely rugose; upper paleas similar to the upper lemmas. 2n = 18.</description>
+  <discussion>Within the Flora region, Setaria liebmannii is known only from southern Arizona, but it is a common species along the Pacific slope from northern Mexico to Nicaragua, usually growing at elevations below 750 m. The five apically coalescing veins and the additional free pair at the periphery are unique among the Setaria species in the Flora region.</discussion>
+</bio:treatment>

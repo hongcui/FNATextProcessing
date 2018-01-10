@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Brachypodium distachyon (L.) P. Beauv</name_authority_date>
+  </taxon_identification>
+  <common_names>PURPLE FALSEBROME</common_names>
+  <description type="morphology">Plants annual; loosely tufted; bright green or glaucous. Culms 5-35(45-50) cm, geniculate or stiffly erect, internodes glabrous; nodes conspicuously pubescent. Leaves cauline; sheaths usually glabrous; ligules 0.5-2 mm, pubescent; blades 10-40 cm long, 2-5 mm wide, flat, glaucous, sparsely hairy, hairs 0.5-1 mm, veins unequally prominent, margins thickened, sparsely hairy, hairs 0.8-1.3 mm. Racemes 2-7 cm, with 1-7 usually overlapping, appressed spikelets, the basal 1-2 spikelets sometimes diverging at maturity; pedicels 0.5-1 mm. Spikelets 15-40 mm, laterally compressed, with 7-15(17) florets. Lower glumes 5-6 mm, 5-7-veined; upper glumes 7-8 mm, 7-9-veined, veins prominent, apices acute; lemmas 7-10 mm, lanceolate, 7-veined,  
+awned, awns 8-17 mm, usually straight, sometimes curved; paleas (6.5)7-9 mm, with 2-numerous veins, 2-keeled, keels stiffly ciliate; lodicules oblong, acute, sparsely hairy, ciliate; anthers 0.5-1.1 mm. Caryopses 5.7-7.8 mm, ellipsoid, apices hairy. 2n = 20, 28, 30.
+</description>
+  <discussion>Brachypodium distachyon is native to dry, open habitats in southern Europe. It is now established in California and is known from scattered locations elsewhere in the Flora region. It is also established in Australia, where it grows in dry, disturbed areas on sandy or rocky soils.
+Brachypodium distachyon is sometimes treated as the only member of Trachynia Link. It differs from other species of Brachypodium in being a cleistogamous annual with shorter pedicels and anthers, laterally compressed spikelets, and fewer spikelets per raceme. Molecular data (Catalan and Olmstead 2000) show it as the basal lineage within Brachypodium. It has been proposed as a model species for molecular work in the Poaceae.
+</discussion>
+</bio:treatment>

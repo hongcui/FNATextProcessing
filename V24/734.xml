@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa pratensis subsp. agassizensis (B. Boivin & D. Love) Roy L. Taylor & MacBryde</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants moderately to densely tufted, shoots clustered. Basal branching intra- and extravaginal. Culms 20-40(50) cm. Innovation shoot blades usually shorter than 15 cm, 0.8-2 mm wide, all involute or folded, adaxial surfaces sparsely pubescent. Panicles 4-8 cm, ovoid, narrowly pyramidal or loosely contracted, with 2-5 branches per node; branches ascending, smooth or sparsely to moderately densely scabrous, with several spikelets per branch. Spikelets lanceolate, not bulbiferous; florets normal. Glume keels strongly compressed, sparsely to moderately scabrous; upper glumes shorter than to nearly equaling the lowest lemmas; lemmas 2-4 mm, finely muriculate, lateral veins glabrous; palea keels scabrous, glabrous, intercostal regions glabrous. 2n = 56.</description>
+  <discussion>Poa pratensis subsp. agassizensis was described as native to prairies and mountain grasslands of North America; this has not been confirmed. It grows throughout the drier, cool-temperate range of the species in North America. It may consist of ecotypes derived from cultivated material, or be a native form that has adapted to xeric conditions. The least distinctive of the subspecies treated here, it closely approaches subsp. angustifolia in having involute leaves and small spikelets, but has shorter and broader leaves, and more condensed panicles.</discussion>
+</bio:treatment>

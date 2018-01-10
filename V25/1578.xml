@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Andropogon ternarius var. cabanisii (Hack.) Fernald & Griscom</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Rames densely villous; internode hairs about twice as long as and more or less obscuring the sessile spikelets. Lower glumes of sessile spikelets glabrous, sometimes scabrous, not conspicuously veined between the keels.</description>
+  <discussion>Andropogon ternarius var. cabanisii grows in dry pine woods and scrublands of peninsular Florida.</discussion>
+</bio:treatment>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Holcus mollis L</name_authority_date>
+  </taxon_identification>
+  <common_names>
+CREEPING VELVETGRASS, HOULQUE MOLLE</common_names>
+  <description type="morphology">Plants perennial; not cespitose, rhizomatous, rhizomes to 40 cm. Culms 20-100(150) cm, usually decumbent at the base; lower internodes glabrous or sparsely pubescent. Sheaths glabrous or hairy; ligules 1-5 mm, obtuse, erose; blades 2-20 cm long, 3-10 mm wide, pubescent. Panicles 4-20(22) cm long, to 3 cm wide; branches puberulent or ciliate; pedicels to 5 mm long, pilose, hairs to 0.3 mm. Spikelets 4-6(7) mm; rachillas hairy. Glumes exceeding and enclosing the florets, subequal, nearly the same width, ovate, membranous, whitish green when young, straw-colored with age, veins ciliate, often purple, intercostal regions scabrous or glabrous, apices acuminate or acute, unawned; calluses densely to sparsely hairy; lemmas 2-2.5 mm, glabrous, acute; upper lemmas bifid, awned above midlength, awns 3-5 mm, scabrous, straight or geniculate at maturity; anthers about 2 mm. 2n = 28 (35, 42, 49).</description>
+  <discussion>Holcus mollis grows in moist soil and disturbed sites, including lawns and damp pastures. It is a European introduction that has persisted in the Flora region, becoming a problematic weed in ungrazed pastures, prairie remnants, and oak savannahs in portions of the Pacific Northwest. It is also sold as an ornamental. There are two subspecies: Holcus mollis L. subsp. mollis (stems not thickened and tuberous at the base; panicles lax, brownish or purplish) and H. mollis subsp. reuteri (Boiss.) Malag. (stems thickened and tuberous at the base; panicles narrow, whitish). North American introductions belong to subsp. mollis.
+ 
+</discussion>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Stenotaphrum secundatum (Walter) Kuntze </name_authority_date>
+  </taxon_identification>
+  <common_names>ST. AUGUSTINE GRASS</common_names>
+  <description type="morphology">Plants stoloniferous. Culms 10-30 cm, decumbent, rooting at the lower nodes, branched above the base, with prominent prophylls. Sheaths sparsely pilose, constricted at the summit; ligules about 0.5 mm, membranous, ciliate; blades 3-15(18) cm long, 4-10 mm wide, thick, flat, glabrous, apices blunt. Panicles 4.5-10 cm long, less than 1 cm wide; rachises flattened, winged; branches 12-20, with 1-5 spikelets. Spikelets 3.5-5 mm, partially embedded in 1 side of the branch axes; lower glumes about 1 mm, rounded, irregularly toothed; upper glumes and lower lemmas 3-4 mm, about equal; upper lemmas papery, 5-veined, margins weakly clasping the paleas; anthers 2-2.5 mm, tan or purple. Caryopses about 2 mm, oblong to obovate. 2n = 18.</description>
+  <discussion>Stenotaphrum secundatum grows on sandy beaches, at the edges of swamps and lagoons, and along inland streams and lakes. It may be native to the southeastern United States, being known from the Carolinas prior to 1800, but it has become naturalized in most tropical and subtropical regions of the world.
+Stenotaphrum secundatum is planted for turf in the southern United States and is now established from California to North Carolina and Florida. Numerous cultivars have been developed. Specimens with variegated foliage (often called S. secundatum var. variegatum Hitchc.) are sometimes used as an ornamental in hanging baskets and greenhouses.
+</discussion>
+</bio:treatment>

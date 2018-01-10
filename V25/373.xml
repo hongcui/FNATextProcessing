@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Cynodon plectostachyus (K. Schum.) Pilg. </name_authority_date>
+  </taxon_identification>
+  <common_names>STARGRASS</common_names>
+  <description type="morphology">Plants stoloniferous, not rhizomatous; stolons to 2 mm thick, arching. Culms 60-100 cm tall, 1-4 mm thick, glabrous. Sheaths mostly glabrous or sparsely to densely pilose, with long hairs adjacent to the ligules; ligules 1-2 mm; blades to 30 cm long, 4-8 mm wide, both surfaces scabrous and densely pubescent. Panicles with 6-20 subdigitate branches; branches 3-10 cm, in (1)2-7 closely spaced whorls, axes triquetrous. Spikelets 2.5-3 mm, closely imbricate; rachillas prolonged, glabrous, sometimes terminating in a vestigial floret. Lower glumes 0.1-0.3 mm; upper glumes 0.4-0.6 mm; lemmas 2.4-3 mm, keels not winged, keels and margins pubescent, hairs 0.3-0.4 mm; paleas stiffly ciliate on the keels. 2n = 18, 36.</description>
+  <discussion>Cynodon plectostachyus is native to tropical Africa. Its status in the Flora region is unclear. The records shown are from non-cultivated plants, but it is not known whether they represent established populations. Cynodon plectostachyus is not frost-tolerant.</discussion>
+</bio:treatment>

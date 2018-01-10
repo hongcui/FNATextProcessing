@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>tribe</rank>
+    <name_authority_date>EHRHARTEAE Nevski</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial. Culms annual, (1)6-200 cm, sometimes woody, not aerenchymatous, sometimes branched above the base. Sheaths open, usually rounded on the back, glabrous or not, sometimes scabrous; collars frequently with tuberculate hairs; auricles usually present, often ciliate; ligules usually membranous, sometimes merely a membranous rim or of hairs; pseudopetioles not present; blades linear, venation parallel, cross venation not evident, abaxial surfaces with microhairs and variously shaped silica bodies, cross sections non-Kranz; first seedling leaves with well-developed, erect blades. Inflorescences terminal, panicles or unilateral racemes; disarticulation above the glumes, florets falling as a cluster. Spikelets solitary, terete or laterally compressed, with 3 florets, lower 2 florets sterile, terminal floret bisexual, at least the upper sterile floret as long as or longer than the bisexual floret; rachillas sometimes shortly prolonged beyond the base of the bisexual floret. Glumes 2, from 1/2 as long as to exceeding the florets, (3)5-7-veined. Sterile florets: lemmas coriaceous, 5-7-veined, awned or unawned; paleas lacking. Bisexual florets: lemmas lanceolate or rectangular, firmly cartilaginous to coriaceous, 5-7-veined, veins inconspicuous, apices entire, unawned; paleas 0-2(5)-veined; lodicules 2, free; anthers 1-6; styles 2, fused or free to the base, stigmas linear, plumose. Caryopses ellipsoid; hila linear, at least 1/2 as long as the caryopses; embryos up to 1/3 the length of the caryopses, waisted, without an epiblast, with a scutellar tail and a minute mesocotyl internode. x = 12.</description>
+  <discussion>The number of genera recognized in the Ehrharteae varies from one to four (Willemse 1982; Edgar and Connor 2000; Wheeler et al. 2002). The largest genus, Ehrharta, is native to Africa, the other three being Australasian. Only one genus, Ehrharta, has been found in the Flora region.</discussion>
+  <references>Edgar, E. and H.E. Connor. 2000. Flora of New Zealand, vol. 5. Manaaki Whenua Press, Lincoln, New Zealand. 650 pp.; Wheeler, D.J.B., S.W.L. Jacobs, and R.D.B. Whalley. 2002. Grasses of New South Wales, ed. 3. University of New England, Armidale, New South Wales, Australia. 445 pp.; Willemse, L.P.M. 1982. A discussion of the Ehrharteae (Gramineae) with special reference to the Malesian taxa formerly included in Microlaena. Blumea 28:181-194.</references>
+</bio:treatment>

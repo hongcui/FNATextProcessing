@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Luziola fluitans (Michx.) Terrell & H. Rob.</name_authority_date>
+  </taxon_identification>
+  <common_names>SlLVERLEAF GRASS, WATERGRASS</common_names>
+  <description type="morphology">Plants stoloniferous; mostly immersed. Culms to 1+ m, bases prostrate and rooting at the nodes. Leaves mainly cauline, usually crowded distally, streaming in the current or floating on the surface, distal leaves sometimes emergent; sheaths glabrous; ligules 0.5-2 mm, subtriangular to truncate, sometimes erose; pseudopetioles sometimes present; blades 1-5(8) cm long, 1-4 mm wide, glabrous, sometimes pilose basally,  
+scabridulous. Inflorescences spikes or racemes, spikelets sessile or shortly pedicellate. Staminate inflorescences 1-2 cm, terminal, partially exserted from the sheaths, emergent at anthesis, with 2-4 spikelets; staminate florets 3-5 mm; lemmas narrowly ovate, usually 5-veined; paleas similar, usually 3-veined; anthers 6,2-3.7 mm, linear. Pistillate inflorescences 0.5-2 cm, mostly included in the subtending sheaths, only the stigmas visible, with 2 to few spikelets; pistillate florets 1.4-3 mm, caducous; lemmas 5-9-veined, acuminate; paleas similar to the lemmas, 3-7-veined; stigmas 3-6 mm. Achenes 1.3-2 mm, ovoid, asymmetrical, minutely striate, lustrous. 2n = 24.
+</description>
+  <discussion>Luziola fluitans grows in fresh to slightly saline lakes and streams in the southeastern United States and eastern Mexico. It is most common in the coastal plain, and also occurs in the Piedmont. Plants in the United States and eastern Mexico belong to L. fluitans (Michx.) Terrell & H. Rob var. fluitans, which differs from L. fluitans var. oconnorii (R. Guzman) G. Tucker of the uplands of central Mexico in having shorter and narrower leaf blades, shorter spikelets, and shorter anthers.</discussion>
+</bio:treatment>

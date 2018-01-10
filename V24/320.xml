@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>38</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus rubens L. </name_authority_date>
+  </taxon_identification>
+  <common_names>FOXTAIL CHESS, RED BROME</common_names>
+  <description type="morphology">Plants annual. Culms 10-40 cm, erect or ascending, often puberulent below the panicle. Sheaths softly pubescent to pilose; auricles absent; ligules 1-3(4) mm, pubescent, obtuse, lacerate; blades to 15 cm long, 1-5 mm wide, flat, pubescent on both surfaces. Panicles 2-10 cm long, 2-5 cm wide, erect, dense, often reddish brown; branches 0.1-1 cm, ascending, never drooping, not readily visible, with 1 or 2 spikelets. Spikelets 18-25 mm, much longer than the panicle branches, densely crowded, subsessile, with parallel sides or widening distally, moderately laterally compressed, with 4-8 florets. Glumes pilose, margins hyaline; lower glumes 5-8 mm, l(3)-veined; upper glumes 8-12 mm, 3-5-veined; lemmas 10-15 mm, linear-lanceolate, pubescent to pilose, 7-veined. rounded over the midvein, margins hyaline, apices acuminate, teeth 1-3 mm; awns 8-20 mm, straight, reddish, arising 1.5 mm or more below the lemma apices; anthers 0.5-1 mm. 2n = 14, 28.</description>
+  <discussion>Bromus rubens is native to southern and southwestern Europe. It now grows in North America in disturbed ground, waste places, fields, and rocky slopes, from southern Washington to southern California, eastward to Idaho, New Mexico, and western Texas. It was found in Massachusetts before 1900 in wool waste used on a crop field; it is not established there. The record from New York represents a rare introduction; it is not known whether it is established.</discussion>
+</bio:treatment>

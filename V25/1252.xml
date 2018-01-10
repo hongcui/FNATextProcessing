@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Panicum hallii Vasey subsp. hallii</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants often depauperate, occasionally large, sparsely to moderately pubescent or hirsute. Blades usually erect or ascending, tending to arise from basal clumps and curl at maturity. Panicles usually greatly exceeding the blades, with a few spikelets; main branches solitary, ascending, well-separated. Spikelets 3-4.2 mm.</description>
+  <discussion>Panicum hallii subsp. hallii usually grows on drier sites than subsp. filipes. Its range extends from southern Colorado and Kansas to north central Mexico.</discussion>
+</bio:treatment>

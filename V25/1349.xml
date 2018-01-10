@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Eriochloa acuminata var. minor (Vasey) R.B. Shaw </name_authority_date>
+  </taxon_identification>
+  <description type="morphology"></description>
+  <discussion>Eriochloa acuminata var. minor (Vasey) R.B. Shaw is common in irrigated fields, orchards and disturbed areas of the southwestern United States. It is adventive in Maryland.</discussion>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Hilaria belangeri var. longifolia (Vasey) Hitchc.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants not stoloniferous. Ligules 2.5-3 mm; blades 3-15 cm long, to 3.5 mm wide.</description>
+  <discussion>Hilaria belangeri var. longifolia is more restricted than var. belangeri in its distribution, growing from Arizona to Texas, and south to northwestern Mexico.</discussion>
+</bio:treatment>

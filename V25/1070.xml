@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>15</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Digitaria floridana Hitchc. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or of indefinite duration; not stoloniferous. Culms 20-30 cm, decumbent and rooting at the nodes; nodes glabrous.  Sheaths mostly glabrous, throats with papillose-based hairs; blades 4-7 cm long, 3-6 mm wide, glabrous. Panicles with 2-4 spikelike primary branches, if more than 2, rachises 7-20 mm and the branches racemose; primary branches 3-6 cm, terminal branch erect, the other(s) usually divergent, axes wing-margined, wings wider than the midribs, bearing spikelets in unequally pedicellate groups of 3 on the basal and mid-portions; secondary branches rarely present; shortest pedicels about 0.05 mm; middle pedicels about 0.1 mm; longest pedicels 0.2-0.3 mm, adnate to the branch axes basally; axillary panicles not present. Spikelets homomorphic, 1.5-1.7 mm, lanceolate. Lower glumes absent; upper glumes almost equaling the upper lemmas, conspicuously 3-veined; lower lemmas slightly longer than the upper lemmas, 7-veined, veins unequally spaced, all the intercostal regions sparsely hairy, hairs about 0.3 mm; upper lemmas light brown when immature, dark brown at maturity. 2n = unknown.</description>
+  <discussion>Digitaria floridana is a rare species that is known only from sandy pine woods in Hernando County, Florida.</discussion>
+</bio:treatment>

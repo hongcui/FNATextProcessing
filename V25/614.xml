@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>29</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Digitaria bicornis (Lam.) Roem. & Schult. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants of indefinite duration; sometimes stoloniferous. Culms with erect portion 10-85 cm, long-decumbent, rooting and branching at the lower nodes. Sheaths with papillose-based hairs or the upper sheaths glabrous; ligules 1-4 mm; blades 3-14 cm long, 2-9 mm wide, mostly glabrous but the adaxial surfaces with papillose-based hairs basally. Panicles with (2)3-6 spikelike primary branches, these digitate or a few solitary branches below; lowest nodes glabrous or with hairs less than 0.4 mm; primary branches 6.5-21 cm long, 0.6-1.3 mm wide, axes winged, wings at least 1/2 as wide as the midribs, lower and middle portions bearing spikelets in unequally pedicellate pairs, pedicels not adnate to the branches; secondary branches absent; shorter pedicels about 0.2 mm; longer pedicels to 2 mm. Spikelets 2.6-3.7 mm, spikelet pairs dimorphic in their pubescence and venation pattern of the lower lemmas. Lower glumes absent or to 0.9 mm, deltoid or bifid; upper glumes 1.7-2.8 mm, 1/2 - 3/4 as long as the spikelets, 3-veined; lower lemmas 7-veined, veins smooth; lower lemmas of shortly pedicellate spikelets with 3 equally spaced, glabrous or shortly pubescent central veins, lemma margins and the region between the 2 lateral veins with appressed or spreading, 0.5-1 mm hairs; lower lemmas of long-pedicellate spikelets with unequally spaced veins, midvein well-separated from the 3 lateral veins, lateral veins crowded together near the margins, lemma margins and the region between the 2 inner lateral veins hairy with appressed or strongly divergent, 1-2 mm hairs, sometimes also with longer, glassy yellow hairs; upper lemmas of all spikelets usually yellow or gray, sometimes light brown, at maturity; anthers 0.5-0.6 mm. 2n = 54, 72.</description>
+  <discussion>Digitaria bicornis is a common species on the sandy coastal plain of the southeastern United States. Its range extends through Mexico to Costa Rica and northern South America, as well as to the West Indies. The Californian record reflects a 1926 collection; the species is not known to be established in the state.</discussion>
+</bio:treatment>

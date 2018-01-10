@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>63</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia depauperata Scribn. </name_authority_date>
+  </taxon_identification>
+  <common_names>SIXWEEKS MUHLY</common_names>
+  <description type="morphology">Plants annual; tufted. Culms 3-15 cm; internodes mostly scabridulous or pubescent, pubescent or strigose below the nodes. Sheaths often longer than the internodes, somewhat inflated, smooth or scabrous, keeled, margins scarious, not flattened, papery, or spirally coiled when old; ligules 1.4-2.5 mm, membranous, acute, with lateral lobes; blades 1-3 cm long, 0.6-1.5 mm wide, flat or involute, scabrous to strigose, midveins and margins thickened, whitish. Panicles 2.5-8.5 cm long, 0.5-0.7 cm wide, contracted; primary branches 1-2.2 cm, appressed, spikelet-bearing to the base, spikelets borne in subsessile-pedicellate pairs; longer pedicels 3-6 mm, scabrous; disarticulation beneath the spikelet pairs. Spikelets 2.5-5.1 mm, appressed. Glumes 2.3-5.1 mm, equaling or exceeding the florets; lower glumes 2.3-4 mm, subulate, 2-veined, minutely to deeply bifid, teeth aristate or with awns to 1.3 mm; upper glumes 3-5.1 mm, lanceolate, 1-veined, entire, acuminate; lemmas 2.5-4.5 mm, narrowly lanceolate, light greenish-brown to purplish, scabrous, appressed-pubescent on the margins and midveins, apices acuminate, awned, awns 6-15 mm, stiff; paleas 2.4-3.6 mm, lanceolate, intercostal region appressed-pubescent, apices acuminate; anthers 0.5-0.8 mm, purplish to yellowish. Caryopses 1.5-2.3 mm, narrowly fusiform, brownish. 2n = 20.</description>
+  <discussion>Muhlenbergia depauperata grows in gravelly flats, rock outcrops, exposed bedrock, and sandy banks, in gramma grassland associations, usually on soils derived from calcareous parent materials, at elevations of 1530-2400 m. Its range extends from the southwestern United States to southern Mexico.
+Muhlenbergia depauperata and M. brevis share several features with Lycurus: spikelets borne in pairs, 2-veined and 2-awned lower glumes, 1-veined and awned upper glumes, acuminate, awned lemmas with short pubescence along the margins, and pubescent paleas.
+</discussion>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Bouteloua hirsuta Lag. subsp. pectinata (Feath.) Wipff & S.D. Jones</name_authority_date>
+  </taxon_identification>
+  <common_names>TALL GRAMA</common_names>
+  <description type="morphology">Plants without rhizomes or stolons. Culms 35-75 cm, erect, densely tufted, usually unbranched; nodes 3-4; internodes glabrous. Leaves mostly basal; sheaths  
+mostly pubescent. Panicles racemose, with (2)3-6 branches on (3)6-18 cm rachises. Anthers 2-3.2 mm; rachilla segments subtending second florets with a distal tuft of hairs. Caryopses 1.5-2.6 mm. 2n = 20.
+</description>
+  <discussion>Bouteloua hirsuta subsp. pectinata grows in well-drained, relatively undisturbed, calcareous soils, usually on thin-soiled limestone outcrops, at 60-500 m. Its range extends from southern Oklahoma to central Texas. Although restricted in its geographic distribution, where subsp. pectinata is sympatric with subsp. hirsuta, swarms of morphologically intermediate plants are found (Wipff and Jones 1996).</discussion>
+</bio:treatment>

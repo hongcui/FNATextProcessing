@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>14</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus pseudolaevipes Wagnon </name_authority_date>
+  </taxon_identification>
+  <common_names>WOODLAND BROME</common_names>
+  <description type="morphology">Plants perennial; not rhizomatous. Culms 60-120 cm, erect or spreading; nodes 4-6, pubescent or puberulent; internodes mostly glabrous, sometimes pubescent to puberulent just below the nodes. Sheaths glabrous or pilose, often pilose near the auricles; auricles usually present on the lower leaves, rarely absent; ligules to 1.5 mm, usually pubescent, sometimes glabrous, truncate to obtuse, laciniate, ciliolate; blades 10-25 cm long, 3-9 mm wide, flat, glabrous, pilose on the margins or throughout. Panicles 10-20 cm, open, usually nodding; branches ascending to spreading or reflexed. Spikelets 15-35 mm, elliptic to lanceolate, terete to moderately laterally compressed, with 4-10 florets. Glumes usually pubescent, rarely glabrous, sometimes scabrous, margins often bronze-tinged; lower glumes 4-7 mm, 3-veined; upper glumes 6.5-9 mm, (3)5-veined; lemmas 10-13 mm, elliptic to lanceolate, rounded over the midvein, backs usually pubescent, sometimes glabrous distally, margins often bronze-tinged, pubescent nearly throughout, apices acute to obtuse, entire, rarely slightly emarginate, lobes shorter than 1 mm; awns 3-5 mm, straight, arising less than 1.5 mm below the lemma apices; anthers 3.5-5 mm. 2n = 14.</description>
+  <discussion>Bromus pseudolaevipes grows in dry, shaded or semishaded sites in chaparral, coastal sage scrub, and woodland-savannah zones, from near sea level to about 900 m, in central and southern California. It is not known from Mexico.</discussion>
+</bio:treatment>

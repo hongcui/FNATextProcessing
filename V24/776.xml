@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>41</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa fendleriana (Steud.) Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>VASEY’S MUTTONGRASS</common_names>
+  <description type="morphology">Plants perennial; densely to loosely tufted, rhizomatous, often weakly so, rhizomes usually short and inconspicuous. Basal branching mainly intravaginal, usually some extravaginal. Culms 15-70 cm, sometimes stout, erect or the bases decumbent, terete or weakly compressed; nodes terete, 0-1 exserted. Sheaths closed for about 1/3 their length, terete, smooth or scabrous, glabrous or occasionally retrorsely pubescent, bases of basal sheaths glabrous, distal sheath lengths usually (5)9+ times blade lengths; collars smooth or scabrous, glabrous or hispidulous; ligules 0.2-18 mm, smooth or scabrous, decurrent or not, apices truncate to acuminate, ciliolate or glabrous; innovation blades usually moderately to densely scabrous or hispidulous on and between the veins, infrequently nearly smooth and glabrous; cauline blades strongly reduced in length distally, (0.5)1-3(4) mm wide, usually involute, moderately thick and firm, infrequently moderately thin, abaxial surfaces usually smooth, infrequently scabrous, apices narrowly prow-shaped, steeply reduced in length distally along the culm, flag leaf blades often absent or very reduced, sometimes to 1(3) cm. Panicles 2-12(30) cm, erect, contracted, narrowly lanceoloid to ovoid, congested, frequently with 100+ spikelets; nodes with 1-2 branches; branches 1-8 cm, erect, terete to weakly angled, smooth or scabrous, with 3-15(25) spikelets. Spikelets (3)4-8(12) mm, lengths to 3 times widths, broadly lanceolate to ovate, laterally compressed, not sexually dimorphic; florets 2-7(13); rachilla internodes 0.8-1.3 mm, smooth, glabrous or hairy, hairs to 0.3 mm. Glumes lanceolate, distinctly keeled; lower glumes 1-3-veined, distinctly shorter than the lowest lemmas; calluses glabrous; lemmas 3-6 mm, lanceolate, distinctly keeled, keels, marginal veins, and lateral veins glabrous or short- to long-villous or softly puberulent, lateral veins moderately prominent, intercostal regions softly puberulent or glabrous, smooth or sparsely scabrous, margins glabrous, apices acute; palea keels scabrous, sometimes softly puberulent or long-villous at midlength, hairs to 0.4+ mm; anthers vestigial (0.1-0.2 mm) or 2-3 mm. 2n = 28+11, 56, 56-58, 58-64.</description>
+  <discussion>Poa fendleriana grows on rocky to rich slopes in sagebrush-scrub, interior chaparral, and southern (rarely northern) high plains grasslands to forests, and from desert hills to low alpine habitats. Its range extends from British Columbia to Manitoba and south to Mexico. It is one of the best spring fodder grasses in the eastern Great Basin, Colorado plateaus, and southern Rocky Mountains. It is dioecious. Each of the subspecies has regions of sexual reproduction in which staminate plants are common within populations, and extensive regions where only apomictic, pistillate plants are found. The sexual populations set little seed; the apomictic populations are highly fecund.
+Poa fendleriana hybridizes with Poa cusickii subsp. pallida (p. 560). The hybrids are called P. xnematophylla (p. 562).
+</discussion>
+  <key>
+    <key_body>
+1. Lemma keels and marginal veins glabrous or almost so .....subsp. albescens
+1. Lemma  keels  and  marginal veins  conspicuously hairy.
+2. Ligules of the middle cauline leaves 0.2-1.2 (1.5) mm long, not decurrent, usually scabrous, apices truncate to rounded, upper margins ciliolate or scabrous .....subsp. fendleriana
+2. Ligules of the middle cauline leaves (1.5)1.8-18 mm long, decurrent, usually smooth to sparsely scabrous, apices obtuse to acuminate, upper margins usually smooth, glabrous.....subsp. longiligula
+
+    </key_body>
+  </key>
+</bio:treatment>

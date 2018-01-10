@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Sporobolus compositus var. macer (Trin.) Kartesz & Gandhi</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants rhizomatous. Culms slender, 0.7-2.2 mm thick at the base. Uppermost sheath 0.7-2.5 mm wide. Panicles with 15-42 spikelets per cm2 when pressed. Fruits 1.3-1.6 mm.</description>
+  <discussion>Sporobolus compositus var. macer is known only from the south central United States.</discussion>
+</bio:treatment>

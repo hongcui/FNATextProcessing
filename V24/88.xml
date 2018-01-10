@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Glyceria striata (Lam.) Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>RIDGED GLYCERIA, GLYCERIE STRIEE</common_names>
+  <description type="morphology">Plants perennial. Culms 20-80 (100) cm tall, (1.5)2-3.5 mm thick, not or only slightly spongy, sometimes rooting at the lower nodes. Sheaths smooth to scabridulous, keeled, sometimes weakly so; ligules 1-4 mm, usually rounded, sometimes acute to mucronate, erose-lacerate; blades 12-30 cm long, 2-6 mm wide, abaxial surfaces smooth or scabridulous, adaxial surfaces scabridulous to scabrous. Panicles 6-25 cm long, 2.5-21 cm wide, pyramidal, open, nodding; branches 5-13 cm, straight to lax, lower branches usually strongly divergent to drooping at maturity, sometimes ascending, with 15-50 spikelets, these often confined to the distal 2/3; pedicels 0.5-7 mm. Spikelets 1.8-4 mm long, 1.2-2.9 mm wide, laterally compressed, oval in side view, with 3-7 florets. Glumes  
+ovate, 1-1.5 times longer than wide, narrowing from midlength or above, veins terminating below the apical margins, apices often splitting with age; lower glumes 0.5-1.2 mm, rounded to obtuse; upper glumes 0.6-1.2 mm, acute or rounded; rachilla internodes 0.1-0.6 mm; lemmas 1.2-2 mm, ovate in dorsal view, veins raised, scabridulous over and between the veins, apices acute, prow-shaped; paleas slightly shorter than to equaling the lemmas, lengths 1.5-3 times widths, keeled, keels not winged, tips pointing towards each other, apices narrowly notched between the keels; anthers 2, (0.2)0.4-0.6 mm, purple or yellow. Caryopses 0.5-2 mm. 2n = 20 [reports of 28 are questionable].
+</description>
+  <discussion>Glyceria striata grows in bogs, along lakes and streams, and in other wet places. Its range extends from Alaska to Newfoundland and south into Mexico. Plants from the eastern portion of the range have sometimes been treated as G. striata var. striata, and those from the west as G. striata var. stricta (Scribn.) Fernald. Eastern plants tend to have somewhat narrower leaves and thin¬ner culms than western plants, but the variation appears continuous. In the west, larger specimens are easy to confuse with G. elata. The two species are sometimes found growing together without hybridizing; this and molecular data (Whipple et al. [in prep.]) support their recognition as separate species. The differences between the two in growth habit and stature are evident in the field; they are not always evident on herbarium specimens. In its overall aspect, G. striata also resembles G. pulchella, but it has somewhat more lax panicle branches in   addition to smaller spikelets and florets.
+Glyceria xgatineauensis Bowden is a sterile hybrid between G. striata and G. melicaria. It resembles G. melicaria but has longer (up to 12 cm), less appressed panicle branches and is a triploid with 2n = 30. It was described from a population near Eardley, Quebec. An additional specimen, tentatively identified as G. xgatineauensis, was collected in 1929 from French Creek in Upshur County, West Virginia.
+Glyceria xottawensis Bowden is a sterile hybrid between G. striata and G. canadensis. It is intermediate between the two parents, and is known only from the original populations near Ottawa. It has sometimes been included in G. xlaxa (Scribn.) Scribn. [=G. canadensis var. laxa]; that taxon often produces viable seed, indi-cating that it is not a hybrid.
+</discussion>
+</bio:treatment>

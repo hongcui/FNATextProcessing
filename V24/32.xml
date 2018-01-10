@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Ehrharta erecta Lam. </name_authority_date>
+  </taxon_identification>
+  <common_names>PANIC VELDTGRASS</common_names>
+  <description type="morphology">Plants perennial; weakly cespitose. Culms (20)30-100(200) cm, erect or ascending from a decumbent base, sometimes rooting at the lower nodes. Sheaths finely striate, glabrous or shortly pubescent; auricles ciliate; ligules to 3 mm, lacerate, glabrous; blades 5-15 cm long, 2-15 mm wide, flat, lax, usually glabrous, smooth or minutely roughened, margins often wavy. Panicles 5-21 cm, erect or nodding, open to contracted; pedicels usually straight, sometimes curved. Spikelets 3-5 mm, oval, greenish. Glumes unequal, membranous to chartaceous; lower glumes 1-2 mm, 1/3 – 2/3 the length of the spikelets, 3-5-veined; upper glumes 2-2.5 mm, to 3/4 the length of the spikelets, wider than the lower glumes, 5-veined; sterile lemmas 2.5-4.5 mm, indurate, glabrous or sparsely hispidulous, unawned, lower sterile lemmas often with a basal appendage, upper sterile lemmas transversely rugose distally; bisexual lemmas 2.5-3.5 mm, firm, glabrous, obscurely 5-7-veined, often cross veined, unawned; anthers 6, 0.7-1.2 mm. Caryopses about 2 mm. 2n = 24.</description>
+  <discussion>Ehrharta erecta was introduced to California from South Africa. It prefers shady, somewhat moist locations, and is best known from the eastern San Francisco Bay area, San Diego, and the campus of the University of California at Riverside. In Australia, it is considered to be a weed of moist, shady places (Jacobs and Hastings 1993). Three varieties have been described; they are not treated here.</discussion>
+</bio:treatment>

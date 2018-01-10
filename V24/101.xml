@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>16</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Glyceria fluitans (L.) R. Br. </name_authority_date>
+  </taxon_identification>
+  <common_names>WATER MANNAGRASS, GLYCERIE FLOTTANTE</common_names>
+  <description type="morphology">Plants perennial. Culms 20-150 cm tall, 2-4 mm thick, erect or spreading, sometimes decumbent and rooting from the lower nodes, distal portion sometimes floating in shallow water. Sheaths glabrous, keeled; ligules 5-15 mm; blades 5-25 cm long, 3-10 mm wide, both surfaces smooth. Panicles 10-50 cm long, 2-3 cm wide; branches 3-5 cm, paired or solitary, usually appressed to ascending, divergent at anthesis, with 1-4 spikelets; pedicels 0.8-20 mm. Spikelets (15)18-39 mm long, 1.7-3.3 mm wide, cylindrical and terete, except slightly laterally compressed at anthesis, rectangular in side view, with 8-16 florets. Lower glumes 1.3-3.9 mm; upper glumes 2.7-5 mm; rachilla internodes 1.9-2.5 mm; lemmas 5.2-8 mm, midveins extending to within 0.1 mm of the apical margins, scabrous over and between the veins, prickles about 0.05 mm, apices acute, usually entire; paleas from shorter than to 0.6(1.5) mm longer than the lemmas, keels winged, apices bifid, teeth 0.1-0.4 mm, parallel to convergent, sometimes crossing when dry; anthers 1.5-3 mm, usually purple. Caryopses 2-3 mm. 2n = 40.</description>
+  <discussion>Glyceria fluitans is a Eurasian species. In the Americas, it has been collected from British Columbia to California on the west coast, in South Dakota, and from Newfoundland to Pennsylvania on the eastern seaboard. In Europe, it grows in rich, organic, wet soils, often near G. notata, with which it hybridizes. It is less tolerant of trampling than G. notata. Many earlier reports from eastern Canada are based on G. borealis or G. septentrionalis (Dore and McNeill 1980; Scoggan 1978). In western North America, it has been confused with G. xoccidentalis. It tends to differ from all three in its longer lemmas and anthers. Nevertheless, identification of some specimens will prove troublesome. For further discussion, see under the species mentioned.</discussion>
+</bio:treatment>

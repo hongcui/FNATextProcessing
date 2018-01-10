@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>31</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus bakeri grows in high, but not alpine, mountain meadows of Colorado and northern New Mexico. It resembles the awned phase of Pseudoroegneria spicata (p. 281), but differs in having rather thicker culms and spikes, and stouter lemma awns. W.A. Weber (University of Colorado, pers. comm., ca. 1999) stated that it often forms large stands in Colorado.
+Reports of Elymus bakeri from Idaho appear to be based on fertile hybrids of E. trachycaulus (p. 321) or E. violaceus (p. 324) with Pseudoroegneria spicata; that for Wallowa County, Oregon, on a specimen of E. glaucus (p. 306).
+</name_authority_date>
+  </taxon_identification>
+  <common_names>SCRIBNER'S WHEATGRASS</common_names>
+  <description type="morphology">Plants cespitose, not rhizomatous. Culms 15-35(55) cm, prostrate to strongly decumbent, at least at the base; nodes glabrous. Sheaths glabrous or shortly pilose; auricles usually present, 0.5-1 mm; ligules 0.2-0.4(0.7) mm, usually truncate, occasionally acute, entire to erose; blades 1.5-4 mm wide, usually involute, adaxial surfaces prominently ribbed. Spikes 3.5-10 cm long, 0.8-1.2 cm wide excluding the awns, 3-6 cm wide including the awns, usually with 1 spikelet per node, occasionally with 2 spikelets at the lower nodes; internodes 2.5-5(7) mm long, 0.5-1 mm wide, glabrous, mostly smooth, edges scabrous. Spikelets 9-15 mm long, 6-12 mm wide, appressed to ascending, with 3-6 florets; rachilla internodes 0.8-1.3 mm, scabridulous; disarticulation initially at the rachis nodes, subsequently beneath each floret. Glumes 4-9 mm long, 0.5-1 mm wide, mostly glabrous, midveins scabrous, 3-5-veined, entire, tapering into a divergent, 12-30 mm awn; lemmas 7-10 mm, usually glabrous, occasionally scabridulous, awned, awns 15-30 mm, divergent, scabridulous; paleas usually longer than the lemmas, apices ciliate, truncate or the veins extending into teeth, teeth about 0.5 mm; anthers 1-1.6 mm. 2n = 28. </description>
+  <discussion>Elymus scribneri grows in rocky areas in open subalpine and alpine regions, at 2500-3200 m, often in windswept locations, in southwestern Alberta and the western United States. It is often confused with E. elymoides (p. 318), but differs from that species in having only one spikelet per node, wider glumes, and more tardily disarticulating rachises. It also resembles E. sierrae (see next), from which it differs in its disarticulating rachises, denser spikes, and shorter anthers.
+Dewey (1963) concluded that Elymus trachycaulus subsp. andinus consists of hybrids between E. scribneri and E. trachycaulus (p. 321). In addition, several taxonomists have suggested that E. scribneri consists of fertile hybrids between E. violaceus (p. 324) and E. elymoides. This suggestion is supported by the frequency with which the three taxa are sympatric, the morphological variation exhibited by E. scribneri, and cytogenetic data (Dewey 1967).
+</discussion>
+</bio:treatment>

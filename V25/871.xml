@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bouteloua warnockii Gould & Kapadia </name_authority_date>
+  </taxon_identification>
+  <common_names>WARNOCK'S GRAMA</common_names>
+  <description type="morphology">Plants perennial; cespitose, forming clumps 4-10 cm in diameter, without rhizomes or stolons. Culms 20-35(50) cm, stiffly erect. Leaves bluish-green, more or less glaucous; sheaths mostly glabrous, hairs present distally; ligules 1-1.5 mm, of hairs; blades 5-15(25) cm long, 1-1.5(2.5) mm wide, stiffly erect or curving, involute when dry; mostly glabrous, ligular area with long and short hairs, bases usually with papillose-based hairs on the margins. Panicles 5-13(20) cm, with 9-15(30) branches; branches 4-5.5 mm, deciduous, scabrous, with 2-6 spikelets, axes terminating well beyond the terminal spikelets, apices entire; disarticulation at the base of the branches. Spikelets 5-6.5 mm, with 1 bisexual and 1 sterile floret, appressed, all alike, green, often with a brownish or purplish cast. Lower glumes slightly shorter than the upper glumes, both usually exceeded by the lemmas of the lowest florets; upper glumes glabrous, sometimes scabrous; lowest lemmas glabrous, acute, 3-awned, awns less than 1 mm, central awns not flanked by 2 membranous lobes; anthers 2.2-3.7 mm, dark purple; second florets sterile, usually without paleas; second lemmas reduced to a glabrous awn column, sometimes moderately well-developed and 3-awned, awns usually not exserted, central awns to 2.5 mm. 2n = 21, 22, 23, 24, 25, 28, 38, 40.</description>
+  <discussion>Bouteloua warnockii grows on limestone ledges and dry slopes below limestone outcrops. Its range extends from the southwestern United States to the state of Coahuila in northern Mexico. It frequently grows, and may hybridize with, B. curtipendula var. caespitosa.</discussion>
+</bio:treatment>

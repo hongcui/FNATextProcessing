@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Nassella neesiana (Trin. & Rupr.) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>URUGUAYAN TUSSOCKGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 30-140 cm tall, 1-1.8 mm thick, erect or geniculate, internodes glabrous; nodes usually 2-4, exposed, sericeous, hairs to 1.2 mm. Sheaths glabrous or slightly hispid, basal leaf sheaths often with cleistogenes; collars glabrous, often brown or purple-tinged, with tufts of hair at the sides, hairs 0.5-1.2 mm; Iigules 1-4 mm, glabrous or pubescent, truncate; blades to 30 cm long, 2-8 mm wide, flat to convolute, sometimes scabrous, sometimes with hairs. Terminal panicles 5-40 cm, exserted, erect to nodding; branches 2.5-8.5 cm, with 2-5 spikelets; pedicels 1-8 mm, angled, scabrous, pubescent. Glumes subequal, 10-22 mm long, 1.8-2.3 mm wide, narrowly lanceolate, glabrous, 3-5-veined; florets 6-13 mm long, 1-1.5 mm wide, terete, widest just below the crown; calluses 2-4.5 mm, sharp, strigose; lemmas often purple, finely rugose-papillose, particularly near the crown, constricted below the crown, midveins pilose proximally, glabrous between the veins at maturity; crowns 0.4-1.6 mm, usually wider than long, sides usually flaring somewhat distally, rims with hairs to 0.5 mm; awns 50-120 mm, clearly twice-geniculate, terminal segment straight; anthers 3-3.5 mm, penicillate. Caryopses 3-5 mm. 2n = 28.</description>
+  <discussion>Nassella neesiana is native to South America, growing from Ecuador to Argentina, primarily in steppe habitats. It was found on ballast dumps in Mobile, Alabama but has not persisted in the Flora region. It has become established in Australia, where it is considered a noxious weed.</discussion>
+</bio:treatment>

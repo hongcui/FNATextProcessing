@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthelium scabriusculum (Elliott) Gould & C.A. Clark </name_authority_date>
+  </taxon_identification>
+  <common_names>TALL-SWAMP PANICGRASS</common_names>
+  <description type="morphology">cPlants in large clumps, with rhizomes 3-5 mm thick. Basal
+rosettes well-differentiated; sheaths pubescent; blades lanceolate. Culms 70-150 cm, robust, purplish; nodes glabrous or puberulent; internodes scabridulous to almost glabrous; fall phase branching from the mid- and upper culm nodes, developing numerous, well-separated, dense fascicles of many reduced blades and hidden secondary panicles. Cauline leaves 6-14; sheaths not overlapping, narrowing above midlength, sparsely to densely papillose-hispid, tops mottled with pale spots, margins ciliate, collars puberulent; ligules 0.5-1.2 mm, membranous; blades 12-25 cm long, 7-15 mm wide, linear, stiff, ascending to spreading, glabrous or sparsely pubescent, bases subcordate to constricted, margins scabridulous, apices long tapering, involute. Primary panicles 10-21 cm long, 6-13 cm wide, eventually well-exserted, with many spikelets; rachises and branches usually glabrous and mottled. Spikelets 2.2-2.8 mm long, 1-1.2 mm wide, ovoid-ellipsoid, often purplish, glabrous, rarely sparsely puberulent. Lower glumes 0.5-1 mm, acute; upper glumes and lower florets exceeding the upper florets, prominently 7-9-veined; lower florets sterile; upper florets acute to acuminate, with a minute tuft of hairs at the apices. 2n = 18.
+</description>
+  <discussion>Dichanthelium scabriusculum usually grows in wet, sandy, open sites, including shores, stream banks, swamps, and bogs. It is restricted to the eastern United States. The primary panicles develop from May to July, the secondary panicles, which are usually concealed within the sheaths, from July through November. Panicum aculeatum Hitchc. & Chase refers to what appear to be sterile hybrids with Dichanthelium clandestinum or robust subspecies of D. dichotomum, P. bennettense W.V. Br. to hybrids with D. aciculare.</discussion>
+</bio:treatment>

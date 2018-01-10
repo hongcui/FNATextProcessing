@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>23</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Panicum anceps Michx. </name_authority_date>
+  </taxon_identification>
+  <common_names>BEAKED PANICGRASS</common_names>
+  <description type="morphology">Plants perennial; conspicuously rhizomatous, rhizomes short or elongate, stout, scaly. Culms 30-130 cm, terete to slightly compressed. Sheaths laterally compressed, glabrous or sparsely to densely pilose or villous, especially at the summit; ligules less than 0.5 mm, membranous, erose, often brownish; blades 10-50 cm long, 4-12 mm wide, erect, adaxial surfaces pilose at least basally, glabrous or pilose abaxially. Panicles 10-40 cm, 1/4 - 2/3 as wide as long, well-exserted at anthesis; branches relatively few, stiffly spreading or ascending; ultimate branchlets 1-sided; pedicels 0.1-3 mm, scabridulous to scabrous, appressed. Spikelets 2.3-3.9 mm, narrowly ellipsoid to ovoid, usually subsessile, usually pale to yellowish-green, glabrous, often falcate and gaping at the apices, rarely lanceolate, densely crowded on short, appressed branchlets, set obliquely on short pedicels. Lower glumes A-A as long as the spikelets, 3-veined, keels scabrous, apices acute; upper glumes and lower lemmas subequal, keeled, beaked, usually gaping at the apices; lower florets sterile; lower paleas subequal to the lower lemmas; upper florets 1.5-2.2 mm long, about 1 mm wide, 2/5 – 3/4 as long as the spikelets, apices with a tuft of minute, thick hairs; upper lemmas thick, stiff, clasping the upper paleas throughout their length. 2n = 18, 36.</description>
+  <discussion>Panicum anceps grows in low, moist, primarily sandy areas, pine savannahs, the borders of flood-plain swamps, mesic woodlands, roadsides, and upland pine-hardwood forests. It is restricted to the United States.</discussion>
+  <key>
+    <key_body>
+1. Spikelets 2.7-3.9 mm long, often clearly falcate; rhizomes relatively short and stout.....subsp. anceps
+1. Spikelets 2.3-2.8 mm long, not clearly falcate; rhizomes relatively long and slender ..... subsp. rhizomatum
+
+    </key_body>
+  </key>
+</bio:treatment>

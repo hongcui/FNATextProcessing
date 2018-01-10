@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Eriochloa michauxii (Poir.) Hitchc. var. michauxii </name_authority_date>
+  </taxon_identification>
+  <description type="morphology"></description>
+  <discussion>Eriochloa michauxii (Poir.) Hitchc. var. michauxii grows in brackish or fresh water marshes, hammocks, and prairies of the southeasten United States, including the whole of Florida.</discussion>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca campestris Rydb. </name_authority_date>
+  </taxon_identification>
+  <common_names>MOUNTAIN ROUGH FESCUE</common_names>
+  <description type="morphology">Plants densely cespitose, usually without rhizomes, occasionally with short rhizomes. Culms (30)40-90(140) cm, scabrous near the inflorescence; nodes usually not exposed. Sheaths closed for less than 1/3 their length, glabrous or scabrous, persistent; collars glabrous; ligules 0.1-0.5 mm; blades 0.8-2 mm in diameter, usually conduplicate, rarely convolute, gray-green, deciduous, abaxial surfaces scabrous, adaxial surfaces scabrous or puberulent, veins (8)11-15(17), ribs (6)7-11; abaxial sclerenchyma usually forming a more or less continuous band; adaxial sclerenchyma developed; girders at the 5-7 major veins; pillars at some of the other veins. Inflorescences (5)9-18(25) cm, open or loosely contracted, with (l)2(3) branches per node; branches erect to stiffly spreading. Spikelets 8-13(16) mm, with (3)4-5(7) florets. Glumes exceeded by the distal florets; lower glumes 4.5-7.5(8.5) mm, shorter than or about equaling the adjacent lemmas; upper glumes 5.3-8.2(9) mm; lemmas (6.2)7-8.5(10) mm, chartaceous to somewhat coriaceous, scabrous, backs rounded below the middle, veins more or less obscure, apices mucronate or shortly awned, awns to 1.5 mm; paleas somewhat shorter than the lemmas, intercostal region puberulent distally; anthers (3.3) 4.5-6 mm; ovary apices pubescent. 2n = 56.</description>
+  <discussion>Festuca campestris is a common species in prairies and montane and subalpine grasslands, at elevations to about 2000 m. Its range extends from southern British Columbia, Alberta, and southwestern Saskatchewan south through Washington, Oregon, Idaho, and Montana. It is highly palatable and provides nutritious forage.
+Festuca campestris differs from F. hallii (see previous) in having larger spikelets, less stiffly erect panicles and, usually, in lacking rhizomes. Where the two are sympatric, F. campestris tends to grow at higher elevations.
+</discussion>
+</bio:treatment>

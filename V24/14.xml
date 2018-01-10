@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bambusa bambos (L.) Voss</name_authority_date>
+  </taxon_identification>
+  <common_names>GIANT THORNY BAMBOO</common_names>
+  <description type="morphology">Plants densely clumped, with intertwined thorny branches. Culms to 20(35) m tall, 12-18 cm thick, thick-walled, sometimes almost solid; internodes 20-40 cm, green, waxy at first, becoming dull. Branches forming at the basal and upper nodes, central branches slightly dominant, branchlets of the lower branches recurved, hardened and thornlike. Culm leaves dark green, initially sparsely hairy, sometimes more densely hairy on the margins and auricles, hairs dark brown, deciduous; auricles subequal, wrinkled, wide; fimbriae absent; ligules to 2 mm, ciliate; blades erect or reflexed, merging into the auricles, adaxial surfaces densely brown-velvety. Foliage leaves: sheaths glabrous; ligules short, entire; auricles small; fimbriae few, erect; blades 6-22 cm long, 1-3 cm wide, glabrous. Inflorescences initially spicate, becoming dense globular clusters. Pseudospikelets 10-30 mm, with 3-7 florets. Lemmas 7-8 mm, glabrous; anthers to 5 mm. 2n = 70-72.</description>
+  <discussion>Bambusa bambos is native to India and Indochina, but is cultivated throughout the tropics. It was the first bamboo species to be given a scientific name, being described as treelike, thorny, and a source of tabashir, lumps of pure silica that form in the internodal cavities. Bambusa arundinacea (Retz.) Willd. is a synonym of B. bambos that still appears in some listings of bamboos.</discussion>
+</bio:treatment>

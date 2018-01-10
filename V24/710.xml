@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa saltuensis subsp. languida (Hitchc.) A. Haines </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Lemmas 2.4-3 mm, broadly lanceolate, apices obtuse to broadly acute and pointed, firm or scarious to 0.25 mm; anthers 0.4-0.9(1) mm. 2n = unknown.</description>
+  <discussion>Poa saltuensis subsp. languida grows in rich open woodlands and thickets with dry to mesic soils of moderate pH, and, where soils are thin, over limestone and marble substrates. It is most prevalent in the southern portion of the species' range. It is absent from Newfoundland, New Brunswick, Nova Scotia, Prince Edward Island, New Hampshire, and Maine.</discussion>
+</bio:treatment>

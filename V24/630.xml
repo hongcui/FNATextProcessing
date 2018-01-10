@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>44</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca dasyclada Hack, ex Beal </name_authority_date>
+  </taxon_identification>
+  <common_names>OPEN FESCUE, INTERMOUNTAIN FESCUE</common_names>
+  <description type="morphology">Plants loosely or densely cespitose, without rhizomes. Culms 20-40(50) cm, erect or somewhat geniculate at the base, densely scabrous or pubescent below the inflorescence; nodes usually not exposed, culms often breaking at the upper nodes at maturity. Sheaths closed for less than 1/2 their length, glabrous, persistent or slowly shredding into fibers; collars glabrous; ligules 0.2-0.5 mm; blades (1)1.2-2.5(3) mm wide, persistent, loosely conduplicate, convolute, or flat, abaxial surfaces glabrous, adaxial surfaces with stiff hairs, veins 7-13, ribs (6)7-13; abaxial sclerenchyma in strands opposite most of the veins, about as wide as the veins; adaxial sclerenchyma often present; pillars or girders sometimes present at the major veins. Inflorescences 6-12 cm, open, with 2-4 branches per node; branches stiffly divaricate, densely scabrous-ciliate on the angles, lower branches with 2+ spikelets; pedicels stiffly hairy. Spikelets 5.5-8 mm, with 2(3) florets. Glumes exceeded by the upper florets, lanceolate-acuminate, sparsely scabrous to puberulent; lower glumes 3.5-5 mm, distinctly shorter than the adjacent lemmas; upper glumes 5-7 mm; lemmas 5-7 mm, chartaceous, scabrous or puberulent, minutely bidentate, awned, awns 1.5-3 mm, subterminal; paleas about as long as or slightly longer than the lemmas, intercostal region scabrous or puberulent distally; anthers 1.5-2.5 mm; ovary apices pubescent. 2n = 28.</description>
+  <discussion>Festuca dasyclada grows on rocky slopes in open forests and shrublands of western Colorado and central and southern Utah. For many years it was known only from the type collection. When the seeds are mature, the panicles break off the culms and are blown over the ground like a tumbleweed, shedding seeds as they travel. This and other unusual features, such as the divaricate branching pattern and hairy pedicels, prompted WA. Weber to place it in the monotypic genus Argillochloa WA. Weber.</discussion>
+</bio:treatment>

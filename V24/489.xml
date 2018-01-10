@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>xElyleymus turneri (Lepage) Barkworth & D.R. Dewey </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants not cespitose, rhizomatous. Culms 110-130 cm, pubescent below the spikes. Leaves glaucous; auricles present, at least on the innovations; blades 3-5 mm wide, abaxial surfaces scabrous or smooth, adaxial surfaces scabrous. Inflorescences spikelike racemes, 11-20 cm long, lax, with (1)2 spikelets per node, spikelets at the lower nodes unequally pedicellate, longer pedicels 1.5-3 mm; internodes 6-15(30) mm, those at the base of the spike longest, angles hispid, convex surfaces pubescent or pilose. Spikelets 15-25 mm, with 5-8 florets; disarticulation above or below the glumes. Glumes unequal, 2-17 mm long, 0.5-1.2 mm wide, subulate to narrowly lanceolate, scabrous or pilose, (0)l-3-veined; rachilla internodes pubescent; lemmas 6-16 mm, pubescent, pilose, or villous, backs often glabrate, apices awned, awns 0.7-8 mm; paleas 6.5-10 mm, puberulent or pubescent between the veins; anthers (2.8)3.5-5 mm. 2n = 28.</description>
+  <discussion>xElyleymus turneri is treated here as the name for hybrids between Elymus lanceolatus and Leymus innovatus, in agreement with Bowden (1952). The type material was found on the banks of the Saskatchewan River, 2 miles below Fort Saskatchewan, Alberta. Lepage (1952) noted that Dr. Turner, the collector, reported that both Agropyon stnithii [= Pascopyrum smithii] and A. dasystachyum [= Elymus lanceolatus] grew in the vicinity, and argued for A. smithii as the Elymus parent. Bowden (1959) reported 2n= 28 in specimens from the type locality, and used this to argue for the Elymus parent being either A. dasystachyum [= Elymus lanceolatus] or A. trachycaulum [= Elymus trachycaulus].</discussion>
+</bio:treatment>

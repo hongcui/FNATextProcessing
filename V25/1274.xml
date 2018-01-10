@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Panicum rigidulum subsp. elongatum (Scribn.) Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants similar to subsp. rigidulum, but more conspicuously purple-tinged throughout, especially the panicles. Ligules 0.3-1 mm, membranous; blades usually 5-12 mm wide, flat, mostly glabrous or scabridulous, bases about equal in width to the subtending sheaths. Panicles relatively narrow; branches few, stiffly ascending. Spikelets 2.4-3 mm long, usually less than 0.6 mm wide, conspicuously stipitate, purple, often falcate, subsecund along the branchlets. Upper florets stipitate, stipes to 0.4 mm, slender.</description>
+  <discussion>Panicum rigidulum subsp. elongatum is most common in the piedmont and mountain regions of the eastern United States.</discussion>
+</bio:treatment>

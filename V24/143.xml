@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Ampelodesmos mauritanicus (Poir.) T. Durand & Schinz </name_authority_date>
+  </taxon_identification>
+  <common_names>MAURITANIAN GRASS</common_names>
+  <description type="morphology">Plants rhizomatous, densely cespitose, clumps to 1 m in diameter. Culms 60-350 cm tall, 5-8 mm thick. Sheaths smooth, striate; ligules 8-15 mm; blades to 100 cm long, 3-9 mm wide, adaxial surfaces strongly ribbed, margins serrate, apices long-tapering. Panicles to 50 cm, lax; branches subsecund, drooping. Spikelets 10-15 mm, stramineous to purplish. Lower glumes 7-10 mm; upper  
+glumes 9-12 mm; calluses 0.2-0.5 mm, rounded; lemmas 9-14.5 mm, distinctly keeled, bidentate, mucronate or awned, awns to 2 mm. Caryopses about 7 mm. 2n = 48.
+</description>
+  <discussion>Ampelodesmos mauritanicus is sparingly established in California: in dry oak woodlands in Napa County, and beneath a mixed evergreen canopy on Mount St. Helena in Sonoma County. It is cultivated in other parts of the United States. The plants dry out rapidly in the summer, making them fire-prone. The amount of seed set varies substantially between years. In its native range, which lies along the drier portions of the Mediterranean coast, the leaves and culms are used for mats, vine ties, brooms, baskets, and thatching.</discussion>
+</bio:treatment>

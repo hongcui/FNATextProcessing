@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Stephen J. Darbyshire </author>
+      <author>Henry E. Connor</author>
+    </source>
+  </meta>
+  <number>20.05</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>RYTIDOSPERMA Steud.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose to somewhat spreading, sometimes shortly rhizomatous. Culms (1.5)30-90(140) cm. Sheaths open, glabrous or hairy, apices with tufts of hair, these sometimes extending across the collar; ligules of hairs; blades persistent or disarticulating. Inflorescences terminal, racemes or panicles. Spikelets with 3-10 florets; florets bisexual, terminal florets reduced; disarticulation above the glumes and between the florets. Glumes (2)8-20 mm, subequal or equal, usually exceeding the florets, stiffly membranous; calluses with lateral tufts of stiff hairs; lemmas ovate to lanceolate, with 2 complete or incomplete transverse rows of tufts of hairs, sometimes reduced to marginal tufts, 5-9-veined, apices bilobed, lobes usually at least as long as the body, acute, acuminate, or aristate, awned from between the lobes, awns longer than the lobes, twisted, usually geniculate; lodicules 2, fleshy, with hairs or glabrous. Caryopses 1.2-3 mm, obovate to elliptic. Cleistogenes absent, x = 12. </description>
+  <discussion>Rytidosperma, as interpreted here and by Edgar and Connor (2000), is a genus of about 45 species that are native to south and southeastern Asia, Australia, New Zealand, and South America. Linder and Verboom (1996) advocated a narrower interpretation of the genus than Edgar and Connor, but acknowledged that "there is an almost equally strong case for recognizing a single, large genus, Rytidosperma" (p. 607). According to their interpretation, all three species treated here would be placed in Austrodanthonia H.P. Linder (Linder 1997).
+Several species of Rytidosperma have been cultivated in research plots or forage trials in North America. The three species treated here have been tried in several states but have escaped cultivation and persisted only in California and Oregon (Weintraub 1953). They have been included in commercial seed mixtures for forage planting in Australia and New Zealand. Other species that have been grown experimentally in both the United States and Canada include R. caespitosum (Gaudich.) Connor & Edgar, R. setaceum (R. Br.) Connor & Edgar, and R. tenuius (Steud.) A. Hansen & P. Sunding. They are not known to have escaped or persisted in North America.
+</discussion>
+  <references>Blumler, M. 2001. Notes and comments. Fremontia 29:36; Connor, H.E. and E. Edgar. 1979. Rytidosperma Steudel (Nothodantbonia Zotov) in New Zealand. New Zealand J. Bot. 17:311-337; Edgar, E. and H.E. Connor. 2000. Flora of New Zealand, vol. 5. Manaaki Whenua Press, Lincoln, New Zealand. 650 pp.; Linder, H.P. 1997. Nomenclatural corrections in the Rytidosperma complex (Danthonieae, Poaceae). Telopea 7:269-274; Linder, H.P. and G.A. Verboom. 1996. Generic limits in the Rytidosperma (Danthonieae, Poaceae) complex. Telopea 6:597-627; Murphy, A.H. and R.M. Love. 1950. Hairy oatgrass, Danthonia pilosa R. Br., as a weedy range grass. Bull. Calif. Dep. Agric. 39:118-124; Myers, W.M. 1947. Cytology and genetics of forage grasses (concluded). Bot. Re.-. 7:369-419; Vickery, J.W. 1956. A revision of the Australian species of Danthonia DC. Contr. New South Wales Natl. Herb. 2:249-325; Weintraub, EC. 1953. Grasses Introduced into the United States. Agricultural Handbook No. 58. Forest Service, U.S. Department of Agriculture, Washington, D.C., U.S.A. 79 pp.; Zotov, V.D. 1963. Synopsis of the grass subfamily Arundinoideae in New Zealand. New Zealand J. Bot. 1:78-136.</references>
+  <key>
+    <key_body>
+1. Upper row of lemma hairs in a more or less continuous row of tufts, the hairs much exceeding the base of the awn; shoots intravaginal, without scaly cataphylls .....2. R. biannulare
+1. Upper row of lemma hairs in isolated tufts or only at the margins, the hairs not or only just exceeding the base of the awn; some or most shoots extravaginal and with scaly cataphylls. 
+2. Callus hairs usually overlapping the lower row of lemma hairs; upper row of lemma hairs often reduced to marginal tufts, sometimes scanty medial tufts also present .....1. R. penicillatum
+2. Callus hairs short, rarely reaching the lower row of lemma hairs; upper row of lemma hairs usually with scanty medial tufts .....3. R. racemosum
+
+    </key_body>
+  </key>
+</bio:treatment>

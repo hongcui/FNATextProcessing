@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Eriochloa michauxii var. simpsonii (Hitchc.) Hitchc.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology"></description>
+  <discussion>Eriochloa michauxii var. simpsonii (Hitchc.) Hitchc. is a rare variety that grows in low wet areas, roadsides, or on washed sand and shell beaches of southwestern Florida.</discussion>
+</bio:treatment>

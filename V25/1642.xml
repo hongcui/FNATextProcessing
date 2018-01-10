@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Charles M. Allen</author>
+    </source>
+  </meta>
+  <number>26.24</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>COELORACHIS Brongn.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose or rhizomatous. Culms 60-400 cm, erect. Leaves not aromatic; basal and cauline; sheaths open, glabrous, margins scarious; auricles lacking; ligules membranous, ciliate; blades flat to conduplicate, glabrous or sparsely pubescent, margins scarious, sometimes scabrous. Inflorescences terminal and axillary, composed of a solitary, pedunculate rame; rames stout; disarticulation in the rames, below the sessile spikelets. Spikelets dorsally compressed, in heterogamous sessile-pedicellate pairs. Sessile spikelets embedded in the rame axes, ovate, with 2 florets, unawned; lower glumes indurate, smooth, rugose, or pitted, 7-11-veined, not keeled; upper glumes coriaceous, keeled, 1-veined; lower florets sterile; upper florets bisexual, unawned; anthers 3. Pedicels short, thick, appressed or partly fused to the side of the rame axes. Pedicellate spikelets 1-3 mm, usually reduced. Caryopses ellipsoid to broadly ellipsoid, yellow. x = 9.</description>
+  <discussion>Coelorachis is a tropical genus of approximately 20 species; four are native to the southeastern United States. Most species tend to favor damp soils. Veldkamp et al. (1986) recommended combining Coelorachis and Hackelochloa with some other small genera in Mnesithea Kunth, but these two seem to be sufficiently distinct to be maintained until more data are available.</discussion>
+  <references>Veldkamp, J.F., R. de Koning, and M.S.M. Sosef. 1986. Generic delimitation of Rottboellia and related genera (Gramineae). Blumea 31:281-307.</references>
+  <key>
+    <key_body>
+1. Culms and sheaths terete; lower glumes of the sessile spikelets with circular pits on the sides, the central region initially smooth, usually developing rectangular pits at maturity, occasionally remaining smooth .....1. C. cylindrica
+1. Culms and sheaths compressed-keeled; lower glumes of the sessile spikelets transversely rugose, rectangular-pitted, or smooth.
+2. Lower glumes of the sessile spikelets rectangular-pitted.....2. C. tessellata
+2. Lower glumes of the sessile spikelets transversely rugose or smooth.
+3. Lower glumes of the sessile spikelets distinctly transversely rugose; rachises distinctly indented below the sessile spikelets .....3. C. rugosa
+3. Lower glumes of the sessile spikelets smooth to slightly transversely rugose; rachises not, or only slightly, indented below the sessile spikelets ..... 4. C. tuberculosa
+
+    </key_body>
+  </key>
+</bio:treatment>

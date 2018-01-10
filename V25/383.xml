@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Spartina spartinae (Trin.) Merr. ex Hitch. </name_authority_date>
+  </taxon_identification>
+  <common_names>GULF CORDGRASS</common_names>
+  <description type="morphology">Plants cespitose, not rhizomatous. Culms 40-200 cm, in large clumps, hard, usually glabrous, nodes frequently exposed. Sheaths mostly glabrous, throat glabrous, sometimes scabrous; ligules 1-2 mm; blades 1.5-4.5 mm wide, involute when fresh, abaxial surfaces glabrous, adax-ial surfaces and margins scabrous. Panicles 6-70 cm, smoothly cylindrical in outline, with (6)15-75 branches, internodes shorter than the branches; branches 0.5-4(7) cm, lower branches often longer than those above, all branches tightly appressed, closely imbricate, with 10-60 spikelets. Spikelets 5-8(10) mm. Glumes glabrous or hispidulous, keels hispid; lower glumes 2-8 mm, acuminate; upper glumes 4-8(10) mm, acuminate to obtuse, keels hispid, lateral veins 1-2, if 2, these on either side of the keel; lemmas 5-6 mm, glabrous or hispidulous, keels hispid over the distal 2/3, apices usually acuminate or apiculate, rarely obtuse; anthers 3-5 mm, dark red to purple. 2n = 28, 42.</description>
+  <discussion>Spartina spartinae grows from the Gulf coast through Mexico to Costa Rica in North America and, in South America, in Paraguay and northern Argentina. In the United States, it grows in sandy beaches, roadsides, ditches, wet meadows, and arid pastures near the coast, the most inland collection being 60 miles from the coast. In other parts of its range it sometimes grows well inland in saline soils where Pinus palustris (longleaf pine) is dominant or co-dominant.</discussion>
+</bio:treatment>

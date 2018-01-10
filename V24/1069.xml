@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Koeleria pyramidata (Lam.) P. Beauv. </name_authority_date>
+  </taxon_identification>
+  <common_names>CRESTED HAIRGRASS</common_names>
+  <description type="morphology">Plants loosely cespitose, sometimes rhizomatous. Culms (30)40-90 cm, glabrous or puberulent above. Sheaths sparsely sericeous to densely pubescent, old sheaths persistent, disintegrating into wavy, curled, or arched fibers; ligules 0.5-1 mm; blades 5-24 cm long, 1-5 mm wide, flat, margins of the basal blades often ciliate below, with hairs usually longer than 2 mm. Panicles 5-22 cm long, 1-4(5) cm wide; branches villous. Spikelets 6-10 mm, with 2-4(5) florets; rachillas with scattered pubescence. Glumes acute, glabrous, smooth or scabrous; lower glumes 4-5 mm, 1-veined; upper glumes 5-6.5 mm, 3-veined; calluses broadly rounded, pubescent; lemmas 4-6 mm, glabrous or puberulent, rarely ciliate, usually green when young, stramineous at maturity, apices acuminate to shortly aristate; anthers 2-2.5 mm. Caryopses 2.5-3.8 mm. 2n = 14.</description>
+  <discussion>Koeleria pyramidata, as interpreted here, is confined to Europe. Some North American records for K. pyramidata are based on robust specimens of K. macrantha; others reflect an interpretation of K. pyramidata that includes K. macrantha.
+ 
+</discussion>
+</bio:treatment>

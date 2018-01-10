@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Diarrhena americana P. Beauv. </name_authority_date>
+  </taxon_identification>
+  <common_names>AMERICAN BEAKGRAIN</common_names>
+  <description type="morphology">Culms 60-131 cm, glabrous or pubescent. Sheaths often pubescent; collars usually pubescent; auricles pubescent; ligules 0.5-1.8 mm; blades 25-51 cm long, 7-20 mm wide, glabrous or scabridulous on both surfaces, margins scabridulous or ciliate. Panicles 9-30 cm, with 4-23 spikelets. Spikelets 10-20 mm, oblong to elliptic, with (2)4-5(7) florets. Glumes green to stramineous; lower glumes 1.7-4.2 mm long, 0.3-0.7 mm wide in profile, (l)3(5)-veined; upper glumes 2.8-6.4 mm long, 0.6-1.2 mm wide in profile, (3)5-veined; calluses pubescent on all but the lowest mature lemma; lemmas (3.8)5.3-10.8 mm, widest below the middle, lanceolate in profile, tapering gradually, apices sharply cuspidate; paleas glabrous or scabridulous, apices usually bifid, sinuses to 0.7 mm deep; anthers (1.7)2-2.9(3.5) mm. Caryopses 4.6-5.8 mm long, 1.3-1.8  mm wide,  narrowly  lanceolate in  outline,  
+gradually tapering to a blunt beak, wrinkled or smooth, usually blackish-brown to black, except for the straw-colored beak, rarely orange-brown. 2n = unknown.
+</description>
+  <discussion>Diarrhena americana is restricted to the United States, where it grows in rich, moist woods from Missouri to Maryland and south to Oklahoma and Alabama. Its range is primarily to the east of the range of D. obovata.</discussion>
+</bio:treatment>

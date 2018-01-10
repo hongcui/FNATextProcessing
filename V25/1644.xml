@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Coelorachis tessellata (Steud.) Nash </name_authority_date>
+  </taxon_identification>
+  <common_names>PITTED JOINTGRASS</common_names>
+  <description type="morphology">Plants cespitose. Culms 80-120 cm, compressed4ceeled. Sheaths compressed-keeled; blades to 41 cm long, to 7.8 mm wide, folded to flat, scabrous above. Rames 4.5-7(12) cm. Sessile spikelets 3.9-6.2 mm long, 2.1-2.4 mm wide; lower glumes with rectangular pits, keels narrowly winged distally. Pedicellate spikelets 2.3-2.7 mm, reduced to scales. 2n = unknown.</description>
+  <discussion>Coelorachis tessellata is endemic to the southern coastal plain of the United States, extending from Louisiana to northern Florida, although it is rare in Florida. It grows in bogs and moist pine woods, especially flatwoods.</discussion>
+</bio:treatment>

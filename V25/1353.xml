@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Pennisetum purpureum Schumach. </name_authority_date>
+  </taxon_identification>
+  <common_names>ELEPHANT GRASS</common_names>
+  <description type="morphology">Plants perennial; sometimes rhizomatous. Culms 2-8 m, erect, pubescent beneath the panicle; nodes glabrous or pubescent. Sheaths glabrous or pubescent; ligules 1.5-5 mm; blades 23-125 cm long, (4)12-40 mm wide, flat, glabrous or pubescent. Panicles terminal, 8-30.5 cm long, (10)30-50 mm wide, fully exerted from the leaf sheaths, erect, golden-yellow to dark purple; rachises terete, pubescent. Fascicles 30-40 per cm, disarticulating at maturity; fascicle axes 0.5-1.5 mm, with 1-5 spikelets; outer bristles 20-63, 1.5-10.3 mm, yellow or purple, scabrous; inner bristles 4-6, 9.1-11.5 mm, yellow or purple, sparsely long-ciliate; primary bristles 13-40 mm, noticeably longer than the other bristles, yellow or purple, scabrous. Spikelets 5.9-7 mm, pedicellate; pedicels of terminal spikelets 0.2-0.4 mm, of other spikelets 1.8-3 mm; lower glumes absent or to 0.8 mm; upper glumes 0.8-3 mm, 0-1-veined; lower florets sterile or staminate; lower lemmas 4-5.3 mm, 3-5(6)-veined; lower paleas 4-4.7 mm; anthers absent or 2.2-3.1 mm, penicillate; upper lemmas 4.5-7 mm, subcoriaceous, shiny, 5-7-veined, acuminate; anthers 2.7-3.6 mm, penicillate. Caryopses 1.8-2.2 mm. 2n = 28.</description>
+  <discussion>Pennisetum purpureum is native to Africa but now grows in tropical areas throughout the world, frequently becoming naturalized. It is grown as an ornamental in the Flora region, and, less commonly, for forage.</discussion>
+</bio:treatment>

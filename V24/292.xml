@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>13</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus kalmii A. Gray</name_authority_date>
+  </taxon_identification>
+  <common_names>KALM'S BROME, BROME DE KALM</common_names>
+  <description type="morphology">Plants perennial; not rhizomatous. Culms 50-100(110) cm, usually erect, sometimes decumbent at the base; nodes 3-5, pubescent, puberulent, or glabrous; internodes puberulent or glabrous. Sheaths and throats pilose or glabrous; auricles absent; ligules 0.5-1 mm, glabrous, truncate, erose; blades 10-17 cm long, 5-10 mm wide, flat, with prow-shaped tips, both surfaces glabrous or pilose or only the adaxial surfaces pilose. Panicles 8-13 cm, open, drooping; branches ascending to spreading, flexuous. Spikelets 15-25 mm, elliptic to lanceolate, terete to moderately laterally compressed, with 7-11 florets. Glumes pubescent, margins often hyaline; lower glumes 5-7.5 mm, 3-veined; upper glumes 6.5-8.5 mm, 5-veined; lemmas 7-11 mm, elliptic to lanceolate, rounded over the midvein, backs more or less uniformly pilose or pubescent, margins densely long-pilose, apices acute to obtuse, entire; awns 1.5-3 mm, straight, arising less than 1.5 mm below the lemma apices; anthers 1.5-2.5 mm. 2n = 14.</description>
+  <discussion>Bromus kalmii grows in sandy, gravelly, or limestone soils in open woods and calcareous fens. Its range centers in the north-central and northeastern United States and adjacent Canadian provinces.</discussion>
+</bio:treatment>

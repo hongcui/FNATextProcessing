@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Thomas Worley</author>
+    </source>
+  </meta>
+  <number>14.38</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>PARAPHOLIS C.E. Hubb.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual; tufted. Culms 2-45 cm, erect to prostrate, sometimes branched above the base; nodes glabrous, usually purple; internodes hollow. Leaves not basally concentrated; sheaths not keeled; auricles sometimes present; ligules 0.3-2.3 mm, membranous, truncate; blades 0.3-3.5 mm wide, linear, flat to convolute. Inflorescences terminal and axillary spikes, often curved, with solitary spikelets sunk into the rachis; disarticulation in the rachis below each spikelet. Spikelets sessile, cylindrical, straight to strongly curved, tangential to the rachises, with 1 floret; rachillas sometimes prolonged beyond the base of the distal floret. Glumes 2, subequal, lying side by side, usually exceeding or sometimes slightly shorter than the floret and covering the rachis cavities, sometimes asymmetric and winged, coriaceous, stiff, veins conspicuous, margins translucent, apices unawned; lemmas 3.5-5.5 mm, membranous, translucent, glabrous, rounded on the back, 1-3-veined, unawned; paleas more or less equal to the lemmas, translucent; lodicules ovate-acute; anthers 3; styles 2, free to the base, white. Caryopses 3-3.6 mm, narrowly ovoid to ellipsoid, x = 7, 9, 19. </description>
+  <discussion>Parapholis is a genus of six species that grow in coastal habitats and salt marshes. Its native range extends from western Europe to India. Two species are established in the Flora region.</discussion>
+  <references>Runemark, H. 1962. A revision of Parapholis and Monerma (Gramineae) in the Mediterranean. Bot. Not. 115:1-17.</references>
+  <key>
+    <key_body>
+1. Spikes curved and twisted; upper sheath margins expanded, enclosing the lowest spikelets; anthers 0.5-1.3 mm long ..... 1. P. incurva
+1. Spikes straight, not twisted; sheath margins usually all alike, the lowest spikelets generally exserted beyond the sheaths; anthers 1.5-4 mm long  .....2. P. strigosa
+ 
+
+    </key_body>
+  </key>
+</bio:treatment>

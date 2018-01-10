@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Poa glauca var. pekulnejensis (Jurtzev & Tzvelev) Prob.</name_authority_date>
+  </taxon_identification>
+  <common_names>PEKULNEI BLUEGRASS</common_names>
+  <description type="morphology">Plants glaucous; densely tufted. Culms 5-20 cm. Sheaths closed for 1/10 – 1/5 their length. Spikelets bulbiferous; florets bulb-forming; anthers aborted, about 0.8 mm or undeveloped. 2n = unknown.</description>
+  <discussion>Poa glauca var. pekulnejensis is known only from sporadic records in Alaska and the Russian Far East. It can be difficult to distinguish from P. hartzii subsp. vrangelica (p. 589), but differs in its tighter habit and thicker glumes.</discussion>
+</bio:treatment>

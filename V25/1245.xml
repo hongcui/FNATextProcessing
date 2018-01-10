@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Panicum capillarioides Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>LONG-BEAKED WITCHGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose from a knotty crown, hirsute, hairs papillose-based or glabrous. Culms 30-75 cm tall, 1-2 mm thick, terete to slightly compressed, erect or ascending, stiff, often bent at the nodes, simple or sparingly branched; nodes densely pubescent. Sheaths shorter than or equaling the internodes, rounded, hirsute, green or tinged with purple, margins ciliate; ligules 0.5-1 mm; blades 12-30 cm long, 2-12 mm wide, stiffly erect or ascending, flat, pubescent, sometimes sparsely so, hairs papillose-based, bases truncate, apices attenuate. Panicles terminal, 15-30 cm long, 10-12(26) cm wide, usually shortly exserted, scarcely overtopping the blades; rachises hispid, some¬times glabrous basally; primary branches alternate or opposite, divergent, secondary branches divergent, most abundant on the distal 1/3 of the primary branches, with 1-3 spikelets; pedicels 2-20 mm, confined to the distal 1/3 of the branches; pulvini poorly developed, shortly pilose. Spikelets 5-6.5 mm long, 1-1.2 mm wide, glabrous, long-acuminate. Lower glumes 2-3 mm, about 1/2 as long as the spikelets, attached about 0.4 mm below the upper glumes, 5-7-veined, acute to obtuse; upper glumes and lower lemmas 5-6 mm, exceeding the upper florets by 3-4 mm, 9-13-veined; lower florets sterile; lower paleas 1.5-2 mm, acute; upper florets 1.6-2 mm long, 1-1.1 mm wide, smooth, chestnut brown when mature. 2n = 36.</description>
+  <discussion>Panicum capillarioides grows in sandy grasslands, oak savannahs, and rangelands from southern Texas to northern Mexico.</discussion>
+</bio:treatment>

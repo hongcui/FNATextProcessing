@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Dichanthelium dichotomum subsp. yadkinense (Ashe) Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 50-100 cm; nodes usually glabrous; internodes usually glabrous, often yellowish-green; fall phase suberect, sparsely branched from the midculm nodes, blades not as greatly reduced as in the other subspecies. Cauline sheaths glabrous, often with pale glandular spots between the prominent veins; blades 9-14 cm long, 7-12 mm wide, thin, widest near the middle and tapering to both ends, glabrous on both surfaces. Spikelets 1.9-2.6 mm, elliptic to subfusiform, glabrous, apices acute or beaked. Upper florets 1.8-2 mm. 2n = 18.</description>
+  <discussion>Dichanthelium dichotomum subsp. yadkinense grows in rich, moist or wet woods. A relatively uncommon sub-species, its range extends from Pennsylvania to Maryland and south through southern Illinois and southeastern Missouri to Georgia and Louisiana, but not to Florida. It exhibits traits of D. laxiflorum and D. commutatum.</discussion>
+</bio:treatment>

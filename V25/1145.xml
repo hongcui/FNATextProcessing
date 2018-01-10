@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Dichanthelium sect. Clandestina Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose, with rhizomes 3-5 mm thick. Basal rosettes well-differentiated; blades 9-25 cm, ovate-lanceolate. Culms 50-150 cm; fall phase branching from the mid- and upper culm nodes, branches rebranching, often forming dense axillary fascicles, secondary panicles enclosed in the sheaths. Cauline leaves 5-14; sheaths usually widest near midlength, narrowed to the summit, strongly papillose-hispid or softly pubescent and viscid, summits often mottled with white to yellowish blotches; ligules membranous or of hairs. Primary panicles exserted. Spikelets 2.2-3.6 mm, ellipsoid to ovoid, with prominent veins, pointed. Upper florets acute to acuminate, sometimes umbonate or apiculate, apices often with a minute tuft of hairs.</description>
+</bio:treatment>

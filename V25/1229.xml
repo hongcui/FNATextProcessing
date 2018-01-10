@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Panicum capillare L. </name_authority_date>
+  </taxon_identification>
+  <common_names>WITCHGRASS, PANIC CAPILLAIRE</common_names>
+  <description type="morphology">Plants annual; hirsute or hispid, hairs papillose-based, often bluish or purplish. Culms 15-130 cm, slender to stout, not woody, erect to decumbent, straight to zigzag, simple to profusely branched; nodes sparsely to densely pilose. Sheaths rounded, hirsute or hispid, hairs papillose-based; ligules membranous, ciliate, cilia 0.5-1.5 mm; blades 5-40 cm long, 3-18 mm wide, linear, spreading. Panicles 13-50 cm long, 7-24 cm wide, usually more than 1/2 as long as the plants, included at the base or exserted at maturity, disarticulating at the base of the peduncles at maturity and becoming a tumbleweed; branches spreading; pedicels 0.5-2.8 mm, scabrous, pilose. Spikelets 1.9-4 mm, ellipsoid to lanceoloid, often red-purple, glabrous. Lower florets sterile; lower glumes 1/3– 1/2 as long as the spikelets, 1-3-veined; upper glumes 1.8-3.1 mm, 7-9-veined, midveins scabridulous; lower lemmas 1.9-3 mm, extending 0.4-1.1 mm beyond the upper florets, often stiff, straight, prominently veined distally; upper florets stramineous or nigrescent, sometimes with a prominent lunate scar at the base, often disarticulating before the glumes, leaving the empty glumes and lower lemmas temporarily persisting on the panicles. 2n = 18. </description>
+  <discussion>Panicum capillare grows in open areas, particularly in disturbed sites such as fields, pastures, roadsides, waste places, ditches, sand, and rock crevices, etc. It grows throughout temperate North America, including northern Mexico. It also grows in Bermuda, the Virgin Islands, and sporadically in South America, and has become naturalized in much of Europe and Asia. It appears to hybridize with P. philadelphicum.</discussion>
+  <key>
+    <key_body>
+1. Upper florets without a lunate scar, usually stramineous; lower paleas absent; pedicels and secondary branches strongly divergent .....subsp. capillare
+1. Upper florets with a lunate scar at the base, usually nigrescent; lower paleas present; pedicels and secondary branches often appressed, varying to narrowly divergent   .....subsp. hillmanii
+
+    </key_body>
+  </key>
+</bio:treatment>

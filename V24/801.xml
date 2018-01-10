@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>53</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa leptocoma Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>WESTERN BOG BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; dark to light green, often anthocyanic in part; loosely tufted, usually neither stoloniferous nor rhizomatous, occasionally with short, slender rhizomes. Basal branching mostly extravaginal. Culms 15-100 cm, slender to middling. Sheaths closed for 1/4 - 3/5 their length, terete, smooth or sparsely scabrous, margins not ciliate; ligules 1.5-4(6) mm, smooth to sparsely scabrous, obtuse to acute; blades 1-4 mm wide, flat, thin, lax, soft, apices narrowly prow-shaped. Panicles 5-15 cm, lax, open, sparse; nodes with 1-3(5) branches; branches (2)3-8 cm, spreading to reflexed, capillary, usually angled, infrequently only sulcate or subterete, angles usually moderately densely scabrous, sometimes only sparsely so, with (3)4-15 spikelets. Spikelets 4-8 mm, lanceolate or narrowly lanceolate, green or partly purple to dark purple; florets 2-5; rachilla internodes smooth, glabrous. Glumes subulate to lanceolate, thin, distinctly keeled, keels usually scabrous; lower glumes subulate to narrowly lanceolate, 1-veined; upper glumes distinctly shorter than to nearly equaling the lowest lemmas; calluses sparsely webbed; lemmas 3-4 mm, lanceolate, often partly purple, distinctly keeled, thin, smooth, or with sparse hooks apically, keels and marginal veins softly puberulent to long-villous, hairs extending 1/4 - 2/3 the keel length, sometimes sparse, lateral veins and intercostal regions glabrous, margins glabrous, infolded, apices sharply acute to acuminate, usually bronze-colored; palea keels nearly smooth, scabrous, or pectinately ciliate; anthers 0.2-1.1 mm. 2n = 42.</description>
+  <discussion>Poa leptocoma grows around lakes and ponds and along streams, in subalpine and alpine to low arctic habitats, in western North America from Alaska to California and New Mexico, and on the Kamchatka Peninsula, Russia. It often grows with or near P. reflexa (p. 538), from which it differs in its more scabrous panicle branches, shorter anthers, glabrous or pectinately ciliate palea keels, and preference for wet sites. The two also differ in their ploidy level, P. leptocoma being hexaploid, and P. reflexa tetraploid. It differs from P. paucispicula (p. 538) in its more scabrous panicle branches, narrower glumes and lemmas, and its more sparsely hairy calluses and lemmas. Although its chloroplast haplotype is similar to that of species in sect. Oreinos, its ITS sequence is distinct and resembles that of P. paucispicula.</discussion>
+</bio:treatment>

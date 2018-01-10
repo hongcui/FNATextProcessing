@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Brachypodium phoenicoides (L.) Roem. & Schult. </name_authority_date>
+  </taxon_identification>
+  <common_names>THINLEAF FALSEBROME</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, rhizomes branched. Culms (30)40-90(110) cm, erect, with 3-5 nodes; nodes pubescent. Sheaths antrorsely scabrous, usually glabrous, sometimes pilose; ligules (0.4)0.7-1.5(1.8) mm, ciliate; blades 10-40 cm long, 3-5 mm wide, flat and more or less lax or convolute and somewhat rigid, particularly when dry, surfaces scabrous, usually glabrous, sometimes pilose, adaxial surfaces sparsely hairy, scabrous, with all veins more or less equally prominent. Racemes 10-20(30) cm, with 5-9(15) scarcely overlapping spikelets; pedicels (0.7)1-2(3.2) mm. Spikelets (20)30-60(80) mm, often slightly falcate, terete or subterete, with (7)9-18(31) florets. Lower glumes 4-7 mm, (4)5(7)-veined; upper glumes 5-8 mm, 7-8(9)-veined, mucronate or shortly awned; lemmas (7.5)8-10.3(11) mm, apices abruptly narrowed, mucronate or awned, awns 1-2.5 mm; paleas 6.5-10.5 mm, keeled, keels ciliate or hairy; anthers 4-6 mm. Caryopses 5-7 mm. 2n = 28.</description>
+  <discussion>Brachypodium phoenicoides is native to dry, usually open, and often sandy habitats of the northern Mediterranean region. In the Flora region, it is currently known only from Sonoma County, California, where it is established on coastal sand dunes.</discussion>
+</bio:treatment>

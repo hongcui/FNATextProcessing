@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Robert D. Webster</author>
+    </source>
+  </meta>
+  <number>26.02</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>SACCHARUM L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, often with a knotty crown, sometimes rhizomatous, rhizomes usually short but elongate in some species, rarely stoloniferous. Culms 0.8-6 m, erect. Leaves cauline, not aromatic; sheaths usually glabrous, sometimes ciliate at the throats; ligules membranous, ciliate; blades flat, lax, smooth, usually glabrous. Inflorescences terminal, large, often plumose, fully exserted panicles with evident rachises and numerous, ascending to appressed branches terminating in multiple rames, branches alternate, sometimes naked below; rames with numerous sessile-pedicellate spikelet pairs and a terminal triad of 1 sessile and 2 pedicellate spikelets, internodes slender, without a translucent median groove; disarticulation beneath the pedicellate spikelets and in the rames beneath the sessile spikelets, sessile spikelets falling with the adjacent internode and pedicel. Spikelet pairs homogamous and homomorphic, or almost so, not embedded in the rame axes, dorsally compressed. Sessile spikelets: calluses truncate, usually with silky hairs; glumes subequal, chartaceous to coriaceous, glabrous or villous, 2-keeled, veins not raised; lower florets sterile; lower lemmas hyaline or membranous; lower paleas absent or vestigial, entire; upper florets bisexual; upper lemmas entire or bidentate, muticous or awned; lodicules 2, truncate; anthers 2 or 3. Pedicels neither appressed nor fused to the rame axes. Pedicellate spikelets well developed, from slightly shorter than to equaling the sessile spikelets. x = 10. </description>
+  <discussion>Saccharum is a genus of 35-40 species that grow throughout the tropics and subtropics. Nine species can be found in the Flora region; five are native, two are grown as ornamentals, one is grown for agriculture, and one for research. Some species of Saccharum hybridize naturally with other, presumably closely related, genera such as Miscanthus, Imperata, and Sorghum. Species with awned lemmas are sometimes placed in a separate genus, Erianthus. The most familiar species of Saccharum is S. officinarum, sugar cane.</discussion>
+  <references>Webster,  R.D.  and  R.B.   Shaw.   1995.  Taxonomy  of the  North  American  species  of Saccharum  (Poaceae: Andropogoneae). Sida 16:551-580.</references>
+  <key>
+    <key_body>
+1. Spikelets unawned, or with awns less than 5 mm long; anthers 3.
+2. Spikelets with visible awns, the awns 2-5 mm long.....6. S. ravennae
+2. Spikelets unawned, or the awns concealed by the glumes.
+3. Lower glumes of sessile spikelets pubescent   .....9. S. bengalense
+3. Lower glumes of sessile spikelets mostly glabrous, sometimes ciliate distally.
+4. Culms clumped, 2-5 cm thick; rhizomes short; blades 20-60 mm wide   .....8. S. officinarum
+4. Culms solitary or few together, 0.6-2 cm thick; rhizomes elongate; blades 10-25 mm wide .....7. S. spontaneum
+1. Spikelets awned, the awns 10-26 mm long; anthers 2. 5. Awns spirally coiled at the base.
+6. Callus hairs 3-7 mm long, equal to or shorter than the spikelets, white to brown; rachises glabrous or sparsely pilose  .....3. S. brevibarbe
+6. Callus hairs 9-14 mm long, exceeding the spikelets, silvery or tinged with purple; rachises densely pubescent .....2. S. alopecuroides
+5. Awns straight to curved at the base.
+7. Callus hairs longer than the spikelets; lowest panicle nodes densely pilose   .....1. S. giganteum
+7. Callus hairs absent or no more than equaling the spikelets; lowest panicle nodes glabrous or sparsely pilose.
+8. Calluses glabrous or with hairs to 2 mm long and exceeded by the spikelets; panicles 1-2.5 cm wide .....5. S. baldwinii
+8. Callus hairs 3-7 mm long, often equaling the spikelets; panicles 3-10 cm wide. 
+9. Awns flat basally; lower lemmas of sessile spikelets not or indistinctly veined; upper lemmas 0.9-1 times as long as the lower lemmas .....3. S. brevibarbe
+9. Awns terete basally; lower lemmas of the sessile spikelets typically 3-veined; upper lemmas 0.7-0.8 times as long as the lower lemmas .....4. S. coarctatum
+
+    </key_body>
+  </key>
+</bio:treatment>

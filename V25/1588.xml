@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Andropogon brachystachyus Chapm. </name_authority_date>
+  </taxon_identification>
+  <common_names>SHORTSPIKE BLUESTEM</common_names>
+  <description type="morphology">Plants cespitose, open and ovate to obpyramidal above. Culms 1.1-3.1 m; internodes not glaucous; branches arching. Sheaths smooth; ligules 0.2-0.5 mm, ciliate, cilia 0.6-1.5 mm; blades 21-54 cm long, 2.3-6 mm wide, glabrous or sparsely pubescent, with spreading hairs. Inflorescence units 12-190 per culm; subtending sheaths (2.1)2.4-3.5(4.1) cm long, (2.3)2.6-3(3.8) mm wide; peduncles (13)20-31(43) mm, with 2(3) rames; rames (1.2)1.5-2.1(2.6) cm, usually exserted at maturity, pubescence increasing in density distally within each internode. Sessile spikelets (4.1)4.4-4.6(5) mm; callus hairs 1-1.5 mm; keels of lower glumes scabrous only above the midpoint; awns 2-11 mm; anthers 1, 1.4-2.4 mm, red. Pedicellate spikelets vestigial or absent. 2n = 20. </description>
+  <discussion>Andropogon brachystachyus grows in sandy, often seasonally wet soils of flatwoods, savannahs, pond margins, and scrublands of the southeastern United States. It sometimes forms large populations, but does not invade disturbed sites as do some morphologically similar forms of A. virginicus var. virginicus.</discussion>
+</bio:treatment>

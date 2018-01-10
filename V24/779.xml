@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa fendleriana subsp. longiligula (Scribn. & T. A. Williams) Soreng</name_authority_date>
+  </taxon_identification>
+  <common_names>LONGTONGUE MUTTONGRASS</common_names>
+  <description type="morphology">Collars smooth to scabrous near the throat; ligules of middle cauline leaves (1.5)1.8-18 mm, smooth or sparsely scabrous, margins decurrent, apices obtuse to acuminate, usually smooth, glabrous; innovation blades usually scabrous, sometimes puberulent adaxially. Rachilla internodes usually sparsely hispidulous or sparsely softly puberulent. Lemmas long-villous on the keels and marginal veins, intercostal regions usually glabrous, infrequently softly puberulent. 2n = 56, 56-58. </description>
+  <discussion>Poa fendleriana subsp. longiligula tends to grow to the west of the other two subspecies, in areas where winter precipitation is more consistent and summer precipitation less consistent. Apomixis is far more common and widespread than sexual reproduction in this subspecies. Apomictic populations range from southwestern British Columbia to Baja California, Mexico, throughout the Great Basin and Colorado plateaus, and eastward across the Rocky Mountains. Sexual populations are mainly confined to northern Arizona, California, Nevada and Utah. </discussion>
+</bio:treatment>

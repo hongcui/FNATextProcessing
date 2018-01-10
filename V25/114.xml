@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis cylindriflora Hochst. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual; cespitose, without innovations. Culms 20-70 cm, erect or decumbent, with a ring of glands below the nodes, glabrous. Sheaths often with oblong glands below the collar, usually glabrous, rarely pilose, hairs to 1.5 mm, papillose-based, sometimes both glandular and with papillose-based hairs; ligules 0.4-0.6 mm; blades 3-15 cm long, 2-4 mm wide, flat to involute, abaxial surfaces glabrous or hairy, hairs to 3 mm, papillose-based. Panicles 5-22 cm long, 2.6-10 cm wide, open, oblong, usually diffuse; primary branches 2-9 cm, appressed or diverging to 80° from the rachises, lowest branches whorled, naked below; pulvini glabrous or scattered pilose; pedicels 0.8-7 mm, divergent. Spikelets 2-7 mm long, 1-1.5 mm wide, oblong, plumbeous to greenish-gray, with 3-14 florets; disarticulation acropetal, paleas persistent. Glumes subequal, 1.4-2 mm, narrowly ovate, hyaline; lemmas 1.4-1.7 mm, ovate, membranous, lateral veins inconspicuous, apices obtuse to acute; paleas 1.2-1.6 mm, hyaline, keels scabridulous, apices obtuse; anthers 3, 0.7-1 mm, yellowish. Caryopses 0.5-1.1 mm, ellipsoid to obovoid, dorsally compressed, with a shallow, broad adaxial groove, smooth, mostly translucent, mostly light brown, bases greenish. 2n = unknown.</description>
+  <discussion>Eragrostis cylindriflora is native to Africa. It is not established in the Flora region, but has been collected from a disturbed site in Canton, Maryland.</discussion>
+</bio:treatment>

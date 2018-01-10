@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>26</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus alaskanus (Scribn. & Merr.) Á.Löve </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose or weakly rhizomatous. Culms 20-90 cm, sometimes decumbent at the base, ascending to erect above; nodes usually pubescent, sometimes glabrous. Leaves sometimes basally concentrated; sheaths smooth or scabrous, glabrous or pilose; auricles absent or to 0.5 mm; ligules 0.2-1 mm, erose, ciliolate; blades 3-7 mm wide, flat, both surfaces smooth, scabrous, or pubescent. Spikes 3.5-14 cm long, 0.5-0.8 cm wide, erect or nodding distally, usually with 1 spikelet per node, occasionally with 2 at the lower nodes; internodes 3-10 mm long, 0.5-0.8 mm wide, mostly glabrous and smooth, edges scabrous or ciliate. Spikelets 9-15(20) mm, 2-5 times longer than the internodes, appressed, with 3-6 florets, rachillas hispidulous; disarticulation above the glumes, beneath each floret. Glumes 4-8 mm long, (1.2)1.5-2 mm wide, 1/3-2/3 as long as the adjacent lemmas, oblanceolate to obovate, flat, usually purplish, glabrous or hairy, hairs 0.3-0.5 mm, margins unequal, the widest margin 0.4-1 mm wide, both margins widest above the middle, apices unawned or awned, awns to 1 mm; lemmas 7-11 mm, glabrous or hairy, sometimes scabridulous, sometimes more densely hairy distally, hairs 0.2-0.6 mm, all alike, apices unawned or awned, awns to 7 mm, straight; paleas subequal to the lemmas, keels straight below the apices; anthers 1-2 mm. 2n = 28.</description>
+  <discussion>Elymus alaskanus extends across the high arctic of North America to extreme eastern Russia. This treatment interprets E. alaskanus as having relatively short glumes, in accordance with its treatment by Hulten (1968). Large specimens resemble E. macrourus (see previous), but differ in the shape of their glumes and in their wider glume margins. Elymus alaskanus differs from E. trachycaulus (p. 321) in its greater cold tolerance and the distal widening of its glume margins. There is some intergradation, particularly with E. violaceus (p. 324) and E. trachycaulus, but these species have longer glumes. Moreover, in western North America, E. violaceus is restricted to rocky habitats at or above treeline, whereas E. alaskanus is often associated with valleys and flat areas. Reports of its extending to New Mexico are based on the inclusion of high-elevation forms of E. trachycaulus.</discussion>
+  <key>
+    <key_body>
+1. Glumes glabrous, scabrous or sparsely hairy, hairs to about 0.2 mm long; lemmas glabrous or with hairs to about 0.2 mm long ..... subsp. alaskanus
+1. Glumes   and  lemmas  densely  hairy,  hairs 0.2-0.5 mm long   .....subsp. hyperarcticus
+
+    </key_body>
+  </key>
+</bio:treatment>

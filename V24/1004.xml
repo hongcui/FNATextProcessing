@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Calamagrostis howellii </name_authority_date>
+  </taxon_identification>
+  <common_names>HOVELL'S REEDGRASS</common_names>
+  <description type="morphology">Plants sometimes with sterile culms; usually densely cespitose, occasionally with rhizomes shorter than 1 cm. Culms (25)35^45(60) cm, unbranched, smooth or slightly scabrous beneath the panicles; nodes 1-2. Sheaths and collars smooth; ligules (2.5)3.5-6 mm, acute, lacerate; blades (9)12-20(25) cm long, 1-2.5(3) mm wide, flat to involute, abaxial surfaces smooth, adaxial surfaces finely scabrous, glabrous or sparsely hairy. Panicles (5)7-12(15) cm long, (2)3.5-6.5(8) cm wide, loose, open, straw-colored or green to purplish; branches (2)3.5-5(7) cm, smooth or sparsely scabrous, spikelets usually confined to the distal 1/2. Spikelets (5.5)6-8 mm; rachilla prolongations 1-1.5(2) mm, hairs (1.5)2-2.5(3) mm. Glumes rounded to slightly keeled, smooth or scabrous distally, lateral veins usually prominent and raised, apices acuminate; callus hairs 2-3(4.5) mm, 0.4-0.6(0.7) times as long as the lemmas, abundant; lemmas 4.5-5 mm, about 2 mm shorter than the glumes; awns (10)13-16 mm, attached to the lower 1/5 – 2/5 of the lemmas, exserted, stout, easily distinguished from the callus hairs, strongly bent; anthers (2)2.5-3(4) mm. 2n = 28.</description>
+  <discussion>Calamagrostis howellii grows on dry rocky slopes, banks, ledges, and in cliff crevices, sometimes on basalt, from 100-500 m. It grows only in the Columbia River Gorge of Washington and Oregon.</discussion>
+</bio:treatment>

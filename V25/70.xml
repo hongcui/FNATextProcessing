@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Erioneuron pilosum (Buckley) </name_authority_date>
+  </taxon_identification>
+  <common_names>HAIRY TRIDENS, HAIRY WOOLYGRASS</common_names>
+  <description type="morphology">Culms (6)10-30(40) cm tall, (0.3)0.6-1(2.5) mm thick, glabrous or hispidulous. Ligules 2-3.5 mm; blades (1)3-6(9) cm long, (0.5)1-1.5(2.5) mm wide, both surfaces sparsely pilose or glabrous, grayish-green. Panicles 1-4(6) cm; branches with 3-9 shortly pedicellate spikelets. Spikelets 6-12(15) mm, with (5)6-12(20) florets. Glumes exceeded by the lowest florets, pale; lower glumes 4-7 mm; upper glumes 4-7 mm; lemmas 3-6 mm, green or purplish-green when young, becoming stramineous at maturity, awned, awns 0.5-2.5 mm, apices acute, entire or bidentate, teeth 0.3-0.5 mm; anthers usually 3, 0.3-1 mm. Caryopses 1-1.5 mm. 2n = 16.</description>
+  <discussion>Erioneuron pilosum grows on dry, rocky hills and mesas, often in oak and pinyon-juniper woodlands. In North America, it is represented by E. pilosum var. pilosum. This variety differs from the other two varieties, both of which are restricted to Argentina, in its longer, less equal glumes and shorter awns.</discussion>
+</bio:treatment>

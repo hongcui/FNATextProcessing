@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Axonopus fissifolius (Raddi) Kuhlm. </name_authority_date>
+  </taxon_identification>
+  <common_names>COMMON CARPETGRASS</common_names>
+  <description type="morphology">Plants usually cespitose, sometimes stoloniferous, nodes of the stolons often pilose. Culms 10-75 cm, erect or depressed-decumbent; cauline nodes glabrous or slightly pubescent. Sheaths compressed, mostly glabrous, margins ciliate; ligules 0.2-0.4 mm; blades 4-15 cm long, 1.5-6 mm wide, flat, mostly glabrous, margins with papillose-based cilia. Panicles terminal and axillary, 5-11 cm overall, rachises to 3 cm, with 2-7 branches; branches 2-9(12) cm, spreading or ascending. Spikelets 1.6-2.2(2.8) mm, ovoid or ellipsoid, obtuse to acute. Upper glumes and lower lemmas scarcely extending beyond the upper florets, 2-veined, margins sparsely pilose, apices obtuse to subacute; upper lemmas and paleas 1.6-2.1 mm long, 0.5-0.7 mm wide. Caryopses 1.5-1.8 mm, gray. 2n = 20, 40, 80, 100.</description>
+  <discussion>Axonopus fissifolius is sometimes used as a lawn or pasture grass, but it is also an invasive weedy species, often growing in moist, disturbed sites. It is native in the southeastern United States and from central Mexico south to Bolivia and Argentina. It has also been introduced into tropical and subtropical regions of the Eastern Hemisphere. </discussion>
+</bio:treatment>

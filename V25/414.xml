@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bouteloua radicosa (E. Fourn.) Griffiths </name_authority_date>
+  </taxon_identification>
+  <common_names>PURPLE GRAMA</common_names>
+  <description type="morphology">Plants perennial; cespitose, with a dense, hard, knotty base, rhizomatous, rhizomes 2-3 mm thick, with pale cataphylls; internodes 4-5 mm. Culms (40) 60-80 cm, erect, straight, unbranched. Sheaths . strongly striate; ligules 0.5-1 mm, of hairs; blades mostly basal, short and firm, 2-3 mm wide, bases with papillose-based hairs on the margins. Panicles 10-15 cm, usually with 7-12 branches; branches (15)20-30 mm, deciduous, with 8-11 spikelets, apices entire; disarticulation at the base of the branches. Spikelets appressed, all alike, with 2 florets, lowest floret bisexual, upper florets pistillate, bisexual, or staminate. Glumes acuminate, glabrous; lower glumes about 4 mm; upper glumes 5-6 mm; lowest lemmas 7-8 mm, smooth, often shortly trilobed, 3-awned, awns extending from the lobes, central awns 2-3 mm, not flanked by membranous lobes, lateral awns about 1 mm; lower paleas 6-7 mm, unawned, sometimes mucronate; upper lemmas 9-10 mm, central awns 6-8 mm, lateral awns  5-6 mm;  upper paleas  similar to the lower paleas. Caryopses 4-5 mm long, 0.75-1 mm wide. 2n = 60.</description>
+  <discussion>Bouteloua radicosa grows on dry, rocky slopes at 1000-3000 m, from Arizona and southern New Mexico to southern Mexico. It has also become established in Maine, growing in disturbed habtiats, but is not common there.
+Bouteloua radicosa frequently grows with B. repens at lower elevations, but extends higher than that species. Like B. repens, B. radicosa exhibits great variation in spikelet and inflorescence characters. Gould (1979) suggested that some of the variation in B. radicosa was due to hybridization with B. repens in the Flora area and B. williamsii Swallen in southern Mexico.
+</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Ehrharta calycina Sm. </name_authority_date>
+  </taxon_identification>
+  <common_names>PERENNIAL VELDTGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, often rhizomatous. Culms 30-75(180) cm, erect, glabrous. Sheaths finely striate, smooth, sometimes densely pubescent, with short hairs between the veins, usually purplish; auricles ciliate; ligules about 1 mm, lacerate, glabrous; blades 2-9 cm long, 2-7 mm wide, flat or involute, surfaces glabrous, sometimes scabridulous, margins hairy, wavy. Panicles 7-22 cm, sometimes partially enclosed in the upper leaf sheaths, sometimes nodding; pedicels curved or bent, sometimes straight. Spikelets 4-9 mm, U-shaped, purplish. Glumes subequal, 3-8 mm long, 3/4 - 9/10 the length of the spikelets, 7-veined; sterile lemmas hairy, smooth, lower sterile lemmas from 2/3 the length of to equaling the upper sterile lemmas, bases with earlike appendages, apices of both lemmas mucronate or shortly awned; bisexual lemmas slightly shorter than the upper sterile lemmas, 5-7-veined, glabrous or sparsely pubescent; paleas shorter than the lemmas, 2-veined; anthers 6, 2.5-3.5 mm. Caryopses about 3 mm. 2n = 24-28, 30.</description>
+  <discussion>Ehrharta calycina is native to southern Africa. It was introduced to Davis, California, as a drought-resistant grass for rangelands, but it is unable to withstand heavy grazing. It is now common on the coastal sand dunes at San Luis Obispo and San Diego, California, and has been reported from Nevada and Texas. Jacobs and Hastings (1993) describe it as "moderately useful on light soils of low fertility and rainfall between 330 and 760 mm" in New South Wales. Four varieties have been described; they are not treated here.</discussion>
+</bio:treatment>

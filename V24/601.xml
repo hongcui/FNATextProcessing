@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>23</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca filiformis Pourr. </name_authority_date>
+  </taxon_identification>
+  <common_names>HAIR FESCUE, FINE-LEAVED SHEEP FESCUE,
+FETUQUE CHEVELUE</common_names>
+  <description type="morphology">Plants densely cespitose, with¬out rhizomes. Culms 18-40(60) cm, mostly scabrous or pub-erulent below the inflorescence. Sheaths closed for less than 1/3 their length, smooth or scabrous, glabrous or finely pub-erulent, persistent; collars glabrous; ligules 0.1-0.4 mm; blades 0.2-0.4(0.6) mm in diameter, conduplicate, abaxial surfaces smooth, adaxial surfaces scabrous, veins 5(7), ribs 1, distinct; abaxial sclerenchyma forming a continuous or almost continuous band; adaxial sclerenchyma absent. Inflorescences 1-6(14) cm, usually contracted, with 1-2 branches per node; branches usually erect, lower branches with 2+ spikelets. Spikelets 3-6(6.5) mm, with 2-6(8) florets. Glumes exceeded by the upper florets, ovate-lanceolate to lanceolate, glabrous; lower glumes 1-2.5 mm; upper glumes (1.7)2-3(3.9) mm; lemmas 2.3-4(4.4) mm, obtuse to acute, mostly smooth and glabrous, sometimes scabrous or pubescent distally, unawned, sometimes mucronate, mucros to 0.4 mm; paleas about as long as the lemmas, intercostal region smooth or scabrous distally; anthers (1)1.5-2.2 mm; ovary apices glabrous. 2n = 14 (28).</description>
+  <discussion>Festuca filiformis is a European species that has been introduced to the Flora region as a turf grass. It grows well on poor, dry soils and is becoming a ruderal weed in some areas. It is particularly common in the northeastern United States and southeastern Canada, but has been reported from scattered locations elsewhere.</discussion>
+</bio:treatment>

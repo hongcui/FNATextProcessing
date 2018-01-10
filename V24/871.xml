@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Briza maxima L. </name_authority_date>
+  </taxon_identification>
+  <common_names>BIG QUAKINGGRASS</common_names>
+  <description type="morphology">Plants annual. Culms 20-80 cm. Leaves evenly distributed; sheaths frequently less than 1/2 as long as the internodes, open to near the base, margins overlapping; ligules 3-7 mm, sides sometimes decurrent, margins entire to erose, acute; blades 2.5-20 cm long, 2-8 mm wide, margins strigose or glabrous. Panicles 3.5-10 cm long, mostly 1-5 cm wide; pedicels 5-20 mm. Spikelets 10-20 mm, oval to elliptic, with 4-12(15) florets. Lower glumes 5-5.5 mm, 5-veined; upper glumes 6-6.5 mm, 7-veined; lowermost lemmas 7-9 mm, 7-9-veined, surfaces usually glabrous proximally, becoming villous distally, apices obtuse; paleas about 4 mm, more or less ciliolate along the margins; anthers 1.2-1.5 mm. Caryopses 2-3 mm, obovoid. 2n = 10, 14.
+ 
+</description>
+  <discussion>Briza maxima is native to the Mediterranean region. Cultivated as an ornamental, it is possibly one of the earliest grasses grown for other than edible purposes. It occasionally becomes naturalized in dry to somewhat moist but well-drained, fine or sandy soil on banks, rocky places, open woodlands, and cultivated areas such as roadsides and pastures. In the Flora region, it is known from scattered locations, mostly in Oregon and California, where it is an invader of coastal dune habitat.</discussion>
+</bio:treatment>

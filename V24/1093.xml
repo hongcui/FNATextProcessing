@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Phalaris arundinacea L. </name_authority_date>
+  </taxon_identification>
+  <common_names>REED CANARYGRASS, ALPISTE ROSEAU, PHALARIS ROSEAU, ROSEAU</common_names>
+  <description type="morphology">Plants perennial; not cespitose, rhizomatous, rhizomes scaly. Culms 40-230 cm. Ligules 4-10 (11) mm, truncate, lacerate; blades usually 10-30 cm long, 5-20 mm wide, flag leaf blades 4-15 cm, surfaces scabrous, margins serrate. Panicles 5-40 cm long, 1-4 cm wide, elongate, often dense, always evidently branched, at least near the base; branches to 5 cm, normally appressed but spreading during anthesis, spikelets borne singly, not clustered. Spikelets homogamous, with 3 florets, terminal floret bisexual; disarticulation above the glumes, beneath the sterile florets. Glumes subequal, 4-8.1 mm long, 0.8-1 mm wide, keels smoothly curved, usually scabrous, not or narrowly winged distally, wings to 0.2 mm wide, lateral veins conspicuous, apices acute; sterile florets 2, subequal to equal, 1.5-2 mm, less than 1/2 as long as the bisexual florets, hairy; bisexual florets 2.5-4.2 mm, apices acute to somewhat acuminate; lemmas glabrate proximally, hairy distally and on the margins, dull yellow when immature, shiny gray-brown to brown at maturity, apices acute; anthers 2.5-3 mm. 2n = 27, 28, 29, 30, 31, 35.</description>
+  <discussion>Phalaris arundinacea is a circumboreal species, native to north-temperate regions; it occurs, as an introduction, in the Southern Hemisphere. It grows in wet areas such as the edges of lakes, ponds, ditches, and creeks, often forming dense stands; in some areas it is a problematic weed. North American populations may be a mix of native strains, European strains, and agronomic cultivars (Merigliano and Lesica 1998).
+The interpretation adopted here is that of Baldini (1995), who treated Phalaris arundinacea sensu stricto as the most widespread species in a complex of three species. The other two species are P. rotgesii (Husn.) Baldini, a diploid that is restricted to France and Italy, and P. caesia Nees, a hexaploid that grows in southern Europe, western Asia, and eastern to southern Africa. Phalaris rotgesii has glumes 2-3.8 mm long, sterile florets 1-1.5 mm long, bisexual florets 2-3 mm long, and anthers about 2 mm long. The corresponding measurements for P. caesia are 6-7 mm, about 2.5 mm, 4-5 mm, and 3.5-4 mm, respectively. Other taxon-omists have included P. rotgesii and P. caesia in P. arundinacea. Only P. arundinacea sensu stricto has been found in North America.
+A sterile form of Phalaris arundinacea with striped leaves—P. arundinacea var. picta L., also referred to as P. arundinacea forma variegata (Parn.) Druce—is known as 'Ribbon Grass' or 'Gardener's Gaiters', and is sometimes grown as an ornamental. Baldini (1995) noted that it sometimes appears to escape, and is never found far from a cultivated stand.
+Phalaris arundinacea hybridizes with other species of Phalaris. One hybrid, P. xmonspeliensis Daveau [= P. arundinacea x P. aquatica] is grown for forage.
+</discussion>
+</bio:treatment>

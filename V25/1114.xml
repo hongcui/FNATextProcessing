@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Echinochloa crus-pavonis (Kunth) Schult. </name_authority_date>
+  </taxon_identification>
+  <common_names>GULF BARNYARD GRASS</common_names>
+  <description type="morphology">Plants annual or short-lived perennials. Culms 30-150 cm; nodes glabrous. Sheaths glabrous, often purplish; ligules absent; blades 12-60 cm long, 10-25 mm wide, glabrous. Panicles 10-30 cm, erect or drooping, nodes sparsely hispid, hairs papillose-based, internodes glabrous; primary branches to 14 cm, nodes sometimes sparsely hispid, hairs papillose-based, internodes usually glabrous; secondary branches to 3 cm. Spikelets 2.5-3.4 mm long, 1.2-1.4 mm wide, disarticulating at maturity. Upper glumes subequal to the spikelets; lower florets sterile; lower lemmas unawned or awned, awns 3-10(15) mm, curved; lower paleas absent, vestigial, or well-developed; upper lemmas narrowly elliptic, not or scarcely exceeding the upper glumes, acute or obtuse, with a well-differentiated, early-withering tip, glabrous or pubescent at the base of the tip, hairs not forming a line across the base; anthers 0.5-0.7 mm. Caryopses 1.2-1.5 mm long, 1-1.3 mm wide; embryos 50-70% as long as the caryopses. 2n = 36.</description>
+  <discussion>Echinochloa crus-pavonis is a native species found in scattered locations from British Columbia to Arizona, east to Florida, and south into South America. It favors marshes and wet places at lower elevations, often being found in the water.</discussion>
+  <key>
+    <key_body>
+1. Lower paleas more than 1/2 as long as the lemmas; panicles usually drooping .....var. crus-pavonis
+1. Lower paleas absent or much less than 1/2 as long as the lemmas; panicles usually stiffly erect.....var. macra
+
+    </key_body>
+  </key>
+</bio:treatment>

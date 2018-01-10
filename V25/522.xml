@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aristida schiedeana Trin. & Rupr. </name_authority_date>
+  </taxon_identification>
+  <common_names>SINGLE THREEAWN</common_names>
+  <description type="morphology">Plants perennial; cespitose. Culms 30-120 cm, erect, unbranched. Leaves basal and cauline, pale green, sometimes glaucous; sheaths longer or shorter than the internodes, glabrous except at the summit; collars densely to sparsely pilose or glabrous; ligules less than 0.5 mm; blades 8-30 cm long, 1-2 mm wide, usually flat, often curled at maturity. Inflorescences paniculate, 10-30 cm long, (4)8-26 cm wide; rachis nodes with straight hairs, hairs to 0.8 mm; primary branches 6-16 cm, abruptly spreading to divaricate, stiff to lax, with axillary pulvini, usually not spikelet-bearing below midlength. Spikelets appressed, rarely spreading. Glumes l(3)-veined, brown or purple at maturity, acuminate; lower glumes 6-13 mm; upper glumes equaling or to 4 mm shorter than the lower glumes; calluses 0.8-1.2 mm; lemmas 10-15(17) mm, terminating in a strongly twisted, 2-4 mm awnlike beak, junction with the awns not conspicuous; awns not disarticulating at maturity; central awns 5-12 mm, markedly bent near the base; lateral awns absent or to 1(3) mm, erect; anthers 1.2-2.2 mm, brownish. Caryopses 6-8 mm. 2n = 22, 44.</description>
+  <discussion>Aristida schiedeana grows on rocky slopes and plains, generally in pinyon-juniper, oak, or ponderosa pine communities. Plants from the southwestern United States and northern Mexico belong to A. schiedeana var. orcuttiana (Vasey) Allred & Valdes-Reyna, in which the lower glumes are usually glabrous and longer than the upper glumes, and the collar and throat are usually glabrous. Aristida schiedeana var. schiedeana grows in Mexico, Guatemala, Nicaragua, and Honduras, and has puberulent, equal glumes and pilose collars and throats.</discussion>
+</bio:treatment>

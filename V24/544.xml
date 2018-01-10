@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Thinopyrum intermedium (Host) Barkworth & D.R. Dewey subsp. intermedium </name_authority_date>
+  </taxon_identification>
+  <common_names>INTERMEDIATE "WHEATGRASS"</common_names>
+  <description type="morphology">Glumes usually glabrous, smooth or scabrous over 1 or more veins; lemmas usually glabrous, sometimes with hairs on the margins.</description>
+  <discussion>There is no known difference in geographic distribution between subsp. intermedium and subsp. barbulatum in the Flora region. Ogle (2001) states that T. intermedium subsp. intermedium is adapted to areas with 12-13 inches of rainfall per year.</discussion>
+</bio:treatment>

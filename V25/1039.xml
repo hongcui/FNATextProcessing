@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Chasmanthium laxum (L.) H.O. Yates</name_authority_date>
+  </taxon_identification>
+  <common_names>SLENDER CHASMANTHIUM</common_names>
+  <description type="morphology">Culms 40-130 cm, to 1 mm thick at the nodes, unbranched, leafy for 50% of their height. Sheaths glabrous; collars glabrous; ligules 0.2-0.4 mm, entire; blades (8)15-35(40) cm long, 3-8(11) mm wide, linear-lanceolate, usually glabrous, sometimes sparsely pilose adaxially. Panicles (7)12-35(47) cm, contracted, erect; branches ascending to appressed; axils of panicle branches glabrous; pedicels 0.5-2.5 mm. Spikelets 4-9 mm long, 2-6 mm wide, with (2)3-5(7) florets, lower 1(2) florets sterile, fertile florets divergent to 45°. Lower glumes 1.3-3 mm, (l)3-5-veined; upper glumes 1.3-2.5 mm, 3-5-veined; calluses glabrous; fertile lemmas 2.9-4.5 mm, straight, 3-7-veined, keels not winged, apices scabridulous; paleas 2.3-3 mm; anthers 1.3-1.5 mm, the length invariant within a spikelet. Caryopses 1.9-2.2 mm, exposed at maturity. 2n = 24.</description>
+  <discussion>Chasmanthium laxum is almost completely sympatric with C. sessiliflorum in the southeastern United States, growing in similar habitats but extending farther into sphagnous stream heads, pine flatwoods, and pine savannahs. Yates (1966b) reported seeing putative, naturally occurring hybrids between Chasmanthium ornithorhynchum and C. laxum along streams of the outer coastal plain of Mississippi and Louisiana. In general appearance, the hybrids resemble C. laxum, their most striking difference being the enlarged, sterile spikelets.
+ 
+</discussion>
+</bio:treatment>

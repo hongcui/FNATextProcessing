@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Vulpia microstachys (Nutt.) Munro </name_authority_date>
+  </taxon_identification>
+  <common_names>SMALL FESCUE</common_names>
+  <description type="morphology">Culms 15-75 cm, solitary or loosely tufted, usually glabrous, occasionally puberulent. Sheaths glabrous or pubescent; ligules 0.5-1 mm; blades usually shorter than 10 cm, 0.5-1 mm wide, usually rolled, occasionally flat, glabrous or pubescent. Inflorescences 2-24 cm long, 0.8-8 cm wide, usually panicles, sometimes spikelike branches solitary, with axillary pulvini, to erect when immature, spreading to maturity. Spikelets 4-10 mm, with 1-6 florets, often purple-tinged; rachilla internodes 0.6-1.2 mm. Glumes smooth, scabrous, or pubescent; lower glumes 1.7-5.5 mm, 1/2 - 3/4 the length of the upper glumes; upper glumes 3.5-7.5 mm; lemmas 3.5-9.5 mm, smooth, scabrous, or evenly pubescent, 5-veined, awns of the lowermost lemma in each spikelet (3)6-20 mm; paleas usually slightly longer than the lemmas, apices minutely bifid, teeth 0.2-0.5 mm; anthers 0.7-3 mm. Caryopses 3.5-6.5 mm. 2n = 42.</description>
+  <discussion>Vulpia microstachys is native to western North America, growing from British Columbia south through the western United States into Baja California. Four varieties are recognized here on the basis of spikelet indumentum, but they frequently occur together, and intergrading forms are known. No difference in their geographic or ecological distribution is known.</discussion>
+  <key>
+    <key_body>
+1. Glumes and lemmas smooth or scabrous  .....van pauciflora
+1. Glumes and/or lemmas pubescent.
+2. Glumes and lemmas pubescent.....var. ciliata
+2. Glumes or lemmas, but not both, pubescent. 
+3. Glumes pubescent; lemmas glabrous .....var. confusa
+3. Glumes glabrous; lemmas pubescent .....var. microstachys
+
+    </key_body>
+  </key>
+</bio:treatment>

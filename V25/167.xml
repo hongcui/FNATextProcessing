@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>49</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis atrovirens (Desf.) Trin. ex Steud. </name_authority_date>
+  </taxon_identification>
+  <common_names>THALIA LOVEGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, with innovations, without rhizomes, not glandular. Culms (60)75-130 cm, erect. Sheaths glabrous, apices hairy, hairs to 4 mm; ligules 0.1-0.3 mm; blades (5)8-20 cm long, (1)2-3(4) mm wide, flat to involute, abaxial surfaces glabrous, adaxial surfaces mostly scabridulous, long ciliate basally. Panicles (7)10-20(28) cm long, (2.5)4-15 cm wide, ovate, open; primary branches (3)5-10(13) cm, diverging 20-60° from the rachises, wiry, somewhat capillary, naked basally; pulvini glabrous or sparingly hairy, hairs shorter than 2 mm; pedicels 1-10 mm, appressed, scabridulous. Spikelets 5-10(19)   mm long, 1.4-2.4 mm wide, ovate-lanceolate, plumbeous to purplish, with 10-22 florets; disarticulation acropetal, glumes first, then the florets. Glumes subequal, lanceolate to ovate, membranous; lower glumes 1.2-1.4 mm, narrower than the upper glumes; upper glumes 1.4-1.7 mm; lemmas (1.5)1.7-2 mm, broadly ovate, leathery, keels scabridu-lous, lateral veins evident, apices acute; paleas 1.4-1.9 mm, hyaline, bases not projecting beyond the lemmas, keels scabridulous, apices acute to obtuse; anthers 3, 0.7-0.9 mm, reddish-purple. Caryopses 0.6-0.9 mm, obovoid to ellipsoid, terete, opaque, somewhat striate, reddish-brown. 2n = 60.</description>
+  <discussion>Eragrostis atrovirens is native to northern Africa, but it is now established in southeastern United States, where it grows along railways and roads, on beaches and in ditches, often in wet sandy soils and in association with Pinus, Taxodium, and Sabal.
+EXCLUDED SPECIES
+The following species have been reported from the Flora region, but no specimens supporting their presence, other than in experimental plots, have been found: Eragrostis acutiflora (Kunth) Nees, Eragrostis leptostachya (R. Br.) Steud., and Eragrostis suaveolens Becker ex Claus.
+</discussion>
+</bio:treatment>

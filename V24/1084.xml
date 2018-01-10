@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>14.61</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>PHALARIS L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; sometimes cespitose, sometimes rhizomatous. Culms 4-230 cm tall, erect or decumbent, sometimes swollen at the base, not branching above the base. Leaves more or less evenly distributed, glabrous; sheaths open for most of their length, uppermost sheaths often somewhat inflated; auricles absent; ligules hyaline, glabrous, truncate to acuminate, entire or lacerate; blades usually flat, sometimes revolute. Inflorescences terminal panicles, sometimes spikelike, ovoid to cylindrical, dense, sometimes interrupted, with 10-200 spikelets borne singly or in clusters, spikelets homogamous in species with single spikelets, heterogamous in species with spikelets in clusters, lower spikelets in the clusters usually staminate, rarely sterile, terminal spikelets bisexual or pistillate. Spikelets pedicellate, laterally compressed, with 1-3(4) florets, the terminal or only floret usually sexual, lower floret(s), if present, sterile; disarticulation above the glumes, beneath the sterile florets in species with solitary spikelets, in species with clustered spikelets usually at the base of the spikelet clusters, sometimes beneath the bisexual or pistillate spikelets. Glumes subequal, exceeding the florets, 1-5-veined, keeled, keels often conspicuously winged; lower (sterile) florets reduced, varying from knoblike projections on the calluses of the bisexual florets to linear or lanceolate lemmas less than 3/4  as long as the bisexual florets; terminal florets usually bisexual, in the lower spikelets of a spikelet cluster the terminal florets pistillate or staminate, rarely sterile; lemmas of terminal florets coriaceous to indurate, shiny, glabrous or hairy, inconspicuously 5-veined, acute to acuminate or beaked, unawned; paleas similar to the lemmas in length and texture, enclosed by the lemmas at maturity, 1-veined, mostly glabrous, veins shortly hairy; lodicules absent or 2 and reduced; anthers 3; ovaries glabrous; styles 2, plumose. Caryopses shorter than the lemmas, concealed at maturity, with a reticulate pericarp, falling free of the lemma and palea; hila long-linear, x = 6, 7. </description>
+  <discussion>Phalaris has 22 species, most of which grow primarily in temperate regions. It is found in a wide range of habitats, although most species prefer somewhat mesic, disturbed areas. There are 11 species in the Flora region, 5 native and 6 introduced.
+The sterile florets of Phalaris are frequently mistaken for tufts of hair at the base of a solitary functional floret. Close examination will reveal that the hairs are actually growing from linear to narrowly lanceolate pieces of tissue. Developmental studies have shown that these structures are reduced lemmas.
+Many species of Phalaris are weedy. A few are cultivated for fodder, and one, P. canadensis, is grown for birdseed. In addition, the dense panicles of P. paradoxa are sometimes dyed green and used to simulate shrubs in landscape models.
+</discussion>
+  <references>Anderson, D.E. 1961. Taxonomy and distribution of the genus Phalaris. Iowa State Coll. J. Sci. 36:1-96; Baldini, R.M. 1995. Revision of the genus Phalaris L. (Gramineae). Webbia 49:265-329; Merigliano, M.E and P. Lesica. 1998. The native status of reed canarygrass {Phalaris arundinacea L.) in the inland northwest, USA. Nat. Areas J. 18:223-230; Ross, E.M. 1989. Phalaris L. Pp. 132-135 in T.D. Stanley and E.M. Ross. Flora of South-Eastern Queensland, vol. 3. Queensland Department of Primary Industries, Miscellaneous Publication QM88001. Queensland Department of Primary Industries, Brisbane, Queensland, Australia. 532 pp.; Thellung, A. 1911. La Flore Adventice de Montpellier. Imprimerie Emile Le Maout, Cherbourg, France. [Preprinted from Mem. Soc. Sci. Nat. Cherbourg 38:[57]-728 (1912)]; Weiller, CM., M.J. Henwood, J. Lenz, and L. Watson. 1995 on. Pooideae (Poaceae) in Australia-Descriptions and Illustrations. http://delta-intkey.com/pooid/www/index.htm.
+</references>
+  <key>
+    <key_body>
+1. Spikelets in clusters, heterogamous, the lower 4-7 spikelets in each cluster with a staminate (rarely sterile) terminal floret, only the terminal spikelet in the clusters with a pistillate or bisexual terminal floret; disarticulation usually at the base of the spikelet clusters, sometimes beneath the bisexual or pistillate spikelets. 
+2. Glumes of the bisexual or pistillate spikelets winged, the wings with 1 prominent tooth; plants annual; culms not swollen at the base .....1. P. paradoxa
+2. Glumes of the bisexual or pistillate spikelets winged, the wings entire or irregularly dentate to crenate distally; plants perennial; culms with swollen bases .....2. P. coerulescens
+1. Spikelets borne singly, homogamous, all spikelets with a bisexual terminal floret; disarticulation above the glumes, beneath the sterile florets.
+3. Glume keels not winged or with wings no more than 0.2 mm wide.
+4. Plants perennial; bisexual florets with acute to somewhat acuminate apices.
+5. Panicles ovoid to cylindrical, 1.5-6 cm long, branches not evident; sterile florets usually more than 1/2 as long as the bisexual florets .....8. P. californica
+5. Panicles elongate, 5-40 cm long, evidently branched towards the base; sterile florets less than 1/2 as long as the bisexual florets .....9. P. arundinacea
+4. Plants annual; bisexual florets with beaked or strongly acuminate apices.
+6. Apices of the bisexual florets glabrous; glumes scabrous over the lateral veins and keels, and adjacent to the keels .....7. P. lemmonii
+6. Apices of the bisexual florets hairy; glumes smooth or scabridulous over the lateral veins and keels, the wing surface smooth .....10. P. caroliniana (in part)
+3. Glume keels broadly winged, the wings 0.2-1 mm wide.
+7. Sterile florets usually 1, if 2, the lower floret up to 0.7 mm long and the upper floret 1-3 mm long.
+ 
+ 
+8. Plants annual; sterile florets 1, glabrous or almost so; wings of the glume keels irregularly dentate to crenate, varying within a panicle .....3. P. minor
+8. Plants perennial; sterile florets usually 1, sometimes 2, hairy; wings of the glume keels usually entire .....4. P. aquatica
+7. Sterile florets 2, equal to subequal, 0.5-4.5 mm long.
+9. Panicles cylindrical, sometimes lobed; anthers 0.5-1.3 mm long.....11. P. angusta
+9. Panicles usually ovoid to ellipsoid or oblong-ovoid, occasionally cylindrical, not lobed; anthers 1.5-4 mm long.
+10. Sterile florets 0.6-1.2 mm long, about 1/5 the length of the bisexual florets ..... 5. P. brachystachys 
+10. Sterile florets 1.5-4.5 mm long, 1/3 or more the length of the bisexual florets. 
+11. Glumes 7-10 mm long, 2-2.5 mm wide; bisexual florets 4.5-6.8 mm long; anthers 2-4 mm long ..... 6. P. canariensis
+11. Glumes 3.8-6(8) mm long, 0.8-1.5 mm wide; bisexual florets 2.9-4.7 mm long; anthers 1.5-2 mm long..... 10. P. caroliniana (in part)
+
+    </key_body>
+  </key>
+</bio:treatment>

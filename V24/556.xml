@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subgenus</rank>
+    <name_authority_date>Festuca subg. Montanae (Hack.) Nyman</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants loosely cespitose, without rhizomes. Innovations extravaginal, with or without basal cataphylls. Blades flat or convolute; ribs shallow, indistinct; sclerenchyma girders present at the major veins. Calluses wider than long; lemmas chartaceous, lanceolate to attenuate, entire, unawned; ovary apices densely pubescent.</description>
+  <discussion>Festuca subg. Montanae contains approximately 20-25 species. It has been divided into seven sections that are widely distributed on all continents except Africa and Antarctica. One monospecific section occurs in North America.</discussion>
+</bio:treatment>

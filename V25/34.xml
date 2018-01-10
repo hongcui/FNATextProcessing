@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>17.04</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>DISTICHLIS Raf.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; usually unisexual, occasionally bisexual; strongly rhizomatous and/or stolonif-erous. Culms to 60 cm, usually erect, glabrous. Leaves conspicuously distichous; lower leaves reduced to scalelike sheaths; upper leaf sheaths strongly overlapping; ligules shorter than 1 mm, membranous, serrate; upper blades stiff, glabrous, ascending to spreading, usually equaling or exceeding the pistillate panicles. Inflorescences terminal, contracted panicles or racemes, some¬times exceeding the upper leaves. Spikelets laterally compressed, with 2-20 florets; disarticulation of the pistillate spikelets above the glumes and below the florets, staminate spikelets not disarticulating. Glumes 3-7-veined; lemmas coriaceous, staminate lemmas thinner than the pistillate lemmas, 9-11-veined, unawned; paleas 2-keeled, keels narrowly to broadly winged, serrate to toothed, sometimes with excurrent veins; anthers 3. Caryopses glabrous, free from the palea at maturity, brown, x = 10. </description>
+  <discussion>Distichlis, a genus of about five species, grows in saline soils of the coasts and interior deserts of the Western Hemisphere and Australia. All the species grow in South America, but only one, Distichlis spicata, is found in North America.</discussion>
+  <references>Beetle, A.A. 1943. The North American variations of Disticblis spicata. Bull. Torrey Bot. Club 70:638-650.</references>
+</bio:treatment>

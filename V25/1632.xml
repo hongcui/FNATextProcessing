@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>26.21</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>THEMEDA Forssk.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; usually cespitose, rarely stoloniferous. Culms 30-310 cm, erect. Leaves not aromatic; sheaths open; ligules membranous, sometimes ciliate. Inflorescences numerous, terminal and axillary, false panicles; peduncles shorter than the subtending sheaths, with 1-8 rames; rames spikelet-bearing to the base, axes slender, without a longitudinal translucent groove, with 2 large, solitary, homogamous sessile-pedicellate spikelet pairs at the base and 1-4 smaller, heterogamous sessile-pedicellate spikelet pairs distally, terminal or only unit sometimes a triplet with 1 sessile and 2 pedicellate spikelets; disarticulation in the rames below the sessile spikelets of the heterogamous spikelet units, occasionally beneath the homogamous spikelets. Homogamous spikelet pairs distinctive, forming an involucre around the rame bases, separated by internodes less than M as long as the spikelets; spikelets subequal, strongly compressed dorsally, staminate or sterile, unawned; lower glumes membranous, 2-keeled. Heterogamous spikelet pairs: sessile spikelets subterete or dorsally compressed, awned; calluses bearded, usually sharp; glumes coriaceous; lower glumes wrapped around and concealing the upper glumes, obscurely veined but not keeled, truncate; upper glumes sulcate, with thin margins; lower florets highly reduced, sterile; upper florets bisexual, upper lemmas usually terminating in a geniculate awn; awns usually present, to 9 cm, puberulent to pubescent, sometimes absent. Pedicels slender, not sulcate, not fused to the rame axes; pedicellate spikelets similar to the homogamous spikelets except narrower, staminate or sterile, and unawned. Caryopses narrowly ovate or linear, subterete or channeled on 1 side, x = 5,10. </description>
+  <discussion>Themeda is a genus of approximately 18 species, all of which are native to tropical and subtropical regions of the Eastern Hemisphere, primarily southeast Asia. One species has been established in the Flora region, one is grown as an ornamental, and a third was introduced but is not known to be established.</discussion>
+  <references>Reed, C.R 1964. A flora of the chrome and manganese ore piles at Canton, in the Port of Baltimore, Maryland and at Newport News, Virginia, with descriptions of genera and species new to the flora of the eastern United States. Phytologia 10:321-405; Simon, B.K. 1992. Themeda. Pp. 1227-1228 in J.R. Wheeler (ed.). Flora of the Kimberley Region. Department of Conservation and Land Management, Western Australian Herbarium, Como, Western Australia, Australia. 1327 pp.; Towne, E.G. and I. Barnard. 2000. Themeda quadrivalvis (Poaceae: Andropogoneae) in Kansas: An exotic plant introduced from birdseed. Sida 19:201-203.</references>
+  <key>
+    <key_body>
+1. Awns 7-9 cm long; calluses 3-4 mm long.....1. T. arguens
+1. Awns 2.5-7 cm long; calluses 0.5-4 mm long.
+2. Plants annual; homogamous spikelets 4-7 mm long; sessile spikelets of heterogamous pairs 4-6 mm long .....2. T. quadrivalvis
+2. Plants perennial; homogamous spikelets 6-14 mm long; sessile spikelets of heterogamous pairs 6-14 mm long .....3. T. triandra
+
+    </key_body>
+  </key>
+</bio:treatment>

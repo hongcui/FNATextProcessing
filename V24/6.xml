@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Grass Phylogeny Working Group</author>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subfamily</rank>
+    <name_authority_date>BAMBUSOIDEAE Luerss.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants usually perennial, rarely annual; rhizomatous. Culms woody or herbaceous, hollow or solid; often developing complex vegetative branching; leaves distichous, if complex vegetative branching present, leaves of the culms (culm leaves) differing from those of the vegetative branches (foliage leaves); auricles often present; abaxial ligules rarely present on the culm leaves, usually present on the foliage leaves; adaxial ligules membranous or chartaceous, ciliate or not; pseudopetioles sometimes present on the culm leaves, usually present on the foliage leaves; blades usually relatively broad, venation parallel, often with evident cross venation; mesophyll nonradiate; adaxial palisade layer usually absent; fusoid cells usually well developed, large; arm cells usually well developed and highly invaginated; Kranz anatomy not developed; midribs complex or simple; stomates with dome-shaped, triangular, or more rarely parallel-sided subsidiary cells; adaxial bulliform cells present; bicellular microhairs present, terminal cells tapered; papillae common and abundant. Inflorescences spicate, racemose, or paniculate, comprising spikelets or pseudospikelets, the spikelets lacking subtending bracts and prophylls, completing their development during 1 period of growth, the pseudospikelets having subtending bracts, prophylls, and basal bud-bearing bracts developing 2 or more orders of true spikelets with different phases of maturity. Spikelets bisexual or unisexual, with 1 to many florets. Glumes absent or 1-2+; lemmas without uncinate hairs, sometimes awned, awns single; paleas well developed; lodicules (0)3(6+), membranous, vascularized, often ciliate; anthers usually 2, 3,or 6, rarely 10-120; ovaries glabrous or hairy, sometimes with an apical appendage;
+haustorial synergids absent; styles or style branches 1-4. Caryopses: hila linear, usually as long
+as the caryopses; endosperm hard, without lipid, containing compound starch grains; embryos
+small relative to the caryopses; epiblasts present; scutellar cleft present; mesocotyl internode
+absent; embryonic leaf margins overlapping, x = 7,9, 10, 11, 12.
+</description>
+  <discussion>The Bambusoideae includes two tribes, the woody Bambuseae and the herbaceous Olyreae. Their range includes tropical and temperate regions of Asia, Australia, and the Americas, primarily Central and South America. Three species of Bambuseae are native to the Flora region; there are no native species of Olyreae.
+Members of the Bambusoideae grow in temperate and tropical forests, high montane grasslands, along riverbanks, and sometimes in savannahs. They are mainly forest understory or margin plants with a limited ability to reproduce, disperse, or survive outside their forest environment. Many have relatively small geographic ranges, and there is a high degree of endemism. The conservation status of most bamboos is not known; all are intrinsically vulnerable because of their breeding behavior and reliance upon a benign forest habitat. Only the C3 photosynthetic pathway is found in the subfamily.</discussion>
+  <references>Grass Phylogeny Working Group. 2001. Phylogeny and subfamilial classification of the grasses (Poaceae). Ann. Missouri Bot. Gard. 88:373-457; Judziewicz, E.J., L.G. Clark, X. Londono, and M.J. Stem. 1999. American Bamboos. Smithsonian Institution Press, Washington, D.C., U.S.A. 392 pp.</references>
+  <key>
+    <key_body>
+1. Culms woody, usually taller than 1 m, developing complex vegetative branching from the upper nodes; abaxial ligules present on the foliage leaves, rarely present on the culm leaves   .....2. Bambuseae
+1. Culms herbaceous, usually shorter than 1 m; complex vegetative branching not developed; abaxial ligules not present. .....3. Olyreae
+    </key_body>
+  </key>
+</bio:treatment>

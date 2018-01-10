@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>14</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Setaria grisebachii E. Fourn. </name_authority_date>
+  </taxon_identification>
+  <common_names>GRISEBACH'S BRISTLEGRASS</common_names>
+  <description type="morphology">Plants annual. Culms 30-100 cm; nodes pubescent, hairs appressed. Sheaths with ciliate margins; ligules ciliate; blades to 12(25) cm long, to 10(20) mm wide, flat, hispid on both surfaces. Panicles 3-18 cm, loosely spicate, interrupted, often purple; rachises hispid; bristles 1-3, 5-15 mm, flexible, antrorsely scabrous. Spikelets 1.5-2.2 mm. Lower glumes about 1/3 as long as the spikelets, distinctly 3-veined, lateral veins coalescing with the central veins below the apices; upper glumes nearly equaling the upper lemmas, obtuse, 5-veined; lower lemmas equaling the upper lemmas; lower paleas about 1/3 as long as the lower lemmas, narrow; upper lemmas finely and transversely rugose; upper paleas similar to the upper lemmas. 2n = unknown.</description>
+  <discussion>Setaria grisebachii is the most widespread and abundant native annual species of Setaria in the south-western United States. It grows in open ground and extends along the central highlands of Mexico to Guatemala, usually at elevations of 750-2500 m. The specimens from Maryland were collected on chrome ore piles; the species is not established in the state.</discussion>
+</bio:treatment>

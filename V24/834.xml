@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subsection</rank>
+    <name_authority_date>Poa subsect. Halophytae V.L. Marsh ex Soreng</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; not stoloniferous, not rhizomatous. Culms 5-100 cm. Sheaths closed for 1/10 – 1/5(1/4) their length, terete; ligules 2-6 mm, apices acute to acuminate; blades 1-5 mm wide. Panicles 3-18(25) cm; nodes with 2-7 branches. Spikelets (4)4.5-10 mm, lengths 3-3.6 times widths, lanceolate to narrowly ovate, laterally compressed, sometimes bulbiferous; florets 3-5(7), normal or sometimes bulb-forming. Calluses terete or slightly dorsally compressed; lemmas 3-6 mm, lanceolate, distinctly keeled, glabrous or the keels and marginal veins, and sometimes the lateral veins, hairy, intercostal regions glabrous or hairy, apices acute; anthers 3, 1.2-3 mm, aborted or undeveloped in bulbiferous spikelets.</description>
+  <discussion>Members of Poa subsect. Halophytae have spikelets that resemble those in other sections of Poa more closely than those of subsect. Secundae, being shorter and more compressed than those of that subsection.</discussion>
+</bio:treatment>

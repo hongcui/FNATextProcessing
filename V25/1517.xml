@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Miscanthus oligostachyus Stapf </name_authority_date>
+  </taxon_identification>
+  <common_names>SMALL JAPANESE SILVERGRASS</common_names>
+  <description type="morphology">Plants cespitose, rhizomatous. Culms 80-150 cm tall, 2-3 mm thick below, few together or solitary; nodes finely pubescent. Sheaths mostly glabrous, pilose near the summits; ligules 2-3 mm, rounded; blades well-developed only on the cauline sheaths, 8-35 cm long, 6-25 mm wide, adaxial surfaces densely pilose basally. Panicles long-exserted, loose, with 2-5 erect to suberect branches; branches 7-15 cm, densely pilose, with white or purplish-white hairs. Shorter pedicels 1.5-2 mm; longer pedicels 5-6 mm, sulcate on 1 side. Spikelets 6-8 mm; callus hairs from 1/2 as long as to equaling the spikelets, silky, white. Lower glumes 6-8 mm, sparsely pilose, 2-keeled above, 2-toothed, teeth densely white-ciliate; upper glumes equaling the lower glumes, 3-5-veined; awns of upper lemmas (4)8-15 mm, twisted at the bases; anthers 2.5-3 mm. 2n = 38.</description>
+  <discussion>Miscanthus oligostachyus is a native of Japanese and Korean forests that is sold as an ornamental species in the United States. It does best in regions with cool summers. Koyama (1987) recognized three subspecies of M. oligostachyus; they have not been evaluated for this treatment.</discussion>
+</bio:treatment>

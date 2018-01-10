@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis mexicana (Hornem.) Link </name_authority_date>
+  </taxon_identification>
+  <common_names>MEXICAN LOVEGRASS</common_names>
+  <description type="morphology">Plants annual; cespitose, without innovations. Culms 10-130 cm, erect, sometimes geniculate, glabrous, sometimes with a ring of glandular depressions below the nodes.  Sheaths  sometimes with glandular pits, pilose near the apices and on the collars, hairs to 4 mm, papillose-based; ligules 0.2-0.5 mm, ciliate; blades 5-25 cm long, 2-7(9) mm wide, flat, abaxial surfaces glabrous, adaxial surfaces scabridulous, occasionally pubescent near the base. Panicles (5)10-40 cm long, (2)4-18 cm wide, ovate, rachises angled and channeled; primary branches 3-12(15) cm, solitary to whorled, appressed or diverging to 80° from the rachises; secondary branches somewhat appressed; pulvini glabrous; pedicels 1-6(7) mm, almost appressed to narrowly divergent, stiff. Spikelets (4)5-10(11) mm long, 0.7-2.4 mm wide, ovate to linear-lanceolate, gray-green to purplish, with 5-11(15) florets; disarticulation acropetal. Glumes subequal, 0.7-2(2.3) mm, ovate to lanceolate, membranous; lemmas 1.2-2.4 mm, ovate, membranous, glabrous or with a few hairs, gray-green, lateral veins evident, often greenish, apices acute; paleas 1-2.2 mm, hyaline, keels scabrous, apices obtuse to truncate; anthers 3, 0.2-0.5 mm, purplish. Caryopses 0.5-0.8(1) mm, ovoid to rectangular-prismatic, laterally compressed, shallowly to deeply grooved on the adaxial surface, striate, reddish-brown, distal 2/3 opaque. 2n = 60.</description>
+  <discussion>Eragrostis mexicana grows along roadsides, near cultivated fields, and in disturbed open areas, at 100-3000 m. It is native to the Americas, its native range extending from the southwestern United States through Mexico, Central and northern South America, to Argentina. Within the Flora region, it has been introduced beyond its native range, often becoming an established part of the flora.</discussion>
+  <key>
+    <key_body>
+1. Spikelets ovate to oblong in outline, 1.5-2.4mm wide; lower glumes 1.2-2.3 mm long; sum of the spikelet width and lower glume length 2.7-4.7 mm; culms and sheaths sometimes with glandular depressions ..... subsp. mexicana
+1. Spikelets linear to linear-lanceolate, 0.7-1.4 wide; lower glumes 0.7-1.7 mm long; sum of the spikelet width and lower glume length 1.5-3.1 mm; culms and sheaths without glandular depressions.....subsp. virescens
+
+    </key_body>
+  </key>
+</bio:treatment>

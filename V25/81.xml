@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Munroa squarrosa (Nutt.) Torr. </name_authority_date>
+  </taxon_identification>
+  <common_names>FALSE BUFFALOGRASS</common_names>
+  <description type="morphology">Stolons slender. Culms 3-15(30) cm, highly branched, scabrous, often minutely puberulent. Ligules 0.5(1) mm; blades 1-5 cm long, 1-2.5 mm wide. Spikelets 6-8(10) mm, with 3-5 florets. Glumes of first 1-2 spikelets subequal, 2.5-4.2 mm, narrow, 1-veined, acute; glumes of upper spikelets unequal, lower glumes reduced or even absent in the terminal spikelets; lemmas in lower spikelets scabridulous, lanceolate, midvein excurrent, forming a stout, scabrous 0.5-2 mm awn, lateral veins with a tuft of hairs on the margins near midlength, excurrent; anthers 1-1.5 mm. 2n = 16.</description>
+  <discussion>Munroa squarrosa grows in dry, open areas, usually in sandy soil or disturbed sites, from Saskatchewan and Alberta south to Chihuahua, Mexico.</discussion>
+</bio:treatment>

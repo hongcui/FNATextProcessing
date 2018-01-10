@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>20</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca amethystina L. </name_authority_date>
+  </taxon_identification>
+  <common_names>TUFTED FESCUE, FÉTUQUE À COULEUR D'AMÉTHYSTE</common_names>
+  <description type="morphology">Plants densely cespitose, without rhizomes. Culms (25)50-80(105) cm, erect, glabrous and smooth throughout. Sheaths closed for about 1/2 their length, glabrous, smooth, usually reddish blue towards the bases, persistent, flag leaf sheaths tightly enclosing the culms; collars glabrous; ligules 0.1-0.5 mm; blades 0.6-1.2(1.5) mm in diameter, conduplicate, abaxial surfaces glabrous, smooth or scabrous, adaxial surfaces scabrous, veins (5)7-9, ribs 5-9; abaxial sclerenchyma in (5)7-9 broad strands, rarely some strands confluent; adaxial sclerenchyma absent. Inflorescences (3)8-18 (25) cm, open or loosely contracted, with 1-2(3) branches per node; branches somewhat lax, erect to spreading, lower branches with 2+ spikelets. Spikelets (5)6-8.5(10) mm, with (3)4-6(8) florets. Glumes exceeded by the upper florets, lanceolate, mostly smooth and glabrous, sometimes scabrous distally; lower glumes 2.5-4 mm; upper glumes 3-5(5.5) mm; lemmas (3.5)4-5.6(6.6) mm, usually smooth, sometimes scabrous near the apices, lanceolate, usually acute, sometimes obtuse, unawned, occasionally mucronate; paleas about as long as the lemmas, intercostal region smooth or slightly scabrous distally; anthers (2)3-4 mm; ovary apices glabrous or sparsely pubescent. 2n= 14.</description>
+  <discussion>Festuca amethystina is sometimes cultivated as an ornamental species; it may occasionally escape.</discussion>
+</bio:treatment>

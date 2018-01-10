@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aristida floridana (Chapm.) Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>FLORIDA THREEAWN</common_names>
+  <description type="morphology">Plants perennial; cespitose. Culms 70-100 cm, erect, mostly unbranched. Leaves cauline; sheaths mostly longer than the internodes, mostly glabrous, summit with hairs; collars mostly glabrous, sides usually with straight or wrinkled hairs; ligules 0.2-0.3 mm; blades 30-55 cm long, 1-2 mm wide, pale yellow-green, loosely involute, lax, glabrous abaxially, with scattered hairs adaxially. Inflorescences paniculate, 30-45 cm long, 5-25 cm wide, oblong to ovate; primary branches single or paired, ascending and somewhat lax to stiffly divergent, with weakly developed axillary pulvini, spikelet-bearing to the base; lowermost branches to 15 cm. Spikelets mostly appressed. Glumes purplish-tinged, 1-veined; lower glumes 10-14 mm; upper glumes 8-9 mm; calluses 0.5-0.7 mm; lemmas 8-12 mm, gray mottled with purple or dark patches, narrowing to a slightly curved and twisted beak, junction with the awns not strongly marked; awns not disarticulating at maturity; central awns 10-25 mm, falcate; lateral awns absent; anthers 3, about 1 mm, brown. Caryopses 6-7 mm, chestnut-colored. 2n = unknown.</description>
+  <discussion>Aristida floridana grows in waste places, along road-sides, and on railroad embankments. It is rare in the United States, being known only from Key West and Ramrod Key, Florida. It is more common in the Yucatan Peninsula, Mexico, where it intergrades with Aristida ternipes.</discussion>
+</bio:treatment>

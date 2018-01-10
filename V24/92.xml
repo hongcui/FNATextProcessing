@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Glyceria canadensis var. laxa (Scribn.) Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>LIMP MANNAGRASS</common_names>
+  <description type="morphology">Spikelets 3-5 mm, with (2)3-5 florets. Lower glumes 0.6-1.3 mm; upper glumes 1.5-2.3 mm, usually rounded, sometimes acute; lemmas 1.8-2.5 mm. 2n = 60.</description>
+  <discussion>Glyceria canadensis var. laxa grows in swamps, bogs, and wet woods, primarily along the eastern seaboard of North America from Nova Scotia to northeastern Tennessee. It is sometimes treated as a hybrid, G. xlaxa (Scribn.) Scribn., but several specimens have dehiscent anthers and well-formed caryopses, indicating that they are not hybrids. The report of 2n = 30 is based on counts for G. xottawaensis.</discussion>
+</bio:treatment>

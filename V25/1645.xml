@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Coelorachis rugosa (Nutt.) Nash </name_authority_date>
+  </taxon_identification>
+  <common_names>WRINKLED JOINTGRASS</common_names>
+  <description type="morphology">Plants cespitose. Culms 60-120 cm, compressed-keeled. Sheaths compressed-keeled; ligules 0.5-1 mm. Rames 3-9.5 cm; rachises distinctly indented adjacent to the sessile spikelets. Sessile spikelets 3-4 mm; lower glumes transversely rugose; upper lemmas and paleas 2-3 mm.
+Pedicellate spikelets 1-3 mm. Caryopses about 2 mm,
+broadly ellipsoid. 2n = unknown.
+</description>
+  <discussion>Coelorachis rugosa is endemic to the southeastern United States. It grows in moist to wet areas in prairies, bogs, and pine woods, especially flatwoods and savannahs.</discussion>
+</bio:treatment>

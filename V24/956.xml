@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Arctagrostis latifolia subsp. arundinacea (Trin.) Tzvelev </name_authority_date>
+  </taxon_identification>
+  <common_names>REED POLARGRASS</common_names>
+  <description type="morphology">Culms (24)50-150 cm; uppermost nodes usually towards the middle of the culm. Uppermost sheaths shorter than the blades; blades 4-36 cm long, 2.4-15 mm wide. Panicles (4)10-35(44) cm long, 0.7-10(14+) cm wide; longest branches (1.4)3-27 cm, with (5)50-140 spikelets per branch; secondary branches usually spreading. Spikelets 3-5.2 mm. Glumes unequal; lower glumes 2.3-3.6 mm, l(2)-veined; upper glumes 3-4.8 mm, shorter than to longer than the lemmas, 3-veined; lemmas 2.4-4.8 mm; anthers 1.3-3.5 mm. 2n = 28, 42.</description>
+  <discussion>Arctagrostis latifolia subsp. arundinacea is the predominant subspecies from Alaska east to the western Northwest Territories, northern British Columbia, and Alberta. Cultivars for hay and revegetation mixes have been developed.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Pleuropogon californicus var. davyi (L.D. Benson) But</name_authority_date>
+  </taxon_identification>
+  <common_names>Pleuropogon californicus var. davyi (L.D. Benson) But</common_names>
+  <description type="morphology">Plants perennial. Spikelets 25-60 mm. Lemmas unawned, sometimes mucronate, mucros to 1.5 mm; paleal appendages 0.5-1 mm. 2n = 16.</description>
+  <discussion>Pleropogon californicus var. davyi is the more restricted of the two varieties, being known only from vernal pools, sloughs, and marshy grasslands in Mendocino and Lake counties, California.</discussion>
+</bio:treatment>

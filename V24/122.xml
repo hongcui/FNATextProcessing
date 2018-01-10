@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Melica stricta Bol. var. stricta </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Sheaths usually purplish, becoming dark brown. Glumes 3-4 mm wide; paleas about 1/2 the length of the lemmas; anthers 1-2 mm.</description>
+  <discussion>Melica stricta var. stricta is the more widespread of the two varieties, growing throughout the range of the species except in the mountains of southern California.</discussion>
+</bio:treatment>

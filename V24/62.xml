@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Luziola peruviana J.F. Gmel. </name_authority_date>
+  </taxon_identification>
+  <common_names>PERUVIAN WATERGRASS</common_names>
+  <description type="morphology">Plants stoloniferous, fully or mostly emergent. Culms 10-40 cm, suberect, branching, fully or mostly emergent. Leaves mostly basal or scattered along the culms, not conspicuously floating or streaming in the current; sheaths glabrous or ciliate; ligules to 5 mm, lanceolate, acuminate; blades 3-30 cm long, 0.5-4 mm wide, glabrous, sometimes scabridulous. Inflorescences panicles. Staminate panicles 1-3 cm, terminal, with 10-25 spikelets; staminate florets 3.5-8 mm, caducous; lemmas lanceolate, 5-veined; paleas similar, 3-veined; anthers 6, 2-5 mm. Pistillate panicles to 7 cm, arising from the lower to middle nodes of the culms, partially exserted from the sheaths, with 10-25 spikelets; branches filiform, spreading to reflexed; pistillate florets 2-2.5 mm, caducous; lemmas 7-14-veined, erose to acuminate or caudate; paleas similar to the lemmas, 5-10-veined; stigmas 2-3 mm. Achenes 1-1.3 mm, broadly ellipsoid to subglobose, smooth, lustrous. 2n = 24.</description>
+  <discussion>Luziola peruviana has been found at scattered locations from Texas to Florida. It is native to the Caribbean, Central America, and South America, and grows in wet places and shallow water along streams and lakes.</discussion>
+</bio:treatment>

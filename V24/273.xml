@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus catharticus Vahl </name_authority_date>
+  </taxon_identification>
+  <common_names>RESCUE GRASS</common_names>
+  <description type="morphology">Plants annual, biennial, or perennial; loosely cespitose or tufted. Culms 30-120 cm tall, 2-4 mm thick, erect or decumbent. Sheaths usually densely, often retrorsely, hairy, hairs sometimes confined to the throat; auricles absent; ligules 1-4 mm, glabrous or pilose, obtuse, lacerate to erose; blades 4-30 cm long, 3-10 mm wide, flat, glabrous or hairy on both surfaces. Panicles 9-28 cm, usually open, erect or nodding; lower branches shorter than 10 cm, 1-4 per node, spreading or ascending, with up to 5 spikelets variously distributed. Spikelets (17)20-40 mm, shorter than at least some pedicels and branches, elliptic to lanceolate, strongly laterally compressed, not crowded or overlapping, with 4-12 florets. Glumes smooth or scabrous, glabrous or pubescent; lower glumes 7-12 mm, 5-7(9)-veined; upper glumes 9-17 mm, 7-9(11)-veined, shorter than the lowest lemma; lemmas 11-20 mm, lanceolate, laterally compressed, strongly keeled, usually glabrous, sometimes pubescent distally, smooth or scabrous, 9-13-veined, veins often raised and riblike, margins sometimes conspicuous, hyaline, whitish or partly purplish, apices entire or toothed, teeth acute, shorter than 1 mm; awns absent or to 10 mm; anthers 0.5-1 mm in cleistogamous florets, 2-5 mm in chasmogamous florets. 2n = 42.</description>
+  <key>
+    <key_body>
+1. Awns absent or to 3.5 mm long   .....var. catharticus
+1. Awns (5)6-10 mm long.....var. elatus
+
+    </key_body>
+  </key>
+</bio:treatment>

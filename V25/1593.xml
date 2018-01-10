@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>13</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Andropogon longiberbis Hack. </name_authority_date>
+  </taxon_identification>
+  <common_names>HAIRY BLUESTEM</common_names>
+  <description type="morphology">Plants cespitose; cylindrical to oblong and more or less open in the upper portion. Culms 50-100(150) cm; internodes green, sometimes somewhat glaucous just below the node; branches mostly erect, straight. Sheaths not scabrous; ligules 0.2-0.6 mm, ciliate, cilia 0.3-0.6 mm; blades 11-50 cm long, 2-5.5 mm wide, sparsely to densely pubescent, most hairs appressed. Inflorescence units 7-97 (usually about 45) per culm; subtending sheaths (2.5)3-4.5(6) cm long, (2.5)3.2-4.1(5.5) mm wide; peduncles (1)3-4(13) mm, with 2(3) rames; rames (1.3)1.8-2.6(4) cm, not exserted at maturity, pubescence increasing in density distally within each internode. Sessile spikelets (3.5)4.1-4.5(5) mm; callus hairs 1.5-5 mm; keels of lower glumes scabrous only above the midpoint; awns 10-21 mm; anthers  1, 0.9-1.6 mm, yellow. Pedicellate spikelets
+vestigial or absent. 2n = 20.
+</description>
+  <discussion>Andropogon longiberbis grows in sandy or rocky soils of roadsides, dunes, sandhills, pinelands, and fields, from the southeastern United States to the Bahamas. It resembles A. tracyi, but usually differs in having more densely pubescent blades and a less slender appearance.
+Andropogon longiberbis appears to hybridize with both A. virginicus var. virginicus and A. glomeratus var. pumilus.
+</discussion>
+</bio:treatment>

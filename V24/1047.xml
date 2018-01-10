@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Avena sterilis L. </name_authority_date>
+  </taxon_identification>
+  <common_names>ANIMATED OATS, AVOINE STERILE</common_names>
+  <description type="morphology"> Plants annual. Culms 30-120 cm, initially prostrate, becoming erect at maturity. Sheaths glabrous or hairy; ligules 3-8 mm, acute to truncate-mucro-nate; blades 8-60 cm long, 4-18 mm wide, scabridulous, often ciliolate on the margins. Panicles 10-45 cm long, 5-25 cm wide. Spikelets 24-50 mm, with 2-5 florets; disarticulation beneath the basal floret the florets falling as a unit; disarticulation scar oval to round-elliptic. Glumes subequal, 20-50 mm, 9-11-veined; calluses bearded, hairs to 1/5 the length of the lemmas; lemmas 17-40 mm, usually densely strigose below midlength, sometimes sparsely strigose, glabrous or scabridulous, apices bidentate to bisubulate teeth 1-1.5 mm, awns 30-90 mm, arising in the middle 1/3; lodicules without a lobe on the wing; anthers 2.5-4 mm. 2n = 42. </description>
+  <discussion>Avena sterilis is native  from the  Mediterranean region to Afghanistan; it now grows on all continents. It has become naturalized in California, where it can be found in fields, vineyards, orchards, and on hillsides. It has been reported from Oregon, but no specimens could be found to substantiate the report. Dore & McNeill (1980) also report it from Ottawa and Guelph, Ontario. It is listed as a noxious weed by the U. S. Department of Agriculture.
+ 
+</discussion>
+</bio:treatment>

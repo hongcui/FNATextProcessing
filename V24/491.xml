@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>xElyleymus colvillensis (Lepage) Barkworth</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants loosely cespitose, shortly rhizomatous. Culms about 60 cm, glabrous. Auricles often present; ligules 0.3-1.2 mm, truncate; blades 2-4 mm wide, scabrous on the adaxial surfaces. Inflorescences spikes, 6.5-12 cm, somewhat lax, with 1(2) sessile or subsessile spikelets per node; internodes 4-9 mm, angles pilose or hispid, convex surfaces sparsely villous distally. Spikelets 10-15 mm, with 3-5 florets; disarticulation above the glumes, beneath the florets. Glumes 6.5-11.5 mm long, 1.1-1.5 mm wide, narrowly lanceolate to subulate, l-3(4)-veined, margins narrow, scarious; lemmas 8-11 mm, villous, slightly to strongly keeled, awned, awns 2-10 mm; paleas glabrous or puberulent between the veins, apices slightly dentate or retuse; anthers 1.7-2.2 mm.</description>
+  <discussion>xElyleymus colvillensis consists of hybrids between Leymus innovatus and, probably, Elymus alaskanus. The original collections were made on the banks of the Colville River at Umiat, Alaska. It is not known how widely it is distributed.</discussion>
+</bio:treatment>

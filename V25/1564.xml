@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bothriochloa pertusa (L.) A. Camus </name_authority_date>
+  </taxon_identification>
+  <common_names>PITTED BLUESTEM</common_names>
+  <description type="morphology">Plants cespitose or stoloniferous. Culms to 100 cm, often decumbent or stoloniferous, freely branching; nodes bearded. Leaves mostly basal, green, sometimes glaucous; sheaths glabrous, keeled; ligules 0.7-1.5 mm; blades 3-15 cm long, 3-4 mm wide, flat, margins and ligule regions hairy. Panicles 3-5 cm, fan-shaped, often purplish; rachises 0.2-2 cm, with 3-8 branches; branches 3-4.5 cm, longer than the rachises, usually with 1 rame; rame internodes with villous margins, with 1-3 mm hairs. Sessile spikelets 3-4 mm, lanceolate; callus hairs about 1 mm; lower glumes sparsely hirtellous, with a prominent dorsal pit near the middle; awns 10-17 mm; anthers 1-1.8 mm, yellow. Pedicellate spikelets the same size as the sessile spikelets, sterile, pitted or not, occasionally with 2 pits. 2n = 40, 60.</description>
+  <discussion>Bothriochloa pertusa is native to the Eastern Hemisphere, and was introduced to the southern United States as a warm-season pasture grass. It now grows in disturbed, moist, grassy places and pastures in the region, at elevations of 2-200 m. It has not persisted at all locations shown on the map.</discussion>
+</bio:treatment>

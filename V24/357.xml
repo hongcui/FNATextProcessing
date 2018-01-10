@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Hordeum murinum subsp. glaucum (Steudel) Tzvelev </name_authority_date>
+  </taxon_identification>
+  <common_names>SMOOTH BARLEY</common_names>
+  <description type="morphology">Plants summer annuals. Culms 15-40 cm. Leaves glaucous. Spikes sometimes glaucous, often brownish when mature. Central floret pedicellate; lemmas subequal to those of the lateral florets, awns as long as or longer than those of the lateral florets; anthers 0.2-0.6 mm, much shorter than those of the lateral florets, more or less covered with purple spots. Lateral spikelets: paleas more or less densely pilose, especially on the lower 1/2; anthers 1.2-1.8 mm; rachillas about 0.3 mm, yellow. 2n = 14.</description>
+  <discussion>Hordeum murinum subsp. glaucum grows in grasslands, fields, and waste places. It is native to the eastern Mediterranean area. It is now common in arid areas of the western United States, and is also known from scattered locations elsewhere in the Mora region.</discussion>
+</bio:treatment>

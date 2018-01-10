@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>41</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca roemeri (Pavlick) E.B. Alexeev </name_authority_date>
+  </taxon_identification>
+  <common_names>OREGON FESCUE, ROEMER'S FESCUE</common_names>
+  <description type="morphology">Plants densely cespitose, without rhizomes. Culms (35)50-90 (100) cm, erect, glabrous, smooth. Sheaths closed for less than 1/2  their length, glabrous, hirsute, or scabrous, persistent; collars glabrous; ligules 0.1-0.5 mm; blades 0.5-1(1.2) mm in diameter, conduplicate, abaxial surfaces glabrous or puberulent, adaxial surfaces sometimes scabrous, glabrous or pubescent, veins (5)7-9, ribs 5-9, well defined; abaxial sclerenchyma in 5-7 wide strands, sometimes confluent into a single band; adaxial sclerenchyma absent. Inflorescences (7)8-20(25) cm, loosely to densely contracted, with 1-2 branches per node; branches erect to slightly spreading, lower branches with 2+ spikelets. Spikelets 9-13.5 mm, with 4-6 florets. Glumes exceeded by the upper florets, ovate-lanceolate, smooth or scabrous distally; lower glumes (2)2.5-5 mm; upper glumes 4-6.2 mm; lemmas 5-7(8.2) mm, scabrous near the apices, awns (2)3-5 mm, terminal, usually more than 1/2 as long as the lemma bodies; paleas about as long as the lemmas, intercostal region scabrous or puberulent distally; anthers (2.6)2.8-3.6(4) mm; ovary apices glabrous. 2n = unknown.</description>
+  <discussion>Festuca roemeri grows in grasslands and open forests, primarily west of the Cascade Mountains, from southeastern Vancouver Island southward to northwestern California.</discussion>
+</bio:treatment>

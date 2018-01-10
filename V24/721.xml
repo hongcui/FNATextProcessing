@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa bulbosa subsp. vivipara (Koel.) Arcang.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 15-60 cm. Spikelets bulbiferous; florets modified into leafy bracts, sometimes the basal florets within a spikelet more or less normal. Calluses usually sparsely webbed, sometimes glabrous; lemmas glabrous or softly puberulent over the keel and lateral veins, sometimes between the veins; anthers in the least deformed florets 1.2-1.5 mm or aborted late in development, absent from modified florets. 2n = 21, 28, 31, 32, 33, 34, 35, 37, 39, 42+1, 44, 46, 48, 49.</description>
+  <discussion>Poa bulbosa subsp. vivipara was introduced from Europe into the Pacific Northwest as a forage grass; it has since spread across temperate areas of the Flora region, particularly in the Pacific Northwest and northern Great Basin. It is highly tolerant of grazing and disturbance.</discussion>
+</bio:treatment>

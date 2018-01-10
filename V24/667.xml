@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Puccinellia parishii Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>PARISH'S ALKALI GRASS</common_names>
+  <description type="morphology">Plants annual; not mat-forming. Culms 3-22 cm, erect. Leaves basally concentrated; ligules 1-2 mm, obtuse to truncate, entire; blades 0.2-1.2 mm wide, flat to involute. Panicles 1-8.5 cm, compact to diffuse at maturity, lower branches erect to descending, usually spikelet-bearing to the base; pedicels densely scabrous or with a few scattered scabrules, often with tumid epidermal cells. Spikelets 3.5-5 mm, with 2-7 florets. Glumes rounded over the back, veins obscure to prominent, apices acute to obtuse; lower glumes 1-2 mm; upper glumes 1.8-2.2 mm; calluses hairy; lemmas 1.8-2.2 mm, mostly herbaceous, densely hairy over the proximal 1/2 - 3/4 of the veins, glabrous between the veins, backs rounded, 5-veined, veins obscure to prominent, not extending to the margins, apical margins hyaline, smooth or with a few scattered scabrules, apices obtuse to truncate, entire; palea veins glabrous proximally, hairy at midlength, glabrous or scabrous-ciliate distally; anthers 0.4-0.5 mm. 2n = 14. </description>
+  <discussion>Puccinellia parishii grows in saline seepage areas in California, Arizona, and New Mexico.</discussion>
+</bio:treatment>

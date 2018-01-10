@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>J.K. Wipff</author>
+    </source>
+  </meta>
+  <number>25.02</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>ANTHENANTIA P. Beauv.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; rhizomatous. Culms 60-120 cm, stiffly erect, clustered. Sheaths open; ligules 0.1-0.3 mm, membranous, ciliate; blades flat, stiff, upper blades much reduced. Inflorescences terminal, simple panicles with elongate rachises; branches ascending to erect, not spikelike, lower branches usually with 8 or more spikelets; disarticulation beneath the glumes. Spikelets 3-4 mm, laterally compressed neither subtended by bristles nor sunken into the rachis, elliptic, obovoid, hirsute, unawned, with 2 florets. Lower glumes absent; upper glumes as long as the spikelets, obovate, densely hirsute, 5-veined; lower florets sterile or staminate; lower lemmas densely hirsute, similar to the upper glumes; lower paleas present or absent; upper lemmas and upper paleas cartilaginous, glabrous, dark brown, separating slightly at maturity, exposing the caryopses, lemmas 3-veined, margins flat, hyaline, 0.5-1 mm wide, paleas 2-veined. x = 10. </description>
+  <discussion>Anthenantia is a genus of two species, both of which are endemic to the southeastern United States. It is very similar to Leptocoryphium Nees, a monotypic genus that extends from Mexico to Argentina, but differs in having laterally, rather than dorsally, compressed spikelets.
+Anthenantia is the etymologically correct version of the three alternative spellings used by Palisot de Beauvois (Clayton and Renvoize 1986).
+</discussion>
+  <references>Clayton, W.D. and S.A. Renvoize. 1986. Genera Graminum: Grasses of the World. Kew Bull., Addit. Ser. 13. Her Majesty's Stationery Office, London, England. 389 pp.</references>
+  <key>
+    <key_body>
+1. Junction of the sheath and blade not evident abaxially, the sheath and blades in line with each other; blades 2-5 mm wide, the margins scabrous; leaves 30-60 cm long .....1. A. rufa
+1. Junction of the sheath and blade evident, the blades not in line with the sheaths; blades 5-10 mm wide, the margins papillose-hispid; leaves mostly less than 30 mm long  .....2. A. villosa
+
+    </key_body>
+  </key>
+</bio:treatment>

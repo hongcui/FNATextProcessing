@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subsection</rank>
+    <name_authority_date>Poa nervosa Complex</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; densely to loosely tufted or with solitary shoots, shortly rhizomatous. Basal branching all or mostly extravaginal. Culms 15-125 cm. Sheaths closed from(1/3)1/2 their length to their entire length, terete to compressed, distal sheaths shorter or longer than their blades; ligules 0.5-8 mm, smooth or scabrous, glabrous or softly puberulent, apices glabrous; innovation blades with the adaxial surfaces smooth or densely scabrous, glabrous or densely hispidulous; cauline blades 1-5.5 mm wide, flat or folded, lax or moderately firm, thin or moderately thick, smooth or sparsely scabrous, apices narrowly to broadly prow-shaped. Panicles 2-29 cm, erect or lax, sometimes nodding, contracted to open, with 1-5 branches per node; branches 0.9-18 cm, erect to reflexed, terete or angled, smooth or sparsely to moderately scabrous. Spikelets 3-12 mm, lengths to 3.5 times widths, not bulbiferous; florets 2-8. Glumes narrowly lanceolate to lanceolate; upper glumes 3-veined; calluses terete or slightly laterally compressed, glabrous or dorsally webbed; lemmas 2.6-7 mm, lanceolate, apices acute; anthers 3, vestigial (0.1-0.2 mm) or (1.3)1.8-4 mm.</description>
+  <discussion>The seven species of the Poa nervosa complex are typically forest species, with broad, flat leaf blades and short rhizomes. They exhibit breeding systems ranging from sequential gynomonoecy to dioecy. In populations of species with sequential gynomonoecy, plants with only bisexual florets exist in roughly the same number as plants that produce pistillate florets. In most of those producing pistillate florets, the number of pistillate florets increases as the growing season progresses. The pistillate florets are initially concentrated in the lower spikelets of the panicles and the upper florets within these spikelets; they later develop throughout the panicle.</discussion>
+</bio:treatment>

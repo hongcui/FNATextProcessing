@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bouteloua curtipendula (Michx.) Torr. </name_authority_date>
+  </taxon_identification>
+  <common_names>SIDEOATS GRAMA</common_names>
+  <description type="morphology">Plants perennial; cespitose or not, with or without rhizomes. Culms 8-80 cm, erect or decumbent, solitary or in small to large groups. Leaves evenly distributed; sheaths mostly glabrous, sometimes with hairs distally; ligules 0.3-0.5 mm, membranous, ciliate; blades 2-30 cm long (1.4)2.5-7 mm wide, at least some over 2.5 mm wide, flat or folded when dry, usually smooth abaxially and scabrous adaxially, occasionally pubescent, bases usually with papillose-based hairs on the margins. Panicles 13-30 cm, secund, with (12)30-80 reflexed branches; branches (5)10-30(40) mm, deciduous, with (1)2-7(15) spikelets, axes terminating 3-5 mm beyond the base of the terminal spikelets, apices entire; disarticulation at the base of the branches. Spikelets appressed, all alike, with 1 bisexual and 1-2 sterile, rudimentary florets. Glumes unequal, glabrous or scabrous; lower glumes 2.5-6 mm, 1/2 or more as long as the upper glumes; upper glumes 5.5-8 mm; lowest lemmas 3-6.5 mm, glabrous or scabrous-strigose, often minutely rugose, acute or inconspicuously 3-lobed, 3-veined, veins usually extending as short mucros or awns to 6 mm; central mucros or awns not flanked by membranous lobes; lowest paleas acute, unawned; anthers 1.5-3.5 mm, yellow, orange, red, or purple; distal floret(s) 0.4-3.5 mm, sterile, variable, usually a glabrous lemma having a short membranous base, no palea, and 3 unequally-developed awns, central awns 1.5-7 mm. 2n = (20), 40, 41-103.</description>
+  <discussion>Bouteloua curtipendula is a common, often dominant or co-dominant species in open grasslands and wetlands of the drier portions of the central grasslands of North America. It is highly regarded as a forage species and is also an attractive ornamental. Its range extends from the Flora region through Mexico and Central America to western South America.
+As the range of chromosome numbers suggests, B. curtipendula is an apomictic species. There are three varieties. Two of the three grow in the Flora region; the third, B. curtipendula var. tenuis Gould & Kapadia, is endemic to Mexico.
+</discussion>
+  <key>
+    <key_body>
+1. Plants long-rhizomatous; culms solitary or in small clumps   .....var. curtipendula
+1. Plants not long-rhizomatous, bases sometimes knotty with short rhizomes; culms in large or small clumps.....var. caespitosa
+
+    </key_body>
+  </key>
+</bio:treatment>

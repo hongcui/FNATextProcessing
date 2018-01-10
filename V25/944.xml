@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Orcuttia inaequalis Hoover </name_authority_date>
+  </taxon_identification>
+  <common_names>SAN JOAQUIN ORCUTTGRASS</common_names>
+  <description type="morphology">Plants cespitose, conspicuously hairy, grayish. Culms 5-15(25) cm, usually ascending to erect, occasionally     spreading and forming mats. Leaves usually without a "collar" line; blades 1-4 cm long,  2-4  mm wide. Spikes 2-3.5(5) cm, more or less capitate, usually densely congested; lower and upper internodes 1-4 mm. Spikelets with 4-20(30) florets. Glumes subequal, about 3 mm, irregularly toothed; lemmas 4-5 mm, teeth about 1/2 as long as the lemma, central tooth conspicuously longer than the others, teeth sharp, if awn-tipped, awns less than 0.5 mm; paleas about equal to the lemmas; anthers about 2 mm. Caryopses 1.3-1.5 mm, broadly elliptical; embryos about as long as the caryopses. 2n = 24.</description>
+  <discussion>Orcuttia inaequalis grows at elevations below 575 m in Fresno, Madera, Merced, Stanislaus, and Tulare counties, California. It is listed as a threatened species by the U.S. Fish and Wildlife Service.</discussion>
+</bio:treatment>

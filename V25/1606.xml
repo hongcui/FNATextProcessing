@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Schizachyrium spadiceum (Swallen) Wipff </name_authority_date>
+  </taxon_identification>
+  <common_names>HONEY BLUESTEM</common_names>
+  <description type="morphology">Plants cespitose. Culms 60-95 cm, slender, erect, glabrous. Leaves glaucous; sheaths compressed, scabridulous, glabrous or almost so; ligules 1-1.5 mm, truncate, erose-ciliate; blades 10-25 cm long, 2-2.5 mm wide, flat, scabrous, young blades ciliate basally. Peduncles 5-9 cm, mostly erect, often included in the subtending leaves, with 2 rames; rames 3.5-5 cm, enclosed or exerted at maturity; internodes 4-6.3 mm, ciliate proximally, densely villous on the distal 1/2 - 2/3, hairs 4-7 mm. Sessile spikelets 7-8 mm; calluses 0.2-0.5 mm, hairs 1-2 mm; lower glumes glabrous, keels scabridulous distally; awns 14.5-17.5 mm, once-geniculate. Pedicels 5-6 mm, hairs 5-7 mm. Pedicellate spikelets 0.8-4 mm, sterile, unawned. 2n = unknown.</description>
+  <discussion>Schizachyrium spadiceum was once thought to be a Mexican endemic, but it is now known from limestone slopes in Brewster County, Texas.</discussion>
+</bio:treatment>

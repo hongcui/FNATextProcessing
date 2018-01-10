@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sclerochloa dura (L.) P. Beauv. </name_authority_date>
+  </taxon_identification>
+  <common_names>HARDGRASS, FAIRGROUND GRASS</common_names>
+  <description type="morphology">Plants often matted, occasionally with solitary culms. Culms 2-15(30) cm, usually prostrate to procumbent, sometimes ascending, glabrous. Leaves strongly overlapping, generally exceeding the inflorescences; sheaths completely open or closed to 1/2 their length; ligules (0.3)0.7-2(3.5) mm, glabrous, acute; blades 0.5-5(7) cm long, 1-4 mm wide, glabrous, apices prow-tipped. Racemes 1-4(5) cm, often partially enclosed in the upper leaf sheaths; pedicels 0.5-0.8 mm thick. Spikelets (3.4)5-12 mm, with (2)3-4(7) florets. Lower glumes 1.4-3(3.7) mm; upper glumes 2.6-5.4(6.2) mm; lowest lemmas (3.4)4.5-6(7) mm, midveins scabridulous distally; distal lemmas successively smaller than the lower lemmas; anthers 0.8-1.5 mm. Caryopses weakly trigonous, rugulose. 2n = 14. </description>
+  <discussion>First collected in the United States in 1895, Sclerochloa dura is probably more widespread than indicated, because it is easily overlooked. It grows in lawns, campsites, roadsides, athletic fields, fairgrounds, and other disturbed sites. It is frequently found in severely compacted soils, because it can withstand heavy traffic by vehicles and pedestrians.
+Sclerochloa dura is sometimes confused with Poa annua. The two species are superficially similar, occupy similar habitats, and have a similar phenology, but S. dura has blunt, glabrous lemmas and racemose inflorescences, whereas P. annua has obtuse to acute lemmas that are smooth and usually sericeous or crisply puberulent over the veins, and paniculate inflorescences. Plants of S. dura become stramineous in age, making them easy to locate because areas dominated by this species change color.
+</discussion>
+</bio:treatment>

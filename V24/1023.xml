@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>20</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Calamagrostis nutkaensis (J. Presl) Steud. </name_authority_date>
+  </taxon_identification>
+  <common_names>PACIFIC REEDGRASS</common_names>
+  <description type="morphology">Plants sometimes with sterile culms; densely cespitose, with rhizomes usually shorter than 3 cm, rarely to 6 cm long, 1.5-3 mm thick. Culms (42)55-105 (150) cm, stout, unbranched, smooth or slightly scabrous beneath the panicles; nodes 1-2(3). Sheaths and collars smooth; ligules (0.5)1-4(5.5) mm, usually truncate, entire, often hidden by the expanded collars; blades (4)10-41(56) cm long, (2)4-10(20) mm wide, flat, usually erect, abaxial surfaces smooth, adaxial surfaces smooth or slightly scabrous, glabrous or sparsely hairy. Panicles (8)12-23(33) cm long, (1.1)2-4.5(9) cm wide, contracted to somewhat loose, erect to slightly nodding, greenish yellow to purple-tinged; branches 2.7-7(10.5) cm long, sparsely scabrous, spikelets usually confined to the distal 1/2. Spikelets 4.5-6.5(8) mm; rachilla prolongations 0.5-1 mm, hairs 1-1.5 mm. Glumes keeled, smooth or infrequently scabrous on the keels, lateral veins somewhat prominent, apices acuminate; callus hairs (1)2-2.5(3) mm, (0.2)0.5-0.7 times as long as the lemmas, sparse; lemmas (3)4-4.5(5) mm, (0.4)0.8-1.2(1.9) mm shorter than the glumes; awns 1-3 mm, attached on the lower 1/3-1/2 of the lemmas, not exserted, easily distinguished from the callus hairs, straight or slightly bent; anthers (1)2.4-2.6(3.3) mm. 2n = 28.</description>
+  <discussion>Calamagrostis nutkaensis grows in wetlands and openings in coniferous forests, on marine and freshwater beaches and dunes, and, sometimes, on cliffs. It is usually found within a few kilometers of the marine shoreline at or near sea level, but it sometimes occurs as high as 800 m on the Brooks Peninsula of Vancouver Island, British Columbia; at 700 m and 1100 m in the Siskiyou Mountains, Oregon; and at 1100 m on Bald Mountain, California. It grows along the Pacific coast of North America from the Aleutian Islands in Alaska to San Luis Obispo County, California, and also in the Kamchatka Peninsula of Russia.
+A hybrid between Calamagrostis nutkaensis and Ammophila arenaria (p. 777) was reported in the 1970s from the vicinity of Newport-Waldport in coastal Oregon, where both species grow (Kenton Chambers, pers. comm.). There is no voucher to support this report.
+</discussion>
+</bio:treatment>

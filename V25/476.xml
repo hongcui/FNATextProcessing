@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Orcuttia tenuis Hitchc.</name_authority_date>
+  </taxon_identification>
+  <common_names>SLENDER ORCUTTGRASS</common_names>
+  <description type="morphology">Plants sometimes weakly cespitose, but often with a single main culm branching 2-10 cm above the base, sparsely hairy. Culms 5-15(25) cm tall, 0.5-1 mm thick, often strictly erect, but sometimes decumbent when "top heavy" from profuse branching above. Leaves usually without a "collar" line; blades 1-3 cm long, 1.5-2 mm wide. Spikes 5-10 cm, more congested distally than basally; lower internodes 5-15 mm; upper internodes 2-7 mm. Spikelets with 5-20 florets. Glumes subequal or the lower glumes a little shorter than the upper, 3-6 mm, with 3-5 teeth to 1 mm; lemmas 4.5-6 mm, acute or awn-tipped teeth about equal and 1/2 as long as the lemma, spreading or slightly recurved; paleas slightly shorter than the lemmas; anthers about 3 mm. Caryopses about 3 mm, narrowly oblong; embryos nearly as long as the caryopses. 2n = 26.</description>
+  <discussion>Orcuttia tenuis grows at 25-100 m in Shasta and Tehama counties of the Central Valley of California, with outlying populations in Sacramento County and the lower montane regions of Lake, Shasta, and Siskiyou counties, California. It is listed as a threatened species by the U.S. Fish and Wildlife Service.</discussion>
+</bio:treatment>

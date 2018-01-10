@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus interruptus Buckley </name_authority_date>
+  </taxon_identification>
+  <common_names>SOUTHWESTERN WILDRYE</common_names>
+  <description type="morphology">Plants cespitose, not rhizomatous, usually glaucous. Culms usually (40)60-100(120) cm, erect or the bases somewhat decumbent; nodes 4-8, usually exposed, glabrous. Leaves evenly distributed; sheaths usually glabrous, occasionally hirsute; auricles 0-2 mm, pale or reddish brown; ligules to 1 mm; blades 3-9 mm wide, lax, pale green, adaxial surfaces densely short-pilose, hispidulous, or scabridulous, especially on the veins. Spikes 5-20 cm long, 2-5 cm wide, erect to slightly nodding, with 2 spikelets per node; internodes (5)8-14 mm long, 0.2-0.3 mm thick at the thinnest sections, without pronounced dorsal angles, often with green lateral bands, glabrous beneath the spikelets. Spikelets (6)9-15(22) mm, somewhat to strongly divergent, with 2-5 florets, lowest florets functional; disarticulation above the glumes and beneath each floret. Glumes subequal, 15-30 mm including the weakly differentiated awns, the basal 0-1 mm subterete and indurate, glume bodies, when distinguishable, about 6-10 mm long, (0.2)0.3-0.5(0.7) mm wide, linear-setiform to setaceous, entire, widening or parallel-sided above the base, 1-3-veined, glabrous or scabridulous, margins firm, awns straight or flexuous; lemmas 7-10 mm, smooth or scabridulous, occasionally hirtellous especially near the margins, awns 15-22 mm, straight to moderately outcurving; paleas 6-9 mm, obtuse or narrowly truncate, sometimes emarginate; anthers 2-4.5 mm. Anthesis May to July. 2n = 28.</description>
+  <discussion>Elymus interruptus grows in dry to moist, rocky soil, often in canyons, open woods, and thickets, in the southwestern United States and northern Mexico. Apparent intermediates between E. interruptus and E. canadensis (p. 303) have been collected north of the documented range of typical E. interruptus in Arizona, New Mexico, and Iowa. Plants in the Ozark and Ouachita mountains, especially in Arkansas, that were previously referred to E. interruptus are now included in E. churchii (p. 314).
+Elymus interruptus is a poorly understood southern species that, at one extreme, used to be included in E. canadensis or, at the other extreme, used to include E. churchii, E. svensonii (p. 314), and E. diversiglumis (p. 316), three species that seem more closely allied to E. hystrix (p. 316). Campbell (2002) suggested E. interruptus may have arisen from the introgression of E. hystrix or a related species into E. canadensis var. brachystachys. Artificial crosses between E. hystrix and E. canadensis were generally unsuccessful, but yielded some plants resembling E. interruptus (Church 1954). Elymus interruptus has been crossed with E. canadensis, E. hystrix, E. svensonii, E. virginicus (p. 298), E. glabriflorus (p. 296) and E. diversiglumis; only the hybrids with E. diversiglumis were completely sterile (Church 1954, 1967a; Brown and Pratt 1960).
+</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Hordeum secalinum Schreb. </name_authority_date>
+  </taxon_identification>
+  <common_names>FALSE-RYE BARLEY, MEADOW BARLEY</common_names>
+  <description type="morphology">Plants perennial; loosely cespitose. Culms to 85 cm, erect, usually slender, not bulbous; nodes glabrous. Sheaths, at least the basal sheaths, densely pubescent; auricles to 1 mm, present on the basal leaves; blades flat or involute, surfaces scabrous, densely pilose. Spikes 3-7 cm. Glumes 8-15 mm, setaceous throughout, straight, slightly divergent at maturity. Central spikelets sessile; lemmas 5.7-9.9 mm, glabrous, awned, awns 5-15.4 mm, scabrous; anthers 3.5-5 mm, yellow. Lateral spikelets usually staminate, occasionally bisexual; lemmas 3.7-6.9 mm, usually glabrous, sometimes sparsely pilose, awns 1.4-5.8 mm; anthers 1.7-3.3 mm. 2n = 28.</description>
+  <discussion>Hordeum secalinum is native to Europe, where it grows in moist, saline areas, often in coastal meadows. It does not grow in the Flora region; reports from North America (Baum 1978) were based on specimens of Hordeum brachyantherum, from which H. secalinum differs in having auricles on the basal leaves and longer anthers. It is treated here to aid those interested in distinguishing between the two species.</discussion>
+</bio:treatment>

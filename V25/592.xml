@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Digitaria patens (Swallen) Henrard </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, neither rhizomatous nor stoloniferous. Culms 40-90 cm, erect, sometimes geniculate, not rooting, at the lower nodes. Leaves mainly cauline; basal sheaths villous; upper sheaths glabrous or sparsely to densely hirsute, hairs papillose-based; ligules (1)1.5-4 mm, entire to lacerate; blades 5-15 cm long, 1-4 mm wide, glabrous or sparsely pubescent. Panicles with 4-10 spikelike primary branches on (4)10-18 cm rachises; primary branches 4-10 cm, usually divergent at maturity, varying to ascending, axes not wing-margined, bearing spikelets in unequally pedicellate pairs; internodes (4.5)6-15 mm (mid-branch); secondary branches rarely present; shorter pedicels 2-2.5 mm; longer pedicels 7-8 mm; terminal pedicels of primary branches 7.4-20 mm. Spikelets homomorphic, 3.7-5.8 mm (including pubescence), 2.9-4.3 mm (excluding pubescence). Lower glumes 0.3-0.5 mm; upper glumes 2.4-3.5 mm (excluding pubescence), 3-veined, densely villous, hairs 1.5-4 mm, silvery-white to purple, spreading at maturity; lower lemmas 2.8-4.2 mm (excluding pubescence), exceeding the upper lemmas by 0.8-2.2 mm, 5-veined and the veins equally spaced or 7-veined and the lateral veins closer to each other than to the central vein, margins densely villous, hairs 1.5-4 mm, silvery-white to purple, spreading at maturity, apices acuminate; upper lemmas 2.6-3.2 mm, lanceolate, brown when immature, dark brown at maturity, acuminate. 2n = 72.</description>
+  <discussion>Digitaria patens is endemic to southwestern and southern Texas and adjacent Mexico. It grows in well-drained, usually sandy, soils, often in disturbed habitats. Gould (1975) suggested that it might be an octoploid derivative of D. californica.</discussion>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>26</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Agrostis microphylla Steud. </name_authority_date>
+  </taxon_identification>
+  <common_names>SMALL-LEAF BENT</common_names>
+  <description type="morphology">Plants annual. Culms 8-45 cm, erect. Leaves usually mostly cauline, sometimes mostly basal; sheaths glabrous or pubescent; upper sheaths usually inflated; ligules 1.4-4.5 mm, dorsal surfaces scabridulous, apices truncate to acute, lacerate to erose; blades 3-15 cm long, 0.7-2.5 mm wide, flat, becoming involute, finely scabrous. Panicles 2-12 cm long, 0.4-2 cm wide, cylindrical, spikelike, dense, occasionally lobed or interrupted near the base, appearing bristly from the awns, usually exserted from the upper sheaths at maturity; branches 0.3-1.5 cm, scabrous to scabridulous, ascending to appressed, spikelet-bearing to the base and hidden by the spikelets; pedicels 0.3-3 mm. Spikelets lanceolate, greenish to yellowish, tinged with purple. Glumes equal to subequal, 2.5-5 mm, scabrous over the midvein and often scabridulous on the body, 1-veined, apices narrowly acuminate to awn-tipped, awns to 1.5 mm; callus hairs to 0.5(1) mm, usually dense; lemmas 1.5-2.3 mm, scabrous, translucent to opaque, 5-veined, veins prominent distally, apices acute, veins extended into 2(4) teeth, teeth 0.1-0.5 mm, awned from about midlength or above, awns 3.5-8 mm, geniculate; paleas absent, or to 0.2 mm and thin; anthers 3, 0.4-0.6 mm, often retained at the apices of the caryopses. Caryopses 0.9-1.3 mm; endosperm soft. 2n = 56.</description>
+  <discussion>Agrostis microphylla grows in thin, rocky soils, sandy areas, cliffs, vernal pools, and serpentine areas. It is a winter annual, flowering in late winter to spring, adapted to low-competition habitats with summer drought. It may be related to, or conspecific with, Agrostis hendersonii (see previous).
+Agrostis microphylla grows mostly along the Pacific coast from British Columbia to northern Baja California, Mexico. Reports of A. microphylla from the Humboldt Mountains, Nevada, reflect Vasey's treat¬ment of a specimen of A. exarata as the type of a new variety, A. microphylla var. major Vasey.
+</discussion>
+</bio:treatment>

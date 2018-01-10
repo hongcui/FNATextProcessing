@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Cynodon dactylon var. aridus J.R. Harlan & de Wet</name_authority_date>
+  </taxon_identification>
+  <description type="morphology"></description>
+  <discussion>A cultivar of this variety, 'Giant', has been introduced to the Yuma region of Arizona (Harlan et al. 1970).</discussion>
+</bio:treatment>

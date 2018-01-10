@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Tuctoria mucronata (Crampton) Reeder </name_authority_date>
+  </taxon_identification>
+  <common_names>PRICKLY SPIRALGRASS</common_names>
+  <description type="morphology">Culms to 12 cm, ascending, often decumbent or geniculate at the base; nodes usually concealed by the leaves. Blades 2-4 cm, involute, usually curved outward, tapering to a fine point. Spikes 1.5-6 cm, more or less included in the upper sheaths at maturity, congested throughout; internodes 1-2 mm. Spikelets with 5-10 florets. Glumes subequal (or the lower slightly shorter than the upper), 4-7 mm, mucronate, sometimes with 1 or 2 short lateral teeth; lemmas 5-7 mm, prominently 11-15-veined, apices erose or with a few minute teeth, central vein extending into a prominent mucro as much as 1 mm long; paleas slightly shorter than the lemmas; anthers about 3 mm, yellow, becoming pinkish in drying; lodicules about 0.5 mm, fused to the paleas. Caryopses about 3 mm, laterally compressed, broadly oblong, smooth. 2n = 40.</description>
+  <discussion>Tuctoria mucronata is known from only two locations in Solano County, California; both locations are at elevations below 10 m.</discussion>
+</bio:treatment>

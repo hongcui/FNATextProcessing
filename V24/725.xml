@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa alpina subsp. vivipara (L.) Arcang.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Spikelets all bulbiferous, or some normal and some bulbiferous. Anthers aborted late in development or not developed. 2n = 22, 24, 25, 26, 27, 28, 31, 32, 33.</description>
+  <discussion>Poa alpina subsp. vivipara grows at scattered locations in Greenland, and has been reported for Alaska. It is common in alpine regions of northern and central Europe.
+</discussion>
+</bio:treatment>

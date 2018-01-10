@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>20</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis minor Host </name_authority_date>
+  </taxon_identification>
+  <common_names>LITTLE LOVEGRASS, ERAGROSTIDE FAUX-PATURIN</common_names>
+  <description type="morphology">Plants annual; tufted, without innovations. Culms 10-45 cm, erect to decumbent, sometimes with a ring of glandular tissue below the nodes. Sheaths sometimes glandular on the midveins, hairy at the apices, hairs	to 4 mm; ligules 0.2-0.5 mm, ciliate; blades 1.5-10 cm long, 1-3(4) mm wide, flat, glabrous or sparsely white-hairy, margins sometimes with crateriform glands. Panicles 4-20 cm long, 2.2-8(10) cm wide, ovate, open to contracted, rachises sometimes with glandular spots or pits below the nodes, rarely with a glandular ring, glands usually dull, greenish-gray to stramineous; primary branches 0.5-6 cm, diverging 20-100° from the rachises; pulvini glabrous or hairy; pedicels 1-4 mm, stiff, straight, divergent, usually with a distal ring of crateriform glands. Spikelets 4-7(11) mm long, 1.1-2.2 mm wide, narrowly ovate, mostly reddish-purple to greenish, occasionally grayish, with 7-12(20) florets; disarticulation acropetal, paleas persistent. Glumes broadly ovate, membranous; lower glumes 0.9-1.4 mm; upper glumes 1.2-1.6 mm; lemmas 1.4-1.8 mm, broadly ovate, membranous, keels occasionally with 1-2 crateriform glands, apices acute to obtuse; paleas 1.3-1.7 mm, hyaline, keels smooth or scabridulous, scabridities to 0.1 mm, apices obtuse to acute; anthers 2, 0.2-0.3 mm, reddish-brown. Caryopses 0.4-0.7 mm, ellipsoid, not grooved, striate, light brown. 2n = 40.</description>
+  <discussion>Eragrostis minor is a European species that now grows in gravelly roadsides and disturbed sites, especially near railroad yards, at 20-1600 m in southern Canada and the contiguous United States.</discussion>
+</bio:treatment>

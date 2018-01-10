@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>65</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa tenerrima Scribn. </name_authority_date>
+  </taxon_identification>
+  <common_names>DELICATE BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; densely tufted, basal leaf tufts 2-8(13) cm, small, narrowly based, not stoloniferous, not rhizomatous. Basal branching intravaginal. Culms 15-50 cm tall, slender, 0.8-0.9 mm thick; nodes terete, 0-1 exserted. Sheaths closed for 76-74 their length, terete, scabrous, glabrous, bases of basal sheaths glabrous, distal sheath lengths 2.3-7.7 times blade lengths; collars sparsely scabrous, glabrous; ligules 0.5-1.5(2.5) mm, scabrous, apices usually truncate to obtuse, sometimes acute, ligules of innovations to 0.5 mm; innovation blades filiform; cauline blades gradually reduced in length upwards, 0.4-1.5 mm wide, mostly folded, thin, soft, soon withering, scabrous, apices narrowly prow-shaped. Panicles 5-15 cm, 1.3-2.2 times the branch lengths, erect, broadly rhomboidal to pyramidal, open, purple, sparse, proximal internodes 1.5-4.2 cm; nodes with 1-2(5) branches; branches 3-8.5 cm, widely spreading, capillary, straight, terete to weakly angled, moderately to mostly densely scabrous, with 3-9 spikelets in the distal 73. Spikelets 5-8 mm, lengths (3.8)4-5 times widths, usually narrowly lanceolate to lanceolate, subterete to weakly laterally compressed, drab, usually strongly anthocyanic; florets 3-5; rachilla internodes 1-1.5+ mm, terete or slightly dorsally compressed, muriculate or scabrous. Glumes lanceolate, distinctly shorter than the adjacent lemmas, scabrous distally, keels indistinct, scabrous, obtuse to acute; lower glumes 3-veined; calluses glabrous or with a crown of hairs, hairs to 0.3 mm; lemmas 3-4.2 mm, lanceolate, weakly keeled, keels, veins, and proximal 2/3 of the intercostal regions puberulent, lateral veins obscure, margins strongly inrolled below, broadly scarious above, glabrous, apices obtuse to acute; palea keels scabrous, sometimes hairy at midlength; anthers 1.6-2.1 mm. 2n = 42.</description>
+  <discussion>Poa tenerrima is a rare species, endemic to serpentine barrens along the western base of the Sierra Nevada. It differs from P. secunda subsp. secunda (see previous) in combining consistently wide, open panicles, very scabrous branches, short-truncate ligules, and very fine foliage. A series of small, delicate, open-panicled plants from the California Coast Ranges, formerly included in P. tenerrima by Soreng (1993), differ in having smooth branches and longer ligules, and are better referred to P. secunda subsp. secunda. No intergradation is evident where the two taxa grow together. Plants from the Columbia River Gorge in Oregon, including the type of P. multnomae Piper, approach P. tenerrima, but are presumed to be derived from hybridization between P. nervosa (p. 545) and P. secunda (p. 586).</discussion>
+</bio:treatment>

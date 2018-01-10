@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Kelly W. Allred</author>
+    </source>
+  </meta>
+  <number>26.07</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>TRACHYPOGON Nees</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; cespitose or shortly rhizomatous. Culms 30-200 cm, unbranched; internodes semi-solid. Leaves cauline, not aromatic; sheaths shorter than the internodes, rounded; ligules membranous; blades flat to involute. Inflorescences terminal, solitary racemes of heterogamous subsessile-pedicellate spikelets pairs (rarely of 2 digitate spikelike branches), axes slender, without a translucent median groove; disarticulation beneath the pedicellate spikelets. Subsessile spikelets staminate or sterile, without a callus and unawned, otherwise similar to the pedicellate spikelets. Pedicels slender, not fused to the rames axes. Pedicellate spikelets bisexual; calluses sharp, strigose; glumes firm, enclosing the florets; lower glumes several-veined, encircling the upper glumes; upper glumes 3-veined; lower florets sterile; upper florets bisexual, lemmas firm but hyaline at the base, tapering to an awn; awns (4)6-15 cm, twisted, pubescent to plumose; paleas absent; anthers 3. x = 10. </description>
+  <discussion>Trachypogon is a tropical or warm-temperate genus that is native to Africa and tropical to subtropical America. Estimates of the number of species included range from one to ten. One species, Trachypogon secundus, is native to the Flora region, but some taxonomists (e.g., Davila 1994) include it in T. plumosus (Humb. & Bonpl. ex Willd.) Nees and others (e.g., Judziewicz 1990) include it, T. plumosus, and various other taxa in T. spicatus (L. f.) Kuntze. The traditional treatment and nomenclature for North American plants is retained here, pending formal study of the taxa involved.</discussion>
+  <references>Davila, RD. 1994. Trachypogon Nees. Pp. 380-381 in G. Davidse, M. Sousa S., and A.O. Chater (eds.). Flora Mesoamericana, vol. 6: Alismataceae a Cyperaceae. Universidad Nacional Autonoma de Mexico, Institute de Biologia, Mexico, D.F., Mexico. 543 pp.; Judziewicz, E.J. 1990. Flora of the Guianas: 187. Poaceae (Gramineae). Series A: Phanerogams, Fascicle 8 (series ed. A.R.A. Gorts-Van Rijn). Koeltz Scientific Books, Koenigstein, Germany. 727 pp.</references>
+</bio:treatment>

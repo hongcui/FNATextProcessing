@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sorghastrum secundum (Elliott) Nash </name_authority_date>
+  </taxon_identification>
+  <common_names>LOPSIDED INDIANGRASS</common_names>
+  <description type="morphology">Plants not rhizomatous. Culms 90-180 cm tall, 1.5-3 mm wide; internodes glabrous or pubescent beneath the nodes. Sheaths usually glabrous, occasionally pubescent in young plants; ligules 2.5-4(5.7) mm; blades 20-50 cm long, (1.8)3-6 mm wide, scabrous, particularly on the adaxial surfaces. Panicles 15-40 cm, straight to slightly arching, secund, somewhat open; nodes glabrous or almost so; branches erect or nearly so. Spikelets 6-8 mm long, 0.8-1.2 mm wide, lanceolate, dark brown to golden brown at maturity. Calluses 1-1.2 mm, blunt, densely bearded; lower glumes 6-7.5 mm, pubescent, truncate, 7-9-veined; upper glumes 6.5-8 mm, glabrous, acuminate, 5-veined; awns 30-40 mm, 4-5 times longer than the spikelets, twice-geniculate, dark brown; anthers 2.5-4.5 mm. Caryopses 2-3 mm. Pedicels 4-7.5 mm, pubescent, sharply curved to recurved. 2n = 20.</description>
+  <discussion>Sorghastrum secundum grows in woodlands, sandy soils, and occasionally at the edges of marshes, at elevations below 1000 m. Its native range extends north and west from Florida to the Appalachian Mountains; other records probably reflect introductions. The mountains may have effectively prevented its further spread to the northwest.
+Sorghastrum secundum is easily confused with plants of S. elliottii that are not at anthesis, because both species have straight to slightly arching panicles with ascending branches. However, the rachis nodes of S. secundum are glabrous or almost glabrous.
+</discussion>
+</bio:treatment>

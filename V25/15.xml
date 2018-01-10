@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Kelly W. Allred</author>
+    </source>
+  </meta>
+  <number>16</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>tribe</rank>
+    <name_authority_date>ARUNDINEAE Dumort.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology"></description>
+  <discussion>See subfamily description.
+There are still questions about the circumscription of the Arundineae, but it clearly includes the genera in this treatment. Its morphological circumscription is also difficult. The most abundant genera in North America, Phragmites and Arundo, have tall culms bearing numerous, conspicuously distichous, broad leaves and large, plumose panicles, a habit frequently described as "reedlike", but not all members of the tribe have this habit. Linder et al. (1997) noted that Arundo, Phragmites, and Molinia have hollow culm internodes, punctate hila, and convex sides to the adaxial ribs in the leaf blades, but these characters have not been examined in all genera of the tribe.
+Members of the Arundineae are found in tropical and temperate areas around the world. The reedlike species are found in marshy to damp soils, but some of the other species grow in xeric habitats.
+</discussion>
+  <references>Linder, H.P., G.A. Verboom, and N.P. Barker. 1997. Phylogeny and evolution in the Crinipes group of grasses (Arundinoideae: Poaceae). Kew Bull. 52:91-110.</references>
+  <key>
+    <key_body>
+1. Plants cespitose, not rhizomatous; rachillas and lemmas glabrous.....16.01 Molinia
+1. Plants rhizomatous or stoloniferous, sometimes also loosely cespitose; rachillas or lemmas hairy.
+2. Lemmas glabrous  .....16.03 Phragmites
+2. Lemmas hairy.
+3. Rachilla segments hairy; lemmas with papillose-based hairs on the margins.....16.02 Hakonechloa
+3. Rachilla segments glabrous; lemmas pilose, the hairs not papillose-based.....16.04 Arundo
+
+    </key_body>
+  </key>
+</bio:treatment>

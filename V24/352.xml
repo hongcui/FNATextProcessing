@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Hordeum marinum Huds. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual; loosely tufted. Culms to 50 cm, straight to geniculate; nodes glabrous. Basal sheaths somewhat hairy; ligules 0.2-0.5 mm; auricles usually absent or to 0.3 mm; blades to 8 cm long, 1-6 mm wide, sparsely to densely hairy on both sides. Spikes 1.5-7 cm long, 5-10(20) mm wide, dense, green or more or less purplish on the awns and glumes; rachises disarticulating at maturity, triplets not breaking up immediately after maturity. Glumes straight, ascending to slightly divergent at maturity. Central spikelets: glumes 14-26 mm long, 0.2-1.1 mm wide basally, setaceous distally; lemmas 5-8 mm, usually smooth or somewhat scabrous, sometimes pubescent, awned, awns 6-18 mm; anthers 0.8-1.3 mm, yellowish. Lateral spikelets sterile; lower glumes setaceous or winged, wings 0.5-2.3 mm wide; upper glumes setaceous; lemmas 4-6 mm, awned, awns 3-8 mm. 2n = 14, 28.</description>
+  <discussion>Hordeum marinum is native to Eurasia, where it grows in disturbed habitats. It has become established  
+in similar habitats in western North America, and in scattered locations elsewhere. Two subspecies are recognized; both are found in the Flora region.
+</discussion>
+  <key>
+    <key_body>
+1. Lower glumes of the lateral spikelets usually setaceous, not winged   .....subsp. gussoneanum
+1. Lower glumes of the lateral spikelets with a flattened wing, the wings 0.5-2.3 mm wide .....subsp. marinum
+
+    </key_body>
+  </key>
+</bio:treatment>

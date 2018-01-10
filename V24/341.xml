@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Roland von Bothmer</author>
+      <author>Claus Badenf</author>
+      <author>Niels H. Jacobsen</author>
+    </source>
+  </meta>
+  <number>13.01</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>HORDEUM L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants summer or winter annuals or perennials; cespitose, sometimes shortly rhizomatous. Culms to 135(150) cm, erect, geniculate, or decumbent; nodes glabrous or pubescent. Sheaths open, pubescent or glabrous; auricles present or absent; ligules hyaline, truncate, erose; blades flat to more or less involute, more or less pubescent on both sides. Inflorescences usually spikelike racemes, sometimes spikes, all customarily called spikes, with 3 spikelets at each node, central spikelets usually sessile, sometimes pedicellate, pedicels to 2 mm, lateral spikelets usually pedicellate, pedicels curved or straight, sometimes all 3 spikelets sessile in cultivated plants; disarticulation usually in the rachises, the spikelets falling in triplets, cultivated forms generally not disarticulating. Spikelets with 1 floret; glumes awnlike, usually exceeding the floret. Lateral spikelets usually sterile or staminate, often bisexual in cultivated forms; florets pedicellate, usually reduced; lemmas awned or unawned. Central spikelets bisexual; florets sessile; rachillas prolonged beyond the floret; lemmas ovate, glabrous to pubescent, 5-veined, usually awned, rarely unawned; paleas almost equal to the lemmas, narrowly ovate, keeled; lodicules 2, broadly lanceolate, margins ciliate; anthers 3, usually yellowish. Caryopses usually tightly enclosed in the lemma and palea at maturity. 2n = 14, 28, 42. </description>
+  <discussion>Hordeum is a genus of 32 species that grow in temperate and adjacent subtropical areas, at elevations from 0-4500 m. The genus is native to Eurasia, the Americas, and Africa, and has been introduced to Australasia. The species are confined to rather moist habitats, even on saline soils. The annual species occupy seasonally moist habitats that cannot sustain a continuous grass cover.
+Some species of Hordeum, such as H. marinum and H. murinum, are cosmopolitan weeds. Hordeum vulgare is widely cultivated for feed, malt, and flour. Archeological records suggest that Hordeum and Triticum were two of the earliest domesticated crops.
+Eleven species of Hordeum grow in the Flora region: six are native, three are established weeds, and two are cultivated and occasionally persist as weeds. Hordeum secalinum has been reported from the Flora region, but the reports are based on misidentifications.
+Four different haplomes are present in Hordeum. Hordeum vulgare and H. bulbosum have the I genome (often called the H genome by plant breeders), North American diploid species are based on the H genome, diploid H. marinum on the X genome, and diploids in the H. murinum group on the Y genome. Relationships among the polyploid taxa are complex (Jakob and Blattner 2006).
+Spike measurements and lemma lengths, unless stated otherwise, do not include the awns.
+</discussion>
+  <references>Baum, B.R. 1978. The status of Hordeum brachyantherum in eastern Canada, with related discussions. Canad. J. Bot. 56:107-109; Baum, B.R. and L.G. Bailey. 1990. Key and synopsis of North American Hordeum species. Canad. J. Bot. 68:2433-2442; Blattner, F.R. 2006. Multiple intercontinental dispersals shaped the distribution area of Hordeum (Poaceae). New Phvtol. 169:603-614; Bothmer, R. von, N. Jacobsen, C. Baden, R.B. Jeurgensen, and I. Linde-Laursen. 1995. An Ecogeographical Study of the Genus Hordeum, ed. 2. Systematic and Ecogeographic Studies on Crop Genepools No. 7. International Board of Plant Genetic Resources, Rome, Italy. 129 pp.; Bothmer, R. von, N. Jacobsen, and R.O. Seberg. 1993. Variation and taxonomy in Hordeum depressum and in the H. brachyantherum complex (Poaceae). Nordic J. Bot. 13:3-17; Jakob, S.S. and RR. Blattner. 2006. A chloroplast genealogy of Hordeum (Poaeae): Long-term persisting haplotypes, incomplete lineage sorting, regional extinction, and the consequences for phylogenetic inference. Mol. Biol. Evol. 23:1602-1612; Moyer, J.R. and A.L. Boswall. 2002. Tall fescue or creeping foxtail suppresses foxtail barley. Canad. J. PI. Sci. 82:89-92; Petersen, G. and O. Seberg. 2003. Phylogenetic analyses of the diploid species of Hordeum (Poaceae) and a revised classification of the genus. Syst. Bot. 28:293-306.</references>
+  <key>
+    <key_body>
+1. Plants perennial.
+2. Culms usually with a bulbous swelling at the base; auricles to 5.5 mm long, well developed .....10. H. bulbosum
+2. Culms not bulbous-based; auricles absent or no more than 1 mm long.
+3. Glumes of the central spikelet flattened near the base.....6. H. arizonicum (in part)
+3. Glumes of the central spikelet usually setaceous throughout, rarely flattened near the base.
+4. Glumes 15-85 mm long, divergent to strongly divergent at maturity.....5. H. jubatum (in part)
+4. Glumes 7-19 mm long, divergent or not at maturity.
+5. Anthers of the central spikelet 0.8-4 mm long; auricles absent  .....4. H. brachyantherum
+5. Anthers of the central spikelet 3.5-5 mm long; auricles present on the basal leaves  ..... 8. H. secalinum
+1. Plants annual.
+6. Auricles to 8 mm long, well developed even on the upper leaves; lemmas of the lateral florets 6-15 mm long.
+7. Rachises disarticulating at maturity; glumes of the central spikelets ciliate; lemmas of the central florets to 2 mm wide, with awns 20-40 mm long; lateral spikelets staminate   .....9.H. murinum
+7. Rachises usually not disarticulating at maturity; glumes of the central spikelets pubescent; lemmas of the central florets at least 3 mm wide, unawned or with awns 30-180 mm long; usually 1 or both lateral spikelets at a node seed-forming   .....11. H. vulgare
+6. Auricles usually absent or to 0.3 mm long; lemmas of the lateral florets 1.7-8.5 mm long.
+8. Glumes bent, strongly divergent at maturity.
+9. Glumes of the central spikelets not flattened, (15)35-85 mm long.....5. H. jubatum (in part)
+9. Glumes of the central spikelets slightly flattened towards the base, 11-28 mm long.....6. H. arizonicum (in part)
+8. Glumes straight, ascending to slightly divergent at maturity.
+10. Lemmas of the lateral spikelets with awns 3-8 mm long.....7.H. marinum
+10. Lemmas of the lateral spikelets unawned or with awns no more than 3 mm long.
+11. Glumes of the central spikelets setaceous to slightly flattened near the base. 
+12. Spikes 4-8 mm wide; lemmas of the central spikelets with awns 3-12 mm long; ligules 0.3-0.8 mm .....long3. H. depressum
+12. Spikes 6-20 mm wide; lemmas of the central spikelets with awns 10-22  mm long; ligules 0.6-1.8 mm long .....6. H. arizonicum (in part)
+11. Glumes of the central spikelets distinctly flattened near the base.
+13. Lemmas of the lateral spikelets 1.7-4.4 mm long, usually unawned, rarely with awns to 1.2 mm long; sheaths with stripes of hairs .....1. H. intercedens
+13. Lemmas of the lateral spikelets 2.5-5.7 mm long, usually awned, with awns to 1.8 mm long; sheaths glabrous  .....2. H. pusillum
+
+    </key_body>
+  </key>
+</bio:treatment>

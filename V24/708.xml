@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Poa sect. Sylvestres V.L. Marsh ex Soreng</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; usually non-rhizomatous and non-stoloniferous, sometimes shortly rhizomatous, usually loosely tufted, infrequently densely tufted. Basal branching usually mainly pseudointravaginal, sometimes mainly extravaginal. Culms 20-126 cm, terete or weakly compressed. Sheaths closed for (1/20)1/3 to about their full length, terete or weakly keeled, basal sheaths readily deteriorating; ligules 0.1-3(4) mm, smooth or sparsely scabrous, truncate to obtuse, entire or lacerate, smooth or ciliolate; blades smooth or scabrous, glabrous, apices narrowly prow-shaped. Panicles 4-36 cm, erect or lax, pyramidal or lanceoloid, usually sparse, lower rachis internodes usually longer than (2)3 cm; nodes with 1-10 branches; branches ascending to spreading or eventually reflexed, lax or straight, angled, angles scabrous, with spikelets confined to the distal 1/5 – 1/3(1/2). Spikelets 2.5-8.2 mm, laterally compressed; florets (1)2-5(6), normal, bisexual; rachilla internodes smooth, usually glabrous, sometimes puberulent. Glumes distinctly keeled, scabrous; calluses terete or slightly laterally compressed, usually dorsally webbed, sometimes glabrous; lemmas 2.1-5 mm, lanceolate to broadly lanceolate, distinctly keeled, glabrous or hairy, apices with narrow, clear or white margins; palea keels scabrous, glabrous or with hairs over the keels; anthers 3, 0.4-2(2.6) mm.</description>
+  <discussion>Poa sect. Sylvestres includes seven species, all of which are endemic to the Flora region. Chloroplast DNA shows it to be an early diverging lineage of Poa (Gillespie and Soreng 2005).</discussion>
+</bio:treatment>

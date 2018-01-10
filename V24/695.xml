@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Lamarckia aurea (L.) Moench </name_authority_date>
+  </taxon_identification>
+  <common_names>GOLDENTOP</common_names>
+  <description type="morphology">Culms (5)10-40 cm. Ligules 3-10 mm; blades 2.5-11(20) cm long, 2.5-7.5 mm wide. Panicles 2-8 cm long, 0.9-3.2 cm wide; branches 1-2 cm, with a few scattered, whitish hairs. Fertile spikelets 2.6-4.2 mm; lower rachilla internodes about 1 mm, glabrous; upper rachilla internodes 1.4-2.2(2.6) mm, puberulent or glabrous, sometimes  scabrous;  glumes  2.6-4.2  mm,  bisexual florets 2.4-3 mm, minutely bifid, teeth shorter than 0.2 mm, apices awned, awns 5-7.2 mm; anthers 0.4-0.7 mm; rudimentary florets 0.4-0.6 mm, awns 4-5(7) mm. Sterile spikelets 6-9 mm; lemmas 1-2 mm. Caryopses 1-2 mm. 2n = 14.</description>
+  <discussion>Lamarckia aurea grows on open ground, rocky hillsides, and in sandy soil, at elevations from sea level to 700 m. Within the Flora region, it is known only from the southwest. It is an attractive, but rather weedy species.</discussion>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Poa sect. Arctopoa (Griseb.) Tzvelev</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial. Ligules 1-3.5 mm, yellow-cream to brown; blades flat, thick, apices broadly prow-shaped. Panicles 8-30 cm, erect, loosely contracted; branches 3-10 cm, steeply ascending, terete. Spikelets not bulbiferous. Glumes distinctly keeled, keels smooth; calluses of proximal lemmas usually with a crown of hairs, hairs 1-2 mm; lemmas 4.5-7 mm, thinly membranous, glabrous or the keels and marginal veins long-villous, intercostal regions glabrous or hispidulous, moderately to densely scabrous; palea keels scabrous; anthers 3, 1.7-3.2 mm.</description>
+  <discussion>Poa sect. Arctopoa has one species. It grows along boreal and low arctic coasts in North America, and from the Russian Far East to northern Japan. Poa sect. Aphydris (Griseb.) Tzvelev, the other section in the subgenus, is restricted to central and east Asia.</discussion>
+</bio:treatment>

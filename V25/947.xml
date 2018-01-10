@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>John R. Reeder</author>
+    </source>
+  </meta>
+  <number>19.02</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>TUCTORIA Reeder</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual; viscid-aromatic, more or less hairy throughout, not producing juvenile floating leaves. Culms 5-15(30) cm, simple or branching at the upper nodes, erect or ascending, often rather fragile, readily breaking apart at the nodes. Leaves without ligules, with little or no distinction between sheath and blade; blades flat, becoming involute when dry. Inflorescences terminal, clavate spikes, partially included or exserted at maturity, spikelets spirally arranged; disarticulation tardy, above the glumes and between the florets. Spikelets laterally compressed, with 5-40 florets. Glumes irregularly short-toothed or entire; lemmas (3)4-7 mm, 11-17-veined, not translucent between the veins, entire or denticulate, usually with a central mucro; paleas subequal to or slightly shorter than the lemmas; lodicules 2, 0.1-0.5 mm, sometimes fused to the paleas; anthers 3, exserted on long, slender, ribbonlike filaments at anthesis; styles 2, apical, long, filiform, stigmatic for 1/3 – 1/2 of their length; stigmatic hairs short, often sparse. Caryopses laterally compressed, pyriform to oblong, pericarp not viscid; embryos visible through the pericarp, brown, from 3/4 as long as to nearly equaling the caryopses; epiblasts present, x = 10.</description>
+  <discussion>Tuctoria has three species, all of which grow in vernal pools or similar habitats, two in the Central Valley of California and one T. fragilis (Swallen) Reeder, in Baja California Sur, Mexico. Both species found in the Flora region are endangered by loss of habitat to urbanization and agriculture.</discussion>
+  <key>
+    <key_body>
+1. Spikes exserted from the upper leaf sheaths at maturity; lemmas more or less truncate; caryopses about 2 mm long, minutely rugose  .....1. T. greenei
+1. Spikes partially included in the upper leaf sheaths at maturity; lemmas tapering gradually to a mucronate apex; caryopses about 3 mm long, smooth .....2. T. mucronata
+
+    </key_body>
+  </key>
+</bio:treatment>

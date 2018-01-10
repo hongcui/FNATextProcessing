@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subgenus</rank>
+    <name_authority_date>Setaria P. Beauv. subg. Setaria</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial. Blades seldom wider than 20 mm, flat or loosely twisted. Panicles usually contracted, spikelike; branches short, with 1 or more bristles subtending each spikelet. Spikelets obtuse or acutish. Upper lemmas transversely rugose, rarely smooth.</description>
+  <discussion>Setaria subg. Setaria is represented in subtropical and temperate regions throughout the world and is the best represented subgenus in the Flora region.</discussion>
+</bio:treatment>

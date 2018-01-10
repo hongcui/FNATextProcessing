@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum repens P.J. Bergius </name_authority_date>
+  </taxon_identification>
+  <common_names>WATER PASPALUM</common_names>
+  <description type="morphology">Plants annual; aquatic, floating or rhizomatous. Culms 4-55 cm, erect; nodes pubescent. Sheaths glabrous or pubescent; ligules 1-4 mm; blades 10-40 cm long, 8-22 mm wide, flat, glabrous or sparsely pubescent. Panicles terminal, with (7)20-70 racemosely arranged branches; branches 1.2-9.5 cm, diverging to spreading, occasion¬ally arcuate, disarticulating at maturity; branch axes 0.7-1.5 mm wide, broadly winged, glabrous, margins scabrous, extending beyond the distal spikelet. Spikelets 1.1-1.9 mm long, 0.5-0.8 mm wide, solitary, appressed to the branch axes, elliptic, pubescent, white. Lower glumes absent; upper glumes and lower lemmas veinless; upper florets white. Caryopses 0.8-0.9 mm, translucent, white. 2n = 20.</description>
+  <discussion>Paspalum repens is a native species that grows along the edges of lakes, streams, and roadside ditches in the southeastern United States. Its range extends through tropical America to Peru, Bolivia, and Argentina.</discussion>
+</bio:treatment>

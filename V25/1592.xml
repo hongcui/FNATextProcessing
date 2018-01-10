@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Andropogon virginicus L. var. virginicus</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 40-210 cm; internodes green. Leaves green or slightly glaucous, glabrous or pubescent, at least on the margins near the collar. Inflorescence units with 2-5(7) rames; subtending sheaths (2.2)3.3-4.4(5.6) mm wide; peduncles (2)3-6(12) mm; rames (0.5)1.9-3.3(4.4) cm, not exserted.</description>
+  <discussion>Andropogon virginicus var. virginicus is the widespread and weedy variety of A. virginicus that grows as a native species from the central plains through Mexico and Central America to Colombia and, as a naturalized species, in California, Hawaii, Japan, and Australia.
+Plants colonizing openings in mature vegetation created by disturbance have green culms and green, pubescent leaves. Those growing in poorly drained soils of pond margins, swales, and cutover flatwoods have glaucous culms and glabrous, green to somewhat glau-cous leaves. Glaucous plants of A. virginicus var. virginicus differ from those of var. decipiens in having no exposed rames and, often, wider sheaths subtending the inflorescence units.
+</discussion>
+</bio:treatment>

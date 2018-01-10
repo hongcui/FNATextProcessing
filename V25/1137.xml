@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthelium commutatum (Schult.) Gould </name_authority_date>
+  </taxon_identification>
+  <common_names>VARIABLE PANICGRASS</common_names>
+  <description type="morphology">Plants cespitose, with caudices or with rhizomes up to 2 mm thick. Basal rosettes well-differentiated; blades 1-14 cm long, to 22 mm wide, ovate to lanceolate. Culms 20-75 cm, erect or decumbent to sprawling, often purplish; nodes and internodes glabrous or puberulent to pubescent; fall phase initially nearly erect, often sprawl¬ing eventually, branches initially erect and apparently dichotomous, later rebranching, blades and secondary panicles smaller than those of the culms. Cauline leaves 4-6; sheaths not overlapping, often glaucous, purplish, or olivaceous, glabrous or puberulent, margins usually ciliate; ligules about 0.3 mm, membranous, ciliate, cilia longer than the membranous portion, rarely with adjacent, about 12 mm hairs; blades 5-16 cm long, 5-25 mm wide, linear to ovate-lanceolate, glabrous or puberulent, with 9-13 major veins and 30-80 minor veins, bases cordate-clasping, often asymmetrical, with papillose-based marginal cilia. Panicles 5-12 cm long, 3-10 cm wide, open, exserted; branches flexuous. Spikelets 2.2-3.2 mm long, 1.1-1.3 mm wide, ellipsoid, yellowish-green or purplish, pubescent. Lower glumes 0.7-1.8 mm; upper glumes and lower lemmas equaling or slightly shorter than the spikelets; lower florets sterile; upper florets often minutely umbonate. 2n = 18.</description>
+  <discussion>Dichanthelium commutatum is fairly common in dry to wet, semi-open woodlands. Its range extends from the eastern United States to South America. The primary panicles are open-pollinated and are produced from April through June; the secondary panicles are primarily cleistogamous and are produced from June through fall. The four subspecies are fairly distinct in some parts of their ranges, but subsp. commutatum intergrades with the other three where they occur together.</discussion>
+  <key>
+    <key_body>
+1. Culms densely crisp-puberulent; spikelets 2.2-2.7 mm long; cauline blades usually 5-8 cm long, 5-10 mm wide, thick, the bases symmetrical; rosette blades usually less than 3 cm long and to 6 mm wide .....subsp. ashei
+1. Culms usually glabrous or sparsely pubescent; spikelets 2.6-3.2 mm long; cauline blades usually more than 8 cm long and 10 mm wide, thin, bases sometimes asymmetrical; rosette blades large, some more than 4 cm long and 10 mm wide.
+2. Cauline blades nearly linear, 5-14 mm wide, about 10 times as long as wide; spikelets 3-3.2 mm long; lower glumes about 1/2 as long as the spikelets.....subsp. equilaterale
+ 
+2. Cauline blades ovate-lanceolate, 6-25 mm wide, about 4-8 times as long as wide; spikelets 2.6-3.2 mm long; lower glumes about 1/4 as long as the spikelets.
+3. Culms decumbent or sprawling, with loose caudices or rhizomes; blades strongly asymmetric-falcate, often; spikelets 2.9-3.2 mm long; lower lemmas pointed.....subsp. joorii
+3. Culms more or less erect, with caudices; blades almost symmetrical, green, sometimes glaucous; spikelets 2.6-2.9 mm long; lower lemmas rounded ..... subsp. commutatum
+
+    </key_body>
+  </key>
+</bio:treatment>

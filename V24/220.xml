@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Hesperostipa neomexicana (Thurb.) Barkworth</name_authority_date>
+  </taxon_identification>
+  <common_names>NEW MEXICAN NEEDLEGRASS</common_names>
+  <description type="morphology">Culms 40-100 cm; lower nodes glabrous. Lower sheaths glabrous or puberulent, not ciliate; ligules of lower leaves 0.5-1 mm, thickly membranous, rounded; ligules of upper leaves to 3 mm, scarious, acute; blades 0.5-1 mm wide. Panicles 10-30 cm. Glumes subequal, 30-60 mm; florets 15-18 mm; calluses 4-5 mm; lemmas evenly pubescent, hairs shorter than 1 mm; awns 120-220 mm, first 2 segments hairy, hairs mostly 0.2-1 mm, terminal segment flexible, pilose, hairs 1-3 mm. 2n = 44.</description>
+  <discussion>Hesperostipa neomexicana grows in grassland, oak, and pinyon pine associations, from 800-2400 m, usually in well-drained, rocky areas in the southwestern United States and adjacent Mexico. It is similar to H. comata subsp. comata, differing in its longer awn hairs and shorter ligules.</discussion>
+</bio:treatment>

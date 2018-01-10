@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>26</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Panicum bulbosum Kunth </name_authority_date>
+  </taxon_identification>
+  <common_names>BULB PANICGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, rhizomatous, rhizomes short, thin. Culms 50-200 cm tall, 2-3(5) mm thick, with cormlike bases, slightly compressed, erect or geniculate at the lower nodes; nodes glabrous or pilose; internodes slightly compressed, glabrous. Sheaths longer or shorter than the internodes, keeled, glabrous or pilose, hairs papillose-based near the throat; ligules 0.5-2 mm, membranous, dissected ciliate; blades (6)20-65 cm long, 2-15 mm wide, flat, adaxial surfaces glabrous or densely pubescent, particularly basally, occasionally pubescent on both surfaces, hairs papillose-based, bases subcordate to rounded. Panicles 9-50 cm long, 1.5-12 cm wide, open; branches opposite and alternate, straight or flexible, strongly  ascending  to  reflexed;  pedicels  0.5-5  mm, scabridulous, divergent. Spikelets 2.8-4.2(5.4) mm long, 1-2 mm wide, ellipsoid or lanceoloid, often purplish, glabrous, acute or obtuse. Lower glumes 1.2-3.5 mm, 1/2 - 4/5 as long as the spikelets, 3-5-veined; upper glumes often longer than the lower lemmas, glabrous, 5-7-veined; lower florets sterile or staminate; lower lemmas glabrous; lower paleas 3-4 mm, sometimes longer than the lower lemmas; upper florets 3-4 mm long, 1-1.5 mm wide, equaling or surpassing the lower lemmas, dull, pale, finely transversely rugose, lemma apices puberulent. 2n = 36, 54, 70, 72.</description>
+  <discussion>Panicum bulbosum grows on gravelly river banks and moist mountain slopes, often in ponderosa pine woodlands, from southern Nevada and Arizona to western Texas and central Mexico. It is an important forage grass and is sometimes cut for hay. Flowering is from July to mid-October. Small plants have been called P. bulbosum var. sciaphilum (Rupr. ex E. Fourn.) Hitchc. & Chase or P. bulbosum var. minor Vasey, but size and other characters integrade completely.</discussion>
+</bio:treatment>

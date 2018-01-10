@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Vaseyochloa multinervosa (Vasey) Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>TEXASGRASS</common_names>
+  <description type="morphology">Culms 60-110 cm. Ligules 1-3 mm; blades 16-35 cm long, 1-6 mm wide, glabrous, lower blades usually folded, upper blades flat. Panicles 10-30 cm long, 1-3  cm wide;  branches 4-13 cm, ascending or the lower branches occasionally spreading, each axil with a tuft  
+of hairs. Spikelets 10-16 mm long, 2.5-5 mm wide. Lower glumes 2.5-4 mm, 1-7-veined; upper glumes 4-5.5 mm, 5-9-veined; lemmas 5-7 mm; anthers 3, 0.5-2 mm. 2n = 56, 60, 68.
+</description>
+  <discussion>Vaseyochloa multinervosa grows in islands of live oaks within rolling sand dunes on the Texas mainland, North Padre Island, and on naturally occurring islands in the Laguna Madre of Texas.</discussion>
+</bio:treatment>

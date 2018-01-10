@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>20</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>tribe</rank>
+    <name_authority_date>DANTHONIEAE Zotov</name_authority_date>
+  </taxon_identification>
+  <description type="morphology"></description>
+  <discussion>See subfamily description.
+The Danthonieae, the only tribe in the Danthonioideae, include approximately 13 genera and 290 species, most of which grow in mesic to xeric, open habitats such as grasslands, heaths, and open woods. It is most abundant in the Southern Hemisphere, with only Danthonia being native in the Northern Hemisphere.
+Two of the genera recognized here, Karroochloa and Rytidosperma, are frequently included in Danthonia, from which they can be distinguished by the tufts of hairs on their lemmas. It is much more difficult to identify a character, or combination of characters, that will consistently distinguish them from each other. Glume length works in this Flora because of the species involved, but it is not generally reliable.
+</discussion>
+  <key>
+    <key_body>
+1. Culms 200-700 cm tall; inflorescences plumose, 30-130 cm long   .....20.01 Cortaderia
+1. Culms 2-100 cm tall; inflorescences not plumose, 0.5-12 cm long.
+2. Lemmas with hairs in 1 or more transverse row(s) above the callus and/or at midlength.
+3. Panicles subcapitate; glumes 3.5-7 mm long   .....20.04 Karroochloa
+3. Panicles narrow; glumes 8-15 mm long.....20.05 Rytidosperma
+2. Lemmas glabrous or, if with hairs, the hairs not in transverse rows.
+4. Plants annual.....20.03 Schismus
+4. Plants perennial.
+5. Lemma apices entire, acute to acuminate.....20.06 Tribolium
+5. Lemma apices bifid, obtuse, acute, or acuminate.....20.02 Danthonia
+
+    </key_body>
+  </key>
+</bio:treatment>

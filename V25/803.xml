@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Chloris divaricata R. Br. </name_authority_date>
+  </taxon_identification>
+  <common_names>SPREADING WINDMILL-GRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose to shortly stoloniferous. Culms 20-50 cm. Sheaths glabrous; ligules membranous, ciliolate; blades to 15 cm long, 1-1.5 mm wide, glabrous or scabrous. Panicles digitate, with 3-9 branches; branches 4-17 cm, evidently distinct, becoming horizontal, spikelet-bearing to the base or within 0.5 cm of the base, distal portion with 3-7 spikelets per cm. Spikelets appressed, with 1 bisexual and 1 sterile floret. Lower glumes 0.9-1.8 mm; upper glumes 2-2.9 mm; lowest lemmas 2.9-4 mm, linear to narrowly lanceolate, mostly glabrous or scabrous, margins glabrous or with a few short, appressed hairs near the apices, 1-3-awned, central awns 7.5-17 mm, lateral lobes unawned or with awns less than 0.4 mm; second florets 1.2-1.9 mm, narrowly elliptic, bilobed for 1/3–1/2 of their length, apices acute, awned from between the lobes, awns 4.5-9.5 mm. Caryopses about 2.2 mm long, about 0.4 mm wide, narrowly ellipsoid. 2n = unknown.</description>
+  <discussion>Chloris divaricata is an Australian species that was collected around woolen mills of South Carolina in the first half of the twentieth century. It has since become established in Texas and New Mexico.</discussion>
+</bio:treatment>

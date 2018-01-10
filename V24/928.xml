@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>25</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Agrostis hendersonii Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>HENDERSON'S BENT</common_names>
+  <description type="morphology">Plants annual. Culms 6-70 cm, erect, with 2-5 nodes. Sheaths smooth; ligules 0.5-5 mm, usually scabridulous, dorsal surfaces sometimes smooth, apices acute to obtuse, erose-lacerate, sometimes ciliolate; blades 1-4.5 cm long, 0.5-1(2) mm wide, flat or weakly involute. Panicles 1-5 cm long, 0.5-1.5 cm wide, cylindrical, spikelike, dense, sometimes interrupted near the base, usually well exserted from the upper sheaths; branches scabridulous, ascending to appressed, mostly hidden by the spikelets, lower branches 0.5-2.5 cm; pedicels 0.5-4(6.3) mm. Spikelets lanceolate, greenish to yellowish, tinged with purple. Glumes subequal, 5-7 mm, scabrous over the midvein, often sparsely scabridulous over the body, l(3)-veined, apices narrowly acuminate to awn-tipped to 2 mm; callus hairs  
+to 0.7 mm, abundant; lemmas 2.5-4 mm, scabridulous over the veins and sometimes over the body, opaque to translucent, 5-veined, veins prominent distally, apices acute, veins extended into 2 teeth, teeth 0.2-1.5 mm, awned from about midlength, awns (5)8-10 mm, more or less geniculate; paleas absent or to 0.9 mm; anthers 3, 0.4-0.7 mm. Caryopses 1.6-1.8 mm. 2n = 42.
+</description>
+  <discussion>Agrostis hendersonii is a rare species that grows below 600 m in clay or adobe, sometimes rocky, soils around the edges of vernal pools in Oregon and California.
+Agrostis aristiglumis Swallen, known only from its type locality on the Point Reyes Peninsula, Marin County, California, is included here in A. hendersonii. It differs from A. hendersonii in having a palea up to 0.9 mm long, and a barely exserted panicle. The relationship of these to each other and to A. microphylla merits investigation. Their differences may be the result of the founder effect on inbreeding annuals.
+ 
+</discussion>
+</bio:treatment>

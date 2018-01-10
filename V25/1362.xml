@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Pennisetum villosum R. Br. ex Fresen. </name_authority_date>
+  </taxon_identification>
+  <common_names>FEATHERTOP</common_names>
+  <description type="morphology">Plants perennial; rhizomatous. Culms 16-75 cm, erect; nodes glabrous. Sheaths glabrous, margins ciliate; ligules 1-1.3 mm; blades 5-40 cm long, 2-4.5 mm wide, flat to folded, glabrous, pubescent, or scabrous, margins ciliate or glabrous basally. Panicles terminal, 4-11.5 cm long, 50-75 mm wide, fully exerted from the sheaths, erect, white; rachises terete, pubescent (basally). Fascicles 7-11 per cm; fascicle axes 1.5-2.5 mm, with 1-4 spikelets; outer bristles (0)1-8, 1-13.5 mm; inner bristles 23-41, 13-50.5 mm, densely plumose; primary bristles 40-50 mm, ciliate, usually not noticeably longer than the other bristles. Spikelets 9-12 mm, glabrous; pedicels 0.1-0.4 mm; lower glumes 0.3-1.3 mm, veinless; upper glumes 2.5-5.2 mm, l(3)-veined; lower florets staminate or sterile; lower lemmas 7.5-10.5 mm, 7-9(10)-veined; lower paleas absent or 5.5-8.5 mm; anthers absent or 3.8-4.5 mm; upper lemmas 9-11 mm, 7-veined, apices scabridulous; anthers 3.5-5 mm. Caryopses concealed by the lemma and palea at maturity. 2n = 45.</description>
+  <discussion>Pennisetum villosum is native to Ethiopia, northern Somalia, and the Arabian Peninsula. It is grown as an ornamental in the Flora region.</discussion>
+</bio:treatment>

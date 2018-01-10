@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthelium xanthophysum (A. Gray) Freckmann </name_authority_date>
+  </taxon_identification>
+  <common_names>PALE PANICGRASS, PANIC JAUNÂTRE</common_names>
+  <description type="morphology">Plants loosely cespitose, with knotty rhizomes to 2 mm thick. Basal rosettes often poorly differentiated; blades few, grading into the cauline blades. Culms 20-55 cm, most forming in the spring  additional  culms  sometimes produced in the fall; nodes glabrous or sparsely ascending-pubescent; internodes all elongated, glabrous or puberulent; fall phase with a few suberect branches from the lower and midculm nodes, branches not rebranching, blades slightly reduced, secondary panicles partially exserted. Cauline leaves 3-4; lower sheaths not overlapping, sometimes pubescent; upper sheaths overlapping, sparsely to densely pubescent, hairs papillose-based, margins ciliate; ligules 0.3-0.5 mm, membranous, ciliate, cilia longer than the membranous bases; blades 7-17 cm long, 7-23 mm wide, erect, pale yellow-green to bluish-green, glabrous, with 7-11 prominent major veins and 30-110 minor veins, bases tapered or rounded to truncate, margins with papillose-based cilia. Panicles 7-14 cm long, 1-5 cm wide, their length usually more than twice their width, narrowly cylindric, eventually well-exserted, with 9-46 spikelets; branches strongly ascending, stiff. Spikelets 3.2-4.1 mm long, 1.8-2.2 mm wide, obovoid, turgid, puberulent to subglabrous, with rounded apices. Lower glumes 1.7-2.2 mm, narrowly triangular; lower florets staminate; upper florets longer than the upper glumes, mucronate. 2n = 36. </description>
+  <discussion>Dichanthelium xanthophysum usually grows on sandy or rocky soils in semi-open pine, oak, or aspen woodlands. It extends from eastern Saskatchewan and northeast Montana to Quebec, New England, and West Virginia. Plants from Minnesota and western Quebec approach D. leibergii in having cauline blades narrower than 10 mm, and papillose-based hairs. Sterile putative hybrids with D. leibergii and D. boreale are rare; those with D. boreale have been called Panicum calliphyllum Ashe.</discussion>
+</bio:treatment>

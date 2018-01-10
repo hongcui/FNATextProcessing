@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Allred, K.W. 1993. A Field Guide to the Grasses of New Mexico. New Mexico Agricultural Experiment Station, Department of Agricultural Communications. New Mexico State University, Las Cruces, New Mexico, U.S.A. 258 pp.; Hitchcock, A.S. 1951 [title page 1950]. Manual of the Grasses of the United States, ed. 2, rev. A. Chase. U.S.D.A. Miscellaneous Publication No. 200. U.S. Government Printing Office, Washington, D.C., U.S.A. 1051 pp.; Veldkamp, J.F., R. de Koning, and M.S.M. Sosef. 1986. Generic delimitation of Rottboellia and related genera (Gramineae). Blumea 31:281-307.</name_authority_date>
+  </taxon_identification>
+  <common_names>PITSCALE GRASS</common_names>
+  <description type="morphology">Culms 20-120 cm, glabrous or hispid, with papillose-based hairs. Leaves sparsely to densely hispid throughout, hairs papil¬lose-based; sheaths shorter than the internodes; ligules 2-3 mm; blades 3-20 cm long, 6-13 mm wide, subcordate. Rames (2)7-27 mm. Sessile spikelets 1-1.3 mm; anthers 0.3-0.4 mm. Pedicellate spikelets 1.6-2.2 mm; glumes chartaceous; lower glumes winged on 1 keel; upper glumes with the midvein narrowly winged; anthers 1-1.2 mm. Caryopses 0.7-0.9 mm, elliptic to nearly orbicular in outline, brown to yellow-brown. 2n = 14.</description>
+  <discussion>Hackelochloa granulans is a native of the Eastern Hemisphere that has become established in cultivated land, roadsides, and weedy areas of the southern region of the United States. Its range extends south through Mexico and Central and South America. Hitchcock (1951) reported it from New Mexico, but it is not established there (Allred 1993).</discussion>
+</bio:treatment>

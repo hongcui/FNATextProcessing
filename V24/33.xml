@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Ehrharta longiflora Sm. </name_authority_date>
+  </taxon_identification>
+  <common_names>LONGFLOWERED VELDTGRASS, ANNUAL VELDTGRASS</common_names>
+  <description type="morphology">Plants annual. Culms 15-90 cm, erect or often geniculate basally, often with secondary inflorescences developing from the lower nodes. Sheaths obviously veined, keeled, submem-branous, sparsely pubescent at the base; auricles ciliate; ligules 1-2.5 mm, lacerate; blades 6-20 cm long, (1)2.5-15 mm wide, flat, usually softly pubescent or glabrescent, sometimes scabridulous or smooth. Primary panicles 9-15 cm, erect, open, sometimes reduced to a raceme; branches usually ascending, sometimes spreading; pedicels usually curved or bent, sometimes flexuous. Spikelets 8-30 mm, including the awns. Lower glumes 3-3.5 mm long, 0.7-0.8 mm wide, 5-veined; upper glumes 4-4.5 mm long, to 3/4 the length of the spikelets, 1-1.5 mm wide, 7-veined; sterile lemmas 6-13 mm, indurate, glabrous or sparsely hispidulous, sometimes faintly transversely rugose, scabrous distally, lower sterile lemmas 3-7-veined, awned, awns 2-20 mm, upper sterile lemmas with a short stalklike base and 2 inconspicuously bearded ridges, awned or unawned; bisexual lemmas 4-7 mm, 7-veined, unawned; anthers 3, about 1.2 mm. Caryopses about 3-4 mm. 2n = 24, 48.</description>
+  <discussion>Ehrharta longiflora is a southern African species, well-established in Australia, that in the Flora region is established near Torrey Pines State Park in southern California. It is said to prefer shaded areas on hillsides and disturbed areas such as gardens and roadsides, usually growing in light sandy to loamy soils. Three varieties have been described; they are not treated here.</discussion>
+</bio:treatment>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Francisco M. Vazquez</author>
+    </source>
+  </meta>
+  <number>10.06</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>CELTICA F.M. Vazquez & Barkworth</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 100-250 cm, erect, smooth, glabrous, uppermost node often exposed; basal branching intravaginal; prophylls exceeding the subtending leaf sheaths, awned, ciliate or glabrous. Leaves basally concentrated; cleistogenes not developed; sheaths open to the base, smooth, glabrous except at the throat; auricles absent; ligules membranous, rounded, abaxial surfaces densely pubescent, margins ciliate; blades flat to involute, abaxial surfaces smooth, adaxial surfaces scabrous or hirtellous. Inflorescences panicles, nodding, open. Spikelets 25-32 mm, with 1 floret; rachillas not prolonged beyond the base of the floret; disarticulation above the glumes, beneath the floret. Glumes lanceolate, exceeding the floret, 3-veined; florets 14-16 mm, terete to laterally compressed; calluses sharp, strigose; lemmas coriaceous, evenly pubescent, hairs 1-2 mm, margins flat, overlapping at maturity, apices bifid, awned from between the teeth, teeth scarious; awns persistent, twice-geniculate, first segment twisted, terminal segment straight; paleas subequal to or longer than the lemmas, membranous, dorsally pubescent, veins forming 2 awnlike extensions; lodicules 3, glabrous, lanceolate, posterior lodicule larger than the lateral lodicules; anthers 3, penicillate; ovaries glabrous; styles 2. Caryopses fusiform; hila linear, about as long as the caryopses. x = 12. </description>
+  <discussion>Celtica is a monospecific genus that was formerly included in Stipa or Macrochloa.</discussion>
+  <references>Darke, R. 1999. The Color Encyclopedia of Ornamental Grasses: Sedges, Rushes, Restios, Cat-Tails, and Selected Bamboos. Timber Press, Portland, Oregon, U.S.A. 325 pp.; Vazquez, F.M. and M.E. Barkworth. 2004. Resurrection and emendation of Macrochloa (Gramineae: Stipeae). Bot. J. Linn. Soc. 144:483-495.</references>
+</bio:treatment>

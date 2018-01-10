@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date></name_authority_date>
+  </taxon_identification>
+  <description type="morphology"></description>
+  <key>
+    <key_heading>Poa Subkey I</key_heading>
+    <key_discussion>Culms without bulbous bases. Leaf sheaths not swollen at the base. Spikelets mostly bulbiferous, lower spikelets in each panicle frequently normal or subnormal, basal florets of the bulbiferous spikelets frequently normal or subnormal.</key_discussion>
+    <key_body>
+1. Sheaths closed for 1/10 – 1/5 their length; plants without rhizomes; calluses glabrous or with a crown of hairs, rarely webbed.
+2. Panicles 2-4 cm long, open; plants delicate, 15-20 cm tall; blades 0.7-1.5 mm wide; lemmas 2-3 mm long, keels crisply puberulent; calluses glabrous; plants known only from the Brooks Range in Alaska .....60. P. pseudoabbreviata (in part)
+2. Panicles 1-15 cm long, open or contracted; plants usually coarser, 10-60 cm tall; blades 1-7 mm wide; lemmas 3-8 mm long, keels villous; calluses often hairy; plants widespread. 
+3. Basal branching all or nearly all extravaginal; calluses glabrous or webbed; plants strongly glaucous, rare, alpine and arctic .....57. P. glauca (in part)
+3. Basal branching both extravaginal and intravaginal; calluses glabrous or with a crown of hairs; plants glaucous or not, not rare, arctic to subarctic or coastal and boreal.
+4. Basal branching strictly intravaginal; calluses glabrous; plants densely tufted.....9. P. alpina (in part)
+4. Basal branching all or partly extravaginal; calluses glabrous or hairy; plants loosely to densely tufted.
+5. Panicle branches smooth or sparsely scabrous; blades folded and inrolled; lemmas loosely villous between the veins; glumes somewhat shiny, not glaucous; plants of the high arctic .....67. P. bartzii (in part)
+5. Panicle branches densely scabrous, at least distally; blades flat; lemmas glabrous between the veins; glumes not shiny, often glaucous; plants subarctic or boreal and coastal .....69. P. stenantha (in part)
+1. Sheaths closed for (1/5)1/4 - 3/4 their length; plants with or without rhizomes; calluses usually webbed, sometimes glabrous. 
+6. Basal branching intravaginal; plants densely tufted, neither rhizomatous nor stoloniferous; calluses glabrous .....9. P. alpina (in part)
+6. Basal branching completely or partly extravaginal; plants loosely or densely tufted, rhizomatous or stoloniferous; calluses usually webbed, sometimes glabrous. 
+7. Panicles open, longest branches (5)8-15 cm long; sheaths closed for 1/2 - 3/4 their length; plants green, not anthocyanic; plants of coastal regions of British Columbia  .....24. P. laxiflora (in part)
+7. Panicles contracted to open, longest branches 1-8 cm long; sheaths closed for (1/5)1/4 - 1/2 their length; plants strongly anthocyanic; plants widespread.
+8. Paleas glabrous intercostally; spikelets 4-5.5 mm long, lemmas 2.5-3.5 mm long, intercostal regions glabrous; panicles contracted, sometimes opening eventually; plants slender, mostly high arctic .....13. P. pratensis (in part)
+8. Paleas puberulent or hispidulous intercostally; spikelets 5.5-12 mm long; lemmas 4.5-8 mm long, intercostal regions hairy; panicles open or loosely contracted; plants slender to stout, subarctic and coastal to high arctic. 
+9. Paleas, if recognizable, hispidulous intercostally; glumes distinctly keeled, keels scabrous; plants stout, of subarctic coastal regions  .....15. P. macrocalyx (in part)
+9. Paleas softly puberulent intercostally; glumes indistinctly keeled, keels smooth or nearly so; plants slender to stout, mainly in alpine and arctic habitats, rarely coastal  .....16. P. arctica (in part)
+
+    </key_body>
+  </key>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aristida desmantha Trin. & Rupr. </name_authority_date>
+  </taxon_identification>
+  <common_names>CURLY THREEAWN</common_names>
+  <description type="morphology">Plants annual. Culms (30)45-80 cm, branching at the lower nodes, often diffusely so; nodes and internodes glabrous. Leaves cauline; sheaths shorter or slightly longer than the internodes, glabrous or with straight hairs, sometimes pilose-floccose; collars glabrous or pilose at the sides; ligules about 0.5 mm; blades (6)10-20 cm long, 1-2(3) mm wide, yellow-green, turning reddish late in the season, involute to loosely folded, abaxial surfaces smooth or scabrous near the base, sometimes pubescent distally, adaxial surfaces usually glabrous, sometimes scabrous or pubescent, lateral veins about twice as thick as the inner veins. Inflorescences paniculate, 10-20 cm long, 2-7 cm wide; rachis nodes glabrous; primary branches stiffly ascending, with axillary pulvini, with 3-9 spikelets. Spikelets in fan-shaped clusters, pedicels with axillary pulvini. Glumes 10-17 mm, about equal, light to dark brown, glabrous or rarely sparsely pilose, 1-veined, apices cleft and awned, awns 2-5 mm; calluses 1-2.5 mm; lemmas 7-10 mm, gray to light brown, narrowing to a 2-5(7) mm beak, junction of the lemma and awns evident; awns 20-28 mm, similar in length, curved to strongly arcuate near the base, not forming a column, straight and divergent distally, disarticulating at maturity; anthers 3, 1-2 mm, dark purple. Caryopses 7-8 mm, smooth, chestnut brown. 2n = unknown.</description>
+  <discussion>Aristida desmantha grows in sandy fields, dry pine woods, and waste places in the United States. It is generally similar to A. tuberculosa, but has shorter glumes, calluses, and awns.</discussion>
+</bio:treatment>

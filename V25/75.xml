@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Paul M. Peterson </author>
+      <author>Carol R. Annable</author>
+    </source>
+  </meta>
+  <number>17.16</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>BLEPHARONEURON Nash</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial. Culms 10-70 cm. Sheaths open, glabrous, usually longer than the internodes; ligules membranous or hyaline, truncate to obtuse, often decurrent; blades flat to involute, abaxial surfaces glabrous, sometimes scabrous, adaxial surfaces shortly pubescent. Inflorescences terminal, panicles, exceeding the leaves; branches spreading to ascending; pedicels capillary, lax, minutely glandular just below the spikelets. Spikelets with 1 floret, slightly laterally compressed, grayish-green; disarticulation above the glumes. Glumes subequal, ovate to obtuse, faintly 1-veined, glabrous; lemmas slightly longer and firmer than the glumes, 3-veined, veins and margins densely sericeous, hairs 0.1-0.7(1) mm, apices acute to obtuse, occasionally mucronate; paleas 2-veined, densely villous between the veins; anthers 3, purplish, x = 8. </description>
+  <discussion>Blepharoneuron is a genus of two species: a slender annual, B. shepherdii (Vasey) P.M. Peterson & Annable, which is known only from northern Mexico, and B. tricholepis, which is native to the Flora region.</discussion>
+  <references>Peterson, P.M. and C.R. Annable. 1990. A revision of Blepharoneuron (Poaceae: Eragrostideae). Syst. Bot. 15:515-525.</references>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Leptochloa fusca (L.) Kunth subsp. fusca </name_authority_date>
+  </taxon_identification>
+  <common_names>BEETLEGRASS SPRANGLETOP</common_names>
+  <description type="morphology">Culms 40-170 cm, usually ascending to erect, some¬times decumbent and rooting at the lower nodes, often branching at the upper nodes. Blades glabrous or scabrous, not exceeding the panicles. Panicles 15-105 cm long, 2-20 cm wide, sometimes partially enclosed by the upper leaf sheaths; branches (1.5)4-20 cm, ascending to erect. Spikelets 6-14 mm. Lower glumes 1.9-3(4.9) mm, ovate, obtuse to acute, rarely bifid; upper glumes 3-4.7(5.5) mm, obtuse to acute; lemmas 3-4.7(6) mm, light brown to dark green at maturity, without a basal dark spot, apices obtuse, acute, or acuminate, sometimes bifid; anthers 3, 0.5-2.7 mm. Caryopses 1.6-2.3 mm.</description>
+  <discussion>Leptochloa fusca subsp. fusca is the most variable of the subspecies. In North America, it is known only from a few specimens collected at scattered locations in California; it may no longer be in the Flora region.</discussion>
+</bio:treatment>

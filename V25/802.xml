@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Chloris truncata R. Br.</name_authority_date>
+  </taxon_identification>
+  <common_names>BLACK WINDMILL-GRASS</common_names>
+  <description type="morphology">Plants perennial; stoloniferous. Culms 30-50 cm. Sheaths glabrous; ligules short-ciliate; blades 9-17 cm long, 0.2-0.3 mm wide, without basal hairs, glabrous, sometimes scabrous. Panicles digitate, with 5-13 clearly distinct branches; branches 5-23 cm, spikelet-bearing to the base or within 1 cm of the base, averaging 6 spikelets per cm elsewhere. Spikelets dark brown to black, with 1 bisexual and 1(2) staminate floret(s). Lower glumes 1.4-2.3 mm; upper glumes 2.8-4.2 mm; lowest lemmas 1.8-4.5 mm long, 0.2-0.7 mm wide, narrowly elliptic, becoming very dark, often almost black at maturity, sides not grooved, mostly glabrous but the margins appressed pubescent, sometimes sparsely so, hairs shorter than 1 mm, apices truncate, awned, awns 3.1-16 mm; second florets 1.3-3.5 mm long, 0.5-0.9 mm wide, not inflated, truncate, not or only minutely bilobed, awned, awns 3.1-12.5 mm; anthers about 0.6 mm. Caryopses 1.7-2.2 mm long, 0.3-0.5 mm wide, ellipsoid to narrowly obovate, trigonous. 2n = 40.</description>
+  <discussion>Chloris truncata, like the rather similar C. ventricosa, is an Australian native that has been found near woolen mills in South Carolina and beside a road near Lake Skinner in Riverside County, California. It usually differs from C. ventricosa in having longer panicle branches. Other differences include its very dark, almost black, bisexual lemmas and their usually appressed pubescent margins.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Trichloris crinita (Lag.) Parodi </name_authority_date>
+  </taxon_identification>
+  <common_names>FALSE RHODESGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, sometimes stoloniferous. Culms to 100 cm. Sheaths glabrous or sparsely hirsute; ligules to 3 mm; blades to 20 cm long, 5-10 mm wide, scabrous. Panicles with 6-20 branches in several closely-spaced whorls, appearing as a single terminal cluster; branches to 15 cm, erect, with 7-9 spikelets per cm. Spikelets with 1 bisexual and 1(2) sterile floret(s). Lower glumes 0.8-1.1 mm; upper glumes 2-2.5 mm, awned, awns to 2 mm; lowest lemmas 2.4-3.8 mm long, about 0.5 mm wide, dorsally compressed, narrowly lanceolate to elliptic, scabrous, particularly distally, apices bilobed and 3-awned, central awns 8-12 mm, equaling or slightly longer than the 5-12 mm lateral awns; first sterile florets 1-1.5 mm, narrowing to 3 subequal 5-7 mm awns; second sterile florets, if present, similar but smaller. Caryopses 1.7-2.3 mm, strongly dorsally flattened. 2n = 40.</description>
+  <discussion>Trichloris crinita is a native species that grows in the southwestern United States and northern Mexico, and, as a disjunct, in northern Argentina.</discussion>
+</bio:treatment>

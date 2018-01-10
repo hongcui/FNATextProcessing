@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Alopecurus carolinianus Walter </name_authority_date>
+  </taxon_identification>
+  <common_names>TUFTED FOXTAIL</common_names>
+  <description type="morphology">Plants annual; tufted. Culms 5-50 cm, erect or decumbent. Ligules 2.8-4.5 mm, obtuse; blades 3-15 cm long, 0.9-3 mm wide; upper sheaths not or only slightly inflated. Panicles 1-7 cm long, 3-6 mm wide, always dense. Glumes 2.1-3.1 mm, connate at the base, membranous throughout, sparsely pubescent, not dilated below, keels not winged, ciliate, apices obtuse, pale green to pale yellow; lemmas 1.9-2.7 mm, connate in the lower 1/2, glabrous, apices obtuse, awns 3-6.5 mm, geniculate, exceeding the lemmas by 1.6-4 mm; anthers 0.3-1 mm, yellow or orange. Caryopses 1-1.5 mm. 2n = 14.</description>
+  <discussion>Alopecurus carolinianus is native to the central plains, Mississippi valley, and southeastern United States, where it is common in wet meadows, ditches, wetland edges, and other moist, open habitats; it is occasionally a weed of rice fields. At the northern limit of its range it is clearly adventive, growing in gardens and nurseries. It also occurs in arid areas of the prairies and southwest, growing sporadically along sloughs and in ditches and vernal pools. Whether such populations are native or naturalized is not clear.</discussion>
+</bio:treatment>

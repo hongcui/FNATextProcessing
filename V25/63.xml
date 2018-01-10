@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Redfieldia flexuosa (Thurb. ex A. Gray) Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>BLOW OUT- GRASS</common_names>
+  <description type="morphology">Culms 50-130 cm. Ligules to 1.5 mm; blades 15-45 cm long, 2-8 mm wide. Panicles 20-50 cm long, 8-25 cm wide. Spikelets (3)5-8 mm long, 3-5 mm wide. Lower glumes 3-4 mm; upper glumes 3.5-4.5 mm; callus hairs to 1.5 mm; lemmas 4.5-6 mm, glabrous or shortly pubescent, veins glabrous, entire or with 3 minute teeth; paleas glabrous; anthers 2-3.6 mm, yellow to reddish-purple; lodicules 2, truncate. Caryopses oblong, terete. 2n = 25.</description>
+  <discussion>Redfieldia flexuosa grows on sandhills and dunes. It is a common and important soil binder in blowout areas. It is only fair livestock forage but, because it grows in areas subject to blowout, this should not be of concern. The only Arizona collection wasmade in 1896; the Washington population was introduced for erosion control. </discussion>
+</bio:treatment>

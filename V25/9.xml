@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>16</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa arctica R. Br. </name_authority_date>
+  </taxon_identification>
+  <common_names>ARCTIC BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; usually strongly anthocyanic; rhizomatous, rhizomes usually well developed, sometimes poorly developed, shoots usually solitary. Basal branching mainly extravaginal. Culms 7.5-60 cm, slender to stout, terete or weakly compressed, bases usually decumbent, not branching above the bases; nodes terete, proximal nodes usually not exserted, 0-2 exserted above. Sheaths closed for (1/6)1/5 – 2/5 their length, terete, glabrous, smooth or sparsely scabrous, bases of basal sheaths glabrous, distal sheath lengths 1.4-4(5.3) times blade lengths; collars smooth, glabrous; ligules (1)2-7 mm, glabrous, smooth or sparsely to infrequently moderately scabrous, apices usually rounded to obtuse or acute, rarely truncate, entire or lacerate; blades 1-6 mm wide, flat or folded, somewhat involute, smooth, glabrous, apices broadly prow-shaped, cauline blades subequal or gradually reduced distally, flag leaf blades 0.7-9 cm. Panicles (2)3.5-15 cm, ovoid to broadly pyramidal, usually open, sparse, with 10-40(60) spikelets, proximal internodes shorter than 1.5(3) cm, with (1)2-5 branches per node; branches 1.5-6 cm, spreading soon after emergence from the sheath, thin, sinuous, and flexuous to fairly stout and straight, terete, smooth or sparsely to infrequently moderately scabrous, with (1)2-5 spikelets, the spikelets not crowded. Spikelets (3.5) 4.5-8 mm, lengths to 3.5 times widths, laterally compressed, sometimes bulbiferous; florets (2)3-6, infrequently bulb-forming; rachilla internodes smooth or muriculate, proximal internodes glabrous or sparsely softly puberulent to long-villous. Glumes lanceolate to broadly lanceolate, distinctly or weakly keeled, keels usually smooth, sometimes sparsely scabrous distally, lateral veins usually moderately pronounced; lower glumes (3)3.5-5(6) mm, 3-veined; upper glumes 3.5-5.5(6.5) mm, nearly equaling to slightly exceeding the lowest lemmas, or distinctly shorter; calluses glabrous or webbed, hairs sparse and short to over 1/3 – 2/3 the lemma length; lemmas (2.7)3-6(7) mm, lanceolate to broadly lanceolate, usually strongly purple, distinctly keeled, keels, marginal veins, and lateral veins long-villous, hairs on the lateral veins sometimes shorter, lateral veins prominent, intercostal regions short-villous to softly puberulent at least near the base, glabrous elsewhere, smooth to weakly muriculate and/or usually sparsely scabrous, infrequently moderately scabrous, margins broadly hyaline, glabrous, apices acute; palea keels usually short- to long-villous for most of their length, rarely nearly glabrous and scabrous, intercostal regions broad, usually at least sparsely softly puberulent, rarely glabrous, apices scabrous; anthers 1.4-2.5 mm, sometimes aborted late in development. 2n = 36, 42, 56, 60, 62-68, 70, ca. 72, 74-76, 78-80, 82-84, 86, 88, 99, 106.</description>
+  <discussion>Poa arctica is a common circumboreal species of arctic and alpine regions, growing mainly in mesic to subhydric, acidic tundra and alpine meadows, and on rocky slopes. It extends south in the Rocky Mountains to New Mexico. The frequency of sterile anthers in plants of the high arctic suggests that P. arctica is sometimes apomictic in that region. Over most of the rest of its range, P. arctica usually develops normal anthers. This and isozyme data for populations from alpine and low arctic regions suggest sexual reproduction is common in these habitats.
+The most reliable way to distinguish Poa arctica from P. pratensis (p. 522), particularly subsp. alpigena, is by the wider paleas and the presence of hairs between the palea keels. Bulbiferous forms of P. arctica differ from P. stenantha var. vivipara (p. 594) in not being glaucous, and in having rhizomes and terete, smooth panicle branches. Poa xgaspensis (p. 601) also resembles P. arctica, but it has sharply keeled, more scabrous glumes and a spikelet shape that is intermediate between P. pratensis and P. alpina (p. 518). Poa arctica forms natural hybrids with both P. pratensis and P. secunda (p. 586).</discussion>
+  <key>
+    <key_body>
+1. Plants lacking well-developed rhizomes; anthers aborted late in development; plants of the high arctic .....subsp. caespitans
+1. Plants usually with well-developed rhizomes; anthers normal or plants not of the high arctic. 
+2. Panicles erect, the branches relatively stout, fairly straight; longest branches of the lowest panicle nodes 1/4-1/2 the length of the panicles; culms wiry, usually several together; calluses glabrous or shortly webbed; paleas sometimes glabrous; plants glaucous, growing in the southern Rocky-Mountains and adjacent portions of the Intermountain
+ region .....subsp. aperta
+2. Panicles lax to erect, the branches slender, flexuous to fairly stout and straight; longest branches of the lowest panicle nodes 2/5 – 3/5 the length of the panicles; culms slender to stout, varying from solitary to several together; calluses glabrous or webbed, the hairs usually more than 1/2 as long as the lemmas; paleas pubescent; plants sometimes glaucous, widespread in distribution. 3. Calluses glabrous; spikelets not bulbiferous  .....subsp. grayana
+3. Calluses webbed,  often copiously so, sometimes glabrous in bulbiferous spikelets; spikelets sometimes bulbiferous. 
+4. Spikelets (5)6-8 mm long; lemmas 4-6 mm long; blades 2-6 mm wide; rachillas usually hairy; plants primarily of the western arctic, extending to northwestern  British Columbia  .....subsp. lanata
+4. Spikelets (3.5)4-7 mm long; lemmas (2.7)3-4.5 mm long; blades 1.5-3 mm wide; rachillas commonly glabrous; plants widespread.....subsp. arctica
+
+    </key_body>
+  </key>
+</bio:treatment>

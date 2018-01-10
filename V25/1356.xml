@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Pennisetum macrostachys (Brongn.) Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>PACIFIC FOUNTAINGRASS</common_names>
+  <description type="morphology">Plants perennial, or annual in temperate climates; cespitose. Culms 100-300 cm, erect, branching; nodes glabrous. Leaves burgundy; sheaths glabrous; ligules 0.1-0.3 mm; blades 30-53.5 cm long, (15) 18-35 mm wide, flat, glabrous. Panicles terminal, (15.5)18-40 cm long, 32-50 mm wide, fully exerted from the sheaths, flexible, drooping, burgundy; rachises terete, shortly pubescent. Fascicles 17-22 per cm; fascicle axes 0.5-0.7 mm, with 1 spikelet; outer bristles 21-40, 1.2-22.3 mm, scabrous; inner bristles absent; primary bristles 20-23 mm, not noticeably longer than the other bristles, scabrous. Spikelets 4.4-4.9 mm, sessile or pedicellate, glabrous; pedicels to 0.1 mm; lower glumes 1.1 - 1.3 mm, veinless; upper glumes 2.1 - 2.8 mm, usually about 1/2 as long as the spikelets, 1-3-veined; lower florets staminate (sterile); lower lemmas 4-4.5 mm, 5-veined; lower paleas absent or to 2.6 mm; anthers absent or 1.4-1.6 mm; upper lemmas 4.3-4.8 mm, 5-veined; anthers 1.6-1.8 mm. 2n = 68.</description>
+  <discussion>Pennisetum macrostachys is native to the South Pacific. It is grown in the Flora region as an ornamental species, being sold as 'Burgundy Giant'.</discussion>
+</bio:treatment>

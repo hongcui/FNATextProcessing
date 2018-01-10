@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>21</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Digitaria texana Hitchc.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; not rhizomatous. Culms 30-80 cm, sometimes erect, usually decumbent and branching and rooting at the lower nodes, not branching at the upper nodes. Sheaths of the lower leaves villous, those of the upper leaves sometimes glabrous, those of the flag leaves without axillary panicles; ligules 1.5-2 mm; blades 10-15 cm long, 2-7 mm wide, hirsute to nearly glabrous. Panicles with 5-10 spikelike primary branches on 1-4 cm rachises; primary branches 5-10(13) cm, axes triquetrous, narrowly winged, wings less than 1/2 as wide as the midribs, lower and middle portions of the branches bearing paired spikelets; secondary branches rarely present. Spikelets 2-3.6 mm, narrowly ovate-oblong, acute. Lower glumes absent; upper glumes almost as long as the spikelets, 3(5)-veined, shortly villous on the margins and sometimes between the margins; lower lemmas similar to the upper glumes; upper lemmas gray or yellow, sometimes purple-tinged, becoming purple at maturity. Caryopses narrowly oblong. 2n = 54.</description>
+  <discussion>Digitaria texana grows in sandy oak woods and prairies of southern Texas and Florida.</discussion>
+</bio:treatment>

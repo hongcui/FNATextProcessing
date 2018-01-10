@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>64</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia brevis CO. Goodd. </name_authority_date>
+  </taxon_identification>
+  <common_names>SHORT MUHLY</common_names>
+  <description type="morphology">Plants annual; tufted.  Culms 3-20 cm. Sheaths often longer than the internodes, somewhat inflated, smooth or scabrous; ligules 1-3 mm, membranous, acute, lacerate, sometimes with lateral lobes; blades 1-4.5 cm long, 0.8-2 mm wide, flat to involute, scabrous to strigose, midveins and margins thickened, whitish. Panicles 3-11.5 cm long, 0.8-1.8 cm wide, contracted; primary branches 1-3.7 cm, closely appressed, spikelets usually in subsessile-pedicellate pairs; pedicels 0.2-8 mm, stout, closely appressed, scabrous; disarticulation beneath the spikelet pairs. Spikelets 2.5-6 mm. Glumes to 2/3 as long as the lemmas; lower glumes 2-3.5 mm, subulate, 2-veined, minutely to deeply bifid, with 2 aristate teeth or awns to 1.8 mm; upper glumes 2.4-4 mm, entire, acuminate to attenuate, 1-veined, awned, awns to 2 mm; lemmas 3.5-6 mm, narrowly lanceolate, light greenish-brown to purplish, scabrous, appressed-pubescent on the margins and mid-veins, apices acuminate, often bifid, awned, awns usually 10-20 mm, stiff; paleas 4-6 mm, narrowly lanceolate, intercostal region appressed-pubescent, apices acuminate; anthers 0.5-0.9 mm, purplish to yellowish. Caryopses 2-2.8 mm, narrowly fusiform, brownish. 2n = 20.</description>
+  <discussion>Muhlenbergia brevis grows on rocky slopes, gravelly flats, and rock outcrops, particularly those derived from calcareous parent materials, at elevations of 1700-2500 m, in gramma grasslands, pinyon-juniper woodlands, and pine-oak woodlands. Its range extends from the southwestern United States to central Mexico.
+Like Muhlenbergia depauperata, M. brevis shares several features with Lycurus, notably the paired spikelets with 2-veined and 2-awned lower glumes, 1-veined and awned upper glumes, acuminate, awned lemmas with shortly pubescent margins, and pubescent paleas.
+</discussion>
+</bio:treatment>

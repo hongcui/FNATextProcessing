@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>17</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Agrostis pallens Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>DUNE BENT</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, rhizomes to 10 cm, not stoloniferous. Culms 10-70 cm, erect, sometimes decumbent at the base, sometimes rooting at the lower nodes, with 3-7 nodes. Leaves usually cauline; sheaths usually smooth, sometimes scabridulous; ligules 1-6 mm, dorsal surfaces scabrous, apices truncate to rounded or acute, often lacerate to erose; blades 1.5-11.5 cm long, 1-6 mm wide, flat, becoming involute. Panicles 5-20 cm long, 0.4-6(8) cm wide, lanceolate to narrowly ovate, open to contracted, exserted from the upper sheaths at maturity, lowest node with 1-8 branches; branches scabrous to scabridulous, usually ascending, branching below midlength, the majority spikelet-bearing to the base, lower branches 2-5 cm; pedicels 0.5-7 mm. Spikelets lanceolate to narrowly ovate, green to yellowish green or yellow, tinged with purple. Glumes equal to subequal, 2-3.5 mm, scabrous over the midvein and sometimes also sparsely over the body, l(3)-veined, acute to acuminate; callus hairs to 0.3(1) mm, sparse; lemmas 1.5-2.5 mm, smooth or scabridulous or warty, 5-veined, veins prominent throughout or only distally, apices acute, entire or the veins excurrent to about 0.2 mm, usually unawned, rarely awned from below the apices, awns to 0.5(2.7) mm, straight; paleas absent, or to 0.2 mm and thin; anthers 3, 0.7-1.8 mm. Caryopses 1-1.5 mm; endosperm solid. 2n = 42, 56.
+ 
+</description>
+  <discussion>Agrostis pollens grows on coastal sands and cliffs, in meadows, and in open, xeric woodlands to subalpine woodlands at 3500 m. It extends from British Columbia south into Baja California, Mexico, and east to western Montana and Utah. The relationship of the higher-elevation, more open-panicled plants to those of lower elevations merits further study.</discussion>
+</bio:treatment>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Thinopyrum ponticum Barkworth & D.R. Dewey</name_authority_date>
+  </taxon_identification>
+  <common_names>TALL WHEATGRASS, RUSH WHEATGRASS</common_names>
+  <description type="morphology">Plants cespitose, not rhizomatous. Culms 50-200 cm, glabrous; lowest internode plus sheath about 3.5 mm thick. Sheaths ciliate on the lower margins; auricles 0.2-1.5 mm; ligules 0.3-1.5 mm; blades 2-6.5 mm wide, generally convolute, adaxial surfaces with 1-8 ribs, ribs rounded, prominent, spinulose, margins usually thinner than the ribs. Spikes 10-42 cm, erect; internodes 9-19 mm; rachises glabrous, not disarticulating at maturity. Spikelets 13-30 mm, with 6-12 florets; disarticulation beneath the florets. Glumes oblong, glabrous, 5-9-veined, midveins about equal in length and prominence to the lateral veins, margins about 0.5 mm wide, hyaline, apices truncate; lower glumes 6.5-10 mm, midveins occasionally scabrous distally; upper glumes 7-10 mm; lemmas 9-12 mm, glabrous; paleas 7.5-11 mm, keeled, keels ciliate; anthers 4-6 mm. 2n = 69, 70.</description>
+  <discussion>Thinopyrum ponticum is native to southern Europe and western Asia. In its native range, it grows in dry and/or saline soils. In the Flora region, T. ponticum is planted along roadsides for soil stabilization, and is spreading naturally in cooler areas because of its tolerance of the saline conditions caused by salting roads in winter. It is sometimes treated as a subspecies of T. elongatum (Host) D.R. Dewey, a diploid species that grows in maritime regions of western Europe.
+</discussion>
+</bio:treatment>

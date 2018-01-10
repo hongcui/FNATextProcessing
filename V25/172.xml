@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Robert I. Lonard</author>
+    </source>
+  </meta>
+  <number>17.26</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>VASEYOCHLOA Hitchc.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, occasionally rhizomatous. Culms 60-110 cm, erect, glabrous, unbranched. Sheaths glabrous; ligules membranous, ciliate, cilia subequal to or longer than the membranous base. Inflorescences terminal, lanceolate or lance-ovate panicles, exceeding the leaves; branches 1 per node. Spikelets bisexual, lanceolate, with 5-10 florets; disarticulation above the glumes and between the florets. Glumes shorter than the adjacent lemmas, about 1/4 as long as the spikelets, lanceolate, glabrous, unawned; calluses densely pubescent; lemmas 5-, 7-, or 9-veined, lanceolate, densely pubescent below and glabrous above, apices truncate to rounded or obtuse, sometimes retuse, unawned; paleas shorter than the lemmas, glabrous, splitting down the midline as the caryopsis matures. Caryopses to 3 mm, suborbicular, concave, glabrous, amber, with 2 persistent hornlike style branches, x = unknown. </description>
+  <discussion>Vaseyochloa is a monotypic genus endemic to the coastal zone of southern Texas. Coelachyrum Hochst. & Nees, a small genus of Africa and southwestern Asia, has been suggested as its nearest relative.</discussion>
+</bio:treatment>

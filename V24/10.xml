@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Arundinaria gigantea (Walter) Muhl. </name_authority_date>
+  </taxon_identification>
+  <common_names>RIVER CANE, GIANT CANE</common_names>
+  <description type="morphology">Rhizomes normally remaining horizontal, sometimes hollow-centered, air canals absent. Culms 2-8 m tall, to 3 cm thick; internodes typically sulcate distal to the branches. Culm leaves deciduous; sheaths 9-15 cm; fimbriae 2.2-7 mm; blades 1.5-3.5 cm. Topknots of 6-8 leaves; blades 16-24 cm long, 2-3.2 cm wide, lanceolate to ovate-lanceolate. Primary branches to 25 cm, erect or nearly so, with 0-1 compressed basal internodes, lower elongated internodes flattened in cross section. Foliage leaves: abaxial ligules usually ciliate, sometimes glabrous; blades subcoriaceous, persistent, evergreen, 8-15 cm long, 0.8-1.3 cm wide, bases rounded, abaxial surfaces glabrous or pubescent, strongly cross veined, adaxial surfaces glabrous or almost so. Spikelets 4-7 cm, greenish or brownish, with 8-12 florets. Glumes unequal, glabrous or pubescent, lowest glumes obtuse to acuminate or absent; lemmas 1.2-2 cm, usually appressed-hirsute to canescent, sometimes pubescent only towards the base and margins. Caryopses oblong, beaked, without a style branch below the beaks. 2n = 48.</description>
+  <discussion>Arundinaria gigantea forms extensive colonies in low woods, moist ground, and along river banks. It was once widespread in the southeastern United States, but cultivation, burning, and overgrazing have destroyed many stands.</discussion>
+</bio:treatment>

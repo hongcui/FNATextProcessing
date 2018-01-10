@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>xElyleums aleuticus comprises hybrids between Elytnus hirsutus and Leymus mollis. It is known only from the type locality, Atka, Alaska. It probably occurs at other locations where the two parents are sympatric.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose, shortly rhizomatous. Culms to 60 cm, glabrous, hairy below the spikes, nodes shortly hairy. Sheaths smooth, glabrous; auricles absent or to 0.5 mm; ligules 0.2-0.8 mm, truncate; blades 3-4 mm wide, adaxial surfaces densely strigulose over the veins, all veins equally prominent. Inflorescences spikes, 9-17 cm long, 8-10 mm wide, erect, with solitary, sessile or subsessile spikelets. Spikelets 15-20 mm, with 4-6 florets. Glumes 9-11 mm long, 1.5-3 mm wide, with 4-5 veins, hairy, acute, unawned; lemmas 10-12 mm, hairy, unawned or awned, awns to about 1 mm; paleas with short and long hairs on the keels; anthers 3-4 mm. </description>
+  <discussion>xElyleymus hultenii consists of hybrids between Elymus alaskanus subsp. alaskanus and Leymus mollis. The original collection is from Deering, Alaska.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis cumingii Steud. </name_authority_date>
+  </taxon_identification>
+  <common_names>CUMING'S LOVEGRASS</common_names>
+  <description type="morphology">Plants annual; cespitose, with¬out innovations, without glands. Culms 10-40(50) cm, erect to prostrate, sometimes geniculate, branching profusely from near the base, glabrous below the nodes. Sheaths sparsely hairy at the apices, hairs to 2.5 mm; ligules 0.1-0.2 mm; blades 3-10(12) cm long, 1-3 mm wide, flat to involute, sparsely pilose on the basal 1/2, scabridulous distally. Panicles 5-20 cm long, 2-8 cm wide, narrowly ovate, open, with 6-10 primary branches; primary branches 1-6 cm, widely spaced, axes trigonous, diverging to 90° from the rachises, densely spikelet-bearing to the base; pulvini sparsely pilose; pedicels 0.4-1(2) mm, stout, straight, flattened. Spikelets 5-12(18) mm long, 1.4-2.4 mm wide, linear-lanceolate, chartaceous, stramineous to greenish with reddish-purple tinges, with 12-42 florets; disarticulation acropetal. Glumes subequal in length, 1.2-1.9 mm, narrowly lanceolate to lanceolate, membranous; lower glumes narrower than the upper glumes; lemmas 1.3-2 mm, lanceolate to ovate, chartaceous, lateral veins conspicuous, greenish, apices acute; paleas 1-1.6 mm, hyaline, keels ciliate, cilia 0.1-0.2 mm, apices obtuse to acute; anthers 3, 0.1-0.2 mm, purplish. Caryopses 0.4-0.6 mm, ovoid, laterally compressed, finely striate, light brown. 2n = 40.</description>
+  <discussion>Eragrostis cumingii is native to southeast Asia and Australia. Within the Flora region, it has become established in Florida, growing in waste places and along roadsides in sandy or gravelly soils, at 0-150 m.</discussion>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>xPascoleymus bowdenii (B. Boivin) Barkworth </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 2-3 mm thick. Auricles to 1 mm; blades 5-10 mm wide. Rachis internodes 7-12 mm. Spikelets 12-22 mm. Glumes 1.2-9 mm; lemmas about 10 mm, hairy, hairs about 1 mm, awns 1.5-4 mm.</description>
+  <discussion>The holotype of xPascoleymus bowdenii was collected at Beaverlodge, Alberta. Boivin (1967) considered it a hybrid between Agropyon smithii [= Pascopyrum smithii] and Elymus innovatus [= Leymus innovatus]. The tapering leaf blades and hairy lemmas support the involvement of L. innovatus; support for the involvement of P. smithii is less evident. xPascoleymus bowdenii differs it its wide blades from xElyleymus turneri, another hybrid having L. innovatus as one of its parents, but these do not provide any particular support for identifying P. smithii as the other parent. Some of the additional specimens that Boivin placed in xPascoleymus bowdenii belong to L. triticoides.</discussion>
+</bio:treatment>

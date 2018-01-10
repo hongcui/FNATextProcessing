@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>25.25</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>AXONOPUS P. Beauv.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial, rarely annual; cespitose, loosely tufted, or mat-forming, sometimes rhizomatous or stoloniferous. Culms 7-300 cm, not woody, often decumbent at the base, erect to ascending. Sheaths open; ligules membranous, truncate, ciliate; blades flat or convolute, usually obtuse. Inflorescences terminal, sometimes also axillary, panicles of 2-many, digitately, subdigitately, or racemosely arranged spikelike branches; branches triquetrous, spikelets subsessile or sessile, solitary, in 2 rows, lower lemmas appressed to the branch axes; disarticulation below the glumes. Spikelets dorsally compressed, with 2 florets; lower florets sterile or staminate; upper florets sessile, bisexual. Lower glumes absent; upper glumes and lower lemmas equal, membranous; lower paleas absent; upper lemmas indurate, usually glabrous, sometimes with an apical tuft of hairs, margins slightly involute, clasping the palea, apices acute to obtuse; upper paleas similar to the upper lemmas in texture. Caryopses ellipsoid, x = 10. </description>
+  <discussion>Axonopus is a genus of approximately 100 tropical and subtropical species, most of which are native to the Western Hemisphere. Three species are native to the Flora region; one additional species has been grown experimentally in Florida.
+All the species tend to grow in open habitats, often where the soil is somewhat impermeable and slightly flooded in the rainy season. Axonopus fissifolius and A. compressus are cultivated for forage in many countries; A. compressus is also used as a lawn grass. Both species are inclined to be weedy. The presence of rhizomes or stolons is affected by environmental condi¬tions, with plants growing in crowded conditions, e.g., lawns, rarely producing them.
+</discussion>
+  <references>Black, G.A. 1963. Grasses of the genus Axonopus (a taxonomic treatment) (ed. L.B. Smith). Advancing Frontiers PI Sci. 5:1-186.</references>
+  <key>
+    <key_body>
+1. Panicles with 30-100+ branches; lower branches 10-24 cm long; culms (50)100-300 cm tall.....4. A. scoparius
+1. Panicles with 2-7 branches; lower branches 1-15 cm long; culms 7-100 cm tall.
+2. Spikelets 3.5-5.5 mm long; upper glumes glabrous; lower lemmas glabrous or sparsely pilose over the veins .....3. A. furcatus
+2. Spikelets 1.6-3.5 mm long; upper glumes and lower lemmas sparsely pilose on the margins or marginal veins. 
+3. Upper glumes and lower lemmas extending beyond the upper florets, forming acute to acuminate apices; blades 3-20 mm wide .....2. A. compressus
+3. Upper glumes and lower lemmas not or scarcely extending beyond the upper florets, forming obtuse to subacute apices; blades 1.5-6 mm wide .....1. A. fissifolius
+
+    </key_body>
+  </key>
+</bio:treatment>

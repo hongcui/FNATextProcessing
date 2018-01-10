@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Phleum arenarium L. </name_authority_date>
+  </taxon_identification>
+  <common_names>SAND TIMOTHY</common_names>
+  <description type="morphology">Plants annual. Culms 2-35 cm. Sheaths of the flag leaves inflated; auricles not developed; ligules 1.5-3 mm, rounded to acute; blades 1-5(7) cm long, 1.5-5 mm wide, flat or folded. Panicles 0.5-5.5 cm long, 3-7 mm wide, ovoid to shortly cylindrical, cuneate at the base, widest at or above midlength. Glumes 2.2-4.4 mm, oblong-lanceolate, keels ciliate, tapered, apices parallel or divergent, awns 0.3-1 mm, usually parallel, sometimes divergent; lemmas about 1/3 as long as the glumes, glabrous or pubescent; anthers 0.3-1.2 mm. 2n = 14.</description>
+  <discussion>Phleum arenarium is native to maritime sands and shingles of southern and western Europe. It is known only from old ballast dump records in the Flora region.
+ 
+</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Piptatherum shoshoneanum (Curto & Douglass M. Hend.) P.M. Peterson & Soreng</name_authority_date>
+  </taxon_identification>
+  <common_names>SHOSHONE PIPTATHERUM</common_names>
+  <description type="morphology">Plants tightly cespitose, not rhizomatous. Culms 20-50 cm, internodes smooth to scabrid-ulous; nodes glabrate; basal branching intravaginal. Leaves basally concentrated; ligules 1.8-5.5 mm, hyaline, acute, often lacerate; blades 4-16 cm long, 1-2.5 mm wide when flat, 0.6-1 mm in diameter when involute, abaxial surfaces smooth or scabridulous, adaxial surfaces scabridulous. Panicles 3.3-22 cm, lower nodes with 1-2(4) branches; branches 1.8-11.6 cm, flexuous, initially appressed, becoming strongly divergent to reflexed, secondary and tertiary branches appressed to the primary branches. Glumes subequal, 3.2-5.3 mm, exceeding the florets by 0.2-1.5 mm, ovate to broadly lanceolate, 1-9-veined, apices acute to acuminate; florets 2.4-4.1 mm, dorsally compressed; calluses about 0.3 mm, hairy, disarticulation scars round; lemmas coriaceous, evenly pubescent, hairs to 0.5 mm, becoming tawny with age, margins not overlapping at maturity; awns 1-2.5 mm, straight or slightly arcuate, caducous; paleas 2.1-3.6 mm, similar to the lemmas in texture and pubescence; anthers 1.7-2.2 mm, penicillate; ovaries truncate, bearing 2 styles. Caryopses 1.8-2 mm long, about 0.8 mm thick; hila linear, about 9/10 the length of the caryopses. 2n = 20.</description>
+  <discussion>Piptatherum shoshoneanum is known best from eastern Idaho, where it grows in the canyons of the Middle Fork of the Salmon River and its tributaries. It has also been found 750 km to the southwest in the Belted Range of southwestern Nevada. So far, fieldwork on the intervening mountain ranges has not revealed additional populations. It usually grows in moist crevices of igneous, metamorphic, or sedimentary cliffs and rock walls.</discussion>
+</bio:treatment>

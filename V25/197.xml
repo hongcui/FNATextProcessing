@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Sporobolus compositus var. drummondii (Trin.) Kartesz & Gandhi</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants not rhizomatous. Culms slender, 1-2(2.5) mm thick at the base. Uppermost sheaths 0.8-2.5 mm wide. Panicles with 16-36 spikelets per cm2 when pressed. Fruits 1.1-1.7 mm.</description>
+  <discussion>Sporobolus compositus var. drummondii is most abundant in Kansas, Oklahoma, and Texas.</discussion>
+</bio:treatment>

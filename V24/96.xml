@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Glyceria septentrionalis var. arkansana (Fernald) Steyerm. & Kucera </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Ligules 5-14 mm; blades 6-12 mm wide. Panicle branches 3-7 cm, with 3-5 spikelets. Rachilla internodes 0.5-1.5 mm. Lemmas hispidulous over the veins, hairs about 0.1 mm, hispidulous, scabrous, or scabridulous between the veins, apices rounded to acute, crenate. 2n = unknown.</description>
+  <discussion> Glyceria septentrionalis var. arkansana grows in roadside ditches and on the edges of swamps, lakes, and ponds in the flood plain of the Mississippi River, from southern Illinois and Indiana to the Gulf coast. There is also one record from central Tennessee (Chester et al. 1993). The size of its stomates suggests that var. arkansana, like var. septentrionalis, is a tetraploid.</discussion>
+</bio:treatment>

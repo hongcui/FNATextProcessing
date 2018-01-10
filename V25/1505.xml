@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Saccharum brevibarbe var. contortum (Baldwin) R.D. Webster</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Upper lemmas of sessile spikelets initially entire, becoming bifid at maturity, teeth about 2 mm; awns 10-18 mm, spirally coiled basally.</description>
+  <discussion>Saccharum brevibarbe var. contortum grows in moist, sandy pinelands and open ground of the coastal plain, from Maryland to Florida and inland to Tennessee and Oklahoma. Initially, the awns in var. contortum are not coiled and the lemmas are entire but, as the spirals develop, they tear the lemmas, creating the bifid apices.</discussion>
+</bio:treatment>

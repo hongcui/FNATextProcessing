@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Dichanthelium dichotomum subsp. mattamuskeetense
+(Ashe) Freckmann & Lelong
+</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants very similar to subsp. microcarpon. Fall phase sparingly branched, blades not as greatly reduced as in subsp. microcarpon. Sheaths and blades, particularly those of the lower leaves, more or less densely velvety pubescent. 2n = unknown.</description>
+  <discussion>Dichanthelium dichotomum subsp. mattamuskeetense grows in low, moist, often sandy or peaty, ground and bogs. A relatively uncommon subspecies, it grows on the Atlantic coastal plain from Massachusetts to Florida.</discussion>
+</bio:treatment>

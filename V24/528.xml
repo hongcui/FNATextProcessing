@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Leymus innovatus (Beal) Pilg. subsp. innovatus</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Spikes 8-16 cm long, 8-15 mm wide. Glumes present; lemma hairs 0.7-2.5 mm. 2n = 28.</description>
+  <discussion>Leymus innovatus subsp. innovatus is the more widespread of the two subspecies, extending across North America from the southern Yukon Territory to Ontario, south in the Rocky Mountains to northern Montana, and, as a disjunct, to the Black Hills region of Wyoming and South Dakota. Closer study is needed to determine its range more exactly.</discussion>
+</bio:treatment>

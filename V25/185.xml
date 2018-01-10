@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dactyloctenium geminatum Hack. </name_authority_date>
+  </taxon_identification>
+  <common_names>DOUBLE COMBGRASS</common_names>
+  <description type="morphology">Plants perennial; stoloniferous, mat-forming. Culms 35-112 cm, ascending. Blades 4-25 cm long, 3-6 mm wide, flat, more or less glabrous. Panicle branches (1)2(3), 2.5-7 cm, often slightly falcate, only the first few spikelets in contact with the spikelets of adjacent branches. Spikelets 3-5.3 mm, with 3-6 florets. Glumes subequal, 1.3-1.8 mm, widely elliptic to ovate or obo-vate in profile, awned, awns 4.5-10 mm; lemmas 3-3.8 mm, lanceolate, keels smooth or finely scabridulous towards the acute or mucronate apices; palea keels not winged; anthers 1.1-1.7 mm. Seeds about 1 mm long, transversely rugose. 2n = unknown.</description>
+  <discussion>Dactyloctenium geminatum is native to tropical eastern Africa. It was found at one time on ballast dumps in Maryland, but has not survived in North America.</discussion>
+</bio:treatment>

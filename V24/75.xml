@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>tribe</rank>
+    <name_authority_date>MELICEAE Endl.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants usually perennial, sometimes annual; cespitose, sometimes rhizomatous. Culms annual, not woody, not branching above the base; internodes hollow. Sheaths closed for their whole length or almost so; collars without tufts of hair on the sides; auricles sometimes present; ligules hyaline, glabrous, often lacerate, occasionally ciliate, those of the lower and upper cauline leaves usually similar; pseudopetioles absent; blades linear to narrowly lanceolate, venation parallel, cross venation sometimes evident; cross sections non-Kranz, without arm or fusoid cells; epidermes without microhairs, sometimes papillate. Inflorescences terminal panicles or racemes; disarticulation above the glumes and beneath the florets or below the glumes. Spikelets 2.5-60 mm, not viviparous, slightly to strongly laterally compressed, with 1-30 florets, proximal florets bisexual, distal 1-3 florets usually sterile, sometimes pistillate, sometimes reduced and amalgamated into a knob- or club-shaped rudiment; rachillas prolonged beyond the base of the distal floret. Glumes exceeded by the distal florets, shorter than to longer than the adjacent lemmas, mostly membranous, scarious distally, 1-11-veined, apices usually rounded to acute; florets laterally or dorsally compressed; calluses blunt, glabrous or with hairs; lemmas of sexual florets rectangular or ovate, mostly membranous, scarious distally, often with a purplish band adjacent to the scarious apices, (4)5-15-veined, veins not converging distally, often prominent, unawned or awned, awns not branched, apices entire to bilobed or bifid, awns straight, subterminal or from the sinuses; paleas from shorter than to longer than the lemmas, similar in texture, 2-veined, veins keeled, sometimes winged; lodicules 2, fleshy, usually connate into a single structure, without a membranous wing, truncate, not ciliate, not or scarcely veined; anthers 1, 2, or 3; ovaries glabrous; styles 2-branched, bases persistent, branches plumose distally. Caryopses ovoid to ellipsoid, longitudinally grooved or not; hila usually linear; embryos less than 1/3 as long as the caryopses. x = (8)9, 10.</description>
+  <discussion>There are approximately 130 species and 8 or 9 genera in the Meliceae. Four of the genera are monotypic. Melica and Glyceria, the two largest genera, are well represented in North America. Pleuropogon and Schizachne are primarily North American, but extend into eastern Asia.
+Molecular studies (e.g., Soreng and Davis 2000; Grass Phylogeny Working Group 2001) show the tribe to be monophyletic and somewhat basal within the Pooideae. Members of the tribe are most easily recognized by the combination of closed leaf sheaths, scarious lemma apices, and non-converging lemma veins. The tribe also differs from other tribes in the Pooideae in having 2 unwinged lodicules that are usually connate into a single structure, and a base chromosome number of 9 or 10. Catabrosa and Briza, whose inclusion in the tribe was suggested by the preliminary results of Mejia-Saules and Bisby (2000), have more membranous lemma margins and free, winged lodicules. Briza also has open leaf sheaths and more convergent lemma veins. Their inclusion is not supported by the molecular data.
+</discussion>
+  <references>Catalan, P., E.A. Kellogg, and R.G. Olmstead. 1997. Phylogeny of Ponceae subfamily Pooideae based on chloroplast ndhV sequences. Molec. Phylogenet. Evol. 8:150-166; Grass Phylogeny Working Group. 2001. Phylogeny and subfamilial classification of the grasses (Poaceae). Ann. Missouri Bot. Gard. 88:373-457; Mejia-Saules, T. and F.A. Bisby. 2000. Preliminary views on the tribe Meliceae (Gramineae: Pooideae). Pp. 83-88 in S.W.L. Jacobs and J. Everett (eds.). Grasses: Systematics and Evolution. CSIRO Publishing, Collingwood, Victoria, Australia. 408 pp.; Soreng, R.J. and J.I. Davis. 2000. Phylogenetic structure in Poaceae subfamily Pooideae as inferred from molecular and morphological characters: Misclassification versus reticulation. Pp. 61-74 in S.W.L. Jacobs and J. Everett (eds.). Grasses: Systematics and Evolution. CSIRO Publishing, Collingwood, Victoria, Australia. 408 pp.</references>
+  <key>
+    <key_body>
+1. Calluses hairy; lemmas awned, awns 8-15 mm long, twisted, divergent to slightly geniculate .....9.03 Schizachne
+1. Calluses glabrous; lemmas unawned or awned, awns to 12 mm long, straight.
+2. Inflorescences racemes; palea keels winged, the wings notched and awned.....9.04 Pleuropogon
+2. Inflorescences usually panicles, racemes in depauperate specimens; palea keels not winged or the wings entire and unawned.
+3. Lower glumes 1-veined, 0.3-4.5 mm long; disarticulation always above the glumes; lemmas unawned, never with hairs more than 1 mm long; culms never with cormous bases; distal florets in the spikelets sometimes reduced, not forming a morphologically distinct rudiment; plants of wet meadows and streamsides .....9.01 Glyceria
+3. Lower glumes 1-9-veined, 2-16 mm long; disarticulation above or below the glumes; lemmas sometimes awned, sometimes with hairs longer than 1 mm; culms sometimes with cormous bases; distal florets in the spikelets often forming a morphologically distinct rudiment; plants of drier or well drained habitats.....9.02 Melica
+
+    </key_body>
+  </key>
+</bio:treatment>

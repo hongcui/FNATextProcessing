@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Kelly W. Allied </author>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>14.60</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>ANTHOXANTHUM L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial or annual; densely to loosely cespitose, sometimes rhizomatous; fragrant. Culms 4-100 cm, erect or geniculate, sometimes branched; internodes hollow. Leaves cauline or basally concentrated, glabrous or softly hairy; sheaths open; auricles absent or present; ligules membranous, sometimes shortly ciliate or somewhat erose; blades flat or rolled, glabrous or sparsely pilose. Inflorescences open or contracted panicles, sometimes spikelike. Spikelets pedicellate or sessile, 2.5-10 mm, laterally compressed, stramineous to brown at maturity, with 3 florets, lowest 2 florets staminate or reduced to dorsally awned lemmas subequal to or exceeding distal floret, distal floret bisexual, unawned; rachillas not prolonged beyond the base of the distal floret; disarticulation above the glumes, the florets falling together. Glumes unequal or subequal, equaling or exceeding the florets, lanceolate to ovate, glabrous or pilose, keeled; calluses blunt, glabrous or hairy. Lowest 2 florets: lemmas strongly compressed, 3-veined, strigose, hairs brown, apices bilobed, unawned or dorsally awned. Distal florets: lemmas somewhat indurate, glabrous or pubescent, shiny, inconspicuously 3-7-veined, unawned; paleas 1-veined, enclosed by the lemmas; lodicules 2 or absent; anthers 2 or 3. Caryopses shorter than the lemmas, concealed at maturity, tightly enclosed in the florets; hila less than 1/3 the length of the caryopses, oval, x = 5.</description>
+  <discussion>Anthoxanthum is a cool-season genus of about 50 species that grow in temperate and arctic regions throughout the world. There are seven species in the Flora region, five of which are native. The fragrance emitted when fresh plants are crushed or burned is from coumarin. In addition to smelling pleasant, coumarin has anti-coagulant properties. It is the active ingredient in Coumadin, a prescription drug used to prevent blood clots in some patients after surgery. A disadvantage of coumarin is that it is metabolized by species of the fungal genus Aspergillus to dicoumarol, which induces vitamin K deficiency and a susceptibility to hemorrhaging in wounded animals. Because of this, using moldy hay containing Anthoxanthum as feed is dangerous.
+This treatment follows the recommendation of Schouten and Veldkamp (1985) in merging what have traditionally be treated as two genera, Anthoxanthum and Hierochloe. In general, Hierochloe has less floral reduction, a less elaborate karyotype, and a higher basic chromosome number than Anthoxanthum (Weimarck 1971). The two genera appear distinct in North America but, when considered on a global level, Schouten and Veldkamp (1985) stated that the two genera overlap, with the placement of many species being arbitrary. Phalaris resembles Anthoxanthum sensu lato in its spikelet structure, differing only in the greater reduction of the lower florets. It also differs in lacking coumarin.
+Anatomical studies (Pizzolato 1984) supported the close relationship of Anthoxanthum and Phalaris. Pizzolato also stated that although the bisexual florets of Hierochloe are described as terminal, a microscopic fourth floret is developed distal to the third (bisexual) floret.
+Wherever they grow, the species that used to be treated as Hierochloe have been used by native peoples. Native Americans used them for incense, baskets, and decorations. In addition, they steeped them in water for a hair-, skin-, and eyewash, or for use as a cold medicine, analgesic, or insecticide. Early Europeans spread the species in churches at festivals. They can also be used to make ale (Stika 2003).
+</discussion>
+  <references>Aiken, S.G., L.L. Consaul, and M.J. Dallwitz. 1995 on. Grasses of the Canadian Arctic Archipelago: Descriptions, illustrations, identification and information retrieval, http://www.mun.ca/biology/delta/arcticf/poa/index.htm; Belk, E. 1939. Studies in the anatomy and morphology of the spikelet and flower of the Gramineae. Ph.D. dissertation, Cornell University, Ithaca, New York, U.S.A. 183 pp.; Hedberg, I. 1990. Morphological, cytotaxonomic and evolutionary studies in Anthoxanthum odoratum L. s. lat.-A critical review. Sommerfeltia 11:97-107; Hitchcock, A.S. 1951. Manual of the Grasses of the United States, ed. 2, rev. A. Chase. U.S.D.A. Miscellaneous Publication No. 200. U.S. Government Printing Office, Washington, D.C., U.S.A. 1051 pp.; Norstog, K.J. 1960. Some observations on the spikelet of Hierochloe odorata. Bull. Torrey Bot. Club 87:95-98; Pizzolato, T.D. 1984. Vascular system of the fertile floret of Anthoxanthum odoratum L. Bot. Gaz. 145:358-371; Schouten, Y. and J.F. Veldkamp. 1985. A revision of Anthoxanthum including Hierochloe (Gramineae) in Malaysia and Thailand. Blumea 30:319-351; Stika, J. 2003. Sweetgrass ale. http://byo.com/feature/1067.html; Weimarck, G. 1971. Variation and taxonomy of Hierochloe' (Gramineae) in the Northern Hemisphere. Bot. Not. 124:129-175; Weimarck, G. 1987. Hierochloe hirta subsp. praetermissa, subsp. nova (Gramineae), an Asiatic-E. European taxon extending to N and C Europe in the Northern Hemisphere. Symb. Bot. Upal. 2:175-181.</references>
+  <key>
+    <key_body>
+1. Glumes unequal, the lower glumes shorter than the upper glumes; lowest 2 florets sterile.
+2. Plants annual; ligules 1-3 mm long; blades 1-5 mm wide; panicles 1-4 cm long .....1. A. aristatum
+2. Plants perennial; ligules 2-7 mm long; blades 3-10 mm wide; panicles 3-14 cm long .....2. A. odoratum
+1. Glumes subequal; lowest 2 florets staminate.
+3. Staminate lemmas awned, the awns of the upper staminate florets 4.5-10.5 mm long; plants densely to loosely tufted, with rhizomes rarely more than 2 cm long   .....3.  A. monticola
+3. Staminate lemmas unawned or with an awn no more than 1 mm long; plants long-rhizomatous. 
+4. Panicles spikelike, 0.3-0.5 cm wide, with 1-2 spikelets per branch; rhizomes 0.3-1 mm thick; plants of the high arctic .....4. A arcticum
+4. Panicles not spikelike, 1-10 cm wide, the longer branches usually with 3+ spikelets; rhizomes 0.7-3 mm thick; plants non-arctic or arctic.
+5. Lower staminate lemmas in each spikelet narrowly elliptic, lengths more than 5 times widths; glumes equaling or slightly exceeded by the apices of the bisexual florets; blades 3-15 mm wide .....5. A occidentale
+5. Lower staminate lemmas in each spikelet elliptic, lengths usually no more than 4 times widths; glumes exceeding the bisexual florets; blades 2-8 mm wide. 
+6. Hairs on the distal portion of the bisexual florets mostly shorter than 0.5 mm, longer hairs, if present, concentrated near the midvein .....6. A nitens
+6. Hairs on the distal portion of the bisexual florets 0.5-1  mm long, evenly distributed around the apices  .....7. A hirtum 
+
+    </key_body>
+  </key>
+</bio:treatment>

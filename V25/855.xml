@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Spartina foliosa Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>CALIFORNIA CORDGRASS</common_names>
+  <description type="morphology">Plants occasionally streaked or tinged with purple, rhizomatous; rhizomes elongate, flaccid, whitish, scales inflated, not closely imbricate. Culms to 150 cm tall, to 10 mm thick, erect, terete, solitary or in small clumps, succulent, glabrous, often with adventitious roots from the lower nodes, having an unpleasant, sulphurous odor when fresh. Sheaths mostly glabrous, throats sparsely pilose, lower sheaths sometimes somewhat wrinkled; ligules 1-2 mm; blades 8-12 mm wide, flat to loosely involute, glabrous, margins usually smooth, sometimes slightly scabrous, apices acuminate. Panicles 12-25 cm, with 3-25 branches, smoothly cylindrical, often partially enclosed in the uppermost sheath; rachises twisted, glabrous; branches 2-8 cm, usually closely appressed and twisted, lower branches noticeably longer and less closely imbricate than the upper branches, all branches with axes rarely extending past the distal spikelets, with 8-30 spikelets. Spikelets 8-25 mm, usually appressed, often appearing twisted, those on the lower branches usually less closely imbricate than those on the upper branches. Glumes usually curved, sides and keels glabrous, scabrous, or hispid, apices acuminate to obtuse or rounded; lower glumes 6-12 mm; upper glumes 8-25 mm, 1-veined; lemmas glabrous or sparsely appressed pubescent on the sides, keels glabrous, apices obtuse, rounded or lobed; paleas slightly exceeding the lemmas, thin, papery, glabrous, apices usually rounded, rarely acuminate; anthers 3-6 mm. 2n = 56.</description>
+  <discussion>Spartina foliosa grows in the intertidal zone from northern California to Baja California, Mexico. Populations in San Francisco Bay are threatened by various introduced species of Spartina. Of particular concern is S. alterniflora, which forms hybrids with S. foliosa that have a broader ecological amplitude than either parent. In California, S. foliosa is often confused with S. densiflora, which is also established in some regions, but S. foliosa differs from that species in being rhizomatous and having softer culms and wider leaf blades.</discussion>
+</bio:treatment>

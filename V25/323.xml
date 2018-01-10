@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Chloris ciliata Sw. </name_authority_date>
+  </taxon_identification>
+  <common_names>FRINGED WINDMILL-GRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose. Culms 25-60 cm, erect. Sheaths glabrous; ligules absent or 0.3-0.4 mm, ciliate; blades 10-20 cm long, about 5 mm wide,   sometimes   with   long basal hairs, otherwise glabrous or scabrous. Panicles digitate, with 2-5(7) evidently distinct branches; branches 3.5-6(8) cm, ascending to spread¬ing. Spikelets imbricate, with 1 bisexual and 2 sterile florets. Lower glumes 1.3-1.7 mm; upper glumes 2-2.5 mm; lowest lemmas 1.8-2.8 mm long, 0.8-1.1 mm wide, strongly laterally compressed, elliptic, margins and keels conspicuously hairy, hairs 0.5-1.5 mm, apices awned, awns 0.9-1.4 mm; second florets 1.3-1.8 mm long, 0.8-1.8 mm wide, widened distally, not inflated, truncate, enclosing the distal florets, awned, awns 0.9-1.4 mm; distal florets 0.8-1.1 mm long, 0.9-1.2 mm wide, as long as or longer than the subtending rachilla segments, unawned. Caryopses about 1.4 mm long, 0.7 mm wide. 2n = 40.</description>
+  <discussion>Chloris ciliata is a native species of grasslands from the Gulf Coast of Texas, through the Caribbean islands and Mexico to Central America, then, as a disjunct, in Argentina. Argentinean plants differ from northern plants in having long hairs associated with their basal ligules, but no other differences are known. It has been found, as an introduction, in New York.</discussion>
+</bio:treatment>

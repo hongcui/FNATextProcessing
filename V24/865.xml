@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>14.19</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>CATABROSA P. Beauv.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; not rhizomatous, sometimes stoloniferous. Culms 5-70 cm, usually decumbent and rooting at the lower nodes; nodes glabrous. Sheaths closed; auricles absent; ligules membranous; blades flat. Inflorescences open panicles, with at least some branches longer than 1 cm. Spikelets pedicellate, laterally compressed to terete, with (1)2(3) florets; rachillas glabrous, prolonged beyond the base of the distal fertile floret, empty or with reduced florets; disarticulation above the glumes and beneath the florets. Glumes unequal, much shorter than the lemmas, scarious, veinless or the upper glumes with 1 vein at the base, apices rounded to truncate, unawned; calluses short, blunt, glabrous; lemmas glabrous, conspicuously 3-veined, veins raised, rounded over the midvein, apices rounded to truncate, erose and scarious, unawned; paleas subequal to the lemmas, 2-veined; lodicules 2, truncate, irregularly lobed; anthers 3; ovaries glabrous. Caryopses shorter than the lemmas, concealed at maturity, fusiform; hila ovoid, x = 5. </description>
+  <discussion>Catabrosa, a genus of two species, grows in marshes and shallow waters of the Northern Hemisphere and South America. It resembles members of the Meliceae in its closed leaf sheaths, truncate, scarious lemma apices, and chromosome base number, but lacks the distinctive lodicule morphology of that tribe. Some features support its inclusion in the Poeae. The lodicules are similar to those found elsewhere in the Poeae, and the closed leaf sheaths are not uncommon there. Chloroplast DNA data also support its placement in the Poeae (Soreng et al. 1990). The scarious glumes and prominently 3-veined lemmas are unusual in both the Poeae and Meliceae, but are also found in Cutandia of the Poeae. One species is native to the Flora region.</discussion>
+  <references>Soreng, R.J., J.I. Davis, and J.J. Doyle. 1990. A phylogenetic analysis of chloroplast DNA restriction site variation in Poaceae subfam. Pooideae. PI. Syst. Evol. 172:83-97.
+ 
+</references>
+</bio:treatment>

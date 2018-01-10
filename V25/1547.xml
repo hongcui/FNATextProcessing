@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthium annulatum (Forssk.) Stapf </name_authority_date>
+  </taxon_identification>
+  <common_names>RINGED DICHANTHIUM</common_names>
+  <description type="morphology">Plants perennial; stoloniferous. Culms to 100 cm, decumbent, erect portions generally to 60 cm, often branched above the bases, glabrous beneath the inflorescences; nodes glabrous or short-pubescent. Sheaths glabrous; ligules 1-1.8 mm, truncate; blades 3-30 cm long, 2-7 mm wide, scabrous, sparsely pilose, hairs some¬times papillose-based. Rames 2-9, 2.5-7 cm, subdigitate, erect to ascending, bases without spikelets, glabrous, internodes ciliate on the margins. Sessile spikelets 2.5-5 mm long, 1-1.5 mm wide; lower glumes elliptic or oblong, sparsely pubescent below, apices obtuse, irregularly 2-3-toothed, 5-9-veined; upper glumes 3-veined; awns 1.3-2.2 cm, twice-geniculate. Pedicellate spikelets 2.5-5 mm, usually staminate. 2n = 20, 40.</description>
+  <discussion>Dichanthium annulatum is native to southeastern Asia and is a highly esteemed forage grass, especially in India. It is now established at scattered locations in Texas, Louisiana, and Florida.</discussion>
+</bio:treatment>

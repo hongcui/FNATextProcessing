@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Elymus stebbinsii subsp. septentrionalis Barkworth</name_authority_date>
+  </taxon_identification>
+  <common_names>NORTHERN STEBBINS' WHEATGRASS</common_names>
+  <description type="morphology">Lowest visible cauline node usually glabrous, rarely pubescent. Lower leaf sheaths usually glabrous, rarely pubescent. Spike internodes 9-21 mm. Spikelets 13-22 mm. Lemmas awned, awns 8-28 mm.</description>
+  <discussion>Elymus stebbinsii subsp. septentrionalis grows primarily in the Sierra Nevada. Its range extends from near the Oregon border to Tulare County, and includes the coastal mountains north of San Francisco Bay.</discussion>
+</bio:treatment>

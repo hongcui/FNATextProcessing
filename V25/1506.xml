@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Saccharum coarctatum (Fernald) R.D. Webster </name_authority_date>
+  </taxon_identification>
+  <common_names>COMPRESSED PLUMEGRASS</common_names>
+  <description type="morphology">Plants cespitose, not or shortly rhizomatous. Culms 1-2.5 m; nodes with 1-3 mm hairs. Sheaths glabrous; auricles 0.3-3 mm; ligules 1-2 mm; blades 15-40 cm long, 7-12 mm wide. Peduncles 35-45 cm, glabrous; panicles 3-7 cm wide, linear to oblong; rachises 13-35 cm, glabrous or sparsely pilose; primary branches 5-12 cm, appressed; rame internodes 3-6 mm, with hairs. Sessile spikelets 6-8 mm long, 0.9-1.2 mm wide, brown. Callus hairs 3-5 mm, from shorter than to equaling the spikelets, white or straw-colored; lower glumes smooth or scabrous, 5-veined; lower lemmas 5.8-7.5 mm, usually 3-veined; upper lemmas 4-5.5 mm, 0.7-0.8 times as long as the lower lemmas, 3-veined, entire; awns 16-26 mm, terete and straight to curving basally; lodicule veins extending into hairlike projections to 0.6 mm long; anthers 2. Pedicels 3-5 mm, sparsely and shortly pilose. Pedicellate spikelets similar to the sessile spikelets. 2n = 60.</description>
+  <discussion>Saccharum coarctatum is common in wet, peaty or sandy soils of swales, pond margins, and meadows of the coastal plain of the southeastern United States. It is unusual in having lodicule veins that extend into hairlike projections up to 0.6 mm long. </discussion>
+</bio:treatment>

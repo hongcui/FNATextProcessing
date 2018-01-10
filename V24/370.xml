@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Taeniatherum caput-medusae (L.) Nevski </name_authority_date>
+  </taxon_identification>
+  <common_names>MEDUSAHEAD</common_names>
+  <description type="morphology">Culms (5)10-55(70) cm. Auricles 0.1-0.5 mm, rarely absent; ligules 0.2-0.6 mm; blades (0.2) 0.7-2.5 mm wide, flat to involute. Spikes 1.2-6 cm. Spikelets 6-45 mm; glumes (5)7-80 mm, awnlike, erect to reflexed. Bisexual florets: lemmas 5.5-8 mm, awns (20) 30-110 mm, divergent; anthers 0.8-1 mm. Caryopses 4-5.2 mm. 2n = 14.</description>
+  <discussion>Taeniatherum caput-medusae is native from Portugal and Morocco east to Kyrgyzstan. It usually grows on stony soils, and flowers from May-June (July). It is an aggressive invader of disturbed sites in the western United States, where it has become a serious problem on rangelands. It has been found as a rare introduction at several sites in the eastern United States, but may not persist there. It is listed as a noxious weed by the U.S. Department of Agriculture.
+Frederiksen (1986) recognized three subspecies within Taeniatherum caput-medusae, distinguishing among them on the basis of morphology and geography. Plants in the Flora region belong to Taeniatherum caput-medusae (L.) Nevski subsp. caput-medusae. It differs from the other two subspecies in its longer glumes and shorter lemmas.
+</discussion>
+</bio:treatment>

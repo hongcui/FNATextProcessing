@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Stephan L. Hatch</author>
+    </source>
+  </meta>
+  <number>17.11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>REDFIELDIA Vasey</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; with extensive, often deep, horizontal or vertical rhizomes. Culms 50-130 cm, erect, bases usually buried and rooting at the nodes. Leaves cauline; sheaths shorter than the internodes, open, ribbed; ligules membranous, ciliate; auricles absent; blades loosely involute, sometimes scabridulous, apices attenuate. Inflorescences terminal, conical to oblong panicles, open to diffuse, exceeding the upper leaves; branches slender, widely spreading. Pedicels longer than the spikelets, capillary, flexible. Spikelets ovate to obovate, olive-green to brownish, with (1)2-6 florets; sterile florets distal to the bisexual florets; disarticulation above the glumes and below the florets. Glumes unequal, usually exceeded by the florets, glabrous, acute; lower glumes 1-veined; upper glumes 1- or 3-veined; calluses with a tuft of soft hairs; lemmas lanceolate to falcate, glabrous or shortly pubescent, at least on the distal 2/3, 3-veined, lateral veins converging distally, apices acute to awn-tipped, entire or with 3 minute teeth; anthers 3. x = unknown. </description>
+  <discussion>Redfieldia is a monotypic genus that is endemic to the Flora region.</discussion>
+  <references>Reeder, J.R. 1976. Systematic position of Redfieldia (Gramineae). Madrono 23:434-438.</references>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Ammophila breviligulata subsp. champlainensis (F. Seym.) P.J. Walker, C.A. Paris & Barrington ex Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>CHAMPLAIN BEACHGRASS</common_names>
+  <description type="morphology">Flag leaf blades 8-22 cm. Panicles 9-17 cm. Glumes 8-11.5 mm; lemmas 8-10 mm; anthers 3-4.5 mm. 2n = unknown.</description>
+  <discussion>Ammophila breviligulata subsp. champlainensis differs from subsp. breviligulata primarily in its earlier anthesis, from June to early July rather than late July to September. It also tends to be smaller, but the two subspecies overlap in all their morphological characteristics.</discussion>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Tridens muticus (Torr.) Nash var. muticus</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms usually 20-50 cm. Blades 1-2 mm wide. Upper glumes 4-5(6) mm, 1-veined.</description>
+  <discussion>Culms usually 20-50 cm. Blades 1-2 mm wide. Upper glumes 4-5(6) mm, 1-veined.</discussion>
+</bio:treatment>

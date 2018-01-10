@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Schizachyrium maritimum (Chapm.) Nash </name_authority_date>
+  </taxon_identification>
+  <common_names>GULF BLUESTEM</common_names>
+  <description type="morphology">Plants often appearing rhizomatous. Culms 35-80 cm, solitary, decumbent, branching at the lower nodes, often rooting from nodes in contact with the soil. Leaves glaucous throughout; sheaths shorter than the internodes, keeled; collars constricted, elongate; ligules 0.5-1 mm; blades 11-142 cm long, 3.5-5.5 mm wide, folded, without a longitudinal stripe of white, spongy tissue. Peduncles 1-6 cm; subtending leaf sheaths 3.2-6.6 cm long, 3-6.5 mm wide; rames 2.5-6.5 cm, flexuous, usually partially exserted, appearing somewhat open; internodes 4-5.5 mm, straight, pubescent for 1/2 - 3/4 of their length, hairs 2.5-6 mm. Sessile spikelets 9-11 mm; calluses 0.3-0.5 mm; hairs to 1 mm; awns 8-13 mm. Pedicels 5-7 mm, as conspicuously villous as the rachis. Pedicellate spikelets 4.5-8.5 mm, staminate, unawned or awned, awns to 3.5 mm. 2n = 40.</description>
+  <discussion>Schizachyrium maritimum is endemic to the south-eastern United States, growing in sandy areas, usually at the ocean waterline but also along roads in low, dune areas, from Louisiana to the Florida panhandle.
+The plants often appear rhizomatous because the lower, decumbent portions of the culms are frequently covered by sand. It is an effective sand binder and can withstand frequent inundation by sea water, the constricted collar permitting the blades to sway freely when subjected to wind or wave action.
+</discussion>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Molinia caerulea (L.) Moench </name_authority_date>
+  </taxon_identification>
+  <common_names>PURPLE MOORGRASS, MOLINIE BLEUE</common_names>
+  <description type="morphology">Culms 15-150(250) cm, erect, rigid; basal internodes 2-6 cm, usually swollen and clavate. Collars marked with a line or narrow ridge; sheaths smooth, mostly glabrous, margins sparsely hairy distally; blades 0.2-1 cm wide. Panicles 5-40 cm, usually contracted; branches short and erect or long and lax. Spikelets 4-9 mm. Lower glumes 1.5-2.5 mm, hyaline, obtuse, slightly erose; upper glumes 2-3 mm, acute; calluses completely or almost glabrous; lemmas 2.5-4.5 mm, ovate, acute to obtuse; anthers 1.5-3 mm, purple. 2n = 18, 36, 90.</description>
+  <discussion>Molinia caerulea is established at scattered locations in the Flora region, but not at all the locations where it has been found. For instance, the record for Pennsylvania reflects a collection made in 1945 from an abandoned field; there are no extant populations known in the area. Most records are from southeastern Canada and the northeastern United States, but it has also been reported as being established in western Oregon.
+Plants with long, lax panicle branches have been called Molinia caerulea subsp. arundinacea (Schrank) H. Paul rather than Molinia caerulea (L.) Moench subsp. caerulea, but there are many intermediates.
+</discussion>
+</bio:treatment>

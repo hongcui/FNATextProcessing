@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Calamagrostis epigejos (L.) Roth </name_authority_date>
+  </taxon_identification>
+  <common_names>BUSHGRASS, CHEE REEDGRASS, FEATHERTOP, CALAMAGROSTIDE ÉPIGÉOIS,
+CALAMAGROSTIDE COMMUNE
+</common_names>
+  <description type="morphology">Plants with sterile culms; cespitose, with numerous rhizomes 8+ cm long, 1.5-2 mm thick. Culms (50)100-150(160) cm, unbranched, slightly scabrous beneath the panicles; nodes (1)2-4(6). Sheaths and collars smooth or slightly scabrous; ligules (1.5)3-7(13) mm, truncate to obtuse, usually entire, infrequently lacerate; blades (6)25-40(55) cm long, (2.5)3.5-8(13) mm wide, flat, pale green, scabrous. Panicles (14)18-23(35) cm long, (2)2.5-4(6) cm wide, erect, contracted, greenish; branches (3.5)5-8(11) cm, smooth or slightly scabrous, spikelets usually confined to the distal 3/4, infrequently confined to the distal 1/2. Spikelets (4)4.5-5.5(8) mm; rachilla prolongations about 1 mm, hairs about 3 mm. Glumes slightly keeled, usually smooth, infrequently scabrous near the apices, lateral veins prominent, apices long-acuminate; callus hairs (2)3.5-5(6.5) mm, (1.3)1.5-2(2.5) times as long as the lemmas, abundant; lemmas 2-3.5(5) mm, (1.5)2-3(4.5) mm shorter than the glumes; awns (1.5)2-3(4) mm, attached to the lower 1/3-2/3 of the lemmas, not exserted, delicate, not easily distinguished from the callus hairs, usually straight, infrequently bent; anthers about (1)1.5(2) mm. 2n = 28, 35, 42, 56, ±70.</description>
+  <discussion>Calamagrostis epigejos is an introduced Eurasian species that was first found in North America in the 1920s. It grows in waste places, along roadsides, in juniper swamps, sandy woods, and thickets, and on rehabilitated tailings and cinders of railway beds. It is known from scattered locations in southern Canada and the contiguous United States. It is probably more widespread than shown. In 2005, it was collected from the west coast, in southwestern British Columbia, for the first time.
+In Ontario, Calamagrostis epigejos became established from impurities in seed mixtures used for highway roadcut revegetation. Rhizomes purchased from Manitoba have been used to stabilize gold mine tailings in Ontario. In Wisconsin, it was planted for erosion control at least as early as 1950. The Idaho record is from reseeded rangeland plots, and the Wyoming one from plants grown from purchased rhizomes.
+Greene (1980) stated that almost all plants from the Flora region fit Calamagrostis epigejos var. georgica (K. Koch) Griseb. Because there is notable variability and overlap in the characteristics used to distinguish the varieties in Eurasia, no attempt has been made to provide a varietal treatment for the Flora region. Hybrids of C. epigejos with C. arundinacea (L.) Roth are called C. xacutiflora (p. 721).
+</discussion>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>20</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia thurberi (Scribn.) Rydb. </name_authority_date>
+  </taxon_identification>
+  <common_names>THURBER'S MUHLY</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, not cespitose. Culms 12-36 cm tall, 0.3-0.5 mm thick, often clumped, usually erect, some¬what decumbent at the base; internodes mostly or completely glabrous, sometimes strigose below the nodes. Sheaths shorter than the internodes, hirtellous near the margins; ligules 0.9-1.2 mm, membranous, truncate to obtuse, erose; blades 0.2-3.7 cm long, 0.2-1 mm wide, tightly involute, straight to arcuate, smooth or scabridulous abaxially, hirtellous adaxially. Panicles 0.7-5.5 cm long, 0.2-0.7 cm wide, contracted, not dense, sometimes interrupted below; primary branches 0.4-1.8 cm, appressed; pedicels 0.1-4 mm. Spikelets 2.6-4 mm. Glumes subequal, 1.6-3 mm, 1-veined, scabridulous on the veins, acute, unawned; lemmas 2.6-4 mm, lanceolate, hairy on the lower 3/4, hairs to 1.2 mm, tawny, apices acuminate, unawned or awned, awns to 1 mm; paleas 2.6-4 mm, lanceolate, intercostal region tawny pubescent; anthers 2.1-2.3 mm, yellowish-purple. Caryopses 2-2.2 mm, fusiform, light brownish. 2n = unknown.</description>
+  <discussion>Muhlenbergia thurberi usually grows in moist soil in seeps near canyon cliffs, sandstone slopes, and rocky ledges, at elevations of 1350-2300 m. The species appears to be restricted to the southwestern United States. It flowers from July to September.
+Muhlenbergia thurberi resembles M. curtifolia, but differs in its tightly involute blades, and longer anthers and ligules. The two species have been found growing within 50 m of each other in Apache County, Arizona, but in different habitats, M. curtifolia growing in a damp drainage areas whereas M. thurberi grew near a moist but dryer canyon cliff.
+</discussion>
+</bio:treatment>

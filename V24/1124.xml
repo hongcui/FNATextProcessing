@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Apera interrupta (L.) P. Beauv. </name_authority_date>
+  </taxon_identification>
+  <common_names>INTERRUPTED WINDGRASS</common_names>
+  <description type="morphology">Culms (5)10-50(75) cm, weak, slender, solitary or with several shoots, sometimes sparingly branched above the base; internodes usually longer than the sheaths. Sheaths often purplish; ligules 1.5-5 mm, acute to truncate, erose, margins decurrent; blades usually 4-12 cm long, 0.3-4 mm wide, flat or convolute when dry. Panicles 3-15(20) cm long, 0.4-1.5(3) cm wide, contracted, somewhat interrupted below; branches erect to ascending, most spikelet-bearing to within 2 mm of the base; pedicels 0.5-2 mm. Spikelets 2-2.8 mm, green or purplish; rachillas prolonged 0.2-0.6 mm. Lower glumes 1-2.2 mm; upper glumes 2-2.5(2.8) mm; lemmas 1.5-2.5 mm, slightly involute, awned, awns 4-10(16) mm; anthers 0.3-0.5 mm, often purplish brown. Caryopses 1-1.5 mm. 2n = 14, 28.</description>
+  <discussion>Apera interrupta grows as a weed in lawns, grain fields (especially winter wheat), sandy open ground, and roadsides. Introduced from Europe, it now grows from British Columbia south to Arizona and New Mexico, as well as in Ontario and at a few scattered locations in the eastern part of the Flora region.</discussion>
+</bio:treatment>

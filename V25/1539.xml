@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>David W. Hall </author>
+      <author>John W. Thieret</author>
+    </source>
+  </meta>
+  <number>26.10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>CHRYSOPOGON Trin.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; if perennial, sometimes cespitose, sometimes rhizomatous or stoloniferous. Culms 15-300 cm, erect, sometimes decumbent. Leaves not aromatic; mostly basal; auricles absent; ligules shortly membranous and ciliolate to ciliate or of hairs; blades often rough and glaucous. Inflorescences terminal panicles with elongate rachises and numerous branches, branches often naked for a considerable distance before terminating in a rame; rames often with only a single heterogamous triplet of 1 sessile and 2 pedicellate spikelets, sometimes with l(-3) heterogamous sessile-pedicellate spikelet pairs below the terminal triplet, internodes without a translucent median groove; disarticulation oblique, below the sessile spikelets. Sessile spikelets terete or laterally compressed; calluses usually sharp, setose, hairs white or yellow to brown; glumes leathery to stiff, involute or folded and keeled above; lower glumes rounded or laterally compressed; lower florets sterile; upper florets bisexual, unawned or awned. Pedicels slender, not fused to the rame axes, without a translucent groove. Pedicellate spikelets dorsally compressed or absent, if present, lower florets sterile and unawned, upper florets sterile or staminate, awned or unawned. x = 5 or 10.</description>
+  <discussion>Chrysopogon is a tropical and subtropical genus of 26 species. All but one species are native to the Eastern Hemisphere tropics, the majority to India. Chrysopogon pauciflorus is native to Florida and Cuba; four species have been introduced in the Flora region.
+Some species of Chrysopogon are ecologically or economically important outside the region, C. zizanioides being used for controlling soil erosion, C. fulvus for forage, and C. aciculatus for lawns. Chrysopogon aciculatus, however, is also an aggressive weed whose sharp calluses can pierce the stomach of grazing animals and get in the feet of soft-footed animals.
+</discussion>
+  <references>National Research Council. 1993. Vetiver Grass: A Thin Green Line Against Erosion. National Academy Press, Washington, D.C., U.S.A. 171 pp.; Veldkamp, J.F. 1999. A revision of Chrysopogon Trin. including Vetiveria Bory (Gramineae) in Thailand and Malesia with notes on some other species from Africa and Australia. Austrobaileya 5:503-533.</references>
+  <key>
+    <key_body>
+1. Upper lemmas of sessile spikelets awned, the awns 2-16 cm long.
+2. Plants annual; pedicellate spikelets 7.2-15 mm long.....1. C. pauciflorus
+2. Plants perennial; pedicellate spikelets 2.5-8 mm long   .....2. C. fulvus
+1. Upper lemmas of sessile spikelets unawned or the awns no more than 8 mm long.
+3. Calluses of the sessile spikelets 0.6-0.8 mm long, rounded, with white hairs; plants not stoloniferous .....4. C. zizanioides
+3. Calluses of the sessile spikelets 3-6.4 mm long, sharp, with golden-yellow hairs; plants extensively stoloniferous .....3. C. aciculatus
+
+    </key_body>
+  </key>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Zea diploperennis H.H. litis, Doebley & R. Guzman </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; rhizomatous, rhizomes to 15 cm, internodes 0.2-0.6 cm, often forming scaly, tuberous short shoots 1-2 cm thick. Culms 1-3.5 m tall, (1)2-3 cm thick, solitary or in large clumps. Blades usually to 40 cm long, 4-5.5 cm wide, linear-lanceolate. Pistillate peduncles (1)2-4(5) per node, 5-25(52) cm, the 3-5 longer peduncles extending far beyond the subtending leaf sheaths, each peduncle with 1(2) pistillate rames; pistillate rames 5-10 cm long, 4-5 mm thick, distichous, with 5-10 solitary spikelets, frequently not enclosed in a leaf sheath; fruitcases trapezoidal in side view, 6-9 mm on the long side, 2.5-4.5 mm on the short side, 4-5 mm in diameter. Caryopses concealed by the lower glumes. Terminal staminate panicles 6-18 cm, with 2-15 branches; branches 6-15 cm, erect to divergent, internodes 2-6 mm; spikelets 8.5-11.5 mm long, about 3 mm wide, densely imbricate; lower glumes flat dorsally, stiff, not translucent, margins tightly enclosing the upper glumes, the 2 principal sublateral veins prominently keeled and apically winged. 2n = 20.</description>
+  <discussion>Zea diploperennis, although locally abundant, is rare in the wild, being known only from a few populations in the Sierra de Manantlan, Jalisco, Mexico. It grows at elevations of 1400-2400 m, sometimes forming large clones or extensive colonies in old maize fields and on the edges of oak-pine cloud forests. It is grown for genetic research and plant breeding in many countries and occasionally as an ornamental plant in warmer parts of the contiguous United States. It hybridizes infrequently with Z. mays subsp. mays in its native range.</discussion>
+</bio:treatment>

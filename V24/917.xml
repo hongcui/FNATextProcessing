@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>14</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Agrostis oregonensis Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>OREGON REDTOP</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous or stoloniferous. Culms 12-75 cm, erect, with up to 5 nodes. Leaves mostly basal, basal leaves usually persistent; sheaths smooth or scabridulous, ligules 1.2-6.3 mm, usually scabridulous, sometimes smooth, truncate to rounded, lacerate-erose; blades 10-30 cm long, (1)2-4 mm wide, flat, culm blades usually less substantial than the basal blades. Panicles 8-35(60) cm long, (1.5)2.5-14 cm wide, lanceolate-ovate, usually 3 times longer than wide, open, bases exserted from the upper sheaths at maturity, lowest node with 1-15 branches; branches scabrous to scabridulous, ascending, mostly branching above midlength, lower branches occasionally branching to near the base, spikelets somewhat clustered towards the tips, lower branches 2-10 cm, mostly longer than 3 cm; pedicels (0.5)1-3.5(6) mm; secondary panicles not present. Spikelets lanceolate to narrowly ovate, yellowish green to purple. Glumes unequal, 2-3.6 mm, l(3)-veined, scabrous on the midvein, occasionally also sparsely scabridulous over the body, acute to acuminate; callus hairs to 0.2 mm, sparse; lemmas 1.5-2.5 mm, usually smooth, sometimes scabridulous or pubescent, translucent to opaque, 5-veined, veins faint or prominent distally, apices acute to obtuse, usually entire, sometimes erose or toothed, teeth to about 0.4 mm, usually unawned, sometimes awned from midlength, awns to 2 mm, straight, not exserted, sometimes awned and unawned spikelets present on the same plant; paleas absent, or to 0.2 mm and thin; anthers 3, 0.5-1.2 mm. Caryopses 1-1.6 mm; endosperm semisoft. 2n = 42.
+ 
+</description>
+  <discussion>Agrostis oregonensis grows in wet habitats, such as stream and lake margins, damp woods, and meadows, in western North America, primarily in the Pacific Northwest from British Columbia to California and Wyoming. It has not been found in Mexico.</discussion>
+</bio:treatment>

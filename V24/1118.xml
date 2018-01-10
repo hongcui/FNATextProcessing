@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Alopecurus rendlei Eig </name_authority_date>
+  </taxon_identification>
+  <common_names>RENDLE'S MEADOW FOXTAIL</common_names>
+  <description type="morphology">Plants annual; tufted. Culms 8-30(40) cm, erect or decumbent. Ligules 0.6-3 mm, obtuse; blades 1-16 cm long, 1-3 mm wide; upper sheaths inflated. Panicles 1-3.2 cm long, 5-11 mm wide. Glumes 5-6.4 mm, connate in the lower 1/4-1/3, dilated and coriaceous in the lower 1/2, pilose or glabrous in the lower 1/2, indurate and constricted above the middle, keels not winged, ciliate on all veins, apices acute, slightly divergent; lemmas 5.6-6.4 mm, connate basally, glabrous or puberulent distally, apices coriaceous, acuminate, awns 6.5-18 mm, geniculate, exceeding the lemmas by 0.8-7.2 mm; anthers about 3 mm. Caryposes 3.5-4.5 mm. 2n = 14.</description>
+  <discussion>Alopecurus rendlei is native to wet meadows, and adventive in roadsides and waste places, in southern and western Europe. It was found growing on ballast in Philadelphia, Pennsylvania in 1880; it has not been collected in North America since then.</discussion>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa laxa subsp. banffiana Soreng</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Basal branching mainly extravaginal. Blades thin, Panicles 2-8 cm, lax, loosely contracted, sparse, with 2-3(5) branches per node; branches steeply ascending, fairly straight, usually sparsely scabrous, infrequently smooth. Glumes lanceolate to broadly lanceolate; lower glumes 3-veined; calluses glabrous; lemmas with keels short-villous for at least 1/2 their length, usually the lateral veins on at least 1 side of some florets sparsely softly puberulent, infrequently all the lateral veins glabrous; anthers 0.8-1.1 mm. 2n = 84.</description>
+  <discussion>Poa laxa subsp. banffiana grows primarily in mesic alpine locations of the Rocky Mountains in Canada and the United States. It is sometimes difficult to distinguish from P. glauca (p. 576).</discussion>
+</bio:treatment>

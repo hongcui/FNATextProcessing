@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Avena sativa L. </name_authority_date>
+  </taxon_identification>
+  <common_names>OATS, CULTIVATED OATS, NAKED OATS, AVOINE, AVOINE CULTIVÉE</common_names>
+  <description type="morphology">Plants annual. Culms 35-180 cm, prostrate to erect when young, becoming erect at maturity. Sheaths smooth or scabridulous; ligules 2-8 mm, truncate to acute; blades 8-45 cm long, 3-14 (25) mm wide, scabridulous. Panicles (6)15-40 cm long, 5-15 cm wide, nodding. Spikelets (18)25-32 mm, to 50 mm in 'naked oats', with 1-2 florets (to 7 in 'naked oats'); disarticulation not occurring, the florets remaining attached even when mature. Glumes subequal, (18)20-32 mm, 9-11-veined; calluses glabrous; lemmas 14-18 mm, usually indurate, membranous in 'naked oats', usually glabrous, sometimes sparsely strigose, apices erose to dentate, longest teeth 0.2-0.5 mm, usually unawned, sometimes awned, awns 15-30 mm, arising in the middle 1/3, weakly twisted, not or only weakly geniculate; lodicules with a lobe or tooth on the wings, this sometimes very small; anthers (1.7)3-4.3 mm. 2n = 42.</description>
+  <discussion>Avena sativa, a native of Eurasia, is widely cultivated in cool, temperate regions of the world, including North America. Fall-sown oats are planted in the Pacific and southern states in the United States; spring-sown oats are more important elsewhere in North America. It is sometimes planted as a fast-growing soil stabilizer along roadsides. Several forms are grown, of which the most distinctive are 'naked oats'. These differ from typical forms as indicated in the description, and in having caryopses that fall from the florets. Escapes from cultivation are common but rarely persist.
+Avena sativa hybridizes readily with A. fatua, forming hybrids with the fatua-type. lodicule. The hybrids are easily confused with fatuoid forms of A. sativa, which differ in having the sativa-type lodicule.
+ 
+</discussion>
+</bio:treatment>

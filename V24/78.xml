@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Glyceria grandis S. Watson </name_authority_date>
+  </taxon_identification>
+  <common_names>AMERICAN GLYCERIA, AMERICAN MANNAGRASS</common_names>
+  <description type="morphology">Plants perennial. Culms 50-150 (200) cm tall, 8-12 mm thick, erect or decumbent and rooting at the base. Sheaths smooth or scabridulous, keeled; ligules 1-5 (7) mm, truncate to rounded, ligules of the lower leaves stiff at the base, ligules of the upper leaves flexible throughout; blades 25-43 cm long, 4.5-15 mm wide. Panicles 16-42 cm long, 12-20 cm wide, open; branches (7)10-18 cm, lax, widely divergent to drooping, with 35-80+ spikelets; pedicels 1-15 mm. Spikelets 3.2-10 mm long, 2-3 mm wide, somewhat laterally compressed, oval to elliptic in side view, with 4-10 florets. Glumes mostly hyaline, usually the midvein of 1 or both glumes extending to the apices, apices acute; lower glumes 1-2.3 mm; upper glumes 1.5-2.7 mm; rachilla internodes 0.5-0.8 mm; lemmas 1.8-3 mm, prominently (5)7-veined, veins often scabridulous, intercostal regions smooth, apices rounded to truncate, sometimes erose, almost flat at maturity; paleas from shorter than to slightly longer than the lemmas, lengths more than 3 times widths, keels not winged, ciliolate, tips not strongly incurved, truncate to notched between the keels; anthers 3, 0.5-1.2 mm. Caryopses 1-1.5 mm. 2n =20.</description>
+  <discussion>Glyceria grandis grows on banks and in the water of streams, ditches, ponds, and wet meadows, from Alaska to Newfoundland and south in the mountains to California, Arizona, and New Mexico in the western United States, and to Virginia and Tennessee in the eastern United States. It is similar to G. maxima, differing primarily in its shorter, flatter lemmas and shorter anthers. It is also confused with G. elata and Torreyochloa pallida. It differs from the former in having acute glumes with long veins, more evenly dark florets, flatter lemma apices, and paleal keel tips that do not point towards each other. It differs from  
+Torreyochloa pallida in its closed leaf sheaths and 1-veined glumes.
+</discussion>
+  <key>
+    <key_body>
+1. Spikelets 3.2-6.4 mm long, with 4-8 florets.....var. grandis
+1. Spikelets 6-10 mm long, with 5-10 florets .....var. komarovii
+
+    </key_body>
+  </key>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>31</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum langei (E. Fourn.) Nash </name_authority_date>
+  </taxon_identification>
+  <common_names>RUSTYSEED PASPALUM</common_names>
+  <description type="morphology">Plants perennial; cespitose. Culms 23-125 cm, erect; nodes
+glabrous or pubescent. Sheaths glabrous or pubescent; ligules 0.6-1.9 mm; blades to 38 cm long, 4-18 mm wide, flat, glabrous or pubescent, dark green. Panicles terminal, with 1-3(4) racemosely arranged branches; branches 2.3-13.4 cm, erect to divergent, terminating in a spikelet; branch axes 0.2-1 mm wide, glabrous, margins scabrous. Spikelets 2.1-3.3 mm long, 1.3-1.6 mm wide, paired, imbricate, appressed to the branch axes, elliptic to obovate, stramineous to brown. Lower glumes 0.4-1.2(1.8) mm, stramineous to brown; upper glumes with papillose-based short pubescence, 3- or 5-veined, margins entire, lower lemmas with papillose-based short pubescence, lacking ribs over the veins, 3-veined, margins entire; upper florets light stramineous. Caryopses 1.3-1.5 mm, light to dark brown. 2n = 40, 60. 
+</description>
+  <discussion>Paspalum langei is native from Texas to Florida, and extends through Mexico to Venezuela and the Antilles. It grows at the edges of moist woods and in disturbed areas.</discussion>
+</bio:treatment>

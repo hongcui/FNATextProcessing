@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Rytidosperma racemosum (R. Br.) Connor 8c Edgar </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants loosely cespitose, shortly rhizomatous. Culms to 90 cm, erect, branching extravaginal, new shoots with scaly cataphylls. Leaves mostly basal, exceeded by or as long as the culms, flag leaf blades usually reaching the inflorescences; sheaths glabrous or with scattered hairs, becoming brownish, with apical tufts of hairs, hairs to 4 mm; ligules 0.2-0.5 mm; blades (5)15-25 cm long, to 2 mm wide, flat or involute, glabrous or pubescent. Inflorescences 5-15 cm, racemose or with a few branches, narrow; rachises and pedicels scabrous. Spikelets (7)10-13(16) mm, some-times shorter than the rachis internodes, with 6-7(10) florets; rachilla segments 0.1-0.2 mm. Glumes (7)8-13(16) mm, subequal, lanceolate, subacute, glabrous; lower glumes (5)7-veined; upper glumes 5(7)-veined, sometimes with a few hairs; calluses (0.6)0.9-1.5(2) mm, with marginal tufts of hairs not or barely reaching the lower lemma hairs; lemma bodies 2.5-3.5(4.5) mm, (7)9-veined, lower row of hairs dense, hairs not or just reaching the upper rows, upper row of hairs reaching or slightly exceeding the base of the awn, scanty medial tufts sometimes present; lobes 5-10 mm, abruptly aristate; awns 11-14 mm; paleas 3.5-5 mm, exceeded by the lemma sinuses, emarginate, glabrous or with a few hairs, veins ciliate; anthers 0.3-2 mm. Caryopses 1.7-2.1(2.5) mm long, 0.8-1.1(1.3) mm wide; embryos 0.8-0.9 mm; hila 0.4-0.5 mm. 2n = 24.</description>
+  <discussion>Rytidosperma racemosum is endemic to Australia and has been introduced to New Zealand. Grown experimentally in several places in North America, including Berkeley, California, it seems to have become established in only a few places around central California.</discussion>
+</bio:treatment>

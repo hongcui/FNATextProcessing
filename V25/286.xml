@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>40</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia asperifolia (Nees & Meyen ex Trin.) Parodi </name_authority_date>
+  </taxon_identification>
+  <common_names>SCRATCHGRASS</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, not cespitose, occasionally : stoloniferous. Culms 10-60(100) cm, decumbent-ascending, bases somewhat compressed-keeled; internodes glabrous, shiny below the nodes. Sheaths glabrous, margins hyaline; ligules 0.2-1 mm, firm, truncate, ciliate, without lateral lobes; blades 2-7(11) cm long, 1-2.8(4) mm wide, flat, occasionally conduplicate, smooth or scabridulous abaxially, scabridulous adaxially, margins and midveins not conspicuously thickened, greenish, apices acute, not sharp. Panicles 6-21 cm long, 4-16 cm wide, broadly ovoid, open; primary branches 3-12 cm, capillary, lower branches spreading 30-90° from the rachises, never appearing fascicled; pedicels 3-14 mm, longer than the spikelets. Spikelets 1.2-2.1 mm, occasionally with 2 or 3 florets. Glumes equal, 0.6-1.7 mm, purplish, scabridulous, particularly on the veins, 1-veined, apices acute; lemmas 1.2-2.1 mm, lanceolate to oblong-elliptic, somewhat plumbeous, glabrous, usually smooth, occasionally scabridulous near the apices, apices acute, unawned or mucronate, mucros to 0.3 mm; paleas 1.2-2.1 mm, lanceolate, glabrous, acute; anthers 1-1.3 mm, greenish-yellow to purplish at maturity. Caryopses 0.8-1 mm, fusiform, brownish. 2n = 20, 22, 28.</description>
+  <discussion>Muhlenbergia asperifolia grows in moist, often alkaline meadows, playa margins, and sandy washes, on grassy slopes, and around seeps and hot springs, at elevations of 55-3000 m. Its geographic range includes northern Mexico. Muhlenbergia asperifolia is morphologically similar to the southeastern M. torreyana, but differs in having glabrous, weakly compressed culms and more widely divergent panicle branches.
+The caryopses of Muhlenbergia asperifolia are frequently infected by a smut, Tilletia asperifolia Ellis & Everhart, which produces a globose body filled with blackish-brown spores.
+</discussion>
+</bio:treatment>

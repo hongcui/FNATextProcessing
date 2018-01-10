@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>21</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Calamagrostis pickeringii A. Gray </name_authority_date>
+  </taxon_identification>
+  <common_names>PICKERING'S REED BENTGRASS, CALAMAGROSTIDE DE PICKERING</common_names>
+  <description type="morphology">Plants without sterile culms; weakly cespitose, with rhizomes 2-8 cm long, about 1.5 mm thick. Culms (17)25-55(90) cm, solitary or in small clusters, unbranched, sparsely scabrous; nodes 1-3. Sheaths and collars smooth; ligules 2-3(5) mm, truncate to obtuse, entire, sometimes weakly lacerate; blades (3)6-17(38) cm long, (2)3-4(7) mm wide, flat, stiff, abaxial surfaces smooth or scabrous, adaxial surfaces slightly scabrous, glabrous or sparsely hairy. Panicles (3.5)5-12(15) cm long, (0.5)1-2(3.5) cm wide, contracted, erect, greenish to purplish; branches (1.5)2-3(4) cm, sparsely scabrous, usually spikelet-bearing on the distal 1/2 - 2/3, sometimes to the base. Spikelets (2.5)3-4(4.5) mm; rachilla prolongations 0.2-1.3(1.5) mm, sparsely bearded, hairs about 1.5 mm. Glumes keeled, usually scabrous on the keel tips, lateral veins obscure, not raised, apices acute; callus hairs (0.3)0.5-1 mm, 0.2-0.3 times as long as the lemmas, sparse; lemmas 2.5-3(3.5) mm, (0)0.5-1 mm shorter than the glumes; awns 1.5-2(2.5) mm, attached to the lower 2/5 – 3/5 of the lemmas, sometimes slightly exserted, distinct from the callus hairs, bent; anthers 1.5-2 mm. 2n = 28.</description>
+  <discussion>Calamagrostis pickeringii grows in bogs, open white spruce scrub, wet meadows, coastal peatlands and lake shores, heaths, frost pockets (hollows), pitch pine barrens, and on sandy beaches, at 0-1600 m. It is found from Newfoundland and Nova Scotia south to the mountains of New Hampshire, New York, and New Jersey.</discussion>
+</bio:treatment>

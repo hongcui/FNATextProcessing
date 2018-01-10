@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Bernard R. Baum</author>
+    </source>
+  </meta>
+  <number>14.52</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>AVENA L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial. Culms 8-200 cm, erect or decumbent. Sheaths open; auricles absent; ligules membranous; blades usually flat, sometimes involute, lax. Inflorescences panicles, diffuse, sometimes 1-sided, some branches longer than 1 cm. Spikelets 15-50 min, pedicellate, laterally compressed, with 1-6(8) florets; rachillas not prolonged beyond the base of the distal floret; disarticulation above the glumes, usually also beneath the florets, cultivated forms not disarticulating. Glumes usually exceeding the florets, membranous, glabrous, 3-11-veined, acute, unawned; calluses rounded to pointed, with or without hairs; lemmas usually indurate and enclosing the caryopses at maturity, 5-9-veined, often with twisted, strigose hairs below midlength, apices dentate to bifid or biaristate, usually awned, sometimes unawned, awns dorsal, usually once-geniculate and strongly twisted in the basal portion; paleas bifid or entire, keels ciliate; lodicules 2, free, glabrous, toothed or not toothed; anthers 3; ovaries hairy. Caryopses shorter than the lemmas, concealed at maturity, terete, ventrally grooved, pubescent; hila linear, x = 7. </description>
+  <discussion>Avena, a genus of 29 species, is native to temperate and cold regions of Europe, North Africa, and central Asia; it has become nearly cosmopolitan through the cultivation of cereal oats, and the inadvertent introduction of the weedy species. Six species have been introduced into the
+Flora region.
+Reports of Avena strigosa Schreb. from California are based on misidentifications. The
+specimens involved belong to A. barbata.
+</discussion>
+  <references>Baum, B.R. 1977. Oats: Wild and Cultivated; A Monograph of the Genus Avena L. (Poaceae) Biosystematics Research institute Monograph No. 14. Supply and Services Canada, Ottawa, Ontario, Canada. 463 pp.; Dore, W.G and J. McNeill. 1980. Grasses of Ontario. Research Branch, Agriculture Canada Monograph No. 26. Canadian Government Publishing Centre, Hull, Quebec, Canada. 568 pp.</references>
+  <key>
+    <key_body>
+1.  Florets not disarticulating from the glumes, remaining attached to the plant even at maturity; calluses glabrous .....5. A. sativa
+1. Florets disarticulating at maturity, only the glumes remaining attached; calluses bearded.
+2. Florets falling from the glumes as a unit .....6. A. sterilis
+2. Florets falling separately
+3. Lemma apices biaristate, 2 veins extending 2-4 mm beyond the apices .....1. A. barbata
+3. Lemma apices erose to bifid, the veins not extending beyond the apices.
+4. Spikelets with 2(3) florets; disarticulation scar of the lower florets in a spikelet round to oval or triangular, that of the third floret, if present, similar .....2. A fatua
+4. Spikelets with 2-4(5) florets; disarticulation scar of the lower florets in a spikelet round to elliptic, those of the third and fourth florets (and sometimes the second) heart-shaped.
+5. Glumes 15-23 mm long  .....3. A hybrid
+5. Glumes 28-40 mm long  .....4. A. occidentalis
+    </key_body>
+  </key>
+</bio:treatment>

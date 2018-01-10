@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Bouteloua aristidoides var. arizonica M.E. Jones</name_authority_date>
+  </taxon_identification>
+  <common_names>ARIZONA NEEDLE GRAMA</common_names>
+  <description type="morphology">Panicle branches 15-35 mm to the base of the terminal spikelets and extending an additional 1.5-5(7) mm, with 6-10 spikelets.</description>
+  <discussion>Bouteloua aristidoides var. arizonica grows in the same kind of habitats as var. aristidoides, but only from 500-800 m. It has a more restricted range than B. aristidoides var. aristidoides (which extends into northern Mexico), being known only from New Mexico, Arizona, and Chihuahua, Mexico. In its extreme form, var. arizonica is very different from var. aristidoides, but the two varieties do intergrade.</discussion>
+</bio:treatment>

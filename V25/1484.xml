@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>33</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum laxum Lam. </name_authority_date>
+  </taxon_identification>
+  <common_names>COCONUT PASPALUM</common_names>
+  <description type="morphology">Plants perennial; cespitose to short rhizomatous. Culms 80-110 cm, erect; nodes glabrous. Sheaths glabrous, sparsely pubescent apically; ligules 1-2.9 mm; blades 9-41 cm long, 3-7 mm wide, mostly involute, pubescent above, glabrous below. Panicles terminal, with 1-5(10) racemosely arranged branches; branches 1.9-11.4 cm, erect to divergent, terminating in a spikelet; branch axes 0.4-0.7 mm wide, very narrowly winged, scabrous. Spikelets 1.6-2.2 mm long, 1.1-1.3 mm wide, paired, imbricate, appressed to the branch axes, elliptic-obovate to ovate. Lower glumes absent; upper glumes shortly pubescent, 5-veined, margins entire; lower lemmas glabrous or shortly pubescent, lacking ribs over the veins, 3-veined, margins entire; upper florets 1.4-2 mm, white to stramineous. 2n = 60. </description>
+  <discussion>Paspalum laxum grows in hammocks and along roads, often in sandy or limestone soils. It used to be common in coconut groves, hence the English-language name. It grows in southern Florida, the Antilles, and Belize.</discussion>
+</bio:treatment>

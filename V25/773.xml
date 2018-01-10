@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>58</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia setifolia Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>CURLYLEAF MUHLY</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 30-80 cm, slightly decumbent basally, erect above, not conspicuously branched, branches, when present, not geniculate and widely divergent; internodes mostly glabrous, sometimes hirtellous below the nodes. Sheaths shorter than the internodes, glabrous, margins whitish, rounded towards the base, not becoming spirally coiled when old; ligules 4-7(10) mm, acuminate, lacerate; blades 5-20(25) cm long, 0.2-1.2 mm wide, tightly involute, arcuate, scabrous abaxially, scabrous or hirtellous adaxially. Panicles 8-20(25) cm long, 2-5 cm wide, loosely contracted; primary branches 0.5-7 cm, capillary, diverging up to 70° from the rachises, naked basally; pedicels 3-20 mm. Spikelets 3.5-5 mm, stramineous to brown or purplish. Glumes subequal, 1.5-2.5 mm, shorter than the florets, thin, hyaline, glabrous; lower glumes veinless, truncate or obtuse, often toothed or notched; upper glumes 1-veined or veinless, obtuse to acute, often mucronate, mucros shorter than 0.7 mm; lemmas 3.5-5 mm, narrowly lanceolate, calluses hairy, hairs to 0.6 mm, lemma bodies glabrous, smooth, shiny, apices acuminate, awned, awns 10-30 mm, clearly demarcated from the lemma bodies, flexuous; paleas  
+3.5-5 mm, narrowly lanceolate, glabrous, acuminate; anthers 2-2.6 mm, greenish. Caryopses 2.4-3.2 mm, fusiform, brownish. 2n = 40.
+</description>
+  <discussion>Muhlenbergia setifolia grows on calcareous rocky slopes, rock outcrops, and in desert grasslands, at elevations of 1000-2250 m. Its range extends from the southwestern United States into northern Mexico. It is similar to M. reverchonii, but differs in its narrower panicles, less widespread panicle branches, truncate to obtuse glumes, and longer lemma awns.</discussion>
+</bio:treatment>

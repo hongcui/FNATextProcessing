@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Urochloa mosambicensis (Hack.) Dandy </name_authority_date>
+  </taxon_identification>
+  <common_names>SABI GRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, with or without stolons. Culms 20-150 cm; nodes pubescent; internodes with papillose-based hairs. Sheaths pubescent, lower sheaths pilose, upper sheaths with papillose-based hairs; ligules 1-2 mm; blades 3-30 cm long, (1.5) 3-20 mm wide, with scattered papillose-based hairs, margins scabrous. Panicles 3-12.5 cm, with 2-6(15) spikelike branches in 2 ranks; primary branches 2-10 cm, appressed to ascending, axes 0.8-1.4 mm wide, flat, winged, hispid, hairs not papillose-based; secondary branches present; pedicels shorter than the spikelets, scabrous, with 1-3 conspicuous hairs. Spikelets (3)4-5 mm long, 1.5-2 mm wide, solitary (rarely paired), appressed to the branch axes, bases glabrous or with a tuft of hairs. Glumes scarcely separated, rachilla internode between the glumes not pronounced; lower glumes 2.7-3.3 mm, (1/2)2/3 - 3/4 as long as the spikelets, 3-veined, mostly glabrous but often with 1-3 conspicuous, stiff hairs emanating from the midvein at approximately mid-length; upper glumes (3)4-5 mm, glabrous or pubescent, 5-veined; lower florets staminate; lower lemmas (3)4-5 mm, glabrous or pubescent, 5-veined, with or without a setose fringe along the margins; lower paleas present; upper lemmas 2.2-2.6 mm, apices rounded, shortly awned, awns 0.5-1.2 mm; anthers 1.2-1.5 mm. 2n = 30, 42.</description>
+  <discussion>Urochloa mosambicensis, native to Africa, has been found in southern Texas (Wipff et al. 1993); it is expected to spread. It is grown for forage and hay in Africa.</discussion>
+</bio:treatment>

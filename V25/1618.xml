@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Schizachyrium tenerum Nees </name_authority_date>
+  </taxon_identification>
+  <common_names>SLENDER BLUESTEM</common_names>
+  <description type="morphology">Plants cespitose. Culms 60-100 cm, sometimes reclining or decumbent, glabrous. Collars not elongate, about as wide as the blade; ligules to 0.5 mm, ciliolate; blades 5-15 cm long, 0.5-2 mm wide, involute or flat, glabrous or sparsely hairy basally, with a wide central zone of bulliform cells evident on the adaxial surfaces as a longitudinal stripe of white, spongy tissue. Rames 2-6 cm, eventually long-exserted; internodes 2-4 mm, straight, glabrous. Sessile spikelets 3.5-4.5 mm; calluses 0.5-1 mm, hairs to 1.2 mm; lower glumes glabrous; upper lemmas acute, entire; awns 6-10 mm. Pedicels 3-5 mm, glabrous. Pedicellate spikelets usually as long as or slightly longer than the sessile spikelets, sterile, unawned. 2n = 60.</description>
+  <discussion>Schizachyrium tenerum is an uncommon species in the southeastern United States, where it grows on sandy soils in pine forest openings and coastal prairies. Its range extends through Central America into South America.</discussion>
+</bio:treatment>

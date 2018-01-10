@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Piptatherum micranthum (Trin. & Rupr.) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>SMALL-FLOWERED PIPTATHERUM</common_names>
+  <description type="morphology">Plants loosely cespitose, not rhizomatous. Culms 20-85 cm, glabrous; basal branching extravaginal. Leaves basally concentrated; sheaths glabrous; ligules 0.4-1.5(2.5) mm, truncate; blades 5-16 cm long, 0.5-2.5 mm wide, usually involute. Panicles 5-20 cm, lower nodes with 1-3 branches; branches 2-6 cm, divergent to reflexed at maturity, with 3-10(15) spikelets, secondary branches appressed to the primary branches. Glumes 2.5-3.5 mm, acute; lower glumes l(3)-veined; upper glumes 3-veined; florets 1.5-2.5 mm, dorsally compressed; calluses 0.1-0.2 mm, glabrous or sparsely hairy, disarticulation scars circular; lemmas usually glabrous, sometimes sparsely pubescent, brownish, shiny, 5-veined, margins not overlapping at maturity; awns 4-8 mm, straight or almost so, caducous; anthers 0.6-1.2 mm, not penicillate; ovaries truncate to rounded, bearing 2 separate styles. Caryopses about 1.2 mm long, about 0.8 mm wide; hila linear, 3/4 - 9/10 as long as the caryopses. 2n = 22.</description>
+  <discussion>Piptatherum micranthum grows on gravel benches, rocky slopes, and creek banks, from British Columbia to Manitoba and south to Arizona, New Mexico, and western Texas. The combination of small, dorsally compressed florets and appressed pedicels distinguishes this species from all other native North American Stipeae. Achnatherum contractum is the fertile derivative of hybridization between Piptatherum micranthum and A. hymenoides. It is placed in Achnatherum because it resembles that genus more than Piptatherum.</discussion>
+</bio:treatment>

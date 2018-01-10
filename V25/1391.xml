@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Setaria palmifolia (J. Konig) Stapf </name_authority_date>
+  </taxon_identification>
+  <common_names>PALMGRASS</common_names>
+  <description type="morphology">Plants perennial. Culms 1-2 m. Sheaths strigose, margins with stiff hairs; collars hispid; ligules about 2 mm, of hairs; blades to 50 cm long, 20-80 mm wide, plicate, tapering at both ends, abaxial surfaces sparsely strigose, adaxial surfaces short pubescent near the base. Panicles to 40 cm, open; branches 6-10 cm, loosely flexible, axes scabrous; bristles solitary, usually present only below the terminal spikelet on each branch, occasionally below non-terminal spikelets, about 5 mm. Spikelets 3-4 mm, elliptic, acuminate. Lower glumes 1/2 as long as the spikelets, obtuse, 3-4-veined; upper glumes nearly equaling the upper lemmas, 7-veined, acute; lower lemmas exceeding the upper lemmas, 5-veined, apices involute; lower paleas nearly equaling the lower lemmas in length and width; upper lemmas obscurely transversely rugose, yellow, apiculate. 2n = 54. </description>
+  <discussion>Setaria palmifolia is primarily an Asiatic species. It is a common species in Jamaica, and has been reported from scattered locations around the southern coast of the United States. In the Flora region it is occasionally cultivated as an ornamental for the conspicuous, plicate leaves and large panicles. In Southeast Asia the grains are eaten as a substitute for rice and the tender, thickened shoots as a vegetable.</discussion>
+</bio:treatment>

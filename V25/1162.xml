@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Dichanthelium acuminatum subsp. leucothrix (Nash) Freckmann & Lelong </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose, pale olive green, often purplish-tinged. Culms usually 30-100 cm, erect to ascending, sparsely pubescent to almost glabrous, hairs appressed, thin, silvery, papillose-based; nodes sparsely pubescent; fall phase branching extensively from the lower and midculm nodes, with conspicuous, flabellate fascicles of branches and reduced blades. Cauline sheaths shorter than the internodes, sparsely pilose to nearly glabrous, hairs papillose-based, occasionally with shorter soft hairs underneath, margins ciliate; midculm sheaths about 1/2 as long as the internodes; blades usually 2-7 cm long, 2-7 mm wide, relatively firm, ascending, spreading, or reflexed, abaxial surfaces densely and softly puberulent, adaxial surfaces glabrous or sparsely appressed-villous, sometimes with a few longer hairs intermixed. Primary panicles open, long-exserted, dense. Spikelets 1.1-1.5 mm, usually ellipsoid, densely short-pubescent.</description>
+  <discussion>Dichanthelium acuminatum subsp. leucothrix grows in low, sandy or peaty pine savannahs of the coastal plain. Its range extends through Mexico, the West Indies, and Central America to northern South America. It is closely related, and often sympatric with, the more common, glabrous subsp. longiligulatum.</discussion>
+</bio:treatment>

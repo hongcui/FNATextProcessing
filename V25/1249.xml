@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Panicum ghiesbreghtii E. Fourn. </name_authority_date>
+  </taxon_identification>
+  <common_names>GHIESBREGHT'S WITCHGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose. Culms 40-120 cm tall, 2-3 mm thick, decumbent to erect, branching from the base and the middle nodes; nodes pilose, hairs spreading; internodes hirsute, hairs  papillose-based. Sheaths usually shorter than the internodes, hirsute, lower sheaths more so than those above, hairs papillose-based; collars densely pilose; ligules 0.5-4 mm; blades 16-55 cm long, 0.5-14 mm wide, erect to ascending, abaxial surfaces hirsute, hairs papillose-based, adaxial surfaces densely pilose, midveins prominent and whitish, bases truncate, margins ciliate basally, apices attenuate. Terminal panicles 7-35 cm long, 5-23 cm wide, about 1/2 as wide as long, shortly exerted or partially included, lax, open; axillary panicles smaller, included basally; primary branches diverging, lower branches solitary, upper branches solitary to subverticillate; secondary branching primarily in the distal 1/3; pedicels 1-4 mm, clavate, spreading to appressed. Spikelets 2.6-3.4 mm long, 0.9-1.2 mm wide, ovoid, glabrous. Lower glumes 1.4-1.7 mm, to 1/2 as long as the spikelets, acute, 5-7-veined; upper glumes and lower lemmas similar, exceeding the upper florets by 0.7-0.9 mm, 9-13-veined; lower florets sterile; lower paleas 0.5-1.3 mm; upper lorets 1.7-2.3 mm long, 0.8-1.1 mm wide, smooth, ovoid. 2n = unknown.</description>
+  <discussion>Panicum ghiesbreghtii grows in low, moist ground, wet thickets, and savannahs, from southern Texas through Mexico, Central America, Cuba, and the West Indies to northern South America.</discussion>
+</bio:treatment>

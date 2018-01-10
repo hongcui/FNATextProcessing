@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthelium scoparium (Lam.) Gould </name_authority_date>
+  </taxon_identification>
+  <common_names>VELVETY PANICGRASS</common_names>
+  <description type="morphology">Plants in small clumps, with rhizomes 3-5 mm thick. Basal rosettes well-differentiated; blades sometimes more than 10 cm, lanceolate. Culms 50-150 cm, usually robust, erect; nodes often swollen, densely bearded with thin retrorse hairs above a constricted, glabrous, viscid ring; internodes grayish-purple, velvety-pubescent; fall phase branching from the mid- and upper culm nodes, with long, repeatedly forking and often recurving branches, ultimately with fascicles of reduced blades and included secondary panicles. Cauline leaves 7-11; sheaths not overlapping, narrowing distally, lustrous, bases sparsely to densely retrorsely villous, hairs papillose-based, summits purplish, with yellowish spots; collars densely villous; ligules 0.5-2 mm, of hairs; blades 9-20 cm long, 9-20 mm wide, thick, densely soft pubescent, bases rounded to subcordate, margins ciliate basally. Primary panicles 6-16 cm long, 5-12 cm wide, well-exserted, dense; rachises softly pubescent basally; branches often mottled with purplish viscid spots, glabrous. Spikelets 2.2-2.8 mm long, 1.3-1.5 mm wide, ovoid-ellipsoid, often purplish basally, prominently veined, margins and apices sparsely to densely pubescent, hairs papillose-based. Lower glumes 0.6-1.3 mm, subtruncate to acuminate; lower florets sterile; upper florets minutely apiculate. 2n = 18.</description>
+  <discussion>Dichanthelium scoparium grows in moist, sandy, open, often disturbed areas of the southeastern United States. It is also present in the West Indies. The primary panicles are open-pollinated, produced from May to early August; the secondary panicles are cleistogamous and are produced from July through October.
+Panicum glutinoscabrum Fernald may represent rare putative hybrids of Dichanthelium scoparium with D. acuminatum, and P. mundum Fernald, rare hybrids with D. dichotomum.
+</discussion>
+</bio:treatment>

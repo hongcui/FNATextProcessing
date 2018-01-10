@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Achnatherum stillmanii (Bol.) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>STUXMAN'S NEEDLEGRASS</common_names>
+  <description type="morphology">Plants shortly rhizomatous, forming open clumps. Culms 60-150 cm tall, 2-5 mm thick, often geniculate at the lowest node, mostly glabrous; nodes 2-3, often puberulent. Basal sheaths mostly glabrous, some¬times ciliate distally, intact at maturity; collars glabrous or pubescent, often with hairs at the sides, hairs shorter than 0.5 mm; basal ligules 0.2-0.5 mm, membranous, truncate, ciliate, cilia 0.2-0.3 mm; upper ligules shorter than the basal ligules; blades 3-7 mm wide, lax. Panicles 10-24 cm long, 1.5-3 cm wide, contracted; branches straight, appressed to strongly ascending, lower branches 2.5-3.5 cm. Spikelets appressed to the branches. Glumes subequal, 14-16 mm; lower glumes 1-3-veined; upper glumes 0.6-1.5 mm wide, 3-5-veined; florets 8-10 mm, fusiform; calluses 0.5-1.2 mm, rounded; lemmas evenly hairy, hairs about 0.5 mm, apical hairs similar in length, apices 2-lobed, lobes 1-3 mm, narrow; awns 18-25 mm, persistent, scabrous, once- or twice-geniculate, terminal segment straight; paleas as long as or slightly longer than the lemmas, hairy, hairs about 0.5 mm, veins prolonged, reaching almost to the tips of the lemma lobes; anthers 4-6 mm, penicillate, dehiscent. Caryopses fusiform. 2n = unknown.</description>
+  <discussion>Achnatherum stillmanii grows at scattered locations in coniferous forests in northern California, at 900-1500 m, possibly being edaphically restricted. Its combination of large size, long, narrow lemma lobes, and paleal morphology distinguish A. stillmanii from all other North American species of Achnatherum.</discussion>
+</bio:treatment>

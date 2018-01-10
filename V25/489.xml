@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Danthonia sericea Nutt. </name_authority_date>
+  </taxon_identification>
+  <common_names>DOWNY OATGRASS</common_names>
+  <description type="morphology">Culms 50-120 cm, not disartic¬ulating. Sheaths usually villous, occasionally glabrous; blades 10-30 cm long, 2-4 mm wide, pilose or glabrous, usually at least the adaxial surface pilose, uppermost cauline blades erect to ascending. Inflorescences with (5)10-25(30) spikelets; lower branches erect to ascending, with 2-6 spikelets; pedicels on the lowest branch from shorter than to subequal to the spikelets. Spikelets 10-20 mm. Calluses of middle florets from as long as to a little longer than wide, convex abaxially; lemma bodies 4-6 mm, usually pilose over the back (sometimes glabrous), margins densely pilose to beyond midlength, hairs evidently increasing in length distally, longest hairs 2.5-4 mm, longer than apical teeth 2-4.5(5.5) mm, aristate; awns 10-17 mm; anthers to 2.6 mm. Caryopses 1.7-2.4 mm long, 0.8-1.2 mm wide. 2n = 36.</description>
+  <discussion>Danthonia sericea is restricted to the eastern United States. It grows mostly on sand barrens and in open woods on dry soils. A less common form, with glabrous foliage and lemma backs, is found in bogs, seepage areas, and low moist areas adjacent to lakes and rivers and has been called D. sericea var. epilis (Scribn.) Gleason. In their study of these ecotypes, Quinn and Fairbrothers   (1971)   state  that   "field  differences  in growth form do not persist under transplant garden and greenhouse conditions." Similar patterns of infraspecific variation are also seen in the leaf and lemma vestiture of D. spicata and D. californica, but the genetic basis of this variation is probably not taxonomically significant.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eremopoa altaica (Trin.) Roshev. </name_authority_date>
+  </taxon_identification>
+  <common_names>ALTAI GRASS</common_names>
+  <description type="morphology">Culms (5)10-45 cm, solitary or tufted, erect, glabrous. Leaves cauline; sheaths closed for about 1/10 their length, glabrous; ligules 1-4 mm, glabrous; blades 1-10 cm long, 0.5-4 mm wide, flat, usually glabrous, sometimes scabrous. Panicles (3)6-16(20) cm long, 1-6 cm wide, diffuse; branches 2-10 cm, whorled and strongly divergent, spikelets confined to the distal portion. Spikelets 2.8-6.2 mm, pedicellate, with (1)2-3(4) florets. Glumes lanceolate, glabrous, acute to acuminate; lower glumes 0.9-1.5(2) mm; upper glumes 1.5-2.5 mm; lemmas 2.5-4 mm, narrowly lanceolate, glabrous or with a few silky hairs on the lower keel, 5-veined, apices entire, acute to acuminate; paleas 2-3 mm, 2-keeled, glabrous; anthers 0.3-1 mm. Caryopses 1.9-2.6 mm. 2n = 14, 28, 42.</description>
+  <discussion>Eremopoa altaica is native to the high deserts and mountain steppes of Asia, from Turkey through Afghanistan and Pakistan to the Altai region, the Himalayas, and western China. It was once found in railway yards and roadsides at Brandon, Manitoba (Stevenson 1965), but misidentified as Eremopoa persica (Trin.) Roshev. Although the population persisted for several years, recent efforts to relocate it haved failed.  </discussion>
+</bio:treatment>

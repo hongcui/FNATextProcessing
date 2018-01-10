@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Paspalum setaceum var. villosissimum (Nash) D.J. Banks </name_authority_date>
+  </taxon_identification>
+  <common_names>HAIRY PASPALUM</common_names>
+  <description type="morphology">Plants erect. Leaves conspicuously basal; blades to 15 cm long, 3-10 mm wide, recurved, hirsute, usually with long stiff hairs and short soft hairs, grayish-green, margins ciliate, with long stiff hairs. Panicle branches 2-11.2 cm; branch axes 0.3-0.9 mm wide. Spikelets 1.4-1.9 mm long, 1.1-1.6 mm wide, elliptic, obovate, orbicular, or suborbicular, short pubescent to nearly glabrous, often purple-spotted; lower lemmas without an evident midvein; upper lemmas 1.3-2 mm.</description>
+  <discussion>Paspalum setaceum var. villosissimum grows in sandy fields and flatwoods of Florida and Cuba. It resembles var. longepedunculatum, differing in its pubescent leaves, more robust habit, and more developed rhizomes.</discussion>
+</bio:treatment>

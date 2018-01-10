@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>David M. Brandenburg</author>
+    </source>
+  </meta>
+  <number>14.09</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>SCLEROCHLOA P. Beauv.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual. Culms 2-30 cm. Sheaths open to closed; auricles absent; ligules membranous; blades flat or folded. Inflorescences terminal, usually racemes, sometimes reduced panicles, 1-sided, usually exceeded by the leaves. Spikelets laterally compressed, subsessile to pedicellate; pedicels 0.5-1 mm long, 0.5-0.8 mm thick, stout, with 2-7 florets; rachillas glabrous, lowest internodes thicker than those above; disarticulation tardy, not strongly localized. Glumes unequal, shorter than the lowest lemmas, glabrous, with wide hyaline margins, apices obtuse to emarginate, unawned; lower glumes (l)3-5-veined; upper glumes (3)5-9-veined; calluses blunt, glabrous; lemmas membranous, with hyaline margins, indurate at maturity, (5)7-9-veined, veins prominent, apices rounded to emarginate, entire, unawned; paleas shorter than to equaling the lemmas, dorsally compressed; lodicules 2, free, glabrous, entire to lacerate; anthers 3. Caryopses shorter than the lemmas, concealed at maturity, beaked from the persistent style base, falling free; hila round, x = 7. </description>
+  <discussion>Sclerochloa is a genus of two species, both of which are native to southern Europe and western Asia. The species found in the Flora region, S. dura, is now a cosmopolitan weed.</discussion>
+  <references>Brandenburg, D.M., J.R. Estes, and J.W. Thieret. 1991. Hard grass (Sclerochloa dura, Poaceae) in the United States. Sida 14:369-376; Brandenburg, D.M. and J.W. Thieret. 1996. Sclerochloa dura (Poaceae) in Kentucky. Trans. Kentucky Acad. Sci. 57:47-48; Cusick, A.W., R.K. Rabeler, and M.J. Oldham. 2002. Hard or fairgrounds grass (Sclerochloa dura, Poaceae) in the Great Lakes region. Michigan Bot. 41:125-135.</references>
+</bio:treatment>

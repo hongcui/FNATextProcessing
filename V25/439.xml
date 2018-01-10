@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Cathestecum erectum Vasey & Hack. </name_authority_date>
+  </taxon_identification>
+  <common_names>FALSE GRAMA</common_names>
+  <description type="morphology">Plants perennial; polygamous; cespitose, forming dense, small clumps, stoloniferous, stolons thin, internodes 15-40 cm, strongly arching. Culms 10-30 cm, erect or geniculate, glabrous. Leaves primarily basal; lower sheaths overlapping, densely villous basally, throats pilose; upper sheaths not overlapping, glabrous; ligules about 0.3 mm; blades 3-12 cm long, 1-1.5 mm wide, involute  
+or flat, glabrous abaxially, scabrous and sparsely pilose adaxially, hairs to 2 mm. Panicles with 5-7 branches; branches about 5 mm, dimorphic, staminate or bisexual, the 2 forms sometimes on different plants, sometimes mixed within a panicle, spikelets of 1 form all staminate, bisexual form with pistillate (sometimes bisexual) central spikelets and well-developed staminate or sterile lateral spikelets, spikelets frequently pale green. Staminate branches: all spikelets similar; lower glumes about 1 mm; upper glumes glabrous or almost so, those of the lateral spikelets about 3 mm, those of the central spikelets about 4 mm; lemmas similar, about 3 mm, glabrous, irregularly lobed, unawned, sometimes mucronate. Bisexual branches: glumes villous; lateral spikelets with staminate or sterile florets; lemmas of lateral spikelets about 3 mm, glabrous or sparsely pubescent, irregularly lobed, awned from the sinuses, awns hispid, equaling or occasionally exceeding the lobes; anthers 1.7-2.3 mm; central spikelets with the lowest floret pistillate, distal florets staminate or sterile; lowest lemmas glabrous or sparsely pubescent, lobed, lobes about 1/3 as long as the lemmas, awned from the sinuses, awns glabrous, subequal to the lobes or the central awns slightly longer; distal florets similar to those of the lateral florets, awns 1-2 mm longer than the lobes. 2n = 20.
+</description>
+  <discussion>Cathestecum erectum grows on dry hills in the Great Bend region of western Texas and in northern Mexico.</discussion>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Festuca L. sect. Festuca</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants loosely or densely cespitose, with short rhizomes or without rhizomes. Innovations mostly intravaginal. Blades more or less stiff, setaceous if lax, usually conduplicate, sometimes convolute or flat; ribs usually distinct; sclerenchyma usually only developed on the adaxial surface, sometimes forming pillars or girders at the major veins. Calluses wider than long, scabrous on the margins; lemmas chartaceous, apices usually entire, rarely minutely bidentate, usually awned, sometimes unawned; ovary apices usually pubescent, sometimes sparsely pubescent, rarely glabrous.</description>
+  <discussion>Festuca sect. Festuca is most abundant in the Northern Hemisphere. Its species are native to all continents except Antarctica. There are perhaps 400 or more species in this section, with new ones constantly described.</discussion>
+</bio:treatment>

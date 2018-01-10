@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Elymus virginicus var. jejunus (Ramaley) Bush </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants usually glaucous, but not strongly so, becoming yellowish or reddish brown at maturity. Culms (50)70-100(130) cm; nodes usually 6-8, often exposed; auricles and ligules often pronounced. Blades 3-15 mm wide, flat, usually scabridulous, rarely pubescent. Spikes 4-20 cm, exserted; spikelets usually glabrous to scabrous, sometimes glaucous; glumes (0.5)0.7-1.2(1.8) mm wide, indurate and bowed out only in the basal 1 mm. Anthesis mid-June to late July.</description>
+  <discussion>Elymus virginicus var. jejunus grows in moist to dry, sometimes alkaline or saline soil, in open, rocky, or alluvial woods, grasslands, glades, and disturbed places. It occupies the western range of the species, except for the Intermountain region. It is uncommon in the northeast, from Virginia to Newfoundland, and rare or absent in the southeast, beyond Texas and Indiana. It intergrades with var. virginicus (with spikes up to 22 cm long in intermediate plants) in the Great Plains, and with E. glabriflorus (p. 296) or E. macgregorii (p. 295) in some southern or eastern regions. Spike exsertion, and thus the ease of distinction from var. virginicus, can be influenced by the environment (Brooks 1974). Some northern pop-ulations, from Alberta and North Dakota to Michigan and Quebec, especially on damper soils, have blades that are villous-hirsute and often darker green (e.g., Booher and Tryon 1948). Blades are often only 4—8 mm wide in the Great Plains, and some exceptionally small northern plants (E. virginicus var. micromeris Schmoll) have blades (1)2-4(5.5) mm wide, spikes 3.2-7 cm long, glume awns 1-1.5 mm long, and lemma awns 3.5-13 mm long, suggesting a transition to E. curvatus (see discussion under the next species).</discussion>
+</bio:treatment>

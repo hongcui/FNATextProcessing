@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Eleusine coracana (L.) Gaertn. subsp. coracana </name_authority_date>
+  </taxon_identification>
+  <common_names>FINGER MILLET, RAGI</common_names>
+  <description type="morphology">Culms to 17 cm. Blades 30-60 cm long, 6-12 mm wide. Branches 4-14 cm long, 7-15 mm wide, spikelets closely imbricate. Spikelets 5-9 mm long, brown, with 6-9 florets, florets not disarticulating at maturity. Seeds almost globose, brownish, surfaces granular to smooth.</description>
+  <discussion>Eleusine coracana subsp. coracana is the domesticated variant of E. coracana. Biochemical data suggest that it evolved from a few populations of the very variable subsp. africana. It is cultivated at various agricultural experiment stations and occasionally escapes.
+Eleusine coracana subsp. coracana has a long historical record dating back at least 5000 years in Africa, and 3000 years in India. Five races, based on inflorescence morphology, are recognized in East Africa where it is widely cultivated for food and drink.
+</discussion>
+</bio:treatment>

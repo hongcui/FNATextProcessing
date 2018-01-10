@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Kelly W. Allred</author>
+    </source>
+  </meta>
+  <number>14.67</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>APERA Adans.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual; tufted or the culms solitary. Culms 5-120 cm, erect or geniculate, glabrous. Leaves mostly cauline; sheaths open, rounded to slightly keeled; collars glabrous, midveins continuous; auricles absent; ligules membranous, often lacerate to erose; blades flat or weakly involute, glabrous. Inflorescences terminal panicles; branches strongly ascending to divergent. Spikelets pedicellate, slightly laterally compressed, with 1 floret, rarely more, distal florets, if present, vestigial; rachillas prolonged beyond the base of the floret as a bristle, rarely terminating in a vestigial floret; disarticulation above the glumes, beneath the floret. Glumes unequal, lanceolate, scabrous on the distal 1/2, unawned; lower glumes 1-veined; upper glumes slightly shorter than to slightly longer than the florets, 3-veined; calluses blunt, glabrous or sparsely hairy; lemmas firmer than the glumes, folded to nearly terete, obscurely 5-veined, marginal veins not excurrent, apices entire, awned, awns subterminal; paleas about 3/4  as long as to equaling the lemmas, hyaline, 2-veined; lodicules 2, free, glabrous, usually toothed; anthers 3; ovaries glabrous. Caryopses shorter than the lemmas, concealed at maturity, 1.2-2 mm, ellipsoidal, slightly sulcate; hila broadly ovate, 1/5 the length of the caryopses. x = 7. </description>
+  <discussion>Apera is genus of three species, native to Europe and western Asia. It is similar to Agrostis. It differs in its firm lemmas; paleas that are always present and equal to the lemma, or nearly so; and prolonged rachillas. In North America, two species have been introduced, growing as weeds in lawns and disturbed ground, and in grain fields.</discussion>
+  <references>Warwick, S.I., B.K. Thompson, and L.D. Black. 1987. Genetic variation in Canadian and European populations of the colonizing weed species Apera spica-venti. New Phytol. 106:301-317.</references>
+  <key>
+    <key_body>
+1. Anthers 0.3-0.5 mm long; panicles contracted, 0.4-3 cm wide; most branches spikelet-bearing to within 2 mm of the base  .....1.A. interrupta
+1. Anthers 1-2 mm long; panicles pyramidal, 2-15 cm wide; branches naked at the base for 5 mm or more  .....2.A. spica-venti
+
+    </key_body>
+  </key>
+</bio:treatment>

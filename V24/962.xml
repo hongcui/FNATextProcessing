@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sesleria nitida Ten. </name_authority_date>
+  </taxon_identification>
+  <common_names>GRAY MOORGRASS</common_names>
+  <description type="morphology">Plants cespitose, not rhizomatous. Culms 20-70 cm, ascending. Sheaths glabrous or sparsely pubescent; ligules 0.6-2 mm, truncate to acute, ciliolate; blades of cauline leaves 3.5-7.5 cm long, 2-3 mm wide, glabrous, glaucous; blades of flag leaves 3.5-7.5 cm. Panicles 2-3.5 cm long, 9-15 mm wide, ovoid. Spikelets 5.6-6.5 mm, with 2-3 florets. Glumes 5-6.5 mm, lanceolate, veins hairy, apices 3-5-awned, central awns 1-2 mm, lateral awns about 0.5 mm; lemmas 5-6 mm, glabrous, 3-5-toothed, central teeth 1-1.5 mm, slightly divergent, lateral teeth 0.5-1 mm; paleas 4.5-5 mm, ciliate on the keels; anthers about 2.2 mm. 2n = unknown.</description>
+  <discussion>Sesleria nitida is native to the mountains of central Italy and Sicily, where it grows in broken, rocky, calcareous habitats, sometimes forming intermediates with S. autumnalis (Deyl 1980). It is grown as an ornamental in the Flora region.
+ 
+</discussion>
+</bio:treatment>

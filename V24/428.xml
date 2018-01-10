@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Elymus canadensis L. var. canadensis </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Spikes (6)10-25(30) cm, nodding to almost pendent, often strongly glaucous, often with 3 spikelets per node; internodes 4-7 mm. Glumes not clearly indurate or bowed out at the base, awns 10-25 mm; lemmas villous or hispid, awns 15-40 mm, moderately to strongly outcurving.</description>
+  <discussion>Elymus canadensis var. canadensis is widespread across the northern range of the species, where anthesis is from late June to August, but it is also frequent as far south as Arizona, New Mexico, and Oklahoma. Tentatively included here are E. canadensis var. glaucifolius (Muhl.) Torr., which is strongly glaucous, with scabrous blades and hirsute or scabrous lemmas, and E. canadensis var. villosus Bates, which has villous leaves and occurs rarely in the northern Great Plains.</discussion>
+</bio:treatment>

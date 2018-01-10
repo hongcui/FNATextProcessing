@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>32</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia pungens Thurb. ex A. Gray </name_authority_date>
+  </taxon_identification>
+  <common_names>SANDHILL MUHLY</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, not cespitose. Culms 10-70 cm, decumbent below; internodes cinereous-lanate, glabrous, or scabrous for most of their length, always cinereous-lanate below the nodes. Sheaths longer than the internodes, cinereous-lanate below, glabrous and smooth or scabridulous distally; ligules 0.2-1 mm, densely ciliate, obtuse, with lateral lobes; blades 2-8 cm long, 1-2.2 mm wide, flat to tightly involute, scabrous abaxially, hirsute adaxially, stiff, pungent. Panicles (7)8-16(19) cm long, (2)4-14 cm wide, open; primary branches 1.5-8 cm, capillary, straight, lower branches diverging 70°-90° from the rachises in mature plants, often appearing fascicled in immature plants; pedicels 10-25 mm. Spikelets 2.6-4.5 mm. Glumes equal, 1.2-3 mm, purplish near the base, smooth or scabridulous distally, 1-veined, acuminate or acute, unawned or awned, awns to 1 mm; lemmas 2.6-4.5 mm, lanceolate, purplish, scabridulous distally and on the margins, apices acuminate, awned, awns 1-1.5(2) mm, straight; paleas 2.6-4.5 mm, lanceolate, glabrous, acuminate, 2-awned, awns to 1 mm; anthers 1.8-2.6 mm, purplish. Caryopses 1.8-2.5 mm, fusiform, brownish. 2n = 26, 42, 60.</description>
+  <discussion>Muhlenbergia pungens grows in loose sandy soils near sand dunes to sandy clay loam slopes and flats in desert shrub and open woodlands, at elevations of 600-2500 m. It is known only from the western and central contiguous United States.</discussion>
+</bio:treatment>

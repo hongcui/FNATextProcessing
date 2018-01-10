@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>28</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus stebbinsii Gould </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose or shortly rhizomatous. Culms 60-140 cm; nodes glabrous or retrorsely pubescent. Leaves evenly dis¬tributed; sheaths glabrous or pubescent; auricles usually present, 0.5-2 mm; ligules 0.3-3.5 mm, truncate to acute, sometimes long-ciliate; blades 4-6.5 mm wide, flat or the margins involute, straight. Spikes 15-31 cm long, 0.4-1.5 cm wide including the awns, 0.4-0.8 cm wide excluding the awns, erect, with 1 spikelet per node; internodes 9-27 mm long, 1-1.3 mm wide, glabrous, smooth. Spikelets 13-29 mm long, from shorter than to almost twice as long as the internodes, 2.5-5 mm wide, appressed, with 5-7 florets; rachillas glabrous; disarticulation above the glumes and beneath each floret. Glumes subequal, 7.5-12 mm long, 1.2-1.5 mm wide, lanceolate, widest at about mid-length, flat or rounded on the back, 5-veined, veins smooth, scabrous or just the midvein scabridulous, margins widest at about midlength, apices acute, unawned; lemmas 9-12 mm, glabrous, sometimes scabrous, acute, unawned or awned, awns to 28 mm, straight; paleas subequal to the lemmas, tapering, apices 0.2-0.3 mm wide; anthers (3.5)4-7 mm. 2n = 28.</description>
+  <discussion>Elymus stebbinsii is restricted to California, where it grows on dry slopes, chaparral, and wooded areas, at elevations below 1600 m. It differs from other Elymus species primarily in its combination of long anthers and solitary spikelets. It is often confused with E. glaucus (p. 306) and E. trachycaulus (p. 321) with solitary spikelets. It differs from both in its longer anthers, and from most representatives of E. glaucus in its acute, but unawned, glumes.</discussion>
+  <key>
+    <key_body>
+1. Lemmas awned, awns 8-28 mm long; lower leaf sheaths rarely pubescent; spikelets 13-22 mm long .......... subsp. septentrionalis
+1. Lemmas unawned or with awns to 8(12) mm long; lower leaf sheaths pubescent or glabrous; spikelets 17-29 mm long   .....subsp. stebbinsii
+
+    </key_body>
+  </key>
+</bio:treatment>

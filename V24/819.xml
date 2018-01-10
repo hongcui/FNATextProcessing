@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa abbreviata subsp. pattersonii (Vasey) Á. Löve, D. Love & B.M. Kapoor </name_authority_date>
+  </taxon_identification>
+  <common_names>PATTERSON'S BLUEGRASS</common_names>
+  <description type="morphology">Ligules 0.8-5.5 mm, smooth or scabrous, apices obtuse to acute. Spikelets rarely bulbiferous; florets rarely bulb-forming. Calluses usually webbed, rarely glabrous; lemmas long-villous along 3/4 of the keel and the marginal veins, rarely glabrous, but then the calluses also glabrous, intercostal regions glabrous or softly puberulent; anthers 0.6-1.2(1.8) mm, rarely vestigial. 2n = 42.</description>
+  <discussion>Poa abbreviata subsp. pattersonii is an alpine taxon that extends from the Brooks Range, Alaska, to the Sierra Nevada, California, where it is rare, and through the Rocky Mountains to southern Colorado. It also grows in the Russian Far East. It is often confused in herbaria with P. glauca (p. 576), but differs in having predominantly intravaginal branching, an abundance of vegetative shoots, and usually shorter anthers. Plants from northern British Columbia to Alaska and Russia have been called P. abbreviata subsp. jordalii (A.E. Porsild) Hulten. They have webbed calluses, very short (occasionally nonexistent) lemma hairs, panicles often exserted well above the basal tuft of leaves, and particularly slender culms.</discussion>
+</bio:treatment>

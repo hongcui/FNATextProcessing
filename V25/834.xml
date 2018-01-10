@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Gymnopogon ambiguus (Michx.) Britton, Sterns & Poggenb. </name_authority_date>
+  </taxon_identification>
+  <common_names>BEARDED SKELETONGRASS</common_names>
+  <description type="morphology">Plants cespitose, with a knotty base of short rhizomes. Culms 20-100 cm, suberect to spreading, stiff, simple to sparingly branched. Sheaths mostly glabrous, throats sometimes pubescent; collars conspicuously pubescent; ligules about 0.2 mm; blades (1.5)2.5-12 cm long, (2)5-10(18) mm wide, somewhat cordate at the base, mostly glabrous, often pubescent near the basal margins. Panicles (6)11.5-30(35) cm; branches (3)7-24 cm, stiffly spreading to somewhat reflexed, spikelet-bearing from the base, spikelets remote to slightly imbricate. Spikelets with 1(2) florets. Glumes 4-7 mm; calluses bearded; bisexual lemmas 2.5-5(6) mm, awns 4-12.2 mm; second florets often reduced to an obliquely inserted 2.4-6.2 mm awn; anthers 3, 0.8-1.2 mm. Caryopses 2-3 mm long, 0.2-0.5 mm wide. 2n = 40.</description>
+  <discussion>Gymnopogon ambiguus grows in sandy pine woodlands of the southeastern United States, Haiti, and the Dominican Republic. It often grows with G. brevifolius, from which it differs in being more robust, having long, wider leaves, longer lemma awns, and, usually, having panicle branches that are spikelet-bearing to the base. Although spikelets of Gymnopogon ambiguus usually have only one floret, several plants from Texas have been found in which two florets per spikelet were the norm.
+There is an 1853 collection of G. ambiguus supposedly from Dona Ana County, New Mexico, but there have been no recent collections from anywhere near there; it is possible that the locality data on the label are incorrect.
+</discussion>
+</bio:treatment>

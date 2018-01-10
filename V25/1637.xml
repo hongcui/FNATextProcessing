@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>26.22</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>ELIONURUS Humb. & Bonpl. ex Willd.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial, occasionally annual; cespitose, sometimes with short rhizomes. Culms 10-150 cm, erect, sometimes branching above the base. Leaves sometimes aromatic; sheaths without glandular pits; ligules shortly membranous and densely ciliate or of hairs; blades involute, flat, or folded. Inflorescences terminal, sometimes also axillary, composed of solitary, flexuous rames; rame internodes columnar to clavate, apices strongly oblique, not hollowed or rimmed; disarticulation in the rames, below the sessile spikelets. Spikelets in sessile-pedicellate pairs. Sessile spikelets dorsally compressed; calluses blunt, sometimes resembling a short pedicel; lower glumes enclosing the upper glumes, subcoriaceous, 2-keeled, keels prominently ciliate, intercarinal surface smooth, apices cuspidate to bilobed, rarely entire; lower florets reduced, sterile; upper florets bisexual, unawned. Pedicels stout, appressed but not fused to the rame axes, pubescent or ciliate on the angles. Pedicellate spikelets 3-8 mm, about equal to the sessile spikelets, staminate, muticous to awn-tipped, x = 5. </description>
+  <discussion>Elionurus has 15 species. Most of the species are native to tropical Africa and America; one species is Australian. Several of the species are considered important elements of native pastures, but neither of the two species native to the Flora region is ever sufficiently abundant to be important in this regard.</discussion>
+  <key>
+    <key_body>
+1. Lower glumes densely pilose; pedicels pilose dorsally; culms antrorsely hirsute below the nodes .....1.E. barbiculmis
+1. Lower glumes glabrous or nearly so; pedicels ciliate on the angles, usually glabrous elsewhere; culms glabrous throughout .....2. E. tripsacoides
+
+    </key_body>
+  </key>
+</bio:treatment>

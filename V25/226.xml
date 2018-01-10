@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Barry E. Hammel </author>
+      <author>John R. Reeder</author>
+    </source>
+  </meta>
+  <number>17.31</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>CRYPSIS Aiton</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual; synoecious. Culms 1-75 cm, erect to geniculately ascending, sometimes branching above the base; nodes usually exposed. Sheaths open, often becoming inflated, junction with the blades evident; ligules of hairs; auricles absent; blades often disarticulating. Inflorescences terminal or terminal and axillary, spikelike or capitate panicles subtended by, and often partially enclosed in, 1 or more of the uppermost leaf sheaths, additional panicles often present in the axils of the leaves below. Spikelets 2-6 mm, strongly laterally compressed, with 1 floret; florets bisexua; disarticulation above or below the glumes. Glumes 1-veined, strongly keeled; lemmas membranous, glabrous, 1-veined, strongly keeled, not lobed, unawned, sometimes mucronate; paleas hyaline, 1-2-veined; lodicules absent; anthers 2 or 3; ovaries glabrous. Fruits oblong, pericarp loosely enclosing the seed and easily removed when wet; hila punctate, x = 8. </description>
+  <discussion>Crypsis, a genus of eight species, is native from the Mediterranean region to northern China. Its species tend to occur in moist soils, often in areas subject to winter flooding. The three species found in the Flora region are very plastic in the lengths of their culms and leaves, e.g., the culms of C. schoenoides vary from 2 cm in dry sites to 75 cm under optimal conditions.</discussion>
+  <references>Hammel, B.E. and J.R. Reeder. 1979. The genus Crypsis (Gramineae) in the United States. Syst. Bot. 4:267-280.</references>
+  <key>
+    <key_body>
+1. Spikelets 1.5-2.8 mm long; panicles 7-8 times longer than wide, usually completely exserted from the uppermost sheath at maturity .....1. C. alopecuroides
+1. Spikelets 2.5-4 mm long; panicles 1-5 times longer than wide, the bases usually enclosed in the uppermost sheath at maturity. 2. Collars glabrous; glumes unequal in length, the margins glabrous; anthers 0.7-1.1 mm long  .....2. C. scboenoides
+2. Collars pilose; glumes subequal, at least the lower glumes pilose on the margin; anthers 0.5-0.9 mm long .....3. C. vaginiflora
+
+    </key_body>
+  </key>
+</bio:treatment>

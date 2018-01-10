@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>43</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus lepidus Holmb. </name_authority_date>
+  </taxon_identification>
+  <common_names>SCALY BROME</common_names>
+  <description type="morphology">Plants annual, rarely biennial. Culms 5-60 cm, erect. Sheaths pilose; ligules 0.5-1 mm, hairy, obtuse; blades 3-13 cm long, 2-4 mm wide. Panicles 2-10 cm long, 1.5-3 cm wide, erect, contracted or loose; branches shorter than the spikelets, ascending, slightly curved or straight. Spikelets 6-15 mm, lanceolate, shiny, terete to moderately laterally compressed; florets 5-12, bases concealed at maturity; rachilla internodes concealed at maturity. Glumes glabrous; lower glumes 4-4.6 mm, 3-5-veined; upper glumes 5.2-5.4 mm, 7-veined; lemmas 4.5-6.5 mm long, 1.5-1.7 mm wide, elliptic, glabrous, distinctly 7-veined, rounded over the midvein, margins broadly hyaline, sharply angled, not inrolled at maturity, apices notched, notch at least 0.6 mm deep; awns 2-6 mm, straight, arising from the base of the apical notch but less than 1.5 mm below the lemma apices; anthers 0.5-2 mm. Caryopses longer than the paleas, thin, weakly inrolled or flat. 2n = 28.</description>
+  <discussion>Bromus lepidus grows in fields and waste places. It is native to Europe, and is reported from New York and Massachusetts; it probably also occurs elsewhere in the Flora region.
+Bromus lepidus often resembles B. hordeaceus subsp. pseudothominei in lemma characteristics (e.g., length, smoothness, and margin angle), so that either may be misinterpreted. Bromus lepidus differs in the wide apical notch of its lemmas, and the length of its caryopses relative to the paleas.
+</discussion>
+</bio:treatment>

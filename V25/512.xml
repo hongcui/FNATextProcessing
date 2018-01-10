@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aristida tuberculosa Nutt. </name_authority_date>
+  </taxon_identification>
+  <common_names>SEASIDE THREEAWN</common_names>
+  <description type="morphology">Plants annual. Culms (25) 40-100 cm, erect or decumbent to ascending near the base, highly branched above the base; nodes and internodes glabrous. Leaves cauline; sheaths usually slightly shorter than the internodes, glabrous or pilose;  
+collars often with a line of tangled hairs; ligules about 0.5 mm; blades 8-25 cm long, 2-4 mm wide, light green, flat to loosely involute, glabrous and smooth abaxially, scabridulous adaxially. Inflorescences paniculate, 10-20 cm long, 3-10 cm wide; rachis nodes glabrous, scabrous, or strigose; primary branches 1-4 cm, stiffly ascending, with axillary pulvini, with 1-4 spikelets per branch. Spikelets loosely congested. Glumes 20-30 mm, yellowish-brown, 1-veined, apices narrowing to a 5-10 mm awn; upper glumes slightly longer than the lower glumes; calluses 3-4 mm; lemmas 10-14 mm, dark and mottled at maturity, glabrous or occasionally sparsely pubescent, not beaked, junction of the lemma and awns evident; awns twisted together basally into a 8-15 mm column, free portions 30-40 mm, those of the central and lateral awns similar in length, strongly curved to arcuate near the base, straight and strongly divergent to reflexed distally, disarticulating at the base of the column at maturity; anthers 3, about 2.5 mm, brownish. Caryopses 8-10 mm, dark brown. 2n = unknown.
+</description>
+  <discussion>Aristida tuberculosa grows in sandy fields, hills, pinelands, and disturbed areas. Along the Atlantic coastal fringe, it grows on maritime dunes; inland it is associated with xeric pine-oak sandhills. It is generally similar to A. desmantha, but has longer glumes, calluses, and awns. Like A. desmantha, A. tuberculosa is restricted to the United States.</discussion>
+</bio:treatment>

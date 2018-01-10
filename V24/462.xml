@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Elymus lanceolatus (Scribn. & J.G. Sm.) Gould subsp. lanceolatus </name_authority_date>
+  </taxon_identification>
+  <common_names>THICKSPIKE WHEATGRASS</common_names>
+  <description type="morphology">Culms 60-130 cm. Spikes 10-22 cm; internodes 7-15 mm, smooth, scabrous, or hairy distally. Spikelets 10-28 mm. Lemmas not scabrous, moderately hairy, hairs stiff, shorter than 1 mm.</description>
+  <discussion>Elymus lanceolatus subsp. lanceolatus grows in clay, sand, loam, and rocky soils, and is widely distributed in the western Flora region. It is most likely to be confused with the octoploid Pascopyrum smithii (p. 351); it differs morphologically from that species in having more evenly distributed leaves and acute glumes that tend to taper from midlength or higher, rather than acuminate glumes that tend to taper from below midlength. In addition, the midvein of the glumes of E. lanceolatus is straight, whereas that of P. smithii "leans" to the side distally.</discussion>
+</bio:treatment>

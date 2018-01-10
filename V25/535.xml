@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Aristida longespica var. geniculata (Raf.) Fernald </name_authority_date>
+  </taxon_identification>
+  <common_names>KEARNEY'S THREEAWN</common_names>
+  <description type="morphology">Glumes 4-11 mm; lemmas 3.5-10 mm; central awns (8)12-27 mm, erect to reflexed; lateral awns (1)6-18 mm, erect to horizontal; anthers 1 or 3.</description>
+</bio:treatment>

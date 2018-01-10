@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>16</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Setaria arizonica Rominger </name_authority_date>
+  </taxon_identification>
+  <common_names>ARIZONA BRISTLEGRASS</common_names>
+  <description type="morphology">Plants annual. Culms 25-50 cm; nodes pubescent. Sheaths glabrous, margins ciliate distally; ligules 1-2 mm, ciliate; blades 7-15 cm long, 5-8 mm wide, flat, scabrous, abaxial surface conspicuously hispid over the veins with papillose-based hairs, adaxial surface sparsely hispid over the veins; bristles solitary, 5-15 mm, flexible. Panicles 5-12 cm, loosely spicate; rachises scabrous. Spikelets 1.8-2 mm. Lower glumes about 1/3 as long as the spikelets, 3-veined, lateral veins coalescing with the central vein below the apices; upper glumes about 2/3 as long as the upper lemmas, 5-veined, obtuse; lower paleas equaling the lower lemmas, broad; upper lemmas very strongly and coarsely transversely rugose; upper paleas similar to the upper lemmas. 2n = unknown.</description>
+  <discussion>Setaria arizonica is locally abundant in sandy washes on both sides of the Arizona-Sonora border, southwest of Tucson.</discussion>
+</bio:treatment>

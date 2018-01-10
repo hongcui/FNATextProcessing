@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Phalaris canariensis L. </name_authority_date>
+  </taxon_identification>
+  <common_names>ANNUAL CANARYGRASS, PHALARIS DES CANARIES, ALPISTE DES CANARIES</common_names>
+  <description type="morphology">Plants annual. Culms 30-100 cm. Ligules 3-6 mm, rounded to obtuse, lacerate; blades 3-25 cm long, 2-10 mm wide. Panicles 1.5-5 cm long, 1.5-2 cm wide,. ovoid to oblong-ovoid, continuous, not lobed, truncate at the base; branches not evident, spikelets borne singly, not clustered. Spikelets homogamous, with 3 florets, terminal floret bisexual; disarticulation above the glumes, beneath the sterile florets. Glumes 7-10 mm long, 2-2.5 mm wide, smooth, mostly glabrous, sometimes sparsely pilose between the veins, keels winged, wings to 0.6 mm, widening distally, lateral veins inconspicuous, smooth, apices rounded to acute, sometimes mucronate; sterile florets 2, equal or subequal, 2-4.5 mm, 1/3 or more the length of the bisexual florets, lanceolate, sparsely hairy, acute; bisexual florets 4.5-6.8 mm, ovate, densely hairy, shiny, stramineous to gray-brown; anthers 2-4 mm. 2n = 12. </description>
+  <discussion>Phalaris canariensis is native to southern Europe and the Canary Islands, but is now widespread in the rest of the world, frequently being grown for birdseed. The exposed ends of the glumes are almost semicircular in outline, making this one of our easier species of Phalaris to identify.</discussion>
+</bio:treatment>

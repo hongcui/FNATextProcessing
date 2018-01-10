@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Vulpia octoflora (Walter) Rydb. var. octoflora </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Panicle branches erect to ascending, lower branches sometimes spreading distally. Spikelets usually 5.5-10(13) mm, usually not or only slightly overlapping. Lemmas usually smooth, sometimes scabridulous distally and on the margins; awns of the lowermost lemma in each spikelet 3-9 mm.</description>
+  <discussion>Vulpia octoflora var. octoflora is widespread throughout southern Canada, the United States, and Mexico, and has been introduced into temperate regions of South America, Europe, and Asia. It is most common from northern Oklahoma to Virginia, south to the Texas Gulf prairie and Florida.</discussion>
+</bio:treatment>

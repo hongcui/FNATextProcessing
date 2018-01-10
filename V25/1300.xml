@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Panicum sect. Verrucosa (Nash) C.C. Hsu</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual. Culms weak, sprawling. Ligules membranous, ciliate, very short. Panicles open, diffuse, lax, with a few spikelets. Spikelets warty-tuberculate or verrucose, faintly veined. Lower glumes less than 1/5 as long as the spikelets, without veins; upper glumes and lower lemmas subequal, 5-veined; lower florets sterile; lower paleas absent; upper florets finely longitudinally rugose, papillose and with bicellular microhairs, often with a minute protuberance at the base of the paleas. x = 9.</description>
+</bio:treatment>

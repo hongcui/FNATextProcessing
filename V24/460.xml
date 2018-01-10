@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Elymus alaskanus subsp. hyperarcticus (Polunin) Á. Löve   & D. Love </name_authority_date>
+  </taxon_identification>
+  <common_names>HIGH-ARCTIC WHEATGRASS</common_names>
+  <description type="morphology">Plants cespitose, not rhizomatous. Culms 20-35(50) cm, ascending to erect; nodes concealed. Ligules 0.5-1 mm, erose to ciliate; blades 2.5-5 mm wide. Spikes 4.5-7 cm; internodes 4-6 mm, ciliate, distal cilia longest. Glumes densely hairy, hairs 0.2-0.5 mm, apices mucronate or awned, awns to 1 mm; lemmas densely hairy, hairs 0.2-0.5 mm, apices awned, awns 1-5 mm, straight. 2n = 28.</description>
+  <discussion>Elymus alaskanus subsp. hyperarcticus grows on river banks and hillsides. It extends from the Lake Taymyr basin in arctic Russia across northern North America to Greenland.</discussion>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>37</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia richardsonis (Trin.) Rydb. </name_authority_date>
+  </taxon_identification>
+  <common_names>MAT MUHLY, MUHLENBERGIE DE RICHARDSON</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, not cespitose, often mat-forming. Culms 5-30 cm tall, 0.4-1 mm thick, decumbent, geniculate, or erect; internodes usually nodulose (occasionally smooth) for most of their length, puberulent or nodulose below the nodes. Sheaths shorter or longer than the internodes, glabrous; ligules 0.8-3 mm, membranous, acute to truncate, erose; blades 0.4-6.5 cm long, 0.5-4.2 mm wide, flat or involute, straight or arcuate-spreading, glabrous abaxially, hirtellous adaxially. Panicles 1-15 cm long, 0.1-1.7 cm wide, exserted, narrow or spikelike, rachises usually concealed by the branches; primary branches 0.4-5 cm, usually closely appressed at maturity, rarely diverging up to 20° from the rachises; pedicels 0.2-2 mm, setulose. Spikelets 1.7-3.1 mm, occasionally with 2 florets. Glumes subequal, 0.6-2 mm, 1/3– 1/2 as long as the lemmas, green, l(2)-veined, acute, sometimes mucronate, mucros less than 0.2 mm; lemmas 1.7-2.6(3.1) mm, lanceolate, dark greenish, plumbeous, or mottled, glabrous, apices scabridulous, acute to acuminate, sometimes mucronate, mucros to 0.5 mm; paleas 1.2-2.4(2.9) mm, lanceolate, acute; anthers 0.9-1.6 mm, yellow to purplish. Caryopses 0.9-1.6 mm, narrowly ellipsoid, brown. 2n = 40.</description>
+  <discussion>Muhlenbergia richardsonis grows in open sites in alkaline meadows, prairies, sandy arroyo bottoms, talus slopes, rocky flats and the shores of rivers, at elevations of 60-3300 m. It is the most widespread species of Muhlenbergia in the Flora region, extending from the Yukon Territory to Quebec in the north and to northern Baja California, Mexico, in the south. Morden and Hatch (1996) reported that it also grows in Alaska, but no voucher specimen has been located.
+Muhlenbergia richardsonis is often confused with M. cuspidata, which differs in lacking rhizomes and having shorter ligules, and sometimes with M. filiformis, which differs in being a weak annual with glabrous internodes and obtuse, erose glumes.
+</discussion>
+</bio:treatment>

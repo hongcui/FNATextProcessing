@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>34</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Panicum brachyanthum Steud. </name_authority_date>
+  </taxon_identification>
+  <common_names>PRAIRIE PANICGRASS</common_names>
+  <description type="morphology">Plants annual; weak, ascending or spreading. Culms slender, wiry, glabrous, often with minute purple streaks and dots, ascending from a decumbent base, often branching extensively at the base and rooting at the lower nodes. Sheaths usually shorter than the internodes, glabrous, margins short-ciliate; ligules usually less than 0.3 mm, membranous, erose, ciliate; blades 4-15 cm long (rarely longer), 2-3 mm wide, flat or slightly involute, glabrous on both surfaces, margins scabridulous, especially towards the apices, bases narrowed. Panicles 4-17 cm, 1/2 to nearly as wide as long; branches few, capillary, ascending or spreading, scabridulous, with a few spikelets distally; pedicels 0.5-10 mm. Spikelets 3.2-4 mm long, about 1.5 mm wide, broadly ellipsoid or obovoid, tuberculate, hispid, faintly veined, acute or acuminate at the apices. Lower glumes usually less than 1 mm, obtuse or acute; upper glumes and lower lemmas subequal, distinctly tuberculate, hispid, with stiff hairs arising from wartlike bases; upper florets 2.7-3.2 mm long, 1.3-1.6 mm wide, obovoid or ellipsoid, nearly smooth, minutely papillose, or cross-rugulose, subacute to acute. 2n = unknown.</description>
+  <discussion>Panicum brachyanthum grows in dry, sandy or clayey soils of open areas, remnant prairies, woodland borders, and roadsides and, less commonly, along the margins of bogs and on grassy shores in the western portion of the gulf coast plain. It is restricted to the southern United States. It resembles P. verrucosum in its growth habit, but is more restricted in its distribution.</discussion>
+</bio:treatment>

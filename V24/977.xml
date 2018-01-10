@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Hainardia cylindrica (Willd.) Greuter </name_authority_date>
+  </taxon_identification>
+  <common_names>HARDGRASS, THINTAIL</common_names>
+  <description type="morphology">Culms 5-40(45) cm, erect or ascending, smooth, glabrous. Sheaths 1-6 cm, uppermost sheath on each culm clearly expanded; ligules 0.2-1 mm, denticulate; blades to 7 cm long, 1.5-2.5 mm wide, adaxial surfaces scabrous. Spikes 8-25 cm, rigid, straight or somewhat curved. curved. Spikelets 5-8 mm, slightly longer than the adjacent internodes, alternate, 2-ranked. Glumes ovate-lanceolate; upper glumes glabrous, midveins prominent, apices acute, sometimes mucronate; lower lemmas 4-6 mm; paleas 2-veined; anthers 2-3.5 mm. 2n = 14, 26, 52.</description>
+  <discussion>Hainardia cylindrica is now established in California, along the Gulf coasts of Texas and Louisiana, in northern Baja California, Mexico, and in South Carolina. It grows in coastal salt marshes and alkaline soils below 300 m.
+ 
+</discussion>
+</bio:treatment>

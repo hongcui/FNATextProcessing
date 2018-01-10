@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Oryza rufipogon Griff, </name_authority_date>
+  </taxon_identification>
+  <common_names>RED RICE, BROWNBEARD RICE</common_names>
+  <description type="morphology">Plants annual or perennial; cespitose, sometimes rhizomatous, rhizomes elongated. Culms 0.6-3.3(5) m tall, 6-15 mm thick, decumbent or prostrate, rooting and branching at both the lower and submerged upper nodes. Sheaths smooth, glabrous; auricles sometimes present, 1-7 mm, erect; ligules 7-45 mm, acute, finely splitting; blades 10-80 cm long, 7-24 mm wide, smooth or scabrous. Panicles 12-30 cm long, 1-7 cm wide; branches 2.5-12(20) cm, ascending or divergent; pedicels 1-3 mm. Spikelets 4.5-11 mm long, 1.6-3.5 mm wide, oblong or elliptic, deciduous, obliquely articulated with the pedicel, disarticulation scar lateral. Sterile florets 1.3-7 mm long, 1/4 - 1/2(3/4) as long as the spikelets, 0.3-0.7 mm wide, acute. Functional florets: lemmas 6-11 mm long, 1.4-2.3 mm wide, hispid, apices beaked, beaks to 1 mm, straight or curved, lemma-awn junctions marked by a purplish, pubescent constriction, awns 4-11(16) cm; paleas 0.5-1.2 mm wide, acuminate to awned to 2.3 mm; anthers 3.5-7.4 mm, yellow or brown. Caryopses 5-7 mm long, 2.2-2.7 mm wide, broadly elliptic or oblong, reddish-brown to dark red; embryos 1-1.5 mm. Haplome A. 2n = 24.</description>
+  <discussion>Oryza rufipogon is native to southeast Asia and Australia, where it grows in shallow, standing or slow-moving water, along irrigation canals, and as a weed in rice fields. It is the ancestor of O. sativa (Londo et al. 2006). The vernacular name 'Red Rice' is used to refer to O. rufipogon, O. punctata, and weedy forms of O. sativa, some of which are probably derivatives of introgression from the first two species.
+Oryza rufipogon is a weedy taxon that hybridizes readily with O. sativa, forming partially fertile hybrids. This makes it a serious threat to rice growers. Some of the known populations have been eradicated, for instance those in Everglades National Park, Miami-Dade County, Florida, and in the Sacramento Valley, California. Nevertheless, weedy red rice has become an increasingly serious problem in rice fields throughout rice-growing regions of the world, including the contiguous United States, probably through the presence of fertile seed in commercial seed.
+</discussion>
+</bio:treatment>

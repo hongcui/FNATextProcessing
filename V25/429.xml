@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>17</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bouteloua parryi (E. Fourn.) Griffiths </name_authority_date>
+  </taxon_identification>
+  <common_names>PARRY'S GRAMA</common_names>
+  <description type="morphology">Plants annual or short-lived perennials; tufted, sometimes stoloniferous. Culms 20-60 cm, erect or somewhat geniculate at the base. Leaves mostly basal; sheaths pubescent, usually with tufts of long hairs on either side of the collar; ligules 0.1-0.5 mm, of hairs; blades 1-3 cm long, 1-2.5 mm wide, margins and usually both surfaces with papillose-based hairs. Panicles 2.5-10 cm, with 4-8 branches; branches 20-35 mm, persistent, with papillose-based hairs, with 40-65 spikelets, branches terminating in a spikelet; disarticulation above the glumes. Spikelets pectinate, with 1 bisexual floret and 2 rudimentary florets. Glumes unequal; lower glumes about 2 mm, glabrous or sparsely pubescent at the base, mucronate; upper glumes 3-4 mm, keels with papillose-based hairs, apices bilobed, awned from between the teeth, awns to 0.7 mm; lowest lemmas 3-4 mm, pilose or villous proximally, 3-awned, awns 2-3 mm, central awns flanked by 2 membranous lobes; lowest paleas about 2.5 mm, 4-lobed, 2-awned; anthers 1.8-2 mm, yellow; rachilla segments subtending second florets with densely pubescent apices; second florets lobed nearly to the base, lobes ovate, awns 2-4 mm, exceeding those of the lowest lemmas, third florets minute scales, glabrous, unawned or with a single awn. Caryopses 1.3-1.5 mm. 2n = 20.</description>
+  <discussion>Bouteloua parryi grows on sandy slopes and flats at elevations from near sea level to 2000 m. Its range extends from the southwestern United States to central Mexico. Plants in the Flora region belong to B. parryi (E. Fourn.) Griffiths var. parryi, which differs from B. parryi var. gentryi (Gould) Gould in comprising tufted annuals rather than stoloniferous perennials. Bouteloua parryi var. parryi resembles B. barbata var. rothrockii, but differs in the papillose-based hairs on the keels of its upper glumes.</discussion>
+</bio:treatment>

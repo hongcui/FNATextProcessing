@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa alpina L. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; not glaucous; densely cespitose, not rhizomatous, not stoloniferous. Basal branching intravaginal. Culms 10-40 cm. Leaves mostly basal; sheaths closed for 1/8 – 2/7 their length, terete, basal sheaths persistent, overlapping, bases usually not swollen; ligules of innovations 1-2(3) mm, those of the upper cauline leaves to 4(5) mm, milky white, smooth, glabrous, obtuse; blades of innovations widely spreading, persisting through the season, blades of cauline leaves 1-5(12) cm long, 2-4.5 mm wide, flat, moderately thick, soft, straight, smooth or the margins sparsely scabrous, apices broadly prow-shaped, blades of upper cauline leaves much reduced in length. Panicles 2-6(8) cm, erect, ovoid to pyramidal, open or loosely contracted at maturity, fairly congested; nodes with 1-2 branches, lowest internodes 0.6-1(1.5) cm; branches 1-3(4) cm, ascending to spreading, straight, terete, usually smooth or sparsely scabrous, rarely moderately densely scabrous; pedicels divaricate, shorter than the spikelets. Spikelets 3.9-6.2 mm, ovate, lengths 1.5-2.5 times widths, laterally compressed, plump, sometimes bulbiferous; florets 3-7, usually normal; rachilla internodes 0.5-0.8 mm, smooth, glabrous or sparsely softly puberulent to short-villous. Glumes broadly lanceolate to narrowly ovate, keeled, keels sparsely scabrous; lower glumes 3-veined; upper glumes shorter than or subequal to the lowest lemmas; calluses glabrous; lemmas 3-5 mm, broadly lanceolate, keeled, keels and marginal veins short- to long-villous, lateral veins moderately prominent, intercostal regions sparsely to moderately short-villous, apices acute; palea keels softly puberulent to short-villous over most of their length, apices scabrous; anthers 1.3-2.3 mm. 2n = 22, 23, 24,25, 26, 27, 28, 28+11, 30, 31, 32, 32+1, 33, 34, 35, 36, 37, 39, 40+1, 41, 42, ca. 43, 44, 46, ca. 48, 56.</description>
+  <discussion>Poa alpina is a fairly common circumboreal forest species of subalpine to arctic habitats, extending south in the Rocky Mountains to Utah and Colorado in the west, and to the northern Great Lakes region in the east. It often grows in disturbed ground and is calciphilic. Poa xgaspensis (p. 601) is a natural hybrid which seems to be between P. alpina and P. pratensis subsp. alpigena (p. 525); it differs from P. alpina in its extravaginal branching, rhizomatous habit, and webbed calluses. The range of chromosome numbers suggests that P. alpina is predominantly apomictic.</discussion>
+  <key>
+    <key_body>
+1. Spikelets not bulbiferous.....subsp. alpina
+1. Some or all spikelets bulbiferous   .....subsp. vivipara
+
+    </key_body>
+  </key>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa abbreviata subsp. marshii Soreng </name_authority_date>
+  </taxon_identification>
+  <common_names>MARSH'S BLUEGRASS</common_names>
+  <description type="morphology">Ligules 1-3 mm, smooth, apices obtuse to acute. Spikelets not bulbiferous; florets normal. Calluses webbed; lemmas lanceolate, glabrous; palea keels glabrous; anthers 0.6-1.2 mm. 2n = unknown.</description>
+  <discussion>Poa abbreviata subsp. marshii is rather uncommon. It is known from scattered alpine peaks across the interior western United States: from the White Mountains of California, the Schell Creek Range of Nevada, the southern Rockies of Idaho, the Little Belt Mountains of Montana, and the Big Horn Mountains of Wyoming, mostly where the other subspecies are absent.</discussion>
+</bio:treatment>

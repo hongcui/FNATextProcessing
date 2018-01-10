@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Hordeum brachyantherum Nevski </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; loosely to densely cespitose. Culms to 90 cm, erect to geniculate, not bulbous; nodes glabrous. Sheaths glabrous or densely pubescent; auricles absent; blades to 19 cm long, to 8 mm wide, glabrous or with hairs on both surfaces, hairs sometimes of mixed lengths. Spikes 3-8.5 cm, green to somewhat purple. Glumes 7-19 mm, ascending to slightly divergent at maturity. Central spikelets: glumes 9-19 mm long, about 0.2 mm wide, setaceous throughout, rarely flattened near the base; lemmas 5.5-10 mm, usually glabrous, rarely pubescent, awned, awns 3.5-14 mm; anthers 0.8-4 mm. Lateral spikelets staminate; glumes 7-19 mm, setaceous; lower glumes sometimes flattened near the base; lemmas rudimentary to well developed, awns to 7.5 mm, rarely absent; anthers 0.8-4 mm. 2n = 14, 28, 42.</description>
+  <discussion>Hordeum brachyantherum is native to the Kamchatka Peninsula and western North America, and has been introduced to a few locations in the eastern United States. There is also a small disjunct population in Newfoundland and Labrador that Baum (1978) identified as H. secalinum. Hordeum brachyantherum grows in salt marshes, pastures, woodlands, subarctic woodland meadows, and subalpine meadows.</discussion>
+  <key>
+    <key_discussion>Two subspecies are recognized here, but there is so much overlap in their morphological variation that unambiguous determination of many specimens is impossible in the absence of a chromosome count. They are sometimes treated as two species.</key_discussion>
+    <key_body>
+1. Basal sheaths usually glabrous, sometimes sparsely pubescent; anthers 0.8-3.5 mm long; culms often robust, sometimes slender .....subsp. brachyantherum
+1. Basal sheaths usually densely pubescent; anthers 1.1-4 mm long; culms usually slender .....subsp. californicum
+
+    </key_body>
+  </key>
+</bio:treatment>

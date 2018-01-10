@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aristida pansa Wooton & Standi. </name_authority_date>
+  </taxon_identification>
+  <common_names>WOOTON'S THREEAWN</common_names>
+  <description type="morphology">Plants perennial; cespitose. Culms 20-60(75) cm, erect, unbranched. Leaves basal and cauline; sheaths usually longer than the internodes, glabrous except at the summit; collars densely pilose, hairs 1-3 mm, cobwebby and tangled, often deflexed; ligules less than 0.5 mm; blades 4-28 cm long, less than 1 mm wide, usually involute, infrequently flat, usually arcuate, abaxial surfaces glabrous, adaxial surfaces glabrous or puberulent near the base, scabrous or puberulent distally. Inflorescences paniculate, 10-20 cm long, 3-10(12) cm wide; rachis nodes usually glabrous, some¬times with straight, less than 0.3 mm hairs; primary branches 2-11 cm, stiffly ascending to spreading, with axillary pulvini; secondary branches and pedicels with or without pulvini; terminal spikelets often divergent. Spikelets clustered on the distal 1/2 of the branches. Glumes equal or subequal, 1-veined, acuminate or awned, awns to 6 mm, brownish; lower glumes 5-10 mm; upper glumes 6-12 mm; calluses 0.5-1 mm; lemmas 7-13 mm, terminating in an obscure, narrow beak 1-4 mm long, 0.1-0.2 mm wide, junction with the base of the awns not evident; awns 6-15 mm, not disarticulating at maturity, central and lateral awns similar in length and thickness, spreading to horizontal; anthers 3, 1-3 mm, brown. Caryopses 6-8 mm, tan. 2n = unknown.</description>
+  <discussion>Aristida pansa grows in desert scrub, commonly in the Chihuahuan Desert of the southwestern United States and Mexico, but its ecological range extends into the lower juniper zones and its geographic range to southern Mexico. It prefers cobbly to sandy, often gypsiferous soil. It is very similar to the single-awned A. gypsophila, but it has also been confused with A. purpurea var. perplexa, which differs in having reddish glumes of unequal length and longer ascending awns.</discussion>
+</bio:treatment>

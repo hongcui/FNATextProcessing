@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>14</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Melica porteri Scribn. </name_authority_date>
+  </taxon_identification>
+  <common_names>PORTER'S MELIC</common_names>
+  <description type="morphology">Plants not or loosely cespitose, shortly rhizomatous. Culms 55-100 cm, not forming corms; internodes smooth, basal internodes not thickened. Sheaths often scabrous on the keels, otherwise smooth; ligules 1-7 mm; blades 2-5 mm wide, both surfaces glabrous, scabridulous. Panicles 13-25 cm; branches 1-9 cm, straight and appressed or flexible and ascending to strongly divergent, with 1-12 spikelets; pedicels sharply bent below the spikelets; disarticulation below the glumes. Spikelets 8-16 mm long, 1.5-5 mm wide, parallel-sided when mature, with 2-5 bisexual florets; rachilla internodes 1.9-2.1 mm. Glumes green, pale, or purplish-tinged; lower glumes 3.5-6 mm long, 2-3 mm wide, 3-5-veined; upper glumes 5-8 mm long, 2-3 mm wide, 5-veined; lemmas 6-10 mm, glabrous, chartaceous on the distal 1/3, 5-11-veined, veins conspicuous, apices rounded to acute, unawned; paleas  
+about 2/3 the length of the lemmas; anthers 1-2.5 mm; rudiments 1.8-5 mm, acute to acuminate, resembling the bisexual florets. 2n = 18.
+</description>
+  <discussion>Melica porteri grows on rocky slopes and in open woods, often near streams. It grows from Colorado and Arizona to central Texas and northern Mexico. Living plants are sometimes confused with Bouteloua curtipendula; the similarity is superficial.</discussion>
+  <key>
+    <key_body>
+1. Panicle branches flexible, ascending to strongly divergent; glumes purplish-tinged .....var. laxa
+1. Panicle branches straight, appressed; glumes green or pale .....var. porteri
+
+    </key_body>
+  </key>
+</bio:treatment>

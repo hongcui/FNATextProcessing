@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>35</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus repens (L.) Gould </name_authority_date>
+  </taxon_identification>
+  <common_names>QUACKGRASS, COUCHGRASS, CHIENDENT, CHIENDENT RAMPANT</common_names>
+  <description type="morphology">Plants strongly rhizomatous, sometimes glaucous. Culms 50-100 cm. Leaves sometimes somewhat basally concentrated; sheaths pilose or glabrous proximally; auricles 0.3-1 mm; ligules 0.25-1.5 mm; blades 6-10 mm wide, usually flat, abaxial surfaces glabrous or sparsely pilose, adaxial surfaces usually sparsely pilose over the veins, sometimes glabrous, veins smooth, widely spaced, primary veins prominent, separated by the secondary veins. Spikes 5-15 cm long, 0.5-1.5 cm wide, erect, usually with 1 spikelet per node, occasionally with 2 at a few nodes; internodes 4-6(9.5) mm long, 0.5-1.2 mm wide, smooth or scabrous, glabrous, evenly puberulent, or sparsely pilose, hairs to 0.3 mm. Spikelets 10-27 mm, appressed to ascending, with 4-7 florets; disarticulation above the glumes, beneath each floret. Glumes oblong, glabrous, keeled distally, keels inconspicuous and smooth proximally, scabrous and conspicuous distally, lateral veins inconspicuous, hyaline margins present in the distal 1/2, apices acute, unawned or awned, awns to 3 mm; lower glumes 8.8-11.4 mm, 3-6-veined; upper glumes 7-12 mm, 5-7-veined; lemmas 8-12 mm, glabrous, mostly smooth, sometimes scabridulous distally, unawned or with a 0.2-4(10) mm awn, awns straight; paleas 7-9.5 mm, keels ciliate from 1/2 to almost the entire length, apices emarginate, truncate, or rounded; anthers 4-7 mm. 2n = 22, 42.</description>
+  <discussion>Elymus repens is native to Eurasia; it is now established through much of the Flora region, extending from Alaska to Greenland and south to California, Texas, and North Carolina. It grows well in disturbed sites, spreading rapidly via its long rhizomes, as well as by seed. It is also drought tolerant. Although it is listed a noxious weed in several states, it provides good forage. It differs from E. hoffmannii (see next) in having widely spaced, unequally prominent leaf veins and, usually, shorter awns.
+Godley (1947) demonstrated that lemma awn development, glaucousness, and the pubescence of the rachises are each effectively controlled by single genes. Long-awned plants are homozygous recessive, and awn-tipped plants homozygous dominant; glaucousness is dominant over non-glaucousness, and glabrous rachises over pubescent rachises. Awned plants appear to be established along the coasts of Newfoundland and Nova Scotia. They have generally been identified as Agropyron pungens (Pers.) Roem. & Schult., a species that has obtuse, mucronate lemmas.
+Elymus repens is almost always a hexaploid. Most studies indicate that its genomic constitution is StStH, but Mason-Gamer (2001) demonstrated that it is genetically more complex than is implied by such a simple formula.</discussion>
+</bio:treatment>

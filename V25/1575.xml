@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Andropogon sect. Leptopogon Stapf</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Inflorescences false panicles; inflorescence units numerous. Lower glumes membranous; keels not winged, intercostal region usually not veined or with inconspicuous veins. Pedicellate spikelets usually vestigial or absent.</description>
+</bio:treatment>

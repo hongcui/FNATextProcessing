@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Festuca saximontana var. purpusiana (St.-Yves) Fred. & Pavlick</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms (5)8-20(25) cm, usually 2-3 times the height of the vegetative shoot leaves, usually glabrous below the inflorescence. Outer vegetative shoot sheaths mostly stramineous; blades smooth or scabrous on the abaxial surfaces, ribs on the adaxial surfaces with hairs shorter than 0.06 mm; abaxial sclerenchyma in 5-7 narrow abaxial strands. Lemmas usually scabrous towards the apices and often along the margins.</description>
+  <discussion>Festuca saximontana var. purpusiana grows in subalpine or lower alpine habitats. The distribution of this taxon is poorly known; it probably extends from Alaska south to northern California. It is also reported from the Chukchi Peninsula in eastern Russia (Tzvelev 1976).</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>50</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus arenarius Labill.</name_authority_date>
+  </taxon_identification>
+  <common_names>AUSTRALIAN BROME</common_names>
+  <description type="morphology">Plants annual. Culms 20-40 cm, erect to ascending. Sheaths densely retorsely pilose; ligules 1.5-2.5 mm, glabrous or pilose, obtuse, lacerate; blades 7-8 cm long, 3-6 mm wide, pilose on both surfaces. Panicles (4)10-15 cm long, 4-7 cm wide, open, nodding; branches sometimes longer than the spikelets, spreading or ascending, sinuous. Spikelets 10-20 mm, lanceolate, terete to moderately laterally compressed; florets 5-9(11), bases concealed at maturity; rachilla internodes concealed at maturity. Glumes densely pilose; lower glumes 7-10 mm, 3-veined; upper glumes 8-12 mm, (5)7-veined; lemmas 9-11(13) mm long, 1-1.8 mm wide, lanceolate, densely pilose, distinctly 7-veined, rounded over the midvein, margins rounded, not inrolled at maturity, apices acute, bifid, teeth shorter than 1 mm; awns 10-16 mm, straight to weakly spreading, arising 1.5 mm or more below the lemma apices; anthers 0.7-1 mm. Caryopses equaling or shorter than the paleas, thin, weakly inrolled. 2n = unknown.</description>
+  <discussion>Bromus arenarius grows in dry, often sandy slopes, fields, and waste places. Native to Australia, it is now widely scattered throughout California, and is also recorded from Oregon, eastern Nevada, Arizona, New Mexico, Texas, and Pennsylvania.</discussion>
+</bio:treatment>

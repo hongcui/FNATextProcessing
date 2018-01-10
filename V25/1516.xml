@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Miscanthus sacchariflorus (Maxim.) Benth. </name_authority_date>
+  </taxon_identification>
+  <common_names>AMUR SILVERGRASS, MISCANTHUS</common_names>
+  <description type="morphology">Plants rhizomatous, rhizomes 3-6 mm wide. Culms 60-250  cm tall, 5-8 mm thick below; nodes pilose. Leaves evenly distributed; ligules 0.5-1 mm; blades 20-80 cm long, 0.5-3 cm wide, adaxial surfaces densely pilose  basally, midribs prominent, whitish. Panicles 15-40 cm long, 8-16 cm wide, white to yellowish-brown, usually with more than 15 branches; rachises 4-10 cm; nodes pilose; branches 10-35 cm long, about 10 mm wide, sometimes branching at the base. Shorter pedicels 1.5-3 mm; longer pedicels 3-7 mm, strongly curved at maturity. Spikelets 4-6 mm; callus hairs 2-4 times as long as the spikelets, copious, white. Lower glumes 2-keeled above, margins densely pilose distally, hairs to 15 mm; upper glumes 4-5 mm, 3-veined, margins ciliate distally; awns of upper lemmas absent or short, not exceeding the glumes. 2n = 38, 57, 64, 76, 95.</description>
+  <discussion>Miscanthus sacchariflorus is native to the margins of
+rivers   or  marshes  in  temperate  to  north-temperate
+regions of eastern Asia, and appears to require cold and
+humidity for optimum growth. It has escaped from
+cultivation in various parts of the Flora region.  It combines a large, plumose panicle with recurving leaves that turn orange in the fall.
+</discussion>
+</bio:treatment>

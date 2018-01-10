@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Puccinellia rupestris (With.) Fernald & Weath.</name_authority_date>
+  </taxon_identification>
+  <common_names>STIFF SALTMARSH GRASS</common_names>
+  <description type="morphology">Plants annual or biennial; tufted, not mat-forming. Culms 5-50 cm, erect to decumbent. Ligules 1-2 mm, obtuse to truncate, entire; blades 2-6 cm wide, flat or folded. Panicles 2-10 cm, contracted at maturity, lower branches ascending, spikelet-bearing nearly to the base; pedicels scabrous, sometimes only slightly so, sometimes with tumid epidermal cells. Spikelets 4-9 mm, with 2-6 florets. Glumes rounded to keeled over the back, midveins obscure or prominent, extending to the apices, often scabrous distally, lateral veins obscure, apices acute to obtuse; lower glumes 1-2 mm; upper glumes 2-3.2 mm; calluses with a few hairs; lemmas 2.5-4 mm, somewhat coriaceous for most of their length, glabrous or sparsely hairy on the lower 1/2, particularly along the veins, backs rounded to keeled, 5-veined, midveins and sometimes all veins prominent, midveins extending to the margin, often excurrent, apical margins hyaline, smooth to densely scabrous, apices acute to obtuse, entire; palea veins shortly ciliate proximally, shortly ciliate to scabrous distally; anthers 0.8-1.2 mm. 2n = 42.</description>
+  <discussion>Puccinellia rupestris grows in coastal and noncoastal habitats in Eurasia; North American collections were apparently introduced in ballast.</discussion>
+</bio:treatment>

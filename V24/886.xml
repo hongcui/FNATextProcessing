@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sphenopholis nitida (Biehler) Scribn.</name_authority_date>
+  </taxon_identification>
+  <common_names>SHINY WEDGEGRASS</common_names>
+  <description type="morphology">Culms 30-80 cm. Sheaths pubescent or the upper sheaths glabrous, sometimes scabridulous; ligules 1-2 mm; blades 2-15 cm long, (1)2-5(7) mm wide, flat to slightly involute, sometimes pubescent, flag leaf blades scabridulous. Panicles 6-20 cm long, 1-5 cm wide, nodding to erect, spikelets loosely to densely arranged. Spikelets 2.5-5 mm. Lower glumes at least 1/3 as wide as the upper glumes; upper glumes 2-3.2 mm, obovate, rarely subcucullate, width/length ratio 0.22-0.38; lowest lemmas 2.1-3.8 mm, smooth on the basal 1/3-1/2, scabrous distally, unawned; distal lemmas scabrous on the sides, usually unawned, rarely awned, awns 0.1-1 mm; anthers (0.5)1-2 mm. 2n = 14.</description>
+  <discussion>Sphenopholis nitida grows in moist to dry, deciduous and coniferous forests, on clay or silt banks and slopes, at 0-1200 m, in southern Ontario and the eastern United States. It can be confused with occasional forms of S. obtusata that have somewhat scabrous distal lemmas, but S. nitida has broader lower glumes.</discussion>
+</bio:treatment>

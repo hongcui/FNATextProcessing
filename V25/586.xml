@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Digitaria filiformis var. dolichophylla (Henrard) Wipff</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 50-115 cm. Basal leaf sheaths glabrous; cauline leaf blades about 1 mm wide, usually involute. Spikelets 1.5—1.6 mm; lower lemmas pubescent.</description>
+  <discussion>Digitaria filiformis var. dolichophylla is an uncommon species of moist pine barrens and open ground in southern Florida.</discussion>
+</bio:treatment>

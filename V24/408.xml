@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>xElyhordeum jordalii (Melderis) Tzvelev </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 25-30 cm. Lower sheaths puberulent; blades 2.5-4.5 mm wide, adaxial surfaces slightly scabrous. Spikes 4-12 cm, erect to slightly nodding, usually with 2 spikelets per node. Spikelets 7-12 mm excluding the awns, with 2-3 florets. Glumes 7-13 mm long, bases about 1 mm wide, not indurate, with a prominent, scabridulous midrib, apices gradually tapering into an awn shorter than 20 mm; lemmas 6-8 mm, shortly pubescent, the pubescence decreasing in density towards the apices, apices awned, awns 5-8 mm; anthers about 1.5 mm, indehiscent. 2n = unknown.</description>
+  <discussion>xElyhordeum jordalii consists of hybrids between Elymus macrourus and Hordeum brachyantherum. It grows in the Brooks Range, Alaska. According to Jordal (1951), it was "only observed near settlements on the lowlands south of the range where it has a weedy habit. Dense tufts near cabins." It resembles xE. pilosilemma, which differs in having H. jubatum as the Hordeum parent.</discussion>
+</bio:treatment>

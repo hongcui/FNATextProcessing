@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Oryza longistaminata A. Chev. & Roehr. </name_authority_date>
+  </taxon_identification>
+  <common_names>LONGSTAMEN RICE</common_names>
+  <description type="morphology">Plants perennial; extensively rhizomatous. Culms to 2+ m tall, to 25+ mm thick at the base, soft and spongy, erect or decumbent, sometimes floating, rooting at the lower nodes. Sheaths shorter or nearly as long as the internodes, smooth, glabrous; auricles to 15 mm; ligules 15-45 mm, acute, often splitting; blades to 45 cm long, 10-50 mm wide, linear-lanceolate to narrowly elliptic, glabrous, smooth or scabrous abaxially, scabrous adaxially, acute or 2-cleft. Panicles (16)20-30(40) cm long, 2.5-8 cm wide, exserted; branches 7.5-15 cm, ascending; pedicels 0.5-4(7) mm. Spikelets 7-9 mm long, 2-3 mm wide, narrowly oblong, deciduous, obliquely articulated with the pedicel, disarticulation scar lateral. Sterile florets 2-4 mm, 1/5 – 3/5 as long as the spikelets, sometimes trilobed, lateral lobes shorter than the central lobe. Functional florets: lemmas 7-9 mm long, 1.8-2.5 mm wide, narrowly elliptic, scabrous to hispid over the veins, awned, lemma-awn junctions glabrous, colored as the lemmas, awns (2.6)3.5-8 cm; paleas usually slightly shorter than the lemmas, narrower, acute or tapering; anthers 5-7 mm. Caryopses 7.5-8.5 mm, oblong, light brown, glossy. Haplome A. 2n = 24.</description>
+  <discussion>Oryza longistaminata is native to Africa; it has not yet been found in North America. It is included here because its establishment in North America would seriously impact North American agriculture. The U.S. Department of Agriculture considers it a noxious weed; plants found growing within the United States should be promptly reported to that agency.
+In its native range, Oryza longistaminata grows in swampy areas, pond and lake edges, irrigation canals, and streams and rivers in areas that are permanently wet or seasonally dry.
+</discussion>
+</bio:treatment>

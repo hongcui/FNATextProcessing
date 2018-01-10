@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Paspalum setaceum var. ciliatifolium (Michx.) Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>FRINGELEAF PASPALUM</common_names>
+  <description type="morphology">Plants erect to spreading. Leaves mostly cauline; blades 2-32 cm long, 3-18 mm wide, lax to somewhat stiff, glabrous or with a few hairs along the midrib (rarely shortly pilose), dark green to purple, margins scabrous, ciliate. Panicle branches 2-11.9 cm; branch axes 0.6-1.2 mm wide. Spikelets 1.7-2 mm long, 1.2-1.5 mm wide, elliptic to obovate, pubescent or occasionally glabrous; lower lemmas with an evident midvein; upper florets 1.7-2 mm.</description>
+  <discussion>Paspalum setaceum var. ciliatifolium is the most variable and widespread of the nine varieties of P. setaceum. It usually grows in sandy soil in open areas, including disturbed areas, of prairies and forest margins. Its range extends from Louisiana and the eastern United States to Panama, the West Indies, and Bermuda.</discussion>
+</bio:treatment>

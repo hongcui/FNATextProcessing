@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Setaria reverchonii (Vasey) Pilg. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; rhizomatous, rhizomes, short, sometimes knotty. Culms 30-90 cm; nodes glabrous, strigose, or with appressed hairs. Sheaths with papillose-based hairs, some-times nearly glabrous, margins ciliate distally; ligules 1-2 mm, of stiff hairs; blades 4-30 cm long, 1-7 mm wide, involute, stiff, scabridulous and narrowed basally. Panicles 5-20 cm, erect, slender, interrupted; rachises scabrous; bristles 2-8 mm. Spikelets 2.1-4.5 mm, elliptic to obovate, randomly dis¬tributed on the branch axes. Lower glumes 1/2 as long as the spikelets, 5-7-veined; upper glumes equaling the upper lemmas, 7-9-veined; lower lemmas equaling the upper lemmas; lower paleas absent; upper lemmas indurate, finely and transversely rugose; upper paleas similar to the upper lemmas.</description>
+  <discussion>Setaria reverchonii grows in sandy prairies and lime-stone hills from eastern New Mexico, southwestern Oklahoma, and Texas to northern Mexico.</discussion>
+  <key>
+    <key_body>
+1. Blades usually more than 15 cm long; spikelets 3.5-4.5 mm long  .....subsp. reverchonii
+1. Blades usually less than 15 cm long; spikelets 2.1-3.2 mm long. 2. Blades 2-4 mm wide; spikelets about 2.5 mm long .....subsp. ramiseta
+2. Blades 4-7 mm wide; spikelets about 3-3.2 mm long ..... subsp. firmula
+
+    </key_body>
+  </key>
+</bio:treatment>

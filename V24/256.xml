@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>tribe</rank>
+    <name_authority_date>BRACHYPODIEAE Harz</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; rhizomatous or cespitose. Culms annual, not woody, ascending to erect or decumbent, sometimes branching above the base; internodes hollow. Sheaths open, margins overlapping for most of their length; collars without tufts of hair on the sides; auricles absent; ligules membranous, entire or toothed, sometimes shortly ciliate, those of the lower and upper cauline leaves usually similar; pseudopetioles absent; blades linear to narrowly lanceolate, venation parallel, cross venation not evident, without arm or fusoid cells, cross sections non-Kranz, epidermes without microhairs, not papillate. Inflorescences terminal, spikelike racemes, spikelets subsessile, solitary at all or most nodes; pedicels to 2.5 mm. Spikelets terete to slightly laterally compressed, with (3)5-24 florets, distal florets sometimes reduced, sterile; disarticulation above the glumes, beneath the florets; rachillas prolonged beyond the base of the distal floret. Glumes unequal, 1/2 as long as to equaling the adjacent lemmas, lanceolate, lower glumes 3-7-veined, upper glumes 5-9-veined; florets subterete to slightly laterally compressed; calluses glabrous, not well developed; lemmas lanceolate, usually membranous, rounded dorsally, (5)7-9-veined, veins not converging distally, inconspicuous, apices entire, obtuse or acute, unawned or terminally awned; paleas shorter than to slightly longer than the lemmas; lodicules 2, not veined, distal margins ciliate or the apices puberulent; anthers 3; ovaries with hairy apices; styles 2, bases free. Caryopses with hairy apices, longitudinally grooved; hila linear; embryos about 1/6 the length of the caryopses. x = 5,7,9.</description>
+  <discussion>The only genus of this tribe, Brachypodium, has sometimes been included in the Bromeae or Triticeae because of its large spikelets, apically hairy caryopses, and simple endosperm starch grains, but its smaller chromosomes and different base numbers cast doubt on its close relationship to either of these tribes, a doubt that is strongly supported by nucleic acid data. It now appears that Brachypodium is an isolated genus within the Pooideae, hence its treatment here as the sole genus in a distinct tribe.</discussion>
+  <references>Soreng, R.J. and J.I. Davis. 1998. Phylogenetics and character evolution in the grass family (Poaceae): Simultaneous analysis of morphological and chloroplast DNA restriction site character sets. Bot. Rev. (Lancaster) 64:1-85.</references>
+</bio:treatment>

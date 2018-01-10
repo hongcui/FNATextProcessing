@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Bromus sect. Ceratochloa</name_authority_date>
+  </taxon_identification>
+  <description type="morphology"></description>
+  <key>
+    <key_body>
+1. Lemmas unawned or with awns to 3.5 mm long; lemmas usually glabrous, sometimes pubescent distally, veins prominent for most of their length   .....1. B. catbarticus (in part)
+1. Lemmas awned, awns (2)4-17 mm long; lemmas pubescent or glabrous, veins obscure or prominent.
+2. Lower panicle branches shorter than 20 cm, with 1-3 spikelets on the distal 1/2, sometimes confined to the tips; culms 3-7 mm thick.
+ 
+3. Lower panicle branches shorter than 20 cm, spreading to drooping   .....2. B. sitchensis
+3. Lower panicle branches shorter than 10 cm, stiffly ascending.....4. B. aleutensis
+2. Lower panicle  branches usually shorter than  10 cm,  with  1-5  spikelets  variously distributed; culms less than 4 mm thick.
+4. Upper glume about as long as the lowest lemma in each spikelet; lemmas glabrous or pubescent distally or throughout, the marginal hairs, if present, longer than those elsewhere .....3. B. arizonicus
+4. Upper glume shorter than the lowest lemma in each spikelet; lemmas glabrous or pubescent only on the margins or throughout, if throughout, the marginal hairs similar in length to those elsewhere.
+5. Panicles dense; spikelets crowded, overlapping, usually longer than the pedicels and branches; culms 20-70 cm tall, sometimes geniculate at the base; blades glabrous; ligules 1-6 mm long.....5.B. maritimus
+5. Panicles loose to compact; spikelets not crowded or overlapping, shorter than at least some pedicels and branches; culms 30-120(180) cm tall, erect or decumbent; blades glabrous or hairy; ligules 1-4 mm long.
+6. Lemmas and sheath throats glabrous   .....7.B. polyanthus
+6. Lemmas and/or sheath throats with hairs.
+7. Lemmas 9-13-veined, veins often raised and riblike distally or throughout..... 1. B. catharticus (in part)
+1. Lemmas unawned or with awns to 3.5 mm long; lemmas usually glabrous, sometimes pubescent distally, veins prominent for most of their length   .....1. B. catbarticus (in part)
+1. Lemmas awned, awns (2)4-17 mm long; lemmas pubescent or glabrous, veins obscure or prominent.
+2. Lower panicle branches shorter than 20 cm, with 1-3 spikelets on the distal 1/2, sometimes confined to the tips; culms 3-7 mm thick.
+ 
+3. Lower panicle branches shorter than 20 cm, spreading to drooping   .....2. B. sitchensis
+3. Lower panicle branches shorter than 10 cm, stiffly ascending.....4. B. aleutensis
+2. Lower panicle  branches usually shorter than  10 cm,  with  1-5  spikelets  variously distributed; culms less than 4 mm thick.
+4. Upper glume about as long as the lowest lemma in each spikelet; lemmas glabrous or pubescent distally or throughout, the marginal hairs, if present, longer than those elsewhere .....3. B. arizonicus
+4. Upper glume shorter than the lowest lemma in each spikelet; lemmas glabrous or pubescent only on the margins or throughout, if throughout, the marginal hairs similar in length to those elsewhere.
+5. Panicles dense; spikelets crowded, overlapping, usually longer than the pedicels and branches; culms 20-70 cm tall, sometimes geniculate at the base; blades glabrous; ligules 1-6 mm long.....5.B. maritimus
+5. Panicles loose to compact; spikelets not crowded or overlapping, shorter than at least some pedicels and branches; culms 30-120(180) cm tall, erect or decumbent; blades glabrous or hairy; ligules 1-4 mm long.
+6. Lemmas and sheath throats glabrous   .....7.B. polyanthus
+6. Lemmas and/or sheath throats with hairs.
+7. Lemmas 9-13-veined, veins often raised and riblike distally or throughout..... 1. B. catharticus (in part)
+7. Lemmas 7-9-veined, veins usually not raised or riblike.....6. B. carinatus
+    </key_body>
+  </key>
+</bio:treatment>

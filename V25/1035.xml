@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Chasmanthium latifolium (Michx.) H.O. Yates</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms to 150 cm, 2-4 mm thick at the nodes, rarely branched, leafy for 80% of their height. Sheaths glabrous; collars glabrous; ligules 0.7-1 mm, entire; blades (7)9-18(22) cm long, (4)10-22 mm wide, lanceolate-fusiform, usually glabrous, sometimes pilose adaxially. Panicles (8)10-25(35) cm, open, lax; branches nodding or drooping; axils of panicle branches sparsely pilose; pedicels 10-30 mm. Spikelets 15-40(50) mm long, 6-16(20) mm wide, with 6-17(26) florets, lower 1-3 florets sterile, fertile florets diverging to 45°. Lower glumes 4.2-9.1 mm, 5-7-veined; upper glumes 4.7-8.7 mm, 5-9-veined; calluses pilose; fertile lemmas 9-12.5 mm, straight, 11-15-veined, keels winged, wings scabrous to pilose their full length; paleas 4.6-7.7 mm; anthers (0.4)0.6-2.6(3.5) mm, the length varying within a spikelet. Caryopses 2.9-5 mm, enclosed, rarely exposed at maturity. 2n = 48.</description>
+  <discussion>Chasmanthium latifolium grows along stream and river banks and in rich deciduous woods. It is the most widespread species of the genus, extending further west and east than any of the other four species. The map shows its verifiable range. Yates (1966b) reported seeing one specimen each from New Jersey, New Mexico, and Manitoba, but none of the specimens had clear locality information. In the absence of any other specimens from these regions, the locality data on these three specimens are regarded as probably erroneous.
+Flowering in Chasmanthium latifolium is sometimes cleistogamous.
+</discussion>
+</bio:treatment>

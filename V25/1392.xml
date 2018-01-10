@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Setaria megaphylla (Steud.) T. Durand & Schinz </name_authority_date>
+  </taxon_identification>
+  <common_names>BIGLEAF BRISTLEGRASS</common_names>
+  <description type="morphology">Plants perennial. Culms 100-200 cm, nodes villous. Sheaths sparsely strigose or glabrous; ligules about 2 mm, of hairs; blades 40-60 cm long, 20-80 mm wide, strongly plicate, with scattered hairs on each surface. Panicles 30-60 cm, lanceoloid; branches 2-5 cm, stiff; bristles solitary, usually present only below the terminal spikelet on each branch, occasionally below non-terminal spikelets, 1-1.5 cm. Spikelets 3-3.5 mm. Lower glumes 1/2 as long as the spikelets, 3-veined; upper glumes 2/3 as long as the spikelets, 5-7-veined; lower lemmas equaling the upper lemmas, 5-veined; lower paleas absent or reduced to a small scale; upper lemmas about 3 mm, nearly smooth, shiny. 2n = 54.</description>
+  <discussion>Setaria megaphylla is a species of tropical Africa and tropical America that has become established in Florida. Hitchcock (1951) stated that S. poiretiana (Schult.) Kunth was occasionally cultivated in the United States, but he was referring to S. megaphylla.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Ctenium aromaticum (Walter) Alph. Wood </name_authority_date>
+  </taxon_identification>
+  <common_names>TOOTHACHE GRASS</common_names>
+  <description type="morphology">Plants perennial; densely cespitose, without rhizomes. Culms 1-1.5 m, erect. Sheaths persistent, smooth to scabridu-lous, becoming fibrous at the base at maturity; ligules 0.8-2.9 mm; blades to 46 cm long, 5.1 mm wide, glabrous abaxially, scabrous adaxially, sometimes also pilose just above the ligules. Panicles with 1 branch; branches 5-15 cm, curved, axes extending slightly beyond the spikelets, distal spikelets reduced. Spikelets 8.5-11 mm. Lower glumes 1-2.1 mm; upper glumes 4.8-6.1 mm, bidentate, with a row of conspicuous glands on either side of the midveins, awns 3.5-4 mm, strongly divergent, often almost perpendicular to it at maturity; lemmas of bisexual florets 4-5 mm, pilose on the lateral veins, awned subapically, awns 3-4 mm, straight or divergent; distal lemmas sterile, unawned. 2n = unknown.</description>
+  <discussion>Ctenium aromaticum is a common species that grows in wet to moist pine flatwoods, savannahs, prairies, pitcher plant bogs, and ecotones between pine uplands   and   wet   streamheads of the southeastern coastal plain. It furnishes fair forage, and the roots are spicy when freshly dug.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>17</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sporobolus cryptandrus (Torr.) A. Gray </name_authority_date>
+  </taxon_identification>
+  <common_names>SAND DROPSEED, SPOROBOLE A FLEURS CACHEES</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous, bases not hard and knotty. Culms 30-100(120) cm tall, 1-3.5 mm thick, erect to decumbent. Sheaths rounded below, glabrous or scabridulous, margins sometimes ciliate distally, apices with conspicuous tufts of hairs, hairs to 4 mm; ligules 0.5-1 mm; blades (2)5-26 cm long, 2-6 mm wide, flat to involute, glabrous abaxially, scabridulous to scabrous adaxially, margins scabridulous; flag blades nearly perpendicular to the culms. Panicles 15-40 cm long, 2-12(14) cm wide, longer than wide, initially contracted and spikelike, ultimately open and narrowly pyramidal; rachises straight, erect; lower nodes with 1-2(3) branches; primary branches 0.6-6 cm, appressed, spreading, or reflexed to 130° from the rachis, without spikelets on the lower 1/8 – 1/4; lower branches longest, included in the uppermost sheath; secondary branches appressed; pulvini glabrous; pedicels 0.1-1.3 mm, appressed, glabrous or scabridulous. Spikelets 1.5-2.5(2.7) mm, brownish, plumbeous, or purplish-tinged. Glumes unequal, linear-lanceolate to ovate, membranous; lower glumes 0.6-1.1 mm; upper glumes 1.5-2.7 mm, at least 2/3 as long as the florets; lemmas 1.4-2.5(2.7) mm, ovate to lanceolate, membranous, glabrous, acute; paleas 1.2-2.4 mm, lanceolate, membranous; anthers 0.5-1 mm, yellowish to purplish. Fruits 0.7-1.1 mm, ellipsoid, light brownish to reddish-orange. 2n = 36, 38, 72.</description>
+  <discussion>Sporobolus cryptandrus is a widespread North American species, extending from Canada into Mexico. It grows in sandy soils and washes, on rocky slopes and calcareous ridges, and along roadsides in salt-desert scrub, pinyon-juniper woodlands, yellow pine forests, and desert grasslands. Its elevational range is 0-2900 m.</discussion>
+</bio:treatment>

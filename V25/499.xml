@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Schismus arabicus Nees </name_authority_date>
+  </taxon_identification>
+  <common_names>ARABIAN SCHISMUS</common_names>
+  <description type="morphology">Plants annual. Culms (2)6-16 cm. Ligules 0.5-1.5 mm, of hairs; blades 4-6 cm long, 0.5-2 mm wide, abaxial surfaces glabrous or sparsely pubescent, adaxial surfaces sparsely to densely pubescent. Panicles (1)2-3.5 cm. Spikelets 5-7 mm. Lower glumes 4.2-6.2 mm, equaling or exceeding the distal florets; upper glumes 4-6 mm; lemmas 1.8-2.6 mm, with dense, spreading pubescence between the veins, lobes longer than wide, acute to acuminate; paleas 1.5-2.2 mm, shorter than the lemmas; anthers 0.2-0.5 mm. Caryopses 0.5-0.8 mm. 2n = 12.</description>
+  <discussion>Schismus arabicus is native to southwestern Asia, but it is now established in the southwestern United States, growing in open and disturbed sites.</discussion>
+</bio:treatment>

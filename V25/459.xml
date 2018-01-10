@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Zoysia matrella (L.) Merr. </name_authority_date>
+  </taxon_identification>
+  <common_names>MANILAGRASS</common_names>
+  <description type="morphology">Plants rhizomatous. Culm internodes 5-40 mm, at least some on each plant longer than 14 mm. Sheaths glabrous; ligules 0.07-0.25 mm; blades to 7 cm long, 0.5-2.5 mm wide, patent, weakly involute when fully hydrated, to strongly involute when stressed, surfaces glabrous or sparsely pilose. Peduncles extending (0.3)1-6 cm beyond the sheaths of the flag leaves. Racemes 1-4 cm, with 10-40 spikelets; pedicels 0.6-1.6 mm. Spikelets 2.1-3.2 mm long, 0.6-1 mm wide, lanceolate, unawned or awned, awns to 1 mm. 2n = 20, 40.</description>
+  <discussion>Many of the Zoysia lawn grasses grown in the southern and eastern United States are derived from hybrids between Z. matrella and Z. pacifica or Z. japonica, and have retained many of the characteristics of Z. matrella. They are used as lawn grasses from Connecticut southwards, and have occasionally been found as escapes in that region.</discussion>
+</bio:treatment>

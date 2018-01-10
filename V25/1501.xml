@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Saccharum giganteum (Walter) Pers. </name_authority_date>
+  </taxon_identification>
+  <common_names>SUGARCANE PLUMEGRASS</common_names>
+  <description type="morphology">Plants rhizomatous. Culms 1-2.5 m; nodes sericeous, hairs to 5 mm. Sheaths glabrate or glabrous; auricles absent; ligules 2-6 mm; blades usually 35-70 cm long, 8-30 mm wide, adaxial surfaces glabrous or pilose. Peduncles 40-80 cm, pilose; panicles 6-15 cm wide, oblong or lanceolate; rachises 15-30 cm, pilose; lowest nodes densely pilose; primary branches 2-13 cm, ascending or appressed to the rachises; rame internodes 2-5.5 mm, pilose. Sessile spikelets 4.2-6 mm long, 0.8-1.1 mm wide, straw-colored. Callus hairs (7)15-20(25) mm, longer than  the  spikelets,  straw-colored or  brown; glumes usually glabrous; lower glumes smooth, indistinctly 5-veined; lower lemmas 3-5 mm, without veins; upper lemmas 2.5-3.5 mm, 1-veined, entire; awns 12-26 mm, straight or curved, terete basally; lodicule veins sometimes extending into hairlike projections; anthers 2. Pedicels 2.5-5 mm, pilose. Pedicellate spikelets similar to the sessile spikelets, except frequently pilose. 2n = 30, 60, 90.</description>
+  <discussion>Saccharum giganteum grows in wet soils of bogs, swales, and swamps. Its range extends from the eastern and southeastern United States to Central America. It is a polymorphic, primarily chasmogamous species that intergrades morphologically with the primarily cleistogamous S. trinii (Hack.) Renvoize in Central America. The combination of long callus hairs and straight awns distinguishes it from all other species of Saccharum in the Flora region.</discussion>
+</bio:treatment>

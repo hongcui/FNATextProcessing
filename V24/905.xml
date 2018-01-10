@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Agrostis castellana Boiss. & Reut. </name_authority_date>
+  </taxon_identification>
+  <common_names>HIGHLAND BENT, DRYLAND BROWNTOP</common_names>
+  <description type="morphology">Plants perennial; loosely cespitose, rhizomatous, rhizomes to 10(40) cm, covered with inflated scales. Culms 30-80 cm, erect or geniculate, with up to 10 nodes, basal internodes devoid of leaf bases after anthesis in dry habitats, shoots proliferating from the upper nodes, especially of the innovations, later in the season. Leaves mostly cauline; sheaths smooth; ligules 0.5-3 mm, shorter than wide, dorsal surfaces smooth or scabridulous, apices truncate to rounded, ciliolate-erose; blades 4-10 cm long, 1-3 mm wide, flat. Panicles 10-30 cm long, less than 1/2 the length of the culm, 3-8 cm wide, loosely ovate, somewhat lax, somewhat contracted and linear-lanceolate after anthesis, lowest node with (1)2-7 branches; branches spreading to ascending, sparsely scabridulous, branching above the midpoint, spikelets usually confined to the distal 1/3 and in discrete clusters at the branch tips, lower branches 3-9 cm; pedicels 0.6-2.3(3) mm, usually shorter than the spikelets, adjacent pedicels not divergent. Spikelets lanceolate, yellowish green to stramineous or brownish, slightly to strongly suffused with purple. Glumes subequal, 2-3 mm, lanceolate, 1-veined, acute or acuminate; lower glumes scabrous over the midvein, at least distally; upper glumes smooth or scabrous to scabridulous over the midvein distally; calluses abundantly hairy, hairs to 0.3(0.6) mm; lemmas 1.3-1.9 mm, occasionally with hairs on the lower 1/2, translucent, (3)5-veined, veins prominent distally, apices usually truncate to obtuse, sometimes acute, entire or the lateral veins excurrent to 0.6 mm, awned or unawned, usually mixed in the inflorescence, terminal spikelets usually awned, in some plants all unawned, awns to 5 mm, awns arising from the lower 1/3 or occasionally as a minute bristle from above the center; paleas 0.6-1.1 mm, 1/2-2/3 as long as the lemma; anthers 3, 1-1.5 mm. Caryopses about 1 mm. 2n = 28, 42.</description>
+  <discussion>Agrostis castellana is native to southern Europe. It was introduced to North America in the 1930s for use in lawns and golf greens, under the name Agrostis tenuis 'Highland'; commercial samples of 'Highland' often contain A. capillaris (p. 639). Escaped plants were collected at least as early as the 1950s, but were not recognized as belonging to A. castellana until the 1990s, when several collections were identified as such in Oregon. Recorded habitats have ranged from sunny gravel roadsides to moist ground alongside cranberry bogs, at elevations from near sea level to over 600 m.
+In view of its extensive commercial use for over 70 years and its drought tolerance, it is likely that it is more widespread than shown.
+Agrostis castellana belongs to a Eurasian group that includes A. gigantea (p. 642), A. stolonifera (p. 641), and A. capillaris (635). It differs from A. gigantea and A. stolonifera in having shorter, truncate ligules about as short as wide, and in not possessing extensive rhizomes and stolons. It differs from A. capillaris in having clustered rather than diffuse spikelets, more abundant rhizomes, somewhat constricted panicle branches after anthesis, abundantly hairy calluses with hairs up to 0.3(0.6) mm long, and lemmas that are sometimes dorsally pubescent. It also tends to flower somewhat later than A. capillaris.
+ 
+</discussion>
+</bio:treatment>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>26.08</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>SORGHUM Moench</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial. Culms 50-500+ cm; internodes solid. Leaves not aromatic, basal and cauline; auricles absent; ligules membranous and ciliate or of hairs; blades usually flat. Inflorescences terminal, panicles with evident rachises; primary branches whorled, compound, the ultimate units rames; rames with most spikelets in heterogamous sessile-pedicellate spikelet pairs, terminal spikelet unit on each rame usually a triplet of 1 sessile and 2 pedicellate spikelets, rame axes without a translucent median line; disarticulation in the rames below the sessile spikelets, sometimes also below the pedicellate spikelets (cultivated taxa not or only tardily disarticulating). Sessile spikelets dorsally compressed, calluses blunt or pointed; lower glumes dorsally compressed and rounded basally, 2-keeled or winged distally, 5-15-veined, usually unawned; upper glumes 2-keeled, sometimes awned; lower florets reduced to hyaline lemmas; upper florets pistillate or bisexual, lemmas hyaline, sometimes awned. Pedicels slender, neither appressed nor fused to the rame axes. Pedicellate spikelets staminate or sterile, well-developed, often subequal to the sessile spikelets in size, x = 10. </description>
+  <discussion>Most of the approximately 25 species of Sorghum are native to tropical and subtropical regions of the Eastern Hemisphere, but one is native to Mexico. Two have been introduced into the Flora region. Some species are grown as forage, although they produce cyanogenic compounds. Sorghum bicolor is widely cultivated, being used as a grain, for syrup, and as a flavoring for beer.
+Spangler (2000) found, using ndhF data, that Sorghum is polyphyletic, forming two distinct clades. The two species treated here were in the same clade. He found Microstegium and Miscanthus to be more closely related to Sorghum than Sorghastrum.
+</discussion>
+  <references>Clayton, W.D. and S.A Renvoize. 1982. Flora of Tropical East Africa. Gramineae (Part 3). A.A. Balkema, Rotterdam, The Netherlands. 448 pp.; de Wet, J.M.J. 1978. Systematics and evolution of Sorghum sect. Sorghum (Gramineae). Amer. J. Bot. 65:477-484; Dillon, S.L., P.K. Lawrence, and R.J. Henry. 2001. The use of ribosomal ITS to determine phylogenetic relationships within Sorghum. PL Syst. Evol. 230:97-110; Harlan, J.R. and J.M.J, de Wet. 1972. Sources of variation in Cynodon dactylon (L.) Pers. Crop Sci. 12:172-176; Harlan, J.R., J.M.J, de Wet, and A.B.L. Stemler (eds.). 1976. Origins of African Plant Domestication. Mouton Press, The Hague, The Netherlands. 498 pp.; Spangler. R.E. 2000. Andropogoneae systematics and generic limits in Sorghum. Pp. 167-170 in S.W.L. Jacobs and J. Everett (eds.). Grasses: Systematics and Evolution. International Symposium on Grass Systematics and Evolution (3rd:1998). CSIRO Publishing, Collingwood, Victoria, Australia. 408 pp.</references>
+  <key>
+    <key_body>
+1. Plants perennial, rhizomatous; spikelets disarticulating at maturity; caryopses not exposed at maturity .....1. S. halepense
+1. Plants usually annual, sometimes short-lived perennials; spikelets either not disarticulating or doing so tardily; caryopses often exposed at maturity .....2. S. bicolor
+
+    </key_body>
+  </key>
+</bio:treatment>

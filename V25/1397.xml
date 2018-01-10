@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Setaria reverchonii subsp. firmula (Hitchc. & Chase) W.E. Fox</name_authority_date>
+  </taxon_identification>
+  <common_names>KNOTGRASS</common_names>
+  <description type="morphology">Sheaths with papillose-based hairs, sometimes nearly glabrous; blades 4-10 cm long, 4-7 mm wide. Spikelets 3-3.2 mm long, subtending bristles 3-6.4 mm. Lower glumes 5-7-veined; upper glumes 5-7-veined. 2n = 36. </description>
+  <discussion>Setaria reverchonii subsp. firmula is endemic to the sandy prairies of southeastern Texas.</discussion>
+</bio:treatment>

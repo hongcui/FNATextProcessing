@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca subverticillata (Pers.) E.B. Alexeev </name_authority_date>
+  </taxon_identification>
+  <common_names>NODDING FESCUE</common_names>
+  <description type="morphology">Plants loosely cespitose, or culms solitary to few in a tuft, without rhizomes. Culms (40) 50-100(150) cm, glabrous, erect or decumbent at the base. Sheaths closed for less than 1/3 their length, glabrous or sparsely pilose, shredding into fibers; ligules (0.2)0.5-1(2) mm; blades (3)5-10 mm wide, flat or loosely convolute, glabrous or sparsely pilose, smooth or scabrous, veins (11)15-39, ribs obscure; abaxial sclerenchyma in narrow strands; adaxial sclerenchyma developed; girders or pillars usually associated with the major veins. Inflorescences 13-25 cm, open, with 1-2(3) branches per node; branches lax, usually reflexed, sometimes spreading, spikelets borne towards the ends of the branches, not or only slightly imbricate. Spikelets 4-5(7) mm, elliptic to ovate, with 2-4(6) florets. Glumes ovate-lanceolate, scabrous on the veins and distal margins; lower glumes 2.5-3.5 mm, usually distinctly shorter than the  adjacent lemmas; upper glumes 3-4(4.7) mm; lemmas 3-4.5 mm, ovate-lanceolate to ovate, stiffly chartaceous, glabrous, obtuse or somewhat acute, unawned; paleas as long as or slightly shorter than the lemmas, intercostal region smooth or scabridulous distally; anthers (0.8)1-1.7(2.2) mm; ovary apices pubescent. 2n = 42.</description>
+  <discussion>Festuca subverticillata grows in moist to dry, deciduous or mixed forests with organic rocky soils, from Manitoba to Nova Scotia, south to eastern Texas, Florida, and north-eastern Mexico. Plants that are sparsely pilose over the sheaths and blades have been named F. subverticillata f. pilosifolia (Dore) Darbysh. They frequently grow in mixed populations with F. subverticillata (Pers.) E.B. Alexeev f. subverticillata.
+Festuca subverticillata resembles F. paradoxa (see next), but its spikelets are less crowded on the branches.
+</discussion>
+</bio:treatment>

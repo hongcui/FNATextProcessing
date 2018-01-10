@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Calamagrostis porteri subsp. insperata (Swallen) C.W. Greene </name_authority_date>
+  </taxon_identification>
+  <common_names>BARTLEY'S REEDGRASS</common_names>
+  <description type="morphology">Culms (85)90-120 cm. Sheaths smooth; collars glabrous; ligules (2)3-4(6) mm; blades (12)16-28(30) cm long, (2)6-8(12) mm wide, glaucous on both surfaces. Panicles (11)14-18(22) cm long, (1.5)2-3(3.5) cm wide; branches (2.5)5-7(7.5) cm. Spikelets (4)5(6) mm; rachilla prolongations with 1.5-2(3) mm hairs. Callus hairs 2(3) mm, 0.5-0.7 times as long as the lemmas; lemmas 3(4) mm, 1(2) mm shorter than the glumes; awns 3-3.5 mm, attached to the lower 1/10 – 3/10 of the lemmas; anthers 2-2.5 mm. 2n = 56.</description>
+  <discussion>Isolated populations of Calamagrostis porteri subsp. insperata grow from southern Missouri and Arkansas to Ohio and Kentucky. It is listed as possibly extirpated or of conservation concern in several states.</discussion>
+</bio:treatment>

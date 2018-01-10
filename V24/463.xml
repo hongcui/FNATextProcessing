@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Elymus lanceolatus subsp. psammophilus (J.M. Gillett & H. Senn) Á. Löve </name_authority_date>
+  </taxon_identification>
+  <common_names>SAND-DUNE WHEATGRASS</common_names>
+  <description type="morphology">Culms 20-95 cm. Spikes 4-26 cm; internodes 3.5-13 mm, hairy at least distally. Spikelets 9-31 mm. Lemmas densely hairy, hairs flexible, usually many longer than 1 mm; paleas hairy between the keels, keels hairy proximally.</description>
+  <discussion>Elymus lanceolatus subsp. psammophilus tends to grow in sandy soils. It was originally described from around the Great Lakes, but plants with similar vestiture have been found scattered throughout the western range of the species, almost always in association with sandy soils. Those from the Yukon and northern British Columbia tend to be shorter and have smaller spikelets and spikelet parts than those from Washington and Saskatchewan, but there is con¬siderable overlap in these characters. Plants from around the Great Lakes (Gillett and Senn 1960) were almost completely pollen sterile. Despite this, Gillett and Senn rejected the notion that they were hybrids.</discussion>
+</bio:treatment>

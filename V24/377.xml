@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aegilops ventricosa Tausch </name_authority_date>
+  </taxon_identification>
+  <common_names>SWOLLEN GOATGRASS, BELLY-SHAPED HARDGRASS</common_names>
+  <description type="morphology">Culms 25-70 cm, erect to slightly geniculate at the base, forming few to many tillers. Sheaths with hyaline margins, ciliate; blades 7-15 cm long, 3-6 mm wide. Spikes 5-12 cm long, 0.3-0.6 cm wide, distinctly moniliform, with 3-11 fertile spikelets; rudimentary spikelets usually absent, sometimes 1-2; disarticulation in the rachises, the spikelets falling attached to the internodes above. Fertile spikelets 7-11 mm, urceolate, with 2-5 florets, the distal 1-2 florets sterile. Glumes of fertile spikelets mostly glabrous, veins setulose, apices truncate, with a sharply acute tooth to 3 mm; glumes of apical spikelets 7-8 mm, with a central tooth or awn flanked by 2 short teeth, central awns to 0.9 cm on the lower glumes, to 2 cm on the upper glumes; lemmas of fertile spikelets 8-10 mm, adaxial surfaces velutinous, apices awned, awns 0.3-3 cm, solitary; lemmas of apical spikelets awned, awns to 4 cm. Caryopses 5-7 mm, adhering to the lemmas and paleas. Haplomes DN. 2n = 28.</description>
+  <discussion>In the Flora region, Aegilops ventricosa was collected once in New Castle County, Delaware. It is native to the Mediterranean area. The Arabic name, Oum el guemab, translates as 'mother of [durum] wheat'. It occasionally forms hybrids with Triticum durum, although the two species have no haplomes in common.</discussion>
+</bio:treatment>

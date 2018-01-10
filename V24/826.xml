@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa secunda J. Presl subsp. secunda </name_authority_date>
+  </taxon_identification>
+  <common_names>PACIFIC BLUEGRASS, PINE BLUEGRASS, SANDBERG BLUEGRASS,
+CANBY BLUEGRASS</common_names>
+  <description type="morphology">Basal leaf tufts usually tiny to medium, less often robust. Basal branching mixed intra- and extravaginal or mainly intravaginal. Culms (10) 15-100 cm, slender to middling. Ligules of culm leaves 2-6(10) mm, those of the innovations mostly 2-6 mm, smooth or scabrous, obtuse to acuminate; blades 0.4-3 mm, usually thin, lax, and soon withering, sometimes moderately thick, moderately firm, and somewhat persistent. Panicles 2-15(20) cm, usually narrowly lanceoloid to ovoid, contracted at maturity and congested, or occasionally pyramidal, open at maturity, and sparse; branches erect or ascending, infrequently widely spreading at maturity. Spikelets (4)5-8 mm; calluses glabrous or pubescent; lemmas with keels and marginal veins long-villous, crisply puberulent, or softly puberulent over the basal 2/3, intercostal regions usually at least sparsely crisply or softly puberulent, hairs usually shorter than 0.5 mm; palea keels short-villous to softly puberulent at midlength, intercostal regions often softly puberulent. 2n = 42, 44+f, ca. 48, 56, ca. 62, 63, ca. 66, ca. 68, 70, ca. 72, ca. 74, ca. 78, ca. 80, 81, 82, ca. 83, 84, ca. 86, ca. 87, ca. 88, ca. 90, ca. 91, 93, ca. 94, ca. 98, ca. 99, 100, 104, 105-106.</description>
+  <discussion>Poa secunda subsp. secunda comprises several forms or ecotypes which intergrade morphologically and overlap geographically. Its chromosome numbers are centered on 2n = 84. It generally grows in more xeric habitats than subsp. juncifolia; it is also common in alpine habitats. Some of the major variants, and the names that have been applied to them, are: scabrous plants, primarily from west of the Cascade/Sierra Nevada axis (P. scabrella (Thurb.) Benth. ex Vasey, Pine Bluegrass); smoother, large plants extending eastward (P. canbyi (Scribn.) Howell, Canby Bluegrass); tiny, early-spring-flowering plants of stony and mossy-ground (P. sandbergii Vasey, Sandberg Bluegrass); and slender, sparse plants, generally of mesic shady habitats, with panicles that remain open (P. gracillima Vasey, Pacific Bluegrass). Alpine plants have been called P. incurva Scribn. & T.A. Williams.
+Poa secunda subsp. secunda can be difficult to separate from P. stenantha var. stenantha (p. 574). It differs in having more rounded lemma keels, hairs between the veins of the lemmas, and calluses that are glabrous or have hairs shorter than 0.2 mm. It also resembles P. tenerrima (see next), but lacks that species' combination of persistently wide, open panicles, very scabrous branches, short-truncate ligules, and very fine foliage.
+</discussion>
+</bio:treatment>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>J.K. Wipff</author>
+    </source>
+  </meta>
+  <number>17.52</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>TRAGUS Haller</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; cespitose. Culms (2)5-65 cm, herbaceous, usually rooting at the lower nodes; nodes and internodes glabrous. Leaves cauline; sheaths open, usually shorter than the internodes, mostly glabrous but long-ciliate at the edges of the collar; ligules membranous, truncate, ciliate; blades usually flat, margins ciliate. Inflorescences terminal, exceeding the upper leaves, narrow, cylindrical panicles; branches 0.5-5 mm, resembling burs, with 2-5 spikelets; disarticulation at the base of the branches. Spikelets crowded, attached individually to the branches, with 1 floret; proximal spikelet(s) bisexual, larger than the distal spikelet(s); terminal spikelets often sterile. Glumes unequal; lower glumes absent or minute, veinless, membranous; upper glumes usually exceeding the florets, 5-7-veined, with 5-7 longitudinal rows of straight or uncinate spinelike projections; lemmas 3-veined; paleas 2-veined, hyaline, membranous, x = 10. </description>
+  <discussion>Tragus has seven species, all of which are native to the tropics and subtropics of the Eastern Hemisphere; four have been introduced into the Flora region. The genus is easily recognized by the spinelike projections on the upper glumes. The number of veins in the glume should be determined by examining the adaxial surface, where they appear as green lines.</discussion>
+  <references>Anton, A.M. 1981. The genus Tragus (Gramineae). Kew Bull. 36:55-61.
+</references>
+  <key>
+    <key_body>
+1. Upper glumes with 5 longitudinal rows of spinelike projections, 5-veined.
+2. Proximal internodes of the primary branches not longer than the second internode.....1.T. berteronianus
+2. Proximal internodes of the primary branches 2-3 (or more) times longer than the second internode .....2. T. australianus
+1. Upper glumes with (5)6-7 longitudinal rows of spinelike projections, 7-veined.
+3. Panicle branches with 2 (rarely 3) spikelets; proximal spikelets on the branches 3-3.5 mm long .....3. T. heptaneuron
+3. Panicle branches with 3-5 (rarely 2) spikelets; proximal spikelets on the branches 3.8-6.6 mm long .....4. T. racemosus
+
+    </key_body>
+  </key>
+</bio:treatment>

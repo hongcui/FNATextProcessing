@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>23</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Calamagrostis perplexa Scribn. </name_authority_date>
+  </taxon_identification>
+  <common_names>WOOD REEDGRASS</common_names>
+  <description type="morphology">Plants with sterile culms; weakly cespitose, with rhizomes 8+ cm long, 1.5-2 mm thick. Culms (80)85-110(120) cm, sometimes branched, smooth or slightly scabrous beneath the panicles; nodes 4-6. Sheaths smooth; collars densely hairy; ligules (3)4-6(7) mm, lacerate; blades (10)15-30(35) cm long, (3)4.5-6.5(7) mm wide, flat, scabridulous, adaxial surfaces glabrous or sparsely hairy. Panicles 10-18(20) cm long, (1)2-3 cm wide, open, erect to nodding, green, purple-tinged; branches 5-6.5 cm, spikelets usually confined to the distal 1/4-1/2. Spikelets (3)3.5-4 mm; rachilla prolongations about 1 mm, hairs about 2 mm. Glumes keeled, scabrous on the keels, lateral veins usually prominent, apices acuminate; callus hairs 2-3 mm, 0.7-1 times as long as the lemmas, somewhat sparse; lemmas 3-3.5 mm, 0.5-1 mm shorter than the glumes; awns 2-3 mm, attached to the lower 1/4-1/3 of the lemmas, not exserted, stout, distinguishable from the callus hairs, bent; anthers 1-1.5 mm. 2n = 70.</description>
+  <discussion>Calamagrostis perplexa grows on wet rocks and in dry woods at "Thatcher's Pinnacle" [Pinnacle Rock], Tompkins County, New York. There is also an unverified report of this species in Columbia County, New York. This apparently sterile species is intermediate between C. porteri (p. 721) and C. canadensis (see next) (Greene 1980). It is of conservation concern because of its limited distribution.</discussion>
+</bio:treatment>

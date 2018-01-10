@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Digitaria filiformis (L.) Koeler var. filiformis</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 10-80 cm. Basal leaf sheaths with papillose-based hairs; cauline leaf blades 1-6 mm wide, flat. Panicle branches 3-13 cm. Spikelets 1.3-1.9 mm; lower lemmas pubescent.</description>
+  <discussion>Digitaria filiformis var. filiformis is a weed of sandy fields and open, disturbed ground in the southeastern United States and Mexico.</discussion>
+</bio:treatment>

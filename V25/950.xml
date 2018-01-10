@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>John R. Reeder</author>
+    </source>
+  </meta>
+  <number>19.03</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>NEOSTAPFIA Burtt Davy</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual; glabrous or sparsely pilose, not producing juvenile floating leaves. Culms 10-30 cm, simple, ascending or decumbent, often geniculate, not breaking apart at the nodes. Leaves without ligules, with little or no distinction between sheath and blade. Inflorescences terminal, dense cylindrical spikes, usually completely exposed at maturity, spikelets spirally arranged, rachises often extending beyond the spikelets as a naked or scale-covered axis; disarticulation below the spikelets. Spikelets dorsally compressed, usually with 5 florets. Glumes absent; lemmas about 5 mm long, flabellate, to 3 mm wide distally, 7-11-veined, translucent between the veins, apices entire, ciliolate; paleas slightly shorter and much narrower than the lemmas, hyaline, 2-veined; lodicules 2, about 0.2 mm, truncate or slightly emarginate; anthers 3, exserted at anthesis, styles 2. Caryopses laterally compressed, obovoid, pericarp thick and covered with a viscid exudate, obscuring the embryo; epiblast present, x = 10. </description>
+  <discussion>Neostapfia is a monotypic genus endemic to the Central Valley of California.</discussion>
+</bio:treatment>

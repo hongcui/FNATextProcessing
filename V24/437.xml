@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus dahuricus Turcz. ex Griseb. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose, not rhizomatous, often glaucous. Culms 30-130 cm, erect; nodes 4-7, mostly exposed, usually glabrous, occasionally short-hairy. Leaves evenly distributed; sheaths glabrous; auricles minute or absent; ligules 0.5-1 mm; blades 3-18 mm wide, lax, usually pale green, sometimes glaucous, adaxial surfaces usually smooth or scabrous on the veins, sometimes sparsely pilose. Spikes 7-23 cm long, 1-2.5 cm wide, usually slightly nodding, sometimes erect, usually with 2 spikelets per node, occasionally with 1 spikelet at some nodes; internodes 3-6 mm long, 0.2-0.8 mm thick at the thinnest sections, angles usually with scattered hairs. Spikelets 10-15 mm, appressed to divergent, often purplish, with (2)3-4(5) florets, lowest florets functional; disarticulation above the glumes, beneath each floret. Glumes equal, the bases flat, not indurate, veins evident, glume bodies 6-9 mm long, 1-1.5 mm wide, linear-lanceolate, entire, widening or parallel-sided above the base, (l)3-5(7)-veined, veins scabrous, margins hyaline or scarious, awns (0)1-5 mm, straight or outcurving; lemmas (5)7-11 mm, usually glabrous and smooth throughout, sometimes scabrous to hispid distally and on the margins, marginal hairs not markedly longer than those elsewhere, awns (3)6-17(20) mm, usually somewhat outcurving from near the base; paleas 7-11 mm, keels spinose-ciliate, apices obtuse or truncate; anthers 1.5-3.5 mm. Anthesis from May to July. 2n = 42.</description>
+  <discussion>Elymus dahuricus is widespread in temperate central and eastern Asia. Like E. tsukushiensis (p. 336), it is a hexaploid with an StYH genome constitution. It has been introduced for reclamation in some parts of western North America. It is most likely to be confused with E. glaucus (p. 306), from which it differs in its palea shape. Because its presence in the region became known shortly before completion of this volume, its distribution in the region is not known. Several varieties have been described in Asia; only Elymus dahuricus Turcz. ex Griseb. var. dahuricus has been introduced to North America.</discussion>
+</bio:treatment>

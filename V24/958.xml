@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>14.34</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>SESLERIA Scop.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; more or less cespitose, sometimes rhizomatous, rarely stoloniferous. Culms 3-80(100) cm. Leaves mostly basal; sheaths closed for most of their length, often shredding when mature; auricles absent; ligules 0.1-1 mm, membranous, truncate to obtuse, usually ciliolate; blades flat, plicate, or involute. Inflorescences single terminal panicles, cylindrical to globose, usually dense, sometimes subtended by ovate to round, scarious or hyaline, erose bracts, sometimes by 1-2 pubescent scales, sometimes without subtending scales or bracts, more than 1 spikelet associated with each node; branches shorter than 10 mm. Spikelets 3-9 mm, laterally compressed, with 2-5 florets, uppermost florets reduced; rachillas usually glabrous, rarely sparsely pilose, sometimes prolonged beyond the base of the distal floret, sometimes terminating in a reduced floret; disarticulation above the glumes, beneath the florets. Glumes unequal, usually shorter than the lowest lemmas, scarious to membranous, 1-3-veined, apices awned, awns glabrous; calluses very short, broadly rounded, glabrous or with scattered hairs; lemmas membranous, 5-7-veined, 3-5 veins usually extending into awnlike teeth, central teeth longer than the lateral teeth; paleas equaling or exceeding the lemmas; lodicules 2, free, glabrous, toothed; anthers 3; ovaries pubescent. Caryopses 1.5-3 mm; embryos 1/4-1/3 the length of the caryopses. x = 7. </description>
+  <discussion>Sesleria has approximately 30 species. Most abundant in the Balkans, it extends from Iceland, Great Britain, and southern Sweden through central and southern Europe into northwest Asia. Four species are cultivated in North America.</discussion>
+  <references>Conert, H.J. 1992. Sesleria. Pp. 473-480 in G. Hegi. Illustrierte Flora von Mitteleuropa, ed. 3. Band I, Teil 3, Lieferung 6 (pp. 401-480). Verlag Paul Parey, Berlin and Hamburg, Germany; Conert, H.J. 1994. Sesleria (continued). Pp. 481-486 in G. Hegi. Illustrierte Flora von Mitteleuropa, ed. 3. Band I, Teil 3, Lieferung 7 (pp. 481-560). Blackwell Wissenschafts-Verlag, Berlin, Germany; Deyl, M. 1980. Seskria Scop. Pp. 173-177 in T.G. Tutin, V.H. Heywood, N.A. Burges, D.M. Moore, D.H. Valentine, S.M. Walters and D.A. Webb (eds.). Flora Europaea, vol. 5. Cambridge University Press, Cambridge, England. 439 pp.; Pignatti, S. 1982. Sesleria. Pp. 505-509 in S. Pignatti, Flora d'ltalia, vol. 3. Edagricole, Bologna, Italy. 780 pp.</references>
+  <key>
+    <key_body>
+1. Panicies cylindrical, 4.5-10 cm long, 4-7 mm wide.....1. S. autumnalis
+1. Panicles ovoid, spherical, or cylindrical, 0.9-4(8) cm long, 5-15 mm wide.
+2. Glumes 5-6.5 mm long, lanceolate; anthers about 2.2 mm long; lemmas glabrous   .....4. S. nitida
+2. Glumes 3-5 mm long, ovate to ovate-lanceolate; anthers 2.3-4 mm long; lemmas pubescent.
+3. Glumes 3-4 mm long, ovate-lanceolate, coriaceous; anthers about 4 mm long.....2. S. heufleriana
+3. Glumes 4-5 mm long, ovate, hyaline; anthers 2.3-3.2 mm long.....3. S. caerulea
+
+    </key_body>
+  </key>
+</bio:treatment>

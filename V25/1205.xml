@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Dichanthelium aciculare (Desv. ex Poir.) Gould & C.A. Clark subsp. aciculare</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants densely cespitose. Culms usually 15-35 cm, usually pubescent, at least on the lower internodes; nodes sometimes bearded, usually yellowish; lower internodes puberulent to appressed-pilose. Cauline blades usually 4-6 cm. Primary panicles usually open, branches spreading to ascending, not appearing 1-sided. Spikelets 1.7-2.3 mm, obovoid, blunt.</description>
+  <discussion>Dichanthelium aciculare subsp. aciculare is common in sterile, open sands on the coastal plain. It is restricted to the eastern United States and Mexico.</discussion>
+</bio:treatment>

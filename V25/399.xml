@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subgenus</rank>
+    <name_authority_date>Bouteloua Lag. subg. Bouteloua</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Panicle branches (1)4-80, with 1-15 spikelets, terminating beyond the distal spikelet in an entire, bifurcate, or trifurcate tip; spikelets usually appressed; disarticulation at the base of the branches.</description>
+</bio:treatment>

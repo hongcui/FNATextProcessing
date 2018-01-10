@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>41</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus xcayouetteorum consists of hybrids between E. trachycaulus (p. 321) and E. canadensis (p. 303). The above description is based on the type specimen, which was collected on the Ilets Jeremie, Quebec. It is not known how widespread such hybrids are.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants densely cespitose, shortly rhizomatous. Blades (2)4-8(15) mm wide, abaxial surfaces scabrous, adaxial surfaces pilose. Spikes 14-30 cm long, 1-2.5 cm wide including the awns, 0.3-0.8(1.5) cm wide excluding the awns, drooping, with 1-2 spikelets per node; internodes 5-20 mm, scabrous on the angles. Spikelets with 3-9 florets. Glumes 4-10.5 mm long, 0.8-1.5 mm wide, oblong to lanceolate, scabrous, gradually or abruptly narrowing in the distal 1/3-1/4, 3(4)-veined, margins scarious, apices unawned or awned, awns to 15 mm; rachillas hairy; lemmas 8.5-15 mm, hairy, conspicuously keeled distally, awned, awns 3-10 mm; paleas 8.5-15 mm, retuse or truncate; anthers 1-2 mm. </description>
+  <discussion>Elymus xpalmerensis is the name for hybrids between E. macrourus (p. 324) and E. sibiricus (p. 310). It is known from disturbed sites around Palmer, Alaska, and in south-central Alaska. Bowden (1967) also reported it from Fort Liard, in the MacKenzie District, Northwest Territories. Lepage (1952) originally identified the parents as Agropyron sericeum [= E. macrourus] and E. canadensis (p. 303). Later, Lepage (1965) stated that the second parent was E. sibiricus. The above description includes xAgroelymus hodgsonii Lepage, which, according to Bowden (1967), is a synonym.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Festuca rubra L. subsp. rubra </name_authority_date>
+  </taxon_identification>
+  <common_names>RED FESCUE, FETUQUE ROUGE TRACANTE</common_names>
+  <description type="morphology">Plants rhizomatous, usually loosely cespitose, with several culms arising from the same tuft, vegetative shoots 8-22(30) cm. Culms (20)40-90 cm. Sheaths reddish brown, scarious, pubescent, shredding into fibers; blades 0.5-2 mm in diameter, usually conduplicate, sometimes flat, abaxial surfaces smooth or scabrous, green or glaucous, adaxial surfaces scabrous or pubescent on the ribs; abaxial sclerenchyma in 5-7(9) small strands; adaxial sclerenchyma rarely present. Inflorescences 7-12 cm, open, lanceolate; branches scabrous. Spikelets 9-14.5 mm, with 5-8 florets. Lower glumes 3-4.5 mm; upper glumes 4-6.4 mm; lemmas (4)6-7.5(8) mm, lanceolate, usually green with red-violet borders, sometimes mostly red-violet, margins sometimes scabrous, apices scabrous, acute to acuminate, awned, awns 0.6-3.2(4) mm; anthers 2.4-3.5 mm. 2n = 42.</description>
+  <discussion>Festuca rubra subsp. rubra grows in disturbed soil. It is often planted as a soil binder, or as turf or forage grass, in mesic temperate parts of the Flora region. Originally from Eurasia, it has been widely introduced elsewhere in the world, including most of the Flora region, from southern Alaska east to Newfoundland and Greenland and south to California and Georgia. It also grows in Mexico. Because F. rubra subsp. rubra has often been misunderstood, confounded, and lumped with other taxa of the F. rubra complex, statements about its distribution, including that given here, should be treated with caution. It is to be expected throughout the Flora region, in all but the coldest and driest habitats.</discussion>
+</bio:treatment>

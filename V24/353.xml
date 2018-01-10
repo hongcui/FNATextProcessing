@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Hordeum marinum subsp. gussoneanum (Pari.) Thell.</name_authority_date>
+  </taxon_identification>
+  <common_names>MEDITERRANEAN BARLEY, GENICULATE BARLEY</common_names>
+  <description type="morphology">Plants summer annuals. Leaves 1.5-4 mm wide, flat or involute. Lateral spikelets: lower glumes usually setaceous, occasionally a little widened, but not winged. 2n = 14, 28.</description>
+  <discussion>Hordeum marinum subsp. gussoneanum grows in grassy fields, waste places, and open ground. It was introduced to North America from the Mediterranean area, and it is now an established weed, especially in western North America.</discussion>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>34</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus albicans (Scribn. &c J.G. Sm.) Á. Löve </name_authority_date>
+  </taxon_identification>
+  <common_names>MONTANA WHEATGRASS</common_names>
+  <description type="morphology">Plants strongly rhizomatous. Culms 40-100 cm, erect or decumbent only at the base, glabrous. Leaves somewhat basally concentrated; sheaths glabrous; auricles usually pres¬ent, to 0.8 mm; ligules 0.2-0.5 mm, ciliolate; blades 1-3 mm wide, usually involute, adaxial surfaces scabrous to strigose. Spikes 4-14 cm long, 1.5-2.5 cm wide including the awns, 0.3-0.8 cm wide excluding the awns, erect, with 1 spikelet per node; internodes 6-14 mm long, 0.2-0.4 mm wide, glabrous or pubescent beneath the spikelets. Spikelets 10-18 mm, 1.5-2 times longer than the internodes, appressed to ascending, with 3-7 florets; rachillas strigillose; disarticulation above the glumes, beneath each floret. Glumes subequal, 1/2 as long as to almost equaling the adjacent lemmas, glabrous or hairy, weakly keeled, keels and adjacent veins smooth to evenly and strongly scabrous from the base to the apices, margins 0.2-0.3 mm wide, apices acute, acuminate, or shortly awned; lower glumes 4-8 mm; upper glumes 4.5-8 mm; lemmas 7.5-9.5 mm, glabrous or densely hairy, awns 4-12 mm, at least some strongly divergent; paleas subequal to the lemmas, tapering to the 0.1-0.3 mm wide apices; anthers 3-5 mm. 2n = 28.</description>
+  <discussion>Elymus albicans grows primarily in the central Rocky Mountains and the western portion of the Great Plains. It tends to grow in shallow, rocky soils on wooded or sagebrush-covered slopes, rather than in deep loams. It is derived from hybrids between Pseudoroegneria spicata (p. 281) and E. lanceolatus (p. 327). In practice, it is probably restricted to hybrids involving the awned variant of Pseudoroegneria spicata, because the hybrid origin of those involving the unawned variant would probably not be recognized.
+Populations of Elymus albicans differ in their reproductive abilities (Dewey 1970). In some, most plants yield good seed; in others, most plants are sterile. Some fertile populations appear to be self-perpetuating; others appear to consist of recent hybrids and some backcrosses. Although treated here as a species, E. albicans could equally well be treated as a hybrid in xPseudelymus (p. 282), but the combination has not been published. Plants with glabrous lemmas, presumed to be derived from crosses with glabrous individuals of E. lanceolatus, have sometimes been treated as a distinct taxon, e.g., Agropyron albicans var. griffithsii (Scribn. 8c J.G. Sm.) Beetle or A. griffithsii Scribn. & J.G. Sm.; they are not formally recognized here.
+</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Setaria reverchonii (Vasey) Pilg. subsp. reverchonii</name_authority_date>
+  </taxon_identification>
+  <common_names>REVERCHON'S BRISTLEGRASS</common_names>
+  <description type="morphology">Sheaths almost glabrous; blades 15-30 cm long, 1-3 mm wide. Spikelets 3.5-4.5 mm, elliptic, subtending bristles 5-8 mm. Lower glumes 5-7-veined; upper glumes 7-veined. 2n = 36, 72.</description>
+  <discussion>Setaria reverchonii subsp. reverchonii grows in sandy prairies and limestone hills from southwestern Texas to northern Mexico.</discussion>
+</bio:treatment>

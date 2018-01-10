@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa cusickii subsp. purpurascens (Vasey) Soreng </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants densely to moderately densely tufted. Basal branching mostly extravaginal. Culms 25-50 cm, bases decumbent, with 1-2 well-exserted nodes. Sheaths closed for 1/2-3/4 their length, distal sheath lengths 1.6-5 times blade lengths; innovation blades mostly 1-2 mm wide; cauline blades more than 1.5 mm wide, flat or folded, apices usually broadly prow-shaped, flag leaf blades 3-6 cm. Panicles usually 4-7 cm, slightly lax, ovate, loosely contracted, with 13-50 spikelets; nodes with 1-3 branches; branches 1-3(4) cm, moderately stout, smooth to moderately scabrous, with 1-8 spikelets. Spikelets 7-10 mm. Calluses of proximal lemmas usually sparsely and shortly webbed, hairs less than 1/4 the lemma length, sometimes glabrous, those of the distal lemmas glabrous; lemmas 4-7 mm, usually the keels and marginal veins of some proximal lemmas sparsely puberulent near the base, sometimes glabrous, distal lemmas glabrous; anthers usually aborted late in development. 2n = 28+11, 56.</description>
+  <discussion>Poa cusickii subsp. purpurascens grows in subalpine habitats in the coastal mountains from southern British Columbia to southern Oregon, with sporadic occurrences eastward in British Columbia to the Rocky Mountains and south to the central Sierra Nevada. It tends to differ from subsp. epilis in having predominantly extravaginal branching, fewer and longer spikelets, and longer lemmas that are usually sparsely hairy on the keel and marginal veins. It differs from P. chambersii (p. 548) in lacking rhizomes and in being strictly pistillate; and from P. porsildii (p. 563) in its longer spikelets and in tending to have longer panicles with more spikelets.</discussion>
+</bio:treatment>

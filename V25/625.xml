@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Amphicarpum muhlenbergianum (Schult.) Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>BLUE MAIDENCANE</common_names>
+  <description type="morphology">Plants perennial. Culms 30-100 cm, usually decumbent, sometimes erect. Leaves evenly distributed; sheaths usually glabrous, occasionally sparsely hirsute; blades to 10(13) cm long, 5-10.5 mm wide, glabrous, margins white. Subterranean spikelets 6-9 mm, acuminate. Aerial panicles 3-20 cm; aerial spikelets 5.5-7 mm, narrowly lanceoloidal. 2n = 18.</description>
+  <discussion>Amphicarpum muhlenbergianum grows in damp areas, such as dried pond bottoms, ditches, flatwoods, and swampy pinewoods of the southeastern United States.</discussion>
+</bio:treatment>

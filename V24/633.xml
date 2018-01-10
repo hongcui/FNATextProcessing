@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Stephen J. Darbyshire</author>
+    </source>
+  </meta>
+  <number>14.03</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>SCHEDONORUS P. Beauv.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, sometimes rhizomatous. Culms to 2 m, slender to stout, erect to decumbent. Sheaths open, rounded, smooth or scabrous; auricles present, usually falcate and clasping, sometimes an undulating flange; ligules membranous, glabrous; blades flat, linear. Inflorescences terminal panicles, erect, not spikelike; branches glabrous, smooth or scabrous, most branches longer than 1 cm; pedicels sometimes longer than 3 mm, thinner than 1 mm. Spikelets pedicellate, laterally compressed, with 2-22 florets; disarticulation above the glumes and between the florets. Glumes 2, shorter than the adjacent lemmas, more or less equally wide, lanceolate to oblong, rounded on the back, membranous, 3-9-veined, apices acute, unawned; calluses glabrous or sparsely hairy; lemmas lanceolate, ovate or oblong, rounded on the back, membranous, chartaceous, 3-7-veined, apices acute, sometimes hyaline, unawned or awned, awns to 18 mm, terminal or subterminal,  straight; paleas  narrower than the lemmas, membranous, usually smooth, keels ciliolate, veins terminating at or beyond midlength; lodicules 2, lanceolate to ovate; anthers 3; ovaries glabrous. Caryopses shorter than the lemmas, concealed at maturity, dorsally compressed, oblong, broadly elliptic, or ovate, longitudinally sulcate, adherent to the paleas; hila linear; embryos 1/5 – 1/3 as long as the caryopses. x = 7. </description>
+  <discussion>Three species of the Eurasian genus Schedonorus are established in North America, having been widely introduced as forage and ornamental grasses.
+Schedonorus has traditionally been included in Festuca, despite all the evidence pointing to its close relationship to Lolium. This evidence includes morphological features, such as the falcate leaf auricles, flat, relatively wide leaf blades, glabrous ovaries, subterminal stylar attachment, and adhesion of the mature caryopses to the paleas, none of which are found in Festuca sensu stricto. Fertile, natural hybrids between species of Schedonorus and those of Lolium are common in Europe, and several artificial hybrids have been registered for commercial use, primarily as forage grasses. Schedonorus and Lolium could appropriately be treated as congeneric subgenera (e.g., Darbyshire 1993). The two are treated as separate genera here for consistency with the treatments by Soreng and Terrell (1997), Holub (1998), and Edgar and Connor (2000).
+</discussion>
+  <references>Aiken, S.G., M.J. Dallwitz, C.L. Mcjannet, and L.L. Consaul. 1997. Biodiversity among Festuca (Poaceae) in North America: Diagnostic evidence from DELTA and clustering programs, and an INTKEY package for interactive, illustrated identification and information retrieval. Canad. J. Bot. 75:1527-1555; Charmet, G., C. Ravel, and F. Balfourier. 1997. Phylogenetic analysis in the Festuca-Lolium complex using molecular markers and ITS rDNA. Theor. Appl. Genet. 94:1038-1046; Darbyshire, S.J. 1993. Realignment of Festuca subgenus Schedonorus with the genus Lolium. Novon 3:239-243; Dube, M. 1983. Addition de Festuca gigantea (L.) Vill. (Poaceae) a la flore du Canada. Naturaliste Canad. 110:213-215; Edgar, E. and H.E. Connor. 2000. Flora of New Zealand, vol. 5. Manaaki Whenua Press, Lincoln, New Zealand. 650 pp.; Holub, J. 1998. Reclassifications and new names in vascular plants 1. Preslia 70:97-122; Jauhar, P.P. 1993. Cytogenetics of the Festuca-Lolium Complex. Monographs on Theoretical and Applied Genetics No. 18. Springer-Verlag, Berlin, Germany. 255 pp.; Kiang, A.-S., V. Connolly, D.J. McConnell, and T.A. Kavanagh. 1994. Paternal inheritance of mitochondria and chloroplasts in Festuca pratensis-Lolium perenne intergeneric hybrids. Theor. Appl. Genet. 87:681-688; Nihsen, M.E., E.L. Piper, C.P. West, R.J. Crawford, Jr., T.M. Denard, Z.B. Johnson, C.A. Roberts, D.A. Spiers, and C.E Rosenkrans, Jr. 2004. Growth rate and physiology of steers grazing tall fescue inoculated with novel endophytes. J. Animal Sci. 82:878-883; Soreng, R.J. and E.E. Terrell. 1997 [publication date 1998]. Taxonomic notes on Schedonorus, a segregate genus from Festuca or Lolium, with a new nothogenus, xSchedololium, and new combinations. Phytologia 83:85-88; Soreng, R.J., E.E. Terrell, J. Wiersema, and S.J. Darbyshire. 2001. Proposal to conserve the name Schedonorus arundinaceus (Schreb.) Dumort. against Schedonorus arundinaceus Roem. & Schult. (Poaceae: Poeae). Taxon 50:915-917.</references>
+  <key>
+    <key_body>
+1. Lemma awns 10-18 mm long, longer than the lemmas   .....2. S. giganteus
+1. Lemmas unawned or the awns shorter than 4 mm, shorter than the lemmas.
+2. Auricles glabrous; panicle branches at the lowest node 1 or 2, if paired the shorter with 1-2(3) spikelets, the longer with 2-6(9) spikelets; lemmas usually smooth, sometimes slightly scabrous distally, unawned or with a mucro to 0.2 mm long .....1. S. pratensis
+2. Auricles ciliate, having at least 1 or 2 hairs along the margins (check several leaves); panicle branches at the lowest node usually paired, the shorter with 1-13 spikelets, the longer with 3-19 spikelets; lemmas usually scabrous or hispidulous, at least distally, rarely smooth, unawned or with an awn up to 4 mm long   .....3. S. arundinaceus
+
+    </key_body>
+  </key>
+</bio:treatment>

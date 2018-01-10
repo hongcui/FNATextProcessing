@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Zizania aquatica L. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual. Culms 0.2-5 m, usually emergent. Sheaths glab¬rous or scabridulous; ligules 5-30 mm, upper ligules truncate to ovate or acuminate, often erose or irregularly lobed; blades to 1.5 m or longer, (3)10-55(75) mm wide, abaxial and adaxial surfaces scabrous or glabrate. Panicles 20-120 cm long, (5)10-50 cm wide; branches unisexual. Staminate branches ascending to reflexed; pedicel apices 0.2-0.6 mm wide. Staminate spikelets 5-12.5 mm, lanceolate, acuminate or awned, awns to 3 mm. Pistillate branches divaricate, sometimes appressed if immature or bearing only aborted spikelets; pedicel apices 0.5-1.2 mm wide. Pistillate spikelets 5-24 mm long, 1-2.5 mm wide, lanceolate or oblong, chartaceous and flexible, dull or sublustrous, with scattered short hairs, these not or scarcely denser at the apices, awned, awns to 10 cm; lemmas and paleas often partly separating at maturity; aborted pistillate spikelets 0.4-1 mm wide, linear, shriveled, often threadlike. Caryopses 6-22 mm long, 0.8-2 mm wide. 2n = 30.</description>
+  <discussion>Zizania aquatica is native from the central plains to the eastern seaboard. It is sometimes planted for wildfowl food. The records from western North America reflect such plantings. Most, possibly all, have since died out. The population in northern Arizona was discovered in 1967, and persisted until the early 1990s. It is presumed to have been extirpated because the area has since been developed into a golf course, and no plants have been found downstream.</discussion>
+  <key>
+    <key_body>
+1. Plants to 5 m tall; blades (5)10-75 mm wide; pistillate spikelets 7-24 mm long; awns to 10 cm long   .....var. aquatica
+1. Plants 0.2-1 m tall; blades 3-12(20) mm wide; pistillate spikelets 5-11 mm long; awns 1-8 mm long.....var. brevis
+
+    </key_body>
+  </key>
+</bio:treatment>

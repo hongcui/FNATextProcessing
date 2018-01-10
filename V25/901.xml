@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>17.47</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>OPIZIA J. Presl</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual, perennial, or of indefinite duration; monoecious or dioecious, inflorescences unisexual and dimorphic; stoloniferous and mat-forming. Culms 1-15(30) cm, not woody. Leaves not clustered, not strongly distichous; sheaths open, keeled; ligules membranous, not ciliate; blades flat. Inflorescences terminal, with spikes or spikelike branches on elongate rachises. Staminate inflorescences panicles of 1-6 spikelike pectinate branches on elongate rachises, exserted well above the uppermost leaves; branches 0.5-2 cm, terminating in a point; staminate spikelets glabrous, with 1 floret; glumes unequal, much shorter than the the florets; lemmas 3-veined, unawned. Pistillate inflorescences 1-sided spikes, with 6-12 spikelets, often partially enclosed by the subtending sheaths, sometimes with branches to 6 mm long at the lower nodes; disarticulation below the glumes, the spikelets falling intact; pistillate spikelets laterally compressed, with 1 bisexual floret and a conspicuously 3-awned rudiment; lower glumes rudimentary or absent; upper glumes subequal to the lemmas, membranous, flat, not enclosing the florets, unawned; calluses blunt, with hairs; lemmas coriaceous, keeled, 3-veined, 3-awned, awns emanating from between 4 short, hyaline teeth; palea keels adnate to the rachilla basally, widely winged distally. x = unknown. </description>
+  <discussion>Opizia is a North America genus of two species. Both species are probably native to Mexico, but one of them now grows, possibly from introductions, in Florida and the West Indies.
+Columbus (1999) argued that Opizia should be included in Bouteloua. The traditional treatment is maintained here, pending corroboration of his results from a wider range of data.
+</discussion>
+  <references>Columbus, J.T. 1999. An expanded circumscription of Bouteloua (Gramineae: Chlorideae): New combinations and names. Aliso 18:61-65; McVaugh, R. 1983. Flora Novo-Galiciana: A Descriptive Account of the Vascular Plants of Western Mexico, vol. 14: Gramineae (series ed. W.R. Anderson). University of Michigan Press, Ann Arbor, Michigan, U.S.A. 436 pp.</references>
+</bio:treatment>

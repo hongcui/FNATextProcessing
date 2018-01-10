@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>13</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia schreberi J.E Gmel. </name_authority_date>
+  </taxon_identification>
+  <common_names>NIMBLEWILL</common_names>
+  <description type="morphology">Plants perennial (appearing annual); usually cespitose, not rhizomatous, sometimes stoloniferous. Culms 10-45(70) cm, geniculate, often rooting at the lower nodes, glabrous or puberulent below the nodes; internodes often smooth, shiny, glabrous. Sheaths shorter than the internodes, glabrous for most of their length, margins shortly (0.3-1.2 mm) pubescent distally, not becoming spirally coiled when old; ligules 0.2-0.5 mm, truncate, erose, ciliate; blades (1)3-10 cm long, 1-4.5 mm wide, flat, smooth or scabridulous. Panicles 3-15 cm long, 1-1.6 cm wide, contracted, often interrupted below; branches 0.4-5.5 cm, appressed or diverging up to 30° from the rachises, spikelet-bearing to the base; pedicels 0.1-4 mm, scabrous to hirsute; disarticulation above the glumes. Spikelets 1.8-2.8 mm, borne singly. Glumes unequal, shorter than the florets, thin and membranous throughout, unawned; lower glumes lacking or rudimentary, veinless, rounded and often erose; upper glumes 0.1-0.3 mm, veinless; lemmas 1.8-2.8 mm, oblong-elliptic, mostly scabrous, calluses hairy, hairs to 0.8 mm, veins greenish, lower 1/4 of the midveins with a few appressed hairs, apices acute to acuminate, awned, awns 1.5-5 mm, straight; paleas 1.8-2.8 mm, oblong-elliptic, acute to acuminate; anthers 0.2-0.5 mm, yellow. Caryopses 1-1.4 mm, fusiform, brownish. 2n = 40, 42.</description>
+  <discussion>Muhlenbergia schreberi grows in moist to dry woods and prairies on rocky slopes, in ravines, and along sandy riverbanks, at elevations of 60-1600 m. It is also common in disturbed sites near cultivated fields, pastures, and roads at these elevations. Its geographic range includes central, but not northern, Mexico. Records from the western United States probably reflect receent introductions. The species is considered a noxious, invasive weed in California.</discussion>
+</bio:treatment>

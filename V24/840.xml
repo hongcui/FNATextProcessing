@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa unilateralis subsp. pachypholis (Piper) D. D. Keck ex Soreng</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Innovation blades similar to the cauline blades; cauline blades usually involute, slightly thick, not fleshy. Calluses with a crown of hairs, hairs 0.1-0.2 mm; lemmas villous on the keels and marginal veins for 1/3-1/2 the lemma length, hairs about 0.13 mm. 2n = 42. </description>
+  <discussion>Poa unilateralis subsp. pachypholis is known from populations in Lincoln County, Oregon, and Pacific County, Washington.</discussion>
+</bio:treatment>

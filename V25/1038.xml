@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Chasmanthium sessiliflorum (Poir.) H.O. Yates</name_authority_date>
+  </taxon_identification>
+  <common_names>Chasmanthium sessiliflorum (Poir.) H.O. Yates</common_names>
+  <description type="morphology">Culms 60-150 cm, (1)2-3.5 mm thick at the nodes, unbranched, leafy for 40% of their height. Sheaths pilose;
+collars pilose; ligules 0.2-0.3 mm, entire; blades (15)20-50
+cm long, 4.5-9.5(15) mm wide, linear-lanceolate,	sparsely pilose adaxially. Panicles (9)20-70 cm, contracted or open, erect; branches tightly appressed or ascending to strongly divergent; axils of panicle branches glabrous or scabridulous at the edges; pedicels 0.3-2.5(5) mm. Spikelets 4-10 mm long, 6-9 mm wide, with 4-7(8) florets, lower 1(2) florets sterile, fertile florets divergent to 80°. Lower glumes 1.2-2.7 mm, 3-5-veined; upper glumes 1.4-2.2 mm, 3-5-veined; calluses glabrous; fertile lemmas 3.5-5.9 mm, usually curved or irregularly contorted, 7-9-veined, keels not winged, apices scabridulous; paleas 2.8-4 mm; anthers (0.8)1.3-1.6 mm, varying in length within a spikelet. Caryopses 2-2.5 mm, exposed at maturity. 2n = 24.
+</description>
+  <discussion>Chasmanthium sessiliflorum grows in rich woods, meadows, and swamps, especially on the coastal plain. It grows throughout most of the southeastern United States.</discussion>
+</bio:treatment>

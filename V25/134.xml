@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>18</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis cilianensis (All.) Vignolo ex Janch</name_authority_date>
+  </taxon_identification>
+  <common_names>STINKGRASS, ÉRAGROSTIDE FÉTIDE</common_names>
+  <description type="morphology">Plants annual; tufted, without innovations. Culms 15-45(65) cm, erect or decumbent, some¬times with crateriform glands below the nodes. Sheaths glabrous, occasionally glandular, apices hairy, hairs to 5 mm; ligules 0.4-0.8    mm, ciliate; blades (1)5-20 cm long, (1)3-5(10) mm wide, flat to involute, abaxial surfaces glabrous, sometimes glandular, adaxial surfaces scabridulous, occasionally also hairy. Panicles (3)5-16(20) cm long, 2-8.5 cm wide, oblong to ovate, condensed to open; primary branches 0.4-5 cm, appressed or diverging 20-80° from the rachises; pulvini glabrous or hairy; pedicels 0.2-3 mm, stout, straight, stiff, usually divergent, occasionally appressed. Spikelets 6-20 mm long, 2-4 mm wide, ovate-lanceolate, plumbeous, greenish, with 10-40 florets; disarticulation below the florets, each floret falling as a unit, rachillas persistent. Glumes broadly ovate to lanceolate, membranous, usually glandular; lower glumes 1.2-2 mm, usually 1-veined; upper glumes 1.2-2.6 mm, often 3-veined; lemmas 2-2.8 mm, broadly ovate, membranous, keels with 1-3 crateriform glands, apices obtuse to acute; paleas 1.2-2.1 mm, hyaline, keels scabrous, sometimes also ciliate, cilia to 0.3 mm, apices obtuse to acute; anthers 3, 0.2-0.5 mm, yellow. Caryopses 0.5-0.7 mm, globose to broadly ellipsoid, smooth to faintly striate, not grooved, reddish-brown or translucent. 2n = 20.</description>
+  <discussion>Eragrostis cilianensis is an introduced European species that now grows in disturbed sites such as pastures and roadsides, at 0-2300 m, through most of the contiguous United States and southern Canada. The English name refers to the odor of fresh plants.</discussion>
+</bio:treatment>

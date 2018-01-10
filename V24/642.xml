@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Vulpia octoflora var. hirtella (Piper) Henrard</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Panicle branches appressed, spikelets closely imbricate. Spikelets usually 5.5-10 mm. Lemmas prominently scabrous to densely pubescent; awns of the lowermost lemma in each spikelet 2.5-6.5 mm.</description>
+  <discussion>Vulpia octoflora var. hirtella is most frequent from British Columbia south through the western United States and into Mexico. It is the most common variey of V. octoflora in the southwest.</discussion>
+</bio:treatment>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>17.44</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>CYNODON Rich.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; sometimes stoloniferous, sometimes also rhizomatous, often forming dense turf. Culms 4-100 cm. Sheaths open; auricles absent; ligules of hairs or membranous; blades flat, conduplicate, convolute, or involute, sometimes disarticulating. Inflorescences terminal, digitate or subdigitate panicles of spikelike branches; branches (1)2-20, 1-sided, with 2 rows of solitary, subsessile, appressed, imbricate spikelets. Spikelets laterally compressed, with l(-3) florets, only the lowest floret functional; rachilla extension usually present, sometimes terminating in a reduced floret; disarticulation above the glumes. Glumes usually shorter than the lemmas, membranous, keeled, usually muticous; lower glumes 1-veined; upper glumes 1-3-veined, occasionally shortly awned; lemmas membranous to cartilaginous, 3-veined, keeled, keels with hairs, occasionally winged, apices mucronate or muticous; paleas about as long as the lemmas, 2-keeled; anthers 3; style branches 2, plumose; lodicules 2. x = 9.</description>
+  <discussion>Cynodon is a genus of nine species, all of which are native to tropical regions of the Eastern Hemisphere. Several species are used as lawn and forage grasses in tropical and warm-temperate regions. The most widespread species, Cynodon dactylon, is also the most frequently encountered species in the Flora region. It is used for lawns, putting greens, and pastures in southern portions of the region, but is generally considered a weed in other parts.
+The status of several species in the Flora region is unclear. Species other than C. dactylon usually grow only under cultivation, but there are scattered records of populations of other species from the southern United States that appear to have become established. Cultivars of C. aethiopicus and C. nlemfuënsis are used for pasture primarily in tropical Florida. Cynodon transvaalensis has had limited commercial distribution as a turf grass.
+Many cultivars of Cynodon have been developed, some from hybrids between it and other species such as C. transvaalensis, C. aethiopicus, and C. nlemfuënsis. The cultivars may exhibit combinations of features that are not found in the wild species, making it difficult to accommodate them in a key.
+</discussion>
+  <references>Alderson, J. and W.C. Sharp. 1995. Grass Varieties in the United States. CRC Press, Boca Raton, Florida, U.S.A. 296 pp. [previously published by the Soil Conservation Service, U.S. Department of Agriculture, as Agricultural Handbook No. 170, revised 1994]; Assafa, S., CM. Taliaferro, M.R Anderson, B.G. de los Reyes, and R.M. Edwards. 1999. Diversity among Cynodon accessions and taxa based on DNA amplification fingerprinting. Genome 42:465-474; Busey, P. and S. Boyer. 2002. Bermudagrass speeds: Can fast greens be green? http://www.floridaturf.com/ballroll.htm; Caro, J.A. and E.A. Sanchez. 1969. Las especies de Cynodon (Gramineae) de la Republica Argentina. Kurtziana 5:191-252; de Wet, J.M.J, and J.R. Harlan. 1970. Biosystematics of Cynodon L.C. Rich. (Gramineae). Taxon 19:565-569; Harlan, J.R. and J.M.J, de Wet. 1969. Sources of variation in Cynodon dactylon (L.) Pers. Crop Sci. (Madison) 9:774-778; Harlan, J.R., J.M.J, de Wet, W.W. Huffine, and J.R. Deakin. 1970. A guide to the species of Cynodon (Gramineae). Oklahoma Agric. Exp. Sta. Bull. B-673:l-37; Hitchcock, A.S. 1951 [title page 1950]. Manual of the Grasses of the United States, ed. 2, rev. A. Chase. U.S.D.A. Miscellaneous Publication No. 200. U.S. Government Printing Office, Washington, D.C., U.S.A. 1051 pp.; Jones, S.D. and G.D. Jones. 1992. Cynodon nlemfuënsis, (Poaceae: Chlorideae) previously unreported in Texas. Phytologia 72:93-95.</references>
+  <key>
+    <key_body>
+1. Lemma keels winged; panicle branches with flattened axes (subg. Pterolemma).....7. C. incompletus
+1. Lemma keels not winged; panicle branches with triquetrous axes (subg. Cynodon).
+2. Glumes 0.1-0.6 mm long.....1. C. plectostachyus
+2. Glumes 1.1-2.6 mm long.
+3. Panicles with 1-3(4) branches; culms 5-30 cm tall; blades 1-1.5 mm wide.....2. C. transvaalensis
+3. Panicles with (2)4-20 branches; culms 5-100 cm tall; blades (1)2-7 mm wide. 
+4. Panicles with 2-6(9) branches in a single whorl; culms 5-40(50) cm tall.
+5. Panicles with (2)4-6(9) branches; anthers dehiscent at maturity.....3. C. dactylon
+5. Panicles with 2-4 branches; anthers indehiscent at maturity   .....4. C. xmagennisii
+4. Panicles with 4-20 branches in 1-5 whorls; culms 20-100 cm tall.
+6. Lemma keels glabrous or with a few scattered hairs; panicle branches usually in 2-5 whorls, stiff, frequently red or purple; culms 25-100 cm tall, woody .....5. C. aethiopicus
+6. Lemma keels shortly pubescent; panicle branches usually in 1 whorl, lax, usually green; culms 20-60 cm tall, not woody .....6. C. nlemfuënsis
+
+    </key_body>
+  </key>
+</bio:treatment>

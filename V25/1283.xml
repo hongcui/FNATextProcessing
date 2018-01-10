@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>25</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Panicum obtusum Kunth </name_authority_date>
+  </taxon_identification>
+  <common_names>VINE MESQUITE</common_names>
+  <description type="morphology">Plants perennial; usually from long slender stolons or shallow rhizomes with swollen, villous nodes. Culms 20-80 cm, often in small clumps, compressed, erect or decumbent, glaucous; lower nodes pubescent; upper nodes glabrous. Lower sheaths ascending, pubescent to pilose; upper sheaths glabrous; ligules 0.2-2 mm, membranous, truncate, irregularly denticulate; blades 3-26 cm long, 2-7 mm wide, ascending, firm, glaucous, sparsely pilose near the base, often scabrous on the margins, involute towards the apices. Panicles 5-15 cm long, 0.8-1.5 cm wide; branches 2-6, spikelike, erect, puberulent, 3-angled; ultimate branchlets 1-sided; pedicels paired, congested, shorter pedicels 0.1-1 mm, longer pedicels 1.5-2.5 mm. Spikelets 2.8-4.4 mm, ellipsoid, terete to slightly laterally compressed, glabrous, obtuse. Lower glumes about 3/4 as long as the spikelets, 5- or 7-veined; upper glumes and lower lemmas equaling the spikelets, 5-9-veined; lower florets staminate; lower paleas 2.5-3.5 mm; upper florets puberulent at the bases and apices. 2n = 20, 36, 40.</description>
+  <discussion>Panicum obtusum grows in seasonally wet sand or gravel, especially on stream banks, ditches, roadsides, wet pastures, and rangeland. Its range extends from the southwestern United States to central Mexico. Flowering is from May through October.</discussion>
+</bio:treatment>

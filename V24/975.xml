@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Scribneria bolanderi (Thurb.) Hack</name_authority_date>
+  </taxon_identification>
+  <common_names>SCRIBNER GRASS</common_names>
+  <description type="morphology">Culms (3)10-35 cm. Ligules 2-4 mm; blades 1-3 cm long, 0.8-1.6 mm wide, abaxial surfaces scabrous over the midveins. Spikes (2)4-11 cm long, 1-2.5 mm wide. Spikelets (3) 4-7 mm, slightly longer than the adjacent internodes. Lemmas glabrous or scabridulous distally and on the keels; awns 2-4 mm, inconspicuous; paleas generally smaller than the lemmas, apices notched. 2n = 26.</description>
+  <discussion>Scribneria bolanderi grows between 500-3000 m, from Washington to Baja California, Mexico. It grows in diverse habitats, ranging from dry, sandy or rocky soils to seepages and vernal pools. It is often overlooked because it is relatively inconspicuous.
+ 
+</discussion>
+</bio:treatment>

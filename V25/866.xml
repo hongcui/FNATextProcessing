@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>J.K. Wipff</author>
+    </source>
+  </meta>
+  <number>17.46</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>BOUTELOUA Lag.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; synoecious; habit various, cespitose, stoloniferous, or rhizomatous. Culms 1-80 cm. Leaves usually mostly basal; sheaths open; ligules of hairs, membranous, or membranous and ciliate. Inflorescences terminal, panicles of 1-80 solitary, spikelike branches, exceeding the upper leaves; branches 4-50(75) mm, not woody, 1-sided, usually racemose on elongate rachises, sometimes digitate or subdigitate, with 1-130+ sessile to subsessile spikelets in 2 rows, axes terminating in a spikelet or extending beyond the base of the distal spikelet. Spikelets closely imbricate, appressed to pectinate, laterally compressed or terete, with 1-2(3) florets, lowest floret in each spikelet bisexual, distal florets staminate or sterile; disarticulation at the base of the branches or above the glumes. Glumes unequal or subequal, 1 or both glumes equaled or exceeded by the distal floret, 1-veined, acute or acuminate, sometimes shortly awned; lower glumes usually shorter than the lowest floret; lemmas of lowest florets entire, bilobed, trilobed, or 4-lobed, 3-veined, veins usually extended into 3 short awns; paleas of lowest florets 2-veined, veins sometimes excurrent; distal floret(s) staminate or sterile, varying from similar to the lowest floret in shape, size, and venation to sterile and reduced to an awn column with well-developed awns or to a flabellate scale, x = 10. </description>
+  <discussion>Bouteloua, a genus of the Western Hemisphere with its center of diversity in Mexico, has about 40 species; all 19 species treated here are native to the Flora region. Several of its taxa are important forage grasses,  and  some  are important constituents  of the native North American grasslands. Two that are particularly important in North America are Bouteloua curtipendula and B. gracilis. These were major constituents of the shortgrass prairie that once covered the drier portions of the Great Plains. Both are excellent forage species. Irrigation has converted much of the area they once occupided to agricultural use, but large areas of Bouteloua grasslands remain.
+Based on molecular data and morphological similarities in the non-pistillate characters, Columbus (1999) recommended expanding Bouteloua to include Buchloë, Opizia, and Cathestecum, plus some other small genera not known from the Flora region. The traditional treatment is adopted here, pending corroboration from a wider range of data, both molecular and morphological.
+</discussion>
+  <references>Columbus, J.T. 1999. An expanded circumscription of Bouteloua (Gramineae: Chlorideae): New combinations and names. Aliso 18:61-65; Esparza Sandoval, S. and Y. Herrera-Arrieta. 1996. Revision de Bouteloua barbata Lagasca (Poaceae: Eragrotideae). Phytologia 80:73-91; Gould, F.W. 1979. The genus Bouteloua (Poaceae). Ann. Missouri Bot. Gard. 66:348-416; Griffiths, D. 1912. The grama grasses: Bouteloua and related genera. Contr. U.S. Natl. Herb. 14:343-428; Reeder, J.R. and C.G. Reeder. 1980. Systematics of Bouteloua breviseta and B. ramosa (Gramineae). Syst. Bot. 5:312-321; Reeder, J.R. and C.G. Reeder. 1990. Bouteloua eludens: Elusive indeed, but not rare. Desert PI. 10:19-22, 31-32; Wipff, J.K. and S.D. Jones. 1996. A new combination in Bouteloua (Poaceae). Sida 17:111-114.</references>
+  <key>
+    <key_body>
+1. Panicle branches deciduous, disarticulation occurring at their bases; spikelets usually 1-15 per branch, usually appressed rather than pectinate (subg. Bouteloua).
+2. All or most panicle branches with 1 spikelet.....3. B. uniflora
+2. All or most panicle branches with 2-15 spikelets.
+3. First (proximal) spikelet on each branch with 1 floret, the remaining spikelets with 2 florets; plants annual; panicles with 1-15 branches .....4. B. aristidoides
+3. Spikelets all alike or with 2 or more florets; plants annual or perennial; panicles with 1-80 branches.
+4. Central awns of lemmas flanked by 2 membranous lobes at maturity, the lobes 0.5-1.5 mm. 
+5. Upper glumes bilobed, awned, the awns arising from between the teeth; inflorescence branch axes with deeply bi- or trifurcate apices; second florets sterile, rudimentary .....7. B. rigidiseta
+5. Upper glumes acute, unawned or awn-tipped; inflorescence branch axes with apices entire; second florets usually staminate. 
+6. Base of plants dense, hard and knotty; culms straight, unbranched; panicle branches (15)20-30 mm long; plants rhizomatous .....9. B. radicosa
+6. Base of plants usually not dense, hard, or knotty; culms straight or geniculate, branching; panicle branches 10-20 mm long; plants not rhizomatous .....8. B. repens
+4. Central awns of lemmas, if present, not flanked by membranous lobes or the lobes less than 0.3 mm long. 
+7. Upper glumes with hairs, at least over the midveins.
+8. Upper glumes with hairs only over the veins.....8. B. repens
+8. Upper glumes with hairs over the veins and elsewhere.
+9. Panicles 6-10 cm long; branches with 2-6 spikelets   .....5. B. eludens
+9. Panicles 2.5-6 cm long; branches with 8-12 spikelets.....6. B. chondrosoides
+7. Upper glumes glabrous, sometimes scabrous.
+10. Second florets sterile, usually rudimentary, usually without paleas; central awns rarely to 7 mm long; panicles with 9-80 branches. 
+11. At least some leaf blades more than 2.5 mm wide, flat or folded when dry; ligules 0.3-0.5 mm long; anthers yellow, orange, red, or purple .....1. B. curtipendula
+11. Leaf blades 1-1.5(2.5) mm wide, involute when dry; ligules 1-1.5 mm long; anthers dark purple .....2.B. warnockii
+10. Second florets bisexual, pistillate or staminate, with well-developed paleas; central awns 4-10 mm long; panicles with 2-17 branches.
+12. Base of plants dense, hard and knotty; culms straight, unbranched; panicle branches (15)20-30 mm long; plants rhizomatous   .....9.B. radicosa
+ 
+12. Base of plants usually not dense, hard, or knotty; culms straight or geniculate, branching; panicle branches 10-20 mm long; plants not rhizomatous .....8. B. repens
+1. Panicle branches persistent; disarticulation above the glumes; spikelets 6-130 or more per branch, pectinate (subg. Chondrosum). 
+13. Upper glumes of at least some spikelets with papillose-based hairs.
+14. Panicle branches extending beyond the base of the terminal spikelets   .....11. B. hirsuta
+14. Panicle branches terminating in a spikelet.
+15. Plants tufted annuals or short-lived stoloniferous perennials; panicle branches 4-8, the axes with papillose-based hairs; lowest lemmas 3-4 mm long  .....17. B. parryi
+15. Plants perennial, often shortly rhizomatous; panicle branches 1-3(6), the axes scabrous, never with papillose-based hairs; lowest lemmas 3.5-6 mm long .....10. B. gracilis
+13. Upper glumes glabrous, scabrous, or hairy, but the hairs not papillose-based.
+16. Lower cauline internodes woolly-pubescent .....12. B. eriopoda
+16. Lower cauline internodes glabrous or mostly so, sometimes pubescent immediately below the nodes.
+17. Central awns of lemmas not flanked by membranous lobes.....13. B. trifida
+17. Central awns of lemmas flanked by 2 membranous lobes.
+18. Lowest paleas in the spikelets awned, awns 1-2 mm long; panicles with 2-20 branches. 
+19. Lowest lemmas glabrous, with awns 3-4 mm long; panicle branches with 6-20 spikelets; plants perennial .....14. B. kayi
+19. Lowest lemmas densely pilose, with awns  0.5-3 mm long; panicle branches with 20-50 spikelets; plants annual or short-lived perennials .....15. B. barbata
+18. Lowest paleas in the spikelets unawned, but the veins sometimes excurrent for less than 1 mm; panicles with 1-6 branches.
+20. Plants annual   .....16. B. simplex
+20. Plants perennial.
+21. Culms usually with 2-3 nodes, not woody at the base; caryopses 2.5-3 mm long; lower paleas shallowly bilobed, the veins sometimes excurrent  .....10. B. gracilis
+21. Culms usually with 4-5 nodes, somewhat woody at the base; caryopses 1-1.2 mm long; lower paleas acute to acuminate, the veins not excurrent.
+22. Lower culm internodes with a thick, white, chalky bloom distally; panicle branches stramineous, mostly appressed, usually straight to slightly arcuate; plants rhizomatous, growing on gypsum soils .....18. B. breviseta
+22. Lower culm internodes without a conspicuous bloom; panicle branches dark, mostly ascending to widely divergent, usually becoming arcuate; plants not rhizomatous, growing on limestone soils   .....19. B. ramosa
+
+    </key_body>
+  </key>
+</bio:treatment>

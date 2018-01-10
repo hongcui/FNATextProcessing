@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Glyceria canadensis (Michx.) Trin. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial. Culms 60-150 cm tall, 2.5-5 mm thick, erect or the bases decumbent. Sheaths retrorsely scabridulous to scabrous, keeled; ligules 2-6 mm; blades 8-36 cm long, 3-8 mm wide, abaxial surfaces smooth or scabrous, adaxial surfaces scabridulous to scabrous. Panicles 10-30 cm long, 10-20 cm wide, pyramidal, open, nodding; branches 7-20 cm, lax, divergent, often drooping, with 15-60+ spikelets; pedicels 2.5-9 mm. Spikelets 3-8 mm long, (2.5)3-5 mm wide, laterally compressed, oval in side view, with 2-10 florets. Glumes narrowing from midlength or above to the broadly (> 45°) acute or rounded apices, 1-veined, veins terminating below the apices; lower glumes 0.6-2.4 mm, ovate to rectangular; upper glumes 1.5-2.5 mm, lanceolate; rachilla internodes 0.2-0.5 mm; lemmas 1.8-4 mm, ovate in dorsal view, 5-7-veined, veins evident but not raised distally, smooth over and between the veins, apices acute, prow-shaped; paleas 0.1-0.8 mm shorter than lemmas, lengths 1.5-1.8 times widths, almost round in dorsal view, keels well developed, not winged, tips incurved, apices narrowly notched between the keels; anthers 2, 0.4-0.5 mm, dehiscent at maturity. Caryopses 1.5-2 mm.</description>
+  <discussion>Glyceria canadensis is an attractive native species that grows in swamps, bogs, lakeshore marshes, and wet woods throughout much of eastern North America, extending from eastern Saskatchewan to Newfound¬land, Illinois, and northeastern Tennessee. It is now established in western North America, having been introduced as a weed in cranberry farms. It forms sterile hybrids with G. striata; the hybrids are called G. xottawensis Bowden. For further comments, see p. 77.</discussion>
+  <key>
+    <key_body>
+1. Lemmas 2.4-4 mm long; spikelets 5-8 mm long, with 4-10 florets; lower glumes 1.6-2.4 mm long; upper glumes acute.....var. canadensis
+1. Lemmas 1.8-2.5 mm long; spikelets 3-5 mm long, with 2-5 florets; lower glumes 0.6-1.3 mm long; upper glumes usually rounded, sometimes acute   .....var. laxa
+
+    </key_body>
+  </key>
+</bio:treatment>

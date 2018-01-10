@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>17.49</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>CATHESTECUM J. Presl</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; monoecious or dioecious; often stoloniferous. Culms 5-40 cm, sometimes decumbent. Leaves mostly basal; sheaths open; ligules of hairs; blades 0.5-2 mm wide. Inflorescences terminal, racemelike panicles of short branches, usually exceeding the upper leaves, sometimes appearing 1-sided; branches about 0.5 cm, not appressed to the rachises, with 3 spikelets, bases strongly curved, shortly strigose, axes not extending beyond the distal spikelets; disarticulation at the base of the branches. Spikelets pedicellate or sessile, lateral spikelets with shorter pedicels than the central spikelet or sessile; lateral spikelets with 2 florets, lower florets usually staminate or sterile, rarely pistillate, upper florets much reduced, usually sterile; central spikelets pedicellate, with 3 florets, lowest florets bisexual or pistillate (staminate in staminate plants), distal florets staminate or sterile. Glumes 2, very unequal, shorter than the spikelets, unawned; lower glumes shorter than the upper glumes, those of the central spikelets flabellate, glabrous, veinless; upper glumes approximately equal to the adjacent lemmas, 1-veined, acuminate; lemmas thinner than the glumes, pilose, 3-veined, 4-lobed, all 3 veins excurrent, forming awns that equal or exceed the lobes, lobes of the sterile florets usually deeper than those of the other florets; paleas 2-veined, veins often extending as awns, x = 10. </description>
+  <discussion>Cathestecum is a genus of six species that extends from the southern United States to Guatemala; two are native to the Flora region. Columbus (1999) advocated including Cathestecum in Bouteloua, but the traditional treatment is adopted here.</discussion>
+  <references>Beetle, A.A. 1987. Las Gramineas de Mexico, vol. 2. COTECOCA [Comision Tecnico Consultiva de Coeficientes de Agostadero], Mexico, D.F., Mexico. 344 pp.; Columbus, J.T. 1999. An expanded circumscription of Bouteloua (Gramineae: Chlorideae): New combinations and names. Aliso 18:61-65; Pierce, G.J. 1979. A biosystematic study of Cathestum and Griffithsochloa (Gramineae). Ph.D. dissertation, University of 'Wyoming, Laramie, Wyoming, U.S.A. 244 pp.</references>
+  <key>
+    <key_body>
+1. Stolon internodes to 12 cm long, straight or almost so; culms 5-15 cm tall; spikelets frequently reddish or purplish; lateral spikelets of branches with bisexual florets poorly-developed, sterile (rarely staminate) florets; central spikelet on staminate branches with sparsely pilose lemmas.....1. C. brevifolium
+1. Stolon internodes usually 15 cm or longer, strongly arching; culms 10-30 cm tall; spikelets frequently pale green; lateral spikelets of branches with bisexual florets usually well-developed, usually staminate or sterile; central spikelet on staminate branches with glabrous lemmas    .....2. C. erectum
+ 
+
+    </key_body>
+  </key>
+</bio:treatment>

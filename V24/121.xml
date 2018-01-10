@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Melica stricta var. albicaulis Boyle </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Sheaths of the lower portion pale. Glumes at least 4 mm wide; paleas about 3/4 the length of the lemmas; anthers 2-3 mm.</description>
+  <discussion>Melica stricta var. albicaulis is restricted to the mountains of southern California.</discussion>
+</bio:treatment>

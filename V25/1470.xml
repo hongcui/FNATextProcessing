@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>28</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum coryphaeum Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>EMPEROR PASPALUM</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 65-400 cm, erect; nodes pilose. Sheaths papillose-hirsute (upper sheaths sometimes glabrous); ligules 1-4.5 mm; blades 30-50 cm long, 10-23 mm wide, flat, with long hairs   behind the ligules, otherwise glabrous or puberulent adaxially. Panicles terminal, with (6)15-44 racemosely arranged branches; branches 5-13 cm, straight, spreading to reflexed, rarely merely divergent; branch axes 0.3-0.4 mm wide, narrowly winged, glabrous, margins scabrous, pubescent, terminating in a spikelet. Spikelets 2-2.5 mm long, 1.8-1.9 mm wide, paired, divergent to spreading from the branch axes, elliptic, brown to stramineous, often purple-tinged. Lower glumes usually absent, if present, to 0.9 mm, triangular; upper glumes smooth, papillose-hirsute, 3-veined; lower lemmas smooth, papillose-hirsute or glabrous, 3-veined; upper florets white. 2n = 20, 40, 60.</description>
+  <discussion>Paspalum coryphaeum is native from Costa Rica and the Caribbean south to northern South America. In the Flora region, it grows in disturbed habitats at scattered southeastern locations.</discussion>
+</bio:treatment>

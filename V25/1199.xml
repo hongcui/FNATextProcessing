@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>26</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthelium portoricense (Desv. ex Ham.) B.E Hansen & Wunderlin </name_authority_date>
+  </taxon_identification>
+  <common_names>BLUNT-GLUMED PANICGRASS</common_names>
+  <description type="morphology">Plants usually densely cespitose. Basal rosettes well-differenti¬ated; blades 1.5-6 cm, ovate to lanceolate. Culms 15-50 cm, slender, wiry; internodes olive green to purplish, densely puberulent or glabrous; fall phase spreading or decumbent, branching extensively from the lower and midculm nodes, producing numerous congested fascicles of reduced, flat or involute blades and reduced secondary panicles. Cauline leaves 4-7; sheaths much shorter than the internodes, densely crisp-puberulent, velvety-puberulent, or glabrous, often ciliate along the margins; ligules shorter than 0.5 mm; blades 2-7 cm long (seldom longer), 2.5-8 mm wide (rarely wider), spreading, firm, flat or slightly involute, without prominently raised veins, not longitudinally wrinkled, densely puberulent or glabrous abaxially, glabrous, sparsely puberulent, or pubescent adaxially, bases subcordate, with papillose-based cilia, margins often whitish and scabridulous. Primary panicles 2-7 cm long, 2/3 to nearly as wide as long, with relatively few spikelets, exserted; branches flexuous, spreading or reflexed, scabridulous to densely puberulent. Spikelets 1.5-2.6 mm, obovoid-pyriform, planoconvex in side view, puberulent, pubescent, or glabrous, attenuate basally, apices usually broadly rounded. Lower glumes 0.6-1.4 mm, thin, weakly-veined, attached about 0.2 mm below the upper glumes, clasping at the base; upper glumes as long as or slightly shorter than the lower lemmas; upper florets 1.4-2 mm, broadly ellipsoid, apices subacute, minutely puberulent. 2n = 18.</description>
+  <discussion>Dichanthelium portoricense grows in sandy woods, low pinelands, savannahs, and coastal sand dunes, usually in moist places. Its range extends south from the Flora region into Mexico, the Caribbean, and Mesoamerica. It is a highly variable species with numerous intergrading forms, some possibly resulting from hybridization with other widespread species in the same region, such as D. sphaerocarpon and D. commutatum.</discussion>
+</bio:treatment>

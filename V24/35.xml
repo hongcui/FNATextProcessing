@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth </author>
+      <author>Edward E. Terrell</author>
+    </source>
+  </meta>
+  <number>5.01</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>ORYZA L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; usually aquatic, rooted and emergent or floating, sometimes terrestrial; rhizomatous and/or cespitose; synoecious. Culms to 3.3(5) m, erect, decumbent, or prostrate, sometimes rooting at the lower nodes, aerenchymatous, emergent or immersed, branched or unbranched. Leaves cauline and basal; sheaths open, lower sheaths often slightly inflated, upper sheaths not inflated; auricles usually present; ligules membranous, often veined; pseudopetioles absent; blades linear to narrowly lanceolate, flat, margins smooth or scabridulous. Inflorescences terminal panicles; disarticulation above the glumes, beneath the sterile florets in wild taxa, spikelets of cultivated taxa not disarticulating. Spikelets bisexual, laterally compressed, with 3 florets, lower 2 florets sterile, terminal floret functional. Glumes absent or reduced to lobes at the pedicel apices; sterile florets glumelike, 1.2-10 mm, 1/8 - 1/2 (9/10) as long as the spikelets, linear or subulate to narrowly ovate, coriaceous, 1-veined, acute to acuminate; functional florets: calluses usually inconspicuous and flat to rounded, sometimes conspicuous and stipelike, glabrous; lemmas coriaceous or indurate, with vertical rows of tubercles separated by longitudinal furrows, 5-veined, keeled, margins clasping the margins of the paleas, apices obtuse or acute to acuminate, awned or unawned; paleas with surfaces similar to the lemmas, 3-veined, unawned; lodicules 2; anthers 6; styles 2, bases fused or not, stigmas laterally exserted, plumose. Caryopses laterally compressed; embryos usually ¼ - 1/3 as long as the caryopses; hila linear, x = 12. </description>
+  <discussion>Oryza is a tropical and subtropical genus of about 20 species that grow in shallow water, swamps, and marshes in seasonally inundated areas, or along streams, rivers, or lake edges. Oryza sativa (rice) is one of the three most economically valuable cereals, and constitutes a major portion of the diet for half of the world's population. In the Flora region, O. sativa is cultivated and several weedy forms have become established. These are thought to be derived from introgression between O. sativa and O. rufipogon and O. punctata. The latter two species and O. longistaminata are included here because of the threat they pose to cultivated rice.
+Spikelets of Oryza have sometimes been interpreted as comprising one functional and two sterile florets with two highly reduced glumes (Duistermat 1987), sometimes as comprising a single floret, subtended by two glumes borne on a bilobed pedicel (Terrell et al. 2001). Molecular developmental studies (Komatsu et al. 2003) show that the former interpretation is correct.</discussion>
+  <references>Duistermaat, H. 1987. A revision of Oryza (Gramineae) in Malesia and Australia. Blumea 32:157-193; Komatsu, M., A. Chujo, Y. Nagato, K. Shimamoto, and J. Kyozuka. 2003. FRIZZY PANICLE is required to prevent the formation of axillary meristems and to establish floral meristem identity in rice spikelets. Development 130:3841-3850; Launert, E. 1971. Oryza L. Pp. 31-36 in A. Fernande, E. Launert, and H. Wild (eds.). Flora Zambesiaca, vol. 101. Crown Agents for Oversea Governments and Administrations, London, England. 152 pp.; Londo, J.P., Y.-C. Chiang, K.-H. Hung, T.-Y. Chiang, and B.A. Schaal. 2006. Phylogeography of Asian wild rice, Oryza rufipogon, reveals multiple independent domestications of cultivated rice, Oryza sativa. Proc. Natl. Acad. Sci. U.S.A. [PNAS] 103(25):9578-9583; Lu, B.-R., E.B. Naredo, A.B. Juliano, and M.T. Jackson. 2000. Preliminary studies on taxonomy and biosystematics of the AA genome Oryza species (Poaceae). Pp. 51-58 in S.W.L. Jacobs and J. Everett (eds.). Grasses: Systematics and Evolution. CSIRO Publishing, Collingwood, Victoria, Australia. 406 pp.; Terrell, E.E., P.M. Peterson and W.P. Wergin. 2001. Epidermal features and spikelet micromorphology in Oryza and related genera (Poaceae: Oryzeae). Smithsonian Contr. Bot. 91. 50 pp.; Vaughan, D.A. 1989. The Genus Oryza L.-Current Status of Taxonomy. International Rice Research Institute Research Paper Series 138. International Rice Research Institute, Los Bafios, Laguna, Philippines. 21 pp.</references>
+  <key>
+    <key_body>
+1. Ligules truncate to rounded, 1.5-10 mm long; sterile florets 1.2-2 mm long; disarticulation scar centric or slightly eccentric .....3. O. punctata
+Ligules acute, 4-45 mm long; sterile florets 1.3-10 mm long; disarticulation scar lateral. 
+2. Anthers  1-2.5 mm long; spikelets persistent; lemmas usually unawned, plants not rhizomatous; auricles absent or to 5 mm long; blades 5-20 mm wide .....4. O. sativa
+2. Anthers 3.5-7.4 mm long; spikelets deciduous; lemmas awned; plants usually rhizomatous; auricles absent or to 15 mm long; blades 7-50 mm wide. 
+3. Caryopses 5-7 mm long; lemma-awn junctions purplish, pubescent; lemma awns 4-16 cm long; plants cespitose or rhizomatous; auricles absent or to 7 mm long  .....2. O. rufipogon
+3. Caryopses 7.5-8.5 mm long; lemma-awn junctions similar in color to the lemmas, glabrous; lemma awns 2.6-8 cm long; plants strongly rhizomatous; auricles present, to 15 mm long.....1. O. longistaminata
+    </key_body>
+  </key>
+</bio:treatment>

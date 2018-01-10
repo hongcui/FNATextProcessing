@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Willkommia texana Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>WILLKOMMIA</common_names>
+  <description type="morphology">Plants perennial; cespitose or stoloniferous. Culms (12)17-65 cm, glabrous; nodes 4-6(7), glabrous. Leaves cauline; sheaths mostly glabrous, upper margins sometimes pubescent; ligules 0.3-0.6 mm, truncate; blades (1)4-21 cm long, 0.6-3.5 mm wide, involute to flat, glabrous, margins pubescent. Panicles (6)7-34(44) cm long, 4-10 mm wide; branches 4-13(20), 1-8 cm, appressed, each branch usually terminating in a reduced, sterile spikelet, lowest branches usually partially enclosed in the uppermost sheaths at maturity. Spikelets 3.5-5 mm; disarticulation usually below the glumes, sometimes the first glume persistent. Lower glumes 2-3.5 mm, glabrous; upper glumes 3.3-4.8 mm, glabrous and smooth below, scabridulous above; lemmas 3.0-4.2 mm, usually appressed pilose between the veins, lateral veins obscure, midveins sometimes excurrent; paleas 2.5-3.4 mm, pubescent between the veins; anthers 3, 0.3-0.9(1.1) mm, yellow-orange. Caryopses 1.4-2 mm. 2n = 60.</description>
+  <discussion>Willkommia texana grows on clay pans, alkaline flats, and sandy soils, in open or bare areas of Texas and (rarely) Oklahoma and, as a disjunct, in Argentina. The Oklahoma record may represent a recent introduction. North American plants belong to Willkommia texana Hitchc. var. texana. They differ from the Argentinean variety, W. texana var. stolonifera Parodi, in being cespi¬tose rather than stoloniferous.</discussion>
+</bio:treatment>

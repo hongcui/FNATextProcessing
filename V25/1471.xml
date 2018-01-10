@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>29</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum quadrifarium Lam. </name_authority_date>
+  </taxon_identification>
+  <common_names>PAJA MANSE, PAJA COLORADA, TUSSOCK PASPALUM</common_names>
+  <description type="morphology">Plants perennial; cespitose. Culms (50)100-180 cm, erect; nodes pubescent. Sheaths pubescent, margins extending into auricles; ligules 1-6.3 mm; blades 15-62 cm long, 4.9-6.1 mm wide, involute to flat, glabrous. Panicles terminal, with 15-44 racemosely arranged branches; branches 1.2-8.5 cm, straight, erect to ascending, lower branches longer than those above; branch axes 0.5-0.6 mm wide, narrowly winged, glabrous, margins scabrous, pubescent, terminating in a spikelet. Spikelets 2-2.5(3) mm long, 0.9-1.3 mm wide, paired, divergent to spreading from the branch axes, elliptic, brown to stramineous, often purple-tinged. Lower glumes usually absent, if present, to 0.9 mm, triangular; upper glumes shortly pubescent, 3-veined, purple-spotted, margins entire; lower lemmas glabrous or pubescent, lacking ribs over the veins, 3-veined, margins entire; upper florets 2.2-2.5 mm, white. 2n = 20, 30, 40. </description>
+  <discussion>Paspalum quadrifarium is native to Uruguay, Paraguay, Brazil, and Argentina. It is grown as an ornamental in Florida, but has also become established in disturbed habitats of the southeastern United States. It is considered a noxious weed in New South Wales, Australia.</discussion>
+</bio:treatment>

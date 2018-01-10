@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Andropogon gyrans Ashe var. gyrans</name_authority_date>
+  </taxon_identification>
+  <common_names>ELLIOTT'S BEARDGRASS</common_names>
+  <description type="morphology">Ligules 0.3-0.8(1.1) mm. Inflorescence units usually with 2-5 rames; rames usually concealed at maturity.</description>
+  <discussion>Andropogon gyrans var. gyrans generally grows in dry, sandy soil of roadsides, embankments, fields, and pine or oak woods, occasionally in moister soil. Its range extends south from the United States to the Caribbean and Central America. Plants from Florida and Mississippi do not have inflated sheaths.</discussion>
+</bio:treatment>

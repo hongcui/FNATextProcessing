@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>44</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis elongata (Willd.) Jacq. </name_authority_date>
+  </taxon_identification>
+  <common_names>LONG LOVEGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, with innovations, without rhizomes, not glandular. Culms 28-60 cm, erect to decumbent, glabrous below the nodes. Sheaths glabrous, apices sparsely hairy, hairs to 2 mm; ligules 0.3-0.4 mm; blades 5-20 cm long, 0.8-3 mm wide, flat to involute, abaxial surfaces glabrous, adaxial surfaces scabridulous, occasionally hairy near the base. Panicles terminal, (5)8-20(22) cm long, 1-3.5 cm wide, spicate to narrowly ovate, branches condensed into glomerate lobes; primary branches 0.8-3 cm, appressed or diverging up to 90° from the rachises, spikelet-bearing to the base; pulvini glabrous; pedicels 0.2-1.3 mm, flat¬tened, mostly appressed, all shorter than the spikelets. Spikelets 3-7 mm long, 1.8-2.4 mm wide, linear-lanceolate, stramineous with a reddish-purple tinge, with 8-18 florets; disarticulation acropetal, glumes first, then the lemmas, paleas persistent. Glumes subequal, 1.2-2 mm, narrowly lanceolate to lanceolate, membranous; lemmas 1.5-2.2 mm, lanceolate to ovate, leathery, greenish, lateral veins conspicuous, apices acute; paleas 1.1-1.7 mm, hyaline, narrower than the lemmas, keels ciliate, cilia to 0.2 mm, apices obtuse to acute; anthers 2, 0.2-0.3 mm, purplish. Caryopses 0.4-0.5 mm, ovoid, not grooved, smooth, light brown. 2n = unknown.</description>
+  <discussion>Eragrostis elongata is native to southeastern Asia and Australia, where it grows in disturbed, sandy soils at 0-50 m. It was collected once near Washington, D.C., probably as an escape from the U.S. Department of Agriculture's experimental grass garden; it has not become established in the Flora region.</discussion>
+</bio:treatment>

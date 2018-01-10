@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Cynosurus echinatus L. </name_authority_date>
+  </taxon_identification>
+  <common_names>BRISTLY DOGTAIL</common_names>
+  <description type="morphology">Plants annual; tufted. Culms 9-70 cm, clustered or solitary. Sheaths smooth, glabrous; ligules 2.5-5(10) mm, obtuse, entire; blades 3-13.5(23) cm long, 2.5-14 mm wide, scab¬rous. Panicles 1-4(8) cm long, 0.7-2 cm wide, ovoid to almost globose, unilateral. Spikelets 7-14 mm, subsessile or shortly pedicellate; pedicels to 1.6 mm. Sterile spikelets with 6-18 florets; glumes and lemmas similar, subulate to linear-lanceolate, glabrous,  
+sometimes scabridulous, awned, awns to 8 mm. Fertile spikelets with 1-5 florets, glumes and lemmas dissimilar; glumes 5.5-12 mm long, 0.4-0.9 mm wide, narrowly lanceolate, laterally compressed, hyaline, glabrous, 1-veined, keeled, awned, awns 0.5-2.2 mm; rachilla internodes 0.9-1.3 mm; lemmas 4-7 mm, slightly dorsally compressed, chartaceous or coriaceous, not keeled, lower 1/2 smooth, glabrous, distal 1/2 villous or scabrous, apices hyaline, ciliolate, entire or bidentate, awned, awns 5-18(25) mm; anthers 1-4 mm. 2n = 14. 
+</description>
+  <discussion>Cynosurus echinatus is native to southern Europe. It is now established in dry, open habitats in North America, South America, and Australia.
+ 
+</discussion>
+</bio:treatment>

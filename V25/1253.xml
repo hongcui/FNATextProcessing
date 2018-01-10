@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Panicum sect. Dichotomiflora (Hitchc.) Honda</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; cespitose, sometimes rhizomatous in the tropics. Culms erect to decumbent, compressed, sometimes slightly succulent. Sheaths almost glabrous or hispid, hairs papillose-based; ligules membranous, ciliate, cilia 2-4 mm. Panicles open or contracted; branches mostly solitary, stiff, naked basally; pedicels short, stiff, subappressed, prominently 3-angled, usually scabrous on the angles, widened and cuplike at the apices. Spikelets narrow, ellipsoid to lanceoloid, glabrous, pointed. Lower glumes 1/5 – 1/3 as long as the spikelets, clasping, 0-3-veined, truncate to subacute. Upper glumes and lower lemmas extending beyond the upper florets, 5-9-veined, veins prominent near the apices; lower florets sterile; lower paleas long and membranous to vestigial; upper florets smooth, shiny, glabrous.</description>
+  <discussion>Members of sect. Dichotomiflora usually grow in wet, open areas, some as emergents in shallow water. They are often found on disturbed ground. There are about seven species in the Western Hemisphere, but only three grow in the Flora region.</discussion>
+</bio:treatment>

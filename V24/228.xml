@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Piptochaetium setosum (Trin.) Arechav. </name_authority_date>
+  </taxon_identification>
+  <common_names>BRISTLY RICEGRASS</common_names>
+  <description type="morphology">Culms 20-40 cm, prostrate to ascending; nodes 2, dark, glabrous. Sheaths glabrous, smooth; ligules 0.5-2.5 mm, obtuse, membranous, glabrous; blades (3)5-12.5 cm long, 0.8-1.5 mm wide, glabrous or hispidulous, margins scabridulous. Panicles 3-15 cm long, 2-3 cm wide, with (5)10-30 spikelets; branches appressed to ascending, glabrous or hispid; pedicels 2-6 mm, hispidulous. Glumes subequal, 5-7 mm long, 1-2 mm wide, purplish at the base; lower glumes (3)5(7)-veined; upper glumes 5(7)-veined; florets 2.5-3 mm long, 1.2-1.8 mm thick, globose to slightly laterally compressed, gibbous; calluses 0.2-0.5 mm, obtuse, antrorsely strigose, hairs whitish to golden; lemmas glabrous, longitudinally striate, constricted below the crown, chestnut brown at maturity; crowns 0.5-0.8 mm wide, straight, not strongly differentiated, distal margins papillose; awns 10-16 mm, once- or twice-geniculate; paleas to 3.2 mm; anthers about 0.5 mm. Caryopses 2-2.5 mm, spherical to ellipsoid. 2n = unknown.</description>
+  <discussion>Piptochaetium setosum is native to central Chile. There is an established population in Marin County, California, that grows intermingled with P. stipoides, another South American species. The two species grow in the middle of a dirt track and in the adjacent meadow.  The California plants of P. setosum are  
+notable for their prostrate culms. This characteristic was not mentioned by Parodi (1944) or Cialdella and Arriaga (1998).
+The origin of the California population is not known. It has been suggested that the seeds might have been brought in by birds, as the area was a bird refuge at one time.</discussion>
+</bio:treatment>

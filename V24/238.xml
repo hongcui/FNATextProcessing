@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Nassella lepida (Hitchc.) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>FOOTHILLS NASSELLA, FOOTHILLS NEEDLEGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 35-100 cm tall, 0.7-1.2 mm thick, erect, bases sometimes decumbent, internodes glabrous, or the lower internodes pubescent just below the nodes or throughout, varying within a plant; nodes 3-4, pubescent. Sheaths glabrous or coarsely hairy, sometimes scabridulous, margins glabrous; collars hairy, particularly towards the sides, hairs at the sides 0.2-0.5 mm; ligules 0.1-0.6 mm, glabrous, truncate to rounded; blades 12-23 cm long, 1-3.5 mm wide, flat to convolute, lax, abaxial surfaces scabridulous, adaxial surfaces coarsely hairy. Panicles 9-55 cm, open; branches 1-8 cm, ascending to spreading, with 1-6 spikelets; pedicels 1-5 mm. Glumes subequal, 5.5-15 mm long, 0.5-1 mm wide, narrowly lanceolate, glabrous, acuminate; florets 4-7 mm long, 0.5-0.7 mm wide, terete, widest near or slightly above midlength; calluses 0.4-1.6 mm, sharp, strigose; lemmas papillose, initially evenly pubescent, becoming glabrous between the veins at maturity, tapering to the crown; crowns 0.25-0.3 mm long, 0.15-0.2 mm wide, straight-sided, rims with 0.3-0.6 mm hairs; awns 12-55 mm long, 0.1-0.15 mm thick at the base, first geniculation distinct, second geniculation obscure, terminal segment cernuous; anthers 3, 2-2.5 mm, penicillate. Caryopses 3-4 mm. 2n = 34.</description>
+  <discussion>Nassella lepida usually grows on dry hillsides in chaparral habitats, from California into northern Mexico. It is most likely to be confused with N. cernua, but differs from that species in its shorter, thinner awns and more numerous spikelets. It occasionally hybridizes with N. pulchra.</discussion>
+</bio:treatment>

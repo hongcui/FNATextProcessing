@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa bulbosa L.</name_authority_date>
+  </taxon_identification>
+  <common_names>BULBOUS BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; densely tufted, not rhizomatous, not stolon-iferous. Basal branching intravaginal. Culms 15-60 cm, erect or spreading, bases bulbous. Sheaths closed for about 1/4 their length, terete, lowest sheaths with swollen bases; ligules 1-3 mm, smooth or scabrous, apices obtuse to acute; blades 1-2.5 mm wide, flat, thin, lax, soon withering. Panicles 3-12 cm, ovoid; nodes with 2-5 branches; branches ascending to spreading, terete, usually smooth or sparsely scabrous, infrequently moderately scabrous. Spikelets 3-5 mm, laterally compressed, usually bulbiferous; florets 3-7, the basal floret, and sometimes additional florets, normal; rachilla internodes smooth, glabrous. Glumes keeled, keels scabrous; lower glumes 3-veined; upper glumes shorter than or subequal to the lowest lemmas; calluses webbed or glabrous; lemmas 3-4 mm, lanceolate, keeled, glabrous or the keels and marginal veins short- to long-villous, intercostal regions glabrous or softly puberulent, apices acute; paleas scabrous, keels often softly puberulent at midlength; anthers 1.2-1.5 mm and functional, sometimes aborted late in development, sometimes not developed. 2n = 14, 21, 28, 39, 42, 45.</description>
+  <discussion>Poa bulbosa is a European species that is now established in the Flora region. In southern Europe and the Middle East, it is considered an important early spring forage.</discussion>
+  <key>
+    <key_body>
+1. Spikelets not bulbiferous.....subsp. bulbosa
+1. All or some spikelets bulbiferous  .....subsp. vivipara
+
+    </key_body>
+  </key>
+</bio:treatment>

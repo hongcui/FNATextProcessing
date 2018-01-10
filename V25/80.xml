@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Jesus Valdes-Reyna</author>
+    </source>
+  </meta>
+  <number>17.18</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>MUNROA Torr.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual; stoloniferous, mat-forming; stolons 2-8 cm, terminating in fascicles of leaves from which new culms arise. Culms 3-15(30) cm. Leaves mostly basal, sometimes with a purple tint; sheaths with a tuft of hairs at the throat; auricles absent; ligules of hairs; blades linear, usually involute, sometimes flat or folded, with white, thickened margins, apices sharply pointed. Inflorescences terminal, capitate panicles of spikelike branches; branches almost completely hidden in a subtending leafy bract, bearing 2-4 subsessile or pedicellate spikelets. Spikelets laterally compressed, with 2-10 florets; lower florets bisexual or pistillate; terminal florets sterile; disarticulation above the glumes or beneath the leaves subtending the branches. Glumes shorter than the spikelets, keeled, 1-veined, unawned; lower glumes usually present on all spikelets (absent from all spikelets in M. mendocina); upper glumes absent or reduced on the terminal spikelet; lemmas with a pilose tuft of hairs along the margins at midlength, membranous or coriaceous, 3-veined, lateral veins occasionally shortly excurrent, apices emarginate or 2-lobed; paleas glabrous, smooth; lodicules present or absent, truncate; anthers 2 or 3, yellow; style branches elongate, 2(3), barbellate. Caryopses dorsally compressed, x = 7 or 8. </description>
+  <discussion>Munroa, a genus of five species, is endemic to the Western Hemisphere. One species occurs in the Flora region, the remainder being confined to South America. Its closest relatives are thought to be Blepharidachne and Dasyochloa, both of which are stoloniferous, mat-forming species with leafy-bracteate panicles. Munroa differs from both in its annual habit.</discussion>
+  <references>Anton, A.M. and A.T. Hunziker. 1978. El genero Munroa (Poaceae): Sinopsis morgologica y taxonomica. Bol. Acad. Nac. Ci. 52:229-252. Parodi, L.R. 1934. Contribution al estudio de las gramfneas del genero Munroa. Revista Mus. La Plata 34:171-193; Sanchez, E. 1984. Estudios anatomicos en el genero Munroa (Poaceae, Chloridoideae, Eragrostideae). Darwiniana 25:43-57.</references>
+</bio:treatment>

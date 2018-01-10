@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Echinochloa pyramidalis (Lam.) Hitchc. & Chase</name_authority_date>
+  </taxon_identification>
+  <common_names>ANTELOPE GRASS</common_names>
+  <description type="morphology">Plants perennial; with short, scaly rhizomes. Culms 1-4.6 m tall, to 2 cm thick, geniculate or long-prostrate and rooting at the lower nodes, often floating distally; lower and upper nodes glabrous. Sheaths mostly glabrous, but usually ciliate at the throat; ligules present on the lower leaves, 1-5 mm, of stiff hairs, reduced or absent on the upper leaves; blades 8-75 cm long, 5-30 mm wide. Panicles 15-40 cm, nodes and internodes scabrous; primary branches 2-7.5 cm, solitary to fascicled, erect or ascending, simple or compound, nodes and internodes glabrous or hispid, hairs to 4 mm, papillose-based. Spikelets 2.5-4 mm long, 1-1.8 mm wide, disarticulating at maturity, finely pubescent or glabrous, greenish to purple at maturity. Lower florets staminate; lower lemmas unawned, acute to acuminate or long cuspidate; anthers of lower florets 1-1.5 mm; upper lemmas apiculate to long cuspidate. Caryopses about 2 mm. 2n = 54, 72.</description>
+  <discussion>Echinochloa pyramidalis is native to Africa, where it is used both as a cereal and a pasture grass. It has been grown experimentally in Gainesville, Florida, but it is not established in North America.</discussion>
+</bio:treatment>

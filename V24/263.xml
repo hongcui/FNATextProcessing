@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>tribe</rank>
+    <name_authority_date>BROMEAE Dumort.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; usually cespitose, sometimes rhizomatous. Culms annual, not woody, not branching above the base; internodes usually hollow, rarely solid. Sheaths closed, margins united for most of their length; collars without tufts of hair on the sides; auricles sometimes present; ligules membranous, sometimes shortly ciliate, those of the upper and lower cauline leaves usually similar; pseudopetioles absent; blades linear to narrowly lanceolate, venation parallel, cross venation not evident, without arm or fusoid cells, cross sections non-Kranz, epidermes without microhairs, not papillate. Inflorescences usually terminal panicles, sometimes reduced to racemes in depauperate plants; disarticulation above the glumes and beneath each floret. Spikelets 5-80 mm, not viviparous, terete to laterally compressed, with 3-30 bisexual florets, distal florets sometimes reduced; rachillas prolonged beyond the bases of the distal florets. Glumes usually unequal, rarely more or less equal, exceeded by the distal florets, usually longer than 1/4 the length of the adjacent florets, lanceolate, 1-9(1 l)-veined; florets terete to laterally compressed; calluses glabrous, not well developed; lemmas lanceolate to ovate, rounded or keeled over the midvein, herbaceous to coriaceous, 5-13-veined, veins converging somewhat distally, apices usually minutely bilobed to bifid, rarely entire, usually awned, sometimes unawned, awns unbranched, terminal or subterminal, usually straight, sometimes geniculate; paleas usually shorter than the lemmas; lodicules 2, glabrous, not veined; anthers 3; ovaries with hairy apices; styles 2, bases free. Caryopses narrowly ellipsoid to linear, longitudinally grooved; hila linear; embryos about 1/6 the length of the caryopses. x = 7.</description>
+  <discussion>There are three genera in the Bromeae. One genus, Bromus, grows in the Flora region. The tribe was included in the Festuceae Dumort. [= Poeae] by earlier agrostologists (e.g., Hitchcock 1951) because it has paniculate inflorescences, spikelets with more than 1 floret, and glumes that are shorter than the lemmas. It is now considered to be most closely related to the Triticeae. This is indicated by the pubescent apices of the ovaries and simple endosperm starch grains. It is further supported by data from serology, nucleic acid sequences, and seedling development. These data do not support a close relationship between the Bromeae and Brachypodium, a genus that has sometimes been included in the tribe.</discussion>
+  <references>Hitchcock, A.S. 1951. Manual of the Grasses of the United States, ed. 2, rev. A. Chase. U.S.D.A. Miscellaneous Publication No. 200. U.S. Government Printing Office, Washington, D.C., U.S.A. 1051 pp.; Kellogg, E.A. 1992. Tools for studying the chloroplast genome in the Triticeae (Gramineae): An ficoRI map, a diagnostic deletion, and support for Bromus as an outgroup. Amer. J. Bot. 79:186-197.</references>
+</bio:treatment>

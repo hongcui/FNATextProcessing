@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>29</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis silveana Swallen </name_authority_date>
+  </taxon_identification>
+  <common_names>SILVEUS' LOVEGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, with innovations and short, knotty rhizomes less than 4 mm thick. Culms 45-60 cm, erect, often glandular below the nodes, sometimes viscid. Sheaths often viscid, sometimes sparsely pilose, hairy at the apices, hairs to 6 mm; ligules 0.2-0.3 mm; blades 8-25 cm long, 2-4 mm wide, flat to involute, glabrous, sometimes viscid. Panicles 20-35(42) cm long, 10-22 cm wide, broadly ovate, open, bases included in the upper¬most leaf sheaths; primary branches 5-14 cm, diverging 20-90° from the rachises, capillary, sometimes viscid, naked basally; pulvini hairy, hairs to 6 mm; pedicels (1)1.5-12 mm, diverging or appressed. Spikelets (2.5)3-4.8 mm long, 0.9-1.4 mm wide, linear-lanceolate, reddish-purple, with 4-9 florets; disarticulation basipetal, glumes persistent. Glumes lanceolate, membranous; lower glumes 0.9-1.2 mm; upper glumes 1-1.3 mm; lemmas 1.1-1.4 mm, ovate to lanceolate, membranous, 3-veined, apices acute; paleas 1-1.4 mm, hyaline, not wider than the lemmas, apices obtuse; anthers 3, 0.2-0.3 mm, purplish. Caryopses 0.5-0.6 mm, ellipsoid, terete in cross section, neither ridged nor grooved, faintly striate, reddish-brown. 2n = unknown.</description>
+  <discussion>Eragrostis silveana grows in various open habitats, from sandy prairies to clay loam flats, near roadsides, railroads, and fields at 0-100 m. Its range is limited to the coastal plain of Texas and northern Mexico. Morphologically, E. silveana is somewhat intermediate between E. spectabilis and E. curtipedicellata, and grows where the distribution of these two species overlaps.</discussion>
+</bio:treatment>

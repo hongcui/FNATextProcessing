@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>24</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum nicorae Parodi </name_authority_date>
+  </taxon_identification>
+  <common_names>BRUNSWICKGRASS</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, rhizomes 5-25 cm, conspicuous. Culms 10-70 cm, erect to ascending; nodes glabrous. Sheaths glabrous, pubescent apically; ligules 1.2-1.5 mm; blades 6-20 cm long, 4-5 mm wide, flat to conduplicate, glabrous or pubescent. Panicles terminal, with 2-5 racemosely arranged branches; branches 1.4-5.2 cm, divergent; branch axes about 0.8 mm wide, glabrous, terminating in a spikelet. Spikelets 2.3-2.7 mm long, 1.4-1.8 mm wide, paired, appressed to or divergent from the branch axes, elliptic, dark brown. Lower glumes absent; upper glumes shortly pubescent, 5-veined, margins entire; lower lemmas transversely rugose at maturity, glabrous, 5-veined, margins entire; upper florets dark glossy brown. Caryopses about 1.8 mm long, 1.4 mm wide, ellipsoidal. 2n = 40.</description>
+  <discussion>Paspalum nicorae is native to Brazil, Uruguay, and Argentina. It was introduced to the United States for use in pastures and as a cover crop in waterways. It is now established in the southeastern United States, growing as a weed in pastures, turf, and other disturbed areas.</discussion>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Ken M. Hiser</author>
+    </source>
+  </meta>
+  <number>25.18</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>IXOPHORUS Schltdl.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annuals or short-lived perennials; tufted. Culms 15-150 cm tall, 1-10 mm thick, dry to somewhat succulent, longitudinally grooved, glabrous. Leaves linear, vernation conduplicate; sheaths open, glabrous, compressed laterally, often purple-streaked at the base; ligules membranous, long-ciliate; blades flat, midvein often white, adaxial surfaces minutely pubescent immediately distal to the ligule, glabrous elsewhere, margins strigillose. Inflorescences terminal, open, pyramidal panicles; rachises scabridulous, bearing 4-50 alternate, spikelike primary branches; primary branches to 7 cm, flexuous, axes scabridulous, bearing spikelets in 2 abaxial rows; pedicels shorter than 1 mm, cuplike, each with a single, smooth (occasionally scabridulous), terete bristle; bristles 4-12 mm, pale brown to black; disarticulation below the glumes. Spikelets dorsally compressed, with 2 florets; lower florets staminate; upper florets pistillate. Lower glumes 1/4 - 1/3 as long as the upper glumes, orbicular to triangular, 3-veined; upper glumes slightly shorter than the lower lemmas, often purple or green, 11-veined, acute; lower lemmas 5-veined, acute; lower paleas hyaline, about as long as the upper glumes, accrescent, thinly membranous at anthesis, becoming thicker and stiffer and about 3 times as wide as the lemma in fruit, keels clasping the upper floret at maturity; anthers 3, about 2 mm, orange; upper lemmas dorsally compressed, indurate, rugose, papillate, bases with a prominent germination flap, margins enclosing the edges of the upper paleas; upper paleas flat, indurate, papillate; stigmas bright red, plumose. Caryopses oblong obtuse, dorsally compressed; embryos about 1/3 as long as the caryopses. x = unknown. </description>
+  <discussion>Ixophorus is native from central Mexico through Central America to northern South America. It is treated here as consisting of a single species, but it has been treated in the past as having as many as three species. These, however, intergrade morphologically with respect to all the characters used to distinguish them (Hiser 2002).
+Schlechtendal (1861-1862), in his description of the genus, states that the inflorescence is sticky, but the bristles of living plants, although somewhat lustrous, do not appear to be viscid.</discussion>
+  <references>Clifford, H.T. 1996. Etymological Dictionary of Grasses, Version 1.0 (CD-ROM). Expert Center for Taxonomic Identification, Amsterdam, The Netherlands; Hiser, K.M. 2002. Phylogenetic placement, inflorescence development, and taxonomy of the genus Ixopborus (Panicoideae: Poaceae). Master's thesis. University of Missouri-St. Louis, St. Louis, Missouri, U.S.A. 88 pp.; Hitchcock, A.S. 1919. History of the Mexican grass, Ixopborus unisetus. J. Wash. Acad. Sci. 9:546-551; Schlechtendal, D.F.L. 1861-1862. Ueber Setaria P.B. Linnaea 31:387-509; Scribner, F.L. 1897. Studies on American grasses: I. The genus Ixopborus. Bull. Div. Agrostol. U.S.D.A. 41:5-7, 40, pi. 1-2.</references>
+</bio:treatment>

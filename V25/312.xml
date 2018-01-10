@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>65</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia sinuosa Swallen </name_authority_date>
+  </taxon_identification>
+  <common_names>MARSHLAND MUHLY</common_names>
+  <description type="morphology">Plants annual; delicate. Culms 12-50 cm, erect to geniculate; internodes mostly glabrous and smooth or scabridulous, scabridulous or strigulose below the nodes. Sheaths usually longer than the internodes, glabrous, smooth or scabridulous; ligules 1.5-3.1 mm, hyaline, truncate to obtuse, irregularly toothed to lacerate, with lateral lobes that exceed the central portion; blades 2-8.5 cm long, 0.8-2 mm wide, flat, sometimes involute, scabridulous abaxially, shortly pubescent to minutely villous adaxially, midveins prominent abaxially. Panicles 10-26 cm long, 2.8-8 cm wide; primary branches 2.6-7 cm, often capillary, diverging 25-80° from the rachises; pedicels 4-7 mm, usually curved, often through 90° or more. Spikelets 1.4-2 mm. Glumes equal, 0.7-1.2 mm, usually conspicuously strigulose, particularly near the margins and apices, 1-veined, acute to obtuse, unawned; lemmas 1.4-2 mm, oblong-elliptic, greenish, sometimes purplish-tinged, shortly appressed-pubescent on the midveins and margins, apices acute or obtuse, unawned; paleas 1.3-1.8 mm, oblong-elliptic, intercostal region sparsely short-pilose or glabrous; anthers 0.6-1.2 mm, olivaceous. Caryopses 0.8-1.2 mm, fusiform, brownish. 2n = 20, 24. </description>
+  <discussion>Muhlenbergia sinuosa grows in sandy soil along washes, on open slopes and rocky ledges, and in road¬side ditches, at elevations of 1650-2300 m. It is usually found in oak-pine forests, pinyon-juniper woodlands, oak-gramma savannahs, and riverine woodlands. Its range extends from the southwestern United States into northern Mexico.</discussion>
+</bio:treatment>

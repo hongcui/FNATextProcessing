@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bothriochloa barbinodis (Lag.) Herter </name_authority_date>
+  </taxon_identification>
+  <common_names>CANE BLUESTEM</common_names>
+  <description type="morphology">Culms 60-120 cm tall, rarely more than 2 mm thick, erect, geniculate at the base, often branched at maturity, not glaucous below the nodes; nodes hirsute, hairs 3-4 mm, mostly erect to ascending, tan or off-white. Leaves cauline; ligules 1-2 mm, often erose; blades 20-30 cm long, 2-7 mm wide, not glaucous, glabrous or sparingly pilose near the throat. Panicles 5-14(20) cm on the larger shoots, oblong to somewhat fan-shaped, silvery-white; rachises 5-10 cm, straight, exserted or partially included in the sheath, with numerous branches; branches 4-9 cm, erect, with several rames; rame internodes with a membranous groove wider than the margins, margins densely pilose, longest hairs 3-7 mm, concentrated distally. Sessile spikelets 4.5-7.3 mm; lower glumes short pilose, with or without a dorsal pit; awns 20-35 mm; anthers 0.5-1 mm, often remaining within the spikelet. Pedicellate spikelets 3-4 mm, narrowly lanceolate, sterile. 2n = 180.</description>
+  <discussion>Bothriochloa barbinodis is a common species, at 500-1200 m, along roadsides, drainage ways, and gravelly slopes in desert grasslands, from the southwestern United States through Mexico and Central America to Bolivia and Argentina, and has been found in the Hawaiian Islands. Plants with a pit on the back of their lower glumes occur sporadically; they do not differ in any other respect from those without pits. The species is sometimes used as an ornamental. It is tolerant of coastal conditions and will grow as far north as Vancouver, British Columbia.
+Bothriochloa barbinodis has been confused with three other species in the Flora region. It differs from B. wrightii in not having glaucous foliage, and in having oblong to merely somewhat fan-shaped panicles with pedicellate spikelets that are definitely shorter than the sessile spikelets; from B. aha in having shorter culms, panicles, and nodal hairs; and from B. springfieldii in having taller culms, wider leaves, shorter nodal hairs, and more, less hairy panicles branches.
+</discussion>
+</bio:treatment>

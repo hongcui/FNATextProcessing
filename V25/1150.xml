@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthelium oligosanthes (Schult.) Gould </name_authority_date>
+  </taxon_identification>
+  <common_names>FEW-FLOWERED PANICGRASS</common_names>
+  <description type="morphology">Plants cespitose, with caudices. Basal rosettes well-differentiated; blades 2-6 cm, few, ovate to lanceolate. Culms 20-75 cm, geniculate basally, stiffly erect distally; nodes glabrous or sparsely pubescent; internodes often purplish, glabrous, puberulent, or papillose-hirsute; fall phase branching from the midculm nodes, branches initially ascending to erect, sometimes developing simultaneously with and overtopping the primary panicles, later rebranching to form short, bushy clumps of blades and small, included secondary panicles. Cauline leaves 5-7; sheaths not overlapping, glabrous, puberulent, or ascending papillose-hispid, margins ciliate, collars loose, puberulent; ligules 1-3 mm, of hairs; blades 5-12 cm long, 4-15 mm wide, flat or partly involute, glabrous or pubescent abaxially, with 7-9 major veins only slightly more prominent than the minor veins, bases ciliate, rounded to truncate, margins cartilaginous. Primary panicles 5-9 cm long, 3-6 cm wide, partly enclosed to long-exserted, with 6-60 spikelets; branches stiff or wiry, puberulent or scabridulous. Spikelets 2.7-4.2 mm long, 1.7-2.4 mm wide, ellipsoid to broadly obovoid, turgid, glabrous or sparsely pubescent. Lower glumes 1-1.6 mm, acute, similar in texture and vein prominence to the upper glumes; upper glumes strongly veined, often orange to purplish at the base; lower florets sterile; upper florets with minutely umbonate apices. 2n = 18.</description>
+  <discussion>Dichanthelium oligosanthes grows throughout the southern portion of the Flora region and extends into northern Mexico. The primary panicles are briefly open-pollinated, then cleistogamous, from late May to early June; the secondary panicles, which are produced from June to November, are cleistogamous. The subspecies intergrade in areas of overlapping range, but they are usually distinct elsewhere.</discussion>
+</bio:treatment>

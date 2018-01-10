@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Coix lacryma-jobi L. </name_authority_date>
+  </taxon_identification>
+  <common_names>JOB'S-TEARS</common_names>
+  <description type="morphology">Plants annual or perennial. Culms to 3 m. Leaves mostly
+cauline, evidently distichous; blades to 75 cm long, 1.5-6 cm wide. Involucres usually 8-12 mm, varying in color. Lower glumes of functional pistillate spikelets 6-10 mm, hyaline below, 5-7-veined, with a 1-3 mm coriaceous beak. Staminate rames 10-35 mm, with 3-25 spikelet pairs, disarticulating at maturity; spikelets 5-9 mm, dorsally compressed; glumes exceeding the florets, with 15+ veins; lower glumes elliptic to obovate, somewhat asymmetrical, margins folded inward, apices obtuse; upper glumes lanceolate to narrowly elliptic, keels often winged, apices acute; upper lemmas 5-8 mm, hyaline, elliptic to ovate, 3-veined; upper paleas similar but 2-veined; anthers 3-6 mm. 2n = 20.
+</description>
+  <discussion>Coix lacryma-jobi is a tall, maize-like plant. In North America, it is usually grown as an ornamental, but it has become established at scattered locations in the Flora region. The involucres, which can be used as beads, may be white, blue, pink, straw, gray, brown, or black, with the color being distributed evenly, irregularly, or in stripes. Cultivars with easily removed involucres are grown for food and beverage, especially in Asia.</discussion>
+</bio:treatment>

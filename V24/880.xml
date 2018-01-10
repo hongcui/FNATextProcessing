@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Coleanthus subtilis (Tratt.) Seidl </name_authority_date>
+  </taxon_identification>
+  <common_names>Moss GRASS, MUD GRASS</common_names>
+  <description type="morphology">Plants annual. Culms ascending or decumbent. Sheaths strongly inflated, uppermost sheath en-closing the base of the panicles; ligules 1-1.5 mm; blades 1-2 cm long, 0.5-1.5 mm wide. Panicles 1-5 cm, with 3-6 verticils. Lemmas 0.75-1.5 mm, ciliate on the keels, awnlike apices about equaling the lower portion; paleas about 0.5 mm, keels slightly prolonged; anthers about 0.3 mm. Caryopses about 1 mm. 2n = 14.</description>
+  <discussion>Coleanthus subtilis is an ephemeral pioneer species of wet, open habitats. It grows on wet, muddy to sandy, calcium-deficient soils on the shores of lakes, sandbars, and islands. In the Flora region, it is known from the Columbia River, and around Hatzic, Arrow and Shuswap lakes in British Columbia. It also grows in Europe, Russia, and China. Throughout its range, C. subtilis is known from relatively few, scattered locations. It is easily overlooked because of its diminutive size, and because it flowers in early spring or late fall. It is not clear whether it is native or introduced in the Flora region.</discussion>
+</bio:treatment>

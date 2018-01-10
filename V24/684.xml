@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Stephen J. Darbyshire</author>
+    </source>
+  </meta>
+  <number>14.07</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>xPUCCIPHIPPSIA Tzvelev</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose. Culms to 23 cm. Sheaths closed for 1/3-2/3 their length, glabrous; auricles absent; ligules membranous; blades flat or folded, glabrous. Inflorescences compact panicles. Spikelets laterally compressed, with (1)2-3(4) florets; rachillas prolonged beyond the base of the distal floret; disarticulation above the glumes. Glumes usually 2, occasionally 1, unequal, membranous, hyaline, acute to obtuse; lemmas unawned; paleas 2-veined, veins spiculose; anthers indehiscent. Caryopses absent.</description>
+  <discussion>xPucciphippsia consists of hybrids between Puccinellia and Phippsia. Two different hybrids are known. Only one, xPucciphippsia vacillans, grows in the Flora region. xPucciphippsia czukczorum Tzvelev is currently known only from the Chukotsk Peninsula in northeastern Russia, although its parents, Puccinellia wrightii and Phippsia algida, have both been found in Alaska on the Seward Peninsula, and in Greenland on the Hayes Peninsula and in the Ammassalik region. Both hybrids are completely sterile, as is indicated by their indehiscent anthers and lack of caryopses. They differ from Puccinellia in having small, compact panicles, and from Phippsia in usually having more than one floret per spikelet.</discussion>
+  <references>Hedberg, O. 1962. The genesis of Puccinellia vacillans. Bot. Tidsskr. 58:157-167.</references>
+</bio:treatment>

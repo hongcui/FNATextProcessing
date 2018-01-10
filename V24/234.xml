@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>10.12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>NASSELLA (Trin.) E. Desv.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants usually perennial, rarely annual; cespitose, occasionally rhizomatous. Culms 10-175(210) cm, sometimes branched at the upper nodes, branches flexible; prophylls not evident, shorter than the sheaths. Leaves mostly basal, not overwintering; sheaths open; cleistogenes sometimes present; auricles absent; ligules membranous, sometimes pubescent or ciliate; blades of basal leaves 3-60 cm long, 0.2-8 mm wide, apices narrowly acute to acute, not sharp, flag leaf blades 1-80 mm, bases about as wide as the top of the sheaths. Inflorescences terminal panicles, sometimes partially included at maturity. Spikelets 3-22 mm, with 1 floret; rachillas not prolonged beyond the base of the floret; disarticulation above the glumes, beneath the floret. Glumes longer than the floret, narrowly lanceolate or ovate, basal portion usually purplish at anthesis, color fading with age, (l)3-5-veined, sometimes awned; florets usually terete, sometimes slightly laterally compressed; calluses blunt or sharp, glabrous or antrorsely strigose; lemmas usually papillose or tuberculate, at least distally, sometimes smooth throughout, glabrous or variously hairy, strongly convolute, wrapping 1.2-1.5 times around the caryopses, apices not lobed, fused distally into crowns, these often evident by their pale color and constricted bases; crowns mostly glabrous, rims often bearing hairs with bulbous bases; awns terminal, centric or eccentric, deciduous or persistent, usually twice-geniculate, second geniculation often obscure; paleas up to 1/2 as long as the lemmas, glabrous, without veins, flat; lodicules 2 or 3, if 3, the third somewhat shorter than the other 2; anthers 1 or 3, if 3, often of 2 lengths, penicillate; ovaries glabrous; styles 2, bases free. Caryopses glabrous, not ribbed; hila elongate; embryos to 2/5 as long as the caryopses. x = 7, 8. </description>
+  <discussion>Nassella used to be interpreted as a South American genus of approximately 14 species. It is now interpreted as including at least 116 species (Barkworth and Torres 2001), the majority of which are South American. The additional species were previously included in Stipa. There are eight species in the Flora region, one of which is introduced; two additional species treated here were found in the region at one time, but have not become established. The strongly convolute lemmas distinguish Nassella from all other genera of Stipeae in the Americas and, in combination with the reduced, ecostate, glabrous paleas, from all other genera in the tribe worldwide. Molecular data (Jacobs et al. 2006) support the expanded interpretation of Nassella. Relationships among the species have not been explored.
+Many species of Nassella develop both cleistogamous and chasmogamous florets in the terminal panicle. The cleistogamous florets have 1-3 anthers that are less than 1 mm long; the chasmogamous florets have 3 anthers that are significantly longer. In addition, some species develop panicles in the axils of their basal sheaths. Spikelets of cleistogenes have reduced or no glumes, and florets with no or very short awns.
+</discussion>
+  <references>Barkworth, M.E. 1990. Nassella (Gramineae: Stipeae): Revised interpretation and nomenclatural changes. Taxon 39:597-614; Barkworth, M.E. 1993. Nassella. Pp. 1274-1276 in J.C. Hickman (ed.). The Jepson Manual: Higher Plants of California. University of California Press, Berkeley and Los Angeles, California, U.S.A. 1400 pp.; Barkworth, M.E. and M.A. Torres. 2001. Distribution and diagnostic characters of Nassella (Poaceae: Stipeae). Taxon 50:439-468; Brown, W.V. 1952. The relation of soil moisture to cleistogamy in Stipa leucotricha. Bot. Gaz. 113:438-444; Desvaux, E. 1854. Gramineas. Pp. 233-469 in C. Gay. Flora Chilena [Historia Fisica y Politica de Chile], vol. 6. Museo Historia Natural, Santiago, Chile. 551 pp. [1853 on title page; printed March 1854]; Dyksterhuis, E.J. 1949. Axillary cleistogenes in Stipa leucotricha and their role in nature. Ecology 26:195-199; Hamilton, J.G. 1997. Changing perceptions of pre-European grasslands in California. Madrono 44:311-333; Jacobs, S.W.L., R. Bayer, J. Everett, M.O. Arriaga, M.E. Barkworth, A. Sabin-Badereau, M.A. Torres, F. Vazquez, and N. Bagnall. 2006. Systematics of the tribe Stipeae using molecular data. Aliso 23:349-361; Jacobs, S.W.L., J. Everett, and M.E. Barkworth. 1995. Clarification of morphological terms used in the Stipeae (Gramineae), and a reassessment of Nassella in Australia. Taxon 44:33^-1; Love, R.M. 1946. Interspecific hybridization in Stipa: I. Natural hybrids. Amer. Naturalist 80:189-192; Love, R.M. 1954. Interspecific hybridization in Stipa: II. Hybrids of S. cemua, S. lepida, and S. pulchra. Amer. J. Bot. 41:107-110.</references>
+  <key>
+    <key_body>
+1. Florets 1.5-3 mm long; blades 0.2-1.5 mm wide, usually tightly convolute.
+2. Florets widest about midlength; awns 45-100 mm long, almost centric   .....7. N. tenuissima
+2. Florets widest near the top; awns 7-35 mm long, eccentric.
+3. Awns 15-35 mm long; lemmas strongly tuberculate, particularly distally.....8. N. trichotoma
+3. Awns 7-10 mm long; lemmas smooth.....9. N. chilensis
+1. Florets 3.4-13 mm long; blades 0.4-8 mm wide, flat to convolute. 
+4. Terminal segment of the awns cernuous.
+5. Awns 12-55 mm long, 0.1-0.2 mm thick at the base.....4. N. lepida
+5. Awns 50-110 mm long, 0.2-0.3 mm thick at the base   .....6. N. cemua
+4. Terminal segment of the awns straight.
+6. Florets 3.4-5.5 mm long; lemmas not constricted below the crown; awns 19-32 mm long .....10. N. viridula
+6. Florets 6-13 mm long; lemmas constricted below the crown; awns 30-120 mm long.
+ 
+ 
+7. Lemmas hairy between the veins at maturity.....5. N. pulchra
+7. Lemmas glabrous between the veins at maturity.
+8. Crowns usually wider than long, the rims with hairs to 0.5 mm long; florets widest just below the crowns .....1. N. neesiana
+8. Crowns usually longer than wide, the rims with hairs 1-2 mm long; florets widest near or slightly above midlength. 9. Florets 6.5-13 mm long; crowns often flaring distally; plants native to Texas and adjacent states  .....2.N. leucotricha
+9. Florets 6-8 mm long; crowns more or less straight-sided; plants introduced, established in California .....3. N. manicata
+
+    </key_body>
+  </key>
+</bio:treatment>

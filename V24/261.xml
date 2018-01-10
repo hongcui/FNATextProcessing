@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Brachypodium pinnatum (L.) P. Beauv. </name_authority_date>
+  </taxon_identification>
+  <common_names>HEATH FALSEBROME, TOR GRASS</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, sometimes subcespitose, rhi¬zomes scaly, sparingly branched. Culms 30-120 cm, erect, stiff, usually unbranched, with 2-3 nodes, not narrowed below the racemes, internodes smooth, usually glabrous; nodes pubescent, often scabrous. Sheaths rounded, smooth, glabrous or hairy, bases sometimes shortly pubescent; ligules 0.8-2.5 mm, truncate; blades 6-45 cm long, 2-7(10) mm wide, flat, lax, dark green, abaxial surfaces scabrous, not shiny, adaxial surfaces sparsely hairy, primary veins conspicuous, separated by finer secondary veins. Racemes 4-25 cm, erect, sometimes nodding, with (3)6-15 spikelets; pedicels 1-2 mm. Spikelets 15-50 mm, terete, with (3)7-24 florets. Glumes lanceolate to narrowly ovate, acute, firm, glabrous; lower glumes 3-6 mm, 3-6-veined; upper glumes 3-8 mm, 5-9-veined; lemmas 6-11 mm, Plants perennial; rhizomatous, sometimes subcespitose, rhi¬zomes scaly, sparingly branched. Culms 30-120 cm, erect, stiff, usually unbranched, with 2-3 nodes, not narrowed below the racemes, internodes smooth, usually glabrous; nodes pubescent, often scabrous. Sheaths rounded, smooth, glabrous or hairy, bases sometimes shortly pubescent; ligules 0.8-2.5 mm, truncate; blades 6-45 cm long, 2-7(10) mm wide, flat, lax, dark green, abaxial surfaces scabrous, not shiny, adaxial surfaces sparsely hairy, primary veins conspicuous, separated by finer secondary veins. Racemes 4-25 cm, erect, sometimes nodding, with (3)6-15 spikelets; pedicels 1-2 mm. Spikelets 15-50 mm, terete, with (3)7-24 florets. Glumes lanceolate to narrowly ovate, acute, firm, glabrous; lower glumes 3-6 mm, 3-6-veined; upper glumes 3-8 mm, 5-9-veined; lemmas 6-11 mm,</description>
+  <discussion>Brachypodium pinnatum is native to Eurasia. It is reportedly established in Sonoma County, California, and in Massachusetts. In its native range it prefers open woodlands, forest edges, and grassland habitats, and is fairly tolerant of hot, dry conditions.</discussion>
+</bio:treatment>

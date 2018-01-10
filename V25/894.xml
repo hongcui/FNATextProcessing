@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Bouteloua barbata Lag. var. barbata </name_authority_date>
+  </taxon_identification>
+  <common_names>SIXWEEKS GRAMA</common_names>
+  <description type="morphology">Plants annual; not stoloniferous. Culms 1-35 cm, usually decumbent and geniculate, occasionally rooting at the lower nodes. Ligules 0.4-1 mm; blades 0.5-5(9) cm long, 0.7-3 mm wide. Panicles 0.7-9 cm, with (2)4-11 branches; branches 10-27 mm, scabrous, with 20-40 spikelets. 2n = 20.</description>
+  <discussion>Bouteloua barbata var. barbata grows in loose sands, rocky slopes, and washes, often on disturbed soils, usually at elevations below 2000 m. Its range extends from the southwestern United States to northwestern Mexico.</discussion>
+</bio:treatment>

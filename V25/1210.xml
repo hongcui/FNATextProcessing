@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Dichanthelium sect. Strigosa Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants densely cespitose, with caudices. Basal rosettes poorly differentiated; blades scarcely separable from the crowded lower cauline blades. Culms 5-55 cm, slender, erect to spreading, lower internodes short, upper 3-5 internodes elongate; fall phase usually forming a dense cushion. Cauline leaves 2-4; ligules membranous, ciliate; blades soft, green to yellowish, margins usually ciliate. Primary panicles exserted at maturity. Spikelets 1.1-2.3 mm, broadly ellipsoid to obovoid, glabrous or pubescent. Upper florets subacute or minutely umbonate.</description>
+</bio:treatment>

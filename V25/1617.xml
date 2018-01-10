@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Schizachyrium littorale (Nash) E.P. Bicknell </name_authority_date>
+  </taxon_identification>
+  <common_names>SHORE BLUESTEM, DUNE BLUESTEM</common_names>
+  <description type="morphology">Plants cespitose, sometimes appearing rhizomatous, glaucous. Culms 39-160 cm, branching at the lower nodes, often rooting from nodes in contact with the soil; lower internodes usually shortened and compressed. Leaves glaucous; collars usually constricted, elongate; auricles flexible, yellow; ligules 1.5-2 mm; blades 10-30 cm long, 3.5-6.5 mm wide, without a longitudinal stripe of white, spongy tissue. Peduncles 0.5-5 mm; rames 3-9 cm, with 13-19 spikelets, arcuate at maturity; internodes 4-6 mm, densely villous, hairs 3-7.5 mm. Sessile spikelets 6-10 mm; calluses 0.2-0.5 mm, glabrous; lower glumes glabrous; awns 9-20 mm. Pedicels 5-7 mm, hairy distally, hairs 5-7 mm. Pedicellate spikelets 1.5-5 mm, often staminate, unawned or awned, awns to 3.5 mm. 2n = 40.</description>
+  <discussion>Schizachyrium littorale is restricted to shifting, coastal sand dunes of the Gulf, Atlantic, and Great Lakes coasts of the United States. It often appears rhizomatous because the lower nodes are frequently covered by sand.</discussion>
+</bio:treatment>

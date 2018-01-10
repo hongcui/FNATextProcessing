@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia sylvatica (Torn) Torr. ex A. Gray </name_authority_date>
+  </taxon_identification>
+  <common_names>WOODLAND MUHLY, MUHLENBERGIE DES BOIS</common_names>
+  <description type="morphology">Plants perennial; rhizomatous. Culms 40-110 cm tall, 1-2 mm thick, erect; internodes puberulent for most of their length, strigose below the nodes. Sheaths glabrous and smooth for most of their length, scabridulous distally, margins hyaline; ligules 1-2.5 mm, membranous, truncate, lacerate-ciliolate; blades 5-18 cm long, 3-7 mm wide, flat, scabrous to scabridulous, occasionally smooth. Panicles terminal and axillary, 6-21 cm long, 0.2-1 cm wide, narrow, not dense; axillary panicles usually exserted at maturity; branches 0.8-6 cm, ascending to closely appressed; pedicels 0.8-3.5 mm, strigose. Spikelets 2.2-3.7 mm. Glumes subequal, 1.8-3 mm, nearly as long as the lemmas, 1-veined, tapering from near the base, apices scabridulous, acuminate, unawned or awned, awns to 1 mm; lemmas 2.2-3.7 mm, lanceolate to narrowly lanceolate, hairy on the calluses, lower 1/2 of the midveins, and margins, hairs 0.2-0.5 mm, apices scabridulous, acuminate, awned, awns 5-18    mm, purplish; paleas 2-3.5 mm, lanceolate, proximal 1/2 shortly pilose, apices scabridulous, acuminate; anthers 0.4-0.8 mm, yellow. Caryopses 1.4-2 mm, fusiform, brown. 2n = 40.</description>
+  <discussion>Muhlenbergia sylvatica grows in upland forests, along creeks and hollows, on rocky ledges derived from sandstone, shale, or calcareous parent materials, moist prairies, and swamps, at elevations from 30-1500 m. It is restricted to the Flora region, its primary range being southeastern Canada and the midwestern and eastern United States. Reports from British Columbia were based on a misidentification (Douglas et al. 2002). The record from Arizona is based on the report in Kearney and Peebles (1951) of a collection made by Toumey at Grapevine Creek in the Grand Canyon.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Stephen J. Darbyshire</author>
+    </source>
+  </meta>
+  <number>20.04</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>KARROOCHLOA Conert & Türpe</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; cespitose, stoloniferous or rhizomatous. Culms 4-40 cm. Sheaths open; ligules of hairs; blades to 2 mm wide, flat, rolled, or involute. Inflorescences terminal, contracted panicles, 0.5-6 cm. Spikelets 4-8 mm, laterally compressed, with 3-7 florets; disarticulation above the glumes. Glumes 3.5-7 mm, subequal, equaling or exceeding the florets, 3-5(7)-veined; calluses with lateral tufts of hairs; lemmas pubescent and/or with fringes, rows, or tufts of hair, 9-veined, awned from between the 2 apical lobes or teeth, awns twisted and geniculate; paleas 2-veined; lodicules 2, pubescent; anthers 3; ovaries glabrous. Caryopses about 1 mm; hila short, x = 6. </description>
+  <references>Conert, H.J. and A.M. Tiirpe.  1969. Karroochloa, ein neue Gattung der Gramineen (Poaceae, Arundinoideae, Danthonieae). Senckenberg. Biol. 50:289-318.</references>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Elymus glaucus subsp. mackenziei (Bush) J.J.N. Campb. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Sheaths usually puberulent; blades 3-8 mm wide, densely short-pilose, with scattered longer hairs. Glume awns 3-8 mm; lemma awns 20-30 mm.</description>
+  <discussion>Elymus glaucus subsp. mackenziei grows on limestone clifftops, rocky ledges, and glades, in open woods and thickets. It is known only from Arkansas, Missouri, and Oklahoma, at scattered sites in the Ozark Mountains and at Rich Mountain in the Ouachita Mountains. This subspecies is remarkably disjunct, at least 500 miles from the nearest known E. glaucus to the west and north.</discussion>
+</bio:treatment>

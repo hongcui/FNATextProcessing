@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Glyceria pulchella (Nash) K. Schum. </name_authority_date>
+  </taxon_identification>
+  <common_names>BEAUTIFUL GLYCERIA, MACKENZIE VALLEY MANNAGRASS</common_names>
+  <description type="morphology">Plants perennial. Culms 40-60 cm tall, 1.5-5 mm thick, erect. Sheaths scabridulous, not or weakly keeled; ligules 1.5-4 mm; blades 9-29 cm long, 2-7.5 mm wide, scabrous. Panicles 15-25 cm long, 6-15(20) cm wide, open, pyramidal, nodding; branches 8-12 cm, ascending to divergent, flexuous, often smooth, with 30-40+ spikelets; pedicels 0.3-6 mm. Spikelets 3.5-6 mm long, 1.4-2.5 mm wide, about 2.5 times longer than wide, laterally compressed, oval in side view, with 3-6 florets. Glumes unequal, lengths about 3 times widths, narrowing beyond midlength, veins terminating below the apices, apices acute, forming an angle of about 45°; lower glumes 1.5-2 mm; upper glumes 2-2.6 mm, erose; rachilla internodes 0.4-0.6 mm; lemmas 2.5-3.5 mm, oval in dorsal view, 7-veined, veins raised, scabridulous, apices broadly acute to obtuse, prow-shaped; paleas from shorter than to equaling the lemmas, lengths 3-3.5 times widths, keels not winged, tips incurved, apices narrowly notched between the keels; anthers 2, 0.5-0.9 mm. Caryopses about 1 mm. 2n = unknown.</description>
+  <discussion>Glyceria pulchella grows in marshes, muskegs, ponds, and ditches, from central Alaska and the Northwest Territories to southern British Columbia and central Manitoba. In overall aspect, G. pulchella resembles G. striata and G. elata. It differs in having somewhat stiffer and straighter panicle branches, in addition to larger spikelets and florets.</discussion>
+</bio:treatment>

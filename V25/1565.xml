@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>26.13</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>ISCHAEMUM L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial. Culms 10-350 cm, often decumbent, sometimes branched above the base. Leaves not aromatic; sheaths open; ligules membranous, glabrous or ciliate, sides often higher than the middle. Inflorescences terminal, sometimes also axillary; inflorescence units with (l)2-many rames on a common peduncle; rames secund, ascending, members of a cluster sometimes so closely appressed as to appear as one; internodes stoutly linear to clavate. Spikelets in homogamous or heterogamous sessile-pedicellate or unequally pedicellate pairs; disarticulation in the rames, below both the sessile and pedicellate spikelets. Sessile spikelets dorsally compressed; glumes subequal; lower glumes 2-keeled, keels sometimes winged; upper glumes keeled, sometimes awned; lower florets staminate; upper florets bisexual, lemmas usually bifid and awned from the sinus. Pedicels fused to the rame axes, clavate or inflated, sometimes as wide as the spikelets. Pedicellate spikelets morphologically and sexually similar to the sessile spikelets or staminate and reduced, x = 9, 10. </description>
+  <discussion>Ischaemum includes approximately 65 species, all of which are native to tropical regions of the Eastern Hemisphere. None of the species is known to be established in North America. The genus is included in this treatment because two of its species are considered serious weed threats by the U.S. Department of Agriculture.</discussion>
+  <references>Ischaemum includes approximately 65 species, all of which are native to tropical regions of the Eastern Hemisphere. None of the species is known to be established in North America. The genus is included in this treatment because two of its species are considered serious weed threats by the U.S. Department of Agriculture.</references>
+  <key>
+    <key_body>
+1. Lower glumes of the sessile spikelets not winged, rugose, with 4-5 ridges; plants annuals or short-lived perennials .....1. I. rugosum
+1. Lower glumes of the sessile spikelets winged on the keels, not rugose; plants perennial.....2.I. indicum
+ 
+
+    </key_body>
+  </key>
+</bio:treatment>

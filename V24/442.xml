@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>17</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus churchii J.J.N. Campb. </name_authority_date>
+  </taxon_identification>
+  <common_names>CHURCH'S WILDRYE</common_names>
+  <description type="morphology">
+Plants cespitose, not rhizomatous, often somewhat glaucous. Culms 50-120 cm, erect; nodes 4-8, exposed or concealed, often reddish brown or blackish, glabrous. Leaves evenly distributed; sheaths usually glabrous, sometimes pubescent at the summit; auricles 1-2 mm, often reddish brown or blackish; ligules to 1 mm, often reddish brown; blades 3-11 mm wide, lax, adaxial surfaces glabrous or short-pilose. Spikes 10-18 cm long, 3-5 cm wide, slightly nodding, with 2 spikelets per node; internodes (5)7-13(18) mm long, about 0.2 mm thick at the thinnest sections, flexuous, with green lateral bands, glabrous except the dorsal angles hispid. Spikelets 10-15 mm, usually appressed, with 3(5) florets, lowest florets functional; disarticulation above the glumes, beneath each floret. Glumes often differing in length by more than 5 mm, sometimes vestigial to absent from the upper spikelets or throughout, 0-15(20) mm long including the undifferentiated awns, indurate at the base, 0.1-0.3 mm wide, setaceous to subulate, entire, 0-1-veined, glabrous, margins firm, awns often outcurving; lemmas 8-10 mm, usually hairy, occasionally glabrous, awns (10)20-30(35) mm, slightly to strongly outcurving at maturity; paleas 7-9 mm, obtuse to truncate, sometimes emarginate; anthers 2.5-3 mm, evident in June. 2n = unknown.
+</description>
+  <discussion>Elymus churchii grows in dry, rocky, often relatively base-rich soils, in open woods on ridges, and on bluffs and river banks. Its range includes the central Ouachita Mountains and the western Ozark Mountains in Arkansas, Oklahoma, and Missouri.
+Elymus churchii used to be included in E. interruptus (p. 306) (Steyermark 1963; Smith 1991). It is similar to the more eastern, disjunct E. svensonii (see previous), from which it differs in its more open spikes, longer awns, fewer florets per spikelet, and less pubescent, less glaucous foliage. Like E. svensonii, E. churchii may have originated from hybridization between E. canadensis (p. 303) and E. hystrix (p. 316); occasional intermediates with both species exist (Campbell 2002).
+</discussion>
+</bio:treatment>

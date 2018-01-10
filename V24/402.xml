@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>13.11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>xPSEUDELYMUS Barkworth & D.R. Dewey</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; sometimes rhizomatous. Culms 50-80 cm, erect, glabrous. Leaves not basally concentrated; sheaths glabrous or puberulent; auricles present; ligules truncate. Inflorescences distichous spikes, with 1(2) spikelet(s) per node. Spikelets appressed, with 3-5 florets. Glumes unequal, linear-lanceolate to lanceolate; lemmas awned or unawned; paleas slightly shorter than to slightly longer than the lemmas; anthers indehiscent.</description>
+  <discussion>xPseudelymus comprises hybrids between Pseudoroegneria and Elymus. Only one species is treated here. Another species, E. albicans, is thought to be a similar hybrid, but it is treated as a species because it is frequently fertile.</discussion>
+  <references>Dewey, D.R. 1964. Natural and synthetic hybrids of Agropyron spicatum x Sitanion hystrix. Bull. Torrey Bot. Club 91:396-405.</references>
+</bio:treatment>

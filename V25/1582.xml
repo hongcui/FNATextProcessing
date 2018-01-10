@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Andropogon floridanus Scribn. </name_authority_date>
+  </taxon_identification>
+  <common_names>FLORIDA BLUESTEM</common_names>
+  <description type="morphology">Plants cespitose, usually densely obpyramidal to oblanceolate above. Culms 70-210 cm; internodes occasionally somewhat glaucous just below the node; branches straight, mostly erect to ascending. Sheaths often scabrous, somteimes smooth; ligules 0.4-1.2 mm, ciliate, cilia 0.2-1.3 mm; blades 32-61 cm long, 2.9-5 mm wide, glabrous, rarely sparsely pubescent. Inflorescence units (9)50-210 per culm; subtending sheaths (3)4-5.9(7) cm long, (1.5)2-2.7(3.6) mm wide; peduncles (10)19-48(93) mm, with 2(4) rames; rames (2)2.5-3.7(4.5) cm, usually exserted at maturity, internodes evenly pubescent. Sessile spikelets (3.8)4.4-4.8(5.5) mm; callus hairs 1-3 mm; keels of lower glumes glabrous below midlength; awns 5-15 mm; anthers 1(3), 1.3-2 mm, usually yellow (sometimes purple). Pedicellate spikelets vestigial or absent. 2n = 20.</description>
+  <discussion>Andropogon floridanus grows on sandy soils in southeastern Georgia and Florida, being most abundant in Pinus clausa scrublands. It usually occurs in small stands, but stands of about a hundred individuals have been observed.</discussion>
+</bio:treatment>

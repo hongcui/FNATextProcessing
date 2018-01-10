@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Chasmanthium ornithorhynchum Nees </name_authority_date>
+  </taxon_identification>
+  <common_names>BIRDBILL CHASMANTHIUM</common_names>
+  <description type="morphology">Culms 35-40(90) cm, 0.8-1 mm thick at the nodes, rarely
+branched, leafy for 80% of their height. Sheaths glabrous; collars pilose; ligules 0.2-0.3 mm, irregularly laciniate; blades 7-9(15) cm long, 3.5-6 mm wide,	lanceolate-fusiform, glabrous adaxially. Panicles (2.5)5-10.5(12) cm, open, erect; branches divergent, sometimes strongly so; axils of panicle branches pilose; pedicels 0.5-1 mm. Spikelets 9.5-12 mm long, 11-17(18) mm wide, with (4)5-10 florets, lower 2-4 florets sterile, fertile florets divergent to 85°. Lower glumes 2.5-2.9 mm, 2-3-veined; upper glumes 2.6-3.6 mm, 3-5-veined; calluses glabrous; fertile lemmas 5.8-9.3 mm, straight, (9)11-13-veined, keels not winged, scabrous to scabridulous distally; paleas 7.2-9 mm; anthers 1.1-1.9 mm, the length invariant within a spikelet. Caryopses 2-3 mm, enclosed at maturity. 2n = 24.
+</description>
+  <discussion>Chasmanthium ornithorhynchum grows along stream and river banks in low woods, and on hummocks in swamps. It is most common along the coastal plain from eastern Louisiana to western Florida, but is also found at a few other locations in the south¬eastern United States.</discussion>
+</bio:treatment>

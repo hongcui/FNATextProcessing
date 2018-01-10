@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Tripsacum floridanum Porter ex Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>FLORIDA GAMAGRASS</common_names>
+  <description type="morphology">Plants with short, thick rhizomes. Culms to 1 m tall, to 2 mm thick, usually solitary or in small clumps. Sheaths glabrous; blades to 60 cm long, 1-7(15) mm wide, involute or folded, glabrous. Terminal inflorescences erect, with 1-2 rames. Pistillate spikelets 3.5-4.5 mm wide. Staminate spikelets sessile-pedicellate; spikelets 5-7 mm; glumes coriaceous, acute; pedicels to 2 mm long, to 0.5 mm wide, triangular in cross section. 2n = 36.</description>
+  <discussion>Tripsacum floridanum grows along roadsides and in pine woods, often in wet soils, of Florida and Cuba. It is grown as an ornamental, but it reseeds rather too readily under some conditions. Reports of T. flori¬danum from Texas are based on narrow-bladed speci¬mens of T. dactyloides.</discussion>
+</bio:treatment>

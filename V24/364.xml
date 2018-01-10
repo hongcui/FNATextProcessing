@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eremopyrum bonaepartis (Spreng.) Nevski </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms to 30 cm, smooth, mostly glabrous, puberulent below the spikes. Blades 3-5 mm wide, scabrous distally. Spikes 1.4-4.5 cm long, 1.3-2.8 cm wide, oblong, obtuse, or truncate; disarticulation at the rachis nodes. Spikelets 10-25 mm, with 3-5 florets. Glumes 4-19 mm, scabrous or hairy, 3-5-veined, 1-keeled, lateral veins obscure, bases straight; lemmas 6-24 mm, glabrous, scabrous, or hirsute, all alike in their pubescence, apices subacute to shortly awned; palea keels prolonged into 2 toothlike appendages. 2n = 14, 28. </description>
+  <discussion>In the Flora region, Eremopyrum bonaepartis is known only from a few collections in Arizona. Several infraspecific taxa have been recognized in Eurasia: subsp. bonaepartis has glabrous lemmas and glumes; specimens with pilose, hirsute, or fairly scabrous lemmas and glumes have been referred to as subsp. hirsutum (Bertol.) Melderis or subsp. sublanuginosum (Drobow) Á. Löve  ; and those with awned lemmas have been called subsp. turkestanicum (Gand.) Tzvelev. No attempt has been made to determine which are present in the Flora region.</discussion>
+</bio:treatment>

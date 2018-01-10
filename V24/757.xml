@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>25</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa chaixii Vill. </name_authority_date>
+  </taxon_identification>
+  <common_names>CHAIX'S BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; densely tufted, not stoloniferous, not rhizomatous. Basal branching extravaginal. Culms 50-120 cm, stout. Sheaths closed for 1/2 - 3/4 their length, distinctly compressed, keels winged, bases of basal sheaths glabrous; ligules 1-2 mm, smooth or sparsely scabrous, apices truncate; blades (4)6-15 mm wide, flat or folded, apices broadly and abruptly prow-shaped. Panicles 10-20 cm, ovoid to pyramidal, open, spikelets numerous, with 3-5 branches per node; branches ascending to spreading, angled, angles densely scabrous. Spikelets 4-9 mm, laterally compressed; florets 3-5; rachilla internodes about 1 mm, scabrous, glabrous. Glumes distinctly keeled, keels scabrous; lower glumes 1-3-veined; calluses glabrous; lemmas 3.5-4.5 mm, narrowly lanceolate, distinctly keeled, scabrous, glabrous throughout, lateral veins prominent, apices acute; palea keels scabrous, glabrous; anthers 1.5-3 mm. 2n = 14.</description>
+  <discussion>Poa chaixii was introduced from Europe as an attractive ornamental, and has occasionally escaped. A population in southwestern Quebec has been extirpated.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>26.05</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>POLYTRIAS Hack.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; stoloniferous. Culms 10-40 cm, often decumbent and rooting at the lower nodes. Leaves not aromatic; ligules membranous, ciliate or fimbriate. Inflorescences terminal, solitary rames, spikelets in homomorphic sessile-pedicellate triplets of 2 sessile spikelets and 1 pedicellate spikelet; internodes without a median translucent line; disarticulation in the rames below the sessile spikelets, sometimes also beneath the pedicellate spikelets. Spikelets dorsally compressed, with 1 floret; sessile spikelets bisexual; pedicellate spikelets bisexual, unisexual, or sterile. Glumes equal, oblong, truncate, membranous; lower glumes with the margins incurved over the upper glumes; upper glumes keeled; florets bisexual; lemmas hyaline, bifid almost to the base, awned from the cleft; awns twisted, geniculate; anthers 3. Pedicels not fused to the rame axes, x = 10. </description>
+  <discussion>Polytrias is a monotypic genus of the Asian tropics that has become naturalized in Africa and the Western Hemisphere. It is unusual within the Andropogoneae in having only one floret, rather than two, in its spikelets.</discussion>
+</bio:treatment>

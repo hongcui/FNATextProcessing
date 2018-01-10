@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis trichophora Coss. & Durieu </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, stoloniferous, forming inno-vations near the base. Culms 30-70 cm, erect, geniculate, or prostrate, often rooting at the lower nodes, glabrous, with a ring of glands below the nodes. Sheaths glabrous or with scattered papillose-based hairs over most of the surface, apices pilose, hairs 1-4 mm, a ring of oblong glands sometimes present below the collar; ligules 0.2-0.5 mm; blades 1.4-10 cm long, 2-3 mm wide, flat to involute, sparsely hairy with papillose-based hairs, abaxial surfaces often with glandular dots. Panicles 5-20 cm long, 2-7 cm wide, narrowly ovate, open; primary branches 2-7 cm, diverging 10-70° from the rachises, lowest branches whorled, naked proximally, bases with a glandular band; pulvini hairy; pedicels 0.3-3.3 mm, glandular. Spikelets 4-5.4 mm long, 1-1.5 mm wide, linear-lanceolate, plumbeous to greenish-gray, with 3-5 florets; disarticulation acropetal, paleas persistent. Glumes subequal, 1.4-1.8 mm, ovate-lanceolate, membranous; lemmas 1.5-1.8 mm, ovate, membranous, often hyaline, lateral veins inconspicuous, apices obtuse to acute; paleas 1.3-1.7 mm, hyaline, bases not projecting beyond the lemmas, apices obtuse; anthers 3, 0.7-1 mm, purplish. Caryopses 0.6-0.8 mm, ovoid, terete to dorsally compressed, shallowly grooved adaxially, translucent, mostly whitish to light brown, bases often greenish. 2n = unknown.</description>
+  <discussion>Eragrostis trichophora is native to Africa, where it often grows in moist, disturbed or overgrazed sites. It has been collected from disturbed sites at Canton, Maryland.</discussion>
+</bio:treatment>

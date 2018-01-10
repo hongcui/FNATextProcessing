@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Glyceria sect. Striatae G.L. Church</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial. Sheaths not or weakly compressed, midvein often conspicuous distally. Panicles 0.8-30 cm wide; branches usually ascending to strongly divergent or drooping, sometimes appressed. Spikelets oval in side view, lengths 1-4 times widths, laterally compressed. Lemmas with apices acute or obtuse to rounded, prow-shaped; paleas slightly shorter to slightly longer than the lemmas, keels well-developed, tips strongly incurved, apices narrowly notched between the keels; lodicules free; anthers 2. Caryopses usually obovoid, sometimes ovoid; hila punctate or linear.</description>
+  <discussion>Members of Glyceria sect. Striatae grow along streams, in swamps, and in shallow, fresh water. The section includes seven species, all of which are native to the Flora region.</discussion>
+</bio:treatment>

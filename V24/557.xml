@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Festuca sect. Texanae E.B. Alexeev</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants loosely cespitose, without rhizomes. Innovations extravaginal, without basal cataphylls. Blades lax, flat or convolute; ribs shallow, indistinct; sclerenchyma girders present at the major veins. Calluses wider than long, scabrous at the margins; lemmas chartaceous, unawned; ovary apices densely pubescent.</description>
+  <discussion>Three species have been placed in this section; one occurs in the Flora region, and the other
+two are Central American.
+</discussion>
+</bio:treatment>

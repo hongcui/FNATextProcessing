@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Panicum dichotomiflorum Michx. subsp. dichotomiflorum</name_authority_date>
+  </taxon_identification>
+  <common_names>PANIC D'AUTOMNE DRESSÉ, PANIC À FLEURES DICHOTOM</common_names>
+  <description type="morphology">Culms 5-200 cm. Sheaths glabrous or sparsely pilose, not hispid with papillose-based hairs. Pedicels usually less than 3 mm and shorter than the spikelets. Spikelets 2.3-3.8 mm, tapered from below the middle to the acuminate apices; upper glumes and lower lemmas subcoriaceous.</description>
+  <discussion>Panicum dichotomiflorum subsp. dichotomiflorum is the most common of the three subspecies and is found throughout the range of the species. In the past, members of this subspecies have been treated as two different taxa, var. geniculatum (Alph. Wood) Fernald and var. dichotomiflorum, with more erect, slender plants having fewer long-exserted panicles with slender, ascending branches and less crowded spikelets being placed in var. dichotomiflorum. Such plants are more common in the southern part of the subspecies' range, but the traits are poorly correlated and the differences are at least in part affected by photoperiod, nighttime temperatures, and the time of seed germination.</discussion>
+</bio:treatment>

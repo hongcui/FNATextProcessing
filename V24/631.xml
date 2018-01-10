@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Stephen J. Darbyshire</author>
+    </source>
+  </meta>
+  <number>14.02</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>LEUCOPOA Griseb.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; unisexual. Culms 30-120 cm. Sheaths closed only at the base; auricles absent; ligules membranous; blades with sclerenchyma girders extending from the abaxial to adaxial surfaces. Inflorescences open or contracted panicles, usually erect to strongly ascending, not spikelike; branches glabrous, smooth or somewhat scabrous, at least some branches longer than 1 cm; pedicels sometimes longer than 3 mm, thinner than 1 mm. Spikelets pedicellate, somewhat dimorphic in unisexual plants, laterally compressed, with (2)3-5(6) florets; disarticulation above the glumes and beneath the florets. Glumes subequal to unequal, shorter than the adjacent lemmas, more or less equally wide, glabrous, sometimes scabrous, mostly hyaline and thinner than the lemmas, membranous adjacent to the midvein, unawned; lower glumes 1-veined; upper glumes 1-3-veined; calluses glabrous; lemmas membranous to chartaceous, smooth or scabrous, sometimes hirsute, 5-veined, veins converging distally, usually extending almost to the apices, apices entire, acute, usually unawned, sometimes awned, awns to 2 mm; paleas about equaling the lemmas, scabrous on the veins, scarious or membranous distally, veins terminating at the apex; lodicules 2, membranous; anthers 3; ovaries with glabrous or pubescent apices. Caryopses shorter than the lemmas, concealed at maturity, fusiform, usually adhering at least to the paleas; hila linear, x = 7. </description>
+  <discussion>Leucopoa is a genus of about 10 species, most of which are Asian. One species is native to the Flora region. It is sometimes included in Festuca, but species of Leucopoa differ from those of Festuca in their dioecious habit, the hyaline glumes that are much thinner than the lemmas, and their differing ovary and caryopsis morphology. Phylogenetic studies indicate that Leucopoa is more closely related to Lolium and Schedonorus than to Festuca sensu stricto (Darbyshire and Warwick 1992; Soreng and Davis 2000; Catalan et al. 2004).</discussion>
+  <references>Catalan, P., P. Torrecilla, J.A. Lopez Rodriguez, and R.G. Olmsted. 2004. Phylogeny of the festucoid grasses of subtribe Loliinae and allies (Poeae, Pooideae) inferred from ITS and trnh-V sequences. Molec. Phylogenet. Evol. 31:517-541; Darbyshire, S.J. and S.I. Warwick. 1992. Phylogeny of North American Festuca (Poaceae) and related genera using chloroplast DNA restriction site variation. Canad. J. Bot. 70:2415-2429; Soreng, R.J. and J.I. Davis. 2000. Phylogenetic structure in Poaceae subfamily Pooideae as inferred from molecular and morphological characters: Misclassification versus reticulation. Pp. 61-74 in S.W.L. Jacobs and J. Everett (eds.). Grasses: Systematics and Evolution. CSIRO Publishing, Collingwood, Victoria, Australia. 408 pp.; Swallen, J.R. 1941. New species, names, and combinations of grasses. Proc. Bio. Soc. Wash. 54:43-46.</references>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>25</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Calamagrostis lapponica (Wahlenb.) Hartm.</name_authority_date>
+  </taxon_identification>
+  <common_names>LAPLAND REEDGRASS, CALAMAGROSTIDE DE LAPPONIE</common_names>
+  <description type="morphology">Plants rarely with sterile culms; loosely cespitose, with rhizomes 3-6+ cm long, 1-2 mm thick. Culms (12)35-50(90) cm, un-branched, smooth beneath the panicles; nodes 1-2(3). Sheaths and collars usually smooth, rarely with short hairs; ligules (0.5)2-4(5.5) mm, usually truncate, entire; blades (4)8-18(26) cm long, (1.5)2-3.5(4) mm wide, flat to involute, abaxial surfaces usually smooth, rarely slightly scabrous, adaxial surfaces usually smooth or scabrous, rarely sparsely hairy. Panicles (4)8-11(16) cm long, (0.7)1-2(2.8) cm wide, mostly erect, loosely contracted, purple; branches (2.1)2.5-3.5(5.4) cm, smooth or slightly scabrous, sometimes spikelet-bearing to the base, sometimes only on the distal 2/3. Spikelets (3.5)4-5(5.5) mm; rachilla prolongations 0.4-1 mm, hairs 1.8-3 mm. Glumes usually more than 3 times as long as wide, rounded to slightly keeled, usually purple for most of their length and smooth, keels rarely slightly scabrous, lateral veins obscure, apices acute to  acuminate;  callus hairs (2)3-3.5(4.7) mm, (0.6)0.8-1(1.2) times as long as the lemmas, abundant; lemmas (2.5)3-4(5) mm, 0.3-1.5 (2.3) mm shorter than the glumes; awns 1.5-3 mm, attached to the lower 1/10 – 2/5 of the lemmas, usually not exserted, usually slender and similar to the callus hairs, sometimes stouter, straight to somewhat bent; anthers (1.1)1.3-1.7(2) mm, usually poorly developed, sterile. 2n = 28, 42-112, 140.</description>
+  <discussion>Calamagrostis lapponica grows in northern and alpine tundra, particularly on ridgecrests and upper slopes, often with low shrubs including heathers, dwarf willows, and dwarf birch, usually on well-drained and coarse-textured (sand and gravel) soils, infrequently in meadows beside streams and lakeshores, very rarely in standing water, at 30-2300 m. It is circumboreal and circumpolar, ranging from Alaska to western Greeneland and Labrador, including the islands of the high arctic, south into the mountains of northern British Columbia and the west-central Rocky Mountains of Alberta. In Europe it extends south to about 60° N latitude, and in Asia south to North Korea.
+Calamagrostis lapponica is sometimes easily confused with C. stricta (see next), but the two grow in different habitats. In addition, the glumes of C. lapponica have a smoother, more glossy appearance than those of C. stricta and are typically purple for most of their length, including the apices; the glumes of C. stricta are generally brown at the apices. A specimen from Nakat Inlet, Alaska (ALA #V116195, J. DeLapp and M. Duffy 93-339) appears to be C. lapponica, although it is in a very different habitat and at an unusually low elevation for the species.
+</discussion>
+</bio:treatment>

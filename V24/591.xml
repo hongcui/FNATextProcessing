@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Festuca rubra subsp. secunda (J. Presl) Pavlick </name_authority_date>
+  </taxon_identification>
+  <common_names>SECUND RED FESCUE</common_names>
+  <description type="morphology">Plants rhizomatous, usually loosely cespitose, with several culms arising from the same tuft. Culms (20)30-70(80) cm. Sheaths glabrous or pubescent, sometimes glaucous, shredding into fibers, cauline sheaths usually wide, loosely enclosing the culms; vegetative shoot blades 0.7-1.5 mm in diameter, conduplicate, sometimes glaucous, abaxial surfaces more or less evenly scabrous, adaxial surfaces pilose on the ribs; cauline blades sometimes to 2.5 mm wide, sometimes flat; abaxial sclerenchyma in small strands; abaxial sclerenchyma rarely present. Inflorescences 7.5-12 cm, more or less open, usually secund, often partially included in the uppermost leaf sheaths at maturity; branches lax, scabrous. Spikelets 9.5-13 mm, green to violet, sometimes glaucous, with 4-7 florets. Lower glumes 3.1-4.5 mm; upper glumes (4.5)5-5.6 mm; lemmas 5.8-6.6 mm, attenuate in side view, mostly green, sometimes with violet borders, glabrous or more or less uniformly hairy, margins and apices scabrous, apices awned, awns 1-5 mm; anthers 2.8-3.9 mm. 2n = 42.</description>
+  <discussion>Festuca rubra subsp. secunda grows on pebble beaches and in soil pockets on rocks, meadows, cliffs, banks, and stabilized sand dunes along seashores with high annual rainfall, on the Pacific coast of North America from Alaska south to Oregon.</discussion>
+</bio:treatment>

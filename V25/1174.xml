@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Dichanthelium (Hitchc. & Chase) Gould sect. Dichanthelium</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose, with caudices or knotty crowns. Basal rosettes well-differentiated. Culms 18-100 cm, decumbent to erect, usually glabrous; nodes bearded or glabrous; fall phase often much branched and rebranched, with smaller blades and panicles than those of the culms. Cauline leaves 3-7; sheaths usually glabrous, lower sheaths sometimes pilose; ligules 0.2-0.8 mm, of hairs, or absent. Primary panicles exserted. Spikelets ellipsoid to obovoid, glabrous or pubescent. Upper florets acute to obtuse.</description>
+  <discussion>Gene exchange between the subspecies of Dichanthelium dichotomum, and between D. dichotomum and other species in the genus, appears to be rather common.</discussion>
+</bio:treatment>

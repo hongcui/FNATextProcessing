@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Festuca sect. Subulatae (Tzvelev)</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants loosely cespitose. Innovations extravaginal. Blades lax, flat or convolute; ribs shallow and indistinct; sclerenchyma forming pillars or girders at the major veins. Calluses sometimes wider than long, sometimes narrow, scabrous at the margins; lemmas chartaceous, entire, awned or unawned; ovary apices densely pubescent.</description>
+  <discussion>Festuca sect. Subulatae is the largest section in this subgenus and contains about 20-25 species. Its range includes eastern Asia, western North America, and Central and South America.</discussion>
+</bio:treatment>

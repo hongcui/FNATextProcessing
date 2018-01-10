@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>26.19</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>HYPARRHENIA Andersson ex E. Fourn.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; cespitose, often with short rhizomes. Culms 30-350(400) cm, usually erect, much branched above the bases. Leaves not aromatic; ligules membranous, not ciliate; blades usually flat or folded. Inflorescences false panicles with numerous inflorescence units; peduncles with 2 rames in digitate clusters; rames with naked, often deflexed bases, axes without a translucent median groove; disarticulation in the rames, beneath the bisexual spikelets. Spikelets in sessile-pedicellate pairs, basal 1-2 pairs on each rame homogamous, morphologically similar to the heterogamous pairs, staminate or sterile, unawned, not forming an involucre, tardily deciduous, remaining pairs heterogamous. Heterogamous spikelet units: sessile spikelets dorsally compressed or subterete; calluses blunt to sharp, strigose; glumes equal, pubescent; lower glumes coriaceous, rounded, without keels, truncate to slightly bilobed; upper glumes narrower, shallowly keeled; lower florets sterile, reduced; upper florets bisexual, awned from between the teeth of the bifid lemma; awns usually present, to 3.5(19) cm, pubescent on the lower portion. Caryopses oblong, subterete. Pedicels slender, not adnate to the rame axes. Pedicellate spikelets usually slightly longer than the sessile spikelets, staminate or sterile, usually unawned, lower glumes sometimes aristulate. x = 10, 15. </description>
+  <discussion>Hyparrhenia is a genus of approximately 55 mostly African species. Two have been introduced into the Flora region, but only one is known to be established. Clayton (1969) provides a detailed discussion of the structure of the inflorescence.</discussion>
+  <references>Clayton, W.D. 1969. A Revision of the Genus Hyparrhenia. Kew Bull., Addit. Ser. 2. Her Majesty's Stationery Office, London, England. 196 pp.</references>
+  <key>
+    <key_body>
+1. Spikelets with whitish to dark yellow hairs .....1. H. hirta
+1. Spikelets with reddish hairs .....2. H. rufa
+    </key_body>
+  </key>
+</bio:treatment>

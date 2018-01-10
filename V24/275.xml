@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Bromus catharticus var. elatus (E. Desv.) Planchuelo </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; loosely cespitose. Culms 50-110 cm, erect. Sheaths usually densely retrorsely pilose, sometimes densely villous generally or only on the throat: ligules 1-3.5 mm, glabrous, obtuse, lacerate to erose; blades 10-30 cm long, 3-5 mm wide, glabrous or hairy. Panicles 10-28 cm, lax, usually open; lower branches 2-3 per node, stiffly spreading to ascending, with 2-5 spikelets. Spikelets 20-40 mm, with 4-6(8) florets. Lower glumes 5-7(9)-veined; upper glumes 10-17 mm, 7-9-veined; lemmas 11-16 mm, scabrous, glabrous or pubescent, 9-11-veined; awns (5)6-10 mm; anthers 0.6-1 mm in cleistogamous florets, 3-5 mm in chasmogamous florets. 2n = 42.</description>
+  <discussion>Bromus catharticus var. elatus, a native of South America, now grows in disturbed soils in central California. It has also been reported from ballast dumps in Oregon. Although originally published as var. elata, the correct name is var. elatus.</discussion>
+</bio:treatment>

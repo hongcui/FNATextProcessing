@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bothriochloa longipaniculata (Gould) Allred & Gould </name_authority_date>
+  </taxon_identification>
+  <common_names>LONGSPIKE SILVER BLUESTEM</common_names>
+  <description type="morphology">Culms 60-150(200) cm tall, 2-4 mm thick, robust; nodes glabrous or shortly hirsute. Leaves cauline, evenly distributed, glabrous, dark green; ligules 2.5-3 mm; blades 12-20 cm long, (3)4-7 mm wide, flat to folded. Panicles 9-20 cm, narrowly lanceolate, silvery-white or light tan; rachises 7-15 cm, with numerous branches; branches 3-5 cm, shorter than the rachises, erect, without axillary pulvini, with multiple rames; rame internodes with a membranous groove wider than the margins, margins copiously hairy, hairs 3-8 mm, at least somewhat obscuring the spikelets. Sessile spikelets (3)3.5-4.5 mm, narrowly ovate to lance¬olate, shiny green, apices acute; lower glumes hirtellous on the lower 1/2, hairs shorter than 0.8 mm, lacking a dorsal pit; awns 9-14 mm; anthers 1-2 mm. Pedicellate spikelets 1.8-2.8 mm, sterile. 2n = 120.</description>
+  <discussion>Bothriochloa longipaniculata grows at 2-200 m, along roadsides and in fields, open woodlands, disturbed ground, and swales of the Gulf coastal prairie, often in heavy clay soil. Its range extends from southern Texas and Louisiana to northeastern Mexico and possibly Panama.</discussion>
+</bio:treatment>

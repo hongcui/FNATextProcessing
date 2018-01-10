@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa pratensis subsp. angustifolia (L.) Lej. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants moderately densely to densely tufted. Basal branching intra- and extravaginal, intravaginal shoots clustered. Culms 25-80 cm. Innovation shoot blades 10-45 cm long, 0.4-1 mm wide, all involute, sometimes narrower than the cauline blades, adaxial surfaces sparsely pubescent; cauline blades involute or folded, somewhat firm, adaxial surfaces sparsely pubescent. Panicles 8-18 cm, narrowly pyramidal or loosely contracted, branches ascending to spreading, smooth or sparsely to densely scabrous, with several to many spikelets per branch. Spikelets narrowly lanceolate, not bulbiferous; florets normal. Glume keels strongly compressed, sparsely to moderately scabrous; upper glumes shorter than to nearly equaling the lowest lemmas; lemmas 2.5-3.5 mm, finely muriculate, lateral veins glabrous; palea keels scabrous, glabrous, intercostal regions glabrous. 2n = 28, 46, 48-54, 56, 57, 59, 60, 61, 62, 63, 64, 65, 66, 68, 70, 72, 83.</description>
+  <discussion>Poa pratensis subsp. angustifolia is a western Eurasian subspecies that is known from scattered locations throughout the temperate North American distribution of the species. It is characterized by the predominance of fascicles of elongate, narrow, involute blades on the intravaginal vegetative shoots, and slender panicles with small spikelets. Recent research has shown that it is primarily a low polyploid.</discussion>
+</bio:treatment>

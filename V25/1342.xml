@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eriochloa lemmonii Vasey & Scribn.</name_authority_date>
+  </taxon_identification>
+  <common_names>CANYON CUPGRASS</common_names>
+  <description type="morphology">Plants annual; cespitose. Culms 20-80 cm, erect or decumbent, sometimes rooting at the lower nodes; internodes densely pubescent to pilose; nodes pubescent to pilose. Sheaths from conspicuously inflated to not inflated, glabrous or pubescent to pilose; ligules 0.5-1 mm; blades 5-15 cm long, 6-20 mm wide, lanceolate, flat, straight, diverging or ascending, velvety pubescent adaxially. Panicles 5-15 cm long, 0.5-4 cm wide, spreading or contracted; rachises hairy; branches (2)3-8(10), 1-4 cm long, 0.4-0.6 mm wide, appressed or reflexed and spreading, velvety pubescent, not winged, with 10-14 spikelets, spikelets in unequally pedicellate pairs at the middle of the branches, solitary distally; pedicels 0.5-1 mm, pilose, apices hairy or glabrous. Spikelets 3-4.5(4.9) mm long, 1.2-1.7 mm wide, elliptic. Upper glumes equaling the lower lemmas, nearly glabrous or sparsely to densely pilose, elliptic, 5-7-veined, acute, unawned; lower lemmas 2.7-4 mm long, 1.2-1.7 mm wide, elliptic, setose to pilose, 5-veined, acute, unawned; lower paleas 1-4 mm, hyaline; anthers absent or 3; upper lemmas 2.3-3.3 mm, elliptic, indurate, dull, rough, occasionally with a few long hairs, acute to rounded, sometimes mucronate; upper paleas indurate. 2n = 36.</description>
+  <discussion>Eriochloa lemmonii, a rare species, grows in canyons and on rocky slopes in Pima County, Arizona, Hidalgo County, New Mexico, and adjacent Mexico. The record from Tennessee reflects an introduction. It is not known if the species has persisted in the region.
+Eriochloa lemmonii may hybridize with E. acuminata, from which it differs in the frequent presence of lower paleas, raised veins of the upper glumes and lower lemmas, broad, velvety pubescent leaf blades, and blunt spikelets. Reports of E. lemmonii from Texas may be based on hybrids between the two species.</discussion>
+</bio:treatment>

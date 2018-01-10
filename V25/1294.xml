@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>30</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Panicum gymnocarpon Elliott </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; forming extensive colonies by their long, decumbent, sprawling basal branches and stolons. Culms 60-130 cm, thick, glabrous, rooting profusely at the lower nodes; nodes glabrous, often with a dark green band. Sheaths usually shorter than the internodes, glabrous, prominently veined; ligules 0.5-1.5 mm; blades 15-40 cm long, 7-25 mm wide, tapering from midlength, flat, both surfaces glabrous, bases subcordate, margins scabrous to smooth, widest at the base, apices acute. Panicles 10-40 cm long, 7-20 cm wide, open, with straight, rigid rachises; branches whorled, stiffly ascending, with short, appressed, higher order branches; ultimate branchlets 1-sided, with solitary spikelets or small clusters of spikelets; pedicels 0.1-1.5 mm. Spikelets 5.5-7 mm long, about 1 mm wide, narrowly lanceoloid, glabrous. Glumes spreading apart at maturity, keeled, prominently veined, scabrous along the midveins; lower glumes nearly as long as the lower lemmas; upper glumes and lower lemmas 3-veined, spreading, greatly exceeding the upper florets, lower lemmas longer than the upper glumes, arcuate; lower florets sterile; lower paleas thin; upper florets 1.9-2.2 mm, less than 1/3 as long as the spikelets, obovoid, lustrous, pale to brownish, acute, often short-stipitate. 2n = 40.</description>
+  <discussion>Panicum gymnocarpon grows in swamps, wet wood-lands, and the marshy shores of lakes and streams. It is also found occasionally in shallow water, often in the shade. It is restricted to the United States.</discussion>
+</bio:treatment>

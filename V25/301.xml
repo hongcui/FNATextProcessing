@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>55</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia reverchonii Vasey & Scribn. </name_authority_date>
+  </taxon_identification>
+  <common_names>SEEP MUHLY</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous, typical bunch-grasses in appearance. Culms 40-80 cm, stiffly erect from the base, not conspicuously branched; internodes glabrous, sometimes puberulent below the nodes. Sheaths shorter than the internodes, smooth or scabridulous, basal sheaths rounded, not becoming spirally coiled when old; ligules (2)4-7(9) mm, firmer near the base, obtuse, lacerate; blades 8-35 cm long, 1-2 mm wide, flat or involute, filiform, glabrous abaxially, densely hirtellous adaxially. Panicles 10-20(30) cm long, 4-15 cm wide, about as wide as long, loosely contracted to open but not diffuse; primary branches 1.4-10 cm, capillary, diverging up to 80° from the rachises, scabridulous, naked basally, lower branches with 5-15(20) spikelets; pedicels 3-25 mm, longer than the spikelets, capillary, stiff, or flexuous. Spikelets 3.5-5 mm, stramineous or brownish to purplish. Glumes subequal, 1-3 mm, shorter than the florets, hyaline, mostly sparsely hirtellous, apices glabrous, 1-veined (sometimes faintly so), acute, occasionally mucronate, mucros shorter than 0.7 mm; lemmas 3.5-5 mm, narrowly lanceolate, calluses hairy, hairs to 0.5 mm, lemma bodies glabrous and smooth, apices scabridulous, acuminate, awned, awns 0.5-4(6) mm, clearly demarcated from the lemma bodies; paleas 3.5-5 mm, narrowly lanceolate, mostly glabrous; anthers 1.1-2 mm, yellowish to purplish. Caryopses 2-2.4 mm, fusiform, brownish. 2n = 20.</description>
+  <discussion>Muhlenbergia reverchonii grows on calcareous rocky slopes, flats, and limestone rock outcrops, at elevations of 150-650 m. It is restricted to Oklahoma and Texas. Muhlenbergia reverchonii resembles M. capillaris and M. setifolia in many respects, but differs from the former in its smooth and shiny lemmas, and from the latter in its wider panicles, spreading panicle branches, acute glumes, and more shortly awned lemmas.</discussion>
+</bio:treatment>

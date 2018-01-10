@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Emmet J. Judziewicz</author>
+      <author>Gerald F. Guala</author>
+    </source>
+  </meta>
+  <number>1.01</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>PHARUS P. Browne</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial, some apparently monocarpic; rhizomatous, sometimes cespitose or stoloniferous; monoecious. Culms 10-130 cm, erect to decumbent; internodes solid, frequently with prominent prop roots at the lower nodes. Sheaths open, glabrous; ligules usually scarious, sometimes membranous and ciliate; pseudopetioles conspicuous, twisted 180° distally, inverting the blades; blades linear to ovate, usually broad, usually tessellate, lateral veins diverging obliquely from the midvein. Inflorescences terminal panicles, ovate, open; rachises terminating in a staminate spikelet or naked; branches with uncinate hairs, spikelets appressed. Spikelets unisexual, dimorphic, sexes paired or pistillate spikelets solitary, with 1 floret; rachillas not prolonged beyond the florets; disarticulation above the glumes and in the panicle branches. Staminate spikelets smaller than the pistillate spikelets, attached below the pistillate spikelets on appressed pedicels; lower glumes shorter than the upper glumes or absent; lemmas longer than the glumes, ovate, 3-veined; lodicules 3, minute; anthers 6. Pistillate spikelets larger than the staminate spikelets, subsessile, elongate; glumes subequal, lanceolate, (3)5-9(11)-veined, purple or green; lemmas cylindrical, longer than the glumes, indurate, involute, with uncinate hairs over at least a portion of the surface, 7-veined, margins inrolled, concealing the palea; lodicules absent; staminodes 6, minute; styles 1, 3-branched, stigmas hispid, x = 12.</description>
+  <discussion>Pharus includes eight species. It extends from central Florida through Mexico to Argentina and Uruguay, and grows in moist to wet lowland forests. One species, Pharus glaber, is native to the Flora region.
+The uncinate hairs and disarticulating panicle branches of Pharus promote dispersion by attaching to the coats of passing animals. The inverted, pseudopetiolate leaf blades and oblique venation make the genus easily distinguished, even in its vegetative state. Well-preserved female spikelets resembling those of Pharus mezii Prod, have been found in 30-45 million-year-old amber.
+</discussion>
+  <references>Clark, L.G. and E.J. Judziewicz. 1996. The grass subfamilies Anomochlooideae and Pharoideae (Poaceae). Taxon 45:641-645; Hitchcock, A.S. 1951. Manual of the Grasses of the United States, ed. 2, rev. A. Chase. U.S.D.A. Miscellaneous Publication No. 200. U.S. Government Printing Office, Washington, D.C., U.S.A. 1051pp.; Judziewicz, E.J. 1987. Taxonomy and morphology of the Tribe Phareae (Poaceae: Bambusoideae). Ph.D. dissertation, University of Wisconsin, Madison, Wisconsin, U.S.A. 557 pp.</references>
+</bio:treatment>

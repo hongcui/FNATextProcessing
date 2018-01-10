@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Paul M. Peterson</author>
+      <author>Stephan L. Hatch</author>
+      <author>Alan S. Weakley</author>
+    </source>
+  </meta>
+  <number>17.30</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>SPOROBOLUS R. Br.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; usually cespitose, sometimes rhizomatous, rarely stoloniferous. Culms 10-250 cm, usually erect, rarely prostrate, glabrous. Sheaths open, usually glabrous, often ciliate at the apices; ligules of hairs; blades flat, folded, involute, sometimes terete. Inflorescences terminal, open or contracted panicles, sometimes partially included in the upper¬most sheath. Spikelets rounded to laterally compressed, with l(-3) floret(s) per spikelet; disarticulation above the glumes. Glumes 0-1-veined; calluses poorly developed, usually glabrous; lemmas membranous or chartaceous, l(3)-veined, unawned; paleas glabrous, 2-veined, often splitting between the veins at maturity; anthers (2)3. Fruits utricles or achenes, ellipsoid, obovoid, fusiform, or quadrangular, pericarp free from the seed, becoming mucilaginous when moist in most species, remaining dry and partially adherent to the seed in 5. heterolepis and 5. clandestinus. Cleistogamous spikelets occasionally present in the lower leaf sheaths, x = 9.</description>
+  <discussion>Sporobolus is a cosmopolitan genus of more than 160 species that grow in tropical, sub¬tropical, and warm-temperate regions throughout the world. Seventy-three species are native to the Western Hemisphere; 27 are native to the Flora region, three are established introductions, and one was introduced but has not persisted. Two genera of the Western Hemisphere, Calamovilfa and Crypsis, resemble Sporobolus in having hairy ligules, spikelets with 1 floret, 1-veined lemmas, and fruits with a free pericarp (Peterson et al. 1997).</discussion>
+  <references>Baaijens, G.J. and J.F. Veldkamp. 1991. Sporobolus (Gramineae) in Malesia. Blumea 35:393-458; Lasgaard, S. and RM. Peterson. 2001. Flora of Ecuador 68 (ed. G. Harling & L. Andersson). 214(2). Gramineae (part 2): Subfam. Chloridoideae. Botanical Institute, University of Goteborg, Goteborg, Sweden and Section for Botany, Riksmuseum, Stockholm, Sweden. 131 pp.; McGregor, R.L. 1990. Seed dormancy and germination in the annual cleistogamous species of Sporobolus (Poaceae). Trans. Kansas Acad. Sci. 93:8-11; Peterson, P.M., R.D. Webster and J. Valdes-Reyna. 1997. Genera of New World Eragrostideae (Poaceae: Chloridoideae). Smithsonian Contr. Bot. 87:1-50; Riggins, R. 1977. A biosystematic study of the Sporobolus asper complex (Gramineae). Iowa State J. Res. 51:287-321; Simon, B.K. and S.W.L. Jacobs. 1999. Revision of the genus Sporobolus (Poaceae, Chloridoideae) in Australia. Austral. J. Bot. 12:375^148; Weakley, A.S. and P.M. Peterson. 1998. Taxonomy of the Sporobolus floridanus complex (Poaceae: Sporobolinae). Sida 18:247-270.</references>
+  <key>
+    <key_body>
+1. Plants annuals or short-lived perennials flowering in the first year.
+2. Lower panicle nodes with 7-15 branches; mature panicles pyramidal   .....2. S. pyramidatus
+2. Lower panicle nodes with 1-3 branches; mature panicles cylindrical to pyramidal.
+3. Spikelets 0.7-1.1 mm long; anthers 0.2-0.3 mm long.....1.S. tenuissimus
+3. Spikelets 1.6-6 mm long; anthers 0.3-3.2 mm long.
+4. Mature panicles 10-35 cm long, 4.5-30 cm wide, open; secondary branches spreading; pedicels usually 6-25 mm long, spreading .....19. S. texanus
+4. Mature panicles 1-5 cm long, 0.2-0.5 cm wide, contracted; secondary branches appressed; pedicels usually 0.1-4 mm long, appressed. 5. Lemmas strigose; spikelets 2.3-6 mm long; mature fruits (1.1)1.8-2.7 mm long .....3. S. vaginiflorus
+5. Lemmas glabrous; spikelets 1.6-3 mm long; mature fruits 1.2-1.8 mm long.....4. S. neglectus
+1. Plants perennial.
+6. Plants with rhizomes.
+7. Spikelets 1.4-3.2 mm long.
+8. Panicles 0.4-1.6 cm wide, spikelike, blades usually conspicuously distichous.....5. S. virginicus
+8. Panicles 2.4-8 cm wide, somewhat contracted to lax and open, blades not obviously distichous.....12. S. fimbriatus
+7. Spikelets 4-10 mm long.
+ 
+9. Panicles (0.6)1-8 cm wide, open to somewhat contracted, narrowly pyramidal, well-
+exerted from the uppermost sheath; branches without spikelets on the lower 1/3  .....25. S. interruptus
+9. Panicles 0.04-1.6 cm wide, narrow or spikelike, partially to wholly included in the uppermost sheath; branches spikelet-bearing to the base. 
+10. Fruits 1-2 mm long; pericarp gelatinous, slipping from the seed when wet; panicles 5-30 cm long, 0.4-1.6 cm wide; lemmas glabrous, smooth .....6. S. compositus
+10. Fruits (1.5)2.4-3.5 mm long; pericarp loose but neither gelatinous nor slipping from the seed when wet; panicles 5-11 cm long, 0.04-0.3 cm wide; lemmas minutely pubescent or scabridulous .....7. S. clandestinus
+6. Plants without rhizomes.
+11. Upper glumes usually less than 2/3 as long as the florets.
+12. Lower panicle branches much shorter than the adjacent internodes, appressed to strongly ascending .....10. S. creber
+12. Lower panicle branches usually as long as or longer than the adjacent internodes, appressed or ascending. 
+13. Spikelets 2-2.7 mm long; upper glumes usually 1/2 - 2/3 as long as the florets, acute to obtuse, entire .....8.5. indicus
+13. Spikelets 1.3-1.8(2) mm long; upper glumes usually less than 1/2 as long as the florets, rarely longer; truncate, erose to denticulate. 
+14. Anthers 0.9-1.1 mm long, usually 3, rarely 2; branches spikelet-bearing to the base ..... 9. S. jacquemontii
+14. Anthers 0.5-0.8 mm long, usually 2, rarely 3; branches without spikelets on the lower 1/4 .....11. S. diandrus
+11. Upper glumes at least 2/3 as long as the florets, often longer.
+15. Spikelets 1-2.5(2.8) mm long [for opposite lead, see p. 117].
+16. Lower sheaths keeled and flattened below.....13. S. buckleyi
+16. Lower sheaths rounded below. 
+17. Panicles 12-35 cm wide, open.
+18. Sheath apices with a conspicuous tuft of white hairs; flag blades nearly perpendicular to the culms .....17. S. cryptandrus
+18. Sheath apices glabrous or with a few scattered hairs; flag blades ascending.
+19. Secondary panicle branches spikelet-bearing to the base; pedicels mostly appressed, mostly 0.2-0.5 mm long; panicles 20-60 cm long ..... 15. S. wrightii
+19. Secondary panicle branches without spikelets on the lower 1/4 - 1/2; pedicels mostly spreading, mostly 0.5-25 mm long; panicles 10-45 cm long.
+20. Pedicels 0.5-2 mm long; anthers 1.1-1.8 mm long.....16. S. airoides
+20. Pedicels 6-25 mm long; anthers 0.3-1 mm long.....19. S. texanus
+17. Panicles 0.2-12(14) cm wide, contracted to open.
+21. Mature panicles 0.2-5 cm wide, contracted, often spikelike, the panicle branches appressed or diverging no more than 30° from the rachises. 
+22. Primary panicle branches without spikelets on the lower 1/8–1/2 of their length.
+23. Leaf blades 1-1.5 mm wide; ligules 0.2-0.4 mm long.....20. S. nealleyi
+23. Leaf blades 2-6 mm wide; ligules 0.3-1 mm long.
+24. Lower panicle nodes with 7-12(15) branches; anthers 0.2-0.4 mm long .....2. S. pyramidatus
+24. Lower panicle nodes with 1-3 branches; anthers 0.5-1
+mm long.....17. S. cryptandrus
+22. Primary panicle branches spikelet-bearing to the base.
+25. Lower glumes usually 1-veined; mature panicles 0.2-0.8(1) cm wide; lemmas 2-3.2 mm long, linear-lanceolate; upper glumes 2-3.2 mm long; anthers 3, 0.3-0.5 mm long; plants primarily from west of the Mississippi River   .....18. S. contractus
+ 
+25. Lower glumes usually without veins; mature panicles 1-5 cm wide; lemmas 1.1-2 mm long, ovate; upper glumes 1.1-2 mm long; anthers 2 or 3, 0.5-1 mm long; plants primarily from east of the Mississippi River .....14. S. domingensis
+21. Mature panicles 4.5-30 cm wide, open, pyramidal to subovate or oblong, the panicle branches diverging more than  10° from the rachises, sometimes reflexed. 
+26. Lower panicle nodes with 7-12(15) branches; anthers 0.2-0.4 mm long .....2. S. pyramidatus
+26. Lower panicle nodes with 1-2(3) branches; anthers 0.4-1 mm long. 
+27. Pedicels 6-25 mm long, spreading; panicles 4.5-30 cm wide, about as long as wide, diffuse   .....19. S. texanus
+27. Pedicels 0.1-3 mm long, appressed or spreading; panicles 0.3-14 cm wide, longer than wide, open and/or drooping.
+28. Culms 10-50(60) cm tall, 0.7-1.2 mm thick near the base; plants with hard, knotty bases; blades (0.6)1.5-6(7) cm long, 1-1.5 mm wide, involute, spreading at right angles to the culms .....20. S. nealleyi
+28. Culms 30-120 cm tall, 1-3.5 mm thick near the base; plant bases not hard and knotty; blades (2)5-26 cm long, 2-6 mm wide, flat to involute, ascending or at right angles to the culms.
+29. Pedicels appressed to the secondary branches; primary branches appressed, spreading, or reflexed; pulvini glabrous; rachises straight, erect; mature panicles narrowly pyramidal, lower branches longer than the middle branches .....17. S. cryptandrus
+29. Pedicels spreading from the secondary branches; primary branches reflexed; pulvini pubescent; rachises drooping or nodding; mature panicles subovate to oblong, lower branches no longer than those in the middle .....21. S. flexuosus
+15. Spikelets 2.5-10 mm long [for opposite lead, see p. 116]. 
+30. Lower panicle nodes with 3 or more branches.
+31. Mature panicles 2-6 cm wide, pyramidal; panicle branches diverging 20-100° from the rachises; blades 0.8-2 mm wide; fruits 1.4-1.8 mm long.....23. S. junceus
+31. Mature panicles 0.4-1.6 cm wide, narrow, contracted; panicle branches appressed or diverging to 20° from the rachises; blades 2-5 mm wide; fruits 1.8-2.3 mm long .....24. S. purpurascens
+30. Lower panicle nodes with 1-2(3) branches.
+32. Mature panicles 0.04-4 cm wide, spikelike; panicle branches appressed. 
+33. Spikelets 4-6(10) mm long, stramineous to purplish-tinged; panicles terminal and axillary; sheaths without a conspicuous apical tuft of hairs.
+34. Lemmas minutely pubescent or scabridulous, chartaceous and opaque; pericarps loose but neither gelatinous nor slipping off the seeds when wet; fruits (1.5)2.4-3.5 mm long.....7. S. clandestinus
+34. Lemmas usually glabrous and smooth, membranous to chartaceous and hyaline; pericarps gelatinous, slipping off the seeds when wet; fruits 1-2 mm long .....6. S. compositus
+33. Spikelets 1.7-3.5(4) mm long, whitish to plumbeous; panicles all terminal; sheaths with a conspicuous apical tuft of hairs.
+35. Culms 40-100(120) cm tall, 2-4(5) mm thick near the base; mature panicles 0.2-0.8(1) cm wide; anthers 0.3-0.5 mm long  .....18. S. contractus 
+35. Culms 100-200 cm tall, (3)4-10 mm thick near the base; mature panicles 1-4 cm wide; anthers 0.6-1 mm long .....22. S. giganteus 
+32. Mature panicles (0.6)1-30 cm wide, usually open, narrowly pyramidal to pyramidal or ovate; panicle branches appressed or spreading. 
+36. Spikelets 2.3-3 mm long; panicles 4.5-30 cm wide, diffuse, about as long as wide; branches capillary; anthers 0.3-1 mm long .....19. S. texanus
+36. Spikelets 3-7.2 mm long; panicles 0.6-15 cm wide, longer than wide, not diffuse; branches not capillary; anthers 1.5-5 mm long. 
+37. Mature spikelets plumbeous; sheath bases dull, fibrous.
+38. Anthers 3-4.2 mm long; ligules 0.2-0.7 mm long; plants from Arizona .....25. S. interruptus
+38. Anthers 1.7-3 mm long; ligules 0.1-0.3 mm long; plants not known from Arizona .....26. S. heterolepis
+37. Mature spikelets purplish-brown to purplish; sheath bases shiny, indurate.
+39. Blades 0.5-1.2 mm wide, subterete to terete in cross section, at least at the base, sometimes channeled for portions of their length, sometimes becoming tightly involute distally, senescing or turning tan in late fall, the margins smooth; pedicels with scattered ascending hairs .....27. S. teretifolus
+39. Blades 0.8-10 mm wide, flat or V-shaped in cross section, flat, folded, or involute when dry, remaining green well into winter or yellowing at maturity, the margins usually scabridulous, occasionally smooth; pedicels glabrous, sometimes scabridulous or scabrous.
+40. Lower glumes from 0.9 times as long as to longer than the upper glumes; culms 30-80(90) cm tall; panicles 10-25 cm long; pedicels 0.5-4(8) mm long, usually shorter than the spikelets, appressed .....28. S. curtissii
+40. Lower glumes from 0.6-0.9 (0.94) times as long as the upper glumes; culms (30)45-250 cm tall; panicles 15-50 cm long; pedicels 2-22 mm long, spreading or appressed. 
+41. Pedicels appressed; lemmas 4.4-6.5 mm long; anthers 3.5-5 mm long; spikelets purplish .....29. S. silveanus
+41. Pedicels spreading; lemmas 3-4.3 mm long; anthers 2-3.4 mm long; spikelets purplish-brown.
+42. Blades (2)3-10 mm wide,  pale bluish-green, yellowing at maturity; panicles  (18)30-50 cm long, 4-15 cm wide; lower glumes (0.6)0.75-0.94 times as long as the upper glumes .....30. S. floridanus
+42. Blades 1.2-2(3) mm wide, dark green, remaining green well into winter; panicles 15-30 cm long, 2-6 cm wide; lower glumes 0.6-0.83 times as long as the upper glumes .....31. S. pinetorum
+
+    </key_body>
+  </key>
+</bio:treatment>

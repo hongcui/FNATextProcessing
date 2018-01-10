@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>J.K. Wipff</author>
+    </source>
+  </meta>
+  <number>25.06</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>OPLISMENUS P. Beauv.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial. Culms 10-100 cm, weak, trailing on the ground, branching. Leaves cauline; ligules membranous and ciliate, or of hairs; blades lanceolate. Inflorescences terminal, panicles of unilateral branches, spikelets paired (but the first spikelet sometimes reduced), rachises and branches terminating in a spikelet; branches 0.1-7 cm, persistent; disarticulation below the glumes. Spikelets dorsally compressed, not sunken into the rachis, lacking subtending bristles, with 2 florets. Lower glumes awned; upper glumes not ciliate on the margins, unawned or with awns shorter than those of the lower glumes, awns of both glumes often becoming viscid; lower florets sterile or staminate; lower lemmas acute to shortly awned; lower paleas present or absent; upper florets bisexual; upper lemmas papery to leathery, glabrous, smooth, unawned, white or yellow at maturity; upper paleas similar to the upper lemmas, x = 9.</description>
+  <discussion>Oplismenus is a genus of five closely related species that grow in shady, mesic forests of tropical and subtropical regions. One species is native to the Flora region. The awns of most species become viscid at maturity, aiding in fruit dispersal (Davidse 1987).</discussion>
+  <references>Davey, J.C. and W.D. Clayton. 1977. Some multiple discriminant function studies on Oplismenus. Kew Bull. 33:147-157; Davidse, G. 1987. Fruit dispersal in Poaceae. Pp. 143-155 in T.R. Soderstrom, K.W. Hilu, C.S. Campbell, and M.E. Barkworth (eds.). Grass Systematics and Evolution. Smithsonian Institution Press, Washington, D.C., U.S.A. 473 pp.; Peterson, P.M., E.E. Terrell, C.A. Davis, H. Scholz, and R.J. Soreng. 1999. Oplismenus hirtellus subspecies undulatifolius, a new record for North America. Castanea 64:201-202; Scholz, U. 1981. Monographic der Gattung Oplismenus (Gramineae). Phanerog. Monog. Tomus XIII. J. Cramer, Vaduz, Germany. 217 pp.</references>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Bouteloua curtipendula var. caespitosa Gould & Kapadia</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose, often with a knotty base, not or shortly rhizomatous. Culms in large or small clumps, stiffly erect. Blades usually narrow, but at least some over 2.5 mm wide. Panicles with 12-80 branches, averaging 2-7 spikelets per branch. Glumes and lemmas bronze or stramineous to green, or various shades of purple; anthers usually yellow or orange, occasionally red or purple. 2n = 58-103.</description>
+  <discussion>Bouteloua curtipendula var. caespitosa grows on loose, sandy or rocky, well drained limestone soils at 200-2500 m in the southwestern United States, Mexico, and South America. It frequently grows, and may hybridize, with B. warnockii.</discussion>
+</bio:treatment>

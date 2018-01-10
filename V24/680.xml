@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>18</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Puccinellia howellii J.I. Davis </name_authority_date>
+  </taxon_identification>
+  <common_names>HOWELL'S ALKALI GRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, not mat-forming. Culms 7-40 cm, erect to ascending. Ligules 1.5-2.7 mm, obtuse, entire or minutely and irregularly serrate; blades involute, 1.4-2.2 mm wide when flattened. Panicles 2-13 cm, compact to diffuse at maturity, lower branches erect to descending, spikelet-bearing from near the base or confined to the distal 1/2; pedicels smooth or with a few scattered scabrules, sometimes with tumid epidermal cells. Spikelets 3-8 mm, with (1)2-5 florets. Glumes rounded or weakly keeled over the back, veins obscure, apices acute to obtuse; lower glumes 0.8-1.9 mm; upper glumes 1.7-2.5 mm; calluses with a few hairs; lemmas 2.4-3.3 mm, herbaceous, glabrous or with a few hairs near the base, principally along the veins, backs rounded or weakly keeled distally, 5-veined, veins obscure, not extending to the margins, apical margins uniformly and densely scabrous, apices acute to obtuse, entire; palea veins smooth and glabrous proximally, smooth or scabrous distally; anthers 1.5-2 mm. 2n = unknown.</description>
+  <discussion>Puccinellia howellii is known only from the type locality in Shasta County, California, where it is a dominant element of the vegetation associated with a group of three mineralized seeps. Isozyme profiles suggest that it is a polyploid.</discussion>
+</bio:treatment>

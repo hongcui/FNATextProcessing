@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Achnatherum nelsonii (Scribn.) Barkworth subsp. nelsonii </name_authority_date>
+  </taxon_identification>
+  <common_names>NELSON'S NEEDLEGRASS</common_names>
+  <description type="morphology">Calluses sharp, acute to acuminate, glabrous tips 0.05-0.15 mm, dorsal boundary of the glabrous tip and the callus hairs acute; awns 19-45 mm.</description>
+  <discussion>Achnatherum nelsonii subsp. nelsonii intergrades with subsp. dorei in Montana and Wyoming, and with A. occidentale subsp. pubescens in California. Its range extends from Idaho and Montana south to Nevada. It tends to grow at lower elevations than subsp. dorei.</discussion>
+</bio:treatment>

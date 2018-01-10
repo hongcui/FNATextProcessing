@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Arundinaria tecta (Walter) Muhl. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Rhizomes normally horizontal for only a short distance before turning up to form a culm, hollow-centered, air canals present. Culms usually shorter than 2.5 m tall, to 2 cm thick; internodes terete in the vegetative parts. Culm leaves persistent to tardily deciduous; sheaths 11-18 cm; fimbriae 1.5-8.5 mm; blades 2.5-4 cm. Topknots of 9-12 leaves; blades 20-30 cm long, 1.8-3.2 cm wide, lanceolate to ovate-lanceolate.
+Primary branches usually 50+ cm, basally erect and distally arcuate, terete, with 3-4 compressed basal internodes, basal nodes developing secondary branches, lower elongated internodes terete in cross section. Foliage leaves: abaxial ligules fimbriate to lacerate, sometimes ciliate; blades 7-23 cm long, 1-2 cm wide, coriaceous, persistent, evergreen, bases rounded, abaxial surfaces densely pubescent or glabrous, strongly cross veined, adaxial surfaces pubescent. Spikelets 3-5 cm, with 6-12 florets, the first occasionally sterile. Glumes unequal, glabrous or pubescent; lowest glume obtuse to acuminate or absent; lemmas 1.2-2 cm, glabrous or nearly so. Caryopses oblong, beaked, a rudimentary hooked style branch present below the beak. 2n = unknown.</description>
+  <discussion>Arundinaria tecta grows in swampy woods, moist pine barrens, live oak woods, and along the sandy margins of streams, preferring moister sites than A. gigantea. It grows only on the coastal plain of the southeastern United States.</discussion>
+</bio:treatment>

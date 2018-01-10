@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Podagrostis humilis (Vasey) Bjorkman </name_authority_date>
+  </taxon_identification>
+  <common_names>ALPINE BENT</common_names>
+  <description type="morphology">Plants sometimes rhizomatous. Culms 5-50 cm, erect to ascending, bases sometimes somewhat decumbent; nodes 2-4(7). Sheaths smooth; ligules (0.2)0.5-2(2.7) mm, scabridulous, truncate to obtuse, usually erose to lacerate, sometimes entire; blades 2-15 cm long, 1-4 mm wide, flat or involute; flag blades at about midculm. Panicles 1.5-14 cm long, 0.4-2.5 cm wide, narrowly oblong to ovate, somewhat lax, sometimes drooping, lowest nodes with 1-4(5) branches; branches scabridulous or smooth, loosely ascending to erect, branching in the distal 1/3 – 3/4; lower branches 0.5-7 cm; pedicels 0.4-4 mm. Spikelets ovate to lanceolate, green to purple; rachilla prolongations 0.1-0.6 mm, glabrous or bristlelike, with a tuft of short hairs at the apex. Glumes 1.6-2.3 mm, 1-veined, veins smooth or slightly scabrous distally, apices acute; lower glumes equal to or longer than the upper glumes; calluses glabrous or with sparse hairs to 0.5 mm; lemmas 1.5-2.3 mm, relatively thick, smooth, opaque, 5-veined, veins obscure or prominent at the apices, apices truncate to rounded or acute, entire or erose, veins occasionally minutely excurrent to 0.4 mm, usually unawned, rarely awned, awns to about 1.3 mm, usually subapical, sometimes attached near midlength; paleas 0.9-1.6 mm; anthers 3, 0.4-0.8 mm. Caryopses 1-1.3 mm. 2n = 14.</description>
+  <discussion>Podagrostis humilis is a western North American species that grows in undisturbed alpine and subalpine meadows and screes at over 3500 m, down to meadows, fens, and open woodlands at less than 200 m.
+As treated here, Podagrostis humilis includes P. thurberiana (Hitchc.) Hulten, a species that supposedly differs in having larger, more open panicles and wider leaves; there is complete intergradation between the two extremes. There is similar but less severe intergradation with P. aequivalvis. In the field, dwarf forms of P. humilis mimic Agrostis variabilis; they differ from that species in having paleas.
+ 
+</discussion>
+</bio:treatment>

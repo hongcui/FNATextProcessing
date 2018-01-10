@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Anthenantia rufa (Elliott) Schult. </name_authority_date>
+  </taxon_identification>
+  <common_names>PURPLE SILKYSCALE</common_names>
+  <description type="morphology">Culms 60-120 cm, from knotty rhizomes. Leaves 30-60 cm, junction of the sheath and blade inconspicuous abaxially; blades 2-5 mm wide, in line with the sheaths, margins scabrous, otherwise glabrous or the adaxial surfaces inconspicuously pubescent to hirsute. Panicles 8-16 cm long, 2-3(5) cm wide; branches spreading to erect. Spikelets 3-4 mm long, 1.3-1.8 mm wide. Upper glumes and lower lemmas pubescent, hairs 0.6-1.5 mm, eventually spreading, usually purple-tinged; anthers 1-1.5 mm. Caryopses 1.2-1.4 mm. 2n = 20.</description>
+  <discussion>Anthenantia rufa grows in wet pine flatwoods and savannahs, sphagnous streamhead ecotones, and pitcher plant bogs on the southeastern coastal plain from eastern Texas to North Carolina.</discussion>
+</bio:treatment>

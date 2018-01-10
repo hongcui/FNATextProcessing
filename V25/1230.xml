@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Panicum capillare L. subsp. capillare</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms medium to robust, ascending to erect, rarely delicate or spreading, usually green or red-purple, rarely bluish-green, often branching at the base. Panicle branches spreading; secondary branches and pedicels strongly divergent. Spikelets 1.9-4 mm. Lower paleas absent; mature upper florets about 1/2 as wide as long, stramineous or tan, sometimes blackish, without a lunate scar at the base.</description>
+  <discussion>Panicum capillare subsp. capillare is the common subspecies, growing in weedy and dry habitats throughout the range of the species. Plants in the western United States and Canada have spikelets over 2.6 mm long more often than those in the east. Robust plants germinating early in the season and growing on better soils tend to spread more, and have wider, shorter blades and more exserted panicles than plants in the eastern United States and Canada growing under comparable conditions. They are sometimes included in P. capillare var. occidentale Rydb., but these traits are not well correlated, and several environmental factors apparently affect their expression. Plants in the eastern part of the range with a well-exserted main panicle at anthesis usually arise from seeds germinating relatively late in the season.</discussion>
+</bio:treatment>

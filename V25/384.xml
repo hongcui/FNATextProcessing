@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Spartina alterniflora Loisel. </name_authority_date>
+  </taxon_identification>
+  <common_names>SMOOTH CORDGRASS, SPARTINE ALTERNIFLORE</common_names>
+  <description type="morphology">Plants rhizomatous; rhizomes elongate, flaccid, white, scales inflated, not or only slightly imbricate. Culms to 250 cm tall, (0.3)5-15(20) mm thick, erect, solitary or in small clumps, succulent, glabrous, having an unpleasant, sulphurous odor when fresh. Sheaths mostly glabrous, throat glabrous or minutely pilose, lower sheaths often wrinkled; ligules 1-2 mm; blades to 60 cm long, 3-25 mm wide, lower blades shorter than those above, usually flat basally, becoming involute distally, abaxial surfaces glabrous, adaxial surfaces glabrous or sparsely pilose, margins usually smooth, sometimes slightly scabrous, apices attenuate. Panicles 10-40 cm, with 3-25 branches, often partially enclosed in the uppermost sheath; branches 5-15 cm, loosely appressed, not twisted, more or less equally subremote to moderately imbricate throughout the panicle, axes often prolonged beyond the distal spikelets, with 10-30 spikelets. Spikelets 8-14 mm, straight, usually divergent, more or less equally imbricate on all the branches. Glumes straight, sides usually glabrous, sometimes pilose near the base or appressed pubescent, hairs to 0.3 mm; lower glumes 4-10 mm, acute; upper glumes 8-14 mm, keels glabrous, lateral veins not present, apices acuminate to obtuse, occasionally apiculate; lemmas glabrous or sparsely pilose, apices usually acuminate; paleas slightly exceeding the lemmas, thin, papery, apices obtuse or rounded; anthers 3-6 mm. 2n = 56, 70.</description>
+  <discussion>Spartina alterniflora is found on muddy banks, usually of the intertidal zone, in eastern North and South America, but it is not known from Central America. In addition, it has become established on the west coast of North America, and in England and southeastern France. It hybridizes with S. maritima in Europe, with S. pectinata in Massachusetts, and with S. foliosa in California.
+The rhizomes and scales of S. alterniflora have large air spaces, presumably an adaptation to the anaerobic soils of its usual habitat. Decaploid plants tend to be larger than octoploids, but they cannot be reliably distinguished without a chromosome count.
+Spartina alterniflora is considered a serious threat to coastal ecosystems in Washington and California. It out-competes many of the native species in these habitats and frequently invades mud flats and channels, converting them to marshlands. Pure S. alterniflora grows within the lower elevational marsh zones in its native range but, in San Francisco Bay, its hybrids with S. foliosa grow both below and above the range of that species.</discussion>
+</bio:treatment>

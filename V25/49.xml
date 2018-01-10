@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Tridens strictus (Nutt.) Nash </name_authority_date>
+  </taxon_identification>
+  <common_names>LONGSPIKE TRIDENS</common_names>
+  <description type="morphology">Plants with hard, knotty, shortly rhizomatous bases. Culms 50-170 cm, stiffly erect. Sheaths rounded, glabrous except for a few hairs on either side of the collar; ligules about 0.5 mm, membranous, ciliate; blades 2-8 mm wide, flat or loosely infolded, glabrous, tapering to the apices. Panicles 10-30(36) cm long, 1-2 cm wide; branches to 6 cm, erect or appressed; pedicels 1-1.5 mm, glabrous. Spikelets 4-7 mm, with 5-11 florets. Glumes 4-7 mm, always conspicuously exceed¬ing and often twice as long as the adjacent lemmas, usually equaling or exceeding the distal florets, glabrous, 1-veined, tapering to acuminate apices; calluses pilose; lemmas (2)3-3.5 mm, veins pilose to well above midlength, lateral veins often excurrent; paleas 2-3 mm, bases not bowed-out; anthers 1-1.5 mm. Caryopses 1-1.5 mm. 2n = 40.</description>
+  <discussion>Tridens strictus grows in open woods, old fields, right of ways, and coastal grasslands. It is endemic to the United States.</discussion>
+</bio:treatment>

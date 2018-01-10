@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Thinopyrum intermedium (Host) Barkworth & D.R. Dewey </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants rhizomatous, often glaucous. Culms 50-115 cm, glabrous or hairy, sometimes hairy only on the nodes; lowest inter-node plus sheath 3-5 mm thick. Sheaths mostly glabrous, often ciliate on the margins; auricles 0.5-1.8 mm; ligules 0.1-0.8 mm; blades 2-8 mm wide, flat, abaxial surfaces glabrous, adaxial surfaces usually sparsely strigose, sometimes with hairs of mixed lengths, with 7-30 ribs, ribs not prominent, margins whitish, thicker than the veins. Spikes 8-21 cm, erect or lax; internodes 7-12 mm; rachises glabrous or with hairs, scabrous on the edges, particularly distally, not disarticulating at maturity. Spikelets 11-18 mm, with 3-10 florets; disarticulation beneath the florets. Glumes oblong, glabrous and mostly smooth, or strigose with 1-1.5 mm hairs, hairs usually evenly distributed, weakly keeled distally, keels scabrous, at least distally, midvein usually more prominent and longer than the lateral veins, margins not hyaline or hyaline near the apices, apices obliquely truncate or obtuse to acute, sometimes mucronate; lower glumes 4.5-7.5 mm long, 1.5-2.5 mm wide, 5-6-veined; upper glumes 5.5-8.5 mm long, 2-3 mm wide, 5-7-veined; lemmas 7.5-10 mm, glabrous or with 1-1.5 mm hairs, hairs usually evenly distributed, sometimes only on the outer portion of the lemmas, apices occasionally awned, awns to 5 mm; paleas 7-9.5 mm, keels usually scabrous for 1/2 their length; anthers 5-7 mm. 2n = 42, 43.</description>
+  <discussion>Thinopyrum intermedium is native to Europe and western Asia. It is widely established in western North America, having been introduced for erosion control, revegetation, forage, and hay. It also occurs in scattered locations further east. One of its advantages for erosion</discussion>
+</bio:treatment>

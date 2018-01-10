@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus glaucus subsp. virescens (Piper) Gould </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Sheaths glabrous or scabrous; blades 2-10 mm wide, smooth or scabridulous to pubescent. Glume awns 0-2 mm; lemma awns (0)1-5(7) mm.</description>
+  <discussion>Elymus glaucus subsp. virescens generally grows in relatively dry or rocky soils along cliffs, bluffs, slopes, shores, and river banks, and in coniferous forests, chaparral, and other woodlands along the coast from Alaska to central California, at elevations from sea level to 1200 m.</discussion>
+</bio:treatment>

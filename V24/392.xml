@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Triticum polonicum L. </name_authority_date>
+  </taxon_identification>
+  <common_names>POLISH WHEAT</common_names>
+  <description type="morphology">Culms 100-160 cm; nodes glabrous; internodes mostly hollow, solid for 1 cm below the spikes. Blades to 20 mm wide, glabrous or pubescent. Spikes 7-16 cm, wider than thick or about as wide as thick; rachises enlarged at the base of the glumes, sparsely hairy at the nodes and margins, not disarticulating. Spikelets 25^10 mm, with 4-5 florets, 2-3 seed-forming. Glumes 20-40 mm, often concealing the florets, lanceolate, chartaceous, loosely appressed to the lower florets, with 1 prominent keel, apices acute, terminating in a tooth; lemmas to 30 mm, chartaceous, toothed or awned, awns on the lower 2 lemmas to 15 cm; paleas not splitting at maturity. Endosperm flinty. Haplomes AuB. 2n = 28.</description>
+  <discussion>Triticum polonicum is a minor, durum-like, spring wheat species. It is grown in the Mediterranean basin and central Asia on a small scale. In the Flora region, it is grown principally for plant breeding. It differs from other domesticated wheats in its unusually long, chartaceous glumes and lemmas. The epithet "polo¬nicum" reflects an early European botanical bias; the species did not originate in Poland.</discussion>
+</bio:treatment>

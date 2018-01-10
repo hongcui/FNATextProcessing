@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>31</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca edlundiae S. Aiken, Consaul & Lefk. </name_authority_date>
+  </taxon_identification>
+  <common_names>EDLUND'S FESCUE</common_names>
+  <description type="morphology">Plants densely cespitose, without rhizomes. Culms 2.5-10 (14) cm, up to twice as tall as the vegetative shoot leaves, usually geniculate to prostrate, erect at anthesis, glabrous, smooth. Sheaths closed for about 1/2 their length, smooth or slightly scabrous, persistent; collars glabrous; ligules 0.1-0.5 mm; blades (0.5)0.8-1.1 mm in diameter, conduplicate, usually straight, veins 5-7, ribs 3-5, abaxial surfaces smooth or sparsely scabrous, adaxial surfaces scabrous; abaxial sclerenchyma in 5-7(9) narrow strands, usually less than twice as wide as high; adaxial sclerenchyma absent. Flag leaf sheaths somewhat inflated; flag leaf blades (0.3)0.5-2 cm. Inflorescences 1.5-3.5 cm, often racemes, with 1-2 branches per node; branches erect, lower branches with 1-2(3+) spikelets. Spikelets 4.5-8.5 mm, with (2)3-6 florets. Glumes exceeded by the upper florets, ovate to ovate-lanceolate, mostly glabrous and smooth, sometimes scabrous distally; lower glumes 1.8-3.5 mm; upper glumes 2.9—4.3 mm; lemmas 3.6-5.2 mm, scabrous distally, apices entire, awns 1.1-2.9 mm, usually terminal, sometimes slightly subterminal; paleas about as long as or slightly longer than the lemmas, intercostal region scabrous distally; anthers 0.6-1.1 mm; ovary apices glabrous. 2n = 28.</description>
+  <discussion>Festuca edlundiae is a high arctic species that is closely related to F. brachyphylla (p. 428). It grows primarily on fine-grained and calcareous substrates in arctic regions of the Russian Far East, Alaska, the arctic islands of Canada, northern Greenland, and Svalbard. It resembles F. hyperborea (see previous), differing from it in having flag leaf blades that are usually at least 5 mm long and larger spikelets. Festuca edlunieae has frequently been included in F. ovina (p. 422).</discussion>
+</bio:treatment>

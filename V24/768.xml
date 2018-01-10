@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>34</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa sierrae J.T. Howell </name_authority_date>
+  </taxon_identification>
+  <common_names>SIERRA BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; loosely tufted or with solitary shoots, short-rhizomatous. Basal branching extravaginal, initiated as pinkish to purplish fleshy buds that persist as sets of short scales at the nodes of rhizomes and the proximal culm nodes, drying brownish and flabelliform after the shoots develop. Culms 20-60 cm, slender, erect or the bases decumbent, terete or weakly compressed; nodes terete, 1-2 exserted. Sheaths closed from 9/10 their length to their entire length, terete, smooth or sparsely scabrous, glabrous, bases of basal sheaths glabrous, distal sheath lengths 0.18-0.8 times blade lengths; collars smooth, glabrous; ligules 3-6 mm, scabrous, acute to acuminate; innovation blades similar to the cauline blades; cauline blades gradually reduced in length distally, 1.5-2.5 mm wide, flat, thin, soft, smooth or sparsely scabrous, primarily over the veins, apices narrowly to broadly prow-shaped, flag leaf blades 8-12 cm. Panicles 4-15 cm, erect, ovoid, sparse, with fewer than 15(20) spikelets; nodes with 1-2 branches; branches 1-4.5 cm, spreading to reflexed, slender, terete, sparsely to moderately scabrous, with 1-3 spikelets. Spikelets 5-9 mm, lengths to 3.5 times widths, laterally compressed, not sexually dimorphic; florets 2-6; rachilla internodes smooth, sparsely hairy, hairs to 0.3 mm. Glumes 1/3 – 3/4(4/5) as long as the adjacent lemmas, keels sparsely scabrous; lower glumes 3-veined; calluses glabrous or webbed, hairs at least 1-2 mm; lemmas 4-7 mm, lanceolate, distinctly keeled, keels and marginal veins glabrous or short-villous, lateral veins obscure, glabrous, finely scabrous, intercostal regions glabrous or sparsely softly puberulent, margins glabrous, apices acute; palea keels scabrous, sometimes softly puberulent at midlength; anthers vestigial (0.1-0.2 mm) or 2-4 mm. 2n = ca. 58.</description>
+  <discussion>Poa sierrae, a distinctive dioecious species, is a narrow endemic of mid-elevation canyon slopes on the west side of the Sierra Nevada, California. It can be distinguished from all other Poa species by the scaly, pink to purplish buds on the rhizomes, and by the entirely or almost entirely closed upper culm sheaths that are shorter than their blades.</discussion>
+</bio:treatment>

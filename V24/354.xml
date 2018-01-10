@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Hordeum marinum Huds. subsp. marinum </name_authority_date>
+  </taxon_identification>
+  <common_names>SEA BARLEY</common_names>
+  <description type="morphology">Plants summer or winter annuals. Leaves 1.5-8 mm wide, usually flat. Lateral spikelets: lower glumes winged on the side towards the central spikelets, wings 0.5-2.3 mm wide. 2n = 14.</description>
+  <discussion>Hordeum marinum subsp. marinum is native to Eurasia, where it grows in disturbed habitats. Although it has been reported occasionally from the Flora region, it has not become established.</discussion>
+</bio:treatment>

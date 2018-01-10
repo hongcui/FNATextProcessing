@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Swallenia alexandrae (Swallen) Soderstr. & H.E Decker </name_authority_date>
+  </taxon_identification>
+  <common_names>EUREKA VALLEY DUNEGRASS</common_names>
+  <description type="morphology">Culms 10-40(60) cm, stiff, erect; nodes villous. Sheaths villous on the upper margins; blades 5-14 cm long, 3-8 mm wide. Panicles 4-10 cm; branches to 35 mm, with 1-3 spikelets. Spikelets 10-15 mm, persistent. Glumes 9-14 mm; lemmas 7-9 mm. Caryopses about 4 mm long, about 2 mm in diameter. 2n = 20.</description>
+  <discussion>Swallenia alexandrae grows on sand dunes in Inyo County, California. It is only known from four sites, all between 900-1200 m, in the Eureka Valley of northern Inyo County. At these sites, it forms dense colonies 1-2 m across. It is state-listed as rare and federally-listed as endangered because of off-road vehicle activity.</discussion>
+</bio:treatment>

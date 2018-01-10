@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>18</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa howellii Vasey & Scribn.</name_authority_date>
+  </taxon_identification>
+  <common_names>HOWELL'S BLUEGRASS</common_names>
+  <description type="morphology">Plants usually annual, rarely longer-lived; densely tufted, tuft bases narrow; not stoloniferous, not rhizomatous. Basal branching intravaginal. Culms (10) 25-80(120) cm tall, 0.4-1.75 mm thick, usually erect; nodes terete, usually 1-2 exserted. Sheaths closed for 1/2 - 7/8 their length, usually weakly compressed and keeled, usually scabrous, rarely smooth; ligules 1.5-5(10) mm, smooth or scabrous, acute; blades 1-7(10) mm wide, flat, lax, soft, finely scabrous, apices narrowly prow-shaped, cauline blades 2-10 cm. Panicles 10-25(30) cm, erect, eventually open, with (1)3-5(7) branches per node; branches eventually spreading or reflexed, fairly straight, angled, angles usually moderately to densely scabrous, rarely sparsely scabrous. Spikelets (2)4-6 mm, laterally compressed, with 2-5 florets; rachilla internodes about 1 mm, smooth, usually softly puberulent, infrequently glabrous. Glumes slightly unequal, lanceolate, distinctly keeled, keels and sometimes the lateral veins sparsely to moderately scabrous; lower glumes 1-3-veined; upper glumes shorter than or subequal to the lowest lemmas; calluses of some or all florets sparsely webbed; lemmas 2.5-3.5 mm, lanceolate to narrowly lanceolate, distinctly keeled, crisply puberulent proximally, hairs evenly distributed, finely scabrous distally, lateral veins obscure to prominent, margins narrowly hyaline, glabrous, apices narrowly acute, infrequently anthocyanic; palea keels sparsely scabrous, glabrous or softly puberulent at midlength, intercostal regions usually softly puberulent; anthers 3, 0.2-1 mm. 2n = unknown.</description>
+  <discussion>Poa howellii grows primarily on rocky banks and wooded slopes, from the coastal ranges of southern British Columbia to southern California. It differs from P. bolanderi (see above) in having puberulent, rather than smooth or scabrous, lemmas, and in growing at lower elevations, mostly from near sea level to 1000 m.</discussion>
+</bio:treatment>

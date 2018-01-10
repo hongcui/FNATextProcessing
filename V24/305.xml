@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>25</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus erectus Huds. </name_authority_date>
+  </taxon_identification>
+  <common_names>MEADOW BROME, UPRIGHT BROME, BROME DRESSE</common_names>
+  <description type="morphology">Plants perennial; not rhizomatous. Culms 50-100 cm, erect; nodes (1)2-3, usually glabrous, rarely pubescent; internodes usually glabrous, rarely pubescent. Sheaths glabrous or pilose; auricles absent; ligules to 1.5 mm, glabrous, truncate, lacerate; blades 10-20 cm long, 2-6 mm wide, often involute or folded, glabrous or sparingly hairy. Panicles 10-20 cm, erect, contracted; branches erect or ascending. Spikelets 15-30 mm, elliptic to lanceolate, terete to moderately laterally compressed, with 5-8(12) florets. Glumes glabrous; lower glumes 7-9 mm, 1-veined; upper glumes 9-11 mm, 3-veined; lemmas 10-13(15) mm, lanceolate, rounded over the midvein, backs and margins glabrous  
+or sparsely pubescent, apices subulate to acute, entire; awns 5-7 mm, straight, arising less than 1.5 mm below the lemma apices; anthers 4-6.5 mm. 2n = 56.
+</description>
+  <discussion>Bromus erectus is native to Europe. In the Flora region, it grows on disturbed soils, often over limestone. It is established in the eastern United States and Canada, and has been reported from other locations where it has not persisted.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Vulpia microstachys var. confusa (Piper) Lonard & Gould </name_authority_date>
+  </taxon_identification>
+  <common_names>CONFUSING FESCUE</common_names>
+  <description type="morphology">Spikelets usually with 1-3 florets. Glumes pubescent; lemmas glabrous.</description>
+  <discussion>Vulpia microstachys var. confusa grows in sandy, open sites.</discussion>
+</bio:treatment>

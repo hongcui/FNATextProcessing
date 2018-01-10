@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sporobolus tenuissimus (Mart, ex Schrank) Kuntze </name_authority_date>
+  </taxon_identification>
+  <common_names>TROPICAL DROPSEED</common_names>
+  <description type="morphology">Plants annual; tufted. Culms 30-100 cm. Sheaths glabrous, including the apices; ligules 0.2-0.3 mm; blades 5-23 cm long, 2-4 mm wide, flat or folded, glabrous on both surfaces, margins glabrous. Panicles (8)15-30 cm long, 3.5-8 cm wide, open, diffuse, cylindrical; lower nodes with 1-2(3) branches; primary branches 0.6-5 cm, capillary, spreading 30-70° from the rachises, without spikelets on the lower 1/2; secondary branches spreading; pedicels 0.5-5 mm. Spikelets 0.7-1.1 mm, plumbeous to purplish. Glumes unequal, obovate to ovate, membranous; lower glumes 0.1-0.4 mm, occasionally absent; upper glumes 0.2-0.5 mm; lemmas 0.7-1.1 mm, elliptic, membranous, glabrous, acute to obtuse; paleas 0.7-1.1 mm, elliptic, membranous; anthers 0.2-0.3 mm, yellowish. Fruits 0.4-0.7 mm, pyriform or quadroid, somewhat laterally flattened, light brownish to whitish. 2n = 12.</description>
+  <discussion>Sporobolus  tenuissimus  is  native  to  the Western Hemisphere, and introduced to Africa and Asia. Its native distribution in the Americas is tropical, extending from southern Mexico to Brazil and Paraguay. It has been found at a few locations in the southeastern United States, at 0-100 m. It grows in disturbed areas, often occurring as a weed in gardens and cultivated fields.</discussion>
+</bio:treatment>

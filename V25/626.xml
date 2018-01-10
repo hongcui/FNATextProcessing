@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Gerrit Davidse</author>
+    </source>
+  </meta>
+  <number>25.05</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>LASIACIS (Griseb.) Hitchc.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial (rarely annual); cespitose. Culms 0.5-8 m, weakly lignified, erect, arching, climbing, or decumbent, rooting at the nodes. Sheaths open; ligules membranous, sometimes ciliate; pseudopetioles sometimes present; blades linear to ovate, bases slightly to strongly asymmetric. Inflorescences open or contracted panicles, rachises usually visible, even distally, spikelets attached obliquely to the pedicels; disarticulation below the glumes. Spikelets subglobose to globose, with 2 florets. Glumes membranous, apices lanate pubescent, abruptly apiculate; lower glumes 1/3 – 2/3 as long as the spikelets, 5-13-veined, bases saccate, margins overlapping; upper glumes about as long as the upper florets, not saccate, 7-15-veined; lower florets sterile or staminate; lower lemmas membranous, apices lanate pubescent, abruptly apiculate; lower paleas present, sometimes reduced; upper florets stipitate, bisexual, appearing to be mucronate or acuminate; upper lemmas indurate, usually broadly elliptic to obovate, margins enclosing the edges of the paleas, apices obtuse, somewhat woolly pubescent, usually dark brown at maturity; upper paleas similar to the lemmas, but saccate below and gibbous above. Caryopses plano-convex, ovoid, or nearly orbicular; embryo about M as long as the caryopses; hila oblong to nearly round, x = 9. </description>
+  <discussion>In Lasiacis the upper florets appear to be mucronate or acuminate. The mucro or acuminate apex is formed by the tuft of hairs at the apex of the upper floret.
+Lasiacis is a neotropical genus of 16 species that extends from southern Florida to Peru and Argentina. Two species are native to the Flora region. The shiny black color of its mature flo¬rets and the oil-filled cells of the inner epidermes of the glumes and sterile lemmas distinguish Lasiacis from all other grasses. Birds are a common dispersal agent.
+</discussion>
+  <references>Davidse, G. 1978. A systematic study of the genus Lasiacis (Gramineae: Paniceae). Ann. Missouri Bot. Gard. 65:1133-1254; Davidse, G. and E. Morton. 1973. Bird-mediated fruit dispersal in the tropical grass genus Lasiacis (Gramineae: Paniceae). Biotropica 5:162-167.</references>
+  <key>
+    <key_body>
+1. Leaf blades linear-lanceolate to narrowly lanceolate, 3-16 cm long, 3-30 mm wide .....1. L. divaricata
+1. Leaf blades ovate to broadly lanceolate, 2-16 cm long, 8-56 mm wide .....2. L. ruscifolia
+
+    </key_body>
+  </key>
+</bio:treatment>

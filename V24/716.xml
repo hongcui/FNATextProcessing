@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa autumnalis Muhl. ex Elliott </name_authority_date>
+  </taxon_identification>
+  <common_names>AUTUMN BLUEGRASS</common_names>
+  <description type="morphology">nts perennial; not rhizomatous, not stoloniferous, loosely tufted. Basal branching mainly pseudointravaginal. Culms 23-86 cm tall, 0.8-1.8 mm thick, bases often decumbent. Sheaths closed for 1/3 – 1/2 their length; ligules 0.2-1.9(2.5) mm, smooth or obtuse; blades (0.5)1-4 mm wide, flat or folded, thin. Panicles (5)8-20 cm, erect or lax, broadly pyramidal at maturity, open, sparse, lower axils sometimes sparsely pubescent; nodes with 1-2(4) branches; branches 5-12 cm, spreading to reflexed, straight, angled, angles scabrous, with 3-8 spikelets in the distal 1/4-1/3.  
+Spikelets 3-8.2 mm, laterally compressed; florets 2-4(6); rachilla internodes smooth, sparsely softly puberulent. Glumes distinctly shorter than the adjacent lemmas, distinctly keeled, keels scabrous; lower glumes subulate to lanceolate, (l)3-veined; upper glumes lanceolate to broadly lanceolate; calluses usually glabrous, rarely sparsely and shortly webbed; lemmas (2.8)3-4.6 mm, lanceolate, distinctly keeled, keels and marginal veins short- to long-villous, hairs extending up 3/4  of the keel, lateral veins prominent, intercostal regions softly puberulent, smooth, apices obtuse, blunt; palea keels softly puberulent to short-villous for much of their length, apices scabrous; anthers 1-1.4(2.6) mm. 2n = 28.
+</description>
+  <discussion>Poa autumnalis grows primarily in the southeastern United States, being found in forests of the eastern and western Appalachian piedmont and coastal plain. It is readily distinguished from other perennial species of the eastern United States by its combination of glabrous calluses and pubescent palea keels.</discussion>
+</bio:treatment>

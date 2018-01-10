@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Digitaria leucocoma (Nash) Urb. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose. Culms to 100 cm, erect, not branching at the lower nodes; nodes 1-2. Sheaths with appressed hairs, lower sheaths densely hairy, upper sheaths sparingly hairy near the base, otherwise glabrous; ligules 2-3 mm; blades 10-40 cm long, to 3 mm wide, usually flat, involute when dry. Panicles with 2-4 spikelike branches on 4-6 cm rachises; primary branches 20-25 cm long, axes triquetrous, not winged; primary branches bearing spikelets in unequally pedicellate groups of 3(-5) on the basal 1/2; secondary branches rarely present, longer pedicels often adnate to the branch axes basally. Spikelets 2.2-2.5 mm long, 0.8 mm wide, elliptic, acute. Lower glumes absent; upper glumes 3-veined, margins and intercostal regions with long, glandular-tipped hairs; lower lemmas 7-veined, margins and the region between the 2 inner marginal veins with long glandular hairs; upper lemmas light to dark brown at maturity, striate, apiculate. 2n = unknown.</description>
+  <discussion>Digitaria leucocoma is known only from high pine-lands near Lake Ella, Lake County, Florida. It has been treated in the past as a synonym of D. filiformis var. villosa.</discussion>
+</bio:treatment>

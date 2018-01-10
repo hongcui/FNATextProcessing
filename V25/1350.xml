@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eriochloa polystachya Kunth </name_authority_date>
+  </taxon_identification>
+  <common_names>CARIBBEAN CUPGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, stoloniferous. Culms 100-200 cm, decumbent, rooting at the lower nodes; internodes glabrous; nodes 4-10, densely pilose. Sheaths chartaceous to cartilaginous, lower sheaths with papillose-based hairs, upper sheaths glabrous; collars hairy; ligules 0.6-1.2 mm; blades 6-28 cm long, 6-18 mm wide, linear, flat, straight, ascending or drooping, glabrous adaxially. Panicles 8-20 cm long, 41-90 mm wide, open; rachises sparsely pilose to hirsute; branches (5)10-15(18), 2-6 cm long, 0.4-0.6 mm wide, pubescent to setose, not winged, spikelets in unequally pedicellate pairs; pedicels 0.5-1 mm, pubescent, apices glabrous. Spikelets 3.2-3.9 mm long, 1.1-1.3 mm wide, lanceolate to ovate. Lower glumes present as a membranous extension of the calluses; upper glumes equaling the lower lemmas, hairy, lanceolate to ovate, 5-veined, acute, unawned; lower lemmas 3-3.5 mm long, 1.1-1.3 mm wide, lanceolate to ovate, glabrous or sparsely pubescent, 5-veined, acute, unawned; lower paleas fully developed or absent; anthers absent or 3; upper lemmas 2.2-2.6 mm, indurate, elliptic, rounded, mucronate, mucros less than 0.2 mm; upper paleas 2-2.5 mm, indurate. 2n = 36.</description>
+  <discussion>Eriochloa polystachya is native to the West Indies, Costa Rica, Honduras, and South America. It was introduced into the United States as a forage crop and is now established at some locations in Florida and Texas.</discussion>
+</bio:treatment>

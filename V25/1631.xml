@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Heteropogon melanocarpus (Elliott) Benth. 
+</name_authority_date>
+  </taxon_identification>
+  <common_names>SWEET TANGLEHEAD</common_names>
+  <description type="morphology">Plants annual. Culms 50-200 cm, often with prop roots, freely branching above the base. Sheaths glabrous, with a row of glandular depressions along the keel; ligules 2-4 mm, erose to lacerate, glabrous; blades 30-50 cm long, 3-12 mm wide, usually folded, abaxial surfaces with dark glandular depressions along the keel, adaxial surfaces with scattered papillose-based hairs near the base, scabrous elsewhere. Rames 2.5-6.5 cm. Homogamous spikelets 10-14 mm, green; lower glumes glabrous, unawned. Heterogamous spikelets: sessile spikelets 8-11.5 mm, dark brown, awned; calluses about 3 mm; awns 10-15 cm; pedicellate spikelets 16-21 mm, unawned; lower glumes scabrous or sparsely ciliate distally, midveins glandular, pitted. 2n = 20.</description>
+  <discussion>Heteropogon melanocarpus is probably native to the Eastern Hemisphere, but is now found in tropical regions throughout the world. It grows in pine woods, fields, and disturbed areas of the southern United States. When fresh, plants of H. melanocarpus smell like citronella oil.</discussion>
+</bio:treatment>

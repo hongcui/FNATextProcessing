@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subgenus</rank>
+    <name_authority_date>Panicum L. subg. Panicum</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; usually cespitose. Culms usually erect, not compressed. Sheaths not keeled; ligules of hairs, or membranous and, usually, ciliate; blades with vascular bundles separated by 2-6 radially arranged, tabular mesophyll cells and surrounded by a double sheath, cells of the inner sheath thick-walled, cells of the outer sheath with thinner cell walls and usually centripetal chloroplasts; chloroplasts with well-developed grana. Photosynthesis C4 NAD-me type. Panicles usually pyramidal, lax and diffuse, varying to contracted and condensed; secondary branches usually present; pedicels divergent to more or less appressed. Spikelets ellipsoid to lanceolate, glabrous. Lower glumes 1/5 - 4/5 the length of the spikelets, 1-11-veined; upper glumes and lower lemmas (5)7-15-veined; lower florets usually sterile; upper florets smooth, shining; upper paleas with compound or compound and simple papillae towards the apices, x = 9.</description>
+  <discussion>There are approximately 50 species of Panicum subg. Panicum in the Western Hemisphere (Zuloaga 1987), 21 of which grow in the Flora region.</discussion>
+</bio:treatment>

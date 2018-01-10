@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Phleum pratense L. </name_authority_date>
+  </taxon_identification>
+  <common_names>TIMOTHY, FLEOLE DES PRES, PHLEOLE DES PRES, MIL</common_names>
+  <description type="morphology">Plants perennial; loosely to densely cespitose. Culms (20) 50-150 cm, usually erect, lower internodes frequently enlarged or bulbous. Sheaths of the flag leaves not inflated; auricles occasionally present, incon¬spicuous; ligules 2-4 mm, obtuse to acute; blades to 45 cm long, 4-8(10) mm wide, flat. Panicles (3)5-10(16) cm long, 5-7.5(10) mm wide, 5-20 times as long as wide, not tapering distally; branches adnate to the rachises. Glumes 3-4 mm, sides usually puberulent, keels pectinate-ciliate, apices awned, awns 1-1.5(2) mm; lemmas (1.2)1.7-2 mm, about 1/2 as long as the glumes, usually puberulent; anthers 1.6-2.3 mm. 2n = 42 (21, 35, 36, 49, 56, 63, 70, 84).</description>
+  <discussion>Phleum pratense grows in pastures, rangelands, and disturbed sites throughout most of the mesic, cooler regions of North America. Originally introduced from Eurasia as a pasture grass, it is now well established in many parts of the world, including the Flora region. North American plants belong to the polyploid Phleum pratense L. subsp. pratense, which differs from the diploid P. pratense subsp. bertolonii (DC.) Bornm. in having obtuse ligules. Depauperate specimens of P. pratense are hard to distinguish from P. alpinum.</discussion>
+</bio:treatment>

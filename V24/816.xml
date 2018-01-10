@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa abbreviata R. Br. subsp. abbreviata </name_authority_date>
+  </taxon_identification>
+  <common_names>DWARF BLUEGRASS</common_names>
+  <description type="morphology">Ligules 0.4-1.7(3) mm, apices truncate to acute. Spikelets not bulbiferous; florets normal. Calluses glabrous, rarely webbed; lemmas with keels and marginal veins short- to long-villous, hairs extending along 5/6 of the keel, intercostal regions softly puberulent to short-villous; anthers 0.2-0.8 mm. 2n = 42.</description>
+  <discussion>Poa abbreviata subsp. abbreviata is a common high arctic subspecies that also grows at scattered locations in the Brooks Range, Alaska, and in the Rocky Mountains of the Northwest Territories. It has a circumpolar distribution, but is not common in the Eurasian continental arctic.</discussion>
+</bio:treatment>

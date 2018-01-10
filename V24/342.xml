@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Hordeum intercedens Nevski </name_authority_date>
+  </taxon_identification>
+  <common_names>BOBTAIL BARLEY</common_names>
+  <description type="morphology">Plants annual; loosely tufted. Culms 5-40 cm, erect to
+geniculate; nodes usually pubescent. Sheaths with stripes of hairs; ligules 0.3-0.8 mm; auricles usually absent, shorter than 2 mm if present; blades to 9 cm long, to 4 mm wide, both surfaces sparsely to densely hairy, hairs spreading. Spikes 2.5-6.2 cm long, 4-6 mm wide, often partially enclosed at maturity, pale green. Glumes straight, usually slightly divergent at maturity.  
+Central spikelets: glumes to 17 mm long, to 0.8 mm wide basally, distinctly flattened near the base; lemmas 4.5-7.5 mm, usually sparsely pubescent towards the base, glabrous distally, awned, awns 5.6-9.8 mm, often slightly divergent at maturity; anthers 0.6-1.2 mm. Lateral spikelets usually sterile; glumes to 17.5 mm, distinctly flattened near the base; lemmas 1.7-4.4 mm, blunt to acute, usually unawned, rarely awned, awns to 1.2 mm. 2n = 14.
+</description>
+  <discussion>Hordeum intercedens grows in vernal pools and flooded, often saline river beds and alkaline flats. It is restricted to southwestern California, including some of the coastal islands, and northwestern Baja California, Mexico.</discussion>
+</bio:treatment>

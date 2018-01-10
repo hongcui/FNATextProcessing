@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Austrostipa ramosissima (Trin.) S.W.L. Jacobs 8c J. Everett </name_authority_date>
+  </taxon_identification>
+  <common_names>PILLAR-OF-SMOKE, AUSTRALIAN PLUMEGRASS, STOUT BAMBOOGRASS</common_names>
+  <description type="morphology">Plants perennial; to 2.5 m, bamboolike; cespitose, shortly rhizomatous. Culms 0.5-7 mm thick, erect, glabrous, with (3)6-9 nodes, highly branched at the nodes. Leaves mostly cauline, rarely basal; sheaths becoming loose, glabrous; ligules 0.2-0.5 mm, membranous, erose; blades 35-40(80) cm long, 1-10 mm wide, linear, scabrous, readily deciduous, margins scabrous. Panicles 8-20(50) cm, exserted, diffuse; branches numerous, clustering at the nodes, scabrous, glabrous, or with hairs to 0.3 mm; pedicels glabrous, scabrous, or with hairs to 0.3 mm. Spikelets 2.3-5 mm. Glumes subequal, 2.5-3 mm, erose, inflated, scabridulous, 3-veined, apices blunt or acute; florets 1.8-2.5 mm, broadly cylindrical; calluses hairy, hairs white; lemmas 1.5-2.5 mm, tuberculate, glabrous or with a tuft of silky hair; awns (14)17-30 mm, strongly once-geniculate, scabrous; paleas about 1/3 the length of the lemmas, scabrous, acute, margins glabrous; anthers 1-1.3 mm, penicillate. Caryopses (1.2)1.5-1.6 mm. 2n = unknown.</description>
+  <discussion>Austrostipa ramosissima is native to eastern Australia. It is cultivated in the United States and southern British Columbia. In its native range A. ramosissima is drought tolerant, but prefers moist soils and well-drained gullies near forest or woodland margins.</discussion>
+</bio:treatment>

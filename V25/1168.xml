@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>15</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthelium ovale (Elliott) Gould & C.A. Clark </name_authority_date>
+  </taxon_identification>
+  <common_names>STIFF-LEAVED PANICGRASS</common_names>
+  <description type="morphology">Plants cespitose. Basal rosettes well-differentiated; blades 1-8 cm, lanceolate, often conspicuously ciliate. Culms 15-60 cm, usually more than 1 mm thick, not delicate, mostly ascending or spreading, often decumbent; nodes densely to sparsely bearded with spreading, retrorse, or appressed hairs; internodes, particularly the lower internodes, usually long-hairy with appressed or ascending hairs, occasionally with spreading hairs, occasionally with shorter hairs, rarely nearly glabrous; fall phase with decumbent to prostrate culms, branching developing early and forming dense fascicles with erect, slightly reduced blades and greatly reduced secondary panicles. Cauline leaves 4-7; sheaths shorter than the internodes, pilose, hairs to 4 mm, occasionally with shorter, spreading hairs underneath; ligules and pseudoligules 1-5 mm, of hairs; blades 4-10 cm long, 3-10 mm wide, relatively firm, mostly ascending or spreading, 1 or both surfaces sparsely to densely pubescent with appressed or erect hairs, hairs to 5 mm, bases rounded or slightly narrowed, margins often whitish, ciliate basally, scabridulous elsewhere. Primary panicles 3-10 cm long, nearly as wide when fully expanded; rachises and branches often stiffly ascending or spreading, usually pilose basally. Spikelets 1.8-3 mm, ellipsoid or obovoid, densely to sparsely pilose or papillose-pilose, obtuse or slightly acute. Lower glumes 1/3 – 1/2 as long as the spikelets, often triangular, not strongly veined, usually acute or subacute; upper glumes usually slightly shorter than the lower lemmas and upper florets at maturity, not strongly veined; lower florets sterile; upper florets 1.6-2.5 mm, ellipsoid (slightly less than 1/2 as wide as long, or wider in subsp. praecocius), subacute. 2n =18.</description>
+  <discussion>Dichanthelium ovale grows in dry, open, sandy or rocky woodland borders, sand barrens, dunes, and dry prairies in southeastern Canada, the eastern United States, the West Indies, Mexico, and Central America. The four subspecies often intergrade, especially subsp. villosissimum and subsp. pseudopubescens in the southeastern United States, and subsp. villosissimum and subsp. praecocius in the western part of their range.
+The growth form and certain morphological features of Dichanthelium ovale resemble those of the wide¬spread D. laxiflorum, which usually grows in more mesic habitats. Occasional specimens exhibit traits of D. acuminatum, D. oligosanthes, and D. commutatum.
+</discussion>
+  <key>
+    <key_body>
+1. Lower sheaths and lower culm internodes with soft, spreading or retrorse, papillose-based hairs, the longer hairs often longer than 4 mm long; spikelets 1.8-2.5 mm long. 
+2. Spikelets 2.1-2.5 mm long; culms usually more than 1 mm thick, stiff; largest blades usually 6-10 mm wide.....subsp. villosissimum
+2. Spikelets 1.8-2.1 mm long; culms usually less than 1 mm thick, wiry; largest blades usually 2-6 mm wide .....subsp. praecocius
+1. Lower sheaths and lower culm internodes with ascending or appressed, non-papillose-based hairs shorter than 4 mm or nearly glabrous; spikelets 2.1-3 mm long.
+3. Spikelets 2.5-3 mm long; basal blades with long hairs on or near the margins and bases .....subsp. ovale
+3. Spikelets 2.1-2.6 mm long; basal blades usually without long hairs on or near the margins and bases.....subsp. pseudopubescens
+
+    </key_body>
+  </key>
+</bio:treatment>

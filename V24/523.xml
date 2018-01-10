@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Leymus salina subsp. mojavensis Barkworth & R.J. Atkins </name_authority_date>
+  </taxon_identification>
+  <common_names>MOJAVE WILDRYE</common_names>
+  <description type="morphology">Culms 35-90 cm. Basal sheaths glabrous; blades flat or almost flat, abaxial surfaces nearly always glabrous, adaxial surfaces scabridulous, not densely hairy above the ligules, occasionally sparsely hairy. Spikes with 1 spikelet at most nodes, 2-3 central nodes with 2 spikelets. 2n = unknown.</description>
+  <discussion>Leymus salina subsp. mojavensis grows at scattered locations on steep, north-facing slopes of the New York, Providence, and Clark mountains in California, and of the south rim of the Grand Canyon in Arizona.</discussion>
+</bio:treatment>

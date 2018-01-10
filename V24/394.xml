@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Triticum aestivum L. </name_authority_date>
+  </taxon_identification>
+  <common_names>WHEAT, BREAD WHEAT, COMMON WHEAT, SOFT WHEAT, BLE CULTIVE, BLE COMMUN</common_names>
+  <description type="morphology">Culms 14-150 cm; nodes glabrous or pubescent; internodes usually hollow, even immediately below the spikes. Blades 6-15(20) mm wide, glabrous or pubescent. Spikes (3.5)6-18 cm, usually thicker than wide to about as thick as wide, wider than thick in compact forms; rachises shortly ciliate at the nodes and margins, not disarticulating. Spikelets 10-15 mm, appressed or ascending, with 3-9 florets, 2-5 seed-forming. Glumes 6-12 mm, coriaceous, loosely appressed to the lower florets, usually keeled in the distal 1/2, sometimes prominently keeled to the base, terminating in a tooth or awn, awns to 4 cm; lemmas 10-15 mm, toothed or awned, awns to 12 cm; paleas not splitting at maturity. Endosperm mealy to flinty. Haplomes AuBD. 2n = 42.</description>
+  <discussion>Triticum aestivum is the most widely cultivated wheat. Both winter and spring types are grown in the Flora region. In addition to being grown for bread flour, T. aestivum cultivars are used for pastry-grade flour, Oriental-style soft noodles, and cereals.
+Club wheats, sometimes called Triticum compactum Host, are cultivated in the Pacific Northwest for export to Asian markets. They have short (3.5-6 cm), compressed spikes, with up to 25 spikelets having 2-6 florets. Their spike shape varies from oblong or oval with uniformly distributed spikelets to club-shaped with spikelets crowded towards the apex.
+No wild hexaploid progenitors of Triticum aestivum are known, but the two distinguishing characteristics of wild Tritcum species, fragile rachises breaking into wedge-shaped units and closely appressed glumes, are found in plants cultivated in Tibet and named T. aestivum subsp. tibetanum J.Z. Shao.
+</discussion>
+</bio:treatment>

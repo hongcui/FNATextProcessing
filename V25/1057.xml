@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Digitaria filiformis (L.) Koeler </name_authority_date>
+  </taxon_identification>
+  <common_names>SLENDER CRABGRASS</common_names>
+  <description type="morphology">Plants annual, or short-lived perennials; cespitose, not rhizomatous. Culms (10)25-150 cm, erect or decumbent, branching, sometimes rooting at the lower nodes; nodes 3-6. Sheaths keeled, basal sheaths usually with papillose-based hairs, rarely glabrous; ligules 0.3-1.5 mm; blades 2-18 cm long, 1-6 mm wide, flat or involute, glabrous, scabrous, or pilose. Panicles with 2-7 spikelike primary branches, these digitate or the rachises to 1 cm; longest primary branches 3-25 cm long, 0.2-0.4 mm wide, axes triquetrous, not wing-margined, bearing spikelets in groups of 2-5 on the lower and middle portions. Spikelets 1.3-2.8 mm. Lower glumes absent or to 0.1 mm; upper glumes 1-2 mm long, from 3/4 to almost as long as the spikelets, almost glabrous or sparsely to densely pubescent with clavate to capitate hairs (use 20x magnification), glume apices rounded; lower lemmas equaling the spikelets, glabrous or glandular-pubescent, 5-7-veined, veins unequally spaced, outer 3 veins on each side closer to each other than the midvein is to the inner lateral veins; upper lemmas 1.3-2 mm, apiculate, dark brown at maturity; anthers 0.3-0.6 mm. 2n = 36, 54.</description>
+  <discussion>Digitaria filiformis grows throughout the warmer parts of the eastern United States, van filifomis the most widespread of its varieties, extending into Mexico.</discussion>
+  <key>
+    <key_body>
+1. Lower lemmas glabrous  .....var. laeviglumis
+1. Lower lemmas pubescent.
+2. Basal leaf sheaths glabrous; cauline blades about 1 mm wide, folded or involute .....var. dolichophylla
+2. Basal leaf sheaths with papillose-based hairs; cauline blades 1-6 mm wide, flat. 
+3. Spikelets 1.3-1.9 mm long; panicle branches 3-13 cm long; culms 10-80 cm tall .....var. filiformis
+3. Spikelets 2-2.8 mm long; panicle branches 10-25 cm long; plants 75-150 cm tall  .....var. villosa
+
+    </key_body>
+  </key>
+</bio:treatment>

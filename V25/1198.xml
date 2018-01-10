@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Dichanthelium sect. Lancearia (Hitchc.) Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants usually densely cespitose, with caudices. Basal rosettes usually well-differentiated. Culms slender, usually purplish and puberulent; fall phase often profusely branched and rebranched. Cauline leaves 8-14; sheaths usually purplish and puberulent; ligules less than 0.5 mm, of hairs; blades usually purplish and puberulent. Primary panicles exserted. Spikelets 1.5-2.6 mm, obovoid-pyriform, planoconvex in side view, bases attenuate. Lower glumes thin, weakly veined, attached about 0.2 mm below the upper glumes, clasping at the base. Upper florets subacute. </description>
+  <discussion>Only one species of sect. Lancearia, Dichanthelium portoricense, grows in the Flora region.</discussion>
+</bio:treatment>

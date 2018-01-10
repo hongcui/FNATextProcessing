@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Elymus stebbinsii Gould subsp. stebbinsii </name_authority_date>
+  </taxon_identification>
+  <common_names>STEBBINS' WHEATGRASS</common_names>
+  <description type="morphology">Lowest visible cauline node often pubescent. Lower leaf sheaths pubescent or glabrous. Spike internodes 16.3-27 mm. Spikelets 17-29 mm. Lemmas unawned or awned, awns to 8(12) mm.</description>
+  <discussion>Elymus stebbinsii subsp. stebbinsii is best known from the coastal mountains south of San Jose. It also grows at scattered locations from the central Sierra Nevada south to the Transverse Mountains.</discussion>
+</bio:treatment>

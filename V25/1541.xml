@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Chrysopogon fulvus (Spreng.) Chiov. </name_authority_date>
+  </taxon_identification>
+  <common_names>GOLDEN BEARDGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, not stoloniferous. Culms 20-80(120) cm, geniculately ascending. Leaves mostly basal; sheaths glabrous; ligules 0.2-0.5 mm, membranous, ciliolate; blades 2-30 cm long, 2-3(9) mm wide, mostly glabrous or puberulous adaxially, bases sometimes with hispid hairs. Panicles 4-8(16) cm long, 1.5-3 cm wide, ovate, with many branches; branches 3-7 cm, sharply ascending, capillary, naked basal portions 2-6 cm, puberulous, terminating in a rame; rames with a triplet of spikelets. Sessile spikelets 3.5-5.2(8) mm (including the callus); calluses 0.7-1.5 mm, sharp, setose, hairs 1.5-1.9 mm, golden; lower glumes laterally compressed, smooth, hispidulous distally, acute; upper glumes with a dorsal fringe of hairs, awns 4.1-5.3(10) mm; upper lemmas awned, awns 2-3 cm, slightly geniculate, column twisted, puberulous, hairs 0.2-0.4 mm. Pedicels 1-2.5 mm, setose on the edges, hairs 3^.9 mm. Pedicellate spikelets 2.5-8 mm; lower glumes muticous or awned, awns to 0.7 cm. 2n = 40.</description>
+  <discussion>Chrysopogon fulvus is native from southern India to Thailand, where it is considered a good forage grass. It was grown at the experiment station in Gainesville, Florida, and subsequently found in adjacent flatwoods as an escape.</discussion>
+</bio:treatment>

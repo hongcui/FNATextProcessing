@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>63</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa suksdorfii (Beal) Vasey ex Piper </name_authority_date>
+  </taxon_identification>
+  <common_names>SUKSDORF'S BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; not glaucous; densely tufted, not stoloniferous, not rhizomatous. Basal branching all or mainly intravaginal. Culms 7-25 cm. Sheaths closed for 1/7-1/4(1/3) their length, terete; ligules of cauline leaves 1-3 mm, milky white, usually densely scabrous, sometimes smooth, ligules of the upper innovation leaves 0.5-2.5 mm; innovation blades adaxially scabrous, hispidulous, or puberulent on and between the veins, lacking papillae on the long cells (at 100x); cauline blades folded to involute, moderately thick, soft or moderately firm, apices narrowly prow-shaped, flag leaf blades 1-2 mm wide, adaxial surfaces with 5-9 well-spaced ribs. Panicles 3-6 cm, erect, narrowly lanceoloid, contracted, moderately congested; nodes with 1-2 branches; branches to 1.5 cm, erect, slender, terete, sulcate or angled, smooth or the angles moderately scabrous; pedicels shorter than the spikelets. Spikelets 4.2-7 mm, laterally compressed, often strongly anthocyanic; florets 2-4; rachilla internodes 1-1.5 mm, smooth, sometimes sparsely hispidulous. Glumes lanceolate, distinctly keeled, keels smooth; lower glumes shorter than to equaling the lowest lemmas, 3-veined; upper glumes frequently exceeding the lowest lemmas, 3-5-veined, exceeded by the upper lemmas; calluses glabrous; lemmas 4.1-5.8 mm, narrowly lanceolate, distinctly keeled, thin, glabrous, apices acute; palea keels scabrous; anthers 0.8-1.2(1.7) mm, infrequently aborted late in development. 2n = unknown.</description>
+  <discussion>Poa suksdorfii is a high alpine species of open rocky ground in the Pacific Northwest. It used to be interpreted (Hitchcock 1951) as including California populations that are now placed in Poa pringlei (p. 564) or P. keckii (see previous). Poa suksdorfii has narrow panicles like P. pringlei and P. curtifolia (p. 589).</discussion>
+</bio:treatment>

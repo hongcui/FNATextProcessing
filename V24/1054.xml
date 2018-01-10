@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Corynephorus canescens (L.) P. Beauv. </name_authority_date>
+  </taxon_identification>
+  <common_names>GRAY HAIRGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, glaucous, with many sterile shoots. Culms 10-60 cm, glabrous, often geniculate; nodes dark brown to blackish. Leaves basally crowded, glabrous; sheaths to 8 cm, often purplish, scabridulous; ligules 2-4 mm, acute; blades to 10 cm long and 1 mm wide, rigid, involute, scabrous. Panicles 1.5-14 cm long, 0.4-3 cm wide, dense, purple or variegated with pale green; branches to 5 cm, spreading at anthesis, otherwise appressed; pedicels 1-3 mm. Spikelets 2.9-4.3 mm. Glumes often purplish, slightly to strongly scabridulous, particularly on the keels; callus hairs 0.2-0.4 mm; lemmas 1.4-2 mm, awns 2.3-2.7 mm, usually not exceeding the glumes, segments subequal, distal segments sometimes slightly exserted; anthers 1.4-1.6 mm, purple. 2n = 14.</description>
+  <discussion>Corynephorus canescens is native to Europe. It grows on coastal sand dunes and inland on sandy soils, as well as in disturbed areas such as waste ground and ballast dumps. It has been recorded from scattered locations in North America, but its current status in these locations is not known. Douglas et al. (1994) reported that it no longer occurred in British Columbia, but it was later found near the original collection site (UBC 209521, homer 94-256).</discussion>
+</bio:treatment>

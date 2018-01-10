@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>xElyleymus ungavensis (Louis-Marie) Barkworth </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants rhizomatous. Culms to about 100 cm tall, 3-5 mm thick, glabrous, lower internodes glaucous. Leaves somewhat basally concentrated; sheaths smooth, glabrous; auricles present on some basal leaves, to 0.4 mm; ligules about 0.5 mm, truncate; blades of the culm leaves 5-7 mm wide, abaxial surfaces smooth, glabrous, primary and secondary veins evident, adaxial surfaces scabrous, glabrous, all veins more or less equally prominent, blades of the innovations to 3 mm wide. Inflorescences spikes, to 18 cm long, about 10 mm wide, with 1 sessile or subsessile spikelet per node; internodes 7-9 mm, mostly glabrous, angles hairy, hairs about 0.3 mm. Spikelets 15-25 mm, with 5-7 florets; disarticulation above the glumes, beneath the florets. Glumes 15-20 mm long including the awnlike tip, 2.5-4 mm wide, widest at or just beyond midlength, purplish, sparsely scabrous to hairy over the veins, margins about 1 mm wide, apices acuminate, unawned; lemmas 15-17 mm, evenly hairy, hairs 0.4-0.5 mm, apices mucronate, mucros about 0.5 mm; anthers about 1.8 mm.</description>
+  <discussion>xElyleymus ungavensis is a northern hybrid, collected along the sandy banks of the Koksoak River, near Fort Chimo [= Kuujjuaq], at the southern end of Ungava Bay, Quebec. It consists of hybrids between Elymus violaceus and Leymus mollis subsp. mollis. The involvement of E. violaceus is suggested by the wide glume margins; that of L. mollis subsp. mollis by the relatively thick culms.</discussion>
+</bio:treatment>

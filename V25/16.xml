@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>16.01</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>MOLINIA Schrank</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 15-250 cm, often disarticulating at the first node, basal internodes persistent, often swollen and clavate. Leaves mostly basal; ligules of hairs; blades flat or convolute, eventually disarticulating from the sheaths. Inflorescences terminal, panicles, not plumose. Spikelets laterally compressed, with (1)2-5 florets; rachilla prolonged beyond the distal florets, terminating in a rudimentary floret, internodes 1/3 – 1/2 as long as the florets, glabrous; disarticulation beneath the florets. Glumes exceeded by the florets, 1- or 3-veined; calluses 0.1-0.3 mm, blunt, glabrous or sparsely strigose, hairs to 0.5 mm; lemmas glabrous, inconspicuously 3(5)-veined, rounded over the back, acute to obtuse, unawned; paleas subequal to the lemmas; anthers 3. Caryopses falling free from the lemmas and paleas; pericarps loosely adherent, x = 9. </description>
+  <discussion>Molinia is a genus of two to five species, all of which are native to temperate Eurasia. One species is established in the Flora region.</discussion>
+  <references>Dix, W.L. 1945. Will the stowaway, Molinia caerulea, become naturalized? Bartonia 23:41-42.</references>
+</bio:treatment>

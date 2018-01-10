@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Hordeum murinum L. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual; loosely tufted. Culms to 110 cm, usually erect, sometimes almost prostrate; nodes glabrous. Lower sheaths often completely surrounding the culms, glabrous or somewhat pilose; ligules 1-4 mm; auricles to 8 mm, well developed even on the upper leaves; blades to 28 cm, usually flat, occasionally with involute margins, glabrous or sparsely pilose, sometimes scabrous. Spikes 3-8 cm long, 7-16 mm wide, pale green to distinctly reddish, especially the awns; rachises disarticulating at maturity. Central spikelets sessile, florets sessile or pedicellate, pedicels to 2 mm; glumes 11-25 mm long, 0.8-1.8 mm wide, flattened, margins usually distinctly ciliate; lemmas 8-14 mm long, to 2 mm wide, more or less smooth, awned, awns 20-40 mm; lodicules glabrous or with 1+ cilia; anthers 0.2-3.2 mm, gray to yellow, sometimes with purple spots. Lateral spikelets staminate, floret sessile; glumes flattened, margins ciliate; lemmas 8-15 mm, awned, awns 20-50 mm; paleas 8-15 mm; rachillas 2.5-6.5 mm, slender or gibbous, yellow. 2n = 14, 28, 42.</description>
+  <discussion>Hordeum murinum is native to Eurasia, where it is a common weed in areas of human disturbance. It is thought to have originated around seasides, sandy riverbanks, and animal watering holes. It is now an established weed in the southwestern Flora region and other scattered locations. The records in Alaska are from the Anchorage area. Prostrate plants are associated with grazing. Three subspecies are recognized.</discussion>
+  <key>
+    <key_body>
+1. Central spikelets sessile to subsessile; lemmas of the central florets subequal to those of the lateral florets, the awns longer than those of the lateral florets; paleas of the lateral florets almost glabrous ..... subsp. murinum
+1. Central spikelets pedicellate; lemmas of the central florets from subequal to shorter than those of the lateral florets, the awns from shorter to longer than those of the lateral florets; paleas of the lateral florets scabrous to hairy.
+2. Lemmas of the central florets much shorter than those of the lateral florets; paleas of the lateral florets scabrous on the lower 1/2; anthers of the central and lateral florets similar in size ..... subsp. leporinum
+2. Lemmas of the central florets about equal to those of the lateral florets; paleas of the  
+lateral florets distinctly pilose on the lower 1/2; anthers of the central florets 0.2-0.6 mm long, those of the lateral florets 1.2-1.8 mm long .....subsp. glaucum
+
+    </key_body>
+  </key>
+</bio:treatment>

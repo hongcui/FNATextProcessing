@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>34</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia villiflora Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>HAIRY MUHLY</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, not cespitose. Culms 4-30 cm tall, to 2 mm thick, erect; internodes smooth or nodulose. Sheaths shorter than the internodes, smooth to nodulose; ligules 0.4-1.5 mm, membranous, acute, erose; blades 0.7-3 cm long, 0.2-1.2 mm wide, arcuate-spreading, tightly involute, glabrous abaxially, hirtellous adaxially. Panicles 1-5 cm long, 0.1-0.5 cm wide, contracted, not dense, usually completely exserted; branches 0.2-1.1 cm, appressed to ascending; pedicels 0.1-1.2 mm, setulose. Spikelets 1.4-2.5 mm. Glumes equal, 0.6-1.8 mm, 1/2 - 2/3 as long as the lemmas, glabrous, 1(2, 3)-veined, acute, unawned; lemmas 1.4-2.5 mm, lanceolate, green or purplish, midveins and margins densely villous for most of their length, hairs 0.4-1 mm, apices acute, unawned, sometimes mucronate, mucros to 0.5 mm; paleas 1.4-2.3 mm, lanceolate, intercostal region densely villous, apices acute; anthers 0.9-1.4 mm, yellow, dark green, or purple. Caryopses 1-1.4 mm, ellipsoid to fusiform, dark brown. 2n = 20, 40.</description>
+  <discussion>In the United States, Muhlenbergia villiflora grows in open ground with alkaline to calcareous soils and on gypsum rock flats, at elevations of 600-1200 m. It usually forms small, isolated populations.
+Plants in the United States belong to Muhlenbergia villiflora var. villosa (Swallen) Morden. This variety differs from M. villiflora Hitchc. var. villiflora, which grows in Mexico, in its longer spikelets (1.8-2.5 mm versus 1.4-2.3 mm) and preference for calcareous, rather than gypsiferous, soils.
+</discussion>
+</bio:treatment>

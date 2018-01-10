@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Setaria scheelei (Steud.) Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>SOUTHS ESTERN BRISTLEGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose. Culms 60-120 cm; nodes pilose, with appressed hairs. Sheaths glabrous or hispid; ligules 1-2 mm, hispid; blades 15-30 cm long, 6-15 mm wide, flat or folded, scabrous, often pubescent. Panicles 15-25 cm, open, tapering from the  base; rachises pubescent to villous; lower branches to 3 cm; bristles usually solitary, 10-35 mm, divergent. Spikelets 2.2-2.5 mm, elliptical. Lower glumes about 1/2 as long as the spikelets, 3-veined; upper glumes from 3/4 as long as to equaling the upper florets, 5-veined; lower lemmas equaling  the  upper  lemmas, 5-veined;  lower  paleas about 1/2 as long as the upper paleas, lanceolate; upper lemmas finely cross-wrinkled, shortly apiculate; upper paleas ovate-lanceolate. 2n = 54.</description>
+  <discussion>Setaria scheelei grows in alluvial soils of canyons and river bottoms of New Mexico and Texas. Within the Flora region, it is particularly abundant in the limestone canyons of the Edwards Plateau of central Texas. Its range extends into central Mexico.</discussion>
+</bio:treatment>

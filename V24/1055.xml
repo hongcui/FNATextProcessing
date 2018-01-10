@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>John H. Rumely</author>
+    </source>
+  </meta>
+  <number>14.56</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>TRISETUM Pers.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; sometimes rhizomatous, sometimes cespitose. Culms 5-150 cm, glabrous or pubescent, basal branching extravaginal. Sheaths open the entire length or fused at the base; auricles absent; ligules membranous, often erose to lacerate, sometimes ciliolate; blades rolled in the bud. Inflorescences terminal panicles, open and diffuse to dense and spikelike; branches antrorsely scabrous. Spikelets 2.5-12 mm, usually subsessile to pedicellate, rarely sessile, laterally compressed, with 2-5 florets, reduced florets sometimes present distally; rachillas hairy, internodes evident, prolonged beyond the base of the distal bisexual florets; disarticulation usually initially above the glumes and beneath the florets, subsequently below the glumes, in some species initially below the glumes. Glumes subequal or unequal, keels scabrous, apices usually acute, unawned, often apiculate; lower glumes l(3)-veined; upper glumes 3(5)-veined, lateral veins less than 1/2 the glume length; calluses hairy; lemmas 3-7-veined, margins hyaline, unawned or awned from above the middle with a single awn, apices usually bifid, sometimes entire; paleas from subequal to longer than the lemmas, membranous, 2-veined, veins usually extending as bristlelike tips; lodicules 2, shallowly and usually slenderly lobed to fimbriate; anthers 3; ovaries glabrous or pubescent; styles 2. Caryopses shorter than the lemmas, concealed at maturity, elongate-fusiform, compressed, brown; embryos elliptic, to 1/3 the length of the caryopses; endosperm milky, x = 7. </description>
+  <discussion>Trisetum, a genus of approximately 75 species, occurs primarily in temperate, subarctic, and alpine regions. Eight species are native to the Flora region; two have been introduced, one of which is not known to have persisted. Trisetum usually differs from Sphenopholis in having longer awns that are inserted lower on the lemmas, and spikelets that disarticulate above the glumes. It differs from Deschampsia primarily in its more acute, bifid lemmas. In addition, all species of Trisetum have awns that are inserted at or above the midpoint of the lemmas; in Deschampsia, the awns are usually inserted at or below midlength, often near the base.
+Trisetum spicatum is important as forage on native rangelands. Like other species of the genus, it is a significant component of natural food pyramids, especially in arctic and alpine regions and mountain parks. Trisetum flavescens was introduced from Europe as a pasture grass; T. interruptum is often weedy.
+Spikelet measurements do not include the awns.
+</discussion>
+  <references>Dixon, J.M. 1995. Trisetum flavescens (L.) Beauv. (T. pratense Pers., Avena flavescens L.). J. Ecol. 83:895-909; Knot, V.L., RM. Peterson, R.J. Soreng, and F.O. Zuloaga. 2004. A revision of Trisetum, Peyritschia, and Sphenopholis (Poaceae: Pooideae: Aveninae) in Mexico and Central America. Ann. Missouri Bot. Gard. 91:1-30; Hitchcock, A.S. 1951. Manual of the Grasses of the United States, ed. 2, rev. A. Chase. U.S.D.A. Miscellaneous Publication No. 200. U.S. Government Printing Office, Washington, D.C., U.S.A. 1051 pp. Hulten, E. 1959. The Trisetum spicatum complex. Svensk. Bot. Tidskr. 53:203-228; Louis-Marie, Father, O.C. 1928. The genus Trisetum in America. Rhodora 30:209-228, 231-245; Shelly, J.S. 1987. Rediscovery and preliminary studies of Trisetum orthochaetum, Missoula County, Montana. Proc. Montana Acad. Sci. 47:3-4 [abstract].</references>
+  <key>
+    <key_body>
+1. Plants annual; without sterile shoots.
+2. Lower glumes 3-veined; spikelets 3-6 mm long; panicles 0.3-1.5 cm wide; plants native ..... 9.T. interruptum
+2. Lower glumes 1-veined; spikelets 2.5-3.5 mm long; panicles 0.5-3 cm wide; plants not native, not established .....10. T. aureum
+1. Plants perennial; usually producing both fertile and sterile shoots.
+3. Lemmas unawned or with inconspicuous straight awns up to 2 mm long that rarely exceed the lemma apices.
+ 
+ 
+4. Panicles usually 2-4 cm wide, lax and nodding; callus and rachilla hairs 1.3-2 mm long; plants of eastern North America .....1. T. melicoides
+4. Panicles usually 1-1.5 cm wide, erect; callus hairs shorter than 0.5 mm; rachilla hairs up to 1 mm long; plants of western North America .....2. T. wolfii
+3. Lemmas with evident awns 3-14 mm long, these straight, curved, flexuous, or geniculate, exceeding the lemma apices.
+5. Plants rhizomatous; culms usually solitary.
+6. Lemma teeth usually 3-6 mm long; ligules 0.5-1(2) mm long.....6.T. flavescens (in part)
+6. Lemma teeth usually shorter than 1 mm; ligules 1-5 mm long.
+7 Culms 15-65 cm tall; panicles 2-12(16) cm long; plants of Alaska and the Yukon Territory .....8. T. sibiricum
+7. Culms 80-110 cm tall; panicles 13-20 cm long; known only from Montana .....3. T. orthochaetum
+5. Plants not rhizomatous; culms clumped.
+8  Glumes usually subequal; both glumes lanceolate; upper glumes less than twice as wide as the lower glumes .....7. T. spicatum
+8. Glumes usually unequal, sometimes subequal; lower glumes subulate to linear-lanceolate or lance-elliptic; upper glumes broadly lanceolate to ovate or obovate, at least twice as wide as the lower glumes.
+9. Upper glumes as long as or longer than the lowest florets; awns 3-9 mm long; rachilla hairs up to 1.5 mm long; ligules 0.5-2 mm long; panicles yellowish brown .....6. T. flavescens (in part)
+9. Upper glumes shorter than the lowest florets; awns 7-14 mm long; rachilla hairs 0.7-2.5 mm long; ligules 1.5-6 mm long; panicles green or tan.
+10. Most panicle branches, except sometimes the lowermost, spikelet-bearing for their full length; panicles erect or nodding at the apices; branches ascending to somewhat divergent; upper glumes widest at or below the middle, tapering to the apices; lower glumes 3-5 mm long  .....4. T. canescens
+10. Most panicle branches, except sometimes the uppermost, spikelet-bearing only towards the apices; panicles nodding; branches of at least the lowest 1-3 whorls spreading or drooping; upper glumes widest at or above the middle, rounded to the apices; lower glumes 0.75-3 mm long   .....5.T. cernuum
+
+    </key_body>
+  </key>
+</bio:treatment>

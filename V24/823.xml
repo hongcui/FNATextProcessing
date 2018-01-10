@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subsection</rank>
+    <name_authority_date>Poa subsect. Secundae Soreng</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; densely tufted, rarely weakly rhizomatous or stoloniferous. Sheaths closed for 1/10-1/3 their length. Panicles 2-25(30) cm. Spikelets more or less terete, lengths 3.5-5 times widths, narrowly lanceolate to lanceolate, subterete to fairly compressed, somtimes bulbiferous; florets 2-5(6), normal or bulb-forming. Glumes lanceolate to broadly lanceolate, keels indistinct, smooth or sparsely scabrous; lower glumes 3-veined; calluses terete or slightly dorsally compressed; lemmas 3-7 mm, narrowly lanceolate to lanceolate or slightly oblanceolate, weakly keeled or somewhat weakly keeled; anthers 3,1.5-3.5 mm, or aborted late in development and 0.8-1.8 mm.</description>
+  <discussion>Species of Poa subsect. Secundae usually have elongated, weakly compressed spikelets.</discussion>
+</bio:treatment>

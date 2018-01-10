@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Macrochloa tenacissima (L.) Kunth </name_authority_date>
+  </taxon_identification>
+  <common_names>ESPARTO GRASS</common_names>
+  <description type="morphology">Plants initially forming dense, closed clumps, clumps becoming annular with age. Culms 60-170 cm tall, 4-6 mm thick; prophyll awns 2.5-3 cm, velutinous, projecting from the throats of the subtending leaves. Sheaths glabrous or hairy, marginal extensions 1-12 mm, velutinous; collars glabrous on the lower leaves, pubescent on the flag leaves; ligules to 0.8 mm in the center, densely tomentose, hairs completely concealing the membranous base; blades 30-120 cm, conduplicate to strongly convolute, about 1 mm in diameter when dry, abaxial surfaces smooth, adaxial surfaces strongly scabrous, apices sharply pointed. Panicles 25-35 cm, contracted, dense, with 3-4 branches per node; branches appressed, axils densely pubescent; pedicels shorter than the spikelets. Glumes lanceolate, membranous, glabrous, smooth; lower glumes 26-30  
+mm, 3-veined; upper glumes 24-27 mm, 3-5-veined; florets 9-12 mm; calluses 1-1.5 mm; lemmas pubescent, hairs about 1 mm, apices bidentate, teeth about 1 mm, membranous; awns 4.5-6.5 cm; paleas subequal to the lemmas, apices scarious; anthers 10-15 mm. 2n = 40, 64.
+</description>
+  <discussion>Macrochloa tenacissima is native to the western Mediterranean regions of Europe and Africa. Hitchcock (1951) stated that it was "sparingly cultivated" in the United States; Darke (1999) described it as a coarse, rarely cultivated plant. It would be a striking feature in a xeric landscape.
+Macrochloa tenacissima was used until the 1800s as a source of fiber for paper in Spain. It is currently used for erosion control in the Mediterranean basin, and for making hats and baskets. Its leaf cross sections are unique within the Stipeae in having midveins with multiple vascular bundles (Vasquez and Barkworth 2004).
+</discussion>
+</bio:treatment>

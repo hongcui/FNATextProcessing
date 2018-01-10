@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Digitaria cognata (Schult.) Pilg.</name_authority_date>
+  </taxon_identification>
+  <common_names>FALL WITCHGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, without rhizomes. Culms 30-56 cm, erect; nodes glabrous. Leaves mainly cauline; sheaths glabrous or sparsely to densely pubescent, sometimes with papillose-based hairs; ligules 0.2-1.5 mm, entire to lacerate; blades 2.4-12.6 cm long, 2-5.4 mm wide, glabrous or pubescent. Panicles simple, 12.8-27.5 cm long, 16.5-44.5 cm wide, open; branches divergent; lower primary branches 10.5-24 cm, often with 1-several sterile branches near the base; pedicels divergent, spikelets solitary. Spikelets 2.2-3.1 mm long, 0.7-1.1 mm wide, obovate or broadly elliptic. Lower glumes 0.1-0.8 mm; upper glumes 1.8-2.8 mm, 3(5)-veined, glabrous or pubescent between the veins, hairs appearing as a narrow stripe; lower lemmas similar to the upper glumes in length, texture, and pubescence, 7-veined, veins unequally spaced, lateral veins closer together than the 3 central veins; upper lemmas 1.9-2.9 mm, glabrous, dark brown, narrowly acute; anthers 0.5-0.7 mm, yellow or purple. Caryopses 1.3-1.6 mm. 2n = 36.</description>
+  <discussion>Digitaria cognata grows in dry, sandy soils in the eastern portion of the Flora region from southern Ontario and Vermont through the United States and thence to southern Mexico.</discussion>
+</bio:treatment>

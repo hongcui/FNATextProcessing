@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Thinopyrum intermedium (Host) Barkworth & D.R. Dewey </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants rhizomatous, often glaucous. Culms 50-115 cm, glabrous or hairy, sometimes hairy only on the nodes; lowest inter-node plus sheath 3-5 mm thick. Sheaths mostly glabrous, often ciliate on the margins; auricles 0.5-1.8 mm; ligules 0.1-0.8 mm; blades 2-8 mm wide, flat, abaxial surfaces glabrous, adaxial surfaces usually sparsely strigose, sometimes with hairs of mixed lengths, with 7-30 ribs, ribs not prominent, margins whitish, thicker than the veins. Spikes 8-21 cm, erect or lax; internodes 7-12 mm; rachises glabrous or with hairs, scabrous on the edges, particularly distally, not disarticulating at maturity. Spikelets 11-18 mm, with 3-10 florets; disarticulation beneath the florets. Glumes oblong, glabrous and mostly smooth, or strigose with 1-1.5 mm hairs, hairs usually evenly distributed, weakly keeled distally, keels scabrous, at least distally, midvein usually more prominent and longer than the lateral veins, margins not hyaline or hyaline near the apices, apices obliquely truncate or obtuse to acute, sometimes mucronate; lower glumes 4.5-7.5 mm long, 1.5-2.5 mm wide, 5-6-veined; upper glumes 5.5-8.5 mm long, 2-3 mm wide, 5-7-veined; lemmas 7.5-10 mm, glabrous or with 1-1.5 mm hairs, hairs usually evenly distributed, sometimes only on the outer portion of the lemmas, apices occasionally awned, awns to 5 mm; paleas 7-9.5 mm, keels usually scabrous for 1/2 their length; anthers 5-7 mm. 2n = 42, 43.</description>
+  <discussion>Thinopyrum intermedium is native to Europe and western Asia. It is widely established in western North America, having been introduced for erosion control, revegetation, forage, and hay. It also occurs in scattered locations further east. One of its advantages for erosion control and revegetation is that it establishes rapidly in many different habitats. In its native range, it grows in dry areas with sandy or stony soils. In Europe, it forms sterile hybrids with Elymus repens; no such hybrids are known from North America.
+Several subspecies have been recognized within Thinopyrum intermedium, usually based on differences in the vestiture of the glumes and lemmas, the presence or absence of lemma awns, and the color of the plants. Assadi (1994) commented that there was little correlation between the different character states. He grew seeds from several wild plants and, even when most of the offspring resembled the parent plant, there was often segregation of some variants. Crossing experiments showed that hybrids between the morphological variants were fertile, and usually had regular meiosis. He noted, however, that the plants with glabrous spikelets tended to grow in mesophytic habitats, those with hairy glumes and lemmas on dry slopes, and those with ciliate glumes and lemmas at the edges of fields and in wet places. This difference in habitat preference was reiterated by Ogle (2001). Because of this ecological distinction, they are formally recognized here as subspecies. Plants with hairs only near the lemma margins are included under T. intemedium subsp. intermedium. They may be derived from crosses between the hairy and glabrous plants, a possibility that has not been experimentally evaluated. There seems to be little correlation between spikelet vestiture and that of the leaves and stems.
+</discussion>
+  <key>
+    <key_body>
+1. Lemmas and glumes glabrous.....subsp. intermedium
+1. Lemmas with hairs, sometimes only on the margins, hairs 1-1.5 mm long; glumes usually hairy throughout, sometimes glabrous but scabrous over the veins.....subsp. barbulatum
+
+    </key_body>
+  </key>
+</bio:treatment>

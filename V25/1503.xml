@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Saccharum brevibarbe (Michx.) Pers. </name_authority_date>
+  </taxon_identification>
+  <common_names>SHORTBEARD PLUMEGRASS</common_names>
+  <description type="morphology">Plants rhizomatous. Culms 0.8-2.5 m; nodes glabrous or pubescent. Sheaths not ciliate; auricles absent; ligules 1-2 mm; blades usually 40-60 cm long, 7-25 mm wide, glabrous. Peduncles 45-75 cm, usually glabrous, occasionally pubescent or minutely pilose; panicles 3-10 cm wide, linear or oblong; rachises (10)30-50 cm, glabrous or sparsely pilose; lowest nodes glabrous or sparsely pilose; primary branches 7-14 cm, appressed; rame internodes 4-6 mm, with hairs. Sessile spikelets 6.5-10.5 mm long, 1.2-1.5 mm wide, purple or straw-colored. Callus hairs 3-7 mm, from shorter than to equaling the spikelets, white to straw-colored or brown; lower glumes 5-veined, smooth basally, scabrous distally; lower lemmas 5.5-8 mm, not or indistinctly veined, initially entire, sometimes becoming bifid, teeth 2-2.5 mm; upper lemmas 5.5-8 mm, 0.9-1 times as long as the lower lemmas, 3-veined, entire or bifid; awns 10-22 mm, always flattened below, sometimes spirally coiled; lodicule veins sometimes extending as hairlike projec¬tions; anthers 2. Pedicels 3-4 mm, with hairs. Pedicellate spikelets similar to the sessile spikelets. 2n = 60.</description>
+  <discussion>Saccharum brevibarbe grows only in the southeastern United States.</discussion>
+  <key>
+    <key_body>
+1. Awns 15-22 mm long, straight or sinuous at the base; upper lemmas of the sessile spikelets entire at maturity   .....var. brevibarbe
+1. Awns 10-18 mm long, spirally coiled at the base, usually with 2-4 coils; upper lemmas of the sessile spikelets bifid at maturity, teeth about 2-2.5 mm long   .....var. contortum
+
+    </key_body>
+  </key>
+</bio:treatment>

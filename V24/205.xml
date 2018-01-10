@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Francisco M. Vazquez</author>
+    </source>
+  </meta>
+  <number>10.05</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>MACROCHLOA Kunth</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 60-170 cm, mostly smooth, scabrous beneath the panicles; basal branching intravaginal; prophylls longer than the sheaths, 2-awned, awns 2-3 cm, velutinous; nodes concealed by the sheaths. Leaves basally concentrated; cleistogenes not developed; sheaths open to the base, smooth, glabrous or hairy, hairs sometimes curly, margins extending into 2 awnlike extensions; auricles absent; ligules truncate, velutinous; blades conduplicate or convolute, about 1 mm in diameter. Inflorescences panicles, contracted, erect. Spikelets 26-30 mm, with 1 floret; rachillas not prolonged beyond the base of the floret; disarticulation above the glumes, beneath the floret. Glumes exceeding the floret, linear to lanceolate, gradually attenuate; florets 9-12 mm, terete; calluses well developed, sharp; lemmas thickly membranous to somewhat indurate, tan to brown, pubescent, margins flat, not overlapping at maturity, apices bifid, awned from between the teeth, teeth 1-6 mm, linear, scarious, awns once-geniculate, first segment twisted, terminal segment straight, scabrous; paleas equaling or exceeding the lemmas, pubescent, 2-veined, not keeled over the veins, flat between the veins, veins terminating before the apices, apices scarious, thinner than the palea body; lodicules 3, glabrous, ovate, acute, posterior lodicule smaller than the lateral lodicules; anthers 3, 10-15 mm, penicillate; ovaries glabrous; style 1, with 2 pilose branches. Caryopses fusiform; hila linear, about as long as the caryopses. x = 8.</description>
+  <discussion>Macrochloa includes one to two species. It is native to the Mediterranean region, where it grows in basic and argillaceous soils. It has traditionally been included in Stipa because of its elongated florets and persistent, long awns. It differs from that genus in its strongly bifid lemmas, well-developed prophylls, lemma anatomy, and chromosome base number. The cross-sectional anatomy of its leaf blades is unique among the Stipeae (Vazquez and Barkworth 2004). One species is cultivated in the Flora region.</discussion>
+  <references>Darke, R. 1999. The Color Encyclopedia of Ornamental Grasses: Sedges, Rushes, Restios, Cat-Tails, and Selected Bamboos. Timber Press, Portland, Oregon, U.S.A. 325 pp.; Hitchcock, A.S. 1951. Manual of the Grasses of the United States, ed. 2, rev. A. Chase. U.S.D.A. Miscellaneous Publication No. 200. U.S. Government Printing Office, Washington, D.C., U.S.A. 1051 pp.; Vazquez, F.M. and M.E. Barkworth. 2004. Resurrection and emendation of Macrochloa (Gramineae: Stipeae). Bot. J. Linn. Soc. 144:483-495.</references>
+</bio:treatment>

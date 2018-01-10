@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Digitaria eriantha Steud. subsp. eriantha</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose, rhizomatous, rhizomes short. Basal sheaths hirsute.</description>
+  <discussion>Digitaria eriantha subsp. eriantha is seed-producing, but it is not clear whether it is being grown in the Flora region.</discussion>
+</bio:treatment>

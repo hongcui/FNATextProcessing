@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bothriochloa bladhii (Retz.) S.T. Blake </name_authority_date>
+  </taxon_identification>
+  <common_names>AUSTRALIAN BLUESTEM</common_names>
+  <description type="morphology">Culms 40-90(150) cm, usually erect; nodes glabrous or short hispid, with mostly appressed, less than 2 mm hairs. Leaves cauline; ligules 0.5-1.5 mm; blades (10)20-35(40) cm long, 1-4.5(5.5) mm wide, mostly glabrous. Panicles 5-15(24) cm, elliptic to lanceolate, reddish at maturity; rachises 6-12(20) cm, with numerous branches; branches 3-7 cm, shorter than the rachises, erect to spreading during anthesis, with axillary pulvini, lower branches with multiple rames; rame internodes with darkened grooves, with sparse, about 1 mm marginal hairs. Sessile spikelets 3.5-4 mm, oblong-ovate; lower glumes glabrous or scabrous, with or without a dorsal pit; awns 10-17 mm, twisted, geniculate; anthers 1-2 mm. Pedicellate spikelets about the same size and shape as the sessile spikelets, or about 1/2 their size, staminate or sterile. 2n = 40, 60, 80.</description>
+  <discussion>Bothriochloa bladhii grows along roadsides and in rangeland pastures, waste ground, and open disturbed areas, at 150-1800 m. It is native to subtropical Asia and Africa and was introduced to the Flora region as a forage grass. It is now established in the southern and central United States. A similar species, B. decipiens (Hack.) C.E. Hubb., has been grown at some experiment stations in the United States. It is not known to be established in North America. Bothriochloa decipiens differs from B. bladhii in having longer (4.7-5.3 mm) sessile spikelets and a single anther.
+The Eastern Hemisphere species of Bothriochloa are thought to be closely related to Capillipedium and Dichanthium, largely because B. bladhii hybridizes with those genera as well as with B. ischaemum.
+</discussion>
+</bio:treatment>

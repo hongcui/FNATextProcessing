@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Karroochloa purpurea (L. f.) Conert & Türpe </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; densely cespitose, shortly rhizomatous. Culms 6-25 cm. Sheaths mostly glabrous, sparsely hispid near the throat; blades to 4 cm long, to 1 mm wide, rolled, falcate to curled, pilose or hispid. Panicles 0.5-2 cm, subcapitate; pedicels mostly shorter than or equaling the spikelets.  Spikelets 4-8  mm, with  3-6 florets. Glumes glabrous or scabrous, dark purple fading to brown; lemma bodies (1.3)1.5-2 mm, with tufts of hairs on the lower portion and in a transverse row below the sinus, apical teeth 1-2 mm; awns (2)3.5-5.5 mm; anthers 1.7-2.2 mm. Caryopses about 0.8 mm. 2n = 12. </description>
+  <discussion>Karroochloa purpurea was grown in the grass garden of the University of California, Berkeley. There is no evidence that it has become established in the Flora region.</discussion>
+</bio:treatment>

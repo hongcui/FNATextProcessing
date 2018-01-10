@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Leersia virginica Willd. </name_authority_date>
+  </taxon_identification>
+  <common_names>WHITE CUTGRASS, WHITEGRASS, LEERSIE DE VIRGINIE</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, rhizomes short, scaly, scales imbricate, giving the rhizomes a "braided" appearance. Culms 30-140 cm tall, 1-1.5 mm thick, branched, sometimes rooting at the nodes, more or less glabrous, pubescent near the nodes. Sheaths glabrous or slightly scabrous; ligules 1-3 mm; blades 4-20 cm long, (1)6-15 mm wide, flaccid, surfaces glabrous or puberulent or the abaxial surfaces sometimes densely pilose, margins hispid. Panicles 10-25 cm, long-exserted at maturity, with 1 branch per node; branches 4-8 cm, spreading, naked on the lower 73, spikelets more or less appressed, scarcely imbricate. Spikelets 2.5-3.6 mm long, 0.4-1.2 mm wide, oblong or ovate. Lemmas ciliate to nearly-glabrous on the keels and margins, glabrous or short-pubescent on the body; paleas glabrous or slighdy ciliate on the keels; anthers 2. Caryopses 2-2.4 mm, slightly compressed, reddish-brown. 2n = 48.</description>
+  <discussion>Leersia virginica grows in moist places in woods and along stream courses east of the Rocky Mountains. The western Wyoming record may represent an introduction. Leersia virginica flowers from July to October.</discussion>
+</bio:treatment>

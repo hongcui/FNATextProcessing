@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Leymus xmultiflorus (Gould) Barkworth & R.J. Atkins </name_authority_date>
+  </taxon_identification>
+  <common_names>MANY-FLOWERED WILDRYE</common_names>
+  <description type="morphology">Plants cespitose, rhizomatous. Culms 65-210 cm tall, 3-5 mm thick. Leaves exceeded by the inflorescences; auricles absent; ligules 0.5-2 mm, truncate, erose; blades 6-15 mm wide, both surfaces glabrous, adaxial surfaces with numerous closely spaced, unequal veins. Inflorescences 15-35 cm long, 9-25 mm wide, usually spikes, with 2-6 spikelets per node, occasionally some nodes with 1-2 branches, branches to 60 mm, strongly ascending; internodes 8-10 mm, usually glabrous, sometimes scabrous. Spikelets 17-25 mm, pedicellate, pedicels 0.5-2(5) mm, with 6-9 florets. Glumes 9-25 mm long, differing in length by 1-4 mm, usually exceeding the lowest lemmas, 0.5-2.5 mm wide, subulate to narrowly lanceolate, stiff, keeled, the central portion thicker than the margins, tapering from the bases, glabrous, smooth proximally, scabrous distally, l(3)-veined, veins inconspicuous at midlength; lemmas 8-12 mm, glabrous, acute to awned, awns to 1.8 mm; anthers about 6 mm, indehiscent. 2n =42.</description>
+  <discussion>Leymus xmultiflorus is a sterile hybrid between Leymus condensatus and L. triticoides that occurs near the coast of central and southern California.</discussion>
+</bio:treatment>

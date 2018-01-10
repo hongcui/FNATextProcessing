@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eremopyrum triticeum (Gaertn.) Nevski </name_authority_date>
+  </taxon_identification>
+  <common_names>ANNUAL WHEATGRASS</common_names>
+  <description type="morphology">
+Culms to 30 cm, mostly glab¬rous, puberulent below the spikes. Sheaths of upper leaves inflated; blades 1-3(6) mm wide, scabrous or shortly pilose distally. Spikes 1.3-2.4 cm long, 0.8-2 cm wide, elliptic, ovate, or nearly circular in outline; disarticulation beneath each floret, sometimes at the base of the spikes, not in the rachises. Spikelets 6-12 mm, with 2-3 florets. Glumes 4-7.5 mm, glabrous, 1-veined and -keeled, becoming 2-keeled by the development of a ridge adjacent to the vein, bases prominently inflated and curved; lemmas 5-7.5 mm, prominently keeled towards the subulate apices, lowest lemma in each spikelet pubescent on the proximal 1/2, hairs 0.1-0.15 mm, glabrous distally, the other lemmas glabrous; palea keels not prolonged. 2n = 14.
+</description>
+  <discussion>Eremopyrum triticeum is known primarily from scattered disturbed sites in western North America, from southern Canada to Arizona and New Mexico. Like most weeds, it is probably more widely distributed than herbarium records indicate. It is tolerant of alkaline soils, and is summer-dormant.</discussion>
+</bio:treatment>

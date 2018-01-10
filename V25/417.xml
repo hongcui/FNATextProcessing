@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bouteloua hirsuta Lag. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; densely or loosely cespitose, occasionally stoloniferous. Culms 15-75 cm, erect or decumbent, sometimes branched basally, sometimes branched aerially; nodes 3-6; internodes glabrous or sparsely to densely pubescent with papillose-based hairs. Leaves basal or mainly cauline; sheaths mostly glabrous, finely scabrous, or pubescent, pilose near the ligules; ligules 0.2-0.5 mm, of hairs; blades 1-30 cm long, 1-2.5 mm wide, flat to involute, papillose-based hairs often present on both surfaces, usually present on the bases of the margins. Panicles usually with 0.7-18 cm rachises bearing 1-6 branches, the branches sometimes digitate; branches 10-40 mm, persistent, straight, with 20-50 spikelets, axes extending 5-10 mm beyond base of the terminal spikelets; disarticulation above the glumes. Spikelets pectinate, green to dark purple, with 1 bisexual floret and 1-2 rudimentary florets. Glumes acuminate or awn-tipped; lower glumes 1.4-3.5 mm; upper glumes 3-6 mm, midveins with papillose-based hairs; lowest lemmas 2-4.5 mm, pubescent, 1-3-awned, central (or only) awns 0.2-2.5 mm, not flanked by membranous lobes, lateral lobes acuminate, unawned or with awns no longer than the central awn; lower paleas ovate, unawned; anthers 2-3.4 mm, cream or yellow; rachilla segments subtending second florets glabrous or pubescent, sometimes with a distal tuft of hairs; second lemmas 0.5-2 mm, bilobed, 3-awned, awns 2-4(6) mm; third lemmas, if present, minute, membranous scales, glabrous. Caryopses 1.5-2.6 mm. 2n = 20, 40, 50, 60; numerous dysploid numbers also reported.</description>
+  <discussion>Bouteloua hirsuta is a widespread species, with two subspecies that frequently hybridize in areas of sympatry (Wipff and Jones 1996).</discussion>
+  <key>
+    <key_body>
+1. Rachilla segments subtending second florets with a distal tuft of hairs; culms erect from the base, usually unbranched.....subsp. pectinata
+1. Rachilla segments subtending second florets without a distal tuft of hairs; culms usually decumbent and branched basally.....subsp. hirsuta
+
+    </key_body>
+  </key>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Torreyochloa erecta (Hitchc.) G.L. Church </name_authority_date>
+  </taxon_identification>
+  <common_names>SPIKED FALSE MANNAGRASS</common_names>
+  <description type="morphology">Culms 20-62 cm tall, 1-1.4 mm thick, usually erect. Ligules of larger cauline leaves 2.6-6.5 mm, truncate or rounded to acute; widest cauline blades 3.4-6(7.2) mm wide. Panicles 5.5-11 cm long, 0.3-1 cm wide, (5.5)6-19 times as long as wide, linear to narrowly elliptic at maturity; lowermost branches stiff to flexuous, reflexed to erect at maturity. Spikelets 4.2-6.4 mm, with 4-7 florets. Lower glumes 0.8-1.6 mm; upper glumes 1-2.1 mm; lemmas 2.3-3.1 mm, obtuse to acute; anthers 0.6-0.8 mm. 2n = 14.</description>
+  <discussion>Torreyochloa erecta grows at elevations above 2000 m, in the margins of subalpine and alpine lakes and streams of the Sierra Nevada and Cascade ranges.</discussion>
+</bio:treatment>

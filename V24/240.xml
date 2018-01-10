@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Nassella cernua (Stebbins & Love) Barkworth</name_authority_date>
+  </taxon_identification>
+  <common_names>CERNUOUS NASSELLA, NODDING NEEDLEGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 30-100 cm tall, 1-2.2 mm thick, erect or geniculate at the basal nodes, 	internodes pubescent below the nodes, lowest internodes sometimes pubescent throughout; nodes 2-3, glabrous. Leaves usually glaucous; sheaths mostly glabrous, throats ciliate; collars mostly glabrous, with sparse tufts of hair at the sides, hairs 1-1.6 mm; ligules 0.2-1.6 mm, glabrous, truncate to rounded; blades 3-26 cm long, 0.4-1.2 mm wide, flat to convolute, abaxial surfaces scabridulous, adaxial surfaces hairy. Panicles 15-80 cm, open, often partially enclosed at maturity; branches 1-6 cm, flexuous or cernuous, with 1-8 spikelets on the distal 1/2; pedicels 3-9 mm. Glumes glabrous, narrowly lanceolate, acuminate; lower glumes 12-22 mm long, 0.9-1.7 mm wide; upper glumes 3-4 mm shorter that the lower glumes; florets 4-9 mm long, 0.6-0.8 mm wide, terete; calluses 1.4-3.6 mm, sharp, strigose; lemmas minutely papillose, tapering to the crown, the proximal 1/4 evenly pubescent, the distal 3/4  pubescent only over the veins; crowns 0.2-0.5 mm long, 0.3-0.35 mm wide, straight-sided, rims with 0.8-1.1 mm hairs; awns 50-110 mm long, 0.2-0.3 mm thick at the base, first geniculation evident, second geniculation obscure, terminal segment cernuous; anthers 3.5-5.5 mm, penicillate. Caryopses 4.5-5.5 mm. 2n = 70.</description>
+  <discussion>Nassella cernua grows in grasslands, chaparral, and juniper associations of the inner coast ranges of California and Baja California, Mexico. Small specimens resemble N. lepida, but have longer and thicker awns and fewer florets. Large specimens resemble N. pulchra, but have thinner awns with cernuous, rather than straight, terminal segments. It is superficially similar to Achnatherum eminens, but differs in its shorter ligules, strongly overlapping lemma margins, glabrous paleas, and geographic distribution.</discussion>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Poa sect. Arenariae (Hegetschw.) Stapf</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; not rhizomatous, not stoloniferous, densely tufted. Basal branching intravaginal. Culms 2-60 cm, terete, bases bulbous. Sheaths closed for about 1/4 their length, lowest sheaths with swollen bases; ligules 1-6 mm, smooth or scabrous, obtuse to acute; blades (0.5)1-2.5 mm wide, flat, thin, lax, soon withering. Panicles (0.8)2-10 cm, ovoid, loosely contracted; nodes with 2-5 branches; branches usually ascending, infrequently spreading, terete, usually smooth or sparsely scabrous, rarely moderately scabrous. Spikelets 3-7 mm, laterally compressed, some or all bulbiferous; florets (2)3-7, forming a bulblet, sometimes the basal 1-2 florets normal. Glumes shorter than the adjacent lemmas, distinctly keeled, keels scabrous; lower glumes 3-veined; calluses terete or slightly laterally compressed, glabrous or dorsally webbed, hairs wrinkled; lemmas normal or leaflike, normal lemmas 2-4 mm, distinctly keeled, glabrous throughout or the keels and marginal veins villous, intercostal regions glabrous or puberulent, leaflike lemmas thickened at the base, bladelike distally; paleas scabrous, keels often softly puberulent at midlength; anthers 3, (0.6)1.2-2 mm, sometimes aborted late in development, sometimes not developed.</description>
+  <discussion>Poa sect. Arenariae is native to Eurasia and North Africa. It includes 14 species. These are easily recognized as members of the section by the bulbous bases of their new shoots. One species is established in the Flora region.</discussion>
+</bio:treatment>

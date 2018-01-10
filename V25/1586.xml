@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Andropogon gyrans var. stenophyllus (Hack.) C.S. Campb.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Ligules  (0.8)1.1-1.5 mm. Inflorescence units usually with 2 rames; rames usually exposed at maturity.</description>
+  <discussion>Andropogon gyrans var. stenophyllus grows in ditches, bogs, savannahs, and pond margins of the coastal plain, from eastern Texas to North Carolina.</discussion>
+</bio:treatment>

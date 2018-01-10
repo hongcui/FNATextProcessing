@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sorghum bicolor (L.) Moench </name_authority_date>
+  </taxon_identification>
+  <common_names>SORGHUM</common_names>
+  <description type="morphology">Plants annual or short-lived perennials; often tillering, without rhizomes. Culms 50-500+ cm tall, 1-5 cm thick, sometimes branching above the base; nodes glabrous or appressed pubescent; internodes glabrous. Ligules 1-4 mm; blades 5-100 cm long, 5-100 mm wide, sometimes glabrous. Panicles 5-60 cm long, 3-30 cm wide, open or contracted, primary branches compound, terminating in rames with 2-7 spikelet pairs; disarticulation usually not occurring or tardy. Sessile spikelets bisexual, 3-9 mm, lanceolate to ovate; calluses blunt; glumes coriaceous to membranous, glabrous, densely hirsute, or pubescent, keels usually winged; upper lemmas unawned or with a geniculate, twisted, 5-30 mm awn; anthers 2-2.8 mm. Pedicels 1-2.6 mm. Pedicellate spikelets 3-6 mm, usually shorter than the sessile spikelets, staminate or sterile. Caryopses often exposed at maturity. 2n = 20, 40.</description>
+  <discussion>Sorghum bicolor was domesticated in Africa 3000 years ago, reached northwestern India before 2500 B.C., and became an important crop in China after the Mongolian conquest. It was introduced to the Western Hemisphere in the early sixteenth century, and is now an important crop in the United States and Mexico. Numerous cultivated strains exist, some of which have been formally named. They are all interfertile with each other and with other wild species of Sorghum.
+The treatment presented here is based on de Wet (1978) and is somewhat artificial. Sorghum bicolor subsp. arundinaceum is the wild progenitor of the cultivated strains, all of which are treated as S. bicolor subsp. bicolor. These strains tend to lose their distinguishing characteristics if left to themselves. They will also hybridize with subsp. arundinaceum, and these hybrids can backcross to either parent, resulting in plants that may strongly resemble one parent while having some characteristics of the other. All such hybrids and backcrosses are treated here as S. bicolor subsp. xdrummondii.</discussion>
+  <key>
+    <key_body>
+1. Inflorescences branches remaining intact at maturity; caryopses exposed at maturity; sessile spikelets 3-9 mm long, elliptic to oblong ..... subsp. bicolor
+1. Inflorescences branches rames, disarticulating at maturity, sometimes tardily; caryopses not exposed at maturity; sessile spikelets 5-8 mm long, lanceolate to elliptic.
+2. Rames readily disarticulating ..... subsp. arundinaceum 
+2. Rames disarticulating tardily  .....subsp. xdrummondii
+
+    </key_body>
+  </key>
+</bio:treatment>

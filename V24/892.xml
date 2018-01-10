@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Deschampsia cespitosa (L.) P. Beauv. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; loosely to tightly cespitose. Culms (7) 35-150 cm, erect, not rooting at the lower nodes. Leaves mostly basal, sometimes forming a dense 10-35 cm tuft; sheaths glabrous; ligules 2-13 mm, scarious, decurrent, obtuse to acute; blades 5-30 cm long, usually at least some flat and 1-4 mm wide,  the remainder folded or rolled and 0.5-1 mm in diameter, adaxial surfaces with 5-11 prominent ribs, ribs usually all  papillose, scabridulous, or scabrous, sometimes puberulent, outer ribs sometimes more strongly so than the inner ribs. Panicles 8-30(40) cm, 4-30 cm wide, usually open and pyramidal, sometimes contracted and ovate; branches straight to slightly flexuous, usually strongly divergent, sometimes strongly ascending, lower branches often scabridulous or scabrous, particularly distally, with not or only moderately imbricate spikelets. Spikelets 2.5-7.6 mm, ovate to V-shaped, laterally compressed, usually bisexual, sometimes viviparous, bisexual spikelets usually with 2(3) florets, rarely with 1. Glumes lanceolate, acute; lower glumes 2.7-7 mm, entire, 1-3-veined, midvein sometimes scabridulous, at least distally; upper glumes 2-7.5 mm, 1-3-veined, lanceolate, midvein smooth or wholly or partly scabridulous; callus hairs 0.2-2.3 mm; lemmas 2-5(7) mm, smooth, shiny, glabrous, usually purple over less than 1/2 their surface, purple or green proximally, if green, often with a purple band about midlength, usually green or pale distally, usually awned, awns (0.5)1-8 mm, attached from near the base to about  midlength,  straight  or  geniculate, sometimes exceeding the glumes; anthers 1.5-3 mm. Caryopses 0.5-1 mm. 2n = 18, 24, 25, 26-28, about 39, 52. The voucher specimens for these counts have not been examined.</description>
+  <discussion>Deschampsia cespitosa is circumboreal in the Northern Hemisphere, and also grows in New Zealand and Australia. It is an attractive taxon that grows in wet meadows and bogs, and along streams and lakes, from sea level to over 3000 m in cool-temperate, but not arctic, habitats.
+There are widely varying opinions concerning the taxonomic treatment of Deschampsia cespitosa. Tsvelev, Aiken, Murray, and Elven (per Murray, pers. com. 2005) recommend a narrow circumscription, and consider D. cespitosa to be introduced and mostly ruderal in regions other than Europe and western Siberia. Chiapella and Probatova (2003) adopted a much broader interpretation of D. cespitosa, treating many of the species recognized in, for example, Tsvelev (1995) as subspecies. There have been no interdisplinary, global studies of the complex. The circumscription adopted here is narrower than has been customary in North America. Some of the distribution records shown, particularly those from the northern part of the region, may reflect the broad interpretation of the species.
+Lawrence (1945) demonstrated that, in western North America, Deschampsia cespitosa exhibits both ecotypic differentiation and a high degree of plasticity. The following three subspecies intergrade.</discussion>
+  <key>
+    <key_body>
+1. Panicles contracted at anthesis, the branches appressed to ascending; glumes 4.5-5.8 mm long, midvein of the lower glumes scabrous distally .....subsp. holciformis
+1. Panicles open at anthesis, the branches strongly divergent to drooping; glumes 2-7.5 mm long; midvein of the lower glumes smooth or scabridulous distally. 
+2. Plants often glaucous; glumes 4.4-7.5 mm long; awns usually exceeding the lemmas; plants of the northwest coast of North America .....subsp. beringensis
+2. Plants not glaucous; glumes 2-6 mm long; awns exceeded by or exceeding the lemmas; plants widespread in North America .....subsp. cespitosa
+
+    </key_body>
+  </key>
+</bio:treatment>

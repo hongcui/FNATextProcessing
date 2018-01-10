@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Aristida purpurea var. perplexa Allred & Valdes-Reyna </name_authority_date>
+  </taxon_identification>
+  <common_names>JORNADA THREEAWN</common_names>
+  <description type="morphology">Culms 30-65 cm. Blades 8-20 cm, involute. Panicles 8-20 cm; primary branches stiff, lower branches diverging or divaricate, with axillary pulvini, upper branches usually strongly divergent, sometimes ascending; pedicels often with axillary pulvini; terminal spikelets usually appressed. Glumes reddish; lower glumes (4.5)5-7(7.5) mm, Vi-A as long as the upper glumes; upper glumes 8-11(12) mm; lemmas (8)10-12(13) mm long, narrowing to 0.1-0.2 mm wide; awns subequal, (13)18-30 mm long, 0.1-0.2 mm wide. 2n = unknown.</description>
+  <discussion>Aristida purpurea var. perplexa grows in sandy to rocky plains and on mesas in desert grassland and scrub communities, often in calcareous soils, in both the Flora region and Mexico. It is sometimes confused with A. pansa, which differs in having cobwebby hairs at the collar, equal glumes, and shorter awns.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Leersia lenticularis Michx.</name_authority_date>
+  </taxon_identification>
+  <common_names>CATCHFLY GRASS, OATMEAL GRASS</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, rhizomes moderately elongate, scaly. Culms 50-150 cm tall, 1-3 mm thick, usually ascending, unbranched or branched; nodes retrorsely hispidulous, adjacent portion of the internodes glabrous. Sheaths glabrous or scabrous; ligules 0.5-1.5 mm; blades 4-35 cm long, 5-22 mm wide, spreading to somewhat ascending, abaxial surfaces glabrous or scabridulous, adaxial surfaces glabrous or pubescent, margins usually scabrous. Panicles 4-25 cm, exserted, with 1(2) branches per node; branches 8-15 cm, spreading, secund, lower branches naked on the lower 73, spikelets strongly imbricate. Spikelets 4-5.5 mm long, 3-4 mm wide, broadly elliptic to suborbicular. Lemmas coarsely ciliate on the keels, variously pubescent on the margins and body, mucronate; paleas ciliate on the keels; anthers 2. Caryopses 3.5-4 mm, reddish-brown. 2n = 48.</description>
+  <discussion>Leersia lenticularis grows in river bottoms and moist woods of the midwestern and southeastern United States. It flowers from July to November. Ohio and Maryland list it as an endangered species.</discussion>
+</bio:treatment>

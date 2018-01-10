@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>18</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus diversiglumis Scribn. & C.R. Ball. </name_authority_date>
+  </taxon_identification>
+  <common_names>UNEQUAL-GLUMED WILDRYE</common_names>
+  <description type="morphology">Plants cespitose, not rhizomatous, sometimes moderately glacous. Culms 70-160 cm, erect; nodes 4-9, mostly exposed, glabrous. Leaves evenly distributed; sheaths glabrous, often purplish; auricles 1-2 mm, purplish or brownish black; ligules usually 1-2 mm; blades 5-17 mm wide, lax, adaxial surfaces usually pilose, at least on the veins, occasionally scabrous. Spikes 8-28 cm long, 3-5 cm wide, nodding to pendent, with 2 spikelets per node, rarely with 1 or 3 at a few nodes; internodes 4-6(9) mm long, 0.2-0.3 mm thick at the thinnest sections, margins and summits often pubescent. Spikelets 10-16 mm, appressed, with 2-4(5) florets, lowest florets functional; disarticulation above the glumes, beneath each floret. Glumes usually differing in length by at least (3)4 mm, occasionally obsolete, (1)2-15(20) mm long including the undifferentiated awns, indurate at the base, (0.1)0.2-0.4(0.6) mm wide, setaceous, 0-1-veined, tapering from the base, scabrous or hispidulous at least towards the apices, margins firm, awns often outcurving; lemmas 7-12 mm, usually silvery-hirsute to sericeous, occasionally hirtellous or strigose, at least near the margins, backs sometimes scabrous, awns 18-35 mm, moderately to strongly outcurving at maturity; paleas 7-10 mm, obtuse, occasionally emarginate; anthers 2-4 mm. Anthesis from early June to late July. 2n = 28.</description>
+  <discussion>Elymus diversiglumis grows in moist to dry, often base-rich and alluvial soils, in open woods, woodland margins, and thickets in the northern Great Plains, from Saskatchewan and Manitoba to Wyoming, Wisconsin, and Iowa.
+Elymus diversiglumis is a variable species that, like E. svensonii (p. 314) and E. churchii (p. 314), may have originated from hybrids between E. canadensis var. canadensis (p. 305) and E. hystrix (see next), although part of its range extends further west than the current distribution of the latter species. Elymus diversiglumis usually reaches anthesis 2-4 weeks earlier than sympatric populations of E. canadensis. Church (1954, 1958, 1967a) found that most artificial canadensis-hystrix hybrids, as well as some plants of E. diversiglumis itself, are sterile. Those that were not sterile could occasionally form fertile backcrosses with E. canadensis and, to a lesser extent, with E. hystrix. Introgressant populations involving all three species are known. Artificial crosses with other species have not been successful.
+</discussion>
+</bio:treatment>

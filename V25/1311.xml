@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>J.K. Wipff </author>
+      <author>Rahmona A. Thompson</author>
+    </source>
+  </meta>
+  <number>25.13</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>UROCHLOA P. Beauv.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; usually cespitose, sometimes mat-forming, sometimes stoloniferous. Culms 5-500 cm, herbaceous, erect, geniculate, or decumbent and rooting at the lower nodes. Sheaths open; auricles rarely present; ligules apparently of hairs, the basal membranous portion inconspicuous; blades ovate-lanceolate to lanceolate, flat. Inflorescences terminal or terminal and axillary, usually panicles of spikelike primary branches in 2 or more ranks, rachises not concealed by the spikelets; primary branches usually alternate or subopposite, spikelike, and 1-sided, less frequently verticillate, axes flat or triquetrous, usually terminating in a well-developed, rudimentary spikelet; secondary branches present or absent, axes flat or triquetrous; disarticulation beneath the spikelets. Spikelets solitary, paired, or in triplets, subsessile or pedicellate, divergent or appressed, ovoid to ellipsoid, dorsally compressed, in 1-2(4) rows, with 2 florets, lower or upper glumes adjacent to the branch axes. Glumes not saccate basally; lower glumes usually 1/5 – 2/3 as long as the spikelets, occasionally equaling the upper florets, (0)1-11-veined; upper glumes 5-13-veined; lower florets sterile or staminate; lower lemmas similar to the upper glumes, 5-9-veined; lower paleas if present, usually hyaline, 2-veined; upper florets bisexual, sessile, ovoid to ellipsoid, usually plano-convex, usually glabrous, not disarticulating, mucronate or acuminate; upper lemmas indurate, transversely rugose and verrucose, 5-veined, margins involute, apices round to mucronate, or aristate; upper palea rugose, shiny or lustrous; lodicules 2, cuneate, truncate; anthers 3. Caryopses ovoid to elliptic, dorsally compressed; embryos 1/2 - 3/4 as long as the caryopses; hila punctate to linear, x = 7, 8, 9, or 10. </description>
+  <discussion>Urochloa is a genus of approximately 100 tropical and subtropical species. There are 19 species found in the Flora region. Eight species are established introductions, six are native, three are cultivated as grain or forage crops, and two have been found in the region but are not known to be established.
+Urochloa differs from Brachiaria in its two or more ranks of panicles and rugose, non-disarticulating, distal florets. The rugose, often mucronate or aristate, distal florets also distinguish it from most species of Panicum.
+</discussion>
+  <references>Clayton, W.D. and S.A. Renvoize. 1982. Flora of Tropical East Africa. Gramineae (Part 3). A.A. Balkema, Rotterdam, The Netherlands. 448 pp.; Davidse, G. and R.W. Pohl. 1994. Urochloa P. Beauv. Pp. 331-333 in G. Davidse, M. Sousa S., and A.O. Chater (eds.). Flora Mesoamericana, vol. 6: Alismataceae a Cyperaceae. Universidad Nacional Autonoma de Mexico, Instituto de Biologfa, Mexico, D.F., Mexico. 543 pp.; Fox, W.E., III and S.L. Hatch. 1996. Brachiaria eruciformis and Urochloa hrizantha (Poaceae: Paniceae) new to Texas. Sida 17:287-288; Hall, D.W. 1978. The Grasses of Florida. Ph.D. dissertation, University of Florida, Gainesville, Florida, U.S.A. 498 pp.; Morrone, O. and F.O. Zuloaga. 1992. Revision de las especies Sudamericanas nativas e introducidas de los generos Brachiaria y Urochloa (Poaceae: Panicoideae: Paniceae). Darwiniana 31:43-109; Morrone, O. and F.O. Zuloaga. 1993. Sinopsis del genero Urochloa (Poaceae: Panicoideae: Paniceae) para Mexico y America Central. Darwiniana 32:59-75; Pohl, R.W. 1980. Flora Costaricensis: Family #15, Gramineae. Fieldiana, Bot., n.s., 4:1-608; Reed, C.F. 1964. A flora of the chrome and manganese ore piles at Canton, in the Port of Baltimore, Maryland and at Newport News, Virginia, with descriptions of genera and species new to the flora of the eastern United States. Phytologia 10:321^05; Sendulsky, T. 1978. Brachiaria: Taxonomy of cultivated and native species in Brazil. Hoehnea 7:99-139; Veldkamp, J.F. 1996. Brachiaria, Urochloa (Gramineae-Paniceae) in Malesia. Blumea 41:413-437; Webster, R.D. 1987. The Australian Paniceae (Poaceae). J. Cramer, Berlin and Stuttgart, Germany. 322 pp.; Wipff, J.K., R.I. Lonard, S.D. Jones, and S.L. Hatch. 1993. The genus Urochloa (Poaceae: Paniceae) in Texas, including one previously unreported species for the state. Sida 15:405-413.</references>
+  <key>
+    <key_body>
+1. Branches at the lowest node of the inflorescence verticillate; inflorescences simple, open panicles, the primary branches with well-developed secondary and tertiary branches; plants perennial   .....18. U. maxima
+1. Branches at the lowest node of the inflorescence not verticillate; inflorescences usually with spikelike branches, secondary branches absent or inconspicuous, sometimes simple panicles; plants annual or perennial. 
+2. Spikelets paired at mid-branch length, sometimes solitary distally.
+3. Axes of the primary panicle branches flat; lower glumes (0)l-3-veined.
+4. Plants annual; culms 10-35 cm tall; spikelets 1.8-2.2 mm long.....2. U. reptans
+4. Plants perennial; culms 20-500 cm tall; spikelets 2.5-5 mm long.
+5. Upper lemmas awned, the awns 0.5-1.2 mm; lower glumes 3-veined, with 1-3 conspicuous, rigid hairs .....8. U. mosambicensis
+5. Upper lemmas unawned; lower glumes 1-3-veined, glabrous   .....1. U. mutica
+3. Axes of the primary panicle branches triquetrous; lower glumes 3-7-veined.
+6. Spikelets 4.8-6 mm long; hila linear, about 1/2 as long as the caryopses   .....3. U. texana
+6. Spikelets 2-4.2 mm long; hila punctate.
+7. Branch axes densely hairy, the hairs papillose-based.....4. U. arizonica
+7. Branch axes sometimes densely hairy, with few or no papillose-based hairs. 
+8. Upper glumes with evident cross venation extending from near the bases to the apices; spikelets obovoid; upper glumes and lower lemmas usually glabrous; lower lemmas 7-veined .....5. U. fusca
+8. Upper glumes without evident cross venation, or the cross venation confined to the distal 1/2; spikelets ellipsoid; upper glumes and lower lemmas glabrous or pubescent; lower lemmas 5-veined. 
+9. Cauline nodes glabrous; plants 20-120 cm tall; spikelet apices abruptly acuminate .....6. U. adspersa
+9. Cauline nodes pubescent; plants 10-70 cm tall, spikelets apices broadly acute to acute. 
+10. Upper glumes 5-veined; upper lemmas 1.8-2.1 mm long; glumes separated by an internode about 0.3 mm long .....11. U. villosa
+10. Upper glumes 7-9-veined; upper lemmas 2.3-3.3 mm long; glumes not separated by a conspicuous internode .....7. U. ramosa
+2. Spikelets solitary at mid-branch length.
+11. Panicle branches triquetrous, 0.2-0.4 mm wide.
+12. Plants perennial; upper glumes (9) 11-13-veined; upper lemmas 2.4-2.8 mm long; glumes not separated by a conspicuous internode; lower florets staminate .....17. U. ciliatissima
+12. Plants annual; upper glumes 5-veined; upper lemmas 1.8-2.1 mm long; glumes separated by an internode about 0.3 mm long; lower florets sterile .....11. U. villosa
+11. Panicle branches flat or crescent-shaped in cross section, 0.5-2.5 mm wide.
+13. Upper lemmas awned, the awns 0.3-1.2 mm long, apices rounded.
+14. Plants perennial; lower glumes with 1-3 conspicuous, rigid hairs, the lower glumes 1/2 - 3/4 as long as the spikelet; lower florets staminate .....8. U. mosambicensis
+14. Plants annual; lower glumes without conspicuous, rigid hairs; the lower glumes 1/4 - 1/3(1/2)  as long as the spikelet; lower florets sterile .....14. U. panicoides
+13. Upper lemmas unawned; apices variable, with or without a mucronate tip.
+15. Spikelets in a single row along the branches; spikelets 4-6 mm long; lower florets staminate; panicle branch axes crescent-shaped in cross section  .....10. U. brizantba
+ 
+ 
+15. Spikelets in 2 rows along the branches; spikelets 2.5-6 mm long; lower florets sterile or staminate; panicle branches flat.
+16. Lower glumes  5-7-veined; glumes scarcely separated,  the internode between them shorter than 0.3 mm. 
+17. Upper glumes and lower lemmas pubescent, the hairs often long in the distal 1/3 .....9. U.  piligera
+17. Upper glumes and lower lemmas glabrous.
+18. Plants perennial, stoloniferous; lower florets staminate  .....16. U.  arrecta
+18. Plants annual; lower florets sterile  .....15. U.  platyphylla
+16. Lower glumes  (7)9-11-veined;  glumes  separated  by  a  conspicuous, 0.3-0.5 mm internode.
+19. Lower paleas absent; spikelets usually pubescent, sometimes glabrous   .....9. U.  piligera
+19. Lower paleas present; spikelets glabrous.
+20. Spikelets 3.3-3.7 mm long; base of blades rounded to subcordate, not clasping the stem .....12. U.  subquadripara
+20. Spikelets 4-6 mm long; base of blades subcordate to cordate, clasping the stem .....13. U.  plantaginea
+
+    </key_body>
+  </key>
+</bio:treatment>

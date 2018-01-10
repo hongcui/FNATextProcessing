@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Festuca sect. Breviaristatae Krivot.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants  usually densely cespitose,  sometimes loosely cespitose, rhizomes  short or  absent. Innovations mostly intravaginal. Blades usually more or less stiff, conduplicate, sometimes convolute or flat; ribs usually distinct; sclerenchyma girders usually present at the major veins, rarely absent. Calluses wider than long, scabrous on the margins; lemmas chartaceous, sometimes somewhat coriaceous, apices entire, awned or unawned; ovary apices usually pubescent, sometimes sparsely pubescent, rarely glabrous.</description>
+  <discussion>Festuca sect. Breviaristatae is distributed in Asia and North America. It contains about 15 species.</discussion>
+</bio:treatment>

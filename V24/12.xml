@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Arundinaria appalachiana Triplett, Weakley & L.G. Clark</name_authority_date>
+  </taxon_identification>
+  <common_names>HILL CANE</common_names>
+  <description type="morphology">Rhizomes normally horizontal for only a short distance before turning up to form a culm, sometimes hollow-centered, air canals sometimes present. Culms 0.5-1 (1.8) m tall, 0.2-0.6 cm thick; internodes terete. Culm leaves persistent to tardily deciduous; sheaths 5.5-11 cm; fimbriae 1-4.6 mm; blades 0.8-1.4 cm. Topknots of 6-12 leaves; blades 9-22.5 cm long, 1.4-2.8 cm wide, linear, linear-lanceolate, or ovate-lanceolate. Primary branches usually shorter than 35 cm, erect, terete, with 2-5 compressed basal internodes, basal nodes not developing secondary branches. Foliage leaves: abaxial ligules glabrous or ciliate, fimbriate or lacerate; blades 5-20 cm long, 0.8-2 cm wide, chartaceous, deciduous, bases rounded, abaxial surfaces pilose or glabrous, weakly cross veined, adaxial surfaces pilose. Spikelets 3-5.5 cm, usually somewhat reddish purple, with 5-8 florets. 2n = unknown.</description>
+  <discussion>Arundinaria appalachiana grows on moist to dry slopes and in seeps. It is restricted to the southern Appalachians and upper piedmont.</discussion>
+</bio:treatment>

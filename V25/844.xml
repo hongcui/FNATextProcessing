@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Cynodon dactylon (L.) Pers. </name_authority_date>
+  </taxon_identification>
+  <common_names>BERMUDAGRASS</common_names>
+  <description type="morphology">Plants stoloniferous, usually also rhizomatous. Culms 5-40(50) cm, not becoming woody. Sheaths glabrous or with scattered hairs; collars usually with long hairs, particularly at the margins; ligules about 0.5 mm, of hairs; blades 1-6(16) cm long, (1)2-4(5) mm wide, flat at maturity, conduplicate or convolute in bud, glabrous or the adaxial surfaces pilose. Panicles with (2)4-6(9) branches; branches 2-6 cm, in a single whorl, axes triquetrous. Spikelets 2-3.2 mm. Lower glumes 1.5-2 mm; upper glumes 1.4-2.3 mm; lemmas 1.9-3.1 mm, keels not winged, pubescent, margins usually less densely pubescent; anthers dehiscent at maturity; paleas glabrous. 2n = 18, 36.</description>
+  <discussion>Cynodon dactylon is a variable species, but taxonomists disagree on just how variable. Caro and Sanchez (1969) limited C. dactylon to plants with conduplicate leaves, placing those with convolute leaves in a number of other species, such as C. affinis Caro & Sanchez and C. aristiglumis Caro & Sanchez; de Wet and Harlan (1970) do not mention this character in their study of Cynodon, Caro and Sanchez also employed several other characters in the key separating C. dactylon from the species with convolute immature leaves, but the overlap between the two sides of the lead is substantial. Pending further study, the broader interpretation, in which C. dactylon includes plants with both convolute and conduplicate leaves, has been adopted.
+Several varieties of C. dactylon have been described, in addition to which numerous cultivars have been developed, some as turf grasses for lawns or putting greens, others as pasture or forage grasses. Their useful range is limited because C. dactylon is not cold hardy, going dormant and turning brown when nighttime temperatures fall below freezing or average daytime temperatures are below 10°C.
+The most commonly encountered variety, both in the Flora region and in other parts of the world, is C. dactylon var. dactylon, largely because it thrives in severely disturbed, exposed sites; it does not invade natural grass-lands or forests. Determining how many other varieties are established in the Flora region is almost impossible, because there has been no global study of variation in the species. The presence of numerous cultivars complicates an already difficult problem. The two varieties keyed out below are the only two that grow in the Flora region according to de Wet and Harlan (1970), but these authors do not appear to have considered the taxa recognized by Caro  and  Sanchez   (1969).  For most purposes, it is  
+probably neither necessary nor feasible to identify the variety of C. dactylon encountered.
+Cynodon dactylon is considered a weed in many countries and it is true that, once established, it is difficult to eradicate. It does, however, have some redeeming values. It is rich in vitamin C, and its leaves are sometimes used for an herbal tea. It is claimed to have various medicinal properties, but these have not been verified. It is considered a good pasture grass, in addition to which it is sometimes grown as an ornamental and for erosion control on exposed soils.
+</discussion>
+  <key>
+    <key_body>
+1. Rhizomes near the surface (sometimes surfacing for a short distance before submerging again), the tips eventually surfacing and, like the lateral buds, producing tillers.....var. dactylon
+1. Rhizomes growing up to 1 m deep, the tips remaining below ground, only the lateral buds producing tillers .....var. aridus
+
+    </key_body>
+  </key>
+</bio:treatment>

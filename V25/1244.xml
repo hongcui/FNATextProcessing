@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Panicum psilopodium Trin. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual; forming small clumps. Culms 20-60 cm tall, 0.8-1.2 mm thick, shortly decumbent to geniculate basally, erect distally; nodes glabrous; internodes glabrous. Sheaths shorter or longer than the internodes, rounded, smooth, glabrous; ligules about 1 mm; blades 5-15 cm long, 2-8 mm wide, flat, linear, glabrous or with a few marginal cilia near the base, bases contracted, apices long-acute. Panicles 10-20 cm long, 6-12 cm wide, exserted or partially included; primary branches alternate, ascending to strongly divergent, developing secondary branches in the basal 1/3 – 1/2, pedicels 4-9 mm, ascending. Spikelets 2.7-3.2 mm long, 1-1.2 mm wide, ovoid-ellipsoid, green tinged with purple, glaucous, glabrous, acute. Lower glumes 0.7-1.1 mm, about 2/5 as long as the spikelets, acute to attenuate; upper glumes and lower lemmas similar, equaling the spikelets, 11-13-veined, tapering to apiculate apices; lower paleas 1-2 mm; lower florets sterile; upper florets about 2.2 mm, ellipsoid, smooth, shiny, yellow at maturity, apices acute. 2n = 54.</description>
+  <discussion>Panicum psilopodium is native to eastern Asia. It has been reported from chrome ore piles in Canton, Maryland (Reed 1964), but no voucher specimens have been seen. In its native range it grows in open habitats, such as roadsides and waste places.  </discussion>
+</bio:treatment>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Jacques Cayouette </author>
+      <author>Stephen J. Darbyshire  </author>
+    </source>
+  </meta>
+  <number>14.41</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>VAHLODEA Fr.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; loosely cespitose. Culms 15-80 cm. Sheaths open nearly to the base; auricles absent; ligules membranous; blades rolled in the bud, flat. Inflorescences open or closed panicles; branches often flexuous, capillary, spikelets distal, some branches longer than 1 cm. Spikelets pedicellate, usually with 2 florets, sometimes with additional distal rudimentary florets; rachillas prolonged beyond the base of the distal florets about 0.5 mm or less, usually glabrous, sometimes with a few hairs; first internodes about 0.5 mm; disarticulation above the glumes, beneath the florets. Glumes subequal to equal, equaling or exceeding the florets, membranous, acute to acuminate, unawned; lower glumes l(3)-veined; upper glumes 3-veined; calluses obtuse, pilose, hairs about 1/2 as long as the lemmas; lemmas ovate, with 5(7) obscure veins, awned, awns attached near the middle of the lemmas, twisted, geniculate, visible between the glumes; paleas subequal to the lemmas; lodicules 2, membranous, toothed or not toothed; anthers 3; ovaries glabrous. Caryopses shorter than the lemmas, concealed at maturity, ellipsoid and irregularly triangular or ovate in cross section, deeply grooved, sometimes adhering to the lemmas and paleas; hila linear to oblong, 1/4-1/2 the length of the caryopses. x = 7. </description>
+  <discussion>Vahlodea is a monotypic genus with a discontinuous circumboreal distribution. It also grows in southern South America. The genus is sometimes included in Deschampsia, from which it differs in having loosely cespitose shoots and leaves that are usually mostly cauline, rather than mostly basal as in the perennial species of Deschampsia. The rachilla is prolonged beyond the upper floret for less than 0.5 mm in Vahlodea and is usually glabrous or has only a few hairs. In Deschampsia, the rachilla is usually prolonged more than 0.5 mm and is usually densely pubescent with long hairs. The caryopses of Vahlodea are ellipsoid, irregularly triangular or ovate in cross section, deeply grooved, and with a hilum 1/4-1/2 the length of the caryopsis. In Deschampsia, the caryopses are narrowly ellipsoid to fusiform, elliptic or ovate in cross section, grooved or not, and with a hilum 1/10-1/3 the length of the caryopsis.</discussion>
+  <references>Haraldsen, K.B., M. 0degaard, and I. Nordal. 1991. Variation in the amphi-Atlantic plant Vahlodea atropurpurea (Poaceas). J. Biogeogr. 18:311-320.
+ 
+</references>
+</bio:treatment>

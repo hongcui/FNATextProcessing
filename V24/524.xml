@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Leymus salina (M.E. Jones) Barkworth subsp. salina </name_authority_date>
+  </taxon_identification>
+  <common_names>SALINA WILDRYE</common_names>
+  <description type="morphology">Culms 39-102 cm. Basal sheaths glabrous; blades strongly involute, abaxial surfaces glabrous, adaxial surfaces pubescent, usually densely hairy above the ligules. Spikes with 1 spikelet at most nodes, including those at midspike. 2n = 28.</description>
+  <discussion>Leymus salina subsp. salina grows on rocky hillsides, primarily in eastern Utah and western Colorado, extending into southern Wyoming and northern Arizona and New Mexico.</discussion>
+</bio:treatment>

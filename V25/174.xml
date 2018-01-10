@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Khidir W. Hilu</author>
+    </source>
+  </meta>
+  <number>17.27</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>ELEUSINE Gaertn.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; cespitose. Culms 10-150 cm, herbaceous, glabrous, branching both at and above the base. Sheaths open; ligules membranous, ciliate. Inflorescences terminal, panicles of (1)2-20 non-disarticulating, spikelike branches, exceeding the upper leaves; branches 1-17 cm, all or most in a digitate cluster, sometimes 1(2) branch(es) attached immediately below the terminal whorl, axes flattened, terminating in a functional spikelet. Spikelets 3.5-11 mm, laterally compressed, with 2-15 bisexual florets; disarticulation above the glumes and between the florets (E. coracana not disarticulating). Glumes unequal, shorter than the lower lemmas; lower glumes 1-3-veined; upper glumes 3-5(7)-veined; lemmas 3-veined, glabrous, keeled, apices entire, neither mucronate nor awned; paleas sometimes with winged keels; anthers 3, 0.5-1 mm; ovaries glabrous. Fruits modified caryopses, pericarp thin, separating from the seed at an early stage in its development; seeds usually obtusely trigonous, the surfaces ornamented, x = 8, 9, 10. </description>
+  <discussion>Eight of the nine species of Eleusine ate native to Africa, where they grow in mesic to xeric habitats; the exception, E. tristachya, is native to South America. Three species have become established in the Flora region. When moistened, the seeds of all species are easily freed from the thin pericarp.
+Eleusine coracana subsp. africana, E. indica, and E. tristachya are widely distributed weeds. Eleusine coracana subsp. coracana was domesticated in East Africa and subsequently introduced to India and China. It is frequently grown for grain in India and Africa.
+</discussion>
+  <references>Hilu, K.W. 1980. Noteworthy collections: Eleusine tristachya. Madrono 27:177-178; Hilu, K.W. and J.L. Johnson. 1997. Systematics of Eleusine Gaertn. (Poaceae, Chloridoideae): Chloroplast DNA and total evidence. Ann. Missouri Bot. Gard. 84:841-847; Phillips, S.M. 1972. A survey of the genus Eleusine Gaertner (Gramineae) in Africa. Kew Bull. 27:251-70.</references>
+  <key>
+    <key_body>
+1. Panicles with 1-3 oblong branches 1-6(8) cm long, attached in a single digitate cluster .....3. E. tristachya
+1. Panicles with 4-20 linear branches 3.5-17 cm long, 1(2) of the branches attached below the terminal, digitate cluster.
+2. Lower glumes 1-veined; panicle branches 3-5.5 mm wide; surface of the seeds striate  .....1. E. indica
+2. Lower glumes 2- or 3-veined; panicle branches 5-15 mm wide; surface of the seeds granular .....2. E. coracana
+ 
+
+    </key_body>
+  </key>
+</bio:treatment>

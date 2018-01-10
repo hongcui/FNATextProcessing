@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>10.08</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>HESPEROSTIPA (M.K. Elias) Barkworth</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 12-110 cm, erect, not branching at the upper nodes; prophylls shorter than the sheaths. Leaves not overwintering, not basally concentrated; cleistogenes not developed; sheaths smooth; auricles absent; ligules membranous, frequently ciliate; blades 4-40 cm long, 0.5-4.5 mm wide, usually tightly involute, adaxial surfaces conspicuously ridged, apices narrowly acute, not sharp. Inflorescences terminal panicles, contracted or open. Spikelets 15-60 mm, with 1 floret; rachillas not prolonged beyond the base of the floret; disarticulation above the glumes and beneath the floret. Glumes 15-60 mm long, 2-4 mm wide, tapering from near the base to a hairlike tip; florets 7-25 mm, narrowly cylindrical; calluses 2-6 mm, sharp, densely strigose distally; lemmas indurate, smooth, margins flat, slightly overlapping at maturity, the upper portion fused into a papillose, ciliate crown, awned, lemma-awn junction distinct; awns 50-225 mm, persistent, twice-geniculate, often weakly so, lower segments twisted and scabrous to pilose, terminal segment not twisted, usually scabridulous or pilose; paleas equal to the lemmas, flat, pubescent, coriaceous, 2-veined, veins terminating at the apices, apices indurate, prow-tipped; anthers 3, 1.2-9 mm. Caryopses fusiform, not ribbed, x = 11. </description>
+  <discussion>Hesperostipa is a North American endemic that resembles the Eurasian Stipa sensu stricto in overall morphology, but is more closely related to the primarily South American genera Piptochaetium and Nassella. It differs from Stipa sensu stricto in its indurate palea apices and its lemma epidermal patterns. There are five species in the genus, four of which are found in the Flora region. The fifth species, from southern Mexico, is known only from the type specimen.</discussion>
+  <references>Barkworth, M.E. 1977. A taxonomic study of the large-glumed species of Stipa (Gramineae) in Canada. Canad. J. Bot. 56:606-625; Barkworth, M.E. and J. Everett. 1987. Evolution in the Stipeae: Identification and relationships of its monophyletic taxa. Pp. 251-264 in T.R. Soderstrom, K.W. Hilu, C.S. Campbell, and M.E. Barkworth (eds.). Grass Systematics and Evolution. Smithsonian Institution Press, Washington, D.C., U.S.A. 473 pp.; Elias, M.K. 1942. Tertiary Prairie Grasses and Other Herbs from the High Plains. Geological Society of America Special Paper No. 41. The [Geological] Society [of America, New York, New York, U.S.A.]. 176 pp.; Misra, K.C. 1961. Geography, morphology, and environmental relationships of certain Stipa species in the northern Great Plains. Ph.D. dissertation, University of Saskatchewan, Saskatoon, Saskatchewan, Canada. 141 pp.; Misra, K.C. 1963. Phytogeography of the genus Stipa L. Trop. Ecol. 4:1-20 [reprint pagination]; Thomasson, J.R. 1979. Late Cenozoic Grasses and Other Angiosperms from Kansas, Nebraska, and Colorado: Biostratigraphy and Relationships to Living Taxa. Kansas Geological Survey, Bulletin No. 218. University of Kansas, Lawrence, Kansas, U.S.A. 68 pp.</references>
+  <key>
+    <key_body>
+1. Awns pilose on all segments, the terminal segment with hairs 1-3 mm long.....2. H. neomexicana
+1. Awns scabrous to strigose on the first 2 segments, the terminal segment scabridulous. 
+2. Lemmas usually evenly white-pubescent, sometimes glabrous immediately above the callus; lower ligules often lacerate  .....1.H. comata
+2. Lemmas unevenly pubescent with brown to beige hairs; lower ligules not lacerate.
+3. Florets 8.5-14(17) mm long; awns 50-105 mm long; lower nodes usually glabrous, occasionally evenly pubescent   .....3.H. curtiseta
+3. Florets 15-25 mm long; awns 90-190 mm long; lower nodes usually with lines of pubescence .....4.H. spartea
+    </key_body>
+  </key>
+</bio:treatment>

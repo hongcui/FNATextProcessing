@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>1. Terminal awn segment usually pilose; culms 0.3-1 mm thick, glabrous even on the basal internodes; glumes often purplish   	subsp. occidentale
+1. Terminal awn segment usually scabrous or glabrous, occasionally pilose at the base; culms 0.5-2 mm thick; glumes usually green.
+2. First 2 awn segments scabrous or pilose with hairs of mixed lengths; apical lemma hairs longer than the basal awn hairs 	subsp. californicum
+2. First 2 awn segments pilose, the hairs gradually and evenly becoming shorter towards the first geniculation; apical lemma hairs similar in length to the basal awn hairs   	subsp. pubescens
+</name_authority_date>
+  </taxon_identification>
+  <common_names>CALIFORNIA NEEDLEGRASS</common_names>
+  <description type="morphology">Culms 30-100(180) cm tall, 0.5-2 mm thick, internodes glabrous or pubescent, sometimes densely pubescent; nodes 2-4, glabrous or pubescent. Sheaths glabrous, pubescent, or pilose; collars usually with tufts of hair at the sides; blades 0.8-2 mm wide, usually erect or ascending, adaxial surfaces pilose. Panicles 8-30 cm; branches appressed, longest branches to 7 cm. Glumes usually green; lower glumes 0.6-0.8 mm wide; lemmas with hairs to 0.8 mm at midlength, apical hairs to 1.8 mm, longer than the basal awn hairs; awns 18-55 mm, scabrous or pilose on the first 2 segments, with hairs to 0.5 mm and of mixed lengths, terminal segment usually scabrous, occasionally pilose at the base. 2n = 36.</description>
+  <discussion>Achnatherum occidentale subsp. californicum grows from Washington through Idaho to southwestern Montana and south to California and Nevada, with disjunct records from south-central Wyoming and southwestern Utah. Its elevation range is 2000-4000 m.
+Johnson (1962) postulated that Achnatherum occidentale subsp. californicum is a hybrid derivative of A. nelsonii and A. occidentale; it intergrades with both. The scattering of longer hairs among shorter hairs on the basal awn segments, combined with the long apical lemma hairs, give florets of subsp. californicum a more untidy appearance than those of the other two subspecies. It resembles A. nevadense in this respect, but differs from that species in the shape of the boundary between the glabrous and strigose portions of the callus, in usually being glabrous below the lower cauline nodes, and in having paleas that are shorter in relation to the lemmas. Plants with scabrous awns are often confused with A. nelsonii subsp. nelsonii; they differ in having sharper calluses, a more elongated extension of the glabrous callus area into the strigose portion of the callus, and, usually, longer awns.
+</discussion>
+</bio:treatment>

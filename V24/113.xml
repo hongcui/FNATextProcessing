@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Melica geyeri Munro Munro </name_authority_date>
+  </taxon_identification>
+  <common_names>GEYER'S ONIONGRASS</common_names>
+  <description type="morphology">Plants cespitose, rhizomatous. Culms 65-200 cm, glabrous, forming corms, corms sessile on the rhizomes; internodes smooth. Sheaths scabridulous to scabrous, sometimes sparsely pilose, particularly at the throat and collar; ligules 0.8-5 mm; blades 2-8 mm wide, abaxial surfaces scabridulous, adaxial surfaces with hairs. Panicles 10-30 cm; branches 3-11 cm, divergent to reflexed, flexuous, with 1-6 spikelets; pedicels straight; disarticulation above the glumes. Spikelets 8-24 mm, with 4-7 bisexual florets, base of the distal florets exposed at anthesis; rachilla internodes 2-3 mm, not swollen when fresh, not wrinkled when dry. Glumes usually less than 1/2 the length of the spikelets; lower glumes 3.5-7 mm long, 1.5-2 mm wide, 5-9-veined; upper glumes 5-11 mm long, 2-2.5 mm wide, 5-11-veined; lemmas 7.5-12.5 mm, glabrous or scabrous, 7-veined, veins inconspicuous, apices rounded to acute, sometimes toothed, unawned or awned, awns to 2 mm; paleas about as long as the lemmas; anthers 3, 2.5-4 mm; rudiments 3-7 mm, tapering, resembling the bisexual florets. Caryopses 3-4 mm. 2n =18.</description>
+  <discussion>Melica geyeri grows to 2000 m, primarily in dry, open woods, in Oregon and California. Its large size and open panicle distinguish M. geyeri from most other North American species of Melica.</discussion>
+  <key>
+    <key_body>
+1. Lemma apices awned, awns 0.5-2 mm long .....var. aristulata
+1. Lemma apices unawned  .....var. geyeri
+    </key_body>
+  </key>
+</bio:treatment>

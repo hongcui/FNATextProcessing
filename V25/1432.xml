@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>25.23</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>HYMENACHNE P. Beauv.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial. Culms 50-350 cm, decumbent, often rooting from the lower nodes; nodes glabrous; internodes glabrous, filled with spongy aerenchyma. Leaves evenly distributed; ligules membranous. Inflorescences narrow, condensed, cylindrical or spikelike panicles; branches appressed but not fused to the rachises, densely and evenly short ciliate on the ridges. Spikelets dorsally compressed, narrowly lanceolate, with 2 florets. Glumes unequal, membranous, with a definite rachilla internode between the 2 glumes; lower glumes no more than 1/2 as long as the spikelet, 1-3-veined; upper glumes subequal to or longer than the lower lemmas, membranous, not saccate, 3-7-veined; lower florets sterile; lower lemmas similar to the upper glumes; upper florets bisexual, much shorter than the upper glumes and lower lemmas; upper lemmas membranous to leathery, white at maturity, margins clasping the edges of the paleas basally but not distally, apices acute; paleas similar in texture to the lemmas; lodicules 2; anthers 3; styles 2, fused. Caryopses falling free from the lemmas and paleas. x = 10.</description>
+  <discussion>Hymenachne is a pantropical genus of approximately five species. It is unusual in the Paniceae in that all its members grow in aquatic or swampy habitats. It differs from Sacciolepis in its aerenchyma-filled internodes, a character that is probably an adaptation to its aquatic habitat. One species is native to the Flora region.</discussion>
+  <references>Pohl, R.W. and N.R. Lersten.  1975. Stem aerenchyma as a character separating Hymenachne and Sacciolepis (Gramineae, Panicoideae). Brittonia 27:223-227.</references>
+</bio:treatment>

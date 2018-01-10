@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca elmeri Scribn. & Merr. </name_authority_date>
+  </taxon_identification>
+  <common_names>COAST FESCUE, ELMER'S FESCUE</common_names>
+  <description type="morphology">Plants loosely cespitose. Culms 40-100(120) cm, glabrous, erect or slightly decumbent at the base. Sheaths closed for less than 1/3 their length, glabrous, smooth or slightly scabrous, shredding into fibers; collars glabrous, smooth or slightly scabrous; ligules 0.1-0.5(0.7) mm; blades 1.8-6 mm wide, vegetative shoot blades narrower than the cauline blades, flat or loosely conduplicate or convolute, abaxial surfaces glabrous, adaxial surfaces slightly scabrous or pubescent, veins 7-19, ribs obscure to prominent; abaxial sclerenchyma in narrow strands; adaxial sclerenchyma developed; pillars or girders present at the major veins. Inflorescences 10-20 cm, open, with 1-2 branches per node; branches lax, more or less spreading, spikelets borne towards the ends of the branches. Spikelets (7)7.5-11 mm, with 2-6(7) florets. Glumes lanceolate, glabrous, smooth or the apices slightly scabrous, acuminate; lower glumes 2-4 mm; upper glumes 3-4.6 mm; calluses wider than long, smooth or slightly scabrous, glabrous; lemmas 5.5-7 mm, lanceolate, scabrous or puberulent, minutely bidentate, awned, awns (1.5)2-5(8) mm, subterminal, straight to slightly curved or kinked; paleas as long as or longer than the lemmas, intercostal region puberulent distally; anthers (3)3.4-4 mm; ovary apices pubescent. 2n = 28.</description>
+  <discussion>Festuca eltneri grows on moist wooded slopes, usually below 300(500) m, from Oregon to south-central California. The more southerly populations, which have larger spikelets with 5-6, rather than 3-4, florets and a more compact inflorescence with more or less erect panicle branches, have been named F. elmeri subsp. luxurians Piper.</discussion>
+</bio:treatment>

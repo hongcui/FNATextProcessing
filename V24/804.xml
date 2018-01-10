@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>55</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa nemoralis L. </name_authority_date>
+  </taxon_identification>
+  <common_names>WOODLAND BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; green or glaucous; densely tufted, not stoloniferous, not rhizomatous. Basal branching all or mostly extravaginal. Culms 30-80 cm, mostly erect, smooth below the panicles; nodes slightly com¬pressed, 2-5 exserted, top node at 1/2 - 3/4 the culm length. Sheaths closed for 1/10 – 1/5 their length, terete, bases of basal sheaths glabrous, distal sheath lengths 0.45-1 (1.1) times blade lengths; ligules 0.2-0.8(1) mm, sparsely to densely scabrous, apices truncate, minutely ciliolate; blades 0.8-3 mm wide, mostly flat, appressed, abruptly ascending to spreading, straight or somewhat lax, apices narrowly prow-shaped. Panicles 7-16(20) cm, lengths usually 2.5-4 times widths at maturity, usually erect, lax in shade forms, narrowly lanceoloid to ovoid, slightly to moderately congested; nodes with 2-5 branches; branches ascending to widely spreading, fairly straight, slender to moderately stout, angled, angles moderately to densely scabrous. Spikelets 3-8 mm, lengths 2.5-3.5 times widths, narrowly lanceolate to lanceolate, laterally compressed, usually not glaucous;  florets   (1)2-5;  rachilla internodes  usually shorter than 1 mm, smooth, muriculate, or scabrous, usually puberulent, infrequently hispidulous or glabrous. Glumes subulate to narrowly lanceolate, distinctly keeled, keels smooth or sparsely scabrous, apices sharply acute to acuminate; lower glumes 3-veined, long-tapered to a slender point, lengths 6.4-11 times widths; upper glumes shorter than or subequal to the lowest lemmas; calluses webbed, hairs sparse, often short; lemmas 2.4-4 mm, proximal lemma widths less than 1/5 times lengths, narrowly lanceolate to lanceolate, distinctly keeled, keels and marginal veins short-villous, lateral veins glabrous, obscure, intercostal regions smooth or muriculate, glabrous, margins glabrous, apices acute, usually partially bronze-colored; palea keels scabrous, intercostal regions glabrous; anthers 0.8-1.9 mm. 2n = 28, 35, 42, 48, 50, 56.</description>
+  <discussion>Introduced from northern Eurasia, Poa nemoralis is established primarily at low elevations in deciduous and mixed conifer/deciduous forests. It is now common in southeastern Canada and the northeastern United States, and is spreading in the west. It can be distinguished from P. glauca (p. 576) and P. interior (see next) by its consistently short ligules, high top culm node, relatively long flag leaf blades, and narrow glumes and lemmas. It is usually hexaploid.</discussion>
+</bio:treatment>

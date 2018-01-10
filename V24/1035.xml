@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Thomas F. Daniel</author>
+    </source>
+  </meta>
+  <number>14.50</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>GAUDINIA P. Beauv.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial. Culms 15-120 cm. Sheaths open; auricles absent; ligules membranous; blades flat. Inflorescences solitary, distichous spikes; disarticulation in the rachis, immediately above the spikelets. Spikelets laterally compressed, sessile, tangential, more or less appressed to the rachis, with 3-11 florets; rachillas glabrous, prolonged beyond the base of the distal fertile floret, terminating in a reduced floret. Glumes 2, unequal, from shorter than to about as long as the spikelets, unawned; calluses blunt, glabrous; lower glumes 3(5)-veined; upper glumes 5-7(11)-veined; lemmas coriaceous, obscurely 7-9-veined, unawned or awned near the apices; paleas shorter than the lemmas; lodicules 2, free, membranous, glabrous, toothed; anthers 3; ovaries pubescent. Caryopses with a terminal tuft of hairs; hila round. x = 7. </description>
+  <discussion>Gaudinia is a weedy genus of four species that are native to the Mediterranean, the Azores, and the Canary Islands. Its inflorescence is reminiscent of some Triticeae; it differs from members of that tribe in its manner of disarticulation and in having compound starch grains in its endosperm. One species has become established in North America.</discussion>
+  <references>Daniel, T.R, C. Best, J. Guggolz, and B. Guggolz. 1992. Noteworthy collections: Gaudinia fragilis. Madrono 39:309-310.
+ 
+</references>
+</bio:treatment>

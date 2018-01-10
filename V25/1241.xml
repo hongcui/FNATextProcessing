@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Panicum hirticaule subsp. sonorum (Beal) Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 60-100 cm, robust; nodes hirsute, hairs papillose-based. Sheaths hirsute, hairs papillose-based; blades 4-30 mm wide, hirsute, hairs papillose-based, cordate, clasping basally. Panicles nodding. Spikelets 3-3.3 mm; lower paleas more than 1/2 as long as the upper florets. 2n = unknown.</description>
+  <discussion>Panicum hirticaule subsp. sonorum has been collected only a few times. Its range extends from southern Arizona to Chiapas, Mexico. It may have originated through selection and cultivation. The Cocopa tribe of the extreme lower Colorado River region grow it for the seed, which is used for food.</discussion>
+</bio:treatment>

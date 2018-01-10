@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Aristida purpurea var. nealleyi (Vasey) Allred </name_authority_date>
+  </taxon_identification>
+  <common_names>NEALLEY'S THREEAWN</common_names>
+  <description type="morphology">Culms 20-45 cm. Blades 5-15 cm, mostly basal, involute. Panicles 8-18(20) cm; primary branches and
+pedicels mostly appressed to narrowly ascending, with¬out axillary pulvini, stiff, straight, lower branches occasionally flexible. Glumes usually unequal; lower glumes 4-7 mm; upper glumes (7)8-14 mm; lemmas 7-13 mm long, narrowing to about 0.1 mm wide, upper portion sometimes twisted; awns 15-22(30) mm long, subequal, about 0.1 mm wide at the base. 2n = 22, 44. 
+</description>
+  <discussion>Aristida purpurea var. nealleyi grows on dry slopes and plains at lower elevations than the other varieties, frequently in desert grassland vegetation. Its range extends from the southwestern United States into Mexico. Although var. nealleyi is more distinct than the other varieties, having tight tufts of foliage exceeded by narrow, straw-colored panicles, it grades into var. purpurea, and the panicles resemble those of var. wrightii. It may also be confused with A. arizonica, but differs in having involute, generally straight leaf blades and shorter awns.</discussion>
+</bio:treatment>

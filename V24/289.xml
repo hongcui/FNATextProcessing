@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Bromus pumpellianus Scribn. subsp. pumpellianus</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants rhizomatous. Culms 50-120 cm, erect; nodes 2-3(4), usually pubescent, sometimes glabrous; internodes glabrous or pubescent. Sheaths pilose, villous, or glabrous; auricles present on the lower leaves or absent; ligules to 3 mm; blades 9-17(25) cm long, (3)4-8(9) mm wide, abaxial surfaces glabrous or pilose, adaxial surfaces usually pilose, rarely glabrous. Panicles 10-20 cm, open or contracted, erect or nodding; branches erect to spreading. Spikelets 20-30 mm. Glumes glabrous, pubescent, or hirsute; lower glumes (4)5-9 mm, 1-veined; upper glumes (5)8-11 mm, 3-veined; lemmas 9-14 mm, pubescent on the lower portion of the back and along the margins; awns usually present, to 6 mm, sometimes absent; anthers 3.5-7 mm. 2n = 56.</description>
+  <discussion>Bromus pumpellianus subsp. pumpellianus grows on sandy and gravelly stream banks and lake shores, sand dunes, meadows, dry grassy slopes, and road verges.</discussion>
+</bio:treatment>

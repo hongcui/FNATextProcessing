@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>22</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthelium chamaelonche (Trin.) Freckmann & Lelong </name_authority_date>
+  </taxon_identification>
+  <common_names>SMALL-SEEDED PANICGRASS</common_names>
+  <description type="morphology">Plants usually densely cespitose, with caudices. Basal rosettes well-differentiated; blades 1-5 cm, ovate to lanceolate. Culms 5-45 cm tall, 0.2-0.8 mm thick, erect, often purplish; nodes glabrous or sparsely pubescent; internodes often ascending-pubescent below; fall phase branching extensively from the basal nodes, usually forming very dense cushions. Cauline leaves 3-5; sheaths mostly shorter than the internodes, often purplish, glabrous or sparsely pubescent, margins often sparsely ciliate; ligules 0.2-0.5 mm, of hairs, without adjacent pseudoligules; blades 2-5 cm long (rarely longer), 1-4 mm wide, flat or involute, rather firm, ascending, often purplish, usually glabrous on both surfaces, bases subcordate, often with a few long, stiff cilia, margins narrowly white, cartilaginous, and scabridulous, blades of the flag leaves only slightly shorter than those of the lower leaves. Primary panicles 1.5-5 cm (seldom longer), nearly as wide as long, delicate, dense; branches numerous, flexuous, spreading, often purplish, glabrous or faintly scabridulous. Spikelets 1.1-1.5 mm long, 0.7-1 mm wide, broadly ellipsoid or obovoid, often purple-tinged, glabrous or puberulent, obtuse or subacute. Lower glumes approximately 1/3 as long as the spikelets, broadly acute or obtuse; upper glumes and lower lemmas subequal or the glumes slightly shorter than the lemmas; lower florets sterile; upper florets 0.9-1.2 mm, ellipsoid, apices exceeding the upper glumes and lower lemmas, subacute.</description>
+  <discussion>Dichanthelium chamaelonche grows in low, open, sandy, coastal pine woods, savannahs, and moist depressions in sand dunes. It is restricted to the south-eastern United States.</discussion>
+  <key>
+    <key_body>
+1. Culms 5-20 cm tall, glabrous or puberulent; spikelets 1.3-1.5 mm long, puberulent .....subsp. breve
+1. Culms 10-45 cm tall, glabrous; spikelets 1.1-1.4 mm long, glabrous .....subsp. chamaelonche
+ 
+
+    </key_body>
+  </key>
+</bio:treatment>

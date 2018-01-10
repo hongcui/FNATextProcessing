@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>25</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia spiciformis Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>LONGAWN MUHLY</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 25-80 cm, erect, wiry; internodes  mostly glabrous,  strigose  or glabrous below the nodes. Sheaths scabridulous, not becoming spirally coiled when old; ligules 1-3 mm, membranous, acuminate, deeply lacerate; blades 2-12 cm long, 1-3 mm wide, flat to involute, scabridulous abaxially, hirtellous or scabrous adaxially. Panicles 4-18(20) cm long, 0.2-2.8 cm wide, contracted, not dense, sometimes interrupted  below; panicle branches 0.6-5 cm, appressed or diverging up to 30° from the rachises, spikelet-bearing to the base; pedicels 0.1-3 mm. Spikelets 3-4 mm. Glumes unequal, 0.3-1 mm, shorter than the florets, 1-veined, unawned; lower glumes shorter than the upper glumes, obtuse to acute, sometimes erose; lemmas 2.8-4 mm, narrowly lanceolate, purplish, scabrous, sparsely appressed-pubescent on the calluses and lower 1/4 of the midveins and margins, hairs shorter than 0.3 mm, apices acuminate, awned, awns (10)20-40 mm; paleas 2.6-3.9 mm, narrowly lanceolate, intercostal region sparsely pubescent on the basal 1/3, apices acuminate, scabrous; anthers 0.9-1.6 mm, purplish. Caryopses 2-2.6 mm, fusiform, brownish. 2n = 40.</description>
+  <discussion>Muhlenbergia spiciformis grows on rocky slopes, cliffs, and calcareous rock outcrops, often in thorn-scrub and open woodland communities. Its elevational range is 450-2800 m; its geographic range extends from the southwestern United States to northern Mexico.</discussion>
+</bio:treatment>

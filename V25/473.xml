@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Orcuttia californica Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>CALIFORNIA ORCUTTGRASS</common_names>
+  <description type="morphology">Plants sparsely hairy. Culms 5-15(20) cm, simple, sometimes geniculate, usually prostrate and forming mats. Leaves with a faint "collar" line usually evident when dry; blades 1-2 cm long, 2-3 mm wide. Spikes 3-6 cm; lower internodes 5-10 mm; upper internodes about 1 mm. Spikelets with 5-15(25) florets. Glumes subequal or the lower glumes a little shorter than the upper, 2-3(4) mm, irregularly toothed; lemmas about 5 mm, teeth equal or the central tooth a little longer than the others, awns to 0.5 mm; paleas about equal to the lemmas; anthers about 2 mm. Caryopses 1.5-1.8 mm, narrowly elliptical; embryos at least 3/4 as long as the caryopses. 2n = 32.</description>
+  <discussion>Orcuttia californica grows at elevations below 625 m in Los Angeles, Riverside, and San Diego counties, California and northern Baja California, Mexico. It is listed as an endangered species by the U.S. Fish and Wildlife Service.</discussion>
+</bio:treatment>

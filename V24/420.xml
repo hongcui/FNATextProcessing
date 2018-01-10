@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Elymus virginicus var. intermedius (Vasey ex A. Gray) Bush </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants often partly glaucous, becoming yellowish, reddish, or slightly purplish brown at maturity. Culms usually 60-120 cm; nodes usually 4-8, concealed or exposed; auricles and ligules usually poorly developed. Blades 4-18 mm wide, lax or involute, glabrous, scabridulous, or occasionally pubescent. Spikes 6-22 cm long, sheathed or exserted; spikelets hispidulous to villous-hirsute, usually glaucous; glumes 0.8-1.2(2) mm wide, indurate and bowed out in the basal 2-4 mm. Anthesis early July to mid-August.</description>
+  <discussion>Elymus virginicus var. intermedius grows in moist, base-rich soil in open forests and thickets, especially on rocky, gravelly, or sandy banks of larger streams. It grows from the central and southern Great Plains, through the central Mississippi and Ohio valleys, to the northeastern United States and adjacent Canada, but is rare to absent south of Oklahoma to Tennessee and to Maryland.</discussion>
+</bio:treatment>

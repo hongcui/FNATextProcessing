@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>18</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Setaria magna Griseb. </name_authority_date>
+  </taxon_identification>
+  <common_names>GIANT BRISTLEGRASS</common_names>
+  <description type="morphology">Plants annual. Culms to 6 m tall, 2-3 cm thick at the base. Sheaths glabrous, smooth or scabrous, margins villous distally; ligules 1-2 mm, ciliate; blades to 60 cm long, to 3.5 cm wide, flat. Panicles to 50 cm long, to 5 cm wide, densely spikelike; rachises densely villous; bristles 1 or 2, 10-20 mm, flexible, antrorsely scabrous. Spikelets about 2 mm, disarticulating between the lower and upper florets. Lower glumes 1/3 as long as the spikelets, 3-veined; upper glumes equaling the lower lemmas, 7-veined; lower florets often staminate; lower lemmas slightly exceeding the upper lemmas; lower paleas equaling the lower lemmas, broad, hyaline, minutely pubescent over the veins; upper lemmas smooth and shiny brown; upper paleas similar to the upper lemmas. 2n = 36.</description>
+  <discussion>Setaria magna grows in saline marshes along the eastern coast of the United States. There are also disjunct populations in brackish swamps in Arkansas, and in Texas and southeastern New Mexico as well as in Jamaica, Puerto Rico, Bermuda, Mexico, and Costa Rica. It may have been recently introduced to some of these regions, including inland areas of the Flora region.</discussion>
+</bio:treatment>

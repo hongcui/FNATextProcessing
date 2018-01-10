@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>38</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca calligera (Piper) Rydb. </name_authority_date>
+  </taxon_identification>
+  <common_names>CALLUSED FESCUE</common_names>
+  <description type="morphology">Plants densely cespitose, without rhizomes. Culms 15-65 cm, glabrous, smooth. Sheaths closed for less than 1/2 their
+length, lower sheaths glabrous or retrorsely hirsute, persistent, upper sheaths glabrous; collars glabrous; ligules (0.2)0.3-0.5(1) mm; blades all alike, 0.4-0.8 mm in diameter, conduplicate, abaxial surfaces sparsely scabrous, adaxial surfaces scabrous to pubescent, veins 5-7, ribs (1)3-5; abaxial sclerenchyma in (3)5-7 narrow to broad strands, usually wider than the adjacent veins; adaxial sclerenchyma absent. Inflorescences 5-15 cm, loosely contracted, with 1-2(3) branches per node; branches erect, lower branches with 2+ spikelets. Spikelets (6)7-9(11) mm, with (2)4-6 florets. Glumes exceeded by the upper florets, lanceolate, scabrous distally; lower glumes 2.5-4 mm; upper glumes (2.8)3-5 mm; lemmas (3.8)4-6 mm, glabrous, smooth or scabrous distally, awns 1-2.5 mm; paleas slightly shorter than the lemmas, intercostal region scabrous or puberulent distally; anthers 2.2-3.5 mm; ovary apices sparsely pubescent. 2n = 28.
+</description>
+  <discussion>Festuca calligera is a poorly known, often overlooked species. It grows in grasslands and open montane forests, at 2500-3400 m, from southern Utah to south-central Wyoming and central Colorado, south to Arizona and New Mexico. It is often found with F arizonica. Festuca calligera has frequently been included in F. ovina (p. 422).</discussion>
+</bio:treatment>

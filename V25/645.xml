@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Echinochloa oplismenoides (E. Fourn.) Hitchc.</name_authority_date>
+  </taxon_identification>
+  <common_names>CHIHUAHUAN BARNYARD GRASS</common_names>
+  <description type="morphology">Plants annual. Culms to 100 cm, erect, succulent, glabrous, branching from the lower nodes. Sheaths glabrous or hispid with papillose-based hairs; ligules absent or the ligule region pubescent; blades 10-35 cm long, 5-10 mm wide. Panicles 15-30 cm, narrow; primary branches appressed to ascending, with papillose-based hairs at the base of the spikelets. Spikelets 4-5 mm, dis¬articulating at maturity. Glumes with hairs over the veins, glabrous, scabrous, or hispid between the veins; upper glumes about equal to the spikelets, muticous or awned, awns to 1 mm; lower florets sterile; lower lemmas unawned or awned, awns 8-16(50) mm; lower paleas absent or hyaline and subequal to the lemmas; upper lemmas 4-4.5 mm long, 1.7-1.9 mm wide, elliptic; anthers 0.5-0.7 mm, purple. Caryopses 2.7-2.9 mm long, 1.7-1.8 mm wide, elliptic in outline, mucronate; embryos about 75% as long as the caryopses; hila obovate. 2n = unknown.</description>
+  <discussion>Echinochloa oplismenoides was first found in the United States, in southern Arizona, in 1993 (Fishbein 1995). It was previously known only from Mexico, with a range that extends from northwestern Mexico to Guatemala. The southern Arizonan plants were found near a cattle tank in wet grasslands. Fishbein stated that it was impossible to tell whether they represented a previously overlooked native species or an introduction.</discussion>
+</bio:treatment>

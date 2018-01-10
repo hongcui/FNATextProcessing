@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>13</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Glyceria acutiflora Torr. </name_authority_date>
+  </taxon_identification>
+  <common_names>CREEPING MANNAGRASS</common_names>
+  <description type="morphology">Plants perennial. Culms 30-100 cm tall, 3-6 mm thick, spongy, usually decumbent and rooting at the lower nodes. Sheaths smooth, weakly keeled; ligules 5-9 mm; blades 10-15 cm long, 3-8 mm wide, abaxial surfaces smooth, adaxial surfaces of the midcauline leaves often papillose. Inflorescences often racemes, sometimes panicles, 15-35 cm long, 1-2 cm wide, open at anthesis, bases often enclosed in the flag leaf sheaths at maturity; branches 5.5-8 cm (absent in racemose plants), solitary or in pairs, appressed, most branches with 1-3 spikelets, the lower branches sometimes with more than 3; pedicels 1.5-2.5 mm. Spikelets 20-45 mm long, 2.5-3 mm wide, cylindrical and terete except slightly laterally compressed at anthesis, rectangular in side view, with 5-12 florets. Glumes unequal, acute; lower glumes 1.3-4.5 mm; upper glumes 3-7 mm; rachilla internodes 2-3 mm; lemmas 6-8.5 mm, scabridulous, 7-veined, gradually tapering from near midlength to the narrowly acute (< 45°) or acuminate apices; paleas 0.7-3 mm longer than the lemmas, keels winged, tips parallel, intercostal region truncate, often splitting, apices appearing bifid, with 0.4-1 mm teeth; anthers 3, 1-2 mm. Caryopses about 3 mm. 2n = 40.</description>
+  <discussion>Glyceria acutiflora grows in wet soils and shallow water of the northeastern United States, extending from Michigan and Missouri to the Atlantic coast between southwestern Maine and Delaware. Its long paleas make G. acutiflora the most distinctive North American species of sect. Glyceria.</discussion>
+</bio:treatment>

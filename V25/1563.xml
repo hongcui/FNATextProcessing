@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bothriochloa ischaemum (L.) Keng </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants usually cespitose, occasionally stoloniferous or almost rhizomatous under close grazing or cutting. Culms 30-80(95) cm, stiffly erect; nodes glabrous or short hirsute. Leaves tending to be basal; ligules 0.5-1.5 mm; blades 5-25 cm long, 2-4.5 mm wide, flat to folded, glabrous or with long, scattered hairs at the base of the blade. Panicles 5-10 cm, fan-shaped, silvery reddish-purple; rachises 0.5-2 cm, with (1)2-8 branches; branches 3-9 cm, longer than the rachises, erect to somewhat spreading from the axillary pulvini, usually with only 1 rame; rame internodes with a central groove narrower than the margins, margins ciliate, with 1-3 mm hairs. Sessile spikelets 3-4.5 mm, narrowly ovate; lower glumes hirsute below, with about 1 mm hairs, lacking a dorsal pit; awns 9-17 mm, twisted, geniculate; anthers 1-2 mm. Pedicellate spikelets about as long as the sessile spikelets, but usually narrower, sterile or staminate. 2n = 40, 50, 60. </description>
+  <discussion>Bothriochloa ischaemum. grows along roadsides and in waste ground and rangeland pastures, at 50-1200 m. It is native to southern Europe and Asia. It was introduced to the United States for erosion control along right of ways and for livestock forage in the southwest. It is now established in the region and has spread along roadsides into other central and southern states. There are two variants that are sometimes recognized as varieties, plants with glabrous nodes being called B. ischaemum var. ischaemum and plants with pubescent nodes being called B. ischaemum var. songarica (Rupr. ex Fisch. & C.A. Mey.) Celarier & J.R. Harlan. The varieties are not recognized here.</discussion>
+</bio:treatment>

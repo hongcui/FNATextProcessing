@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>40</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus arvensis L. </name_authority_date>
+  </taxon_identification>
+  <common_names>FIELD BROME</common_names>
+  <description type="morphology">Plants annual. Culms 80-110 cm, erect. Lower sheaths with dense, soft, appressed hairs; ligules 1-1.5 mm, hairy, obtuse, erose; blades 10-20 cm long, 2-6 mm wide, coarsely pilose on both surfaces. Panicles 11-30 cm long, 4-20 cm wide, open, erect or nodding; branches usually longer than the spikelets, ascending to widely spreading, slender, slightly curved or straight. Spikelets 10-25 mm, lanceolate, terete to moderately laterally compressed, often purple-tinged; florets 4-10, bases concealed or visible at maturity; rachilla internodes concealed or visible at maturity. Glumes glabrous; lower glumes 4-6 mm, 3-veined; upper glumes 5-8 mm, 5-veined; lemmas 7-9 mm long, 1.1-1.5 mm wide, lanceolate, obscurely 7-veined, rounded over the midvein, glabrous, coriaceous, margins slightly angled, inrolled or not at maturity, apices acute, bifid, teeth shorter than 1 mm; awns 6-11 mm, straight, arising at varying distances below the lemma apices; anthers 2.5-5 mm. Caryopses shorter than the paleas, weakly to strongly inrolled. 2n = 14.</description>
+  <discussion>Bromus arvensis grows along roadsides and in fields and waste places at scattered locations in the Flora region. It is native to southern and south-central Europe.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bothriochloa springfieldii (Gould) Parodi</name_authority_date>
+  </taxon_identification>
+  <common_names>SPRINGFIELD BLUESTEM</common_names>
+  <description type="morphology">Culms 30-80 cm, erect, unbranched; nodes prominently bearded, hairs 3-7 mm, spreading, silvery-white. Leaves mostly basal; ligules 1-2.5 mm; blades 5-30 cm long, 2-3(5) mm wide, flat to folded, glabrous or sparsely hispid adaxially, pilose near the throat. Panicles 4-9 cm, oblong to fan-shaped; rachises 1-5 cm, with 2-9 branches; branches 4-8 cm, longer than the rachises, with 1(2) rames; rame internodes with a membranous groove wider than the margins, margins densely white-villous, hairs 5-10 mm, obscuring the sessile spikelets. Sessile spikelets 5.5-8.5 mm, lanceolate; lower glumes densely short-pilose on the lower M, sometimes with a dorsal pit; awns 18-26 mm; anthers 1-1.5 mm. Pedicellate spikelets 3.5-5.5 mm, sterile. 2n = 120.</description>
+  <discussion>Bothriochloa springfieldii grows in rocky uplands, ravines, plains, sandy areas, and roadsides, from southern Utah to western Texas and Mexico at 900-2500 m. and, as a disjunct in northwest Louisiana. It differs from B. barbinodis in its less robust habit, narrower blades, longer nodal hairs, and fewer, more hairy panicle branches, and from B. edwardsiana in its pubescent nodes and wider, non-ciliate leaf blades.</discussion>
+</bio:treatment>

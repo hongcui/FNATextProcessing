@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>18</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Calamagrostis porteri A. Gray </name_authority_date>
+  </taxon_identification>
+  <common_names>PORTER'S REEDGRASS</common_names>
+  <description type="morphology">Plants with sterile culms; loosely cespitose, with rhizomes 5-7+ cm long, 0.5-1 mm thick. Culms (60)75-120 cm, unbranched, slightly scabrous; nodes 2-4(5). Sheaths smooth or slightly scab¬rous; collars smooth or hairy; ligules (1)2-5(6) mm, truncate to obtuse, entire or lacerate; blades 8-40 cm long, (2)3-8(12) mm wide, flat, abaxial surfaces smooth or scabrous, adaxial surfaces smooth or slightly scabrous, occasionally with hairs. Panicles (5)10-18(22) cm long, 0.8-3(7) cm wide, contracted to open, often slightly nodding, sometimes erect, green to pale purple; branches (1.5)2-7(7.5) cm, scabrous, usually spikelet-bearing on the distal 1/2 - 2/3, sometimes to the base. Spikelets 4-5(6) mm; rachilla prolongations 0.5-1 mm, hairs 1.5-2(3.5) mm. Glumes rounded to slightly keeled, keels scabrous towards the apices, lateral veins obscure to slightly prominent, not raised, apices acute to acuminate; callus hairs 1.5-2(3) mm, 0.4-0.7 times as long as the lemmas, sparse; lemmas 3-4.5 mm, 0.5-1.5(2) mm shorter than the glumes; awns 3-4(4.5) mm, attached to the lower 1/10 – 3/10 of the lemmas, exserted, stout, easily distinguished from the callus hairs, strongly bent; anthers 2-2.5 mm. 2n = 56, 84-+104.</description>
+  <discussion>Calamagrostis porteri grows in dry chestnut/oak forests, often on rocky ridgetops, piedmont bluffs, and slopes, at (100)600-1300 m. It is now restricted to the northeastern and central United States. Historically, its
+ 
+ 
+ 
+
+ 
+range extended from Missouri and Arkansas east to New York and Alabama. Flowering appears to be a response to disturbance; plants in undisturbed habitats remain vegetative and may go unnoticed. Thus the species may be more widespread and abundant than reported.
+Calamagrostis porteri and C. rubescens (see next) appear to be closely related. They may be part of the general phenomenon of eastern and western vicariants. The apparently sterile C. perplexa (p. 726) is intermediate between C. porteri and C. canadensis (Greene 1980).
+</discussion>
+  <key>
+    <key_body>
+1. Leaf blades glaucous on both surfaces; leaf collars glabrous .....subsp. insperata
+1. Leaf blades light green and glaucous on the adaxial surfaces, darker green on the abaxial surfaces; leaf collars usually with prominent tufts of hair, rarely glabrous .....subsp. porteri
+
+    </key_body>
+  </key>
+</bio:treatment>

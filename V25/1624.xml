@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>John W. Thieret</author>
+    </source>
+  </meta>
+  <number>26.18</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>ARTHRAXON P. Beauv.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; scrambling. Culms 0.5-2 m, ascending to decumbent, often rooting at the nodes, branched. Leaves not aromatic; sheaths open, at least the outer margins pubescent, usually with papillose-based hairs; ligules membranous, fimbriate or ciliate; blades ovate to ovate-lanceolate. Inflorescences terminal and axillary, panicles of subdigitate, often flabellate, clusters of rames; rame internodes not sulcate; disarticulation in the rames, beneath the sessile spikelets. Spikelets in heteromorphic sessile-pedicellate pairs or appearing solitary and sessile, pedicels greatly reduced and lacking spikelets. Sessile spikelets bisexual, with 2 florets; calluses absent or blunt; glumes equal or subequal; lower florets sterile, reduced to an unawned lemma; upper florets bisexual, awned (rarely unawned); anthers 2 or 3. Pedicels 0.2-3 mm, not thickened, not fused to the rame axes. Pedicellate spikelets absent or rudimentary, x = 9, 10. </description>
+  <discussion>Arthraxon is a genus of seven species that are native to tropical and subtropical regions of the Eastern Hemisphere; one species is established in the Flora region.</discussion>
+  <references>Welzen, P.C. van. 1981. A taxonomic revision of Arthraxon Beauv. (Gramineae). Blumea 27:255-300.</references>
+</bio:treatment>

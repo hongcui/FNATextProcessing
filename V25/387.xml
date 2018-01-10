@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Spartina xtownsendii H. Groves & J. Groves </name_authority_date>
+  </taxon_identification>
+  <common_names>TOWNSEND'S CORDGRASS</common_names>
+  <description type="morphology">Plants rhizomatous; rhizomes whitish, scales not inflated, not closely imbricate. Culms to 150 cm, rela¬tively hard, solitary or in small clumps. Sheaths mostly glabrous, throats pilose, lower sheaths often wrinkled; ligules 1-1.8 mm; blades 6-30 cm long, 4-12 mm wide, diverging 20-45° from the culms, flat proximally, invo¬lute distally, both surfaces glabrous, margins smooth. Panicles 15-25 cm, with 2-10 branches; branches 4-24 cm, loosely appressed, with 10-30 spikelets. Spikelets 16-22 mm. Glumes mostly appressed pubescent, margins glabrous or sparingly hispidulous; lower glumes 8-14 mm, linear, acuminate to obtuse; upper glumes 16-22 mm, acuminate to obtuse; lemmas mostly pubescent, keels glabrous near the base, margins glabrous throughout, apices obtuse to rounded or obscurely lobed; anthers 5-10 mm, poorly filled, indehiscent at maturity. 2n = 62.</description>
+  <discussion>Spartina xtownsendii is a sterile hybrid between the European S. maritima and the American S. alterniflora. It seems to have formed spontaneously at several locations in Europe, often taking over the areas formerly occupied by its progenitors. At some locations it has given rise to the fertile amphiploid S. anglica, from which it differes morphologically in its narrower, less divergent upper blades, shorter ligules, shorter, less hairy spikelets, and poorly filled, indehiscent anthers. Spartina xtownsendii has been used throughout the world for tideland reclamation because it is easy to establish, but it displaces native species.</discussion>
+</bio:treatment>

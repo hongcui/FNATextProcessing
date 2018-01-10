@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Charlotte G. Reeder</author>
+    </source>
+  </meta>
+  <number>17.34</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>LYCURUS Kunth</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose. Culms 10-60 cm, erect to somewhat decumbent, usually branched. Sheaths open, compressed-keeled, glabrous, smooth or scabridulous, mostly shorter than the internodes, a 2-veined prophyllum often present; ligules hyaline, strongly decurrent, truncate or rounded to elongate and acuminate, sometimes with narrow triangular lobes extending from the edges of the sheath on either side; blades folded or flat, rather stiff, with prominent, firm, scabrous margins, midveins sometimes extending as short mucros or fragile, scabrous, awnlike apices. Inflorescences terminal and axillary, dense, bristly, spikelike panicles; branches short, fused to the rachis, terminating in a pair of unequally pedicellate spikelets or a pedicellate spikelet and a short secondary branch bearing two spikelets, occasionally in a solitary spikelet, usually the lower spikelet in a pair staminate or sterile and the upper spikelet bisexual, sometimes vice versa, or both spikelets bisexual; disarticulation at the fused base of the pedicels or pedicel and branch, paired spikelets falling as a unit, leaving a cuplike tip. Spikelets with 1 floret. Glumes subequal, awned; lower glumes with (1)2(3) awns, usually unequal, awns commonly longer than the body; upper glumes 1-veined, with a single flexuous awn that is usually longer than the glume body, rarely a finer second awn present; lemmas lanceolate, 3-veined, pubescent on the margins, mostly glabrous over the back, tapering to a scabrous awn that is usually shorter than the lemma body; paleas about equal to the lemmas, acute or occasionally the 2 veins extending as very short mucros, pubescent between the veins and on the sides, except for the narrow, glabrous, hyaline margins; anthers 3. Caryopses fusiform, brownish, x = 10. </description>
+  <discussion>Lycurus is a genus of three species of open rocky slopes and mesas. It is native to two disjunct regions, one extending from Colorado and southern Utah to southern Mexico and Guatemala, the other from Colombia through western South America to west-central Argentina. Two species are native to the Flora region. They can only be reliably distinguished by their vegetative characters.</discussion>
+  <references>Reeder, C.G. 1985. The genus Lycurus (Gramineae) in North America. Phytologia 57:283-291; Sanchez, E. and Z.E. Rugolo de Agrasar. 1986. Estudio taxonomico sobre el genero Lycurus (Gramineae). Parodiana 4:267-310.</references>
+  <key>
+    <key_body>
+1. Upper leaves terminating in a fragile, awnlike tip (3)4-7(12) mm long; ligules (2)3-10(12) mm long, elongate, acute or acuminate, sometimes with a small cleft on either side; culms erect .....1. L. setosus
+1. Upper leaves acute or with a mucro or bristle 1-3 mm long; ligules 1.5-3 mm long, with evident narrow triangular lobes 1.5-3(4)mm long on the sides; culms erect to ascending, often geniculate.....2. L. phleoides
+ 
+
+    </key_body>
+  </key>
+</bio:treatment>

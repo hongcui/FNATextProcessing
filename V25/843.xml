@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Cynodon transvaalensis Burtt Davy </name_authority_date>
+  </taxon_identification>
+  <common_names>AFRICAN DOGSTOOTH GRASS, FLORIDAGRASS</common_names>
+  <description type="morphology">Plants stoloniferous and rhizomatous; stolons slender, prostrate; rhizomes slender. Culms 5-30 cm tall, to 0.4 mm thick. Sheaths glabrous or with scattered hairs; ligules to 0.3 mm, membranous and ciliolate; blades to 4 cm long, 1-1.5 mm wide, flat or involute and filiform, both surfaces pubescent. Panicles with 1-3(4) branches; branches 0.7-2.1 cm, in a single whorl, reflexed at maturity, axes triquetrous. Spikelets 2-2.7 mm. Lower glumes 1.2-1.4 mm; upper glumes 1.1-1.3 mm; lemmas 2.2-2.7 mm, keels not winged, stiffly and sparsely pubescent, margins glabrous or hispidulous; paleas glabrous. 2n = 18.</description>
+  <discussion>Cynodon transvaalensis is native to southern Africa. Hitchcock (1951, p. 504) reported that it was "coming into cultivation as a lawn grass", but it is no longer sold in the Flora region, nor is there any evidence that earlier plantings have led to its establishment. Strains tested in Florida for use in putting greens were unable to withstand the mowing and moisture conditions used to maintain such areas (Busey and Boyer 2002). Strains of the species have, however, been crossed with strains of C. dactylon and cultivars developed from these crosses are sometimes used as turf grasses in the southern United States and in similar climates throughout the world.</discussion>
+</bio:treatment>

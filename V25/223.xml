@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>29</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sporobolus silveanus Swallen </name_authority_date>
+  </taxon_identification>
+  <common_names>SILVEUS' DROPSEED</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 70-120 cm. Sheaths shiny and indurate basally, glabrous or appressed hairy elsewhere, hairs to 4 mm; ligules 0.2-0.8 mm; blades 15-52 cm long, 1-2.5 mm wide, flat, folded or involute, bluish-green, remaining so well into winter, glabrous on both surfaces, margins scabridulous. Panicles 21-50 cm long, 5-12(15) cm wide, longer than wide, open, not diffuse, pyramidal to ovate, with few spikelets; lower nodes with 1-2(3) branches; primary branches 6-20 cm, ascending, spreading 20-50° from the rachis, not capillary, without spikelets on the lower 1/4–1/2; secondary branches appressed to loosely spreading; pulvini glabrous; pedicels 3-8(14) mm, longer or shorter than the spikelets, appressed, glabrous, scabrous. Spikelets 4.5-7(7.2) mm, purplish. Glumes subequal to unequal, linear-lanceolate to lanceolate, membranous; lower glumes 3-4.6 mm, 0.6-0.9 times as long as the upper glumes; upper glumes 4-7.2 mm, from slightly shorter to longer than the spikelets; lemmas 4.4-6.5 mm, lanceolate, membranous, glabrous, acuminate to acute; paleas 4.5-6.7 mm, lanceolate, membranous, glabrous; anthers 3, 3.5-5 mm, purplish. Fruits 1.8-2.2 mm, obovoid, laterally flattened, light brownish. 2n = unknown.</description>
+  <discussion>Sporobolus silveanus is restricted to the southeastern United States. It grows in wet to mesic pine woodlands and adjoining glades and barren openings, and in black-land prairies, at elevations of 5-200 m.</discussion>
+</bio:treatment>

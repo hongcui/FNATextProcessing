@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>H. Oliver Yates</author>
+    </source>
+  </meta>
+  <number>17.02</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>UNIOLA L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; rhizomatous or stoloniferous. Culms to 2.5 m, erect, glabrous, unbranched. Ligules of hairs; blades flat, becoming involute when dry, margins scabrous, tapering to an attenuate apex. Inflorescences terminal, simple panicles, exceeding the leaves; disarticulation below the glumes. Spikelets 8-50 mm long, 6-16 mm wide, ovate-elliptical to ovate-triangular, strongly laterally compressed, with 3-34 florets, lowest 2-8 florets sterile, remaining floret(s) bisexual. Glumes subequal, shorter than the adjacent lemmas, midveins keeled, serrate to serrulate, apices unawned; lemmas 3-9-veined, midveins keeled, serrate to serrulate, apices somewhat blunt to acute or mucronate, unawned; paleas, if present, from slightly shorter than to exceeding the lemmas, 2-keeled, keels winged, serrulate or ciliate; anthers 3; ovary glabrous; styles 1, with 2 style branches. Caryopses linear; embryos less than 1/2 as long as the caryopses. x = 10. </description>
+  <discussion>Uniola has two species, both of which grow on coastal sand dunes. There is one species native to the Flora region; the second, U. pittieri Hack., extends from northern Mexico to Ecuador, pri¬marily along the Pacific coast. The genus used to be interpreted as including Chasmanthium, a genus that is now included in the Centothecoideae.</discussion>
+  <references>Grass Phylogeny Working Group. 2001. Phylogeny and subfamilial classification of the grasses (Poaceae). Ann. Missouri Bot. Gard. 88:373-457; Yates, H.O. 1966a. Morphology and cytology of Uniola (Gramineae). SouthW. Naturalist 11:145-189; Yates, H.O. 1966b. Revision of grasses traditionally referred to Uniola, I. Uniola and Leptochloopsis. SouthW. Naturalist 11:372-394; Yates, H.O. 1966c. Revision of grasses traditionally referred to Uniola, II. Chasmanthium. SouthW. Naturalist 11:415-455.</references>
+</bio:treatment>

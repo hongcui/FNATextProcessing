@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Leptochloa chinensis (L.) Nees </name_authority_date>
+  </taxon_identification>
+  <common_names>ASIAN SPRANGLETOP</common_names>
+  <description type="morphology">Plants annual or perennial. Culms 15-100 cm, round, glabrous or appressed-pubescent; internodes hollow. Sheaths sometimes flattened below, usually glabrous, sometimes sparsely pilose at the apices; ligules 1.8-5.4 mm, truncate, erose or ciliate; blades (1)5-30 cm long, 4-8 mm wide, glabrous, sometimes scabridulous. Panicles 20-50 cm, with 25-60 racemose branches; branches (1)4-8(14) cm, erect to slightly reflexed, usually straight. Spikelets 2.5-3.7 (4.2) mm, imbricate to somewhat distant, green to tan, with 4-6 florets. Glumes triangular to lanceolate; lower glumes 1.1-1.7 mm; upper glumes 1.6-2 mm; rachilla segments usually visible between the florets; lemmas 1.2-1.7 mm, ovate to elliptic, glabrous or hairy along and between the veins, apices broadly acute or obtuse; paleas glabrous or hairy; anthers 3, 0.4-0.6 mm. Caryopses 0.9-1.9 mm long, 0.6-0.8 mm wide. 2n = 40.</description>
+  <discussion>Leptochloa chinensis is not yet known from the Flora region but, if introduced, it could become an aggressive weed because it competes well in undisturbed mesic sites. Although it resembles L. panicea, L. chinensis differs in its glabrous, or nearly glabrous, sheaths and blades.</discussion>
+</bio:treatment>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>15</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Chloris andropogonoides E. Fourn. </name_authority_date>
+  </taxon_identification>
+  <common_names>SLIMSPIKE WINDMILL-GRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose to shortly stoloniferous. Culms 10-40 cm. Sheaths glabrous; ligules 0.5-0.8 mm, shortly ciliate; blades to 15 cm long, to 1 mm wide, sometimes with basal hairs, mostly glabrous or scabrous. Panicles with 6-13, evidently distinct branches, these usually digitate, sometimes with a second, poorly-developed whorl just below the terminal branches; branches 4-14 cm, spreading, spikelet-bearing to the base, with 4-7 spikelets per cm; disarticulation at the uppermost cauline node, panicles falling intact. Spikelets with 1 bisexual and 1 sterile floret. Lower glumes 2-2.3 mm; upper glumes 3-3.3 mm; lowest lemmas 1.9-2.7 mm long, 0.5-0.6 mm wide, lanceolate to elliptic, without conspicuous grooves on the sides, mostly glabrous but the margins and keels appressed pubescent with hairs less than 1 mm, apices acute, awned, awns 1.9-5.2 mm; second florets 0.9-1.7 mm, 0.2-0.5 mm wide, narrowly cylindrical, obtuse, bilobed and awned, lobes less than 1/5 as long as the lemmas, awns 2.5-3.5 mm. Caryopses 1.3-1.4 mm long, about 0.4 mm wide, ellipsoid. 2n = 40.</description>
+  <discussion>Chloris andropogonoides grows along grassy roadsides and prairie relicts of the coastal plain of southern Texas and northeastern Mexico.
+Hybridization and introgression between Chloris cucullata, Chloris verticillata, and Chloris andropogonoides.
+Anderson (1974, pp. 97-103) noted that Chloris cucul-lata, C. verticillata, and C. andropogonoides are sym-patric in southern and central Texas, and often form mixed populations that include many apparent hybrids and introgressants. These plants combine the morphological features of their parents and often have highly irregular meiosis. Diploid counts of about 60 are common in some populations, but seed set is high even in populations with a high level of meiotic irregularity, suggesting apomixis. In some populations, no 'pure' parental plants are found, eliminated either through competition or hybridization. Some of the morphologically-distinct members of such hybrid complexes have been given formal names but, because morphologically-similar hybrids can have different origins, these names do not reflect true taxonomic entities. Among such names are C. hrevispica Nash, C. verticillata var. aristulata Torr. & A. Gray, C. verticillata var. intermdia Vasey, C. latisquamea Nash, and C. subdolichostachya Mull.-Hal. Plants belonging to such complexes are best named as hybrids between their parents, e.g. "Chloris verticillata x C. andropogonoides", or as being close to one of the probable parents, e.g., "close to Chloris andropogonoides E. Fourn."
+</discussion>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Setaria chapmanii (Vasey) Pilg. </name_authority_date>
+  </taxon_identification>
+  <common_names>CHAPMAN'S BRISTLEGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose. Culms 40-100 cm, erect, slender; nodes glabrous. Sheaths mostly glabrous, margins ciliate distally; ligules 0.1-0.4 mm, of stiff hairs; blades 15-40 cm long, 2-5 mm wide, those of the basal leaves involute, those of the cauline leaves flat, adaxial surfaces sparsely pilose basally. Panicles to 35 cm, nodding, slender, interrupted; rachises scabridulous; branches 5-20, erect, axes 0.4-3.2 cm, undulating, with 3-12 spikelets in 2 ranks, a single bristle present below the terminal spikelets; bristles 3-6 mm. Spikelets 1.8-2.2 mm, obovate, turgid. Lower glumes 0.6-0.8 mm, about 1/3 as long as the spikelets, 3-veined; upper glumes equaling the upper lemmas, 5-7-veined; lower lemmas equaling the upper lemmas; lower paleas absent; upper lemmas finely and transversely rugose; anthers 0.9-1.1 mm. 2n = unknown.</description>
+  <discussion>Setaria chapmanii is native to soils of coral or shell origin in the Florida Keys, the Bahamas, Cuba, and the Yucatan Peninsula, Mexico. The absence of the lower palea makes S. chapmanii unusual in subg. Paurochaetium.
+ 
+</discussion>
+</bio:treatment>

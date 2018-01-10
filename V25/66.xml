@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Triplasis purpurea (Walter) Chapm. </name_authority_date>
+  </taxon_identification>
+  <common_names>PURPLE SANDGRASS</common_names>
+  <description type="morphology">Plants annual and tufted or perennial and occasionally rhizomatous. Culms 14-100 cm, usually ascending; internodes glabrous. Ligules to 1 mm, of hairs; blades 1-5 mm wide, flat or involute, hispid or with papillose-based hairs. Panicles 3-7 cm long, 1-6 cm wide. Spikelets 6.5-9 mm, with 3-4 florets. Glumes about 2 mm, glabrous or scabrous, apices erose; lemmas 3-4 mm, lobes shorter than 1 mm, rounded; awns shorter than 2 mm, straight; paleas about 2.5 mm, keels ciliate; anthers about 2 mm, reddish-purple. Caryopses about 2 mm long, 0.6 mm wide, tapering distally, tan. 2n = 40.</description>
+  <discussion>Triplasis purpurea grows in sandy soils throughout the eastern and central portion of the Flora region, extending southward through Mexico to Costa Rica. It is far more common in maritime dunes than T. americana. Plants in the Flora region belong to Triplasis purpurea (Walter) Chapm. var. purpurea.</discussion>
+</bio:treatment>

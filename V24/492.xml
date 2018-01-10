@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>xElyleymus hirtiflorus (Hitchc.) Barkworth </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants rhizomatous. Culms 40-90 cm tall, 2-2.5 mm thick, glabrous. Leaves somewhat basally concentrated; sheaths smooth, glabrous; auricles 0.3-0.5 mm; ligules 0.2-0.5 mm, truncate; blades 5-20 mm long, 2-4 mm wide, usually involute, sometimes flat, abaxial surfaces smooth, glabrous or sparsely hairy, particularly towards the base, veins not prominent, adaxial surfaces scabridulous or scabrous, varying within a plant, all veins equally prominent, apices narrowly acute. Inflorescences spikes, 5-18 cm long, 8-10 mm wide, with 1-2 sessile or subsessile spikelets per node; internodes 4-5 mm, partially exposed on the sides, hairy. Spikelets 11-14 mm, to 23 mm including the awns,  with  3-6  florets;  disarticulation  above  the glumes, beneath the florets. Glumes 12-17 mm long including the awnlike apices, 1-3 mm wide, widest at about 1/4 length, l(3)-veined, keeled, sparsely to densely hairy, hairs 0.3-0.5 mm; lemmas 8.5-10 mm, sparsely to densely hairy, hairs 0.3-0.5 mm, apices awned, awns 5-10 mm, straight; anthers 1.8-2 mm long.</description>
+  <discussion>Bowden (1967) suggested that xElyleymus hirtiflorus consisted of hybrids between Elymus trachycaulus and Leymus innovatus, and included in it plants from British Columbia. The name, however, is based on collections from the banks of the Green River, Wyoming, where neither putative parent grows. The more likely parents are E. lanceolatus and L. simplex. Admittedly, the short anthers argue for E. trachycaulus rather than E. lanceolatus as the Elymus parent. The Canadian specimens are here treated as belonging to xElyleymus ontariensis, a name that Bowden treated as a synonym of xElyleymus hirtiflorus.</discussion>
+</bio:treatment>

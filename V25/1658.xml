@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Tripsacum dactyloides (L.) L. </name_authority_date>
+  </taxon_identification>
+  <common_names>EASTERN GAMAGRASS</common_names>
+  <description type="morphology">Plants with short, knotty rhizomes. Culms 1-2(4) m tall, 3-5 mm thick, clumped. Sheaths usually glabrous, occasionally slightly pilose; ligules ciliate; blades 30-75(120) cm long, 9-35(45) mm wide, flat, usually glabrous, tapering to attenuate apices. Terminal inflorescences erect, with (1)2-3(6) rames; rames 12-25 cm. Pistillate spikelets  6-8  mm long,  3-5.5  mm wide.  Staminate spikelets all sessile or subsessile; glumes 5-12 mm, coriaceous, blunt, acute, or bifid; pedicels, when present, about 1 mm long, 0.5-0.8 mm wide, triangular in cross section, rigid. 2n = 36, 54, 72.</description>
+  <discussion>Tripsacum dactyloides grows in water courses and limestone outcrops from the central and eastern United States through Mexico to northern South America. Plants from the United States and northern Mexico belong to Tripsacum dactyloides var. dactyloides. They differ from those of the other two varieties in their erect stems and sessile staminate spikelets. Narrow-bladed plants of T. dactyloides from Texas resemble T floridanum, but on transplanting to favorable conditions develop the wider blades characteristic of T. dactyloides. The two species can hybridize; the hybrids are partially sterile.
+Growing Tripsacum dactyloides for forage has proven practical only in South America. It is also used as an ornamental grass, the chief attraction being its foliage.
+</discussion>
+</bio:treatment>

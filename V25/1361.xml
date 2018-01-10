@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Pennisetum pedicellatum Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>HAIRY FOUNTAINGRASS</common_names>
+  <description type="morphology">Plants usually annual, occasion¬ally perennial; cespitose. Culms 40-150 cm, erect, branching; nodes glabrous. Sheaths glabrous, margins ciliate; ligules 1-2 mm; blades 6-30 cm long, 4-15 mm wide, flat, pubescent, basal margins ciliate. Panicles terminal and axillary, (5)8-19 cm long, 30-35 mm wide, erect, pink to purple; rachises terete, puberulent at the base. Fascicles 14-15 per cm, disarticulating at maturity; fascicle axes 1.5-2.5 mm, with (1)2-5 spikelets; outer bristles 10-20, 1.2-2 mm, scabrous; inner bristles 40-90, 2.2-14 mm, long ciliate; primary bristles 15-25 mm, long-ciliate, noticeably longer than the other bristles. Spikelets 3.4-4.8 mm; pedicels 0.5-3.5 mm; lower glumes 1.2-2.4 mm, 0-1-veined; upper glumes 3.4-4.8 mm, glabrous, 5-veined; lower florets staminate or sterile; lower lemmas 3.1-4 mm, 5(6)-veined; lower paleas 2.5-3.5 mm; anthers 3, 2.2-2.5 mm; upper florets disarticulating at maturity; upper lemmas 2-2.7 mm, coriaceous, smooth, shiny, 5-veined, margins glabrous, apices ciliate; anthers 1.5-2.5 mm. Caryopses about 1.7 mm, concealed by lemma and palea at maturity. 2n = 24, 30, 32, 35, 36.</description>
+  <discussion>Pennisetum pedicellatum is native to Africa. It now grows in many other areas, including Florida. The U.S. Department of Agriculture considers it a noxious weed.</discussion>
+</bio:treatment>

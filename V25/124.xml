@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>14</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis capillaris (L.) Nees </name_authority_date>
+  </taxon_identification>
+  <common_names>LACEGRASS</common_names>
+  <description type="morphology">Plants annual; tufted, without innovations, without glands. Culms (15)20-50(60) cm, erect, glabrous, often shiny below the nodes. Sheaths pilose along the margins, apices hirsute, hairs to 7 mm; ligules 0.2-0.5 mm, ciliate; blades (6)8-20(30) cm long, (1)2-5 mm wide, flat, abaxial surfaces smooth, glabrous, adaxial surfaces scabridulous, with long scattered hairs. Panicles (10)15-45(55) cm long, (7)10-25 cm wide, to 2/3 the height of the plants, elliptic to ovate, open, rachises without glandular pits; primary branches (2)5-15 cm, diverging 20-90° from the rachises, capillary, naked basally; pulvini glabrous; pedicels (4)5-25 mm, divergent, scabridulous. Spikelets (1.4)2-5 mm long, 1-1.3(1.4) mm wide, ovate to lanceolate, plumbeous, occasionally reddish-purple, with 2-5(7) florets; disarticulation acropetal, paleas persistent. Glumes narrowly lanceolate to lanceolate, hyaline; lower glumes 1-1.2 mm, narrower than the upper glumes; upper glumes 1.2-1.4 mm; lemmas 1.2-1.7 mm, broadly ovate, membranous, keels scabridulous, lateral veins inconspicuous, apices acute; paleas 1.2-1.6 mm, hyaline, keels almost smooth to scabrous, scabridities to 0.1 mm, apices acute to obtuse; anthers 3, 0.2-0.3 mm, reddish-brown. Caryopses 0.4-0.7 mm, ovoid to rectangular-prismatic, adaxial surfaces deeply grooved, striate, bases reddish-brown, distal 2/3 opaque. 2n = 50, 100.</description>
+  <discussion>Eragrostis capillaris is native to the eastern portion of the Flora region. It grows in open, dry, sandy river-banks, floodplains, rocky roadsides, and gravel pits, at 150-1500 m, usually in association with Pinus, Quercus, Carrya, and Liquidambar styraciflua. Its range extends into northeastern Mexico.
+Eragrostis capillaris resembles E. frankii, but differs in its lack of glandular pits, deeply grooved caryopses, longer pedicels, pilose sheath margins, and larger panicles. The two species are sympatric over much of the eastern United States.
+</discussion>
+</bio:treatment>

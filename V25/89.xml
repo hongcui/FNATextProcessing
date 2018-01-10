@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Leptochloa fusca subsp. uninervia (J. Presl) N. Snow</name_authority_date>
+  </taxon_identification>
+  <common_names>MEXICAN SPRANGLETOP</common_names>
+  <description type="morphology">Culms (15)25-110 cm, more or less erect, often branch¬ing from the aerial nodes. Blades usually densely scabrous on both surfaces, not exceeding the panicle. Panicles 10-57 cm long, (0.5)3-18 cm wide, often ellipsoidal, usually completely exserted from the upper¬most leaf sheaths; branches 2-11 cm, mostly ascending. Spikelets 5-10 mm. Lower glumes 1-2.6 mm, narrowly triangular to ovate; upper glumes 1.8-2.8 mm, obovate to widely obovate; lemmas 2-3.6 mm, light brown, dark green, or lead-colored, usually without a basal dark spot, apices usually truncate or obtuse, rarely broadly acute, sometimes bifid, sometimes mucronate; anthers 3, 0.2-0.6(1) mm. Caryopses 1-1.5 mm.</description>
+  <discussion>Leptochloa fusca subsp. uninervia is native from the southern United States to Argentina. It may be confused with L. scabra, from which it usually differs in its truncate or obtuse lemmas.</discussion>
+</bio:treatment>

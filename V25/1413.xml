@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>17</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Setaria corrugata (Elliott) Schult. </name_authority_date>
+  </taxon_identification>
+  <common_names>COASTAL BRISTLEGRASS</common_names>
+  <description type="morphology">Plants annual. Culms to 100 cm; nodes hispid, hairs appressed. Sheaths glabrous or pilose, margins ciliate distally; ligules about 1 mm, ciliate; blades 15-30 cm long, 4-7 mm wide, flat, scabrous or pubescent. Panicles 3-15 cm, densely spicate; rachises rough hispid and sparsely villous; bristles 1-3, 5-15 mm, flexible, antrorsely scabrous. Spikelets about 2 mm, turgid. Lower glumes 1/3 – 1/2 as long as the spikelets, 3-5-veined; upper glumes about 3/4 as long as the upper lemmas, 5-7-veined; lower lemmas equaling the upper lemmas; lower paleas 3/4 as long as the lower lemmas, hyaline; upper lemmas very coarsely and transversely rugose; upper paleas similar to the upper lemmas. 2n = unknown.</description>
+  <discussion>Setaria corrugata grows in pinelands and cultivated fields along the southeastern coast of the United States. It is also found in Cuba and the Dominican Republic. Superficially, it resembles S. viridis, but is easily distinguished from that species by its coarsely rugose ("corrugated") lower lemmas.</discussion>
+</bio:treatment>

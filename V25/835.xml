@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Gymnopogon chapmanianus Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>CHAPMAN'S SKELETONGRASS</common_names>
+  <description type="morphology">Plants usually perennial; cespitose from a knotty base. Culms 20-70 cm, erect to sprawling, simple or sparingly branched from the lower nodes. Sheaths glabrous; ligules 0.1-0.3 mm; blades 1.3-8.5 cm long, 2-8 mm wide, glabrous. Panicles 8-23.5 cm; branches 2-15 cm, ascending, widely spreading, or reflexed, spikelet-bearing from the base or naked for less than 1/3 of their length. Spikelets with (1)2-3(4) florets. Glumes to 6 mm, sometimes widely divergent; lemmas of bisexual florets 1.5-2.3 mm, unawned or awned, awns 0.7-2.2 mm; terminal sterile florets minute, rudimentary, awned, awns not exserted from the spikelets; anthers 3, 0.5-0.8 mm. Caryopses 1.2-1.5 mm long, 0.3-0.4 mm wide. 2n = unknown.</description>
+  <discussion>Gymnopogon chapmanianus grows in sandy pine barrens and sites inhabited by dwarf palmetto, Serenoa repens. As interpreted here, G. chapmanianus includes G. floridanus Swallen. Smith (1971) treated the two as distinct species, but he acknowledged that they over¬lapped morphologically, ecologically, and geographically. Subsequent fieldwork has not supported the recognition of two entities. Smith's most intriguing observation was that only plants fitting the G. floridanus end of the morphological range produced mature caryopses. The reproductive biology of G. chapmanianus merits examination.</discussion>
+</bio:treatment>

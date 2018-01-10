@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Themeda quadrivalvis (L.) Kuntze </name_authority_date>
+  </taxon_identification>
+  <common_names>KANGAROO GRASS</common_names>
+  <description type="morphology">Plants annual. Culms to 2 m, glabrous. Sheaths glabrous, flattened at the base; ligules 1-2.5 mm; blades to 60 cm long, 1-6 mm wide, usually folded. False panicles to 130 cm; sheaths subtending the rame clusters 17-50 mm, distal sheaths shorter and more strongly keeled, margins tuberculate; rames 1-3 per cluster, 8-10 mm, with 1-2 heterogamous spikelet pairs. Homogamous spikelets 4-7 mm; lower glumes many-veined, hairy distally, hairs papillose-based; upper glumes subequal to the lower glumes, 3-veined. Sessile heterogamous spikelets 4-6 mm; calluses 0.5-3 mm; lower glumes glabrous or sparsely hirsute; upper glumes 4.5-5.5 mm; awns 4-5 cm; pedicellate spikelets 4.5-5.5 mm, sterile. 2n = 18.</description>
+  <discussion>A native of Malaysia, Themeda quadrivalvis has been found at scattered locations in the contiguous United States. Towne and Ballard (2002) reported that it is a common contaminant of the thistle seed sold for bird feeders. Most of the seeds are sterile, but a few are not. So far as is known, the species is not established in the Flora region.</discussion>
+</bio:treatment>

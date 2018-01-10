@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Dichanthelium sect. Angustifolia (Hitchc.) Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants grayish-green, densely cespitose, with caudices. Basal rosettes sometimes poorly differentiated. Culms 15-75 cm, erect; fall phase erect or spreading, extensively branched from the mid- and upper culm nodes, secondary panicles and blades of the fascicles much reduced. Cauline leaves 3-7; sheaths glabrous, pilose, or villous, pubescence sometimes sparse; ligules 0.5-2 mm, of hairs, sometimes with a pseudoligule of adjacent longer hairs; blades narrow, stiffly ascending to erect, lower blades widest, transitional to the rosette blades, often longitudinally wrinkled, mid-culm blades generally 16-25 times longer than wide, with prominent raised veins, blades of the flag leaves much reduced, often involute. Primary panicles usually long-exserted. Spikelets ellipsoid to obovoid, narrow to attenuate basally, biconvex in side view. Lower glumes thin, obtuse, weakly veined, somewhat remote and clasping at the base; upper glumes with 5-9 prominent veins. Upper florets blunt to apiculate.</description>
+  <discussion>Dichanthelium sect. Angustifolia grows from the southeastern United States through Central America and the West Indies to northern South America.</discussion>
+</bio:treatment>

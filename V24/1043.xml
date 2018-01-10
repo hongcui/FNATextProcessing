@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Avena fatua L. </name_authority_date>
+  </taxon_identification>
+  <common_names>WILD OATS, FOLLE AVOINE</common_names>
+  <description type="morphology">Plants annual. Culms 8-160 cm, prostrate to erect when young, becoming erect at maturity. Sheaths of the basal leaves with scattered hairs, upper sheaths glabrous; ligules 4-6 mm, acute; blades 10-45 cm long, 3-15 mm wide, scabridulous. Panicles 7-40 cm long, 5-20 cm wide, nodding. Spikelets 18-32 mm, with 2(3) florets; disarticulation beneath each floret; disarticulation scars of all florets round to ovate or triangular. Glumes subequal, 18-32 mm, 9-11-veined; calluses bearded, hairs to 1/4 the length of the lemmas; lemmas 14-22 mm, usually densely strigose below midlength, sometimes sparsely strigose or glabrous, veins not extending beyond the apices, apices usually bifid, teeth 0.3-1.5 mm, awns 23-42 mm, arising in the middle 1/3 of the lemmas; lodicules without lobes on the wings; anthers about 3 mm. 2n = 42.</description>
+  <discussion>Avena fatua is native to Europe and central Asia. It is known as a weed in most temperate regions of the world; it is considered a noxious weed in some parts of Canada and the United States.
+Avena fatua is sometimes confused with A. occidentalis, but differs in having shorter, wider spikelets, fewer florets, and a distal floret which does not have a heart-shaped disarticulation scar. Hybrids between A. fatua and A. sativa are common in plantings of cultivated oats. The hybrids resemble A. sativa, but differ in having the fatua-type lodicule; some also have a weak awn on the first lemma. They are easily confused with fatuoid forms of A. sativa.
+ 
+</discussion>
+</bio:treatment>

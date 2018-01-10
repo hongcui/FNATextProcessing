@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Spartina densiflora Brongn. </name_authority_date>
+  </taxon_identification>
+  <common_names>DENSELY-FLOWERED CORDGRASS</common_names>
+  <description type="morphology">Plants cespitose, rarely rhizomatous; rhizomes, when present, short, to 10 mm thick. Culms 27-150 cm, forming large clumps, indurate, usually with short extravaginal shoots appressed to the culms. Sheaths glabrous, lower sheaths smooth, indurate and shining, upper sheaths dull and somewhat striate; ligules 1-2 mm; blades 12-43 cm long, 3-8 mm wide, involute when fresh, abaxial surfaces glabrous, adaxial surfaces and margins scabrous, apices acuminate. Panicles 10-30 cm long, 4-8 mm wide, sinuous in outline, often twisted, with 2-15 branches; branches 1-11 cm long, longer branches narrower than the shorter branches, all branches tightly appressed, moderately imbricate, axes not prolonged beyond the distal spikelets, with 10-30 spikelets. Spikelets 8-14 mm. Glumes glabrous or sparsely hispidulous, keels hispidulous, margins sparsely hispidulous; lower glumes 4-7 mm, usually obtuse; upper glumes 8-14 mm, 1-veined, usually acuminate; lemmas minutely hispidulous, keels glabrous proximally, hispidulous distally, apices acuminate to obtuse; paleas acuminate, keels glabrous basally, hispidulous distally; anthers 3-5 mm. 2n = unknown.</description>
+  <discussion>Spartina densiflora is native to South America, where it grows in coastal marshes and at inland sites. It was introduced to Humboldt Bay, Humboldt County, California, possibly during the nineteenth century. It is now established there and in several locations around San Francisco Bay and in Washington, Oregon, and Texas, as well as the Mediterranean coast of Europe. In California, it has often been mistaken for S. foliosa, from which it differs in its indurate culms, narrow, inrolled leaves, and cespitose growth habit and tendency to grow among Salicornia in the upper intertidal zone or in open mud.</discussion>
+</bio:treatment>

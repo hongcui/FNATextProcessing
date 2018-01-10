@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bothriochloa edwardsiana (Gould) Parodi </name_authority_date>
+  </taxon_identification>
+  <common_names>MERRILLS BLUESTEM</common_names>
+  <description type="morphology">Culms 35-65 cm, slender, stiffly erect, rarely geniculate; lower nodes shortly hairy, hairs shorter than 3 mm, usually off-white and ascending; upper nodes glabrous or glabrate. Leaves mostly basal, glaucous; ligules 1-1.5 mm; blades 10-25 cm long, 1-2(3.5) mm wide, flat to rolled, with 3-7 mm hairs below the middle. Panicles 6-12 cm, loose, fan-shaped; rachises shorter than 5 cm, with 3-6 branches; branches longer than the rachises, not rebranched, with 1 rame; rame internodes with 3-5 mm marginal hairs. Sessile spikelets 5-8 mm, lanceolate; lower glumes 5.5-7 mm, glabrous, shiny, with a deep dorsal pit, tapering to a narrow, slightly bifid apex; awns 20-28 mm; anthers 0.5-1 mm. Pedicellate spikelets 2.5-3.5 mm, sterile. 2n = 60.</description>
+  <discussion>Bothriochloa edwardsiana grows in the rocky plains and prairies of the Edwards Plateau of Texas, on calcareous soil, at 300-600 m. It also grows in northern Mexico and Uruguay. It resembles B. hybrida in some respects, but that species has a more robust habit, predominantly cauline foliage, and wider leaf blades.</discussion>
+</bio:treatment>

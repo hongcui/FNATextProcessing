@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Danthonia parryi Scribn. </name_authority_date>
+  </taxon_identification>
+  <common_names>PARRY'S OATGRASS</common_names>
+  <description type="morphology">Culms 30-80(100) cm, not disarticulating at maturity. Sheaths glabrous or sparsely pubescent; blades 15-25 cm long, to 4 mm wide, glabrous or scabrous (rarely pilose), uppermost cauline blades erect or diverging less than 20° from the culm at maturity. Inflorescences usually paniculate, sometimes racemose, with (3)4-11 spikelets; branches appressed to ascending, somewhat flexible; pedicels on the lowest branch from shorter than to as long as the spikelets. Spikelets 16-24 mm. Calluses of middle florets longer than wide, concave abaxially; lemma bodies 5.5-10 mm, backs usually pilose, especially near the base (rarely glabrous), margins pilose, teeth 2.5-8 mm, aristate; awns 12-15 mm; anthers to 6.5 mm. Caryopses rarely produced, 3.5-5.2 mm long, 0.9-1.8 mm wide. 2n = 36.</description>
+  <discussion>Danthonia parryi is endemic to western North America and is often a major component of grasslands on the eastern foothills of the Rocky Mountains. It grows in open grassland, open woods, and rocky slopes, at elevations up to 4000 m. It rarely produces caryopses in the terminal inflorescences. This and its somewhat intermediate morphology have led to speculation that it is derived from hybridization between D. californica and D. intermedia.</discussion>
+</bio:treatment>

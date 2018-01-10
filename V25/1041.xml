@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>J. Gabriel Sanchez-Ken</author>
+    </source>
+  </meta>
+  <number>23</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>tribe</rank>
+    <name_authority_date>THYSANOLAENEAE C.E. Hubb.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, shortly rhizomatous, reedlike. Culms 1.5-4 m, woody, persistent, glabrous, usually not branched above the base; internodes solid. Sheaths open; auricles sometimes present; ligules membranous to somewhat leathery, entire, minutely erose, or ciliolate; pseudopetioles poorly developed; blades flat, disarticulating from the sheaths when old, cross venation not evident. Inflorescences terminal, open diffuse panicles. Spikelets solitary, pedicellate, terete, with 2(3-4) florets, lowest floret sterile; rachillas prolonged, often terminating in a rudimentary floret; disarticulation at the pedicel bases, subsequently below the spikelets. Glumes membranous, shorter than the florets, 0-1-veined, obtuse; lowest florets equaling the upper florets, sterile; lowest lemmas membranous, 1-3-veined; lowest paleas not present; upper florets bisexual; upper lemmas membranous, 3-veined, unawned, marginal veins with papillose-based hairs, hairs 0.8-1.5 mm, strongly diverging at maturity; upper paleas about 1/2 as long as the lemmas, apices notched; lodicules 2, free, broadly cuneate, truncate to irregularly lobed; anthers 2(3). Caryopses nearly spherical to broadly ovoid; hila subbasal, punctate; embryos large, about 3/4 as long as the caryopses. x = 12.</description>
+  <discussion>The tribe Thysanolaeneae is native to tropical Asia and includes only the monotypic genus Thysanolaena. It could be included in a more broadly circumscribed Centotheceae, but the members of that tribe needs further study before changes to its circumscription are adopted.</discussion>
+</bio:treatment>

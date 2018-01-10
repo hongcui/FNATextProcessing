@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Gerald F. Guala</author>
+    </source>
+  </meta>
+  <number>17.08</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>NEYRAUDIA Hook. f.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, with short, thick, scaly rhizomes. Culms 80-500 cm tall, to 1.5 cm thick, reedlike, almost woody; internodes solid. Leaves cauline, evenly distributed, distichous; sheaths with tightly overlapping margins; ligules a cartilaginous ridge subtending a line of hairs; blades broad, flat, deciduous at maturity, margins not cartilaginous. Inflorescences terminal, plumose panicles, 30-80 cm, exceeding the upper leaves; disarticulation above the glumes and between the florets. Spikelets laterally compressed; florets (2)4-10, bisexual, lowest florets sometimes only an empty lemma; rachilla internodes glabrous. Glumes 2, shorter than the lemmas, subequal, narrowly ovate, glabrous, membranous, 1-veined, acute; calluses obtuse, pilose; lemmas narrowly ovate, thinly membranous to hyaline, 3-veined, midveins glabrous, margins and lateral veins long pilose on the distal 2/3, apices bifid, shortly awned from between the teeth; paleas shorter than the lemmas, hyaline, 2-keeled. x = unknown, frequently reported as 10. </description>
+  <discussion>Neyraudia is a genus of 2-4 species from the tropics of the Eastern Hemisphere. One Asian species is established in Florida. It differs from the other species in the genus in having a sterile lemma at the base of the spikelets. Reports of Neyraudia arundinacea occurring in the Flora region have not been substantiated.
+Neyraudia is often mistaken for Phragmites, but that genus has villous rachilla internodes and glabrous lemmas.
+</discussion>
+</bio:treatment>

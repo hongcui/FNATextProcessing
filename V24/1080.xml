@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Anthoxanthum arcticum Veldkamp </name_authority_date>
+  </taxon_identification>
+  <common_names>ARCTIC SWEETGRASS, HIEROCHLOE PAUCIFLORE</common_names>
+  <description type="morphology">Plants perennial; loosely ces¬pitose or the culms solitary, rhizomes elongate, 0.3-1 mm thick. Culms 5-26(35) cm. Sheaths glabrous; ligules 0.4-1.3 mm, obtuse; blades 2-25 cm long, 0.7-2 mm in diameter when rolled, involute to convolute, abaxial surfaces glabrous, adaxial surfaces pubescent. Panicles 1-3(4.5) cm long, 0.3-0.5 cm wide, spikelike, with 1-2 spikelets per branch. Spikelets 3.5-5 mm, green to purple; rachilla internodes about 0.1 mm, glabrous. Glumes subequal, 2.9-4.7 mm, shiny; lowest 2 florets staminate; lemmas sparsely hairy, acute or slightly notched, unawned or awned, awns to 1 mm; bisexual lemmas 2.9-4.4 mm, with sparse, spreading hairs towards the apices; anthers 1.5-3 mm. Caryopses about 2.5 mm. 2n = 28.</description>
+  <discussion>Anthoxanthum arcticum is a coastal and lowland circumpolar species of the Alaskan, Canadian, and Russian arctic; it is absent from Greenland. It generally grows in wet tundra on acidic, peaty soils. In the warmest sectors of the western high arctic, it is rooted in mats of moss that are growing over carbonate substrates.</discussion>
+</bio:treatment>

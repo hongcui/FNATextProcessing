@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>32</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus richardsonii Link </name_authority_date>
+  </taxon_identification>
+  <common_names>RICHARDSON'S BROME</common_names>
+  <description type="morphology">Plants perennial; not rhizomatous. Culms 50-110(145) cm, erect to spreading; nodes (3)4-5(6), usually glabrous, sometimes pubescent; internodes usually glabrous. Basal sheaths often retrorsely pilose; culm sheaths glabrous, often tufted-pilose near the auricle position, midrib of the culm leaves not abruptly narrowed just below the collar; auricles absent; ligules 0.4-2 mm, glabrous, rounded, erose, ciliolate; blades 10-35 cm long, 3-12 mm wide, flat, glabrous. Panicles 10-20(25) cm, open, nodding; branches ascending to spreading or drooping, filiform. Spikelets 15-25(40) mm, elliptic to lanceolate, terete to moderately laterally compressed, with (4)6-10(15) florets. Glumes usually glabrous, sometimes pubescent; lower glumes 7.5-12.5 mm, l(3)-veined; upper glumes 8.9-11.3 mm, 3-veined, often mucronate; lemmas 9-14(16) mm, elliptic, rounded over the midvein, margins more or less densely pilose on the lower 1/2 or 3/4, lower lemmas in a spikelet glabrous across the backs, uppermost lemmas with appressed hairs on the backs, apices obtuse, entire; awns (2)3-5 mm, straight, arising less than 1.5 mm below the lemma apices; anthers 1.6-2.7 mm. 2n = 28. </description>
+  <discussion>Bromus richardsonii grows in meadows and open woods in the upper montane and subalpine zones, at 2000-4000 m in the southern Rocky Mountains, and at lower elevations northwards. Its range extends from southern Alaska to southern California and northern Baja California, Mexico; it is found as far east as Saskatchewan, South Dakota, and western Texas. Specimens with pubescent nodes and glumes are apparently confined to the southwestern United States.</discussion>
+</bio:treatment>

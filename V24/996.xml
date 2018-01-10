@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Amphibromus scabrivalvis (Trin.) Swallen </name_authority_date>
+  </taxon_identification>
+  <common_names>ROUGH AMPHIBROMUS</common_names>
+  <description type="morphology">Plants perennial; rhizomatous. Culms 30-100+ cm, terete, erect or decumbent; nodes up to 10, lowest 3 or 4 nodes often underground, aerial nodes usually producing cleistogamous panicles; lowest internodes usually swollen. Leaves mostly cauline; sheaths usually longer than the internodes, smooth; ligules 6-15 mm; lower blades 5-25(40) cm long, 2-6 mm wide, flat, rather lax; upper blades reduced, sometimes to 1 cm. Cleistogamous panicles with 6-10 mm spikelets bearing 1-3 florets, lemmas unawned, sometimes mucronate, anthers about 0.7 mm. Terminal panicles 6-27 cm, often partially enclosed in the uppermost sheaths; branches 2-8 cm, ascending to drooping, often sinuous; pedicels absent or to 10 mm. Spikelets 12-25 mm, with 3-9 florets. Glumes 1/2 - 2/3 the length of the adjacent lemmas; lower glumes 3.5-6.7 mm, 1-3-veined; upper glumes 5-8 mm, 3-5-veined; lemmas 5-11 mm, 7-9-veined, hispid or tuberculate, deeply bilobed, awned, awns 8-17 mm, arising near midlength; paleas 4-6 mm, chartaceous, margins scabrous to ciliolate distally; anthers 0.7-2 mm. 2n = unknown.</description>
+  <discussion>Amphibromus scabrivalvis is native to open grasslands of South America. It was discovered growing in strawberry patches in Tangipahoa Parish, Louisiana, in the late 1950s. Despite efforts to eradicate it, the species persists there; it is not known to have spread elsewhere. North American plants belong to Amphibromus scabrivalvis (Trin.) Swallen var. scabrivalvis.</discussion>
+</bio:treatment>

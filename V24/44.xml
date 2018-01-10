@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Leersia hexandra Sw. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; rhizomatous, rhizomes elongate, not scaly. Culms 25-150 cm tall, 1-1.5 mm thick, decumbent, rooting at the nodes, terminal portions erect, often floating, branched or unbranched; nodes pubescent, adjacent portions of the internodes glabrous or coarsely scabrous. Sheaths glabrous or coarsely scabrous, margins often ciliate; ligules 1-3 mm; blades 5-25 cm long, 3-15 mm wide, ascending, glabrous or pubescent. Panicles 5-15 cm, exserted at maturity, with 1(2) branches per node; branches 3-10 cm, appressed to ascending, spikelet-bearing to near the base, spikelets appressed to slightly divergent, slightly imbricate. Spikelets 3.2-4.7(5) mm long, 0.5-2 mm wide, ovate to elliptic. Lemmas ciliate on the keels and margins, short hispid or glabrous elsewhere, apices acute to acuminate; paleas ciliate on the keels; anthers 6, 2-3.2 mm. Caryopses about 2 mm, usually not developed. 2n = 48.</description>
+  <discussion>Leersia hexandra is found in wet areas, usually in fresh water along streams and ponds, where it sometimes forms floating mats. It grows in the southeastern United States and throughout much of the neotropics; the California record probably represents a recent introduction.
+Leersia hexandra is sometimes a weed in rice. It usually flowers in late fall, but may flower throughout the year. Very little seed is set.
+</discussion>
+</bio:treatment>

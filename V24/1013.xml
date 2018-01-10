@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Calamagrostis breweri Thurb. </name_authority_date>
+  </taxon_identification>
+  <common_names>SHORTHAIR REEDGRASS</common_names>
+  <description type="morphology">Plants sometimes with sterile culms; densely cespitose, often with rhizomes to 5 cm long, 1-2 mm thick. Culms (18)29-54 cm, unbranched, smooth beneath the panicles; nodes 1-2(3). Leaves basally concentrated; sheaths and collars smooth or slightly scabrous; ligules 1.7-4.1(6) mm, usually lacerate; blades (2)10-15 cm long, 0.9-1.7 mm wide when flat, 0.4-0.6 mm in diameter when dry and involute, abaxial surfaces scabrous, adaxial surfaces sparsely hairy. Panicles (4)5.7-8.5 cm long, 0.7-5.2 cm wide, usually open, sometimes contracted, mostly erect, dark purple; branches (1)2-3(3.5) cm, smooth, spikelets usually confined to the ends of the branches. Spikelets 3-5 mm; rachilla prolongations about 1.5 mm, hairs 1.5-2 mm. Glumes rounded, usually smooth, occasionally scabrous at the apices, lateral veins obscure, apices acute to attenuate; callus hairs 0.3-1.2 mm, 0.2-0.5 times as long as the lemmas, sparse; lemmas 2.5-4 mm, 0.5-1 mm shorter than the glumes; awns 3.5-5.5 mm, attached to the lower 1/10 – 3/10 of the lemmas, exserted, bent; anthers 1.3-2.6 mm. 2n = 42.</description>
+  <discussion>Calamagrostis breweri grows in moist subalpine and alpine meadows, lake margins, and stream banks, at 1700-2600 m, from Mount Hood in Oregon south to north of the Carson Pass area in Alpine and Amador counties, California. It differs from C. bolanderi (p. 719) in having basally concentrated leaves.
+ 
+</discussion>
+</bio:treatment>

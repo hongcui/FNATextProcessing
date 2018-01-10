@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Achnatherum lemmonii subsp. pubescens (Crampton) Barkworth </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Lower sheaths and culms densely tomentose, hairs 0.4-0.6 mm.</description>
+  <discussion>Achnatherum lemmonii subsp. pubescens is restricted to serpentine soils in southern California. Barkworth and Linman (1984) rejected subsp. pubescens, not appreciating that it differed in having tomentose, rather than pubescent, culms.</discussion>
+</bio:treatment>

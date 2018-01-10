@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>29</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Panicum hemitomon Schult. </name_authority_date>
+  </taxon_identification>
+  <common_names>MAIDENCANE</common_names>
+  <description type="morphology">Plants perennial; robust, aquatic or semi-aquatic, forming extensive colonies through spreading rhizomes. Culms 50-200 cm, mostly erect and sterile, glabrous, often rooting from the lower nodes if submerged. Sheaths usually glabrous, or pilose or hirsute at the lowermost sheath, especially distally; ligules shorter than 1 mm; blades 8-35 cm long, 5-15 mm wide, ascending or spreading, abaxial surfaces glabrous, adaxial surfaces usually scabridulous or pubescent, bases slightly narrowed, margins scabrous, apices long-tapering. Panicles 10-30 cm long, less than 1 cm wide; branches mostly short, appressed-ascending, with fascicles of congested spikelets; ultimate branchlets 1-sided; pedicels 0.2-1.8 mm. Spikelets 2-2.8 mm, subsessile, lanceoloid, slightly laterally compressed, glabrous, acute. Lower glumes about 1/2 as long as the spikelets, slightly keeled along the midveins, 3-veined, acute; upper glumes and lower lemmas similar, glumes slightly shorter than the lemmas, faintly keeled on the back, acute; lower florets staminate; lower paleas subequal to the lower lemmas; upper florets 2-2.5 mm, 2/5 to almost as long as the spikelets, narrowly ellipsoid; upper lemmas relatively thin, flexible, pale, acuminate, clasping the paleas only at the base. 2n = 36, 40.</description>
+  <discussion>Panicum hemitomon forms extensive, nearly pure stands in water or wet soils such as marshes, swamps, and along the shores of streams, canals, ditches, lakes, and ponds. It is restricted to the United States.</discussion>
+</bio:treatment>

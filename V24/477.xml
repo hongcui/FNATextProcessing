@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>38</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus ciliaris (Trin.) Tzvelev </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants loosely cespitose, without conspicuous rhizomes. Culms 30-130 cm tall, 1-5 mm thick, erect or weakly decumbent; nodes 3-4, glabrous, glaucous. Leaves basal and cauline; sheaths glaucous, glabrous or with hairs, lower sheaths sometimes hairy, upper sheaths glabrous, margins sometimes ciliate; auricles 1.5-2.5 mm; ligules about 0.3 mm; blades 10-25 cm long, 3-10 mm wide, glabrous or pilose. Spikes 10-22 cm long, 1.5-2.5 cm wide including the awns, 0.8-1 cm wide excluding the awns, inclined to nodding, with 1 spikelet at all or most nodes; rachises scabrous on the edges, glabrous below the spikelets; internodes 10-25 mm. Spikelets 5-22 mm long, about 5 mm wide, appressed, with 4-12 florets; disarticulation above the glumes, beneath the florets. Glumes narrowly elliptic to lance-oblong, apices acute to acuminate; lower glumes 5-11 mm; upper glumes 7-13 mm; lemmas 7-12 mm, mostly glabrous, glabrate, or sparsely hairy, margins with coarse stiff hairs, hairs to 1 mm, apices abruptly narrowed, awned, awns 10-20 mm, scabrous, strongly outcurved to recurved; paleas 2/3 - 4/5 the length of the lemmas, keels winged distally, distinctly outwardly curved below the apices, apices 0.5-0.6 mm wide, truncate to rounded; anthers about 2 mm. 2n = 28. Genome StY.</description>
+  <discussion>Elymus ciliaris is native to northern China and Japan. It was collected from ballast dumps in Portland, Oregon, in 1899 and 1902; it is not established in the Flora region. A.S. Hitchcock identified both specimens on the sheet (US 1017954) as Agropyron caninum (L.) P. Beauv. [= Elymus caninus, p. 322], from which E. ciliaris differs in its short, rounded paleas and relatively short glumes with distinctly outwardly curving keels. The other specimen on that sheet is E. tsuskushiensis (p. 336).</discussion>
+</bio:treatment>

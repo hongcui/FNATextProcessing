@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>52</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa paludigena Fernald & Wiegand </name_authority_date>
+  </taxon_identification>
+  <common_names>EASTERN BOG BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; usually pale green; loosely tufted, slender, usually neither stoloniferous nor rhizomatous, occasionally with short, slender rhizomes. Basal branching mostly extravaginal. Culms 10-55 cm, very slender, weak. Sheaths closed for 1/4 - 3/5 their length, terete, smooth or sparsely scabrous, margins not ciliate; ligules 0.5-2  mm,  smooth or sparsely scabrous, truncate; blades 0.8-2 mm wide, flat, thin, soft, apices narrowly prow-shaped. Panicles 3-8(12) cm, lax, open, sparse; nodes with 1-2(3) branches; branches (2)3-7 cm, spreading to reflexed, capillary, angled, angles scabrous. Spikelets 3.2-5.2 mm, laterally compressed, broadly lanceolate to ovate; florets 2-3(5); rachilla internodes smooth, glabrous. Glumes narrowly lanceolate to lanceolate, thin, distinctly keeled, keels scabrous; lower glumes 1-3-veined; upper glumes shorter than or subequal to the adjacent lemmas; calluses sparsely webbed; lemmas 2.5-4 mm, lanceolate, green, distinctly keeled, keels and marginal veins short-villous, extending 2/3 – 4/5 the keel length, lateral veins fairly prominent, intercostal regions glabrous, apices obtuse to broadly acute, white, faintly bronze-colored or not; palea keels scabrous; anthers 0.2-0.8 mm. 2n = unknown. </description>
+  <discussion>Poa paludigena is an inconspicuous species restricted to the northeastern United States. It grows in shady bogs and fens, often underneath  other plants. Poa trivialis (p. 568) sometimes grows with P. paludigena; the former has distinctly longer ligules and anthers. Plants from the middle Appalachian Mountains are sometimes confused with P. sylvestris (p. 512). Poa paludigena is generally shorter and more slender, has shorter panicles with only 1-2 branches per node, is glabrous between the lemma veins and on the palea keels, has shorter anthers, and grows in colder habitats.</discussion>
+</bio:treatment>

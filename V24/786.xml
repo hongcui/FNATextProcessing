@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>43</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa xnematophylla Rydb. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; densely tufted, not stoloniferous, not rhizomatous. Basal branching  intra-vaginal. Culms 10-35 cm, erect or the bases decumbent; nodes terete, 0-1 exserted. Sheaths closed for 1/4-3/4 their length, terete, apices acuminate; innovation blades 0.5-1(2) mm wide, involute, moderately thick, moderately firm, abaxial surfaces smooth or scabrous, adaxial surfaces usually densely scabrous or hispidulous; cauline blades usually gradually reduced distally, 0.5-1(2) mm wide, flat, folded, or involute, thin, sometimes withering, abaxial surfaces smooth or scabrous, apices narrowly prow-shaped, sometimes the flag leaf blades vestigial. Panicles 2-8 cm, erect, narrowly lanceoloid to ovoid, contracted, congested; nodes with 1-2 branches; branches 0.5-3 cm, erect, terete to angled, scabrous. Spikelets 4-8 mm, lengths to 3 times widths, broadly lanceolate to narrowly ovate, laterally compressed, not sexually dimorphic; florets 2-5; rachilla internodes 0.5-1.2 mm, smooth or scabrous. Glumes lanceolate, distinctly keeled; lower glumes 3-veined, distinctly shorter than the lowest lemmas; calluses glabrous; lemmas 4-7 mm, lanceolate, distinctly keeled, membranous, keels and marginal veins usually softly puberulent, sometimes short-villous, intercostal regions usually glabrous, infrequently softly puberulent proximally, lateral veins moderately prominent, margins glabrous, apices acute; palea keels scabrous; anthers mostly vestigial (0.1-0.2 mm), rarely 2-3 mm. 2n = unknown.</description>
+  <discussion>Poa xnematophylla is believed to consists of hybrids between P. cusickii subsp. pallida (see previous) and P. fendleriana (p. 556). It is mostly pistillate and apomictic; few staminate plants have been found. It usually resembles P. cusickii most, but grades towards P. fendleriana. It tends to grow on drier slopes than either parent, mainly in and around sagebrush desert/forest interfaces.</discussion>
+</bio:treatment>

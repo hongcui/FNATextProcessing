@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sporobolus pyramidatus (Lam.) Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>WHORLED DROPSEED</common_names>
+  <description type="morphology">Plants annual, or short-lived perennials flowering in the first year; cespitose, not rhizomatous. Culms 7-35(60) cm, erect or decumbent. Sheaths rounded below, margins and apices hairy, hairs to 3 mm; ligules 0.3-1 mm; blades 2-12(20) cm long, 2-6 mm wide, flat, abaxial surface glabrous, adaxial surface scabridulous, sometimes sparsely hispid, margins ciliate-pectinate. Panicles 4-15(18) cm long, 0.3-6 cm wide, open (contracted when immature), pyramidal; lower nodes with 7-12(15) branches; primary branches 0.5-4.5 cm, spreading 30-90° from the rachis, with elongated glands, without spikelets on the lower 1/3 – 1/2, secondary branches appressed; pedicels 0.1-0.5 mm, appressed. Spikelets 1.2-1.8 mm, plumbeous or brownish, often secund along the branch. Glumes unequal, ovate to obovate, membranous; lower glumes 0.3-0.7 mm, without midveins; upper glumes 1.2-1.8 mm, at least 2/3 as long as the florets, often longer; lemmas 1.2-1.7 mm, ovate to elliptic, membranous, glabrous, acute; paleas 1.1-1.6 mm, ovate to elliptic, membranous, glabrous; anthers 0.2-0.4 mm, yellowish or purplish. Fruits 0.6-1 mm, obovoid, faintly striate, light brownish. 2n = 24, 36, 54. </description>
+  <discussion>Sporobolus pyramidatus is native to the Americas, extending from the southern United States to Argentina. It grows in disturbed soils, roadsides, railways, coastal sands, and alluvial slopes in many plant communities, at elevations from 0-1500 m. Morphologically, it is very similar to the Eastern Hemisphere S. coromandelianus (Retz.) Kunth, suggesting that they are closely related.</discussion>
+</bio:treatment>

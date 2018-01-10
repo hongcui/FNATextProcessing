@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Digitaria eriantha subsp. pentzii (Stent) Kok</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants stoloniferous (the stolons to 6 m), sterile. Basal sheaths glabrous or hirsute. 2n = 27 (for Digitaria decumbens Stent).</description>
+  <discussion>In the Western Hemisphere, D. eriantha subsp. pentzii has traditionally been referred to as D. decumbens Stent. It is widely cultivated as a forage grass throughout the tropics at low and intermediate altitudes (up to 2000 m). It does not set seed; propagation is by sprigging the stolons.</discussion>
+</bio:treatment>

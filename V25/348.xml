@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eustachys neglecta (Nash) Nash </name_authority_date>
+  </taxon_identification>
+  <common_names>FOUR-SPIKE FINGERGRASS</common_names>
+  <description type="morphology">Culms 45-90(120) cm, erect. Blades to 21 cm long, to 8 mm wide, acute, occasionally scabridulous basally. Panicles with (3)4-9 branches; branches 3.3-15.5 cm. Spikelets 2.6-3 mm; florets 2-3. Lower glumes to 2.2 mm, apices obtuse or bifid; upper glumes 2.2-2.8 mm, narrowly oblong, apices bilobed, lobes usually acute, occasionally truncate, awned from between the lobes, awns 0.5-1.8 mm; calluses with a few hairs, hairs to 0.6 mm; lowest lemmas 2.3-3 mm, ovate, medium to dark brown at maturity, lateral veins and keels with slightly spreading, golden to tawny hairs, hairs to 0.7 mm, apices acute, awned, awns 0.7-1.2 mm; second lemmas 1.4-2.1 mm, obovate to oblanceolate, apices truncate, awned, awns 0.5-0.8 mm. Caryopses about 1.5 mm. 2n = unknown.</description>
+  <discussion>Eustachys neglecta grows in sandy fields, roadsides, and pinelands. It is endemic to the southeastern United States.</discussion>
+</bio:treatment>

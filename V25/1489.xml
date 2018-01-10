@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>38</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum lividum Trin. ex Schltdl. </name_authority_date>
+  </taxon_identification>
+  <common_names>LONGTOM</common_names>
+  <description type="morphology">Plants perennial; decumbent or cespitose. Culms 30-97 cm, erect; nodes glabrous. Sheaths glabrous or pubescent; ligules 2.2-4.7 mm; blades to 38 cm long, 2.3-6.2 mm wide, flat, glabrous or pubescent. Panicles terminal, with 3-11 racemosely arranged branches; branches 1.5-4 cm, divergent, occasionally arcuate, terminating in a spikelet; branch axes 1.5-2 mm wide, broadly winged, glabrous or sparsely pubescent, margins scabrous, usually slightly conduplicate, occasionally purple. Spikelets 2.2-2.6 mm long, 1.2-1.5 mm wide, paired, imbricate, appressed to divergent from the branch axes, elliptic to obovate, stramineous (rarely purple-spotted), margins scabrous apically. Lower glumes absent; upper glumes and lower lemmas glabrous, 5-veined, margins entire; lower lemmas lacking ribs over the veins; upper florets white to pale. Caryopses 2-2.2 mm, brown. 2n = 40, 60.</description>
+  <discussion>Paspalum lividum grows in fresh and brackish marshes and ditches. It is native from the Gulf coast of the United States southward through Mexico and Central America to Cuba and Argentina. Plants of P. modestum with pale upper florets may be mistaken for P. lividum, but will have ligules that are only 1-2.3 mm long.
+Zuloaga and Morrone regard Paspalum lividum as a synonym of P. denticulatum Trin. (http://mobot .mobot.org/W3T/SearclVnwgc.html December 9, 2002).
+</discussion>
+</bio:treatment>

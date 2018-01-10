@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>17</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa bolanderi Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>BOLANDER'S BLUEGRASS</common_names>
+  <description type="morphology">Plants usually annual, rarely longer-lived; often glaucous; densely tufted, tuft bases narrow, sterile shoots few, not stoloniferous, not rhizomatous. Basal branching both intra- and extravaginal. Culms 20-60(70) cm, erect or geniculate at the base; nodes terete, usually 1-3 exserted. Sheaths closed for 1/2-1/4 their length, usually compressed and keeled, usually smooth, infrequently  
+scabrous; ligules 2.5-7 mm, smooth or scabrous, usually decurrent, obtuse to acute; blades 1.5-5 mm wide, usually flat, rarely folded, lax, soft, smooth or sparsely scabrous, margins scabrous, apices broadly prow-shaped, cauline blades 3-15 cm, flag leaf blades 1-4 cm. Panicles (5)10-15(25) cm long, 1/4-1/2 the plant height, usually erect, infrequently slightly nodding, usually eventually open, sometimes interrupted, sparse, with 1-3(5) branches per node; branches initially erect and straight, usually some eventually spreading or reflexed, smooth or sparsely to moderately scabrous. Spikelets (3)4-7 mm, laterally compressed; florets 2-3(4); rachilla internodes usually 1-1.2+ mm, smooth or sparsely scabrous, glabrous. Glumes unequal, distinctly shorter than the adjacent lemmas, distinctly keeled, keels smooth or sparsely scabrous; lower glumes 1-3-veined, 1/2 - 2/3 the length of the upper glume, 1/2 - 2/3 the length of the lowest lemmas; upper glumes shorter than or subequal to the lowest lemmas; calluses of some or all florets sparsely webbed; lemmas 2.5-4 mm, lanceolate to narrowly lanceolate, distinctly keeled, smooth or scabrous throughout, glabrous, lateral veins obscure to moderately prominent, apices narrowly acute, usually anthocyanic near the tip; palea keels sparsely scabrous; anthers 3, 0.5-1(1.8) mm. 2n = 28.</description>
+  <discussion>Poa bolanderi grows mainly in pine to fir forest openings of mountain slopes in the western United States, from Washington to California and Utah. It differs from P. howellii (see below) in having smooth to scabrous, rather than puberulent, lemmas; it also grows at higher elevations, mostly at 1500-3000 m.</discussion>
+</bio:treatment>

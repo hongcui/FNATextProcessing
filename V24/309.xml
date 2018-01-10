@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>29</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus lanatipes (Shear) Rydb. </name_authority_date>
+  </taxon_identification>
+  <common_names>WOOLY BROME</common_names>
+  <description type="morphology">Plants perennial; not rhizomatous. Culms 40-90 cm, erect; nodes 3-5(7), mainly pubescent; internodes mostly glab-rous, puberulent near the nodes. Basal sheaths densely pilose or glabrous; upper sheaths glabrous or almost so, midrib of the culm leaves not abruptly narrowed just below the collar; auricles absent; ligules 1-2 mm, glabrous, truncate or obtuse, sometimes lacerate; blades 5-20 cm long, to 7 mm wide, flat, both surfaces glabrous, sometimes scabrous. Panicles 10-25 cm, open, nodding; branches ascending to spreading. Spikelets 10-30 mm, elliptic to lanceolate, terete to moderately laterally compressed, with 7-12(16) florets. Glumes usually glabrous, sometimes pubescent; lower glumes 5-6.5(7) mm, l(3)-veined; upper glumes (6)7-9 mm, 3-veined, not mucronate; lemmas 8-11 mm, elliptic, rounded over the midvein, backs and margins pubescent, sometimes nearly glabrous, apices truncate or obtuse, entire, rarely emarginate, lobes shorter than 1 mm; awns 2-4 mm, straight, arising less than 1.5 mm below the lemma apices; anthers 1.8-4 mm. 2n = 28.</description>
+  <discussion>Bromus lanatipes grows in a wide range of habitats at 800-2500 m, from Wyoming through the southwestern United States to northern Mexico.</discussion>
+</bio:treatment>

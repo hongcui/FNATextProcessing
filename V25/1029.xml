@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Aristida purpurascens var. virgata (Trin.) Allred</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Lower sheaths shorter or longer than the internodes, glabrous. Glumes 6-7 mm, equal or the lower glumes slightly longer; central awns 13-20 mm, about twice as thick as the lateral awns, divaricate to reflexed at maturity; lateral awns 8-13 mm, erect to ascending.</description>
+  <discussion>Aristida purpurascens var. virgata grows in wet or moist areas such as seepage bogs, sandy pinelands, and wet prairies of the southeastern United States.
+</discussion>
+</bio:treatment>

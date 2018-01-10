@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Enteropogon dolichostachyus (Lag.) Keng ex Lazarides </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, neither stoloniferous nor rhizomatous. Culms 75-90 cm, branched, ascending or scrambling, sometimes rooting at the lower nodes. Sheaths glabrous or pubescent, sometimes hispid on the margins, distal margin hairs stiff, 2-4 mm; ligules about 0.3 mm; blades 10-17(40) cm long, 2.8-7 mm wide, usually flat, tapering to the apices. Panicles with (1)2-4(7) branches in a single digitate cluster; branches 7-15(25) cm, divergent to drooping, spikelet-bearing to the base. Spikelets with 2 florets. Glumes hyaline to thinly membranous, lanceolate, scabrous or smooth, long-acuminate; lower glumes 1.5-3 mm; upper glumes 4-6.5 mm; lower lemmas 3.5-5 mm, scabrous distally, notched, awned, awns 7-15 mm; distal florets about 0.8-1.8 mm, sterile, attenuate into the rachilla, awned, awns 3-7 mm. Caryopses 2.5-3 mm; embryos about 1 mm. 2n= 20, 40, 60.</description>
+  <discussion>Enteropogon dolichostachyus grows from Afghanistan through southeast Asia to Australia. It has been collected from near a woolen mill in South Carolina, but it is not known to be established in the Flora region.</discussion>
+</bio:treatment>

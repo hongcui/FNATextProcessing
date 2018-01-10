@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Ctenium floridanum (Hitchc.) Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>FLORIDA ORANGEGRASS</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, rhizomes scaly, slender.  Culms 60-100 cm, erect. Sheaths smooth or scabridulous, not or only somewhat fibrous at maturity; ligules 1-7.9 mm; blades to 39 cm long, 5.1 mm wide, glabrous or scabrous. Panicles with 1 branch; branches 8-15 cm, often twisted. Spikelets 7-9.2 mm. Lower glumes 1.6-2 mm; upper glumes 4.6-5.7 mm, glandless or with a few inconspicuous glands on either side of the midveins, unequally bidentate, awned, awns 3.8-6.2 mm, straight to assending; lemmas pubescent on the lateral veins, awns 3-5 mm, straight; distal lemmas unawned. 2n = unknown.</description>
+  <discussion>Ctenium floridanum is an uncommon endemic of Georgia and Florida, where it grows in dry to mesic pine-oak uplands and pine flatwoods. It is also cultivated, the graceful curve of its spikes making it an attractive addition to gardens.</discussion>
+</bio:treatment>

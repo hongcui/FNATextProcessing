@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Phalaris lemmonii Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>LEMMON'S CANARYGRASS</common_names>
+  <description type="morphology">Plants annual. Culms (7)25-150 cm. Ligules 1.5-8 mm, acute; blades to 14 cm long, 1-8 mm wide, smooth, shiny, sometimes revolute. Panicles (2)3-20 cm long, 0.6-1.5 cm wide, cylindrical, evidently branched below; branches to 2 cm, spikelets borne singly, not clustered. Spikelets homogamous, with (2)3 florets, terminal floret bisexual; disarticulation above the glumes, beneath the sterile florets. Glumes 4.5-6.7 mm long, 0.9-1.1 mm wide, acuminate, keels not or only slightly winged, wings to 0.2 mm wide, keels, lateral veins, and adjacent surfaces scabrous; sterile florets (1)2, 1-1.6 mm, densely appressed-hairy; bisexual florets 2.7-5.1 mm long, 1.2-1.6 mm wide, shiny, stramineous to gray-brown, mostly hairy with spreading hairs, apices glabrous, strongly acuminate to beaked; anthers 0.7-2 mm. 2n = 14.</description>
+  <discussion>Phalaris lemmonii is native to California, but it has also been found in Victoria, Australia. It grows in moist areas, and appears to hybridize with both P. caroliniana and P. angusta (Baldini 1995). The strongly beaked tips of the bisexual florets are a useful distinguishing feature.
+Beecher Crampton noted on one unusually small specimen (UTC 230918) that it was the vernal pool ecotype of the species. He did not publish his observations.
+Anderson (1961) and Baldini (1995) distinguished Phalaris lemmonii from P. platensis Henrard ex Wacht., a narrowly distributed South American taxon, arguing that it was slightly longer in the length of its ligules, glumes, florets, and anthers, but many California specimens fall within the range given for P. platensis rather than that for P. lemmonii. Phalaris lemmonii is the older name so, if further research shows that the two species should be combined, P. lemmonii will remain as the correct name for plants from the Flora region.
+</discussion>
+</bio:treatment>

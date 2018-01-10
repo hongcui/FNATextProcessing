@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>17</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Digitaria violascens Link </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or of indefinite duration. Culms 15-60 cm, erect, usually not branching from the upper nodes; nodes
+3-4. Sheaths glabrous or sparsely pubescent; ligules 0.6-2.5 mm; blades 1.5-9 cm long, 3-5 mm wide, glabrous, with papillose-based hairs basally. Panicles with 2-7 spikelike primary branches in 1-2 verticils; primary branches 3-12 cm, erect to ascend¬ing, axes 0.6-1 mm wide, wing-margined, wings at least 1/2 as wide as the midribs, lower and middle portions of the branches bearing spikelets in groups of 3(4, 5); secondary branches rarely present; axillary inflorescences absent. Spikelets 1.2-1.7 mm, homomorphic, narrowly elliptic. Lower glumes absent or a veinless, membranous rim; upper glumes 1.2-1.4 mm, 1/2 as long as to almost equaling the upper lemmas, 3-veined, appressed-pubescent, hairs minutely verrucose; lower lemmas 1.2-1.7 mm, 5-7-veined, veins equally spaced, region between the 2 inner lateral veins and the margins appressed-pubescent, hairs 0.3-0.5 mm, smooth or minutely verrucose (use 50x magnification), verrucose hairs most abundant near the lemma bases; upper lemmas light brown when immature, dark brown at maturity; anthers 0.4-0.6 mm. 2n = 36.
+</description>
+  <discussion>Digitaria violascens is a weedy species that is native to tropical regions of the Eastern Hemisphere. It is now established in the Flora region, primarily in the south-eastern United States, and in Mexico and Central America. It grows in disturbed sites.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Ischaemum indicum (Houtt.) Merr. </name_authority_date>
+  </taxon_identification>
+  <common_names>INDIAN MURAINAGRASS</common_names>
+  <description type="morphology">Plants perennial, forming loose clumps. Culms 20-90 cm, decumbent, often rooting from the lower nodes; nodes antrorsely pilose; internodes glabrous. Leaves crowded towards the base; sheaths open, sparsely to densely pilose; ligules about 1 mm, membranous; blades 4-15 cm long, 3-8 mm wide, pilose on both surfaces. Inflorescence units with 2 rames; rames 3-5 cm long, 4-5 mm wide; internodes 3-4 mm long, 0.5-0.7 mm wide, slightly triquetrous. Sessile spikelets 4-5 mm long, 1.2-1.5 mm wide; calluses strigose; lower glumes coriaceous below, thickly membranous above, rough but not rugose, 5-7-veined, 2-keeled, keels narrowly winged; upper glumes 1-keeled, keels winged distally, awned, awns 1-1.5 cm; anthers 2-2.5 mm. Pedicels 2.5-3.5 mm, ciliate on the edges. Pedicellate spikelets slightly smaller than the sessile spikelets. 2n = 36. </description>
+  <discussion>Reed (1964) reported finding Ischaemum indicum growing on chrome ore piles in Canton, Maryland. This reported introduction has not been verified.</discussion>
+</bio:treatment>

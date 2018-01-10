@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Dichanthelium portoricense subsp. patulum (Scribn. & Merr.) Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 20-50 cm, often densely puberulent. Sheaths puberulent to subglabrous. Cauline blades 4-7 cm long, 3.5-8 mm wide. Primary panicles 2-7 cm. Spikelets 1.8-2.6 mm, usually densely pubescent or puberulent, rarely glabrous.</description>
+  <discussion>Dichanthelium portoricense subsp. patulum is more common in moist, sandy pinelands and savannahs than subsp. portoricense. It also grows in coastal sand dunes,
+ 
+but is less abundant there than subsp. portoricense. It is the more variable of the two subspecies, grading into subsp. portoricense as well as D. commutatum. More robust plants are recognized by some as Panicum paten-tifolium Nash. Occasional specimens, recognized by some as P. webberianum Nash, resemble the widespread D. sphaerocarpon.
+</discussion>
+</bio:treatment>

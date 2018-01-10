@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>16</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Urochloa arrecta (Hack, ex T. Durand & Schinz) Morrone & Zuloaga </name_authority_date>
+  </taxon_identification>
+  <common_names>AFRICAN SIGNALGRASS</common_names>
+  <description type="morphology">Plants perennial; stoloniferous. Culms 50-120 cm, branching and rooting at the lower nodes; nodes glabrous. Sheaths glabrous, margins ciliate; ligules about 1 mm; blades 5-15 cm long, 7-15 mm wide, glabrous, bases subcordate, margins scabrous. Panicles (5)9-18(25) cm long, 3-4 cm wide, with 4-10(15) spikelike primary branches in 2 ranks; primary branches (1)2-5(10) cm, axes 0.5-2 mm wide, glabrous, margins scabrous; secondary branches rarely present, pedicels shorter than the spikelets, mostly scabrous, apices with hairs. Spikelets (3)3.3-4.4 mm long, 1.4-1.7 mm wide, ellipsoid, solitary, imbricate, in 2 rows, appressed to the branches. Glumes scarcely separated; lower glumes 1.5-1.8 mm, glabrous, 5-veined, not clasping the base of the spikelets; upper glumes 3.4-4.1 mm, glabrous, 7-veined; lower florets staminate; lower lemmas 3.4-4.1 mm, glabrous, 5-veined; upper lemmas 2.7-3.5 mm long, 1.3-1.6 mm wide, apices rounded, incurved; anthers 1.6-1.8 mm. 2n = unknown.</description>
+  <discussion>Urochloa arrecta is native to Africa, but it has been introduced into Florida and Brazil as a forage grass. It is reported to be established in Collier County, Florida.</discussion>
+</bio:treatment>

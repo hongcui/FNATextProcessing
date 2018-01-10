@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Gordon C. Tucker</author>
+    </source>
+  </meta>
+  <number>14.47</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>HELICTOTRICHON Besser ex Schult. & Schult. f.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose. Culms 5-150 cm, erect. Sheaths open nearly to the base; auricles absent; ligules about as long as wide, membranous, truncate to rounded, ciliate-erose; blades convolute or involute, adaxial surfaces ribbed over the veins. Inflorescences narrow panicles or racemes, some branches longer than 1 cm. Spikelets laterally compressed, with (1)2-8 florets; rachillas pilose on all sides, terminating in reduced florets; disarticulation above the glumes, beneath the florets. Glumes equaling or exceeding the adjacent lemmas, exceeded by the distal florets. l-3(5)-veined; calluses acute, strigose; lemmas pilose or glabrous, 3-5-veined, apices acute, toothed, usually awned from about midlength, awns geniculate, twisted and terete below the bend, distal lemmas sometimes unawned; paleas shorter than the lemmas, wings more than 1/2 as wide as the intercostal region; lodicules 2, lobed; anthers 3; ovaries pubescent distally. Caryopses shorter than the lemmas, concealed at maturity, with a solid endosperm, longitudinally grooved, with a terminal tuft of hairs; hila more than 1/2 as long as the caryopses, linear, x = 7. </description>
+  <discussion>Helictotrichon has about 15 species. Most are native to Europe; one is endemic to the Flora region, and one has been introduced as an ornamental. The genus is sometimes interpreted as including Avenula, from which it differs in having truncate to rounded ligules, ribbed leaves, rachillas that are pilose on all sides, lobed lodicules, long hila, solid endosperm, and sclerenchyma rings in its roots.</discussion>
+  <references>Gervais, C. 1973. Contribution a l'etude cytologique et taxonomique des avoines vivaces. Denkschr. Schweiz. Naturf. Ges. 88:3-166; Hedberg, I. 1961. Chromosome studies in Helictotrichon Bess. Bot. Not. 114:389-396.</references>
+  <key>
+    <key_body>
+1. Culms 5-20 cm tall; panicles 2-8 cm long, most branches with 1 spikelet; plants native .....1. H. mortonianum 
+1. Culms 30-150 cm tall; panicles 8-20 cm long, most branches with 3-10 spikelets; plants cultivated as ornamentals .....2. H. sempervirens
+
+    </key_body>
+  </key>
+</bio:treatment>

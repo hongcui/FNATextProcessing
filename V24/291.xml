@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus laevipes Shear </name_authority_date>
+  </taxon_identification>
+  <common_names>CHINOOK BROME</common_names>
+  <description type="morphology">Plants perennial; not rhizomatous. Culms 50-150 cm, erect or basally decumbent, often rooting from the lower nodes; nodes 3-5(6), pubescent; internodes usually glabrous, often puberulent-pubescent just below the nodes, rarely puberulent throughout. Sheaths glabrous, sometimes slightly pubescent near the throat, sometimes with hairs in the auricular position; auricles absent or vestigial on the basal leaves; ligules 2-4.2 mm, glabrous, obtuse, lacerate; blades 13-26 cm long, 4-10 mm wide, light green or glaucous, flat, glabrous, sometimes scabrous on both surfaces. Panicles 10-20 cm, open, nodding; branches ascending to spreading, often drooping. Spikelets 23-35 mm, elliptic to lanceolate, terete to moderately laterally compressed, with 5-11 florets. Glumes glabrous, sometimes scabrous, margins often bronze-tinged; lower glumes 6-9 mm, 3-veined; upper glumes 8-12 mm, 5-veined; lemmas 12-16 mm, elliptic to lanceolate, rounded over the midvein, backs sparsely pilose, pubescent, or scabrous, margins densely pilose, at least on the lower 1/2, often bronze-tinged, apices acute to obtuse, entire, rarely slightly emarginate, lobes shorter than 1 mm; awns 4-6 mm, straight, arising less than 1.5 mm below the lemma apices; anthers 3.5-5 mm. 2n = 14.</description>
+  <discussion>Bromus laevipes grows from northern Oregon to southern California. It grows in shaded woodlands and on exposed brushy slopes, at 300-1500 m.</discussion>
+</bio:treatment>

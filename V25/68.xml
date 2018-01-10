@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Scleropogon brevifolius Phil. </name_authority_date>
+  </taxon_identification>
+  <common_names>BURROGRASS</common_names>
+  <description type="morphology">Stolons to 50 cm, wiry, internodes 5-15 cm. Culms (5)10-20 cm, erect. Ligules about 1 mm; blades 2-8(12) cm long, 1-2 mm wide. Bisexual spikelets 2-4 cm, staminate florets below the pistillate florets. Staminate spikelets 2-3 cm. Pistillate spikelets subtended by a glumelike bract; lemma bodies 2.5-3 cm. 2n = 40. </description>
+  <discussion>Scleropogon brevifolius grows on grassy plains and flats, generally being most abundant on disturbed or overgrazed land. Its North American range extends form the southwestern United States to central Mexico; its South American range is from Chile to northwestern Argentina. </discussion>
+</bio:treatment>

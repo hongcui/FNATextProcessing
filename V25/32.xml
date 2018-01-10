@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>17.03</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>SWALLENIA Soderstr. & H.F. Decker</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; clumped, rhizomes woody. Culms 10-60 cm, branched above the base. Leaves mostly basal; auricles absent; ligules of hairs; blades flat, strongly veined, sharply pointed. Inflorescences terminal, usually exceeding the upper leaves, contracted panicles; branches ascend¬ing to erect; disarticulation beneath the caryopses. Spikelets laterally compressed, unawned, with 3-7 bisexual florets, distal florets reduced. Glumes subequal, longer than the adjacent lemmas but exceeded by the distal florets, acuminate; lower glumes 5-7-veined; upper glumes 7-11-veined; calluses hairy; lemmas membranous to papery, 5-7-veined, densely villous on the margins, sometimes also between the veins, unawned to mucronate; paleas equaling or exceed¬ing the lemmas; anthers 3. Caryopses falling free from the lemma and palea. x = 10. </description>
+  <discussion>Swallenia is a monotypic genus, endemic to California. It is unusual in that only its caryopses break off the plant.</discussion>
+  <references>Gomez-Sanchez, M., P. Davila-Aranda, and J. Valdes-Reyna. Estudio anatomica de Swallenia (Poaceae: Eragroistideae: Monanthochloinae), un genero monotipico de Norte America. Madrono 48:152-161 (2001) [publication date 2002]; Henry, M.A. 1979. A rare grass on the Eureka dunes. Fremontia 7:3-6; Pavlik, B.M. and M.G. Barbour. 1988. Demographic monitoring of endemic sand dune plants, Eureka Valley, California. Biol. Conservation 46:217-242.</references>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Calamagrostis foliosa Kearney </name_authority_date>
+  </taxon_identification>
+  <common_names>LEAFY REEDGRASS</common_names>
+  <description type="morphology">Plants sometimes with sterile culms; cespitose, rhizomes occa¬sionally present, shorter than 1 cm. Culms (25)30-60(70) cm, unbranched, mostly smooth, sparsely scabrous beneath the panicles; nodes 1-3. Sheaths and collars usually smooth; ligules (3)4-6(7) mm, usually truncate to obtuse, usually entire, sometimes lacerate; blades (10)11-21(27) cm long, (1.5)2-2.5(4) mm wide, mostly basal, flat or involute, abaxial surfaces smooth, adaxial surfaces slightly scabrous, glabrous or sparsely hairy. Panicles (9)10-12(19) cm long, 1-1.5(2.5) cm wide, erect to slightly nodding, contracted, branches sometimes slightly spreading at the base, usually pale green, rarely pale purple; branches (2)3-4(5) cm, sparsely scabrous, spikelet-bearing to the base. Spikelets (7)8-11 mm; rachilla prolongations (1.5)2(3) mm, prominently bearded, hairs 2-3 mm. Glumes keeled, keels smooth or scabrous, lateral veins prominent, apices acuminate; callus hairs 2.5-3(4) mm, 0.4-0.6 times as long as the lemmas, abundant; lemmas (5)6-7(8) mm, (0.5)1-2(3) mm shorter than the glumes; awns 12-14(17) mm, attached to the lower 1/10 – 2/5 of the lemmas, exserted more than 2 mm, easily distinguished from the callus hairs, bent; anthers 3-4.5 mm. 2n = 28. </description>
+  <discussion>Calamagrostis foliosa grows in coastal scrub and forest, and on rocks and crevices of bluffs and cliffs, from sea level to 1200 m. It is known only from Del Norte, Humboldt, Mendocino, and Sonoma counties in California.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Chrysopogon aciculatus (Retz.) Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>MACKIE'S PEST, LOVEGRASS</common_names>
+  <description type="morphology">Plants perennial; extensively stoloniferous, with numerous sterile, leafy shoots. Culms 15-50 cm, often decumbent at the base, otherwise ascending or erect. Sheaths entirely or mostly glabrous, sometimes ciliate on the upper margins; ligules 0.1-0.3 mm, membranous, ciliolate; blades 1.5-11(23) cm long, 3-7 mm wide, adaxial surfaces mostly glabrous, or with a few papillose-based hairs near the base. Panicles 3-10 cm long, 1-3 cm wide, with many branches; branches 1.5-3.5 cm, stiffly ascending or appressed, naked lower portions 1.3-2 cm, terminating in a rame; rames 5-15 mm, with l(-4) spikelet pairs. Sessile spikelets 7.5-9 mm (including the callus); calluses 3-6.4 mm, sharp, setose, hairs 0.4-1.1 mm, golden; lower glumes smooth on the lower portion, scabrous distally, acute or shortly bilobed; upper glumes mucronate, mucros 0.5-1.3 mm; upper lemmas awned, awns 4-8 mm, exerted, more or less straight. Pedicels 2-4 mm, mostly glabrous, hispidulous distally. Pedicellate spikelets 4.4-7.1 mm, staminate; glumes acute to acuminate; anthers 1.5-2.7 mm. 2n = 20.</description>
+  <discussion>Chrysopogon aciculatus is native to tropical Asia, Australia, and Polynesia. In the contiguous United States, it is known only from controlled plantings at the experiment station in Gainesville, Florida. It is a vigorous colonizer of bare ground that can withstand heavy grazing and trampling, and is difficult to eradicate once established. The sharp calluses are injurious to grazing animals. The U.S. Department of Agriculture considers C. aciculatus a noxious weed, and should be informed if the species is found growing in other than a controlled planting.</discussion>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Bromus carinatus Hook. & Arn. var. carinatus </name_authority_date>
+  </taxon_identification>
+  <common_names>CALIFORNIA BROME</common_names>
+  <description type="morphology">Plants annual or biennial. Culms 50-100 cm tall. Sheaths mostly glabrous or retrorsely soft pilose, throats usually hairy; auricles absent; ligules 1-3(4) mm, usually glabrous, obtuse, lacerate or erose; blades 10-30 cm long, 3-6 mm wide, flat, usually sparsely pilose on both surfaces, sometimes glabrous. Panicles 15-40 cm, lax, open; lower branches 2-4 per node, ascending to strongly divergent or reflexed. Spikelets with 6-11 florets. Lower glumes 8-10 mm, 3(5)-veined; upper glumes 9.5-12 mm, 5(7)-veined; lemmas 12-16 mm, usually more or less uniformly pubescent, sometimes scabrous, 7-veined; awns 8-17 mm, sometimes slightly geniculate; anthers 1-5 mm. 2n = 56.</description>
+  <discussion>Bromus carinatus var. carinatus is primarily coastal and grows in shrublands, grasslands, meadows, and openings in chaparral and oak and yellow pine woodlands. It ranges from southern British Columbia through Washington, Oregon, and California to Baja California, Mexico, and extends eastward through Arizona to New Mexico.
+Bromus carinatus var. carinatus intergrades with var. marginatus, which tends to grow at higher elevations and extends further inland.
+</discussion>
+</bio:treatment>

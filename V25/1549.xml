@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bothriochloa wrightii (Hack.) Henrard </name_authority_date>
+  </taxon_identification>
+  <common_names>WRIGHT'S BLUESTEM</common_names>
+  <description type="morphology">Culms to 70 cm, erect, sparingly branched; nodes glabrous or hirsute, hairs about 1 mm. Leaves cauline, glaucous; ligules 1-2 mm; blades 15-25 cm long, 3-7 mm wide, glabrous. Panicles 5-6 cm, oblong to fan-shaped; rachises 1-3 cm, with 4-5 branches; branches 4-6 cm, lacking axillary pulvini, with 1 rame; rame internodes with stiff, 1-3 mm marginal hairs. Sessile spikelets 5.5-7 mm, lanceolate-elliptic; lower glumes glabrous, usually without a dorsal pit; awns 10-15 mm, twisted, once-geniculate; anthers about 3 mm. Pedicellate spikelets staminate, subequal to the sessile spikelets. 2n = 120.</description>
+  <discussion>Bothriochloa wrightii grows in rocky grasslands and shrubby slopes of the pine-oak woodlands of southern Arizona, New Mexico, Texas, and northern Mexico, at 1200-1800 m. It was last collected in the United States in 1930. It differs from B. barbinodis in its glaucous foliage, short, fan-shaped panicles, and large, pedicellate spikelets.</discussion>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa fendleriana (Steud.) Vasey subsp. fendleriana </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Collars often scabrous or hispidulous near the throat; ligules of middle cauline leaves 0.2-1.2(1.5) mm, scabrous, margins not decurrent, apices truncate to rounded, usually scabrous or ciliolate; innovation blades usually scabrous or puberulent adaxially. Rachilla internodes usually smooth and glabrous. Lemmas long-villous on the keels and marginal veins, intercostal regions usually glabrous, infrequently softly puberulent. 2n = 56, 58-60, 59, 58-64.</description>
+  <discussion>Poa fendleriana subsp. fendleriana grows chiefly in the southern and middle Rocky Mountains, and in the mountains surrounding the Colorado plateaus. Sexually reproducing populations are mainly confined to Arizona, New Mexico, and Texas, are rare in California, and infrequent in Colorado and Utah. Pistillate populations are common from southern British Columbia to Manitoba and south to northern Mexico, but infrequent in the Great Basin. Poa fendleriana subsp. fendleriana intergrades with subspp. albescens and longiligula where sexual or partially sexual populations have come into contact.</discussion>
+</bio:treatment>

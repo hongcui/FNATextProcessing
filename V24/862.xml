@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Torreyochloa pallida var. fernaldii (Hitchc.) Dore</name_authority_date>
+  </taxon_identification>
+  <common_names>FERNALD'S FALSE MANNAGRASS, GLYCÉRIE DE FERNALD</common_names>
+  <description type="morphology">Culms 18-47 cm tall, 0.6-1.2 mm thick, erect to decumbent, matted. Ligules of larger cauline leaves 2-4 mm; widest cauline blades 1.5-3 mm wide. Panicles 5-8(9) cm long, 1.8-3(5) cm wide, 2.5-3.8 times as long as wide, conic to ovoid. Spikelets 4-4.8 mm, with 2-5(7) florets. Lower glumes 0.8-1.4 mm; upper glumes 1.3-1.6 mm; lemmas 2-2.4 mm, obtuse; anthers of lowest floret 0.3-0.6 mm.</description>
+  <discussion>Torreyochloa pallida var. fernaldii grows from Saskatchewan through southern Ontario and the Great Lakes area to New Brunswick and the New England states. Torreyochloa pallida var. fernaldii is often difficult to distinguish from T. pallida var. pallida where their ranges overlap.</discussion>
+</bio:treatment>

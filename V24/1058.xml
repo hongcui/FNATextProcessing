@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Trisetum orthochaetum Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>BlTTERROOT TRISETUM</common_names>
+  <description type="morphology">Plants perennial, with both fertile and sterile shoots; shortly rhizomatous. Culms 80-110 cm, solitary, decumbent, often anthocyanic at the base, glabrous. Leaves evenly distributed; sheaths usually glabrous; ligules 3-5 mm, truncate or rounded, erose; blades 8-20 cm long, 3-7 mm wide, flat, lax, scabrous. Panicles 13-20 cm, narrow, moderately dense, nodding, pale green, slightly tinged with purple; branches loosely ascending, naked below for 1-2 cm, the spikelets closely and evenly distributed distally. Spikelets 7-9 mm, subsessile or on pedicels to 1 cm, oblong-ovate, with 2-3(4) florets; rachilla internodes to 2 mm; rachilla hairs about 1 mm. Glumes lanceolate or oblanceolate; lower glumes about 5.5 mm long, about 1 mm wide, widest near the base, slenderly acuminate; upper glumes to 6.3 mm long, about 2 mm wide at or just above the middle, acuminate; callus hairs about 0.5 mm; lemmas 5-6.5 mm long, about 1/3 as wide as long, apices bifid, teeth shorter than 1 mm, awned, awns 4-6 mm, arising about 1 mm below the teeth, not twisted basally, straight or flexuous, exceeding the lemma apices; paleas almost equaling the lemmas; anthers minute or to 1 mm, appearing non-functional; ovaries pubescent. Caryopses to 2.5 mm, malformed. 2n = unknown.</description>
+  <discussion>Trisetum orthochaetum is known only from Montana, in or near the edges of marshes, seeps, and creeksides, where it grows at about 1465 m. It may be a sterile hybrid between T. canescens and T. wolfii (Shelly 1987).</discussion>
+</bio:treatment>

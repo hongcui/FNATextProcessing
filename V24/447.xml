@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Elymus elymoides subsp. brevifolius (J.G. Sm.) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>LONGLEAF SQUIRRELTAIL</common_names>
+  <description type="morphology">Culms 25-65(77) cm, erect. Blades usually puberulent abaxially, sometimes glabrous. Spikes 7-20 cm, usually exserted, usually with 2 spikelets per node. Spikelets with (1)2-4(5) florets, lowermost floret functional. Glume awns 50-125 mm, entire; lemma awns 50-120 mm; paleas rarely with the veins extended as bristles.</description>
+  <discussion>Elymus elymoides subsp. brevifolius has a wide ecological and elevation range, extending from the arid Sonoran Desert to subalpine habitats, from 600-3500 m. It extends further south than the other subspecies, into northern Mexico; it is rare in Canada.</discussion>
+</bio:treatment>

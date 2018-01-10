@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eustachys distichophylla (Lag.) Nees </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 60-140 cm, erect. Blades to 31 cm long, 10-15 mm wide, usually folded, apices obtuse. Panicles with 10-36 branches; branches 6-17 cm, flexible. Spikelets 2.4-3 mm; florets 2(3). Lower glumes (1.2)1.5-2 mm, lanceolate, apices acute; upper glumes 1.6-2.6 mm, narrowly oblong, apices truncate or bilobed, awned, awns 0.3-0.6 mm; calluses with a few hairs, hairs about 0.3 mm; lowest lemmas (2.2)2.5-2.9 mm, lanceolate, not strongly keeled, keels glabrous, lateral veins with strongly spreading, white, 1-1.8 mm hairs, apices acute to mucronate; second lemmas 1.2-2 mm, oblanceolate, apices obtuse, third rudimentary lemma occasionally present. Caryopses 1.1-1.2 mm. 2n = 40.</description>
+  <discussion>Eustachys distichopbylla is native to South America, but is now established along sandy roadsides, fields, and waste areas in the southern United States.</discussion>
+</bio:treatment>

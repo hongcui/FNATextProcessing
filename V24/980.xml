@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>M.J. Harvey</author>
+    </source>
+  </meta>
+  <number>14.42</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>PODAGROSTIS (Griseb.) Scribn. & Merr.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, sometimes rhizomatous. Culms 5-90 cm, erect or decumbent at the base. Leaves basally concentrated; sheaths open to the base, smooth, glabrous; auricles absent; ligules membranous, scabridulous dorsally, truncate to subacute, entire to lacerate; blades flat or involute. Inflorescences panicles, exserted at maturity, not disarticulating; branches ascending to erect. Spikelets pedicellate, weakly laterally compressed, with 1 floret; rachillas usually prolonged 0.1-1.9 mm beyond the base of the floret, sometimes absent, especially from the lower spikelets within a panicle, apices glabrous or with hairs, hairs to 0.3 mm; disarticulation above the glumes, beneath the floret. Glumes equal or the lower glumes longer than the upper glumes, flexible, acute to acuminate, sometimes apiculate, unawned; calluses glabrous or hairy, hairs to 0.5 mm; lemmas membranous, (3)5-veined, veins mostly obscure, sometimes prominent distally, apices truncate to rounded or acute, unawned or awned, awns to about 1.3 mm, usually subapical, occasionally attached near midlength; paleas more than 1/2 as long as the lemmas, 2-veined, thinner than the lemmas; anthers 3. Caryopses shorter than the lemmas, concealed at maturity, x = 7. </description>
+  <discussion>Podagrostis is a genus of six or more species that grow in cool, wet areas. In the past, its species have been included in Agrostis. Four or more species are native to Central and South America, and two to the Flora region. Podagrostis differs from Agrostis in its combination of a relatively long palea and, usually, the prolongation of the rachilla beyond the base of the floret. It differs from Calamagrostis in the poorly developed callus hairs and awns.</discussion>
+  <references>Bjorkman, S.O. 1960. Studies in Agrostis and related genera. Symb. Bot. Upsal. 17:1-112; Carlbom, C.G. 1967. A biosystematic study of some North American species of Agrostis L. and Podagrostis (Griesb.) Scribn. & Merr. Ph.D. dissertation, Oregon State University, Corvallis, Oregon, U.S.A. 232 pp.</references>
+  <key>
+    <key_body>
+1. Glumes 2.3-4.3 mm long, generally equal; rachilla prolongations 0.5-1.9 mm long.....1. P. aequivalvis
+1. Glumes 1.6-2.3 mm long, lower glumes equal to or longer than the upper glumes; rachilla prolongations 0.1-0.6 mm long .....2. P. humilis
+
+    </key_body>
+  </key>
+</bio:treatment>

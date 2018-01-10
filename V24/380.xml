@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aegilops triuncialis L. </name_authority_date>
+  </taxon_identification>
+  <common_names>BARBED GOATGRASS</common_names>
+  <description type="morphology">Culms 17-60 cm, geniculate to semiprostrate at the base, usually with several tillers. Sheaths with hyaline margins, lower cauline sheath margins usually ciliate; blades 1.5-7 cm long, 2-3 mm wide. Spikes 2.2-6 cm long, bases 0.4-0.5 cm wide, narrowly ellipsoid, becoming subcylindrical distally, with 2-7 fertile spikelets; rudimentary spikelets (2)3; disarticulation at the base of the spikes. Lower fertile spikelets 7-13 mm, lanceolate-ovate, with 3-5 florets, the first 1-2 florets fertile; upper spikelets 7-9 mm, reduced. Glumes of lower fertile spikelets 6-10 mm, 2-3-awned, awns 1.5-6 cm, glabrous, scabrous, or velutinous, if 3-awned, the central awn often shorter than the lateral awns, sometimes reduced to a tooth; glumes of apical spikelets 6-8 mm, 3-awned or with 1 awn and 2 lateral teeth, awns 2.5-8 cm, if 3-awned, the central awn the longest; lemmas of lower fertile spikelets 7-11 mm, with 2-3 teeth, if 3-toothed, the central tooth the longest, sometimes extending into a 10 mm awn. Caryopses 5-8 mm, falling free from the lemmas and paleas. Haplomes UC. 2n = 28.</description>
+  <discussion>North American collections of Aegilops triuncialis are from disturbed sites, mostly roadsides and railroads. The native range of the species extends from the Mediterranean area east to central Asia and south to Saudi Arabia. Specimens from the Flora region belong to Aegilops triuncialis L. var. triuncialis, in which the glumes of the apical spikelets have a 5-8 cm central awn flanked by shorter (1-3 cm) lateral awns, and the glumes of the lower fertile spikelets have 2-3 awns of 1.5-6 cm. In A. triuncialis var. persica (Boiss.) Eig, the glumes of the apical spikelets have a 2.5-5.5 cm central awn, and 2 lateral awns of 0.6-2.5 cm that are sometimes reduced to teeth; the lower fertile spikelets have 2 teeth, or 1 tooth and 1 awn to 1 cm long.</discussion>
+</bio:treatment>

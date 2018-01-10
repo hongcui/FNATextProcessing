@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Laura A. Morrison</author>
+    </source>
+  </meta>
+  <number>13.08</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>TRITICUM L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual. Culms 14-180 cm, solitary or branched at the base; internodes usually hollow throughout in hexaploids, usually solid for about 1 cm below the spike in diploids and tetraploids, even if hollow below. Sheaths open; auricles present, often deciduous at maturity; ligules membranous; blades flat, glabrous or pubescent. Inflorescences usually terminal spikes, distichous, with 1 spikelet per node, occasionally branched; internodes (0.5)1.4-8 mm; disarticulation in the rachises, the spikelets usually falling with the internode below to form a wedge-shaped diaspore, sometimes falling with the adjacent internode to form a barrel-shaped diaspore, domesticated taxa usually non-disarticulating, or disarticulating only under pressure. Spikelets 10-25(40) mm, usually 1-3 times the length of the internodes, appressed to ascending, with 2-9 florets, the distal florets often sterile. Glumes subequal, ovate, rectangular, or lanceolate, chartaceous to coriaceous, usually stiff, tightly to loosely appressed to the lower florets, with 1 prominent keel, at least distally, keels often winged and ending in a tooth or awn, a second keel or prominent lateral vein present in some taxa; lemmas keeled, chartaceous to coriaceous, 2 lowest lemmas usually awned, awns 3-23 cm, scabrous, distal lemmas unawned or awned, awns to 2 cm; paleas hyaline-membranous, splitting at maturity in diploid taxa; anthers 3. Caryopses tightly (hulled wheats) or loosely (naked wheats) enclosed by the glumes and lemmas, lemmas and paleas not adherent; endosperm flinty or mealy, x = 7. Haplomes A, B, D, and G. </description>
+  <discussion>Triticum is a genus of approximately 25 wild and domesticated species. It was first cultivated in western Asia at least 9000 years ago and is now the world's most important crop, being planted more widely than any other genus.
+Triticum is native to western and central Asia. It includes diploids (A haplome), tetraploids (AB or AG haplomes), and hexaploids (ABD or AAG haplomes). The world's only reserve designed to protect native populations of wild cereals, the Erebuni Reserve, is located just outside Yerevan, Armenia. It is home to three wild species of Triticum: T. araraticum Jakubz., T. boeoticum, and T. urartu.
+Only Triticum aestivum, T. durum, and T. spelta are grown commercially in North America, T. aestivum being by far the most important. The remaining species in this treatment are those most frequently grown by North American plant breeders and wheat researchers. None of the species has become an established part of the North American flora, but they may be encountered as escapes near agricultural fields and research stations, or along transportation routes.
+Triticum is sometimes treated as including Aegilops, but the taxa in these genera differ morphologically and ecologically. In addition, species of Triticum sensu stricto are unique in possessing the A haplome, of which there are two forms, Au and Ab. Of the other three haplomes present in Triticum, the D haplome is derived from Aegilops tauschii (Dvorak et al. 1998), and the B and G haplomes are derived from A. speltoides Tausch (Giorgi et al. 2003).
+The treatment presented here is based on Dorofeev and Migushova's (1979) monograph of Triticum sensu stricto, with some modification. The assignment of species status to domesticated forms is controversial. It is done here for convenience, and to aid in distinguishing between taxa with distinct morphological, ecological, and evolutionary traits. For a genomically based treatment, see Kimber and Sears (1987).
+"Spring wheat" and "winter wheat" refer to the growing season. Spring wheat is planted in the spring and harvested in the summer of the same year; winter wheat is planted in the fall and harvested the following summer. "Hard wheat" and "soft wheat" are terms used to describe wheats with flinty or mealy endosperm, respectively. Flinty endosperm has a higher protein content and is harder than mealy endosperm. At the species level, soft wheat refers to Triticum aestivum; hard wheat refers to T. durum. Within T. aestivum, endosperm type also is graded as either soft or hard; it is never as hard (flinty) as in T. durum.
+The width of a spike is the distance from one spikelet edge to the other across the two-rowed side of the spike; its thickness is the distance across the frontal face of spikelet, from one edge to the other. The spike and spikelet measurements do not include the awns. The glumes are measured from the base to the shoulder, and do not include any toothed tip.
+
+</discussion>
+  <references>Dorofeev, V.F. and E.F. Migushova. 1979. Pshenitsa [Wheat]. (Vol. 1 in V.F. Dorofeev and O.N. Korovina (eds.). Kul'turnaia Flora SSSR [Flora of Cultivated Plants of the USSR]). Kolos, Leningrad [St. Petersburg], Russia. 346 pp. [In Russian; English translation (in prep.) used]; Dvorak, J., Z.-C. Luo, Z.-L. Yang, and H.-B. Zhang. 1998. The structure of the Aegilops tauschii genepool and the evolution of hexaploid wheat. Theor. Appl. Genet. 97:657-670; Giorgi, D., R. D'Ovidio, O.A. Tanzarella, C. Ceoloni, and E. Porceddu. 2003. Isolation and characterization of S genome specific sequences from Aegilops sect. Sitopsis species. Genome 46:478-489; Kimber, G. and E.R. Sears. 1987. Evolution in the genus Triticum and the origin of cultivated wheat. Pp. 154-164 in E.G. Heyne (ed.). Wheat and Wheat Improvement, ed. 2. American Society of Agronomy, Madison, Wisconsin, U.S.A. 765 pp.; Morrison, L.A. 2001. The Percival Herbarium and wheat taxonomy: Yesterday, today, and tomorrow Pp. 65-80 in P.D.S. Caligari and P.E. Brandham (eds.) Wheat Taxonomy: The Legacy of John Percival. Linnean Special Issue No. 3. Academic Press, London, England. 190 pp.; Percival, J. 1921. The Wheat Plant. Duckworth, London, England. 463 pp.</references>
+  <key>
+    <key_body>
+1. Culms usually hollow to the base of the spikes; glumes with only 1 keel, this often developed only in the upper 1/2 of the glumes. 
+2. Glumes loosely appressed to the lower florets; rachises not disarticulating, even under pressure .....11. T. aestivum
+2. Glumes tightly appressed to the lower florets; rachises disarticulating under pressure.
+3. Spikes strongly flattened; glumes acute.....…..5.T. timopheevii (in part)
+3. Spikes almost cylindrical; glumes truncate.....12. T. spelta
+1. Culms partially to completely solid 1 cm below the spikes; glumes with 1 fully developed keel, sometimes with a second keel.
+4. Rachises not disarticulating, even under pressure; glumes loosely appressed to the lower florets. 
+5. Glumes chartaceous.
+6. Glumes 6-13 mm long; rachises not enlarged at the base of the glumes; spikelets usually producing 1 caryopsis .....4. T. monococcum (in part)
+6. Glumes 20-40 mm long; rachises enlarged at the base of the glumes; spikelets producing 2-3 caryopses .....9. T. polonicum
+5. Glumes coriaceous.
+7. Glumes awned, awns 1-6 cm long; spikes thicker than wide, never branched at the base .....10. T. carthlicum
+7. Glumes toothed, teeth to 0.3 cm long; spikes about as wide as thick, sometimes branched at the base. 
+8. Spikes 4-11 cm long, never branched at the base; plants 60-160 cm tall; blades usually glabrous; endosperm usually flinty .....7. T. durum
+8. Spikes 7-14 cm long, sometimes branched at the base; plants 120-180 cm tall; blades hairy; endosperm mealy .....8. T. turgidum
+4. Rachises disarticulating spontaneously or with pressure; glumes usually tightly appressed to the lower florets. 
+9. Paleas splitting at maturity; spikelets 10-17 mm long.
+10. Spikelets  elliptical  to  ovate;  rachis  internodes 1.4-2.5 mm long; rachises disarticulating with pressure .....4. T. monococcum (in part)
+10. Spikelets rectangular; rachis internodes 3-5 mm long; rachises disarticulating spontaneously.
+11. Caryopses blue or amber or red mottled with blue; third lemma in each spikelet, if present, usually unawned; blades blue-green, hairs stiff, those on the veins longer than those between; anthers 3-6 mm long.....1. T. boeoticum
+ 
+ 
+11. Caryopses red; third lemma in each spikelet, if present, awned, the awns up to 10 mm long; blades yellow-green, hairs soft, of uniform length; anthers 2-4 mm long .....2. T. urartu
+9. Paleas not splitting at maturity; spikelets 10-25 mm long.
+12. Spikelets oblong to rectangular; rachises disarticulating spontaneously; glumes
+unequally 2-keeled, the more prominent keel winged to the base.....3. T. dicoccoides
+12. Spikelets elliptical to ovate; rachises disarticulating only with pressure; glumes with 1 prominent keel, the keel not winged to the base.
+13. Spikelets 16-18 mm long; rachis internodes 1.5-2.5 mm long; spikes always wider than thick; culms partially solid to hollow for 1 cm below the spikes .....5.T. timopheevii (in part)
+13. Spikelets 10-16 mm long; rachis internodes (0.5)2-5 mm long; spikes variously shaped, from cylindrical to wider than thick; culms usually solid for 1 cm below the spike.....6.T. dicoccum
+
+    </key_body>
+  </key>
+</bio:treatment>

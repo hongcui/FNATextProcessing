@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Triticum carthlicum Nevski </name_authority_date>
+  </taxon_identification>
+  <common_names>Triticum carthlicum Nevski </common_names>
+  <description type="morphology">Culms 60-100 cm; nodes glabrous or pubescent; internodes mostly hollow, solid for 1 cm below the spikes. Blades to 10 mm wide, puberulent. Spikes 8-16 cm, thicker than wide to about as thick as wide, not branched at the base; rachises glabrous or shortly ciliate at the nodes and margins, not disarticulating. Spikelets 10-15 mm, with 3-5 florets, 2-4 seed-forming. Glumes 7-9 mm, coriaceous, loosely appressed to the lower florets, with 1 prominent keel, terminating in an awn, awns 1-6 cm; lemmas 8.5-12.5 mm, lower 2 lemmas awned, awns to 13 cm; paleas not splitting at maturity. Caryopses red; endosperm flinty. Haplomes AuB. 2n = 28.</description>
+  <discussion>Triticum carthlicum is of evolutionary interest because, morphologically, its spikes resemble those of T. aestivum rather than those of free-threshing tetraploid wheats such as T. durum, T. turgidum, and T. polonicum. It is still occasionally cultivated in Georgia, Armenia, Azerbaijan, northern Iraq, and Iran because of its resistance to drought, frost, and ergot infection. A morphologically similar form of T. aestivum with awned glumes, known as 'carthlicoides', is often found intermixed with T. carthlicum.</discussion>
+</bio:treatment>

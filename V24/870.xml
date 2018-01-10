@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Briza media L. </name_authority_date>
+  </taxon_identification>
+  <common_names>PERENNIAL QUAKINGGRASS, AMOURETTE COMMUNE, AMOUR DU VENT</common_names>
+  <description type="morphology">Plants perennial, shortly rhizomatous. Culms 15-75 cm. Leaves mostly basal; sheaths about 1/2 the length of the internodes, open about 1/2 their length; ligules about 0.5 mm, usually not decurrent, sometimes erose at the apices, truncate; blades 4-16 cm long, blades of the upper leaves shorter than those below, 1.9-3.2 mm wide, glabrous or scabridulous, margins strigose. Panicles 8-20 cm long, to almost as wide; pedicels 5-20 mm. Spikelets 4-5.5 mm, mostly oval, with 3-6(10) florets. Lower glumes 2.5-3.2 mm; upper glumes 2.5-4 mm; lowermost lemmas 3-4 mm, indistinctly 9- or 10-veined, apices broadly obtuse; paleas about 3 mm, V-shaped in cross section, scarious, margins hyaline and ciliolate; anthers 1.3-2 mm. Caryopses 1.2-1.5 mm, distinctly flattened on 1 side. 2n = 10, 14, 28.</description>
+  <discussion>Briza media is native to chalk and clay grasslands of Europe. It grows in acid to calcareous soils in moist to somewhat dry, sunny conditions, in meadow floodplains, forest clearings, old meadows, and pastures. It is often grown as an ornamental, and can colonize artificial habitats such as roadsides, but does not appear to invade recently disturbed locations. In the Flora region, it is most abundant in eastern North America, and is found in a few widely scattered locations elsewhere.</discussion>
+</bio:treatment>

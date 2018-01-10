@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>25</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Achnatherum hendersonii (Vasey) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>HENDERSON'S NEEDLEGRASS</common_names>
+  <description type="morphology">Plants tightly cespitose, not rhizomatous. Culms 10-35 cm tall, 0.3-0.9 mm thick, pubescent below the nodes, glabrous or sparsely puberulent elsewhere; nodes 1-2. Basal sheaths completely or mostly glabrous, margins sometimes ciliate distally; collars glabrous; ligules 0.4-1 mm, hyaline, glabrous or pubescent, rounded; blades tightly folded or convolute, to 1 mm wide or thick, abaxial surfaces scabrous, adaxial surfaces pubescent. Panicles 4-12 cm long, 2-5 cm wide, erect; branches and pedicels straight, appressed to strongly ascending, longest branches 2-7 cm. Glumes subequal, 3.5-5.5 mm long, 1-1.5 mm wide, 5-veined; lower glumes obtuse, apices rounded to acute; upper glumes rounded to obtuse, subequal or to 1 mm shorter than the lower glumes; florets 3.5-4.5 mm long, 1-1.5 mm wide, fusiform, laterally compressed; calluses 0.3-0.5 mm, blunt; lemmas coriaceous, glabrous, shiny, apical lobes about 0.2 mm long, thick; awns 6-10 mm, readily deciduous, not geniculate, scabrous; paleas about 3 mm, from3/4 as long as to equaling the lemmas, indurate, glabrous, apices rounded, flat; anthers about 2.5 mm, dehiscent, penicillate. Caryopses 2.5-4 mm. 2n = 34.</description>
+  <discussion>Achnatherum hendersonii grows in dry, rocky, shallow soil, in sagebrush or ponderosa pine associations. It is known from only three counties: Yakima and Kittitas counties, Washington, and Crook County, Oregon. Maze (1981) noted that, at one site, A. hendersonii was restricted to areas subject to frost heaving, although under cultivation, it can grow without such disturbance. He hypothesized that its survival in such sites is attributable to a competitive advantage gained by the structure of its root system. Unlike Poa secunda, which grew in the surrounding, undisturbed areas, the outer cortex and epidermis of the roots of A. hendersonii form a sheath around the stele and inner cortex. When the roots are pulled, this sheath slips and breaks but the internal structures remain intact. In Poa secunda, the outer part of the root is attached to the central core and, when the roots are pulled, they break. Achnatherum hendersonii also differs from P. secunda in having relatively few (9-12), evenly distributed roots that extend to 30 cm.</discussion>
+</bio:treatment>

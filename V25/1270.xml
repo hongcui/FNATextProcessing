@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Panicum sect. Agrostoidea (Nash) C.C. Hsu</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose. Culms soft, somewhat compressed. Ligules membranous, papery, often erose, with or without cilia. Panicles open to contracted, with many, more or less appressed spikelets; branches narrow, nearly simple; pedicels 0.1-3 mm, crowded, somewhat secund. Spikelets long-ellipsoid, acute. Lower glumes 1/3 – 2/3 as long as the spikelets, 3-veined; upper glumes and lower lemmas 5-veined, strongly keeled along the midveins; lower florets sterile; lower paleas small; upper florets smooth, shiny, with an apical tuft of prickly hairs, x = 9.</description>
+  <discussion>Panicum sect. Agrostoidea includes about four species, one of which is found in the Flora region. </discussion>
+</bio:treatment>

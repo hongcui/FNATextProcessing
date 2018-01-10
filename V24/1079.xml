@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Anthoxanthum monticola (Bigelow) Veldkamp subsp. monticola </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Awns of upper staminate florets 4.5-7 mm, attached at or above midlength, straight or weakly geniculate, the lower portion not twisted or twisted with 1(2) gyres. 2n = 56, 58, 63.</description>
+  <discussion>Anthoxanthum monticola subsp. monticola grows from Greenland to the eastern side of Hudson Bay, through Labrador, and south to northern New England. It usually grows in similar, but wetter and more exposed, habitats than those occupied by subsp. alpinum.</discussion>
+</bio:treatment>

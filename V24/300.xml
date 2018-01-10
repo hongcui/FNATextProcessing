@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>20</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus porteri (J.M. Coult.) Nash </name_authority_date>
+  </taxon_identification>
+  <common_names>NODDING BROME</common_names>
+  <description type="morphology">Plants perennial; not rhizomatous. Culms 30-100 cm, erect; nodes (2)3-4(5), glabrous or pubescent; internodes mostly glabrous, puberulent near the nodes. Sheaths glabrous or pilose, midrib of the culm leaves not abruptly narrowed just below the collar; auricles absent; ligules to 2.5 mm, glabrous, truncate or obtuse, erose or lacerate; blades (3)10-25(35) cm long, 2-5(6) mm wide, flat, not glaucous, both surfaces usually glabrous, sometimes the adaxial surface pilose. Panicles 7-20 cm, open, nodding, often 1-sided; branches slender, ascending to spreading, often recurved and flexuous. Spikelets 12-38 mm, elliptic to lanceolate, terete to moderately laterally compressed, with (3)5-11(13) florets. Glumes usually pubescent, rarely glabrous; lower glumes 5-7(9) mm, usually 3-veined, sometimes 1-veined; upper glumes 6-10 mm, 3-veined, not mucronate; lemmas 8-14 mm, elliptic, rounded over the midvein, usually pubescent or pilose, margins often with longer hairs, backs and margins rarely glabrous, apices acute or obtuse to truncate, entire; awns (1)2-3(3.5) mm, straight, arising less than 1.5 mm below the lemma apices; anthers (1)2-3 mm. 2n = 14.</description>
+  <discussion>Bromus porteri grows in montane meadows, grassy slopes, mesic steppes, forest edges, and open forest habitats, at 500-3500 m. It is found from British Columbia to Manitoba, and south to California, western Texas, and Mexico. It is closely related to B. anomalus, and has often been included in that species. It differs chiefly in its lack of auricles, and in having culm leaves with midribs that are not narrowed just below the collar.</discussion>
+</bio:treatment>

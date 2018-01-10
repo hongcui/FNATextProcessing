@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Eragrostis pectinacea var. miserrima (E. Fourn.) Reeder</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Pedicels widely divergent, usually spreading 20-60° from the branches. Anthers 0.2-0.4 mm.</description>
+  <discussion>Eragrostis pectinacea var. miserrima grows in the southern United States, from Texas to Florida, and south through the lowland tropics to Brazil. It usually flowers from July-November in the Flora region.</discussion>
+</bio:treatment>

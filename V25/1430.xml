@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Kelly W. Allred</author>
+    </source>
+  </meta>
+  <number>25.22</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>STENOTAPHRUM Trin.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; sometimes rhizomatous or stoloniferous. Culms 10-60 cm, usually compressed; internodes solid. Leaves cauline; sheaths shorter than the internodes, compressed; ligules membranous and ciliate or of hairs; blades flat or folded. Inflorescences spikelike panicles; branches very short, with fewer than 10 spikelets, appressed to and partially embedded in the flattened, corky rachises; disarticulation below the glumes, often with a segment of the branch. Spikelets lanceolate to ovate, unawned, lower glumes oriented away from the branch axes. Glumes membranous; lower glumes scalelike, usually without veins; upper glumes 5-7-veined; lower florets staminate or sterile, lemmas 3-9-veined; upper florets bisexual; upper lemmas longer than the glumes, papery to subcoriaceous, 3-5-veined; upper paleas generally indurate, 2-veined; anthers 3. Caryopses lanceolate to ovate, often failing to develop, x = 9. </description>
+  <discussion>Stenotaphrum is a genus of seven species that usually grow on the seashore or near the coast, primarily along the Indian Ocean rim. Three species are endemic to Madagascar, and one species is thought to be native to the Flora region.</discussion>
+  <references>Busey, P., T.K. Broschat, and B.J.  Center.  1982.  Classification of St. Augustinegrass.  Crop Sci.  (Madison) 22:469^173; Sauer, J.D. 1972. Revision of Stenotaphrum (Gramineae: Paniceae) with attention to its historical geography. Brittonia 24:202-222.</references>
+</bio:treatment>

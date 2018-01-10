@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Elymus lanceolatus subsp. riparius (Scribn. & J.G. Sm.) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>STREAMBANK WHEATGRASS</common_names>
+  <description type="morphology">Culms usually 22-60 cm. Spikes 6-10 cm; internodes 3.5-10 mm, glabrous, sometimes scabrous. Spikelets 10-17 mm. Lemmas smooth, sometimes scabrous distally, mostly glabrous, margins sometimes hairy proximally.</description>
+  <discussion>Elymus lanceolatus subsp. riparius grows throughout most of the western part of the range of E. lanceolatus, being more common in mesic habitats and clay soils than the other two subspecies.</discussion>
+</bio:treatment>

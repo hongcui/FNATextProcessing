@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Cymbopogon jwarancusa (Jones) Schult. </name_authority_date>
+  </taxon_identification>
+  <common_names>IWARANCUSA GRASS</common_names>
+  <description type="morphology">Plants perennial. Culms to 150 cm, erect or geniculate; nodes often swollen. Basal sheaths glabrous, smooth, whitish-green; ligules 2-6 mm, truncate to acute; blades to 30 cm long, 1.5-4 mm wide, whitish. Inflorescences 15-40 cm, erect; rames 1322 mm; internodes and pedicels densely pilose on the margins and dorsal surface. Sessile spikelets of heterogamous pairs 4.5-5.5 mm; lower glumes lanceolate, shallowly concave distally, sharply keeled, keels not winged; upper lemmas awned, awns 7-10 mm. Pedicellate spikelets about 6 mm. 2n = 20. </description>
+  <discussion>Cymbopogon jwarancusa is native to Asia, where it is grown for perfume and as a medicine for fevers. It is grown as an ornamental in the United States, and may persist for a considerable time after planting in the warmest parts of the Flora region.</discussion>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aristida patula Chapm. ex Nash</name_authority_date>
+  </taxon_identification>
+  <common_names>TALL THREEAWN</common_names>
+  <description type="morphology">Plants perennial; loosely cespitose, bases knotty, some-times shortly rhizomatous. Culms (60)70-100 cm, stiffly erect, unbranched. Leaves cauline; sheaths longer than the internodes, mostly glabrous, summit with hairs; collars hispid, hairs 0.2-0.8 mm; ligules less than 0.5 mm; blades 20-55 cm long, 2-4 mm wide, light bluish-green, flat to loosely folded, glabrous abaxially, scabridulous adaxially. Inflorescences paniculate, 30-50 cm long, 15-25 cm wide; rachis nodes glabrous or with straight hairs shorter than 0.5 mm; primary branches 8-22 cm, ascending to divaricate or drooping, with axillary pulvini, basal portion without spikelets. Spikelets appressed along the branches. Glumes brown to purplish, 1-veined, with a 1-2 mm awn; lower glumes 10-13  mm,  slightly longer than the  upper glumes;  
+calluses 0.5-1 mm; lemmas 10-12(15) mm, glabrous, light gray to brownish, narrowing to a beak, beak less than 7 mm, not or only slightly twisted, junction with the awns not conspicuous; awns unequal, not disarticulating at maturity; central awns 20-25 mm, straight; lateral awns 3-10 mm, to 1/2 as long as and about 1/2 as thick as the central awns, usually divergent; anthers 3, about 3 mm, yellow-green. Caryopses about 8 mm. 2n = unknown.
+</description>
+  <discussion>Aristida patula grows in sandy fields, low pinelands, and roadsides. It is endemic to Florida.</discussion>
+</bio:treatment>

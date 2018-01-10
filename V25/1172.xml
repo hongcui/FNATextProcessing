@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Dichanthelium ovale subsp. villosissimum (Nash) Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Basal blades 3-7 cm, evenly long pilose. Culms more than 1 mm thick, stiff, often decumbent or prostrate in the fall; internodes with soft, spreading or retrorse, papillose-based hairs, hairs longer than 4 mm. Cauline sheaths with soft, spreading or retrorse hairs, hairs longer than 4 mm, papillose-based; ligules 2-5 mm; blades 6-10 mm wide, both surfaces densely pilose, hairs longer than 4 mm, margins short-ciliate basally, scabridulous and faintly whitish elsewhere. Spikelets 2.1-2.5 mm, usually ellipsoid, with dense, spreading, papillose-based hairs. Lower glumes 1/3– 1/2 as long as the spikelets, usually acute. 2n = 18.</description>
+  <discussion>Dichanthelium ovale subsp. villosissimum grows in dry, sandy, open pine and oak woodlands. It and subsp. pseudopubescens are the most common and widespread subspecies throughout the eastern United States. The range of subsp. villosissimum extends to Mexico, Honduras, Guatemala, and Nicaragua. It grades into the less pubescent subsp. pseudopubescens, and occasional specimens with smaller spikelets approach D. acuminatum subsp. acuminatum, which is usually densely grayish, velvety-pubescent.</discussion>
+</bio:treatment>

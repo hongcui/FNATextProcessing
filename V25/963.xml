@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Danthonia compressa Austin </name_authority_date>
+  </taxon_identification>
+  <common_names>FLATTENED OATGRASS, DANTHONIE COMPRIMÉE</common_names>
+  <description type="morphology">Culms 40-80 cm, disarticulating at the nodes when mature. Sheaths glabrous, rarely sparsely pilose, usually reddish above the nodes; blades to 30 cm long, 2-4 mm wide, flexible but not curled at maturity, glabrous, sometimes scabrous, uppermost cauline blades erect to ascending. Inflorescences with (4)6-17 spikelets; branches usually flexible, usually divergent, sometimes strongly so, after anthesis; lower branches with 2-3 spikelets; pedicels on the lowest branch as long as or longer than the spikelets. Spikelets (7)10-16 mm. Calluses of middle florets about as long as wide, convex abaxially; lemma bodies 2.5-5 mm, pilose over the back, sometimes sparsely so, margins pilose to beyond midlength, distal hairs 0.5-2 mm, apical teeth 2-4 mm, aristate, (1/2)2/3 or more as long as the lemma bodies; awns 6-10 mm; anthers to 2.2 mm. Caryopses 1.7-2.6 mm long, 0.7-1.1 mm wide. 2n = 36.</description>
+  <discussion>Danthonia compressa grows in open and semi-shaded areas, including meadows, open woods, and woodland openings. Although not a true pioneer species, it may sometimes occur as a weed in perennial crops. It is restricted to eastern North America.</discussion>
+</bio:treatment>

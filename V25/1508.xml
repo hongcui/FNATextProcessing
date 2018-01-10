@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Saccharum ravennae (L.) L. </name_authority_date>
+  </taxon_identification>
+  <common_names>RAVENNAGRASS</common_names>
+  <description type="morphology">Plants cespitose. Culms 2-4 m, glabrous; nodes glabrous. Sheaths glabrous; auricles absent; ligules 0.6-1.1 mm; blades 50-100 cm long, 5-14 mm wide, glabrous. Peduncles 40-80 cm, glabrous; panicles lanceolate; rachises 30-70 cm, glabrous; primary branches 6-20 cm, appressed or spreading; rame internodes 1-2 mm, with hairs. Sessile spikelets 4-6 mm long, 0.7-0.9 mm wide, straw-colored. Callus hairs 4-6 mm, subequal to the spikelets, white; lower glumes smooth, 4-5-veined; upper glumes 3-veined; lower lemmas 3-5 mm, 1-veined; upper lemmas subequal to the lower lemmas, without veins, entire; awns 2-5 mm, flat, straight or curved at the base; lodicule veins not extending into hairlike projections; anthers 3. Pedicels 1-3 mm, pubescent. Pedicellate spikelets similar to the sessile spikelets. 2n = 20.</description>
+  <discussion>Saccharum ravennae is native to southern Europe and western Asia. It is grown as an ornamental in the Flora region, occasionally escaping and persisting.</discussion>
+</bio:treatment>

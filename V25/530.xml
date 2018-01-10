@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>15</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aristida dichotoma Michx. </name_authority_date>
+  </taxon_identification>
+  <common_names>CHURCHMOUSE THREEAWN</common_names>
+  <description type="morphology">Plants annual. Culms 15-60 cm, erect or geniculate at the base, branching at most of the nodes. Leaves cauline; sheaths usually shorter than the internodes, glabrous or sparsely pilose; collars glabrous; ligules less than 0.5 mm; blades 3-10 cm long, 1-2 mm wide, flat to folded basally, involute distally, scabridulous on both surfaces, occasionally sparsely pilose adaxially, light green. Inflorescences paniculate or racemose, 2-11 cm long, to 1 cm wide; nodes glabrous or strigillose; primary branches 1-2 cm, appressed, without axillary pulvini, with 1-2 spikelets. Spikelets partly overlapping, often in pairs, 1 spikelet subsessile, the other pedicellate. Glumes 1-veined, light gray to dark purplish or brownish; lower glumes 3-8(10) mm, from 1/2 as long as the upper glumes to nearly equaling them; upper glumes 4-13 mm; calluses 0.3-0.5 mm; lemmas 3-11 mm, light gray to purplish, frequently mottled, midveins scabrous, elsewhere glabrous, scabridulous, or sparsely appressed-puberulent, junction with the awns not evident; central awns 3-8 mm, coiled at the base, spreading distally; lateral awns 1-4 mm, straight, erect; anthers 3 and 2-3 mm, or 1 and about 0.25 mm. Caryopses light brown. 2n = unknown.</description>
+  <discussion>Aristida dichotoma grows in sandy fields and clearings, disturbed sites and sterile ground, pine woods, and on granitic outcrops of the United States and southern Ontario. The two varieties have similar ecological preferences and extensive overlap in their ranges, but var. curtissii is somewhat more western in its distribution.
+Aristida dichotoma is similar to A. basiramea, differing in its shorter lateral awns. Further study may show that the two should be treated as conspecific varieties.</discussion>
+  <key>
+    <key_body>
+1. Glumes unequal; lemmas smooth or scabridulous, 6-11 mm long .....var. curtissii
+1. Glumes equal or subequal; lemmas sparsely appressed-pubescent, 3-8 mm long .....var. dichotoma
+
+    </key_body>
+  </key>
+</bio:treatment>

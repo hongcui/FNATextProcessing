@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Nassella tenuissima (Trin.) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>FINELEAVED NASSELLA</common_names>
+  <description type="morphology">Plants perennial; tightly cespitose, not rhizomatous. Culms 25-100 cm tall, 0.4-0.7(1.1) mm thick, usually erect, basal nodes sometimes geniculate, internodes mostly glabrous, pubescent just below the lower nodes; nodes 2-4, glabrous. Sheaths glabrous, even on the margins, sometimes scabridulous; collars glabrous, without tufts of hair at the sides; ligules 1-5 mm, glabrous, acute; blades 7-60 cm long, 0.2-1.5 mm wide, usually convolute, stiff, glabrous, scabridulous. Panicles 8-50 cm, loosely contracted, often partly enclosed at maturity; branches 2-8 cm, glabrous; pedicels 1-11 mm. Glumes subequal, 5-13 mm long, 0.5-1.2 mm wide, narrowly lanceolate, glabrous, aristate; florets (1.5)2.5-3 mm long, about 0.5 mm wide, widest at about midlength, somewhat laterally compressed; calluses 0.2-0.5 mm, blunt, strigose, hairs reaching to about 1/4 - 1/3 the length of the lemmas; lemmas finely tuberculate, rounded to the crown, midveins pubescent on the proximal 1/2; crowns 0.1-0.2 mm long, 0.2-0.25 mm wide, straight-sided, rims with hairs shorter than 0.5 mm; awns 45-100 mm, almost centric, cernuous throughout, twice-geniculate, usually both geniculations obscure; anthers 3, 1.2-1.5 mm. Caryopses about 2 mm, linear, dark brown. 2n = 40.</description>
+  <discussion>Nassella tenuissima grows on rocky slopes, frequently in oak or pine associations but also in open, exposed grasslands. Its native range extends from the southwestern United States into northern Mexico. It is now also established in the San Francisco Bay area, having been introduced as a garden plant. It is an attractive species, available through some horticultural outlets, but it readily escapes from cultivation into nearby disturbed sites.</discussion>
+</bio:treatment>

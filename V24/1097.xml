@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Cinna arundinacea L. </name_authority_date>
+  </taxon_identification>
+  <common_names>STOUT WOODREED, SWEET WOODREED, CINNA ROSEAU</common_names>
+  <description type="morphology">Culms 28-185 cm, somewhat bulbous at the base; nodes 5-13. Ligules 2-10 mm; blades to 34.5 cm long, 3-19 mm wide. Panicles 6.5-55 cm; branches ascending to spread-ing. Spikelets (3.5)4-6(7.5) mm; rachilla prolongations 0.1-0.4 mm, sometimes absent. Lower glumes (2.7)3.5-5(6.1) mm, somewhat shorter than the lemmas, 1-veined; upper glumes (3.5)4-6(7.5) mm, equal to or slightly longer than the lemmas, 3-veined; stipes 0.25-0.65 mm; lemmas (2.7)3.5-5(6.4) mm, 3(5)-veined, awns 0.2-1.5 mm, rarely absent; paleas 1-veined; anthers 1, 0.8-1.9 mm. Caryopses 2.1-2.8 mm. 2n = 28.</description>
+  <discussion>Cinna arundinacea grows in southeastern Canada and throughout most of the eastern United States, at 0-900 m. It is most common in moist woodlands and swamps, depressions, along streams, and in floodplains and upland woods. It is less frequent in wet meadows, marshes, and disturbed sites. It flowers in late summer to fall. Cinna arundinacea is most easily distinguished from C. latifolia by its 3-veined upper glumes and larger spikelets.</discussion>
+</bio:treatment>

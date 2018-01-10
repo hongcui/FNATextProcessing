@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eleusine tristachya (Lam.) Lam. </name_authority_date>
+  </taxon_identification>
+  <common_names>THREESPIKE GOOSEGRASS</common_names>
+  <description type="morphology">Plants annual. Culms 10-45 cm, compressed. Blades 6-25 cm long. Panicles digitate, with (1)2-3 branches; branches 1-6(8) cm long, 5-14 mm wide, oblong. Spikelets 8-10 mm, with 5-9(11) florets. Glumes unequal; lower glumes 2-3 mm; upper glumes 3-4 mm; lemmas 4-5 mm. 2n = 18.</description>
+  <discussion>In the 1800s and early 1900s, Eleusine tristachya was found on ballast dumps at various ports and trans¬portation centers in the United States. It has since been found as a weed in the Imperial Valley of California (Hilu 1980), but records of collections outside of California appear to be historical, with no populations persisting. The species was originally thought to be native to tropical Africa and introduced into tropical America, but it occurs in Africa only as a rare adventive. It is now considered to be native to tropical America.</discussion>
+</bio:treatment>

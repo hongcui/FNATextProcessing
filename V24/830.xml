@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa hartzii subsp. alaskana Soreng </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants loosely tufted. Culms 20-45 cm. Ligules 5-7 mm. Panicles 7-12 cm; branches smooth or sparsely to moderately scabrous. Spikelets 5-7 mm, not bulbiferous, lustrous; florets normal; rachilla internodes 1.5-2 mm. Upper glumes 5-6 mm; calluses usually with a crown of 1-2 mm hairs; lemmas 5.5-7 mm, sparsely hairy, hairs mostly longer than 0.5 mm, apices acute; anthers 2-2.8 mm. 2n = unknown.</description>
+  <discussion>Poa hartzii subsp. alaskana grows on the North Slope of Alaska, mainly in sandy places. It generally resembles robust plants of P. hartzii subsp. hartzii, but has a looser habit, longer lemmas, and well-developed anthers.</discussion>
+</bio:treatment>

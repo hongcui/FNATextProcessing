@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>xElyhordeum iowense R.W. Pohl </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 40-80 cm, erect. Sheaths hirsute; ligules about 0.3 mm; auricles short, acute; blades 6-8 mm wide, adaxial surfaces shortly velutinous. Inflorescences spikelike, 9-12 cm long, 5-10 mm wide, flexuous, with 3 spikelets per node. Spikelets with 2 florets, the lateral spikelets usually shortly pedicellate, the central spikelet sessile. Glumes about 2.5 cm, not indurate at the base; lemmas 6-8 mm, puberulent, awns 25-35 mm; anthers 1.6-1.8 mm, indehiscent in the lowest florets of each spikelet. 2n = 28.</description>
+  <discussion>xElyhordeum iowense is a hybrid between Elymus villosus and Hordeum jubatum that has been found at scattered locations in the central plains. It probably occurs elsewhere, but is unlikely to be common, because E. villosus usually grows in more shady locations than H. jubatum.</discussion>
+</bio:treatment>

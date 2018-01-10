@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date> Helictotrichon mortonianum (Scribn.) Henrard </name_authority_date>
+  </taxon_identification>
+  <common_names>ALPINE OATGRASS</common_names>
+  <description type="morphology">Culms 5-20 cm. Ligules 0.5-1 mm, truncate to rounded, ciliate; blades 3-6 cm long, 1-2 mm wide, involute or convolute, strigose, particularly on the adaxial surfaces. Panicles 2-5(8) cm; branches erect, usually with 1 spikelet each. Spikelets 8-12 mm, with (1)2(3) florets. Glumes equal or nearly so, 8-11 mm, acuminate or awn-tipped, awns 0.3-0.5 mm; lowest lemmas 7-10 mm, 3-veined, apices 4-toothed, awns 10-16 mm; distal lemmas unawned or awned; anthers 1.5-2 mm. 2n = 14, 28.</description>
+  <discussion>Helictotrichon mortonianum grows in alpine and subalpine meadows and summits, at 3000-4200 m. It is restricted to the central and southern Rocky Mountains of the contiguous United States.</discussion>
+</bio:treatment>

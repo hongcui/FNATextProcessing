@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>16</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Chloris texensis Nash </name_authority_date>
+  </taxon_identification>
+  <common_names>TEXAS WINDMILL-GRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose. Culms 30-45 cm. Sheaths glabrous or sparsely pilose; ligules membranous, not or only shortly ciliate; blades to 15 cm long, about 4 mm    wide, scabrous. Panicles with 8-10 clearly separate branches, these usually  digitate, occasionally a poorly-developed second whorl present just below the terminal whorl; branches to 20 cm, divergent, basal 2-5 cm without spikelets, averaging 3-4 spikelets per cm else¬where. Spikelets with 1 bisexual and 1 sterile floret. Lower glumes 2.7-3 mm; upper glumes 3.5-3.8 mm; lowest lemmas 3.7-4.3 mm long, 0.7-0.8 mm wide, lanceolate to narrowly ovate, sides not conspicuously grooved, margins glabrous or sparsely appressed pubescent distally with hairs shorter than 1 mm, apices acute, awned, awns 7-11 mm; second florets 2-2.5 mm long, about 0.5 mm wide, narrowly elliptic, acute, inconspicuously bilobed, awns 4.5-6.5 mm. Caryopses about 2.3 mm long, about 0.5 mm wide, ellipsoid, trigonous. 2n = unknown.</description>
+  <discussion>Chloris texensis appears to be rare. It is endemic to Texas.</discussion>
+</bio:treatment>

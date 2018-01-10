@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>18</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sporobolus contractus Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>SPIKE DROPSEED</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 40-100 (120) cm tall, 2-4(5) mm thick near the base. Sheaths rounded below, margins hairy, partic¬ularly distally, hairs to 3 mm, apices with conspicuous tufts of hair; ligules 0.4-1 mm; blades (2)4-35 cm long, 3-8 mm wide, flat to involute, glabrous on both surfaces, margins whitish, somewhat scabridulous. Panicles all terminal, (10)15-45(50) cm long, 0.2-0.8(1) cm wide, contracted, spikelike, dense, usually included in the uppermost sheath; lower nodes with 1-2(3) branches; primary branches 0.3-1.5 cm, appressed, spikelet-bearing to the base; secondary branches appressed; pulvini glabrous; pedicels 0.2-2 mm, appressed, scabridulous. Spikelets 1.7-3.2 mm, whitish to plumbeous. Glumes unequal, narrowly lanceolate, membranous, prominently keeled; lower glumes 0.7-1.7 mm, usually 1-veined, acute to acuminate; upper glumes 2-3.2 mm, at least 2/3 as long as the florets; lemmas 2-3.2 mm, linear-lanceolate, membranous, glabrous, acute; paleas 1.8-3 mm, linear-lanceolate, membranous, glabrous; anthers 3, 0.3-0.5 mm, light yellowish. Fruits 0.8-1.2 mm, ellipsoid, laterally flattened, light brownish or translucent. 2n = 36. </description>
+  <discussion>Sporobolus contractus grows in dry to moist, sandy soils, at elevations from 300-2300 m. It is found occasionally in salt-desert scrub, desert grasslands, and pinyon-juniper woodlands. Its range extends to the states of Baja California and Sonora in Mexico.</discussion>
+</bio:treatment>

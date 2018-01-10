@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>13.06</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>xTRITICOSECALE Wittm. ex A. Camus </name_authority_date>
+  </taxon_identification>
+  <common_names>TRITICALE</common_names>
+  <description type="morphology">Plants annual. Culms to 130 cm, erect, straight or geniculate at the lowest node. Leaves mainly cauline; ligules 2-4 mm, membranous, truncate to rounded. Inflorescences terminal, distichous spikes, with solitary spikelets; internodes 3-5 mm, densely pilose, at least on the edges. Spikelets 10-17 mm, with 2-4 florets, distal floret usually reduced. Glumes 9-12 mm, asymmetrically keeled, keels stronger and sometimes conspicuously ciliate distally, apices retuse to acute, awned, awns 3-4 mm; lemmas 10-15 mm, laterally compressed, keeled, keels sometimes ciliate distally, terminally awned, awns 3-50 mm; anthers 3, yellow, x = 7.</description>
+  <discussion>xTriticosecale comprises hybrids between Secale and Triticum. Natural hybrids between the two genera are rare, but Triticale, which consists of cultivars derived from artificial hybrids between S. cereale and T. aestivum, is becoming an increasingly important cereal crop. The existing names in xTriticosecale do not apply to Triticale because they involve different species of Triticum.
+Triticale cultivars often have a complex ancestry, involving multiple hybridizations, backcrossings, and artificially induced chromosome doubling. Their genetic material varies from being derived almost entirely from Triticum to being derived almost entirely from Secale. For this reason, they are best identified as such, e.g., xTriticosecale 'Newton' or xTriticosecale 'Bokolo'. A hybrid formula would misrepresent their genetic and morphological diversity.
+</discussion>
+  <references>Stace, C.A. 1987. Triticale: A case of nomenclatural mistreatment. Taxon 36:445-452.</references>
+</bio:treatment>

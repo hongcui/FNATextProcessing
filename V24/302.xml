@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>22</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus texensis (Shear) Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>TEXAS BROME</common_names>
+  <description type="morphology">Plants annual. Culms 30-70 cm, erect or spreading; nodes 3-5, pubescent. Sheaths densely pub¬escent to pilose; auricles absent; ligules 2-3 mm, lanceolate, pub¬escent, obtuse, erose; blades 7-20 cm long, 3-7 mm wide, flat, usually pubescent to pilose, rarely glabrous. Panicles 8-15 cm, open, drooping; branches ascending to spreading. Spikelets 20-30 mm, elliptic to lanceolate, terete to moderately laterally compressed, with 4-7 florets. Glumes glabrous or hispidulous; lower glumes 6-9 mm, 1-veined; upper glumes 8-10.5 mm, 3-veined, usually acute, rarely mucronate; lemmas 9-15 mm, lanceolate, rounded over the midvein, glabrous, sometimes scabrous, apices subulate to acute, entire; awns 4-8 mm, straight, arising less than 1.5 mm below the lemma apices; anthers 3-5 mm. 2n = 28.</description>
+  <discussion>Bromus texensis grows in openings in brushy areas on rocky ground. It is rare, found only southern Texas and northern Mexico.</discussion>
+</bio:treatment>

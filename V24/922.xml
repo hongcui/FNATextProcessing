@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>19</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Agrostis hooveri Swallen </name_authority_date>
+  </taxon_identification>
+  <common_names>HOOVER'S BENT</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous, not stoloniferous. Culms 30-80 cm, erect, usually with more than 3 nodes. Leaves mostly on the lower 1/2 of the culm; basal leaves withered by anthesis; lower leaf sheaths finely tomentose, the tomentum extending to below ground; upper leaf sheaths smooth; ligules 2.5-6 mm, dorsal surfaces scabridulous, apices acute to truncate, lacerate; blades 10-16 cm long, 0.5-1(2) mm wide, flat, becoming involute. Panicles (4)10-17 cm long, 2-5 cm wide, broadly lanceolate, usually open, exserted from the upper sheaths at maturity, lowest node with 1-8 branches; branches scabrous, generally ascending, mostly branching at about midlength, sometimes to near the base, lower branches 1.5-5 cm; pedicels 0.4-5 mm. Spikelets lanceolate, slightly purplish. Glumes equal to subequal, 1.8-3 mm, 1-veined, scabridulous on the veins, sometimes also on the body, acute; callus hairs to 0.3 mm, abundant; lemmas 1.5-2 mm, scabridulous to warty throughout or only on the veins, translucent to opaque, 5-veined, veins prominent distally, apices truncate, minutely toothed to about 0.2 mm, awned on the lower 1/3, awns to 2.5 mm, geniculate, persistent; paleas absent or minute; anthers 3, 1-1.5 mm, usually shed at anthesis. Caryopses 1-1.5 mm; endosperm liquid. 2n = unknown.</description>
+  <discussion>Agrostis hooveri is an uncommon species, endemic to dry, sandy soils, open chaparral, and oak woodlands of San Luis Obispo and Santa Barbara counties, California.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Leucopoa kingii (S. Watson) W.A. Weber </name_authority_date>
+  </taxon_identification>
+  <common_names>SPIKE FESCUE, SPIKEGRASS, WATSON'S FESCUE-GRASS, KING'S FESCUE</common_names>
+  <description type="morphology">Plants unisexual; cespitose, rhizomatous (rhizomes usually absent from herbarium specimens). Culms 30-100(120) cm. Sheaths persisting, closed only at the base, glabrous, smooth or the lowest sometimes retrorsely scabrous; ligules 0.8-2(4) mm, truncate, erose-ciliate; blades 14-40(50) cm long, 1.5-7(10) mm wide, blades of the flag leaves often shorter, erect, somewhat stiff, flat or loosely convolute, glabrous, sometimes glaucous, abaxial surfaces usually smooth, rarely scabrous, adaxial surfaces sometimes somewhat scabrous or hirsute. Panicles 7-22 cm; branches erect or sometimes spreading, smooth or somewhat scabrous, spikelet-bearing to the base. Spikelets 6-12 mm long, 2.5-4.5 mm wide, staminate spikelets tending to be larger than pistillate spikelets, with (2)3-4(6) florets. Glumes usually unequal, sometimes subequal (especially in staminate spikelets) ovate or ovate-lanceolate (especially in pistillate spikelets) to lanceolate (especially in staminate spikelets), smooth or somewhat scabrous; lower glumes 3-5.5(6.5) mm, 1-veined; upper glumes 4-6.5(7.5) mm, shorter than or, particularly in staminate spikelets, equal to the lowest lemma, 1-3-veined; calluses wider than long, blunt; lemmas 4.5-8(10) mm, scabrous or hirsute, apices entire, acute, unawned or subterminally mucronate, mucro shorter than 1 mm; paleas 4.4-7(9) mm, scabrous or hirsute between the veins and on the margins; lodicules 1-2.6 mm; anthers (2.5)3.5-5(6) mm in staminate plants, vestigial and not functional in pistillate plants; ovaries in pistillate plants with pubescent apices and adjacent style bases, ovaries in staminate plants vestigial and non-functional. Caryopses fusiform, 3.5-5 mm long, 1.3-1.7 mm wide. 2n = 56.</description>
+  <discussion>Leucopoa kingii grows from Oregon and Montana to Nebraska, south to southern California and northern New Mexico. It occurs in habitats from dry sagebrush plains to subalpine meadows, at 1700-3600 m. Although palatable to livestock in the early part of the season, L. kingii is only occasionally abundant enough to be an important forage species.</discussion>
+</bio:treatment>

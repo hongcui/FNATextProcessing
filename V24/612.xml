@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Festuca saximontana var. robertsiana Pavlick </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 16-37 cm, usually 2-3 times the height of the vegetative shoot leaves, usually sparsely scabrous or pubescent below the inflorescence. Outer vegetative shoot sheaths brownish on the lower 1/2; blades smooth or scabrous on the abaxial surfaces, ribs on the adaxial surfaces with hairs to 0.1 mm; abaxial sclerenchyma in 5-7 narrow strands. Lemmas often scabrous on the distal 1/2.</description>
+  <discussion>Festuca saximontana var. robertsiana grows in subalpine or lower alpine habitats. It has only been reported from British Columbia.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Pleuropogon hooverianus grows in wet and marshy areas, usually in shady locations. Several of the populations are around redwood groves. It is known only from Mendocino, Sonoma, and Marin counties in California. It is listed as rare by the state of California.</name_authority_date>
+  </taxon_identification>
+  <common_names>OREGON SEMAPHOREGRASS</common_names>
+  <description type="morphology">Plants perennial; not cespitose, rhizomatous. Culms 40-95 cm tall, 2-3.5 mm thick, erect. Sheaths glabrous, smooth or scabridulous; ligules 5-10 mm, rounded or acute, often erose; blades 5-17 cm long, 4-9 mm wide, smooth or scabridulous over the veins, apices spinose. Racemes 13-20 cm, with 6-7 spikelets; lower internodes 3.5-7.2 cm; upper internodes shorter; pedicels 2-5(12) mm. Spikelets 20-40(50) mm, with 7-14 florets, lower florets bisexual, upper florets pistillate, terminal florets usually sterile. Glumes lanceolate to ovate, acute, erose; lower glumes 2-3 mm; upper glumes 2.5-4.5 mm; rachilla internodes 2-3 mm long, 0.1-0.2 mm thick, without a glandular swelling at the base; lemmas 5.5-7 mm, scabridulous, 7-veined, veins prominent, apices truncate, sometimes erose, awned, awns 5-12 mm; paleal keels awned, awns 3-9 mm, inserted 1/3 – 1/2 of the way from the base; anthers about 4 mm. Caryopses 2.5-3 mm. 2n = unknown.</description>
+  <discussion>Pleuropogon oregonus grows in swampy ground, wet meadows, and stream banks. It is known, even historically, from only a few locations in Union and Lake counties, Oregon. In 1975 it was thought to be extinct, but a population has since been discovered at one location in Lake County. The species is listed as threatened by the state of Oregon.</discussion>
+</bio:treatment>

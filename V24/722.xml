@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Poa sect. Alpinae (Hegetschw. ex Nyman) Stapf</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; not rhizomatous, not stoloniferous. Basal branching intravaginal. Culms 10-40 cm, terete. Leaves mostly basal; sheaths closed for 1/2 - 2/7 their length, terete, basal sheaths persistent, bases usually not swollen; blades flat, moderately thick, soft, straight, apices prow-shaped. Panicles 2-6(8) cm, erect, ovoid to pyramidal, open or loosely contracted at maturity; nodes with 1-2 branches; branches 1-3(4) cm, ascending to spreading, straight, terete, smooth or very sparsely scabrous, rarely moderately scabrous. Spikelets ovate, laterally compressed, occasionally bulbiferous; florets usually normal, bisexual. Glumes broadly lanceolate to narrowly ovate, shorter than to subequal to the adjacent lemmas, keeled, keels sparsely scabrous; lower glumes 3-veined; calluses terete, glabrous; lemmas broadly lanceolate, keeled, keels and marginal veins short- to long-villous, intercostal regions glabrous or sparsely to moderately short-villous; palea keels mostly softly puberulent to short-villous, scabrous distally; anthers 3, 1.3-2.3 mm.</description>
+  <discussion>Poa sect. Alpinae includes seven species. They are all cespitose perennials with intravaginal branching and broad leaves. One species is circumboreal; the other six are native to Europe.</discussion>
+</bio:treatment>

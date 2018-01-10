@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Poa sect. Tichopoa Asch. & Graebn.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; rhizomatous, usually with solitary shoots, sometimes loosely tufted. Basal branching all or mostly extravaginal. Culms 15-60 cm, distinctly compressed; nodes distinctly compressed. Sheaths closed for 1/10 – 1/5 their length, distinctly compressed; ligules 1-3 mm, moderately to densely scabrous, margins ciliolate, apices obtuse; blades 1.5-4 mm wide, flat, margins scabrous, adaxial surfaces smooth or scabrous mainly over the veins, apices narrowly prow-shaped. Panicles 2-10 cm, lengths usually 3-6 times widths, erect, linear to ovoid, mostly with 1-3 branches per node; branches 0.5-3 cm, angled, angles scabrous. Spikelets (2.3)3.5-7 mm, laterally compressed, bisexual, not bulbiferous; florets 3-7. Calluses terete or slightly laterally compressed, glabrous or pubescent, webbed; lemmas coriaceous-membranous, usually finely muriculate, lateral veins obscure, apices usually partially bronze-colored; anthers 3, 1.3-1.8 mm.</description>
+  <discussion>Poa sect. Tichopoa has two species, both of which are native to Europe. They are similar to species of Poa sect. Stenopoa, differing in having strongly compressed culms and nodes, and in being rhizomatous.</discussion>
+</bio:treatment>

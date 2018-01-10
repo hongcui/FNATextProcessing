@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sorghastrum elliottii (C. Mohr) Nash </name_authority_date>
+  </taxon_identification>
+  <common_names>SLENDER INDIANGRASS</common_names>
+  <description type="morphology">Plants not rhizomatous. Culms 70-190 cm tall, 1.2-2.4 mm thick; internodes glabrous. Sheaths mostly glabrous, throats pubescent; ligules 2-5 mm, decurrent, ciliate; blades 20-55 cm long, 2.5-5.5(8) mm wide, mostly glabrous. Panicles 10-35 cm, open, arching, dark purple; rachises 0.3-0.8 mm thick 1-2 mm above the lowest node; branches capillary, flexible, longest branches 19.5-34.5 cm. Spikelets 6-7.5 mm long, 1.1-1.4 mm wide, dark chestnut brown at maturity. Calluses 1-1.3 mm, blunt; lower glumes 5.5-7.3 mm, glabrous, 5-veined; upper glumes 6.2-7.5 mm; awns 25-40 mm, 5 times longer than the spikelets, twice-geniculate; anthers 2-3 mm. Caryopses 2-2.5 mm. Pedicels 3-6.5 mm, flexuous. 2n = 20.</description>
+  <discussion>Sorghastrum elliottii usually grows in dry, open woods on sandy terraces of the lowlands in the southeastern United States, often over a clay subsoil. Plants with straight panicles and sessile spikelets that are 1.3-1.8 mm wide are sometimes called S. apalachicolense D.W. Hall, but the variation appears to be continuous and such plants are included here as S. elliottii.</discussion>
+</bio:treatment>

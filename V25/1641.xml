@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Hemarthria altissima (Poir.) Stapf & C.E. Hubb. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; rhizomatous and/or stoloniferous. Culms 30-150 cm, erect to ascending, flattened. Leaves basal and cauline; sheaths mostly glabrous, margins sparsely ciliate basally, scabrous distally; ligules 0.2-1 mm; blades flat to conduplicate, glabrous, margins ciliate basally. Rames 2-10 cm, erect. Sessile spikelets: lower glumes 4-5 mm, 10-15-veined, lateral veins distinct, margins scarious, apices acute; upper glumes smooth, hyaline to membranous, acute; anthers 3. Pedicels 4-5 mm. Pedicellate spikelets 4-7 mm, acuminate. 2n = 20, 36.</description>
+  <discussion>Hemarthria altissima grows in tropical and subtropical regions throughout the world, including southern Texas and Florida. It is considered native to the Mediterranean region. Although an excellent forage grass, it is not sufficiently abundant in the Flora region to be important in this regard.
+ 
+</discussion>
+</bio:treatment>

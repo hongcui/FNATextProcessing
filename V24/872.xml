@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Briza minor L. </name_authority_date>
+  </taxon_identification>
+  <common_names>LITTLE QUAKINGGRASS</common_names>
+  <description type="morphology">Plants annual. Culms 7.5-80 cm. Leaves evenly distributed; sheaths 1/2-1/4 the length of the internodes, open to near the base, margins hyaline distally; ligules 4-13 mm, sides sometimes decurrent, margins at the base sometimes encasing the culms, truncate to acute; blades 5.5-12 cm long, 1-8(10) mm wide, slightly scabrous. Panicles (2)4-14(18) cm long, to 11 cm wide; pedicels 4-12 mm. Spikelets (2)3-4(7) mm, triangular to oval, with 4-7(13) florets. Lower glumes 2-2.5 mm; upper glumes 2-3.5 mm; lowermost lemmas 1.6-2 mm, frequently irregular in shape, becoming hyaline distally, glabrous, sometimes minutely scurfy, veins indistinct; paleas about 1.5 mm, often minutely scurfy; anthers 0.4-0.5 mm. Caryopses 0.8-1 mm, ovoid. 2n = 10, 14. </description>
+  <discussion>Briza minor is native to the Mediterranean region. It is the most widespread species of Briza in the Flora region, growing in many habitats: swamp margins, seasonal wetlands and around vernal pools, open woodlands, sandhills, roadsides, and pastures. It appears to be established from southern British Columbia south through western Oregon to California and Arizona, and in the east from the Atlantic states to the Gulf Coast states, inland to Oklahoma and Arkansas.
+ 
+</discussion>
+</bio:treatment>

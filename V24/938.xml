@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Polypogon monspeliensis (L.) Desf. </name_authority_date>
+  </taxon_identification>
+  <common_names>RABBITSFOOT GRASS</common_names>
+  <description type="morphology">Plants annual. Culms 5-65 (100) cm, erect to geniculately ascending. Sheaths glabrous, the uppermost sheaths some-times inflated; ligules 2.5-16 mm; blades 1-20 cm long, 1-7 mm wide. Panicles 1-17 cm, narrowly ellipsoid, dense, sometimes lobed, greenish; pedicels absent or to 0.2 mm; stipes 0.1-0.2 mm. Glumes 1-2.7 mm, hispidulous throughout, largest prickles restricted to the lower 1/2, apices rounded, lobed, lobes 0.1-0.2 mm, 1/10 or less the length of the glume body, awned from the sinus, awns 4-10 mm, yellowish; lemmas 0.5-1.5 mm, glabrous, awned, awns 0.5-1(4.5) mm; paleas subequal to the lemmas; anthers 0.2-1 mm. 2n = 14, 28, 35, 42.</description>
+  <discussion>Polypogon monspeliensis is native to southern Europe and Turkey. It is now a common weed throughout the world, including much of the Flora region. It grows in damp to wet, often alkaline soils, particularly in disturbed areas. Vernon Harms (pers. comm., 2005) commented that the species' distribution in Saskatchewan appears to have increased greatly since the 1970s. The English-language name aptly describes the feel of the young panicles.
+In Europe, Polypogon monspeliensis hybridizes with Agrostis stolonifera, producing the sterile xAgropogon lutosus (p. 668); and with P. viridis, forming P. xadscendens Guss. ex Bertol. Only xAgropogon lutosus has been reported from the Flora region. It differs from P. monspeliensis in having more persistent spikelets, less blunt short-awned glumes, and lemmas with sub-terminal rather than terminal awns.
+</discussion>
+</bio:treatment>

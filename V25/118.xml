@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis setifolia Nees</name_authority_date>
+  </taxon_identification>
+  <common_names>NEVERFAIL LOVEGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, with innovations and thick-ened or knotty plant bases; plant bases with woolly hairs, hairs coarse, to 2 cm. Culms 12-60 cm, erect, glabrous or hairy near the base, often shiny below the nodes. Sheaths glabrous, summits shortly pilose, hairs to 0.5 mm; ligules 0.3-0.5 mm, ciliate; blades 3-11 cm long, 0.7-2 mm wide, involute or flat, glabrous abaxially, scabridulous adaxially. Panicles 6-11 cm long, 2-4 cm wide, narrowly ovate, loosely contracted; primary branches 1-3 cm, compact, appressed or diverging to 30° from the rachises, sometimes naked near the base; pulvini glabrous; pedicels 0.2-3 mm, diverging, scabridulous. Spikelets 3-6(15) mm long, 1.3-2 mm wide, linear lanceolate, stramineous, with 9-30 florets; disarticulation irregular or basipetal, paleas persistent. Glumes subequal, 1-1.3 mm, ovate, membranous, apices obtuse to acute; lemmas 1.4-1.6 mm, ovate, membranous, glabrous, lateral veins conspicuous, green, sometimes obscure towards the apices, apices obtuse; paleas 1.4-1.6 mm, hyaline, apices truncate, ciliolate; anthers 3, 0.5-0.8 mm, yellowish. Caryopses 0.4-0.5 mm, oblong-ellipsoid, strongly dorsally compressed, usually with a shallow dorsal groove, smooth to finely striate, mostly light brown, bases often greenish. 2n = unknown.</description>
+  <discussion>Eragrostis setifolia is an Australian species that was collected around the Santee Wool Combing Mill, Jamestown, Berkeley County, South Carolina, in 1958. It is not known to have spread from that location. There is no illustration of the species because it was a late addition to the treatment. For digital images, see http://herbarium.usu.edu/webmanual/.</discussion>
+</bio:treatment>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>19</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Panicum amarum Elliott </name_authority_date>
+  </taxon_identification>
+  <common_names>BITTER BEACHGRASS</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, rhizomes stout, glabrous and glaucous throughout. Culms 20-250 cm tall, 3-10 mm thick, erect or decumbent, simple or branched from the lower nodes; nodes glabrous; internodes glabrous,    glaucous. Sheaths shorter or longer than the internodes, not keeled, glabrous; collars often glaucous and purplish; ligules 1-5 mm; blades 7-50 cm long, 2-13 mm wide, erect or ascending, firm, thick, flat basally, more or less involute towards the apices. Panicles 10-80 cm long, 2-17 cm wide, contracted, slightly nodding; primary branches whorled or opposite, strongly ascending to appressed; pedicels 0.5-15 mm, appressed to slightly divergent. Spikelets 4-7.7 mm long, 1.5-2 mm wide, narrowly ovoid, glabrous, acuminate; lower florets staminate. Glumes and lower lemmas relatively thick; lower glumes 2.8-4 mm, 1/2 - 4/5 as long as the spikelets, 3-9-veined, apices of the midveins sometimes scabridulous; upper glumes and lower lemmas extending 1.5-3 mm beyond the upper florets, apices stiffly gaping; upper glumes 3.9-7.6 mm, 5-9-veined; lower lemmas slightly shorter than the upper glumes, 7-9-veined, lower paleas 3-7 mm, oblong-hastate, folded over the anthers; lower florets staminate; upper florets 2.4-3.9 mm long, 1-1.8 mm wide, narrowly ovoid to oblong, glabrous, smooth, shiny, lemma margins clasping the paleas only at the base. 2n = 36, 54.</description>
+  <discussion>Panicum amarum grows in the coastal dunes, wet sandy soils, and the margins of swamps, along the Atlantic Ocean and the Gulf of Mexico from Connecticut to northeastern Mexico. It is also known, as an introduction, from a few inland locations in New Mexico, North Carolina, and West Virginia, as well as in the Bahamas and Cuba.</discussion>
+  <key>
+    <key_body>
+1. Rhizomes short or ascending; culms often bunched and decumbent, usually more than 120 cm tall; lower glumes with 3-5 less evident veins, the midvein smooth distally; spikelet density high; panicles with 2 or more main branches per node; spikelets 4-5.9 mm long   .....subsp. amarulum
+1. Rhizomes horizontally elongate; culms mostly solitary, less than 150 cm tall; lower glumes with 7-9 prominent veins, the midvein scabridulous distally; spikelet density moderate; panicles with 1 or 2 main branches per node; spikelets 4.7-7.7 mm long.....subsp. amarum
+
+    </key_body>
+  </key>
+</bio:treatment>

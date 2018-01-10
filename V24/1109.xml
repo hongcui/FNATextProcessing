@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Milium vernale M.-Bieb</name_authority_date>
+  </taxon_identification>
+  <common_names>EARLY MILLET, SPRING MILLETGRASS</common_names>
+  <description type="morphology">Plants annual. Culms 10-70 (90) cm, erect, solitary or clumped, retrorsely scabridulous; nodes 2-3, glabrous, green to purple. Sheaths retrorsely scabrous; ligules 2.5-4.5 mm, obtuse to acute, occasionally lacerate; blades 1.7-8.2 cm long, 1.9-5 mm wide, scabrous over the veins, concentrated on the lower portion of the culms. Panicles 4-11.5 cm; branches 0.5-6 cm, straight, ascending to erect, antrorsely scabrous, spikelets confined to the distal 1/2. Glumes 2.5-3.2 mm, scabridulous, 3-veined, acuminate; lemmas 2-2.3 mm; anthers about 1.5 mm. 2n = 18.</description>
+  <discussion>Native to Eurasia, Milium vernale was first detected in North America in 1987, when it was found infesting winter wheat and other crops in north-central Idaho (Callihan & Pavek 1988). The infested area has since increased.</discussion>
+</bio:treatment>

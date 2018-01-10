@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>14</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Calamagrostis cainii Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>CAIN'S REEDGRASS</common_names>
+  <description type="morphology">Plants sometimes with sterile culms; densely cespitose, without obvious rhizomes. Culms (30)45-55(60) cm, unbranched, smooth beneath the panicles; nodes 1-3. Sheaths and collars smooth; ligules 0.5-1.5(2) mm, usually truncate, sometimes obtuse, entire; blades (5)15-30(39) cm long, (1)2-3(4) mm wide, flat, pale green, abaxial surfaces smooth, adaxial surfaces slightly scabrous, glabrous or sparsely hairy. Panicles (6)8-12(15) cm long, 1.5-3.5(4) cm wide, open, often drooping, pale green and purple; branches (2)2.5-4.5(5) cm, smooth or slightly scabrous, spikelets usually confined to the distal 1/2-2/3. Spikelets 4-5(6) mm; rachilla prolongations 1-2 mm, hairs 1.5-2 mm. Glumes rounded to slightly keeled, usually smooth, keels rarely finely scabrous distally, lateral veins obscure, apices acute to acuminate; callus hairs 1.5-2 mm, 0.3-0.5 times as long as the lemmas, abundant; lemmas 3.5-4.5 mm, 0.5-1 mm shorter than the glumes; awns 4-5(6) mm, attached from near the base to the lower 1/3 of the lemmas, exserted, stout and easily distinguished from the callus hairs, strongly bent; anthers (1)2-2.5 mm. 2n = 28.</description>
+  <discussion>Calamagrostis cainii grows on bouldery subtrates and in soil pockets, landslides, and disturbed sites, at 1200-2100 m. It has been found in only three locations: the slopes of Mount LeConte, Sevier County, Tennessee; and in North Carolina on Craggy Pinnacle, Buncombe County, and the summit of Mount Craig, Yancey County. The species is of conservation concern because of its limited distribution.</discussion>
+</bio:treatment>

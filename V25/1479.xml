@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Paspalum setaceum var. rigidifolium (Nash) D.J. Banks </name_authority_date>
+  </taxon_identification>
+  <common_names>STIFF PASPALUM</common_names>
+  <description type="morphology">Plants erect to spreading. Leaves mostly cauline; blades to 30 cm long, 2.4-6.1 mm wide, conspicuously rigid, stiff, pubescent adaxially, glabrous or sparsely pubes¬cent abaxially, margins sometimes ciliate. Panicle branches 4.8-11.3 cm; branch axes 0.7-1.1 mm wide. Spikelets 2-2.6 mm long, 1.6-1.8 mm wide, obovate to ovate, pubescent, sometimes sparsely so; lower lemmas with or without an evident midvein; upper florets 2-2.4 mm.</description>
+  <discussion>Paspalum setaceum var. rigidifolium grows on ham-mocks, sand barrens, high pinelands, and flatwoods of Georgia, Florida, and Cuba.</discussion>
+</bio:treatment>

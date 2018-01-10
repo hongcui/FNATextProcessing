@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>31</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthelium wilcoxianum (Vasey) Freckmann </name_authority_date>
+  </taxon_identification>
+  <common_names>WILCOX’S PANICGRASS</common_names>
+  <description type="morphology">Plants cespitose. Basal rosettes poorly differentiated; sheaths glabrous; blades 2-4 cm, narrow, similar to those of the lower cauline leaves, ascending to spreading. Culms 15-35 cm, stiffly erect, all but the upper 2-4 internodes very short; nodes glabrous or with weak, reflexed hairs; internodes purplish-gray, sparsely pubescent; fall phase developing early, forming erect branches from the lower or midculm nodes, each branch terminating in a partially included panicle of 8-16 spikelets, no sterile shoots formed. Cauline leaves usually 3; sheaths hirsute, hairs papillose-based; ligules 0.5-1 mm; blades 4-8 cm long, 2-5 mm wide, all alike, stiffly erect, green to grayish-green, flat, not plicate, sparsely pilose. Primary panicles 3-5 cm long, 2-4 cm wide, ovoid, open, shortly exserted, with 12-32 spikelets; branches short, stiff, spreading; pedicels mostly 4-8 mm, spreading. Spikelets 2.4-3.2 mm long, 0.7-1.2 mm wide, ellipsoid to obovoid, often reddish throughout, short-pubescent. Lower glumes 0.7-1.2 mm, triangular; upper glumes and lower lemmas about equaling the upper florets; upper florets 1.9-2.5 mm, ellipsoid, pointed. 2n = 18.</description>
+  <discussion>Dichanthelium wilcoxianum grows in dry prairies, especially in sandy or gravelly openings. It is restricted to the Flora region. The primary panicles, which are produced from mid-May to early June, are partially open-pollinated; the secondary panicles, which are produced in June, and occasionally also in September, are cleistogamous.
+Some specimens of Dichanthelium oligosanthes subsp. scribnerianum from the southern Great Plains that have prematurely elongating upper internodes resemble D. wilcoxianum, but they have greenish spikelets that are 1.7-2.4 mm wide, an orange spot at the base of the glumes, and larger basal rosettes.
+</discussion>
+</bio:treatment>

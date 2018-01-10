@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis japonica (Thunb.) Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>POND LOVEGRASS</common_names>
+  <description type="morphology">Plants annual; cespitose, without innovations, without glands. Culms 25-100(115) cm, erect or geniculate, lower portion glabrous and shiny. Sheaths glabrous at the apices and on the upper margins; ligules 0.4-0.6 mm, scarious, glabrous; blades (4)15-20(25) cm long, 1.5-6 mm wide, flat, sometimes auriculate, abaxial surfaces glabrous, smooth, adaxial surfaces scabridulous, Panicles 15-40 cm long, 0.8-5 cm wide, lanceoloid, contracted, interrupted near the base; primary branches 2-10 cm, appressed or diverging to 30° from the rachises, spikelet-bearing to near the base; pulvini glabrous; pedicels 0.5-1.5 mm, sinuous. Spikelets 2.2-3.8 mm long, 0.8-1.3 mm wide, oblong to narrowly lanceolate, yellowish-brown to whitish and hyaline, with 4-12 florets; disarticulation basipetal, rachillas and glumes persistent. Glumes subequal, 0.6-1 mm, ovate to ovate-lanceolate, hyaline; upper glumes without a midvein; lemmas 0.9-1.2 mm, ovate, hyaline, lateral veins conspicuous basally, greenish, apices acute; paleas 0.6-0.8 mm, hyaline, keels smooth basally, scabridulous distally, apices acute, often bifid; anthers 2, 0.1-0.2 mm, whitish to light brown. Caryopses 0.3-0.4 mm, obovoid, smooth, reddish-brown. 2n = 20.</description>
+  <discussion>Eragrostis japonica is native to the tropics of the Eastern Hemisphere; it is now established in moist areas along rivers and streams in the southern portion of the contiguous United States, usually in sandy soils, at 0-200 m.</discussion>
+</bio:treatment>

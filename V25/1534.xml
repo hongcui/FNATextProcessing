@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Sorghum bicolor subsp. xdrummondii (Steud.) de Wet </name_authority_date>
+  </taxon_identification>
+  <common_names>CHICKEN CORN, SUDANGRASS</common_names>
+  <description type="morphology">Plants annual. Culms to 4 m, relatively stout. Rames usually tardily disarticulating, mostly with 3-5 nodes. Sessile spikelets 5-6 mm, lanceolate to elliptic. Caryopses not exposed at maturity.</description>
+  <discussion>The hybrids treated here as Sorgum bicolor subsp. xdrummondii are most common in the Eastern Hemisphere, but a few are cultivated in the United States. Among these are the plants known as 'chicken corn' and 'Sudangrass' [= S. sudanense (Piper) Stapf] (de Wet 1978).</discussion>
+</bio:treatment>

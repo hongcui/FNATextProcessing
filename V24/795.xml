@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Poa sect. Oreinos Asch. & Graebn.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; densely to loosely tufted, sometimes shortly rhizomatous or stoloniferous. Basal branching mostly extravaginal or mixed intra- and extravaginal. Culms 5-100 cm tall, 0.5-1.5 mm thick, slender, sometimes weak, terete; nodes terete. Sheaths usually closed for  1/5 - 3/5 their length, hybrids sometimes closed for 1/10 – 1/5 their length, terete, smooth or sparsely scabrous; ligules 0.5-4(6) mm, smooth or sparsely scabrous, truncate to acute, sometimes lacerate; innovation blades similar to the cauline blades; cauline blades 0.8-4 mm wide, flat, thin, lax, soft, adaxial surfaces smooth or sparsely scabrous, narrowly prow-tipped. Panicles 1.5-15 cm, lax or slightly lax, loosely contracted to open; nodes with 1-3(5) branches; branches 1-8 cm, steeply ascending to reflexed, capillary to slender, drooping to fairly straight, sulcate or angled, smooth or the angles scabrous, with 1-15 spikelets. Spikelets 3.2-8 mm, lengths to 3.5 times widths, narrowly lanceolate to ovate, laterally compressed, not bulbiferous; florets 2-5, bisexual; rachilla internodes smooth, glabrous. Glumes subulate to broadly lanceolate, thin, distinctly keeled, keels smooth or scabrous; lower glumes 1-3-veined; calluses terete or slightly laterally compressed, glabrous or dorsally webbed; lemmas 2.5-4.6 mm, lanceolate to broadly lanceolate, distinctly keeled, thin, keels and marginal veins short- to long-villous, lateral veins usually glabrous, infrequently sparsely softly puberulent, lateral veins obscure or moderately prominent, intercostal regions glabrous; palea keels scabrous, usually glabrous, infrequently pectinately ciliate; anthers 3, 0.2-1.1(1.3) mm.</description>
+  <discussion>Poa sect. Oreinos is circumboreal. It includes seven species: four strictly Eurasian, one amphiatlantic, one primarly western North American with isolated occurrences in the Russian Far East, and one restricted to North America. The species are boreal, alpine to low arctic, and grow in bogs and on alpine slopes. They are primarily slender perennials with extra vaginal tillering.</discussion>
+</bio:treatment>

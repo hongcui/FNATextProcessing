@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Erioneuron avenaceum (Kunth) Tateoka </name_authority_date>
+  </taxon_identification>
+  <common_names>LARGE-FLOWERED TRIDENS, SHORTLEAF WOOLYGRASS</common_names>
+  <description type="morphology">Culms (7)10-30(40) cm tall, (0.4)0.7-1 mm thick, glabrous; nodes glabrous or villous. Ligules to 0.5 mm; blades (1.5)3-5(8) cm long, (0.5)1-1.5(2.5) mm wide, both surfaces sparsely pilose. Panicles 2-8(10) cm; branches with 2-10(16) shortly pedicellate spikelets. Spikelets 6-8(10) mm, purplish, with (4)6-12(20) florets; lower glumes 4-7 mm; upper glumes 6-9 mm, equaling or exceeding the lowest florets; lemmas 4-7 mm, purplish-green, awned from between the lobes, awns 2-4 mm, apices bilobed, lobes 1-2 mm, obtuse to acute; anthers 0.4-1 mm or (when monandrous) to 1.3 mm. Caryopses 1-1.4 mm. 2n = 16, 32.</description>
+  <discussion>Erioneuron avenaceum is common in rocky areas from the southwestern United States to central Mexico; it also grows in Bolivia and Argentina. North American plants belong to E. avenaceum (Kunth) Tateoka var. avenaceum. Stoloniferous plants occur in the Flora region, but they are most common in central Mexico.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eustachys floridana Chapm. </name_authority_date>
+  </taxon_identification>
+  <common_names>FLORIDA FINGERGRASS</common_names>
+  <description type="morphology">Culms 50-100 cm, erect. Blades to 30 cm long, to 8.2 mm wide, apices acute. Panicles with 1-3 branches; branches 5-13 cm. Spikelets 3-3.7 mm; florets 3. Lower glumes 1.8-2 mm, apices acute to obtuse; upper glumes 2.2-3.1 mm, oblanceolate, truncate to occasionally bilobed, lobes obtuse, awned from between the lobes, awns 0.5-1 mm; calluses with tufts of hairs, hairs to 0.6 mm; lowest lemmas 2.9-3.7 mm, ovate, tan to light brown at maturity, lateral veins and keels with appressed, whitish to golden hairs, hairs to 0.7 mm, apices acute, awned, awns 0.4-0.6 mm, arising from just below the apices; second lemmas 1.5-2.6 mm, obovate, acute, mucronate. Caryopses about 1.7 mm. 2n = unknown.</description>
+  <discussion>Eustachys floridana grows in dry, sandy woods and old fields. It is endemic to the southeastern United States.</discussion>
+</bio:treatment>

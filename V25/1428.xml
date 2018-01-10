@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Charles M. Allen</author>
+    </source>
+  </meta>
+  <number>25.21</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>PASPALIDIUM Stapf</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial. Culms to 100 cm, not branching above the base. Auricles absent; ligules membranous and ciliate or of hairs. Inflorescences panicles of racemosely arranged, spikelike branches,  branches  sometimes highly reduced, each panicle appearing spikelike; branches 1-sided, terminating in a more or less inconspicuous bristle, bristles 2.5-4 mm; disarticulation beneath the spikelets. Spikelets subsessile, in 2 rows on 1 side of the branches, lacking subtending bristles, dorsally compressed, with 2 florets, upper glumes and upper florets appressed to the branch axes. Glumes membranous; lower glumes much shorter than the spikelets; upper glumes subequal to the upper florets; lower florets sterile or staminate; lower lemmas similar to the upper glumes in size and texture; upper florets bisexual; upper lemmas indurate, rugose, unawned, yellow or brown; upper paleas similar to their lemmas; anthers 3. x = 9.</description>
+  <discussion>Paspalidium is a genus of approximately 40 species, one of which is native to the Flora region. It grows in tropical regions throughout the world. Most of its species have an inflorescence of well-spaced, unilateral, spicate branches and the resemblance to Paspalum is evident, but species with closely crowded, highly reduced branches are easily mistaken for species of Setaria, the terminal bristle resembling a single, subtending bristle.
+ 
+</discussion>
+</bio:treatment>

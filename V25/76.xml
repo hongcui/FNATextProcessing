@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Blepharoneuron tricholepis (Torr.) Nash </name_authority_date>
+  </taxon_identification>
+  <common_names>HAIRY DROPSEED</common_names>
+  <description type="morphology">Plants perennial; densely cespitose. Culms 10-70 cm, erect, glabrous and smooth or scabrous just below the nodes. Ligules (0.3)0.7-2(2.7) mm, hyaline to membranous, entire; blades 1-15 cm long, 0.6-2.5 mm wide, scabrous. Panicles 3-25 cm long, 1-10 cm wide; branches ascending; pedicels 2-9 mm, straight or flexuous. Glumes (1.5)1.8-2.6(3) mm, often appearing 3-veined because of the characteristic infolding of the margins; lemmas (2)2.3-3.5(3.9) mm; anthers 1.2-2.1 mm, brownish. Caryopses 1.2-1.4 mm. 2n = 16.</description>
+  <discussion>Blepharoneuron tricholepis grows in dry, rocky to sandy slopes, dry meadows, and open woods in pine-oak-madrone forests from Utah and Colorado to the state of Puebla, Mexico, at elevations of 700-3660 m. It flowers from mid-June through November.</discussion>
+</bio:treatment>

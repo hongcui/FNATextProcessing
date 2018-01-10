@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>21</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Puccinellia vaginata (Lange) Fernald & Weath. </name_authority_date>
+  </taxon_identification>
+  <common_names>SHEATHED ALKALI GRASS, PUCCINELLIE ENGAINÉE</common_names>
+  <description type="morphology">Plants perennial; cespitose, not mat-forming. Culms (6)9-20 (35) cm, erect or decumbent. Leaves basally concentrated on small plants, distributed along the culms in larger plants; ligules 1-3 mm, acute, obtuse, or truncate, entire; blades 1-2 mm wide when flat, 0.5-1.6 mm in diameter when involute. Panicles (3)6-12(14) cm, diffuse or contracted and usually barely exserted from the sheaths at maturity, lower branches ascending  
+to horizontal, spikelets usually confined to the distal 2/3; pedicels slightly scabrous, epidermal cells tumid. Spikelets 4-8 mm, with (2)4-5(6) florets. Glumes rounded over the back, veins distinct or obscure, margins not inrolled, apices broadly acute or obtuse; lower glumes 1.3-2.1 mm; upper glumes 1.3-2.6(3.4) mm; calluses with a few hairs; lemmas 2.8-4 mm, herbaceous, thin, often translucent, bases hairy, particularly on the veins, backs rounded, 5-veined, veins obscure, not extending to the margins, lateral margins usually not inrolled, apical margins uniformly and densely scabrous, apices broadly acute or obtuse, entire or slightly erose; palea veins glabrous proximally, scabrous distally; anthers 0.7-1.1(1.2) mm. 2n = 56.
+</description>
+  <discussion>Puccinellia vaginata is a widespread North American arctic species. It is locally common in Greenland to about 78° N latitude; it is uncommon in Canada, where it is found primarily in the low arctic, rarely in the high arctic. One specimen is reported from eastern Siberia. It grows on coastal marine sediments and on eroding, raised marine sediments inland, and forms large tussocks near bird cliffs.</discussion>
+</bio:treatment>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Lynn G. Clark </author>
+      <author>J.K. Triplett</author>
+    </source>
+  </meta>
+  <number>2.01</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>ARUNDINARIA Michx.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants arborescent or subarborescent, spreading or loosely clumped; rhizomes leptomorphic. Culms 0.5-8 m tall, to 3 cm thick, erect; nodes not swollen; supranodal ridges not prominent; internodes terete to slightly flattened or shallowly sulcate above the branches. Culm leaves: sheaths persistent or deciduous, mostly glabrous, abaxial surfaces sparsely pilose towards the margins and apices, margins ciliate; auricles usually present; blades erect or becoming reflexed, narrowly triangular to strap-shaped, abaxial surfaces sparsely pilose; leaves at tips of new shoots crowded into distinctive fan-shaped clusters or topknots, blades expanded as on the foliage leaves. Branch complements of 1 primary branch and 0-2 subequal secondary branches on young culms, rebranching to produce to 40+ secondary branches on older culms. Foliage leaves: sheaths persistent on the lower branch nodes; auricles usually present; fimbriae to 10 mm; blades finely cross veined abaxially, acuminate, blades of the ultimate branchlets often smaller, crowded into flabellate clusters of 3-7 leaves. Inflorescences open racemes or panicles; disarticulation below and between the florets. Spikelets 3-7 cm, with 6-12 florets, basal floret occasionally sterile, laterally compressed. Glumes 1-2, shorter than the lowest lemmas; lemmas to 2 cm, sometimes awned, awns about 4 mm; anthers 3; styles 3; paleas 2-keeled, not exceeding the lemmas, x = 12. </description>
+  <discussion>Arundinaria is a north-temperate genus with three native North American species. The most consistent differences among the North American species are seen in the vegetative characters, including the topknot leaf blades, foliage leaf blades, and features of the branch complements.
+Arundinaria is sometimes taken as including several Asian species. Genera that used to be treated in Arundinaria include, for example, Fargesia Franch. and Sasa Makino & Shibata.
+</discussion>
+  <references>McClure, F.A. 1973. Genera of bamboos native to the New World (Gramineae: Bambusoideae). Smithsonian Contr. Bot. 9:1-148; Judziewicz, E.J., L.G. Clark, X. Londono, and M.J. Stern. 1999. American Bamboos. Smithsonian Institution Press: Washington, D.C., U.S.A. 392 pp.; Zhu, Z., C-D. Chu, and C. Stapleton. 2006. Arundinaria. Pp. 113-115 in Z.-Y. Wu, P.H. Raven, and D.-Y. Hong (eds.). Flora of China, vol. 22 (Poaceae). Science Press, Beijing, Peoples Republic of China and Missouri Botanical Garden Press, St. Louis, Missouri, U.S.A. 653 pp. http://flora.huh.harvard.edu/china/mss/volume22/index.htm.</references>
+  <key>
+    <key_body>
+1. Primary branches with 0-1 compressed basal internodes; culm internodes usually sulcate; culm leaves deciduous .....1. A. gigantea
+1. Primary branches with 2-5 compressed basal internodes; culm internodes usually terete; culm leaves persistent to tardily deciduous.
+ 
+ 
+2. Foliage blades coriaceous, persistent, abaxial surfaces densely pubescent or glabrous, strongly cross veined; primary branches usually longer than 50 cm, basal nodes developing secondary branches; topknot blades 20-30 cm long.....2. A. tecta
+2. Foliage blades chartaceous, deciduous, abaxial surfaces pilose or glabrous, weakly cross veined; primary branches usually shorter than 35 cm, basal nodes not developing secondary branches; topknot blades 9-22.5 cm long.....3. A. appalachiana
+    </key_body>
+  </key>
+</bio:treatment>

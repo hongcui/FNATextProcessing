@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Dichanthelium acuminatum subsp. spretum (Schult.) Freckmann & Lelong </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms usually glabrous; nodes often swollen, glabrous; fall phase often with reclining culms, ultimately with fascicles of branches with greatly reduced blades and secondary panicles. Cauline sheaths usually glabrous; blades 3-9 mm wide, usually firm, ascending to reflexed, puberulent or glabrous abaxially, glabrous adaxially, with sparse papillose-based cilia at the bases. Primary panicles 4-12 cm long, 1/4 - 1/2 as wide as long, usually narrow, congested. Spikelets 1.3-1.9 mm, ascending to appressed, usually ellipsoid, usually puberulent (rarely glabrous).</description>
+  <discussion>Dichanthelium acuminatum subsp. spretum grows in wet to moist, sandy or peaty soil, pine savannahs, and bogs. It is not a common taxon, but is most frequent on the coastal plain and around the Great Lakes. It is very similar to the more common, southern subsp. longiligulatum. It also resembles D. dichotomum in size and overall habit.</discussion>
+</bio:treatment>

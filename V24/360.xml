@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Hordeum bulbosum L. </name_authority_date>
+  </taxon_identification>
+  <common_names>BULBOUS BARLEY</common_names>
+  <description type="morphology">Plants perennial. Culms to 135 cm, erect or somewhat geniculate; basal internodes usually bulbous, with 1-4 ellipsoid to pyriform bulbs per culm; nodes glabrous. Sheaths glabrous or pubescent; auricles well developed, to 5.5 mm; blades to 6 mm wide, flat, scabrous, often also pubescent. Spikes 4.5-16.5 cm. Central spikelets subsessile; glumes 10-25 mm, flattened near the base, margins more or less ciliate; lemmas glabrous, awns 12-50 mm; lodicules densely pilose; anthers 4.5-10 mm, yellow to violet. Lateral spikelets: lower glumes flattened near the base; upper glumes setaceous; lemmas usually unawned, sometimes awned, awns to 14 mm; anthers to 9 mm. 2n = 14, 28.</description>
+  <discussion>Hordeum bulbosum is native to the eastern Mediterranean and western Asia. In the Flora region, it is known as an occasional escape from breeding programs. In its native range it is found in a wide range of habitats, from wet meadows to dry hillsides, roadsides, and abandoned fields. It is one of two obligate outcrossers in the genus, H. brevisubulatum (Trin.) Link being the other.</discussion>
+</bio:treatment>

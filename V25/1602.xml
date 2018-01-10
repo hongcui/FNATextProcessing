@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Cymbopogon nardus (L.) Rendle </name_authority_date>
+  </taxon_identification>
+  <common_names>CITRONELLA GRASS, NARDGRASS</common_names>
+  <description type="morphology">Plants perennial. Culms to 250 cm; nodes often swollen. Basal sheaths glabrous, smooth, purplish-red; ligules 3-6 mm, acute; blades to 100 cm long, 3-16 mm wide, surfaces smooth or scabrous. Inflorescences to 100 cm, linear, interrupted; rames 10-17 mm; internodes and pedicels pilose on the margins, glabrous dorsally. Sessile spikelets of heterogamous pairs 3-4.5(6) mm; lower glumes with narrowly winged keels; upper lemmas unawned or awned, awns 6-10 mm. 2n = 20, 40, 60.</description>
+  <discussion>Cymbopogon nardus has been cultivated in the United States, but the variety involved is not known. Cymbopogon nardus (L.) Rendle var. nardus, which is native to Sri Lanka, is the common citronella grass. It differs from C. nardus var. confertiflorus (Steud.) Stapf ex Bor, which is native to both Indian and Sri Lanka, in having unawned spikelets and 2n = 20, rather than awned spikelets and 2n = 40, 60. Both varieties have been widely introduced beyond their native range.</discussion>
+</bio:treatment>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>J.K. Wipff</author>
+    </source>
+  </meta>
+  <number>25.12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>MELINIS P. Beauv.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; habit various. Culms 20-150 cm, erect, decumbent, or prostrate. Sheaths open; ligules of hairs or membranous and ciliate. Inflorescences terminal, simple pani¬cles or panicles of spikelike primary branches, usually with capillary secondary branches and pedicels; disarticulation below the glumes, sometimes also below the upper florets, the upper florets then falling first. Spikelets with 2 florets. Lower glumes present or absent, 0-1-veined, unawned; upper glumes equaling or exceeding the florets, sometimes gibbous basally, 5-7-veined, emarginate to bilobed, awned or unawned; lower florets staminate or sterile; lower lem¬mas similar to the upper glumes, but not gibbous; upper florets bisexual, laterally compressed; upper lemmas subcoriaceous, glabrous, smooth, unawned; upper paleas resembling the upper lemmas; lodicules 2, fleshy or membranous, x = 9. </description>
+  <discussion>Melinis is an African and western Asian genus of 22 species that grow in savannahs, open grasslands, and disturbed places. Two species have become established in the Flora region.
+Rhynchelytrum Nees has traditionally been treated as a separate genus, with the number of veins being the diagnostic character. Zizka (1988) showed that this separation was artificial; consequently the older generic name, Melinis, is now applied to species that used to be included in Rhynchelytrum.
+</discussion>
+  <references>Zizka, G. 1988. Revision der Melinideae Hitchcock (Poaceae, Panicoideae). Biblioth. Bot. 138:1-149; Zizka, G. 1990. Taxonomy of the Melinideae (Poaceae: Panicoideae). Mitt. Inst. Allg. Bot. Hamburg 23:563-572.</references>
+  <key>
+    <key_body>
+1. Glumes and pedicels glabrous, scabridulous; lower florets without paleas   .....1. M. minutiflora
+1. Glumes, and usually the pedicels, with hairs to 7 mm long; lower florets with paleas .....2. M. repens
+
+    </key_body>
+  </key>
+</bio:treatment>

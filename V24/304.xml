@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>24</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus pacificus Shear </name_authority_date>
+  </taxon_identification>
+  <common_names>PACIFIC BROME</common_names>
+  <description type="morphology">Plants perennial; not rhizomatous. Culms 60-170 cm, erect; nodes (5)6-8, pubescent; internodes usually glabrous, sometimes pubescent near the nodes. Sheaths pilose, midrib of the culm leaves not abruptly narrowed just below the collar; auricles absent; ligules 2-4 mm, glabrous, truncate, erose or lacerate; blades 20-35(37) mm long, 6-16 mm wide, flat, abaxial surfaces glabrous, adaxial surfaces pilose. Panicles 10-25 cm, open, nodding; branches ascending, spreading, or drooping. Spikelets 20-30 mm, elliptic to lanceolate, terete to moderately laterally compressed, with (4)6-10 florets. Glumes pubescent; lower glumes 6-8.5 mm, l(3)-veined; upper glumes 8-11.5 mm, 3-veined, not mucronate; lemmas 10-12 mm, lanceolate, rounded over the midvein, backs pubescent, margins more densely so, apices acute, entire; awns 3.5-7 mm, straight, arising less than 1.5 mm below the lemma apices; anthers 2-4 mm. 2n = 28.</description>
+  <discussion>Bromus pacificus grows in moist thickets, openings, and ravines along the Pacific coast from southeastern Alaska to northern California, with a few occurrences further inland.</discussion>
+</bio:treatment>

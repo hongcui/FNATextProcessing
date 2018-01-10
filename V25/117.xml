@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis lehmanniana Nees </name_authority_date>
+  </taxon_identification>
+  <common_names>LEHMANN'S LOVEGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, forming innovations at the basal nodes, without glands. Culms (20)40-80 cm, erect, commonly geniculate, sometimes rooting at the lower nodes, glabrous, lower portions sometimes scabridulous. Sheaths sometimes shortly silky pilose basally, hairs less than 2 mm, apices sparsely hairy, hairs to 3 mm; ligules 0.3-0.5 mm, ciliate; blades 2-12 cm long, 1-3 mm wide, flat to involute, glabrous, abaxial surfaces sometimes scabridulous, adaxial surfaces scabridulous. Panicles 7-18 cm long, 2-8 cm wide, oblong, open; primary branches 1-8 cm, appressed or diverging to 40° from the rachises; pulvini glabrous; pedicels 0.5-4 mm, diverging or appressed, flexible. Spikelets 5-12(14) mm long, 0.8-1.2 mm wide, linear-lanceolate, plumbeous to stramineous, with 4-12(14) florets; disarticulation irregular to basipetal, paleas usually persistent. Glumes oblong to lanceolate, membranous; lower glumes 1-1.5 mm; upper glumes 1.3-2 mm; lemmas 1.5-1.7 mm, ovate, membranous, lateral veins inconspicuous, apices acute to obtuse; paleas 1.4-1.7 mm, obtuse; anthers 3, 0.6-0.9 mm, yellowish. Caryopses 0.6-0.8 mm, ellipsoid to obovoid, dorsally compressed, sometimes with a shallow adaxial groove, smooth, translucent, mostly light brown, embryo region dark brown with a greenish ring. 2n = 40, 60.</description>
+  <discussion>Eragrostis lehmanniana is native to southern Africa, where it grows in sandy, savannah habitats. It was introduced for erosion control in the southern United States, where it often displaces native species. In the Flora region, it grows in sandy flats, along roadsides, on calcareous slopes, and in disturbed areas, at 200-1830 m. It is commonly found in association with Larrea tridentata, Opuntia, Quercus, Juniperus, and Bouteloua gracilis.</discussion>
+</bio:treatment>

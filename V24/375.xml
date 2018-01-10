@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Sandra M. Saufferer</author>
+    </source>
+  </meta>
+  <number>13.07</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>AEGILOPS L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual. Culms 14-80 cm, usually glabrous, erect or geniculate at the base, with (1)2-4(5) nodes. Sheaths open; auricles ciliate; ligules 0.2-0.8 mm, membranous, truncate; blades 1.5-10 mm wide, linear to linear-lanceolate, flat, spreading. Inflorescences terminal spikes, with 2-13 spikelets, usually with 1-3 additional rudimentary spikelets at the base; internodes 6-12 mm; disarticulation either at the base of the spikes or in the rachises, the spikelets falling attached to the internodes above or below. Spikelets solitary at each node, 72-2(3) times the length of the internodes, tangential to the rachis, appressed or ascending, the upper spikelet(s) sometimes sterile; fertile spikelets 5-15 mm, with 2-7 florets, the distal florets often sterile. Glumes ovate to rectangular, rounded on the back, scabrous or pubescent, with several prominent veins, midveins smooth throughout, apices truncate, toothed, or awned, sometimes indurate at maturity; lemmas rounded on the back, apices toothed, frequently awned; paleas chartaceous, 2-keeled, keels ciliate; anthers 3, 1.5-4 mm, not penicillate; ovaries with pubescent apices. Caryopses lanceolate to lanceolate-ovate, x = 7. Haplomes B, C, D, S, T, U, M, N. </description>
+  <discussion>Aegilops has about 23 species, and is native to the Canary Islands, as well as from the Mediterranean region to central Asia. It is sometimes included in Triticum because the two form natural hybrids and both are involved in the evolution of the cultivated wheats, including T. aestivum. They are treated as distinct genera here, in keeping both with past practice and with their differing ecological attributes, Aegilops being a weedy genus.
+Four species are established in the Flora region; only Aegilops cylindrica is widespread. The introductions occurred at the end of the nineteenth or beginning of the twentieth century. Three other species have been collected in the region; they are not known to have persisted.
+In the key and descriptions, spike and spikelet lengths exclude the rudimentary spikelets and awns.
+</discussion>
+  <references>Kimber, G. and M. Feldman. 1987. Wild Wheat: An Introduction. Special Report No. 353. College of Agriculture, University of Missouri-Columbia, Columbia, Missouri, U.S.A. 142 pp.; Slageren, M.W. van. 1994. Wild Wheats: A Monograph of Aegilops L. and Amblyopyrum (Jaub. & Spach) Eig. Wageningen Agricultural University Papers 94-7. Wageningen Agricultural University and International Center for Agricultural Research in the Dry Areas (ICARDA), Wageningen, The Netherlands and Aleppo, Syria. 512 pp.</references>
+  <key>
+    <key_body>
+1. Glumes unawned, or with a single awn to 2 cm long; spikes narrowly cylindrical to moniliform, not ovoid; disarticulation in the rachises, the spikelets falling attached to the internodes above.
+2. Spikes cylindrical to slightly moniliform.....1. A. tauschii
+2. Spikes distinctly moniliform.
+3. Glumes mostly glabrous, the veins setulose; lemmas of the apical spikelets with awns to 4 cm long; spikelets with 2-5 florets, the distal 1 or 2 sterile  .....2. A. ventricosa
+3. Glumes appressed-velutinous; lemmas of the apical spikelets with awns 3-8.5 cm long; spikelets with 4-7 florets, the distal 2 sterile .....3. A. crassa
+1. Some glumes with awns 2-8 cm long; spikes narrowly cylindrical to ovoid, not moniliform; disarticulation near the base of the spikes, at least initially.
+4. Spikes narrowly cylindrical, about 0.3 cm wide.....4. A. cylindrica
+4. Spikes subcylindrical to ovoid, widest at the base, 0.4-1.3 cm wide.
+5. Upper spikelets 7-9 mm long; lemmas of the lower fertile florets with 2-3 teeth, 1 tooth sometimes extending into an awn up to 10 mm long .....5. A. triuncialis
+5. Upper spikelets 4-5 mm long; lemmas of the fertile florets 2-3-awned, awns 5-40 mm long.
+6. Rudimentary spikelet(s) usually 1, occasionally 2; spikes gradually tapering distally .....6. A. geniculate
+6. Rudimentary spikelets 3, occasionally 2; spikes abruptly contracted distally to a narrow cylinder  ...... A. neglecta
+
+    </key_body>
+  </key>
+</bio:treatment>

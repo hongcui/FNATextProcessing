@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Amelichloa caudata (Trin.) Arriaga & Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>SOUTH AMERICAN NEEDLEGRASS</common_names>
+  <description type="morphology">Plants cespitose, with knotty, rhizomatous bases. Culms 40-100 cm tall, 0.8-3(4.8) thick, erect, glabrous; nodes usually 3. Basal sheaths mostly glabrous, margins ciliate distally; collars glabrous, often with tufts of hair to 1.5 mm on the margins; ligules 0.2-0.6 mm, membranous, ciliate, cilia 1-2 mm, longest at the margins; blades 25-70 cm long, 2-7 mm wide when flat, usually convolute and 0.4-0.8 mm in diameter, erect, abaxial surfaces smooth, adaxial surfaces mostly glabrous. Panicles 10-45 cm long, 2-8 cm wide, bases sometimes included in the upper leaf sheaths; branches ascending to spreading, longest lower branches 4-12 cm. Glumes subequal, 5-11 mm, linear-lanceolate, 3-veined, midveins smooth, scabrous, or with stiff hairs, varying within a panicle, apices acuminate; florets 3.5-5(7) mm long, about 0.8 mm thick, fusiform; calluses 0.5-1 mm, blunt, strigose, hairs 0.5-0.8 mm; lemmas hairy over the veins, hairs 0.5-0.8 mm, glabrous between the mid- and lateral veins, glabrous or hairy between the lateral and marginal veins, distal portion glabrous, tapering to the apices, apices with 0.7-1 mm hairs around the base of the awn; awns 12-25 mm, glabrous or scabrous, once- or twice-geniculate; paleas 3.5-6.5 mm, 3/4 - 9/10 as long as the lemmas, pubescent over the central portion, apices involute; lodicules 3; anthers 2-4 mm in chasmogamous florets, cleistogamous florets sometimes with anthers of 2 lengths, about 0.4 mm and 0.7 mm, or all anthers of the same length, the long anthers penicillate. Caryopses about 3 mm long, 1-1.4 mm thick; style bases inclined, eccentric. 2n = unknown.</description>
+  <discussion>Amelichloa caudata is native to South America, extending from central Chile to Uruguay and Argentina. It was collected, as Stipa litoralis Phil., on ballast dumps near Portland, Oregon, early in the twentieth century. Although it has not become established in the Flora region, it has done so in Australia. It is a potentially invasive weed. Species with anthers of three different lengths, and of two lengths within a floret, have been reported for Nassella; it appears to be the first report of this pattern in the species of Amelichloa.</discussion>
+</bio:treatment>

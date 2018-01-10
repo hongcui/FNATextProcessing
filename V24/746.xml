@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa arctica subsp. grayana (Vasey) Á. Löve  , D. Love & B.M. Kapoor</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants sometimes glaucous; densely to loosely tufted, rhizomatous, rhizomes short or long, usually well developed, culms solitary or a few together. Culms 20-60 cm, bases decumbent, not wiry. Sheaths closed for 1/4-2/5 their length; ligules (2)3-7 mm, smooth, obtuse to acute; blades 1-3 mm wide, flat or folded. Panicles lax to erect, open; branches ascending or widely spreading, somewhat sinuous and flexuous to fairly straight, smooth to sparsely scabrous, proximal branches 2/5 – 1/2 the panicle length. Spikelets (4)4.5-7 mm, not bulbiferous; rachilla internodes usually glabrous, infrequently sparsely softly puberulent; calluses glabrous; lemmas (2.7)3-5 mm; palea keels puberulent to long-villous at midlength; anthers usually fully developed. 2n = 36?</description>
+  <discussion>Poa arctica subsp. grayana grows only in the alpine regions of the middle and southern Rocky Mountains of Utah, Wyoming, Colorado, and New Mexico. It is characterized by its glabrous calluses, densely hairy lemmas, and paleas that are densely hairy between the keels. It has less wiry culms, and panicles with more flexuous branches, than subsp. aperta and, like that subspecies, can be difficult to distinguish from P. arida (p. 599).</discussion>
+</bio:treatment>

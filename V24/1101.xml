@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Limnodea arkansana (Nutt.) L.H. Dewey </name_authority_date>
+  </taxon_identification>
+  <common_names>OZARKGRASS</common_names>
+  <description type="morphology">Culms 15-60 cm. Ligules 1-2 mm; blades 3-12 cm long, 2-8 mm wide. Panicles 5-12 cm long, 1-5 cm wide, loose, usually erect. Spikelets 3-4 mm; rachillas prolonged 0.3-0.9 mm. Glumes 3-4 mm; lemmas 3-4 mm, awns (5)8-14.5 mm; anthers 0.2-0.4 mm. 2n = 14.</description>
+  <discussion>Limnodea arkansana grows in dry, usually sandy soils of prairies, open woodlands, disturbed areas, and riverbanks. Along the Gulf coast, it grows on maritime shell mounds and middens, and upper beaches where shells accumulate. It has also been found, as an introduction, around a wool-combing mill in James¬town, South Carolina.</discussion>
+</bio:treatment>

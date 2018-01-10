@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>70</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia ramulosa (Kunth) Swallen </name_authority_date>
+  </taxon_identification>
+  <common_names>GREEN MUHLY</common_names>
+  <description type="morphology">Plants annual. Culms (3)5-25 cm, erect, branching, but not rooting, basally; internodes glabrous, mostly smooth, some¬times scabridulous below the nodes. Sheaths usually shorter than the internodes, glabrous, smooth or scabridulous; ligules 0.2-0.5 mm, hyaline, truncate, ciliate, without lateral lobes; blades 0.5-3 cm long, 0.8-1.2 mm wide, involute or flat, glabrous abaxially, puberulent adaxially. Panicles (1)2-9 cm long, 0.6-2.7 cm wide, open, ovoid or deltoid, spikelets sparse; primary branches (0.5)1-3.2 cm long, about 0.1 mm thick, ascending, spreading 20-100° from the rachises; pedicels 1-3 mm long, 0.5-1.5 mm thick, stiff. Spikelets 0.8-1.3 mm, appressed or divaricate. Glumes equal, 0.4-0.7 mm, glabrous, 1-veined, obtuse or subacute, unawned; lemmas 0.8-1.3 mm, oval, plump, mottled with greenish-black and greenish-white or ochroleucous patches, glabrous or shortly appressed-pubescent on the margins and midveins, apices acute, unawned; paleas 0.7-1.3 mm, oval; anthers 0.2-0.3 mm, purplish. Caryopses 0.5-1 mm, elliptic, brownish. 2n = 20.</description>
+  <discussion>Muhlenbergia ramulosa grows in open, well-drained areas including slopes, sandy meadows, washes, gravelly road cuts, and rock outcrops in yellow pine-oak forests and in open meadows of pine-fir forests, at elevations of 2100-3500 m. Its range includes the southwestern United States, Mexico, Guatemala, Costa Rica, and Argentina.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>19</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Melica altissima L. </name_authority_date>
+  </taxon_identification>
+  <common_names>TALL MELIC, SIBERIAN MELIC</common_names>
+  <description type="morphology">Plants loosely cespitose. Culms 60-250 cm, not forming corms, scabrous below the panicles. Sheaths retrorsely scabridulous; ligules 3-5 mm; blades to 20 cm long, 5-15 mm wide, flat, lax. Panicles 10-20 cm long, 1-2(5) cm wide, cylindrical, pale or purplish; branches about 3 cm, strongly ascending to appressed, often with 15+ spikelets; pedicels sharply bent below the spikelets; disarticulation below the glumes. Spikelets 7-11 mm, with 1-2(3) bisexual florets. Glumes subequal in length and similar in shape, 7-10.5 mm long, 3-4 mm wide, glabrous, ovate-elliptic, obtuse to acute, ivory or purple, 7-veined; lemmas 7-11 mm, glabrous, scabridulous, 9-13-veined, scarious, apices acute; paleas about 2/3 the length of the lemmas; rudiments 2.5-3 mm, pyriform. Caryopses about 3 mm. 2n = 18.</description>
+  <discussion>Melica altissima is native to Eurasia. It is grown as an ornamental in North America and is reported to have escaped and become established in Oklahoma and Ontario. In its native region, it grows on the moist soils of shrubby thickets and forest edges, and on rocky slopes. Plants with dark purple glumes and lemmas can be called M. altissima var. atropurpurea Host.</discussion>
+</bio:treatment>

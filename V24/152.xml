@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Achnatherum occidentale subsp. pubescens (Vasey)
+Barkworth 
+</name_authority_date>
+  </taxon_identification>
+  <common_names>
+COMMON WESTERN NEEDLEGRASS</common_names>
+  <description type="morphology">Culms 32-120 cm tall, 0.8-1.3(2) mm thick, basal internodes puberulent to pubescent. Basal sheaths usually pubescent, sometimes densely pubescent, occasionally glabrous; collars often with tufts of hair at the sides; blades 1-3 mm wide, adaxial surfaces pubescent to pilose. Panicles 10-30 cm; longest branches 2-7 cm. Glumes usually green; lemmas with apical pubescence similar in length to the basal awn pubescence; awns 24-50 mm, pilose on the first 2 segments, with hairs gradually becoming shorter distally, terminal segment scabrous or glabrous. 2n = 36.
+</description>
+  <discussion>Achnatherum occidentale subsp. pubescens grows from Washington to California and eastward to Wyoming, at 1300-4700 m. It is the most widespread and variable subspecies of A. occidentale, intergrading with subsp. californicum, A. nelsonii, and A. lettermanii. It differs from the latter two in its shorter paleas and its pilose awns.</discussion>
+</bio:treatment>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Schizachyrium sanguineum var. hirtiflorum (Nees) S.L.
+Hatch
+</name_authority_date>
+  </taxon_identification>
+  <common_names>Schizachyrium sanguineum var. hirtiflorum (Nees) S.L.
+Hatch
+HAIRY CRIMSON BLUESTEM</common_names>
+  <description type="morphology">Culms 40-120 cm, branching at the upper nodes, glau-cous. Ligules 1-2 mm; blades 10-20 cm long, 1.5-5 mm wide. Rames 4-10(12) cm; internodes scabrous, glabrous or hirsute. Sessile spikelets 5-9 mm; lower glumes sparsely to densely hirsute on the back; awns 15-25 mm. Pedicels arcuate at maturity, ciliate on both edges distally. Pedicellate spikelets 3-5 mm, staminate or sterile, awns 0.3-5 mm. 2n = 40, 60, 70, 100.</description>
+  <discussion>In the Flora region, Schizachyrium sanguineum var. hirtiflorum grows on rocky slopes and well-drained soils from Arizona to southwestern Texas and Florida, and is considered a good forage species. Its range extends through Central America to Chile, Paraguay, and Uruguay.</discussion>
+</bio:treatment>

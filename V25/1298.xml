@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>32</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Panicum bisulcatum Thunb. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual; loosely tufted, sprawling. Culms 30-150 cm tall, 2-4 mm thick, erect or spreading from a geniculate, non-cormous base, not succulent, glabrous throughout. Sheaths shorter or longer than the inter¬nodes, rounded,    often with minute purple streaks, glabrous, margins shortly ciliate; ligules to 0.8 mm; blades 5-28 cm long, 4-14 mm wide, linear, more than 10 times longer than wide, thin, flat, glabrous on both surfaces or sparingly pilose adaxially, bases scabridulous near the margins, prominently veined. Panicles 12-30 cm long, 9-20 cm wide, usually 1-1.3 times longer than wide, diffuse; primary branches 8-15 cm, alternate, divergent, slender, scabridulous, much branched, branches confined to the distal 2/3, secondary branches spreading, spikelets confined to the distal 1/2 of the branches; pedicels 0.5-6 mm. Spikelets 1.8-2.7 mm long, 0.8-1 mm wide, ellipsoid, dark green, often purple-tinged, usually glabrous, acute to acuminate. Lower glumes 1/3 – 1/2 as long as the spikelets, glabrous, deltoid, acute; upper glumes and lower lemmas subequal, equaling or exceeding the upper florets, smooth, faintly 5-veined, sparsely pilose with short hairs near the margins and apices, acute; lower florets sterile; lower paleas absent or much shorter than the lower lemmas; upper florets 1.5-1.8 mm, ellipsoid, smooth, lustrous, grayish-brown at maturity, apices sparsely puberulent, obtuse to subacute. 2n = 36.</description>
+  <discussion>Panicum bisulcatum is an Asian species that grows in wet, open areas. It has been introduced sporadically, but has rarely become established, on the coastal plain of Georgia and South Carolina. The records from Philadelphia, Pennsylvania are from 1865-1877.</discussion>
+</bio:treatment>

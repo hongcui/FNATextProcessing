@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca altaica Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>NORTHERN ROUGH FESCUE, ALTAI FESCUE, FÉTUQUE D'ALTAI</common_names>
+  <description type="morphology">Plants densely cespitose, rarely with short rhizomes. Culms (25)30-90(120) cm, glabrous or slightly scabrous; nodes usually not exposed. Sheaths closed for less than 1/3 their length, glabrous or scabrous, persistent, not shredding into fibers; collars glabrous; ligules 0.2-0.6 (1) mm; blades deciduous, 2-4 mm wide, convolute, conduplicate, sometimes flat, 1-2.5 mm in diameter when conduplicate, yellow-green to dark green, abaxial surfaces scabrous, adaxial surfaces glabrous or pubescent, smooth or scabrous, veins 7-15(17), ribs 5-9; abaxial sclerenchyma in strands about as wide as the adjacent veins; adaxial sclerenchyma present; girders associated with the major veins. Inflorescences 5-16 cm, open, often secund, with 1-2(3) branches per node; branches lax, spreading, lower branches usually recurved or reflexed, spikelets borne towards the ends of the branches. Spikelets 8-14 mm, usually purple, lustrous, with 3-4(6) florets. Glumes glabrous or slightly scabrous, distinctly shorter than the adjacent lemmas; lower glumes 4-6.8(8.5) mm; upper glumes (4.5)5.3-7.5(10) mm; lemmas (6.5)7.5-9(12) mm, chartaceous, scabrous, at least on the veins, keeled on the lo'ver 1/2, veins 5, prominent, apices attenuate or short-awned, awns 0.2-0.7 mm; paleas about as long as or a little shorter than the lemmas, intercostal region puberulent distally; anthers 2.6-4.5(5) mm; ovary apices usually sparsely pubescent, rarely glabrous. 2n = 28.</description>
+  <discussion>Festuca altaica is a plant of rocky alpine habitats, arctic tundra, and open boreal or subalpine forests. Its primary distribution extends from Alaska eastward to the western Northwest Territories, and south in the alpine regions of British Columbia and west-central Alberta. Disjunct populations occur in Quebec, western Labrador and Newfoundland, and in Michigan, where it may be introduced. From the Bering Sea it extends westward to the Altai Mountains of central Asia.
+The spikelets of Festuca altaica are lustrous and usually intensely purplish; plants with greenish spikelets have been named F. altaica f. pallida Jordal. A form producing pseudoviviparous spikelets, F. altaica f. vivipara Jordal, has been described from Alaska.
+</discussion>
+</bio:treatment>

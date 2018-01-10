@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Andropogon gyrans Ashe </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose, cylindrical to ovate above. Culms 30-100 (140) cm; internodes usually glaucous; branches mostly erect, straight. Sheaths smooth; ligules 0.3-1.5 mm, sometimes ciliate, cilia to 0.7 mm; blades 6-48 cm long, 0.8-5 mm wide, glabrous or densely pubescent with spreading hairs. Inflorescence units 2-31 per culm; subtending sheaths (2.6)4.1-4.5(13.5) cm long, (1.5)2.7-4.7(8) mm wide; peduncles (1)5-31(195) mm, with 2-5 rames; rames (1.5)2.8-4.2(6) cm, exserted or not at maturity, pubescence increasing in density distally within each internode. Sessile spikelets (3)3.9-4.7(5.7) mm; callus hairs 1-5 mm; keels of lower glumes scabrous only beyond midlength; awns 8-24 mm; anthers 1, 0.6-1.4(1.7) mm, yellow or purple. Pedicellate spikelets vestigial or absent. 2n = 20.</description>
+  <discussion>Andropogon gyrans extends from the southeastern United States to the Caribbean and Central America.</discussion>
+  <key>
+    <key_body>
+1. Ligules 0.3-1.1 mm long; rames usually hidden within the more or less overlapping and inflated upper sheaths at maturity; plants usually of well-drained soils.....var. gyrans
+1. Ligules 0.8-1.5 mm long; rames usually exposed at maturity; plants of wet habitats   .....var. stenophyllus
+
+    </key_body>
+  </key>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Digitaria insularis (L.) Mez ex Ekman </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, shortly rhizomatous, with knotty bases. Culms 80-130 cm, erect, with densely villous cataphylls, branching from the lower and middle nodes. Sheaths usually sparsely to densely papillose-hirsute, occasionally glabrous; ligules 4-6 mm, usually lacerate, not ciliate; blades 20-50 cm long, 10-17 mm wide, lax, smooth or scabridulous abaxially, scabridulous to scabrous adaxially. Panicles 20-35 cm long, 2-10 cm wide, with numerous spikelike primary branches; primary branches 10-15 cm, appressed to ascending at maturity, axes not wing-margined or with wings less than 1/2 as wide as the midribs; internodes 3-4.5(6) mm (midbranch), bearing spikelets in unequally pedicellate pairs; secondary branches rarely present; pedicels not adnate to the branches; shorter pedicels 0.7-2 mm; longer pedicels 2.5-5 mm; terminal pedicels 2-5 mm. Spikelets 5.5-8.2 mm (including pubescence), 4.2-5.9 mm (excluding pubescence), narrowly ovate, acuminate. Lower glumes 0.6-0.8 mm; upper glumes 3.5-4.5 mm, 3-5-veined, pubescent on the margins; lower lemmas 4.1-5.7 mm (exceeded 1.5-5 mm by pubescence), narrowly ovate, 7-veined, pubescent between most, sometimes all, of the veins and on the margins, veins usually obscured by a dense covering of golden-brown hairs, hairs 3-6 mm, spreading at maturity, intercostal regions on either side of the midvein glabrous or pubescent with shorter, fine, white hairs, sometimes intermixed with the golden-brown hairs; upper lemmas 3.2-4.5 mm, narrowly ovate, brown when immature, dark brown at maturity, acuminate; anthers 1-1.2 mm. 2n = 36.</description>
+  <discussion>Digitaria insularis grows in low, open ground of the southern United States, and extends to the West Indies, Mexico, and through Central America to Argentina.</discussion>
+</bio:treatment>

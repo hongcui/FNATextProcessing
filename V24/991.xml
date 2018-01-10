@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dissanthelium californicum (Nutt.) Benth.</name_authority_date>
+  </taxon_identification>
+  <common_names>CALIFORNIA DISSANTHELIUM</common_names>
+  <description type="morphology">Plants annual. Culms to 25 cm, glabrous. Blades 2.5-15 cm long, 1-4 mm wide, flat, soft. Panicles 5-15 cm, contracted; pedicels scabrous. Spikelets with 2-3 florets, lower floret in each spikelet a little longer than the upper floret. Glumes sub-equal, 3-4 mm, exceeding the florets, lanceolate, keels scabrous, margins scarious, apices acuminate; lemmas 1.5-2 mm, pilose, obtuse to acute. 2n = unknown.</description>
+  <discussion>Dissanthelium californicum is known only from Santa Catalina and San Clemente islands, California, and Guadalupe Island, Baja California, Mexico. It grows in coastal sage-scrub. Until its rediscovery on Santa Catalina Island in 2005, it was thought to be extinct in California, not having been reported from the state since 1903.</discussion>
+</bio:treatment>

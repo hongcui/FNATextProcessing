@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Jacques Cayouette </author>
+      <author>Stephen J. Darbyshire</author>
+    </source>
+  </meta>
+  <number>14.17</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>ARCTOPHILA (Rupr.) Andersson</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; rhizomatous, sometimes producing aquatic leaves when submerged. Culms (5)10-100 cm, erect, glabrous, rooting at the lower nodes; nodes glabrous. Sheaths of aquatic leaves closed to near the apices, translucent, pale pinkish brown; collars inconspicuous; ligules acute; blades pinkish brown. Sheaths of aerial leaves usually closed for over 1/2 their length, sometimes open to the base, opaque, green to olive-green, glabrous; collars conspicuous as a zone of contrasting color; auricles absent; ligules membranous, truncate, lacerate; blades usually flat, glabrous, upper blades conspicuously longer than the lower blades. Inflorescences open panicles; branches stiff and ascending to pendulous, glabrous, some branches longer than 1 cm. Spikelets pedicellate, somewhat laterally compressed, with (1)2-7(9) florets; rachillas prolonged beyond the base of the distal floret, glabrous; disarticulation above the glumes, beneath the florets. Glumes subequal, broadly lanceolate to ovate, membranous to subcoriaceous, glabrous, l-3(5)-veined, acute to obtuse, unawned; calluses short, blunt, shortly pubescent to almost glabrous; lemmas ovate, glabrous, membranous to subcoriaceous, with 3(5) obscure veins, lateral veins usually not reaching the lemma apices, apices entire or somewhat erose, obtuse, unawned or rarely the central vein extended as a short mucro to about 0.2 mm; paleas subequal to the lemmas; lodicules 2, free, glabrous, toothed or entire; anthers 3; ovaries glabrous. Caryopses shorter than the lemmas, concealed at maturity, falling free; hila broadly ovate, 1/6 – 1/5 the length of the caryopses. x = 7.</description>
+  <discussion>Arctophila is a monospecific, but highly polymorphic, holarctic genus closely related to Dupontia (p. 602).</discussion>
+  <references>Aiken, S.G. and R.A. Buck. 2002. Aquatic leaves and regeneration of last year's straw in the arctic grass Arctophila  fulva. Canad. Field-Naturalist 116:81-86; Brysting, A.K., M.F. Fay, I.J. Leitch, and S.G. Aiken. 2004. One or more species in the arctic grass genus Dupontia?—A contribution to the Panarctic Flora project. Taxon 53:365-382.
+ 
+</references>
+</bio:treatment>

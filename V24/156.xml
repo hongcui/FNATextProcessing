@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Achnatherum latiglume (Swallen) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>WIDE-GLUMED NEEDLEGRASS</common_names>
+  <description type="morphology">Plants tightly cespitose, not rhizomatous. Culms 50-110 cm tall, 0.7-1.2 mm thick, lower internodes retrorsely pilose, upper internodes glabrous; nodes 2-4. Basal sheaths usually retrorsely pubescent, brown to gray-brown, flat when mature; collars usually glabrous, sometimes with a few hairs at the sides; basal ligules 0.2-2.5 mm, truncate to rounded; upper ligules 1.2-3 mm, rounded to acute, ciliate; blades 0.7-3 mm wide, straight to lax, abaxial surfaces smooth, glabrous, adaxial surfaces pubescent, scabrous. Panicles 15-30 cm long, 0.8-2 cm wide; branches appressed to strongly ascending, longest branches 2.5-6.5 cm. Glumes subequal, 12-15 mm long, 1.3-1.9 mm wide, 3-veined; florets 8-9 mm long, 0.9-1.4 mm thick, fusiform, terete; calluses 0.7-1 mm, blunt to sharp; lemmas evenly hairy, hairs 0.5-1.5 mm at midlength, apical hairs 1-2 mm, apical lobes to 1 mm, membranous; awns 33-45 mm, persistent, twice-geniculate, first 2 segments pilose, with hairs 0.5-2 mm, terminal segment mostly scabrous, straight; paleas 4-5 mm, 3/5 – 4/5 as long as the lemmas, pubescent; anthers not seen. Caryopses not seen. 2n = 70.</description>
+  <discussion>Achnatherum latiglume usually grows on dry slopes in yellow pine forests of southern California. Pohl (1954) demonstrated that it is an alloploid derivative of A. nelsonii and A. lemmonii. He reported being told that it was a fairly common species in the Yosemite Valley, and suggested that the isolated occurrences in Riverside and Fresno counties might represent separate origins of the species.
+Achnatherum latiglume resembles A. nevadense and A. occidental, but the latter two species have sharper calluses, and their paleas tend to be thinner and somewhat shorter relative to the lemmas than those of A. latiglume.
+</discussion>
+</bio:treatment>

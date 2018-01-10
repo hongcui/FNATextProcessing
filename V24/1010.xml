@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Calamagrostis cinnoides (Muhl.) W.P.C. Barton </name_authority_date>
+  </taxon_identification>
+  <common_names>SMALL REEDGRASS</common_names>
+  <description type="morphology">Plants without sterile culms; loosely cespitose, with rhizomes 2-3 cm long. Culms (60) 80-140(170) cm, often solitary, unbranched, scabrous; nodes 3-5(6). Sheaths smooth or slightly scabrous; collars smooth to densely scabrous; ligules (2)3-4(6) mm, usually truncate, rarely obtuse, usually entire, sometimes lacerate; blades (8)10-35(45) cm long, (3)3.5-7.5(10) mm wide, flat, pale green, smooth or slightly scabrous, adaxial surfaces glabrous or sparsely hairy. Panicles (8)12-20(25) cm long, (0.8)1.5-2.5(3) cm wide, erect, contracted, green to greenish purple; branches (2.5)4-7 cm, sparsely to densely scabrous, some prickles more than 10 times the length of the others, spikelets usually confined to the distal 1/2-1/4. Spikelets 5-7(7.5) mm; rachilla prolongations about (0.5)1(1.5) mm, hairy only distally, hairs 2-4 mm. Glumes keeled, keels slightly scabrous, lateral veins prominent, apices acuminate, sometimes shortly awned; callus hairs 3-4 mm, 0.5-0.7 times as long as the lemmas, abundant; lemmas 4.5-5.5 mm, 1-2 mm shorter than the glumes; awns 1-2 mm, attached on the upper 2/5 of the lemmas, not exserted, straight; anthers about 1.5 mm. 2n = unknown.</description>
+  <discussion>Calamagrostis cinnoides is found on roadsides, in ditches, pond edges, and boggy streamhead seepages, and along streams in oak or oak-pine woods on sandy to peaty soils, at 5-1100 m. Its range extends throughout eastern North America, from Nova Scotia and Maine to Georgia and Louisiana. It is adventive in Ohio.
+Since Arundo canadensis Michx. was cited as a synonym for both Arundo cinnoides Muhl. and Calamagrostis cinnoides, both of these latter combinations are considered to be superfluous—and thus  illegitimate—names,  even  though they  differ taxonomically from A. canadensis Michx. A proposal is in preparation to conserve the name C. cinnoides over the less frequently used, but legitimate, combination C. coarctata Eaton.
+ 
+</discussion>
+</bio:treatment>

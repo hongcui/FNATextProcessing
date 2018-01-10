@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Urochloa piligera (F. Muell. ex Benth.) R.D. Webster</name_authority_date>
+  </taxon_identification>
+  <common_names>WATTLE SIGNALGRASS</common_names>
+  <description type="morphology">Plants annual. Culms 15-60 cm, erect or decumbent, sometimes rooting at the lower nodes; nodes glabrous. Sheaths glabrous, margins sometimes ciliate; ligules 0.7-1.5 mm; blades 4-15 cm long, 3-11 mm wide, usually glabrous, sometimes pubescent, margins scabrous. Panicles 3-12 cm, with 3-5 spikelike branches in 2 ranks, smooth or scabrous, glabrous or pubescent; primary branches 2-6 cm, divergent to reflexed, axils glabrous, axes 1.1-1.6 mm wide, flat, winged, without papillose-based hairs, margins smooth or scabrous; secondary branches rarely present; pedicels shorter than the spikelets, scabrous. Spikelets (3.3)3.8-4.9 mm long, 1.5-1.8 mm wide, ellipsoid, solitary, usually overlapping, appressed to the branch axes, pubescent or sometimes glabrous, in 2 rows, sometimes appearing 1-rowed. Glumes separated by 0.3-0.5 mm; lower glumes 1.9-2.7 mm, 9-11-veined, glabrous; upper glumes 3.2-4.1 mm, 7-9-veined, glabrous or pubescent, margins glabrous or pilose, when pilose, the basal hairs shorter than the distal hairs; lower florets sterile; lower lemmas 3.1^1.7 mm, resembling the upper glumes in texture and pubescence, 5-7-veined; lower paleas absent; upper lemmas 2-4 mm, apices recurved, rounded, mucronate; anthers 1.5-1.7 mm. 2n = unknown.</description>
+  <discussion>Urochloa piligera is an Australian species that has been found in Florida. Webster (1987) stated that U. piligera has glabrous and pubescent forms that are identical except in the presence or absence of spikelet vestiture. Currently, only the pubescent form has been found in the Flora area (Hall 1978). The glabrous form is sometimes confused with U. subquadripara. Urochloa piligera lacks a lower palea, and has larger and, usually, closely overlapping spikelets; U. subquadripara has well-developed paleas and smaller (3.3-3.8 mm), well-separated spikelets.</discussion>
+</bio:treatment>

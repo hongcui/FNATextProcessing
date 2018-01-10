@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Panicum miliaceum subsp. ruderale (Kitag.) Tzvelev</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 70-210 cm. Panicles about twice as long as wide, open, erect, exserted; branches ascending to spreading; pulvini well-developed. Upper florets blackish, shiny, disarticulating at maturity.</description>
+  <discussion>Panicum miliaceum subsp. ruderale is now naturalized over much of the Flora region. It may become a major weed, especially in corn fields.</discussion>
+</bio:treatment>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>14</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>14. Puccinellia pumila (Vasey) Hitchc.</name_authority_date>
+  </taxon_identification>
+  <common_names>SMOOTH ALKALI GRASS, PUCCINELLIE NAINE</common_names>
+  <description type="morphology">Plants perennial; usually cespitose, occasionally appearing rhizomatous or stoloniferous after rooting at the nodes of buried stems, infrequently stoloniferous, not mat-forming. Culms 8-40 cm, erect to decumbent. Ligules 0.8-2.5 mm, obtuse to truncate, entire; blades 1-3 mm wide, flat to involute. Panicles 3-20 cm, dense to diffuse at maturity, lower branches ascending to descending, spikelets borne from near the bases or confined to the distal 2/3; pedicels smooth or with a few scattered scabrules, often with tumid epidermal cells distally. Spikelets 4-9 mm, with 3-7 florets. Glumes rounded over the back, veins obscure to distinct, apices acute to obtuse; lower glumes 1.4-2(4) mm; upper glumes 2-3(9) mm; calluses glabrous or with a few hairs; lemmas 2.5-4.6 mm, herbaceous, glabrous or with a few hairs on the vein bases, backs rounded, 5-veined, veins obscure, not extending to the margins, apical margins usually smooth, occasionally with a few scattered scabrules, entire, not white, apices acute to obtuse, entire; palea veins glabrous, smooth or with a few scabrules distally; anthers 0.5-1.2 mm. 2n = 14 [for Puccinellia alaskana], 42, 56.</description>
+  <discussion>Puccinellia pumila is primarily North American, growing on the Pacific, Arctic, and Atlantic coasts. It also grows in Kamchatka, Russia (Tsvelev 1995). It generally grows in sand and among stones in protected  
+intertidal environments. A few specimens with exceptionally long glumes and lemmas were treated by Fernald and Weatherby (1916) as P. paupercula var. longiglumis Fernald & Weath.; they are regarded here as representing extremes of P. pumila.
+Puccinellia alaskana Scribn. & Merr., here included in P. pumila, was considered a subspecies of P. langeana (Berlin) T.J. Serensen ex Hulten [= P. tenella] by S0rensen (1953), but more closely resembles P. pumila. It differs morphologically from P. pumila mainly in its relatively distinct lemma veins. It also differs from most specimens of P. pumila in having smaller lemmas (2.5-3 mm) and anthers (0.5-0.9 mm), and in being diploid. It represents the Aleutian Islands component of the geographic distribution given for P. pumila. Its status is currently under investigation. Molecular data obtained as this volume went to press (Consaul et al. [in prep.]) tend to support recognition of P. alaskana as a distinct species.
+</discussion>
+</bio:treatment>

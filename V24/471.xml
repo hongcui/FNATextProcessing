@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>32</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus sierrae Gould</name_authority_date>
+  </taxon_identification>
+  <common_names>SIERRA WHEATGRASS</common_names>
+  <description type="morphology">Plants cespitose, not rhizomatous. Culms 20-50 cm, prostrate or decumbent and geniculate; nodes 1-2, exposed, glabrous. Leaves basally concentrated; sheaths glabrous; auricles usually present, to 1 mm on the lower leaves; ligules 0.2-0.5 mm, erose; blades 1-5 mm wide, flat, abaxial surfaces smooth, glabrous, adaxial surfaces prominently ridged over the veins, with scattered hairs, hairs to 0.2 mm, veins closely spaced. Spikes 5-15 cm long, 1.5-2.5 cm wide including the awns, 0.7-1.2 cm wide excluding the awns, flexuous, erect to nodding distally, with 1 spikelet at most nodes, occasionally some of the lower nodes with 2 spikelets; internodes 5-15 mm long, 0.2-0.5 mm wide, both surfaces glabrous, edges ciliate, not scabrous. Spikelets 15-20 mm, ascending to divergent, with 3-7 florets; rachillas glabrous; disarticulation above the glumes, beneath each floret. Glumes subequal, 6-9 mm long, 0.7-1 mm wide, lanceolate, glabrous, the bases evidently veined, apices entire, tapering into a 3-10 mm awn; lemmas 12-16 mm, glabrous, sometimes scabridulous, apices bidentate, awned, awns 15-30 mm, arcuately diverging to strongly recurved; paleas subequal to the lemmas, apices about 0.4 mm wide; anthers 2-3.5 mm. 2n = 28.</description>
+  <discussion>Elymus sierrae is best known from rocky slopes and ridgetops in the Sierra Nevada, at 2100-3400 m, and is also found in Washington and Oregon. It resembles E. scribneri (see previous), differing in its non-disarticulating rachises, longer rachis internodes, and longer anthers. Hybrids with E. elymoides (p. 318) have glumes with awns 15+ mm long, and some spikelets with narrower glume bases and shorter anthers. Specimens with wide-margined glumes suggest hybridization with E. violaceus (p. 324).</discussion>
+</bio:treatment>

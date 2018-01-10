@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>45</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis bahiensis (Schrad.) Schult. </name_authority_date>
+  </taxon_identification>
+  <common_names>BAHIA LOVEGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, with innovations, without rhizomes, not glandular. Culms 25-95(110) cm, erect, glabrous. Sheaths glabrous, summits hairy, hairs 1-3 mm; ligules 0.2-0.4 mm; blades (8)12-40 cm long, 2-5 mm wide, flat to involute, abaxial surfaces glabrous, adaxial surfaces scabridulous and glabrous or long ciliate basally. Panicles terminal, 15-30(45) cm long, (4)8-17 cm wide, narrowly ovate, open to contracted; primary branches 5-15 cm, diverging 20-90° from the rachises, often capillary, usually naked basally; pulvini glabrous; pedicels 0.3-6 mm, mostly appressed, scabridulous, always shorter than the spikelets. Spikelets 6-15(18) mm long, 1.3-2(2.2) mm wide, narrowly lanceolate, plumbeous, occasionally with a reddish-purple tinge, with 8-30(40) florets; disarticulation usually in the rachilla below the florets, occasionally the lemmas falling separately, leaving the paleas on the rachilla. Glumes lanceolate to ovate, membranous to subhyaline, keeled; lower glumes 1-1.4 mm; upper glumes 1.4-1.7 mm; lemmas 1.5-2.2 mm, broadly ovate, leathery, scabridulous, lateral veins evident, apices acute; paleas 1.4-2.1 mm, hyaline, bases not projecting beyond the lemmas, keels scabridulous, apices acute to obtuse; anthers 2, 0.4-0.6 mm, reddish-purple. Caryopses 0.6-0.8 mm, obovoid to ellipsoid, terete, somewhat striate, reddish-brown. 2n = unknown.</description>
+  <discussion>Eragrostis bahiensis grows in sandy soils near river banks, lake shores, and roadsides, at 0-200 m. Its range extends south from the Gulf Coast of the United States through Mexico to Peru, Bolivia, Paraguay, and Argentina.</discussion>
+</bio:treatment>

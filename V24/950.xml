@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date> Phleum subulatum (Savi) Asch. & Graebn</name_authority_date>
+  </taxon_identification>
+  <common_names>ITALIAN TIMOTHY</common_names>
+  <description type="morphology">Plants annual. Culms 2-30(40) cm. Sheaths of the flag leaves not inflated; auricles not developed, leaf edges often wrinkled at the junction of the sheath and blade; ligules 4-7 mm, acute; blades 1.5-12 cm long, 1-4 mm wide, sometimes convolute. Panicles 0.8-11 cm long, 2-7 mm wide, narrowly cylindrical, parallel-sided. Glumes 2-4 mm, semi-elliptical in outline, keels usually glabrous, apices of the lower and upper glumes pointing towards each other; lemmas about 2/3 as long as the glumes, glabrous, midveins scabridulous; anthers 1.5-2 mm. 2n = 14.</description>
+  <discussion>Phleum subulatum is native to the grasslands of southern Europe. In the Flora region, it is known only from old ballast dump records.</discussion>
+</bio:treatment>

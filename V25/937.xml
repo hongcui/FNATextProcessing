@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Enneapogon desvauxii P. Beauv. </name_authority_date>
+  </taxon_identification>
+  <common_names>NINEAWN PAPPUSGRASS</common_names>
+  <description type="morphology">Plants perennial. Culms 20-45 cm, about 1 mm thick, ascending to erect from a hard knotty base, often branching; nodes pubescent. Sheaths usually shorter than the internodes, more or less pubescent; ligules about 0.5 mm; blades mostly 2-12 cm long, 1-2 mm wide, more or less hairy, soon involute. Panicles 2-10 cm, spikelike, grayish-green or lead-colored. Spikelets mostly 5-7 mm, usually only the lowest floret bisexual. Glumes 3-5 mm, subequal, thin, puberulent; upper glumes often 3- or 4-veined; lowest lemmas 1.5-2 mm, firm, rounded on the back; awns 3-4 mm; anthers 0.3-0.5 mm. Caryopses 1-1.2 mm, oval, plump; embryos subequal to the caryopses. Cleistogamous spikelets commonly present in the lower sheaths, their lemmas larger than those of the florets in the aerial panicles, unawned or with awns that are much reduced. 2n = 20.</description>
+  <discussion>Enneapogon desvauxii grows in open areas of the southwestern United States and in much of Mexico. It also grows in Peru, Bolivia, Argentina, and most of Africa, from which it extends eastward through Arabia and India to China.</discussion>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Digitaria tomentosa (J. Konig ex Rottler) Henrard</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 40-90 cm, erect, geniculate. Lower sheaths densely villous; upper sheaths with scattered papillose-based hairs; ligules 1.5-3 mm; blades 4-7(12) cm long, 3-5 mm wide, villous to nearly glabrous, usually sparsely hairy near the ligules. Panicles simple, 10-18 cm, open; branches divergent; pedicels 0.4-3 mm, divergent, spikelets solitary. Spikelets 2-2.5 mm, elliptical, apiculate. Lower glumes absent or to 0.2 mm; upper glumes absent or to 0.6 mm, veinless; lower lemmas as long as the spikelets, 5-veined, margins and intercostal regions more or less pubescent; upper lemmas minutely rugose, dark brown. 2n = 36.</description>
+  <discussion>A native of southern India and Ceylon, Digitaria tomentosa is a noxious weed that is not known to occur in the Flora region. It is included here to help ensure that any introduction is correctly identified.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Vulpia myuros (L.) C.C. Gmel. </name_authority_date>
+  </taxon_identification>
+  <common_names>FOXTAIL FESCUE, RATTAIL FESCUE</common_names>
+  <description type="morphology">Culms 10-75(90) cm, solitary or loosely tufted, branched or unbranched distally. Sheaths usually glabrous; ligules 0.3-0.5 mm; blades 2.4-10.5(17) cm long, 0.4-3 mm wide, usually rolled, occasionally flat, usually glabrous. Inflorescences 3-25 cm long, 0.5-1.5(2) cm wide, dense panicles or spikelike racemes, with 1 branch per node, often partially enclosed in the uppermost sheaths at maturity, pulvini absent; branches spreading or appressed to erect. Spikelets 5-12 mm, with 3-7 florets; rachilla internodes 0.75-1(1.9) mm. Glumes glabrous; lower glumes 0.5-2 mm, 1/5- 1/2 the length of the upper glumes; upper glumes 2.5-5.5 mm; lemmas 4.5-7 mm, 5-veined, usually scabrous distally, glabrous except the margins sometimes ciliate, apices entire, awns 5-15(22) mm; paleas 4.7-6.4 mm, minutely bifid; anthers 0.5-1(2) mm. Caryopses 3-5 mm, fusiform, glabrous. 2n = 14 [f. myuros], 42 [f. myuros and f. megalura].</description>
+  <discussion>Vulpia myuros grows in well-drained, sandy soils and disturbed sites. It is native to Europe and North Africa. Vulpia myuros f. megalura (Nutt.) Stace & R. Cotton differs from Vulpia myuros (L.) C.C. Gmel. f. myuros in having ciliate lemma margins. It was once thought to be native to North America, but it occurs throughout the European and North African range of f. myuros, even in undisturbed areas.</discussion>
+</bio:treatment>

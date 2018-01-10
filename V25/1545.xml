@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthium sericeum (R. Br.) A. Camus </name_authority_date>
+  </taxon_identification>
+  <common_names>Dichanthium sericeum (R. Br.) A. Camus </common_names>
+  <description type="morphology">Plants annual or perennial; tufted or cespitose. Culms 50-120 cm; nodes densely pilose, hairs about 2 mm. Sheaths with scattered papillose-based hairs; ligules 1-2 mm; blades 5-25 cm long, 2-5 mm wide. Rames 1-7, 3-7 cm, subdigitate, often glaucous and white-villous, spikelet-bearing to the base, basal spikelet pairs consisting only of glumes; internodes pubescent, hairs immediately below the nodes to 1.5 mm. Sessile bisexual spikelets 2.5-4.5 mm long, 1-1.4 mm wide; lower glumes 5-10-veined, with 0.7-1.5 mm hairs on the basal 1/2 and about 3 mm papillose-based hairs on the distal portion of the keels and in a transverse subapical arch; awns 2-3.5 cm, twice-geniculate. Pedicellate spikelets about 3 mm, usually sterile. 2n = 20.</description>
+  <discussion>Dichanthium sericeum is an Australian species. There are two subspecies: D. sericeum (R. Br.) A. Camus subsp. sericeum is a perennial with sessile spikelets 4-4.5 mm long and to 1-1.4 mm wide, 9-10-veined lower glumes, and rames more than 4 cm long; D. sericeum subsp. humilius (J.M. Black) B.K. Simon is an annual, with sessile spikelets up to 4 mm long and about 1 mm wide, 5-7-veined lower glumes, and rames less than 4 cm long. Dichanthium sericeum subsp. sericeum is established in Texas and Florida.</discussion>
+</bio:treatment>

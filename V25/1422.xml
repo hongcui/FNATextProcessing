@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>24</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Setaria faberi R.A.W. Herrm. </name_authority_date>
+  </taxon_identification>
+  <common_names>CHINESE FOXTAIL, SETAIRE GÉANTE</common_names>
+  <description type="morphology">Plants annual. Culms 50-200 cm. Sheaths glabrous, fringed with white hairs; ligules about 2 mm; blades 15-30 cm long, 10-20 mm wide, usually with soft hairs on the adaxial surface. Panicles 6-20 cm, densely spicate, arching  and  drooping from near the base; rachises densely villous; bristles (1)3(6), about 10 mm. Spikelets 2.5-3 mm. Lower glumes about 1 mm, acute, 3-veined; upper glumes about 2.2 mm, obtuse, 5-veined; lower lemmas about 2.8 mm, obtuse; lower paleas about 2/3 as long as the lower lemmas; upper lemmas pale, finely and distinctly transversely rugose; upper paleas similar to the upper lemmas. 2n = 36.</description>
+  <discussion>Setaria faberi spread rapidly throughout the North American corn belt after being accidentally introduced from China in the 1920s. It has become a major nuisance in corn and bean fields of the midwestern United States.</discussion>
+</bio:treatment>

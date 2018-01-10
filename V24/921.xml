@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>18</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Agrostis hallii Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>HALL'S BENT</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, rhizomes to 50 cm, not stoloniferous. Culms 17-100 cm, erect. Leaves mostly cauline or somewhat basally concentrated; sheaths smooth; ligules 2.3-7 mm, dorsal surfaces scabrous, apices acute, usually lacerate; blades 6-20 cm long, 2-5 mm wide, flat. Panicles 7-22 cm long, 1.5-5.5(7) cm wide, lanceolate to narrowly ovate, more or less open to dense, lowest node with 2-15 branches; branches scabridulous, ascending to more or less appressed, mostly branching at or above midlength, some branching near the base, lower branches 1-5 cm; pedicels 0.5-6 mm. Spikelets lanceolate, yellow-green, often tinged with purple. Glumes equal to subequal, 2.5-4 mm, 1-veined, scabrous to scabridulous on the midvein, at least distally, sometimes also sparsely scabridulous over the back, acute to acuminate; callus hairs (0.8)1-2 mm, abundant, conspicuous; lemmas 2-3 mm, smooth, translucent to opaque, 5-veined, veins prominent at least distally, apices acute, entire or erose, sometimes toothed, teeth to about 0.2 mm, unawned; paleas absent, or to 0.2 mm and thin; anthers 3,1.5-2.3 mm. Caryopses 1.5-2 mm. 2n = 42.</description>
+  <discussion>Agrostis hallii is primarily coastal, growing in open areas of oak and coniferous forests in Oregon and California.</discussion>
+</bio:treatment>

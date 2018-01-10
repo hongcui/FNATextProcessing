@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Uniola paniculata L. </name_authority_date>
+  </taxon_identification>
+  <common_names>SEA OATS</common_names>
+  <description type="morphology">Plants perennial; rhizomatous. Culms to 2.5 m. Sheaths glabrate, mostly glabrous at maturity, with tufts of hairs near the collar; collars ciliate to pubescent; blades to 67 cm long, about 1 cm wide. Panicles 27-67 cm, open; branches drooping or nodding at maturity.  Spikelets 15-30(50) mm long, 6-16 mm wide, ovate-elliptical, with (3)5-34 florets, the lower (3)4-5(8) sterile. Glumes 5-12 mm, acute; lemmas essentially glabrous, (7)9(13)-veined; paleas present only in the functional florets; anthers 4-6 mm. Caryopses 3-5 mm long, 1-1.5 mm wide. 2n = 40. </description>
+  <discussion>Uniola paniculata grows on the beaches and sand dunes of the Atlantic and Gulf coastal plains from Maryland to Veracruz, Mexico, and on the Florida Keys, the Bahama Islands, and Cuba. Seed production is generally poor; the reason is not known.</discussion>
+</bio:treatment>

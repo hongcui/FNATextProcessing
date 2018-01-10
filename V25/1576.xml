@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Andropogon gracilis Spreng. </name_authority_date>
+  </taxon_identification>
+  <common_names>WIRE BLUESTEM</common_names>
+  <description type="morphology">Plants densely cespitose. Culms 20-60 cm, wiry, glabrous. Sheaths smooth; ligules to 1.4 mm; blades to 45 cm long, to 4 mm wide, involute and filiform, or folded. Inflorescence units 3-50+ per culm; peduncles 2-13.2 cm, with 1 rame; rames 2-4 cm, usually long-exserted at maturity; internodes densely pubescent, hairs to 8 mm. Sessile spikelets 4-6 mm; lower glumes scabrous in the distal 1/2; awns 11-20 mm. Pedicellate spikelets reduced to an awned or unawned glume, sterile. 2n = 40.</description>
+  <discussion>Andropogon gracilis grows on oolite in openings and rocky margins of pine woodlands of southern Florida and the West Indies. Although not uncommon, it is frequently overlooked. It has sometimes been placed in Schizachyrium because of its solitary rames.</discussion>
+</bio:treatment>

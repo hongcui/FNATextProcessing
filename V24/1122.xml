@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Alopecurus creticus Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>CRETAN MEADOW FOXTAIL</common_names>
+  <description type="morphology">Plants annual; tufted. Culms 7-21(40) cm, erect. Ligules 1.4-2.3 mm, obtuse; blades 1-8 cm long, 1-3.5 mm wide; upper sheaths usually inflated. Panicles 2-4.3 cm long, 4-5.5 mm wide, dense. Glumes 3-4.5 mm, connate in the lower 1/2 - 4/5, coriaceous, glabrous or pub¬escent over the veins, keels winged, ciliate, apices obtuse, mucronate,  divergent; lemmas 2.5-3.5 mm, connate at the base, glabrous, apices truncate, awns 3-6 mm, geniculate, exceeding the lemmas by 0-4 mm; anthers 1.2-2.5 mm. 2n = unknown.</description>
+  <discussion>Alopecurus creticus is native to marshes and wet places in the southern part of the Balkan Peninsula. It was discovered on ballast dumps in Philadelphia, Pennsylvania in the nineteenth century; it has not persisted in the Flora region.</discussion>
+</bio:treatment>

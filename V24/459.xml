@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Elymus alaskanus (Scribn. & Merr.) Á. Löve   subsp. alaskanus </name_authority_date>
+  </taxon_identification>
+  <common_names>ALASKAN WHEATGRASS</common_names>
+  <description type="morphology">Plants cespitose or shortly rhizomatous. Culms 25-90 cm, sometimes decumbent; nodes often exposed, glabrous or pubescent. Ligules 0.2-0.6 mm; blades 3-7 mm wide. Spikes 3.5-14 cm; internodes scabrous on the edges. Glumes glabrous, scabrous or sparsely hairy, hairs to about 0.2 mm; lemmas glabrous or hairy, sometimes more densely hairy distally, hairs about 0.2 mm, apices unawned or awned, awns to 7 mm, straight. </description>
+  <discussion>Elymus alaskanus subsp. alaskanus grows on river banks and hillsides, primarily north of 50° N latitude.</discussion>
+</bio:treatment>

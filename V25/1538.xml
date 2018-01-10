@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sorghastrum nutans (L.) Nash </name_authority_date>
+  </taxon_identification>
+  <common_names>INDIANGRASS, FAUX-SORGHO PENCHE</common_names>
+  <description type="morphology">Plants rhizomatous, rhizomes short, stout, scaly. Culms 50-240 cm tall, 1.5-4.5 mm thick, erect; internodes glabrous. Sheaths glabrous or sparsely hispid; ligules 2-6 mm, usually with thick, pointed auricles; blades 10-70 cm long, 1-4 mm wide, usually glabrous. Panicles 20-75 cm, loosely contracted, yellowish to brownish; branches often flexible. Spikelets 5-8.7 mm. Calluses blunt, villous; lower glumes 5-8 mm, pubescent, 7-9-veined; upper glumes 5-8 mm, 5-veined; awns 10-22(30) mm, about 2-3 times longer than the spikelets, once-geniculate; anthers (2)3-5 mm. Caryopses 2-3 mm. Pedicels 3-6 mm, flexible. 2n = 20, 40, 80.</description>
+  <discussion>Sorghastrum nutans grows in a wide range of habitats, from prairies to woodlands, savannahs, and scrubland vegetation. It is native from Canada to Mexico and was one of the four principal grasses of the tallgrass prairie that occupied the central United States prior to agricultural development of the region. It is frequently used for forage, for erosion control on slopes and along highways, and in restoration work. It is an attractive plant and can be used to advantage in flower arrangements. It grows readily from seed if adequate moisture is available. There are several cultivars on the market.</discussion>
+</bio:treatment>

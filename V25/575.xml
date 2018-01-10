@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>25</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>tribe</rank>
+    <name_authority_date>PANICEAE R. Br.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; habit various. Culms 3-800 cm, annual, usually not woody. Leaves basal and/or cauline; sheaths usually open; ligules of hairs or membranous, membranous ligules often ciliate, cilia sometimes longer than the membranous base; blades occasionally pseudopetiolate, seldom disarticulating at maturity. Inflorescences terminal, sometimes also axillary, occasionally subterranean panicles; branches sometimes spikelike and secund, some¬times less than 1 cm; disarticulation usually below the glumes, sometimes at the base of the panicle branches, occasionally below the florets. Spikelets usually dorsally compressed, varying to terete or laterally compressed, with 2(3) florets, lower florets staminate, sterile, or reduced, upper florets usually bisexual; calluses not developed. Glumes usually membranous; lower glumes usually less than 1/2 as long as the spikelets, sometimes absent; upper glumes usually subequal to the upper florets, occasionally absent; lower lemmas similar to the upper glumes in length and texture; upper lemmas indurate, coriaceous, or cartilaginous, with a germination flap at the base, margins usually widely separated and involute at maturity, some¬times flat and hyaline; upper paleas similar to the upper lemmas in length and texture; lodicules short; anthers usually 3; stigmas usually red. Caryopses usually dorsally compressed or terete; embryos 1/2 or more the length of the caryopses. x = 9, 10.</description>
+  <discussion>The tribe Paniceae, which includes about 100 genera and 2000 species, is primarily tropical in distribution. Within the Flora region, it is represented by 27 genera and 262 species, with its greatest representation being in the eastern portion of the contiguous United States (Barkworth and Capels 2000).
+The tribe is so morphologically distinct that it was first recognized, in essentially its current sense, by Robert Brown in 1814. Its primary distinguishing features are the unusual spikelet structure combined with the indurate to coriaceous upper florets. Recent molecular studies (Barber et al. 2002; Guissani et al. 2001) show it as comprising two distinct lineages, one of which contains species with a base number of x = 9 and the other, species with x = 10.
+Photosynthesis in the Paniceae may follow the C3 pathway or any of three different C4 pathways. Most genera are uniform in this regard, but there are some noteworthy exceptions. Guissani et al. (2001) concluded that the C3 pathway is probably ancestral within the tribe and that two of the three C4 pathways, NAD-ME and PCK, originated only once within the tribe, whereas the NADP-ME pathway originated independently in several different lineages. Most genera are uniform with respect to their photosyntheticd pathway, but there are some noteworthy exceptions.
+The germination flap is a small area of soft tissue at the base of the upper lemma through which the primary root of the seedling grows.
+</discussion>
+  <references>Barber, J.C., S.A. Aliscioni, L.M. Giussani, J.D. Noll, M.R. Duvall, and E.A. Kellogg. 2002. Combined analyses of three independent datasets to investigate phytogeny of Poaceae subfamily Panicoideae. Combined analyses of three independent datasets to investigate phytogeny of Poaceae subfamily Panicoideae. [Abstract.] http:. .'www.botany2002.org/; Barkworth, M.E. and K.M. Capels. 2000. The Poaceae in North America: A geographic perspective. Pp. 327-346 in S.W.L. Jacobs and J. Everett (eds.). Grasses: Systematics and Evolution. International Symposium on Grass Systematics and Evolution (3rd:1998). CSIRO Publishing, Collingwood, Victoria, Australia. 408 pp.; Brown, R. 1814. General remarks, geographical and systematical, on the botany of Terra Australis. Pp. 533-613 in M. Flinders (ed.). A Voyage to Terra Australis, vol. 2. G. and W. Nicol, London, England. 613 pp.; Doust, A.N. and E.A. Kellogg. 2002. Inflorescence diversification in the panicoid "Bristle Grass" clade (Paniceae, Poaceae): Evidence from molecular phytogenies and developmental morphology. Amer. J. Bot. 89:1203-1222; Giussani, L.M., J.H. Cota-Sanchez, F.O. Zuloaga, and E.A. Kellogg. 2001. A molecular phytogeny of the grass subfamily Panicoideae (Poaceae) shows multiple origins of C4 photosynthesis. Amer. J. Bot. 88:1993-2001; Gomez-Martinez, R. and A. Culham. 2000. Phytogeny of the subfamily Panicoideae with emphasis on the tribe Paniceae: Evidence from the trnh-V cpDNA region. Pp. 136-140 in S.W.L. Jacobs and J. Everett (eds.). Grasses: Systematics and Evolution. International Symposium on Grass Systematics and Evolution (3rd:1998). CSIRO Publishing, Collingwood, Victoria, Australia. 408 pp.</references>
+  <key>
+    <key_body>
+1. Plants  developing  both subterranean  and  aerial  inflorescences,  only the  subterranean spikelets setting seed .....25.04 Amphicarpum
+1. Plants developing only aboveground inflorescences, the spikelets setting seed [Amphicarpum is also keyed out here to accommodate situations in which looking for subterranean inflorescences is not permitted or specimens have no underground parts]. 
+2. Inflorescences spikelike panicles, with the branches partially embedded in the flattened rachises; plants perennial, stoloniferous .....25.22 Stenotaphrum
+2. Inflorescences panicles, sometimes spikelike, but the branches not embedded in the rachises or the rachises not flattened; plants annual or perennial, sometimes stoloniferous.
+3. Most spikelets or groups of 2-11 spikelets subtended by 1-many, distinct to more or less connate, stiff bristles or bracts.
+4. Spikelets in groups of 2-11, subtended by 4 flat, narrowly elliptic, coriaceous bracts; terete bristles not present .....25.17 Anthephora
+4. Spikelets solitary or in groups, subtended by 1-many stiff, terete bristles, sometimes appearing as an extension of the branch; flat, connate bristles sometimes present distal to the terete bristles.
+5. Bristles falling with the spikelets at maturity; disarticulation at the base of the reduced panicle branches (fascicles). 
+6. Bristles plumose or antrorsely scabrous, free or fused no more than 1/2 their length .....25.15 Pennisetum
+6. Bristles glabrous, smooth, retrorsely scabrous, or strigose, usually at least some bristles fused for more than 1/2  their length .....25.16 Cenchrus
+ 
+5. Bristles persistent; disarticulation below the spikelets.
+7. Upper glumes indurate at maturity; lower lemmas somewhat indurate at the base; pedicels subtended by a single bristle .....25.19 Setariopsis
+7. Upper glumes membranous to herbaceous at maturity; lower lemmas neither constricted nor indurate at the base; pedicels subtended by 1-many bristles. 
+8. Spikelets subtended by 1-many bristles; paleas of the lower florets usually hyaline to membranous at maturity, rarely absent or reduced; paleal veins not keeled .....25.20 Setaria
+8. Spikelets subtended by 1 bristle; paleas of the lower florets coriaceous to indurate at maturity, the keels thickened .....25.18 Ixophorus
+3. All or most spikelets not subtended by stiff bristles, sometimes the terminal spikelet on each branch subtended by a single bristle, and occasionally other spikelets with a single subtending bristle. 
+9. Terminal spikelet on each branch subtended by a single bristle; other spikelets occasionally with a single stiff subtending bristle  .....25.20 Setaria
+9. None of the spikelets subtended by a stiff bristle.
+10. Inflorescences of spikelike branches 1-3.7 cm long, the branch axes extending as a 2.5-4 mm bristle beyond the base of the distal spikelets .....25.21 Paspalidium
+10. Inflorescences various but, if of spikelike branches, these terminating in a well-developed or rudimentary spikelet.
+11. Lower glumes or lower lemmas awned, sometimes shortly so (the awn reduced to a point in Echinochloa colona).
+12. Upper florets laterally compressed; spikelets also laterally compressed   .....25.12 Melinis
+12. Upper florets dorsally compressed; spikelets usually dorsally compressed or terete, sometimes laterally compressed.
+13. Blades linear to linear-lanceolate, usually more than 10 times longer than wide, with prominent midribs; at least the upper leaves, often all leaves, without ligules; ligules usually absent, particularly from the upper leaves, of hairs when present .....25.07 Echinochloa
+13. Blades triangular to lanceolate, less than 10 times longer than wide, the midribs not particularly prominent, at least distally; ligules present, of hairs or membranous.
+14. Lower glumes awned, the awns exceeding the florets; upper glumes not ciliate-margined; culms trailing on the ground, frequently rooting and branching at the nodes .....25.06 Oplismenus
+14. Lower glumes unawned or shortly awned, the awns exceeded by the florets; upper glumes ciliate-margined; culms erect or decumbent below, sometimes rooting and branching at the lower nodes .....25.03 Alloteropsis
+11. Lower glumes and lower lemmas unawned.
+15. Upper florets laterally compressed    .....25.12 Melinis
+15. Upper florets dorsally compressed or terete.
+16. Upper lemmas and paleas cartilaginous and flexible at maturity; lemma margins flat, hyaline; lower glumes absent or to 1/4 the length of the spikelets.
+17. Aerial inflorescences with elongate rachises and glabrous spikelets; spikelets of the aerial panicles rarely setting seed;
+subterranean spikelets developed, seed-forming   .....25.04 Amphicarpum
+17. Aerial inflorescences of digitate or subdigitate clusters of spikelike branches with glabrous or pubescent spikelets or with elongate rachises and conspicuously pubescent spikelets; aerial spikelets seed-forming; subterranean spikelets not developed. 
+18. Spikelets ellipsoid to obovoid; inflorescences simple panicles with erect to ascending branches on elongate rachises; branches ascending, not conspicuously spikelike ..... 25.02 Anthenantia
+ 
+18. Spikelets lanceoloid to ellipsoid; inflorescences usually panicles with digitate or subdigitate clusters of spikelike branches, sometimes simple panicles with strongly divergent branches .....25.01 Digitaria
+16. Upper lemmas and paleas chartaceous to indurate and rigid at maturity; lemma margins not hyaline, frequently involute; lower glumes varying from absent to subequal to the spikelets or extending beyond the distal floret.
+19. Spikelets subtended by a cuplike callus.....25.14 Eriochloa
+19. Spikelets not subtended by a cuplike callus.
+20. At least the upper leaves, often all leaves, without ligules; ligules, when present, of hairs .....25.07 Echinochloa
+20. All leaves with ligules, ligules membranous or of hairs. 
+21. Paleas of the lower florets inflated and indurate at maturity; lower and upper florets standing apart from each other when mature .....25.24 Steinchisma
+21. Paleas of the lower florets neither inflated nor indurate at maturity; lower and upper florets closely appressed to each other when mature, [revert to left side] 
+22. Inflorescences of 1-sided, spikelike primary branches.
+23. Spikelets with the lower lemmas and lower glumes (if present) adjacent to the branch axes.
+24. Lower glumes absent.....25.25 Axonopus
+24. Lower glumes present on all or most spikelets.
+25. Upper lemmas rugose and verrucose; panicle branches in 2 or more ranks, sometimes verticillate ......13 Urochloa
+25. Upper lemmas smooth; panicle branches in 1 rank   .....25.11 Brachiaria
+23. Spikelets with the upper lemmas and upper glumes (if present) adjacent or appressed to the branch axes. 
+26. Both glumes absent from all or almost all spikelets, the terminal spikelet on a branch sometimes with upper glumes .....25.27 Reimarochloa
+26. Upper or both glumes present on all spikelets.
+27. Upper lemmas smooth to slightly rugose; lower glumes usually absent   .....25.26 Paspalum
+27. Upper lemmas rugose and verrucose; lower glumes present, from 1/5 as long as the spikelets to equaling them .....25.13 Urochloa
+22. Inflorescences usually panicles with well-developed secondary branches, sometimes spikelike panicles or panicles with spikelike, but not 1-sided, branches. 
+28. Inflorescences dense, the spikelets concealing at least the distal 1/2 of the rachises. 
+29. Upper glumes slightly to strongly saccate, 5-13-veined; panicle branches often fused to the rachises; blades 1.5-22 mm wide; culm internodes hollow .....25.08 Sacciolepis
+29. Upper glumes not saccate, 3-7-veined; panicle branches not fused to the rachises; blades 12-28 mm wide; culm internodes filled with aerenchyma .....25.23 Hymenachne
+28. Inflorescences more or less open panicles, the spikelets not concealing the rachises.
+30. Lower glumes with saccate bases; glumes and lemmas with woolly pubescent apices; culms weakly lignified, rooting at the nodes .....25.05 Lasiacis
+30. Lower glumes not saccate basally; glumes and lemmas glabrous or with short, straight hairs, apices sometimes with a tuft of hairs but never woolly pubescent; culms usually not lignified, if lignified, not rooting at the nodes. 
+31. Lemmas of the upper florets rugose and verrucose; panicle branches usually spikelike and 1-sided, alternate or subopposite, less frequently verticillate .....25.13 Urochloa
+31. Lemmas of the upper florets usually smooth, if rugose the panicle branches neither verticillate nor 1-sided and spikelike.
+ 
+32. Plants developing aerial and subterranean panicles; aerial spikelets lanceoloid, often  without  lower  glumes;   upper  lemmas  with  flat margins ..... 25.04 Amphicarpum
+32. Plants developing aerial, but not subterranean, panicles; spikelets ovoid to ellipsoid or lanceoloid; lower glumes present; upper lemmas with involute margins.
+33. Blades of the basal leaves clearly distinct from the cauline leaves; basal leaves ovate to lanceolate, cauline leaves with longer and narrower blades; basal leaves forming a distinct winter rosette .....25.09 Dichanthelium
+33. Blades of the basal and cauline leaves similar, usually linear to lanceolate, varying from filiform to ovate; basal leaves not forming a distinct winter rosette.
+34. Panicles terminating the culms usually appearing in late spring; branches usually developing from the lower and middle cauline nodes in summer, the branches rebranching 1 or more times by fall; upper florets not disarticulating at maturity, plump .....25.09 Dichanthelium
+34. Panicles terminating the culms usually appearing after midsummer; branches usually not developing branches from the lower and middle cauline nodes, when present, rarely rebranched; upper florets disarticulating or not very plump at maturity   .....25.10 Panicum
+
+    </key_body>
+  </key>
+</bio:treatment>

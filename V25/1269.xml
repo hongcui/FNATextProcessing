@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subgenus</rank>
+    <name_authority_date>Panicum subg. Agrostoidea (Nash) Zuloaga</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; usually cespitose, often from scaly rhizomes. Culms often compressed. Sheaths often keeled; ligules membranous, papery, often erose, usually ciliate; blades with vascular bundles surrounded by a single Kranz sheath with centrifugal chloroplasts and separated by 2-3 isodiametric mesophyll cells; chloroplasts without well-developed grana. Photosynthesis of the C4 NADP-me type. Panicles contracted to lax, usually with many spikelets; secondary branches usually present; pedicels short. Spikelets ovoid to ellipsoid, glabrous. Lower glumes varying in length, 0-3-veined (rarely 7-veined); upper glumes and lower lemmas usually 3-5-veined (rarely 7-11-veined); lower florets usually sterile, occasionally staminate; lower paleas absent, small, or large, not thickened; upper florets variable, x = 9 or 10.</description>
+  <discussion>Panicum subg. Agrostoidea is found primarily in warm temperate to tropical regions of the New World, extending from the southern United States through South America. One section is native to India. Species of subg. Agrostoidea usually grow in open but mesic places, such as the edges of streams, rivers, ponds, and wet meadows.</discussion>
+</bio:treatment>

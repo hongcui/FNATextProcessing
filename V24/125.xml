@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Melica porteri Scribn. var. porteri</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Panicles narrow; branches straight, appressed. Glumes green or pale.</description>
+  <discussion>Melica porteri var. porteri grows from northern Colorado to Arizona and central Texas, and south to the Sierra Madre Occidental, Mexico.</discussion>
+</bio:treatment>

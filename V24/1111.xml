@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Alopecurus pratensis L. </name_authority_date>
+  </taxon_identification>
+  <common_names>MEADOW FOXTAIL, VULPIN DES PRES</common_names>
+  <description type="morphology">Plants perennial; shortly rhizomatous. Culms 30-110 cm, erect. Ligules 1.5-3 mm, obtuse to truncate; blades 6-40 cm long, 1.9-8 mm wide; upper sheaths not or scarcely inflated. Panicles 3.5-9 cm long, 6-10 mm wide. Glumes 4-6 mm, connate in the lower 1/5-1/4, membranous, sides pubescent, keels not winged, finely ciliate, apices acute, parallel or convergent; lemmas 4-6 mm, connate in the lower 1/3, usually glabrous, keels sometimes ciliate distally, apices acute, awns 5-10.5 mm, geniculate, exceeding the lemmas by (1)2.2-5.5 mm; anthers 2-4 mm, yellowish, orange, reddish, or purplish, sometimes varying within a population. Caryopses 1-1.2 mm. 2n = 28, 42.</description>
+  <discussion>Alopecurus pratensis is native from temperate northern Eurasia south to North Africa. It is now widely naturalized in temperate regions throughout the world. It grows in poorly to somewhat drained soils in meadows, riverbanks, lakesides, ditches, roadsides, and fence rows. It has been widely introduced as a pasture grass; it may also have become established from ballast or imported hay. The earliest collections are from coastal New England; it is now established throughout much of the Flora region.</discussion>
+</bio:treatment>

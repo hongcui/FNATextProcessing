@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Dichanthelium oligosanthes (Schult.) Gould subsp. oligosanthes</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 40-75 cm; internodes usually puberulent and also pubescent to pilose or appressed-hispid. Cauline sheaths usually puberulent and also pubescent to pilose or appressed-hispid; ligules 2-3 mm; blades usually 4-9 mm wide, more than 10 times longer than wide, stiff, spreading, usually densely appressed-pubescent abaxially, often involute towards the long-acuminate apices. Primary panicles with a few stiff branches; pedicels mostly 5-15 mm. Spikelets usually 3.4-4.2 mm long, 1.7-2 mm wide, ellipsoid to oblong-obovoid, usually sparsely pubescent. Upper glumes often with a faint orange spot at the base.</description>
+  <discussion>Dichanthelium oligosanthes subsp. oligosanthes grows in dry, open, sandy, oak or pine woodlands. Its range extends from southern Ontario and New Hampshire to the Texas Gulf coast. It has not yet been reported from Mexico.</discussion>
+</bio:treatment>

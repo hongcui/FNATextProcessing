@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum distichum L. </name_authority_date>
+  </taxon_identification>
+  <common_names>KNOTGRASS, THOMPSONGRASS</common_names>
+  <description type="morphology">Plants perennial; rhizomatous or cespitose. Culms 5-65 cm, erect; nodes glabrous. Sheaths glabrous, sparsely long pubescent distally; ligules 1-2 mm; blades to 14 cm long, 1.8-11.5 mm wide, flat or conduplicate, glabrous or pubescent, apices involute. Panicles terminal, usually composed of a digitate pair of branches, a third branch sometimes present below; branches 1.4-7 cm, diverging, often arcuate; branch axes 1.2-2.2 mm wide, winged, glabrous, margins scabrous, terminating in a spikelet. Spikelets 2.4-3.2 mm long, 1.1-1.6 mm wide, solitary (rarely paired), appressed to the branch axes, broadly elliptic, stramineous, sometimes partially purple. Lower glumes absent or, if present, to 1 mm and triangular; upper glumes sparsely and shortly pubescent on the back, 3-veined; lower lemmas glabrous, 3-veined; upper florets stramineous. Caryopses 1.9-2.1 mm, yellow. 2n = 20, 30, 40, 48, 60, 61.</description>
+  <discussion>Paspalum distichum grows on the edges of lakes, ponds, rice fields, and wet roadside ditches. It is native in warm regions throughout the world, being most abundant in humid areas. In the Western Hemisphere, it grows from the United States to Argentina and Chile.</discussion>
+</bio:treatment>

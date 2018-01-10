@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sacciolepis indica (L.) Chase </name_authority_date>
+  </taxon_identification>
+  <common_names>CHASE'S GLENWOODGRASS</common_names>
+  <description type="morphology">Plants annual; cespitose. Culms 5-100 cm, decumbent, spreading, trailing, often rooting at the lower nodes; nodes glabrous. Sheaths and collars glabrous; ligules 0.1-0.7 mm long, membranous, truncate; blades 1-14.3 cm long, 1.5-5.5 mm wide, glabrous, not cordate at the base. Panicles 0.5-9(13) cm long, 4-7 mm wide, contracted; primary branches fused to the rachises for at least 3/4 of their length; lower branches 0.1-0.5 cm; pedicels 0.3-1.8 mm. Spikelets 2.1-3.3 mm, with or without papillose-based hairs on the upper glumes and lower lemmas, green to dark purple. Lower glumes 1.1-1.9 mm, glabrous, 3-5(7)-veined, margins hyaline; upper glumes 2-3.3 mm, slightly saccate, glabrous adaxially, 9-veined; lower florets sterile (rarely staminate); lower lemmas 1.9-3.1 mm, 7-9-veined, veins equidistant; lower paleas 0.5-1 mm long, 0.1-0.2 mm wide, 1/2 or less as long as the lower lemmas, narrow, membranous, white, not veined; upper lemmas 1.3-1.6 mm, subcoriaceous, glabrous, shiny, white, with 3-5 obscure veins, acute; anthers 3, 0.5-0.8 mm, dark reddish-brown to reddish-purple; styles purple. Caryopses 1-1.3 mm long, 0.5-0.7 mm wide, glabrous. 2n = 18, 36.</description>
+  <discussion>Sacciolepis indica is native to the Eastern Hemisphere tropics. It is now established in the coastal states of the southeastern United States, where it grows in and along streams, ponds, lakes, ditches, and other moist places. It flowers from late summer to fall.
+</discussion>
+</bio:treatment>

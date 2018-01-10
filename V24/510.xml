@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Leymus mollis subsp. villosissimus (Scribn.) Á. Löve </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Rhizomes about 2 mm thick. Culms 12-70 cm. Basal blades 10-31 cm long, 3-8 mm wide. Spikes 5-13(16) cm, with 3-14 nodes. Glumes 9-14(21) mm long, 1.5-2.5 mm wide, often longer than the lemmas, villous. 2n = 28.</description>
+  <discussion>Leymus mollis subsp. villosissimus is an arctic taxon found primarily in eastern Siberia, Alaska, and northwestern Canada. It grows mostly on arctic coasts, but is also known from a few inland locations.</discussion>
+</bio:treatment>

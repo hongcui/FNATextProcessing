@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Triticum durum Desf. </name_authority_date>
+  </taxon_identification>
+  <common_names>DURUM WHEAT, MACARONI WHEAT, HARD WHEAT, BLÉ DUR</common_names>
+  <description type="morphology">Culms 60-160 cm; nodes glabrous; internodes mostly hollow, solid for 1 cm below the spikes. Blades 7-16 mm wide, usually glabrous. Spikes 4-11 cm, about as wide as thick, never branched; rachises ciliate to partially ciliate at the nodes and margins, not disarticulating; internodes 3-6 mm. Spikelets 10-15 mm, with 5-7 florets, 2-4 seed-forming. Glumes 8-12 mm, coriaceous, loosely appressed to the lower florets, with 1 prominent keel, terminating in a tooth, tooth to 0.3 cm; lemmas 10-12 mm, lower 2 lemmas awned, awns to 23 cm; paleas not splitting at maturity. Endosperm usually flinty, sometimes mealy. Haplomes AuB. 2n = 28.</description>
+  <discussion>Triticum durum is a domesticated spring wheat that is grown in temperate climates throughout the world. In the Flora region, it is grown in the Canadian prairies and northern Great Plains as a spring wheat, and in the southwestern United States and Mexico as a winter wheat. Triticum durum is typically used for macaroni-type pastas, semolina, and bulghur. Durum imparts a yellowish color to bread, and is the traditional wheat for flat breads and pita. Cultivars grown in the Flora region represent a minor sampling of the overall diversity in the species.
+The commercial cultivar Kamut® is durum wheat. Grown in the Flora region and worldwide, it encompasses a variable collection of forms. Kamut® has also been identified as Triticum turanicum Jakubz. (a durum-like wheat from Iran) or T. polonicum, although its presumed Egyptian origin and spike morphology do not agree with the original concept of these species.
+</discussion>
+</bio:treatment>

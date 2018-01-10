@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum vaginatum Sw. </name_authority_date>
+  </taxon_identification>
+  <common_names>SEASHORE PASPALUM</common_names>
+  <description type="morphology">Plants perennial; rhizomatous and/or stoloniferous. Culms 10-79 cm, erect; nodes glabrous. Sheaths glabrous, sparsely long pubescent distally; ligules 1-2 mm; blades 10-19 cm long, 1.4-8 mm wide, flat or conduplicate, glabrous or pubescent, apices involute. Panicles terminal, usually composed of a digitate pair of branches, a third branch sometimes present below; branches 1.1-7.9 cm, diverging to erect; branch axes 0.4-1.4 mm wide, winged, glabrous, margins scabrous, terminating in a spikelet. Spikelets 3-4.5 mm long, 1.1-2 mm wide, solitary, appressed to the branch axes, elliptic-lanceolate, glabrous, light stramineous, apices acute to acuminate. Lower glumes absent (rarely present); upper glumes and lower lemmas glabrous, 3-veined; upper florets white. Caryopses 2.8-3.1 mm, yellow. 2n = 20, 40, 60.</description>
+  <discussion>Paspalum vaginatum grows in brackish and salt marshes. It is native to warm, coastal regions around the world, including the Americas. It has been grown for turf and in lawn trials, but is not yet widely used for these purposes.</discussion>
+</bio:treatment>

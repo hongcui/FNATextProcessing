@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa glauca subsp. rupicola (Nash) W.A. Weber </name_authority_date>
+  </taxon_identification>
+  <common_names>TlMBERLINE BLUEGRASS</common_names>
+  <description type="morphology">Culms to 5-15 cm. Panicles 1-5 cm, usually narrowly lanceoloid. Spikelets not bulbiferous; florets normal. Calluses glabrous; lemmas at least sparsely puberulent on the intercostal regions. 2n = 48, 48-50, 56, 56-58, ca. 100.</description>
+  <discussion>Poa glauca subsp. rupicola is endemic to dry alpine areas of western North America. It is often confused in herbaria with subsp. glauca and P. interior (p. 576), but its calluses lack even a vestige of a web, and its lemmas have at least a few hairs between the lemma veins. It is often sympatric with both taxa outside of California. It is not common in the northern Rocky Mountains.</discussion>
+</bio:treatment>

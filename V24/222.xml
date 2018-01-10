@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Hesperostipa spartea (Trin.) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>PORCUPINEGRASS</common_names>
+  <description type="morphology">Culms 45-90 (145) cm; lower nodes usually crossed by lines of pubescence, occasionally glabrous. Lower sheaths usually with ciliate margins; ligules of lower leaves 0.3-3 mm, stiff, truncate to rounded, usually entire; ligules of upper leaves 3-7.5 mm, thin, acute, often lacerate; blades 1.5-4.5 mm wide. Panicles 10-25 cm. Glumes 22-45 mm, subequal; florets 15-25 mm; calluses 3.5-6 mm; lemmas unevenly pubescent, densely pubescent on the margins and in lines on the lower portion of the lemmas, glabrous distally, hairs brown at maturity; awns 90-190 mm, terminal segment straight, scabridulous. 2n = 44, 46.</description>
+  <discussion>Hesperostipa spartea grows at elevations of 200-2600 m, primarily in the grasslands of the central plains and southern prairies of the Flora region. In its more northern locations, it tends to grow on sandy soils. The southern and western specimens from outside its primary range may represent introductions. It was once a common species, but its habitat is now intensively cultivated. It differs from H. curtiseta in its larger size, unevenly pubescent culm nodes, usually ciliate lower sheaths, and longer florets. Misra (1961) argued that its longer florets and awns enabled H. spartea to survive in drier sites than H. curtiseta. Native Americans used bundles of the florets for combs.</discussion>
+</bio:treatment>

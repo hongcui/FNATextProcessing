@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Elymus glaucus Buckley subsp. glaucus </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Sheaths glabrous, scabrous or pubescent; blades 4-17 mm wide, adaxial surfaces glabrous or strigose, occasionally pilose to hirsute with hairs of fairly uniform length. Glume awns (0.5)1-5(9) mm; lemma awns (5)10-25(35) mm.</description>
+  <discussion>Elymus glaucus subsp. glaucus grows throughout the range of the species, from sea level to 2500 m. It is absent from the area where E. glaucus subsp. mackenziei grows. It resembles E. hirsutus (see next), differing in its erect spikes and in the pattern of its lemma pubescence. It also resembles the introduced E. dahuricus (p. 310), from which it differs in its palea shape.</discussion>
+</bio:treatment>

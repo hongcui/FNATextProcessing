@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Schedonorus arundinaceus (Schreb.) Dumort.</name_authority_date>
+  </taxon_identification>
+  <common_names>TALL FESCUE, FÉTUQUE ÉLEVÉE</common_names>
+  <description type="morphology">Plants perennial, sometimes rhizomatous. Culms to 1.5(2) m. Leaves convolute in young shoots; auricles ciliate, having at least 1 or 2 hairs along the margins; ligules 1(2) mm; blades 11-30 cm long, 4-12 mm wide. Panicles 10-35 cm; branches at the lowest node  
+usually 2, shorter branch with (1)2-9(13) spikelets, longer branch with (3)4-13(19) spikelets. Spikelets 8-15.5 mm long, 2-3.5 mm wide, with 3-6(9) florets. Lower glumes 3-6 mm; upper glumes 4.5-7(9) mm; lemmas (4)5-9(11.5) mm, usually scabrous or hispidulous, at least distally, rarely smooth, awns absent or to 4 mm, terminal or attached up to 0.4 mm below the apices; paleas slightly shorter than to slightly longer than the lemmas; anthers 2.5-4 mm. Caryopses 2-4 mm long, 0.9-1.6 mm wide. 2n = 28, 42, 56, 63, 70.
+</description>
+  <discussion>Schedonorus arundinaceus is a Eurasian species that has been introduced to the Flora region. It is grown for forage, soil stabilization, and coarse turf. It is now cultivated in all but the coldest and most arid parts of North America, and often escapes. It is frequently infected with the endophytic fungi Neotyphodium coenophialum, which confers insect and drought resistance to the plant, among other benefits; it also produces ergot alkaloids that are toxic to livestock. Varieties with endophyte strains that do not produce toxic ergot alkaloids have been developed (Nihsen et al. 2004).
+ 
+</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>46</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa stebbinsii Soreng </name_authority_date>
+  </taxon_identification>
+  <common_names>STEBBINS' BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; densely tufted, not stoloniferous, not rhizomatous. Basal branching strictly extravaginal. Culms 10-30(40) cm, mostly erect, with 0-1 slightly exposed nodes. Sheaths closed for 1/5 – 2/5 their length, terete, smooth and glabrous, bases of basal sheaths glabrous, distal sheath lengths 1.4-3.6 times blade lengths; collars smooth, glabrous; ligules of cauline leaves 3-8 mm, colorless,  transparent, smooth, margins decurrent, apices obtuse to acuminate, ligules of the innovation leaves 2.5-6 mm; innovation blades similar to the cauline blades, 1-2 mm wide, involute, moderately thick, abaxial surfaces smooth, adaxial surfaces smooth or sparsely scabrous, sometimes sparsely hispidulous; cauline blades gradually reduced in length distally, 1-2 mm wide, folded or involute, moderately thick, soft, abaxial surfaces smooth, apices narrowly prow-shaped. Panicles 3-7 cm, erect or slightly nodding, narrowly lanceoloid to narrowly ovoid, often interrupted, contracted to loosely contracted, with 9-38(60) spikelets; nodes with 1-2 branches; branches 0.5-1.5(2.5) cm, erect at maturity, slender, terete to sulcate or weakly angled, sparsely to moderately scabrous, with 1-5 spikelets. Spikelets 4-6.5 mm, lengths to 3.5 times widths, lanceolate, laterally compressed, not sexually dimorphic, usually strongly anthocyanic, less so in pistillate plants; florets 2-4; rachilla internodes smooth, glabrous or sparsely hispidulous. Glumes unequal, lanceolate, thin, lustrous, distinctly keeled, keels and distal surface smooth or sparsely finely scabrous; lower glumes 3-veined, distinctly shorter than the lowest lemmas; calluses glabrous; lemmas 3.5-5.5 mm, lanceolate, distinctly keeled, thinly membranous, smooth or sparsely scabrous, glabrous, lateral veins moderately prominent, margins glabrous, apices acute; palea keels finely scabrous; anthers vestigial (0.1-0.2 mm) or 2-4.5 mm. 2n = 42, 81 (both counts of uncertain application).</description>
+  <discussion>Poa stebbinsii is endemic to the high Sierra Nevada. It grows primarily in the outer margins of subalpine wet meadows, and is gynodioecious. It is easily recognized by its long hyaline ligules, thin glabrous lemmas, and the absence of intravaginal shoots. It was confused with P. bansenii Scribn. [= P. cusickii subsp. cusickii] by Keck in Munz (1959), and with P. leibergii by Hitchcock (1951).</discussion>
+</bio:treatment>

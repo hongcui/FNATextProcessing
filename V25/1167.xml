@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Dichanthelium acuminatum subsp. thermale (Bol.) Freckmann & Lelong </name_authority_date>
+  </taxon_identification>
+  <common_names>GEYSER PANICGRASS</common_names>
+  <description type="morphology">Plants often densely cespitose, densely and softly pubescent throughout, with soft, thin, spreading, papillose-based hairs on the culms and lower sheaths. Culms usually over 30 cm. Midculm sheaths about 1/2 as long as the internodes; blades at midculm generally 6.5-12 cm long, usually more than 7 times as long as wide, suberect, softly pubescent on the abaxial surface, without papillose-based cilia on the distal 1/2. Primary panicles usually poorly exserted, peduncles shorter than 6 cm. Spikelets mostly 1.8-2 mm.</description>
+  <discussion>Dichanthelium acuminatum subsp. thermale grows on the mineralized crust of warm, moist soil at the Geysers, Sonoma County, California; it is listed as endangered in that state.</discussion>
+</bio:treatment>

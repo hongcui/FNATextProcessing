@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>xAgropogon lutosus (Poir.) P. Fourn. </name_authority_date>
+  </taxon_identification>
+  <common_names>PERENNIAL BEARDGRASS</common_names>
+  <description type="morphology">Culms 8-60 cm. Sheaths sometimes inflated; ligules 3-7 mm; blades 3-20 cm long, 2-11 mm wide, usually glabrous, sometimes scabrous. Panicles 2-18 cm long, 0.6-7 cm wide, lanceolate to narrowly ovate, green or purplish; pedicels scabrous. Spikelets 2-3 mm. Glumes subequal, membranous, scabrous, acute, awns to about 2 mm, apical; calluses glabrous; lemmas 1-1.7 mm, awns to 3 mm, subterminal; paleas about 3/4 as long as the lemmas; anthers about 1 mm. Caryopses not produced. 2n = 28.</description>
+  <discussion>xAgropogon lutosus is a sterile hybrid between Agrostis stolonifera and Polypogon monspeliensis that sometimes grows in locations where both parents occur, such as damp to wet, often alkaline soils on lakesides, marshes, ditches, and intermittently flooded fields. Some plants favor A. stolonifera, others P. monspeliensis. All differ from Polypogon in having more persistent spikelets, less blunt short-awned glumes, and lemmas with subterminal rather than terminal awns; and from Agrostis in having awned glumes and awned lemmas.
+ 
+</discussion>
+</bio:treatment>

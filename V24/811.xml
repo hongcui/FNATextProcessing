@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>58</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa compressa L. </name_authority_date>
+  </taxon_identification>
+  <common_names>CANADA BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; usually with solitary shoots, sometimes loosely tufted, extensively rhizomatous. Culms 15-60 cm, wiry, bases usually geniculate, strongly compressed; nodes strongly compressed, some proximal nodes usually ex-serted. Sheaths closed for 1/10 – 1/5 their length, distinctly compressed, bases of basal sheaths glabrous; ligules 1-3 mm, moderately to densely scabrous, ciliolate, apices obtuse; blades 1.5-4 mm wide, flat, cauline blades subequal. Panicles 2-10 cm, generally 1/6 - 1/3 as wide as long, erect, linear, lanceoloid to ovoid, often interrupted, sparse to congested, with 15-80 spikelets and mostly with 1-3 branches per node; branches 0.5-3 cm, erect to ascending, or infrequently spreading, angles densely scabrous, at least in part, with 1-15 spikelets. Spikelets  
+(2.3)3.5-7 mm, laterally compressed; florets 3-7; rachilla internodes usually shorter than 1 mm, smooth to muriculate. Glumes distinctly keeled; lower glumes 3-veined; calluses usually webbed, sometimes glabrous; lemmas 2.3-3.5 mm, lanceolate, distinctly keeled, keels and marginal veins short-villous, intercostal regions glabrous, lateral veins obscure, margins glabrous, apices acute; paleas scabrous over the keels; anthers 1.3-1.8 mm. 2n = 35, 42, 49, 50, 56, 84.
+</description>
+  <discussion>Poa compressa is common in much of the Flora region. It is sometimes considered to be native, but this seems doubtful. It is rare and thought to be introduced in Siberia and only local in the Russian Far East, but is common in Europe. In the Flora region, it is often seeded for soil stabilization, and has frequently escaped. It grows mainly in riparian areas, wet meadows, and disturbed ground. Its distinctly compressed nodes and culms, exserted lower culm nodes, rhizomatous growth habit, and scabrous panicle branches make it easily identifiable.</discussion>
+</bio:treatment>

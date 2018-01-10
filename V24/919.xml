@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>16</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Agrostis densiflora Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>CALIFORNIA BENT</common_names>
+  <description type="morphology">Plants perennial; not rhizomatous or stoloniferous. Culms 9-85 cm, erect, sometimes decumbent at the base, sometimes rooting at the lower nodes, usually with 4-7 nodes. Leaves basal and cauline; sheaths smooth or scabrous; ligules 1-4.8(7.5) mm, dorsal surfaces scabrous, apices truncate to obtuse, erose-lacerate, sometimes ciliolate; blades 2-12 cm long, 2-10 mm wide, upper blades broader than those below, flat. Panicles 2-10 cm long, 0.5-2 cm wide, narrow and spikelike to dense, lobed-lanceolate, bases exserted or enclosed by the upper sheaths at maturity; branches to 1.5 cm, scabrous, appressed, branching at the base and mostly hidden by the spikelets; pedicels about 0.4-3 mm. Spikelets lanceolate to narrowly ovate, yellowish, sometimes tinged with purple, or greenish purple. Glumes generally equal, 2-3.3 mm, 1-veined, densely scabrous, aculeolate on the veins, narrowly acute to acuminate or somewhat mucronate, mucros to about 0.5 mm; callus hairs to 0.3 mm, usually dense; lemmas 1.5-2.1 mm, smooth or scabridulous, translucent, (3)5-veined, veins prominent to obscure, sometimes prominent only distally, apices acute to obtuse, veins usually extended as teeth up to 0.3 mm, unawned or awned from above midlength, awns to 3.5 mm, straight, readily deciduous; paleas 0.3-0.7 mm, thin; anthers 3, 0.5-2 mm. Caryopses 1-1.5 mm; endosperm solid. 2n = 42.</description>
+  <discussion>Agrostis densiflora is endemic to coastal Oregon and California. It grows in sandy soils, on cliffs, and in scrublands. It appears to be related to A. exarata (see previous), and hybridizes with A. blasdalei (p. 656).</discussion>
+</bio:treatment>

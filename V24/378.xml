@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aegilops crassa Boiss. </name_authority_date>
+  </taxon_identification>
+  <common_names>PERSIAN GOATGRASS</common_names>
+  <description type="morphology">Culms 30-50 cm, erect, slightly geniculate, with few to many tillers. Sheaths ciliate near the throat; blades 8-25 cm long, 3-4 mm wide. Spikes (4.5) 6-10(13) cm long, 0.5-0.7 cm wide, moniliform, with (4)6-12 fertile spikelets; rudimentary spikelets usually absent, occasionally 1-2; disarticulation in the rachises, the spikelets falling attached to the internodes above. Spikelets 7-14 mm long, 4-7 mm wide, ovate, pubescent, with 4-7 florets, the distal 2 florets sterile. Glumes 7-10 mm, coriaceous, appressed-velutinous, 2-3-toothed; lemmas of lower spikelets  8-10 mm, toothed, usually awned; lemmas of apical spikelets awned, awns 3-8.5 cm, usually diverging. Caryopses about 7 mm, adhering to the lemmas and paleas. Haplomes DM, DDM. 2n = 28, 42.</description>
+  <discussion>The single record of Aegilops crassa for North America is a specimen collected "from about the Yonkers Wood Mill [in Yonkers, New York]" in 1898. The species is native from Egypt to central Asia.</discussion>
+</bio:treatment>

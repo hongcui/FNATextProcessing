@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>32</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca baffinensis Polunin </name_authority_date>
+  </taxon_identification>
+  <common_names>BAFFIN ISLAND FESCUE</common_names>
+  <description type="morphology">Plants densely cespitose, without rhizomes. Culms 5-25(30) cm, densely pubescent or shortly pilose near the inflorescence. Sheaths closed for about 1/2 their length, glabrous, persistent or slowly shredding into fibers; collars glabrous; ligules 0.1-0.3 mm; blades (0.4)0.6-1(1.2) mm in diameter, conduplicate, abaxial surfaces smooth or sparsely scabrous, adaxial surfaces scabrous or puberulent, veins (3)5-7, ribs 3-5; abaxial sclerenchyma in 3-7 small strands, usually less than twice as wide as high; adaxial sclerenchyma absent. Flag leaf sheaths usually somewhat loosely enclosing the culms; flag leaf blades 0.5-4 cm. Inflorescences 1.5-4(5) cm, contracted, usually panicles, rarely racemes, usually somewhat secund, with 1-2 branches per node; branches erect, lower branches with 2+ spikelets. Spikelets (4.5)5-7.5(8.5) mm, with (2)3-5(6) florets. Glumes exceeded by the upper florets, ovate-lanceolate, scabrous distally; lower glumes 2.2-3.7(4) mm; upper glumes 3-5 mm; lemmas (3.5)4-6 mm, scabridulous near the apices, awns 0.8-2.6(3.3) mm, terminal; paleas slightly shorter than to as long as the lemmas, intercostal region scabrous distally; anthers 0.3-0.7 (1.1) mm; ovary apices usually with a few hairs, rarely glabrous. 2n = 28.</description>
+  <discussion>Festuca baffinensis grows chiefly in damp, exposed, gravelly areas in calcareous and volcanic regions. It is circumpolar in distribution, growing in arctic and alpine habitats and extending southward in the Rocky Mountains to Colorado. It has frequently been included in F. ovina (p. 422). It may hybridize with F. brachyphylla (p. 428) and/or other species to form F. viviparoidea (p. 436).</discussion>
+</bio:treatment>

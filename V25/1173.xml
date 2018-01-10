@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>16</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthelium wrightianum (Scribn.) Freckmann </name_authority_date>
+  </taxon_identification>
+  <common_names>WRIGHT'S PANICGRASS</common_names>
+  <description type="morphology">Plants cespitose, with few culms per clump. Basal rosettes well-differentiated; blades ovate to lanceolate. Culms 15-50 cm tall (rarely taller), 0.3-0.8 mm thick, delicate, erect or ascending; nodes slightly swollen, often purplish or darker green than the internodes; internodes usually puberulent; fall phase branching profusely from the lower and midculm nodes, secondary branches and secondary panicles numerous, usually not greatly reduced. Cauline leaves 4-7; sheaths mostly puberulent or glabrous, margins finely ciliate; ligules 1.5-3 mm, of hairs; blades 2-4.5 cm long, 2-5 mm wide, ascending or spreading, occasionally involute, finely appressed-pilose adaxially, puberulent abaxially, bases rounded, margins finely whitish-scabridulous. Primary panicles 2.5-5.5 cm, 1/3 – 2/3 as wide as long, well-exserted; rachises and branches glabrous or sparsely puberulent (at least basally); ultimate branchlets and pedicels glabrous, somewhat viscid. Spikelets 0.8-1.1 mm, ellipsoid to nearly ovoid, often purplish, puberulent or subglabrous, obtuse or subacute. Lower glumes 1/4 - 1/3 as long as the spikelets, subacute; upper glumes shorter than the lower lemmas; lower florets sterile; upper florets 0.7-0.9 mm, ellipsoid, subacute. 2n = 18.</description>
+  <discussion>Dichanthelium wrightianum grows in moist, sandy or peaty areas, low pine savannahs, bogs, the margins of ponds, and cypress swamps, in the coastal plain from Massachusetts to Texas and Florida, extending to Cuba, Mexico, Central America, and northern South America. Occasional specimens of Dichanthelium wrightianum, particularly those with subglabrous spikelets, closely resemble D. chamaelonche. Others suggest D. ensifolium, and a few unusually robust specimens closely approach D. acuminatum subsp. longiligulatum. All of these taxa often grow together in the same habitats.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date> Dinebra retroflexa (Vahl) Panz. </name_authority_date>
+  </taxon_identification>
+  <common_names>VIPER GRASS</common_names>
+  <description type="morphology">Plants loosely tufted. Culms 13-120 cm, decumbent, strag-gling, often rooting at the lower nodes. Leaves sometimes glandular, particularly on the sheaths; blades 4.5-28 cm long, 4-8 mm wide, finely pointed. Panicles 8-34 cm; branches 0.6-5(7) cm, stiff, initially ascending, reflexed at maturity; disarticulation at the base of the branches. Spikelets 5.7-9 mm, with 1-3 florets. Glumes 5.7-9 mm, asymmetric, coriaceous, keels glandular, apices caudate-curving; lemmas 2.1-2.9 mm, narrowly ovate, appressed pubescent on the lateral veins and adjacent to the lower 1/2 of the central vein; paleas appressed pubescent on the flaps adjacent to the keels. 2n = 20.</description>
+  <discussion>Dinebra retroflexa is native from southern Africa through tropical Africa to Egypt, Iraq, Pakistan, and India. It has reportedly been found on chrome ore piles in Canton, Maryland, a temporary unloading ground for ores in the Port of Baltimore (Reed 1964), and in Mecklenberg County, North Carolina. It is a common weed of rich soils in moist, tropical regions.</discussion>
+</bio:treatment>

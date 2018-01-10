@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Spartina gracilis Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>ALKALI CORDGRASS</common_names>
+  <description type="morphology">Plants strongly rhizomatous; rhizomes elongate, 1.5-5 mm thick, whitish, scales not inflated, closely imbricate. Culms 40-100 cm tall, 2-3.5 mm thick, usually solitary, erect, terete, indurate, glabrous. Sheaths smooth or striate, mostly or completely glabrous, throats occasionally ciliate; ligules 0.5-1 mm; blades 6-30 cm long, 2.5-8 mm wide, flat, becoming involute, abaxial surfaces glabrous, adaxial surfaces scabrous, margins scabrous. Panicles 8-25 cm, not smooth in outline, with 3-12 branches; branches 1.5-8 cm, alternate, differing only slightly in length and spacing within a panicle, usually appressed, rarely spreading, with 10-30 spikelets. Spikelets 6-11 mm, ovate to lanceolate. Glumes with glabrous or sparingly hispidulous margins, apices acute or mucronate; lower glumes 3-7 mm, sides narrow, glabrous or sparsely pubescent, keels glabrous or strigose; upper glumes 6-10 mm, usually equaling the florets, keels strigose, hairs 0.2-0.5 mm, lateral veins 2, inconspicuous, both on the same side of the keel; lemmas glabrous or sparsely hirsute, keels hirsute, at least distally, hairs 0.3-1 mm, margins sparsely hairy, apices obtuse to rounded, sometimes obscurely lobed; paleas sparsely hispid distally, obtuse to slightly rounded; anthers 2.5-5 mm, well-filled, dehiscent at maturity. 2n = 42.</description>
+  <discussion>Spartina gracilis is found on the margins of alkaline lakes and along stream margins and river bottoms. Its range extends from the southern portion of the Northwest Territories, Canada, to central Mexico.</discussion>
+</bio:treatment>

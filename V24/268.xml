@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Bromus sect. Bromopsis</name_authority_date>
+  </taxon_identification>
+  <description type="morphology"></description>
+  <key>
+    <key_body>
+1. Plants rhizomatous.
+2. Culms 30-90 cm long, forming distinct clumps; rhizomes short.....9. B. riparius
+2. Culms 50-135 cm long, single or few together; rhizomes short to long-creeping.
+3. Lemma backs sparsely to densely hairy throughout, or on the lower portion and margins, or  along the marginal veins and keel; cauline nodes and leaf blades pubescent or glabrous; awns usually present, to 7.5 mm long, sometimes absent .....10. B. pumpellianus (in part)
+3. Lemma backs usually glabrous, occasionally sparsely puberulent at the base and sometimes  on the margins; cauline nodes and leaf blades usually glabrous, rarely hairy; awns absent or to 3 mm long .....8. B. inermis
+1. Plants not rhizomatous.
+4. Anthers (3.5)4-6(6.8) mm long; awns 2.5-7.5 mm long; plants of the Yukon River drainage of Alaska .....10. B. pumpellianus (in part)
+4. Anthers 1-7 mm long; awns 1-12 mm long; plants of various locations in the Flora region, if in the Yukon River drainage of Alaska, anthers 1-1.4 mm long.
+5. Culms with 9-20 nodes; collars and throats densely pilose; auricles 1-2.5 mm long on most lower leaves .....11. B. latiglumis
+5. Culms with (1)2-9 nodes; collars and throats pubescent or glabrous; auricles, if present, of various lengths.
+6. Most lower glumes within a panicle 3-veined, sometimes some 1-veined.
+7. Most upper glumes within a panicle 5-veined, sometimes some 3-veined.
+8. Awns 1.5-3 mm long; anthers 1.5-2.5 mm long; ligules 0.5-1 mm long.....13. B. kalmii
+8. Awns 3-7 mm long; anthers 3-6 mm long; ligules to 4.2 mm long.
+9. Glumes glabrous; ligules glabrous.....12. B. laevipes
+9. Glumes usually pubescent, rarely glabrous; ligules usually pubescent or pilose, sometimes glabrous.
+10. Margins of the glumes and lemmas often bronze-tinged; ligules to 1.5 mm long; auricles usually present on the lower leaves, rarely absent..... 14. B. pseudolaevipes
+10. Margins of the glumes and lemmas not bronze-tinged; ligules 1-3 mm long; auricles sometimes present .....17. B. grandis (in part)
+ 
+7. Most upper glumes within a panicle 3-veined, sometimes some 5-veined. 
+11. Culms 70-180 cm tall; awns 3-8 mm long; anthers 3-6 mm long.
+12. Lower leaf sheaths pilose, hairs 2-4 mm long; blades glabrous or with pilose margins .....16. B. orcuttianus (in part)
+12. Lower leaf sheaths densely pubescent, hairs to 1 mm long; blades densely pubescent.
+13. Blades 7.5-16.5 cm long; culm nodes 1-2(3)  .....15. B. hallii (in part)
+13. Blades (13)18-38 cm long; culm nodes 3-7  .....17. B. grandis (in part)
+11. Culms 30-100 cm tall; awns 1—4 mm long; anthers (1)1.5-4 mm long.
+14. Leaf blades often glaucous; glumes usually glabrous, rarely slightly pubescent .....18. B. frondosus
+14. Leaf blades not glaucous; glumes usually pubescent, rarely glabrous. 
+15. Midrib of the culm leaves abruptly narrowed just below the collar; auricles frequently present on the lower leaves; plants of western Texas  .....19. B. anomalus (in part)
+15. Midrib of the culm leaves not abruptly narrowed just below the collar; auricles absent; plants of western North America, including Texas .....20. B. porteri (in part)
+6. Most lower glumes within a panicle 1-veined, sometimes some 3-veined.
+16. Upper glumes within a panicle consistently 5-veined; collars with a dense line of hairs; lower sheaths often sericeous; ligules 0.4-1 mm long  .....21. B. nottowayanus
+16. All or most upper glumes within a panicle 3-veined, sometimes some with 2 additional faint lateral veins; collars glabrous or hairy, hairs evenly distributed over the surface, not in a dense line; lower sheaths glabrous or hairy, not sericeous; ligules to 6 mm long.
+17. Plants annual; lemmas glabrous; ligules pubescent.....22. B. texensis
+17. Plants perennial; lemmas usually pubescent on the backs and/or margins, sometimes glabrous; ligules usually glabrous, sometimes pubescent or pilose.
+18. Awns (4)6-12 mm long; ligules 2-6 mm long.....23. B. vulgaris
+18. Awns 1-8 mm long; ligules to 4 mm long.
+19. Blades densely pubescent on both surfaces, 7.5-16.5 cm long; anthers 3-6 mm long; awns 3.5-7 mm long  .....15. B. hallii (in part)
+19. Blades glabrous or hairy on 1 or both surfaces, (3)5-60 cm long, if 7.5-16.5 cm long and densely pubescent on both surfaces, then anthers 1-4 mm long and/or awns 1-4 mm long. 
+20. Panicle branches appressed to slightly spreading; culm nodes 1-4.
+21. Awns 2-5 mm long; anthers 2-3.5 mm long; blades flat .....26. B. suksdorfii 
+21. Awns (4)5-8 mm long; anthers 3-6.5 mm long; blades sometimes involute. 
+22. Culms 90-150 cm tall; ligules 1-3 mm long .  16. B. orcuttianus (in part)
+22. Culms 50-100 cm tall; ligules to 1.5 mm long.....25. B. erectus
+20. Panicle branches ascending to drooping; culm nodes (1)2-8.
+23. Midrib of the culm leaves abruptly narrowed just below the collar; auricles frequently present on the lower leaves; plants of western Texas  .....19. B. anomalus (in part)
+23. Midrib of the culm leaves not abruptly narrowed just below the collar; auricles sometimes present; plants of various distribution, including Texas. 24. Glumes usually pubescent, rarely glabrous.
+25. Upper glume mucronate.....27. B. mucroglumis
+25. Upper glume not mucronate.
+26. Awns (1)2-3(3.5) mm long; blades 2-6 mm wide .....20. B. porteri (in part)
+ 
+26. Awns 3-7(8) mm long; blades 3-19 mm wide. 
+27. Anthers 3-6 mm long; ligules densely pubescent to pilose .....17. B. grandis (in part)
+27. Anthers 2-4(5) mm long; ligules glabrous.
+28. Ligules 2-4 mm long.....24. B. pacificus
+28. Ligules 0.5-2 mm long  .....28. B. pubescens
+24. Glumes usually glabrous, sometimes pubescent.
+29. Ligules 2-3.5 mm long; auricles present .....30. B. ramosus
+29. Ligules   0.4-2   mm   long;   auricles   sometimes present.
+30. Lemma margins and backs usually pubescent, sometimes  nearly glabrous;  awns  2-4  mm long; anthers 1.8-4 mm long  .....29. B. lanatipes
+30. Lemma margins conspicuously hirsute or densely pilose, at least along the lower 1/2, the backs glabrous at least on the lower lemmas in a spikelet; awns 3-5 mm long; anthers 1-2.7 mm long.
+31. Backs of all lemmas glabrous; anthers 1-1.4 mm long; upper glumes 7.1-8.5 mm long .....31. B. ciliatus
+31. Backs of the upper lemmas in a spikelet hairy; anthers 1.6-2.7 mm long; upper glumes 8.9-11.3 mm long.....32. B. richardsonii
+
+    </key_body>
+  </key>
+</bio:treatment>

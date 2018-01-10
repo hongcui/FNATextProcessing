@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sphenopholis pensylvanica (L.) Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>SWAMP OATS</common_names>
+  <description type="morphology">Culms 30-120 cm, glabrous. Sheaths glabrous or pubescent; ligules 0.2-1 mm; blades 4-10(20) cm long, (1)2-8 mm wide, flat to slightly involute, smooth or scabridulous, sometimes pubescent. Panicles 7-35 cm long, 2-10 cm wide, erect to nodding, with relatively few, loosely arranged spikelets. Spikelets 4.5-9.5 mm. Lower glumes about 1/2 as wide as the upper glumes; upper glumes 3.6-6.2 mm, elliptical to oblanceolate, width/length ratio 0.15-0.28, apices acuminate to acute; lowest lemmas 3.5-6 mm, mostly smooth, apices scabridulous, unawned or awned, awns to 2.5 mm; distal lemmas scabrous, awned, awns 3-9 mm, slightly to evidently bent; anthers 0.5-1.8 mm. 2n = 14.</description>
+  <discussion>Sphenopholis pensylvanica grows in springheads, seepage areas, swamps, marshes, and other moist to wet places, at 0-1100 m, in the eastern and southeastern United States. It hybridizes with S. obtusata (see below). The hybrids, which are called Sphenopholis xpallens (Biehler) Scribn., differ from S. pensylvanica in having generally shorter (3-5 mm) spikelets and shorter (0.1-4 mm), straight or bent awns on the distal lemmas. They differ from S. obtusata in having awns on the distal lemmas.</discussion>
+</bio:treatment>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>17</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>tribe</rank>
+    <name_authority_date>CYNODONTEAE Dumort.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial. Culms 1-500 cm, not woody, usually not branched above the base. Sheaths usually open, often with coarse hairs at the top; auricles rarely present; ligules of hairs or membranous, if membranous, often ciliate, cilia sometimes longer than the membranous base; blades often with stiff, coarse marginal hairs adjacent to the ligules, glabrous or variously pubescent elsewhere. Inflorescences terminal, sometimes also axillary, simple panicles, panicles of 1-many spikelike branches, spikelike racemes, spikes, or, in 1 genus, a solitary spikelet, in dioecious taxa the staminate and pistillate inflorescences sometimes morphologically distinct; disarticulation usually beneath the fertile florets or the glumes but, particularly if the panicle branches are short, sometimes at the base of the branches. Spikelets usually laterally compressed, with 1-60 florets, sterile or reduced florets, if present, usually distal to the bisexual florets. Glumes from shorter than the adjacent florets to exceeding the distal florets; lemmas 1-3-veined or 7-13-veined, rarely 5-veined, if with 7-13 veins, the veins often in 3 groups; lodicules 2, or absent, x = 7, 8, 9, 10, 12.</description>
+  <discussion>Most members of the Cynodonteae in the Flora region can be recognized by their possession of two or more of the following characteristics: 1-3- or 7-13-veined lemmas, laterally com¬pressed spikelets, spikelike inflorescence branches, and the presence of coarse hairs near the junction of the sheath and blade. All employ the NAD-ME or PCK C4 photosynthetic pathways, have Kranz blade anatomy, and tend to grow in hot, dry areas. Having said this, it must be acknowledged that each of these characteristics can be found in other tribes and, within the Cynodonteae, there are genera that lack one or more of them.
+The tribe Cynodonteae, as interpreted here, includes genera that are normally placed in two tribes, the Cynodonteae sensu stricto, and the Eragrostideae Stapf (Clayton and Renvoize 1986; Peterson et al. 2001; Grass Phylogeny Working Group 2001, but see Campbell 1985). Genera 17.01 to 17.34 correspond to the Eragrostideae and genera 17.35 to 17.53 to their Cynodonteae. The two are treated as one here because recent morphological, anatomical, and molecular studies (Van den Borre 1994; Van den Borre and Watson 1997; Hilu and Alice 2001) indicate that the distinction between the two is artificial. There is, however, no agreement on an alternative treatment as is indicated by Peterson et al. (2001) who listed 23 of the 53 genera treated here as being of uncertain position within the subfamily Chloridoideae. Part of the prob¬lem is that several of the genera (e.g., Eragrostis, Chloris, Muhlenbergia, and Sporobolus) are polythetic (Van den Borre and Watson 1997; Hilu and Alice 2001).
+</discussion>
+  <references>Campbell, C.S. 1985. The subfamilies and tribes of Gramineae (Poaceae) in the southeastern United States. J. Arnold Arbor. 66:123-199; Clark, L.G., W. Zhang, and J.F. Wendel. 1995. A phylogeny of the grass family (Poaceae) based on ndhY sequence data. Syst. Bot. 20:436-160; Clayton, W.D. and S.A. Renvoize. 1986. Genera Graminum: Grasses of the World. Kew Bull., Addit. Ser. 13. Her Majesty's Stationery Office, London, England. 389 pp.; Columbus, J.T., M.S. Kinney, R. Pant and M.E. Siqueiros Delgado. 1998. Cladistic parsimonv analysis of internal transcribed spacer region (nrDNA) sequences of Bouteloua and relatives (Gramineae: Chloridoideae). Aliso 17:99-130; Grass Phylogeny Working Group. 2001. Phylogeny and subfamilial classification of the grasses (Poaceae). Ann. Missouri Bot. Gard. 88:373-457; Hilu, K.W. and L.A. Alice. 2001. A phylogeny of the Chloridoideae (Poaceae) based on matK sequences. Syst. Bot. 26:386-405; Peterson, P.M., R.J. Soreng, G. Davidse, T.S. Filgueras, F.O. Zuloaga, and E. Judziewicz. 2001. Catalogue of New World Grasses (Poaceae): II. Subfamily Chloridoideae. Contr. U.S. Natl. Herb. 41:1-255; Peterson, P.M., R.D. Webster, and J. Valdes-Reyna. 1995. Subtribal classification of the New World Eragrostideae (Poaceae: Chloridoideae). Sida 16:529-544; Van den Borre, A.. 1994. A taxonomy of the Chloridoideae (Poaceae), with spe¬cial reference to the genus Eragrostis. Ph.D. dissertation, Australian National University, Canberra, New South Wales, Australia. 313 pp.; Van den Borre, A. and L. Watson. 1997. On the classification of the Chloridoideae (Poaceae). Austral. Syst. Bot. 10:491-531.</references>
+  <key>
+    <key_body>
+1. Inflorescences clearly exceeded by the upper leaves, often completely or almost completely enclosed in the upper leaf sheaths; culms 1-30(75) cm tall.
+2. Lemmas 3-lobed, the lobes ciliate; spikelets with 4 florets   .....17.17 Blepharidachne
+2. Lemmas not 3-lobed or the lobes not ciliate; spikelets with 1-60 florets. 
+3. Spikelets (and often the plants) unisexual.
+4. Leaves strongly distichous; lemmas 9-11-veined; plants unisexual, growing in saline and alkaline soils.
+5. Pistillate and staminate inflorescences consisting of a single spikelet.....17.07 Monanthochloë
+5. Pistillate and staminate inflorescences consisting of more than 1 spikelet.....17.04 Distichlis
+4. Leaves not strongly distichous; lemmas 1-5-veined; plants unisexual or, if bisexual, with separate pistillate and staminate inflorescences, growing in a variety of soils.
+6. Spikelets 5-26 mm long; pistillate and staminate inflorescences similar, simple panicles; glumes and lemmas unawned, mucronate, or 1-awned .....17.23 Eragrostis
+ 
+6. Spikelets 2.5-7 mm long; pistillate and staminate inflorescences strongly dimorphic; staminate inflorescences with pectinate, spikelike branches; pistillate spikelets with conspicuously 3-awned glumes or distal florets.
+7. Upper glumes of the pistillate spikelets white, rigid, globose structures termin¬ating in 3 awnlike teeth; pistillate spikelets with 1 floret, without rudimentary florets, the floret unawned or shortly 3-awned; staminate spikelets 4-6 mm long; anthers 2.5-3 mm long, brownish, red, or orange; widespread species of the central plains .....17.48 Buchloë
+7. Upper glumes of the pistillate spikelets membranous, unawned; pistillate spikelets with one 3-awned floret and a distal 3-awned rudiment; staminate spikelets 3-4 mm long; anthers 2-2.5 mm long, pale; known, within the Flora region, only from Florida .....17.47 Opizia
+3. Spikelets bisexual, usually at least the lowest floret in each spikelet bisexual, in Dasyochloa the third floret in each spikelet bisexual or pistillate, if pistillate, the lowest 2 florets staminate. 
+8. Lemma margins with a tuft of hairs at midlength, glabrous elsewhere; blades with white, thickened margins and sharply pointed .....17.18 Munroa
+8. Lemma margins glabrous,  or with hairs but the hairs not forming a tuft at midlength; blades without white cartilaginous margins, not sharply pointed. 
+9. Lemmas awned, the awns 1-11 mm long.
+10. Plants stoloniferous; inflorescences 1-2.5 cm long, dense panicles; lemmas bilobed, the lobes about 1/2 as long as the lemmas; ligules of hairs  .....17.15 Dasyochloa
+10. Plants not stoloniferous; inflorescences 1.5-76 cm long, not dense; lemmas entire or minutely bilobed; ligules membranous, sometimes ciliate  .....17.19 Leptochloa
+9. Lemmas unawned, sometimes mucronate, with mucros less than 1 mm long.
+11. Spikelets  with  2-20  florets;  inflorescences  panicles  of 2-120   spikelike branches .....17.19 Leptochloa
+11. Spikelets with 1(3) florets; inflorescences simple panicles, often highly contracted, without spikelike branches. 
+12. Inflorescences 0.3-7.5 cm long, dense, spikelike or capitate panicles 1-8 times longer than wide; glumes strongly keeled; plants annual .....17.31 Crypsis
+12. Inflorescences 1-60 cm long, sometimes dense and spikelike but, if less than 8 cm long, more than 8 times longer than wide; glumes rounded or weakly keeled; plants annual or perennial .....17.30 Sporobolus
+1. Inflorescences usually equaling or exceeding the upper leaves; culms 1-500 cm tall. 
+13. Inflorescences with disarticulating branches, disarticulation at the base of the branches or (in Lycurus) the fused pedicels; branches 0.04-7 cm long, often globose or spikelike (fused to the rachis and not evident in Lycurus), usually with fewer than 15 spikelets per branch. 
+14. Upper glumes with straight or uncinate spinelike projections; spikelets crowded, the branches condensed into burs .....17.52 Tragus
+14. Upper glumes without spinelike projections; spikelets sometimes crowded, but not forming bur like clusters.
+15. Branches not fused to the rachises; spikelets more than 3 per branch, usually all alike, sometimes the proximal spikelet sterile or replaced with short secondary branches. 
+16. Both glumes much longer than the florets, usually exceeding the distal florets; plants annual .....17.22 Dinebra
+16. Lower glumes shorter than or subequal to the lower florets, 1 or both glumes usually exceeded by the distal florets; plants usually perennial. 
+17. Spikelets with 1-2(3) florets; branches disarticulating promptly, before the spikelets disarticulate .....17.46 Bouteloua
+17. Spikelets with 2-8 florets; branches disarticulating tardily, initially the spikelets disarticulating above the glumes .....17.25 Pogonarthria
+ 
+15. Branches sometimes fused to the rachises; spikelets 1-3 per branch, usually some spikelets on each branch sterile or staminate and 1 pistillate or bisexual.
+18. Axes of the branches extending beyond the base of the distal florets   .....17.46 Bouteloua
+18. Axes of the branches terminating at the base of the distal spikelet.
+19. Spikelets in pairs; glumes awned, the lower glumes (l)2(3)-awned, the upper glumes 1-awned; panicle branches often fused to the rachises   .....17.34 Lycurus
+19. Spikelets in triplets; glumes unawned, 1-awned, or 3-awned; panicle branches sometimes appressed, but not fused, to the rachises.
+20. Branches straight at the base; central spikelets sessile.....17.51 Hilaria
+20. Branches sharply curved at the base; central spikelets sessile or pedicellate. 21. Central spikelets with 1 bisexual floret; lateral spikelets with 1 floret, varying to rudimentary .....17.50 Aegopogon
+21. Central spikelets with 3-4 florets, the lowest floret pistillate, bisexual, or staminate, the distal florets staminate or sterile; lateral spikelets usually with 2 florets .....17.49 Cathestecum
+13. Inflorescences without disarticulating branches; branches, if present, often more than 4.5 cm long, variously shaped, including spikelike but not globose, often with more than 16 spikelets per branch. 
+22. Inflorescences spikes or racemes.
+23. Spikelets with 1 bisexual or staminate floret and no additional florets.
+24. Rachises falcate or curved; both glumes exceeding the florets.....17.43 Microchloa
+24. Rachises straight; lower glumes exceeded by the florets, sometimes absent. 
+25. Spikelets solitary at each node; disarticulation below the glumes or the spikelets not disarticulating .....17.53 Zoysia
+25. Spikelets paired, terminal on branches that are fused to the rachises;
+disarticulation at the base of the fused pedicel pairs  .....17.34 Lycurus
+23. Spikelets with more than 1 floret but sometimes only 1 floret bisexual, the additional florets sterile or staminate.
+26. All spikelets unisexual, the functional florets either staminate or pistillate; plants either unisexual or with both pistillate and staminate spikelets.
+27. Lemmas 9-11-veined; plants of saline habitats.....17.04 Distichlis
+27. Lemmas 3-veined; plants of various habitats.
+28. Lemmas of the pistillate florets with awns  3.4-6.8 mm long; branches of staminate inflorescences pectinate; staminate spikelets with 1 floret .....17.47 Opizia
+28. Lemmas of the pistillate florets with awns 30-150 mm long; branches of staminate inflorescences not pectinate; staminate spikelets with 5-20 florets ..... 17.13 Scleropogon
+26. Some or all spikelets bisexual, the florets bisexual or unisexual, but both staminate and pistillate florets present within an individual spikelet. 
+29. Lemmas of the pistillate or bisexual florets with awns 30-150 mm long; bisexual florets rarely found  .....17.13 Scleropogon
+29. Lemmas of the bisexual florets unawned or with awns less than 10 mm long; pistillate florets not present. 
+30. Inflorescences 5-15 cm long, apparently a pectinate spike, actually a solitary, pectinate, spikelike branch  .....17.42 Ctenium
+30. Inflorescences 1.5-10 cm long, spikes, spikelike racemes, or panicles, linear or densely cylindrical to ovoid. 
+31. Inflorescences linear, (1.5)4-10 cm long; rachises not concealed by the spikelets .....17.20 Tripogon
+31. Inflorescences cylindrical to ovoid, 1.5-5 cm long; rachises concealed by the spikelets .....17.01 Fingerhuthia
+22. Inflorescences simple panicles (sometimes highly condensed) or panicles of 1-120 spikelike branches.
+ 
+32. Inflorescences simple panicles, sometimes highly contracted, even spikelike in appearance; spikelike branches not evident [for opposite lead, see p. 19]. 
+33. Spikelets usually with only 1 floret, occasionally with 2-3 florets.
+34. Ligules membranous, hyaline, or coriaceous, sometimes ciliate; lemmas 3-veined (occasionally appearing 5-veined), usually awned, sometimes unawned or mucronate. 
+35. Lemmas and paleas densely sericeous over the veins and margins, glabrous between the veins .....17.16 Blepharoneuron
+35. Lemmas and paleas glabrous to variously hairy but not densely sericeous over the veins and margins. 
+36. Lemmas usually awned or mucronate; spikelets usually with 1 floret ..... 17.33 Muhlenbergia
+36. Lemmas unawned or mucronate; spikelets frequently with 2-3 florets .....17.23 Eragrostis
+34. Ligules of hairs; lemmas l(3)-veined, unawned, sometimes mucronate. 
+37. Panicles 0.3-4(7.5) cm long, 3-15 mm wide, spikelike or capitate, 1-8 times longer than wide; plants annual  .....17.31 Crypsis
+37. Panicles 1-80 cm long, 2-600 mm wide, dense to open, if less than 8 cm long, often 10 or more times longer than wide; plants annual or perennial. 38. Calluses usually glabrous or almost so; paleas glabrous; fruits falling free of the lemma and palea .....17.30 Sporobolus
+38. Calluses evidently hairy, the hairs 1/4 - 7/8 as long as the lemmas; paleas hairy; fruits falling with the lemma and palea   .....17.32 Calamovilfa
+33. Spikelets with more than 1 floret.
+39. Lemmas with (5)9-11 veins (the lateral veins obscure in Allolepis). 
+40. Spikelets unisexual; plants almost always unisexual, occasionally bisexual.
+ 41. Lemmas 9-11-veined; glumes 2-7 veined; plants rhizomatous and/or stoloniferous, found in saline or alkaline soils .....17.04 Distichlis
+41. Lemmas 1-6-veined; lower glumes of the staminate spikelets 1-veined, those of the pistillate spikelets 1-5-veined; plants stoloniferous or rooting at the lower nodes, not rhizomatous, not found in saline or alkaline soils.
+42. Plants perennial, stoloniferous; paleas of the pistillate florets completely surrounding the ovaries, the intercostal region coriaceous .....17.06 Allolepis
+42. Plants annual, rooting at the lower nodes; paleas of the pistillate florets not completely surrounding the ovaries, the intercostal region membranous or hyaline .....17.23 Eragrostis
+40. All spikelets with at least 1 bisexual floret. 
+43. Glumes longer than the adjacent lemmas.
+44. Glumes exceeded by the distal florets; spikelets with 3-7 bisexual florets plus reduced distal florets; lemmas of the bisexual florets 5-7-veined throughout   .....17.03 Swallenia
+44. Glumes exceeding the distal florets; spikelets with 2-4 florets, only the lowest floret bisexual; lemmas of the bisexual florets 3-veined basally, 5-7-veined distally .....17.01 Fingerhuthia
+43. Glumes shorter than the adjacent lemmas.
+45. Spikelets  ovate-elliptical to  ovate-triangular,  15-50 mm long, 6-16 mm wide; lower florets sterile, without paleas  .....17.02 Uniola
+45. Spikelets usually elliptical to lanceolate, 1-26 mm long, 0.6-9 mm wide; lower florets in each spikelet bisexual, with paleas. 46. Calluses glabrous or sparsely pubescent; lemmas (l)3(5)-veined; spikelets 1-26 mm long, 0.6-9 mm wide .....17.23 Eragrostis
+ 
+46. Calluses densely pubescent; lemmas 5-, 7-, or 9-veined; spikelets 10-16 mm long, 2.5-5 mm wide .....17.26 Vaseyochloa
+39. Lemmas with 1-3 veins (occasionally with scabrous lines that may be mistaken for additional veins). 
+47. Florets unisexual.
+48. Staminate and pistillate florets strongly dimorphic; plants unisexual or bisexual, bisexual plants with unisexual or bisexual spikelets; pistillate spikelets with 3-5 functional florets and lemma awns (30)50-150 mm long; staminate spikelets with 5-10(20) florets and unawned or shortly awned (to 3 mm) lemmas .....17.13 Scleropogon
+48. Staminate and pistillate florets similar; plants unisexual; spikelets with 4-60 florets, all or almost all functional; lemmas 1.5-10.5 mm, unawned, sometimes mucronate.
+49. Plants perennial, stoloniferous; paleas of the pistillate florets completely surrounding the ovaries, the intercostal region coriaceous .....17.06 Allolepis
+49. Plants annual, rooting at the lower nodes; paleas of the pistillate florets not completely surrounding the ovaries, the intercostal region membranous or hyaline .....17.23 Eragrostis
+47. At least 1 floret in each spikelet bisexual.
+50. Lemmas, including the calluses, glabrous or inconspicuously hairy; lemma apices usually entire, sometimes minutely toothed. 
+51. Spikelets with (1)2-60 florets; lemmas unawned, sometimes mucronate; ligules usually membranous and ciliate or ciliolate, sometimes of hairs.....17.23 Eragrostis
+51. Spikelets with 1(2-3) florets; lemmas often awned, sometimes
+unawned or mucronate; ligules membranous, sometimes ciliolate, not ciliate .....17.33 Muhlenbergia
+50. Lemma bodies conspicuously hairy over the veins and/or calluses conspicuously hairy; lemma apices usually with emarginate, bilobed, or trilobed apices, sometimes entire.
+52. Leaf margins evidently cartilaginous.....17.14 Erioneuron
+52. Leaf margins not cartilaginous.
+53. Palea keels long hairy distally, the distal hairs 0.5-2 mm long .....17.12 Triplasis
+53. Palea keels glabrous or with hairs less than 0.5 mm long. 
+54. Lemmas unawned, the midveins sometimes excurrent up to 0.5 mm. 
+55. Lemmas rounded to truncate, emarginate to bilobed; all 3 lemma veins often pilose basally ..... 17.10 Tridens
+55. Lemmas acute, entire or with 3 minute teeth, glabrous or shortly pubescent on the distal 2/3,  the pubescence not confined to the veins .....17.11 Redfieldia
+54. Lemmas awned, the awns 1-7 mm long.
+56. Plants 80-500 cm tall; panicles 35-73 cm long, plumose; lemma margins pilose; lemma apices bifid, awned from between the teeth; awns about 3 mm long .....17.08 Neyraudia
+56. Plants to 2-90 cm tall; panicles 6-30 cm long, not plumose; lemma margins sparsely pilose; lemma apices 3-4-lobed or -toothed and 3-awned; central awns 5-7 mm long, lateral awns 6-7 mm long .....17.09 Triraphis
+32. Inflorescences panicles of spikelike branches, the branches digitately or racemosely arranged on the rachises [for opposite lead, see p. 18].
+ 
+57. Inflorescence branches 1 or more, if more than 1, arranged in terminal, digitate clusters, sometimes with additional branches or whorls below the terminal cluster. 58. Inflorescences with 1(2) falcate branches.
+59. Spikelets with 2 well-developed sterile or staminate florets below the bisexual florets; additional sterile or staminate florets present distal to the bisexual floret.....17.42 Ctenium
+59. Spikelets usually with 1, rarely 2, florets, the lowest or only floret bisexual .....17.43 Microchloa
+58. Inflorescences with more than 1 branch or, if only 1, the branch not strongly falcate.
+60. Plants unisexual.
+61. Staminate spikelets 4-6 mm long, with 2 florets; upper glumes of the pistillate spikelets indurate, white .....17.48 Buchloë
+61. Staminate spikelets 3-4 mm long, with 2 florets; upper glumes of the pistillate spikelets membranous .....17.47 Opizia
+60. Plants bisexual, all spikelets with at least 1 bisexual floret.
+62. Spikelets with more than 1 bisexual floret.
+63. Panicle branches 0.4-7 cm long, terminating in a point ..... 17.29 Dactyloctenium 
+63. Panicle branches 1-22 cm long, terminating in a functional or rudimentary spikelet.
+64. Disarticulation eventually below the glumes, initially below the lemmas and caryopses, the paleas persistent; panicle branches terminating in a rudimentary spikelet .....17.28 Acrachne
+64. Disarticulation above the glumes, usually also below the florets; panicle branches terminating in a functional spikelet.
+65. Lemmas 3-awned, the central awns 8-12 mm long    .....17.38 Trichloris 
+65. Lemmas not 3-awned.
+66. Lemmas usually with hairs over the veins, at least basally, the apices often toothed, sometimes mucronate or awned .....17.19 Leptochloa
+66. Lemmas glabrous, the apices entire, neither mucronate nor awned .....17.27 Eleusine
+62. Spikelets usually with only 1 bisexual floret (occasionally 2 in some genera), often with additional staminate, sterile, or modified florets. 
+67. Spikelets usually without sterile or modified florets; lemmas unawned .....17.44 Cynodon
+67. Spikelets with 1 or more sterile florets distal to the bisexual floret; lemmas of the bisexual florets often awned. 
+68. Lowest lemmas in the spikelets 3-awned, the central awns 8-12 mm long, the lateral awns 0.5-12 mm long ..... 17.38 Tricbloris 
+68. Lowest lemmas in the spikelets usually unawned or with a single awn, if 3-awned, the lateral awns less than 0.5 mm long.
+69. Spikelets dorsally compressed   .....17.37 Enteropogon
+69. Spikelets laterally compressed or terete.
+70. Upper glumes truncate or bilobed; lowest lemmas unawned or with an awn to 1.2 mm long .....17.36 Eustachys
+70. Upper glumes acute to acuminate; lowest lemmas usually awned, the awns to 37 mm long ..... 17.35 Chloris 
+57. Inflorescence branches more than 1, racemosely arranged on the rachises. 
+71. All spikelets unisexual.
+ 
+72. Staminate spikelets 4-6 mm long, the anthers 2.5-3 mm long; pistillate spikelets with 1 unawned or shortly awned floret; wide spread species of the central plains .....17.48 Buchloë
+72. Staminate spikelets 3-4 mm long, the anthers 2-2.5 mm long; pistillate lemmas with awns 3.4-6.8 mm long; in the Flora region, known only as an occasional escape from lawns and experimental plots in Florida ..... 17.47 Opizia
+71. All spikelets with at least 1 bisexual floret.
+73. Inflorescence branches woody, terminating in hard, sharp points .....17.24 Cladoraphis
+73. Inflorescence branches not particularly stiff or rigid, terminating in spikelets or points.
+74. Spikelets with more than 1 bisexual floret, sometimes also with reduced florets. 
+75. Lemmas 7-11-veined, mucronate, the mucros 0.1-0.3 mm long; not established in the Flora region  .....17.05 Aeluropus
+75. Lemmas 3-veined, unawned, mucronate, or awned, the awns often much more than 1 mm long; established in the Flora region.
+76. Lower glumes exceeding the lowest lemmas, sometimes exceeding the distal lemmas.....17.21 Trichoneura
+76. Lower glumes not or only slightly exceeding the lowest lemmas. 
+77. Inflorescences with 50 or more closely spaced, arcuate, tardily deciduous branches .....17.25 Pogonarthria
+77. Inflorescences  with 2-120 straight, non-disarticulating branches.
+78. Spikelets with (2)3-12(20) bisexual florets .....17.19 Leptochloa 
+78. Spikelets with 2-4 florets, but only the lowest 1(2) florets bisexual ..... 17.41 Gymnopogon
+74. Spikelets with 1 bisexual floret, sometimes with sterile, rudimentary, or modified florets distal to the bisexual floret. 
+79. Functional spikelets with sterile, rudimentary, or modified florets distal to the bisexual floret. 
+80. Spikelets widely spaced to slightly imbricate, appressed to the branch axes .....17.41 Gymnopogon
+80. Spikelets densely imbricate, varying from appressed to strongly divergent.
+81. Inflorescence branches usually solitary at each node (sometimes only 1 per panicle); spikelets laterally compressed or terete .....17.46 Bouteloua
+81. Inflorescence branches usually more than 1 at the lower nodes; spikelets dorsally compressed .....17.37 Enteropogon
+79. Functional spikelets with only 1 floret, lacking sterile, rudimentary, or modified florets.
+82. Spikelets distant to slightly imbricate, appressed to the branches; branches strongly divergent.
+83. Blades  with  thick,  white  margins  and  a  well-developed midrib.....17.40 Schedonnardus
+83. Blades lacking both thick, white margins and well-
+developed midribs.....17.41 Gymnopogon
+82. Spikelets clearly imbricate, appressed to strongly divergent; branches appressed to strongly divergent.
+84. Spikelets laterally compressed, appressed to divergent .....17.45 Spartina
+84. Spikelets dorsally compressed, appressed   .....17.39 Willkommia
+
+    </key_body>
+  </key>
+</bio:treatment>

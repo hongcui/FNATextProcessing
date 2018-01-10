@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>14</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Pennisetum flaccidum Griseb. </name_authority_date>
+  </taxon_identification>
+  <common_names>HIMALAYAN FOUNTAINGRASS</common_names>
+  <description type="morphology">Plants perennial; rhizomatous. Culms 50-200 cm, erect, branching, smooth or scabrous beneath the panicle; nodes shortly pubescent or glabrous. Leaves green, sometimes glaucous; sheaths glabrous, margins ciliate; ligules 1-1.5 mm; blades 34-44 cm long, 5-10 mm wide, flat, glabrous or pubescent, margins ciliate or glabrous basally. Panicles all terminal, 8-17 cm long, 12-28 mm wide, erect, white; rachises scabrous below, sometimes puberulent above. Fascicles 6-15 per cm; fascicle axes 0.6-3.1 mm, with 1-6 spikelets; outer bristles 20-60, 0.8-12.3 mm; inner bristles 3-7, 5.5-16.5 mm, flattened, neither grooved nor fused, ciliate; primary bristles 12.9-22.5 mm, ciliate, noticeably longer than the other bristles. Spikelets 5.2-6.7 noticeably longer than the other bristles. Spikelets 5.2-6.7 mm; pedicels 0.1-0.5 mm; lower glumes 0.9-1.8 mm, 0-1-veined; upper glumes 2.6-4.2 mm, 1-5-veined; lower florets staminate; lower lemmas 5.1-6.4 mm, 5(6)-veined; lower paleas 4.5-5.3 mm; anthers 2.8-3.3 mm; upper florets not disarticulating at maturity; upper lemmas 5-5.8 mm, 5(6)-veined; upper paleas with a bifid apex, teeth 0.1-0.2 mm; anthers 2.6-3.2 mm. Caryopses concealed by the lemma and palea at maturity. 2n = 18, 36, 45.</description>
+  <discussion>Pennisetum flaccidum is native to central Asia. Although grown primarily as an ornamental, it is reportedly used for forage in the Flora region, but only one record, from Brazos County, Texas, is known. It is sometimes sold, incorrectly, as P. incomptum Nees ex Steud. [= P. ciliare].</discussion>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>17</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Puccinellia distans (Jacq.) Pari</name_authority_date>
+  </taxon_identification>
+  <common_names>EUROPEAN ALKALI GRASS, PUCCINELLIE A FLEURS DISTANTES</common_names>
+  <description type="morphology">Plants perennial; cespitose, not mat-forming. Culms 5-60 cm, erect to decumbent. Ligules 0.8-1.2 mm, obtuse to truncate, usually entire; blades 1-7 mm wide, flat to involute. Panicles 2.5-20 cm, diffuse at maturity, lower branches horizontal to descending, spikelets usually confined to the distal 2/3, pedicels scabrous, lacking tumid epidermal cells. Spikelets 2.5-7 mm, with 2-7 florets. Glumes rounded over the back, veins obscure, apices acute to truncate; lower glumes 0.4-1.3 mm; upper glumes 0.9-1.8 mm; calluses with a few hairs; lemmas 1.5-2(2.2) mm, mostly herbaceous, glabrous or sparsely hairy on the lower 1/2, principally along the veins, backs rounded, 5-veined, veins obscure, not extending to the margins, apical margins hyaline and often yellowish, uniformly and densely scabrous, apices widely obtuse to truncate, entire; palea veins shortly ciliate proximally, glabrous, sometimes scabrous distally; anthers 0.4-0.8 mm. 2n = 14, 28, 42.</description>
+  <discussion>Puccinellia distans is a Eurasian native, reportedly introduced in North America, where it is widespread, particularly as a weed in non-littoral environments, including the margins of salted roads. It is also found occasionally in coastal environments.
+A specimen in the Smithsonian Institution attributed to Puccinellia tenuiflora (Griseb.) Scribn. & Merr. by Scribner and Merrill (1910) is a robust example of P. distans; others of this taxon in North America remain to be investigated. Puccinellia hauptiana (Trin. ex V.I. Krecz.) Kitag. has been reduced to P. distans subsp. hauptiana (Trin. ex V.I. Krecz.) W.E. Hughes. This taxon may represent a tetraploid component of P. distans; several specimens identified as P. hauptiana in Eurasia have a tetraploid chromosome count. Specimens from Alaska, the Yukon, and Saskatchewan, identified as P. hauptiana on the basis of their relatively narrow leaves (1-2 mm wide) and small anthers (0.5-0.6 mm), appear to be native in these regions and require further study with regard to their relationship with P. distans.
+</discussion>
+</bio:treatment>

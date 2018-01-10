@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>22</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia pauciflora Buckley </name_authority_date>
+  </taxon_identification>
+  <common_names>NEW MEXICAN MUHLY</common_names>
+  <description type="morphology">Plants perennial; tightly cespitose, sometimes rhizomatous. Culms 30-70 cm tall, 0.7-1 mm thick, erect, geniculate and rooting at the lower nodes; internodes mostly glabrous, sometimes glaucous, often striate below the nodes. Sheaths usually shorter than the internodes, smooth or scabridulous, usually with dark brown necrotic spots, flat and spreading at maturity; ligules 1-2.5(5) mm, membranous, obtuse, with lateral lobes 1.5-3 mm longer than the central portion; blades (1)5-12(15) cm long, 0.5-1.5 mm wide, flat to involute, glabrous and smooth abaxially, scabridulous adaxially, often with dark brown necrotic spots. Panicles (2)5-15 cm long, 0.5-2.8 cm wide, contracted, interrupted below; primary branches 0.5-4(6) cm, appressed or diverging up to 30° from the rachises,  
+spikelet-bearing to the base; pedicels 0.1-3 mm, scabrous. Spikelets 3.5-5.5 mm, occasionally with 2 florets. Glumes equal, 1.5-3.5 mm, shorter than the lemmas, 1-veined, acuminate to acute, often erose, unawned or awned, awns to 2.2 mm; lemmas 3-5.5 mm, lanceolate, often purplish, mostly glabrous, calluses with a few short hairs, apices acuminate, scabridulous, awned, awns (5)7-25 mm, flexuous; paleas 3-5.5 mm, lanceolate, glabrous, acuminate; anthers 1.5-2.1 mm, yellowish or purplish. Caryopses 2-2.5 mm, fusiform, brownish. 2n = unknown.
+</description>
+  <discussion>Muhlenbergia pauciflora grows in open or closed forests on rocky slopes, cliffs, canyons, and rock outcrops of granitic or calcareous origin, at elevations of 1200-2500 m. Its range extends from the southwestern United States to central Mexico.</discussion>
+</bio:treatment>

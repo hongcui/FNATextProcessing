@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>17</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Achnatherum richardsonii (Link) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>RICHARDSON'S NEEDLEGRASS</common_names>
+  <description type="morphology">Plants tightly cespitose, not rhizomatous. Culms 30-100 cm tall, 1-1.5 mm thick, glabrous; nodes usually 3. Basal sheaths glabrous, margins ciliolate; collars glabrous, without tufts of hair on the sides; ligules 0.1-0.5 mm, truncate, ciliolate; blades 0.8-3 mm wide, convolute when dry, abaxial surfaces scabridulous, adaxial surfaces glabrous. Panicles 7-25 cm long, 7-15 cm wide; branches divergent, flexuous, longest branches 7-10 cm, with the spikelets confined to the distal 1/4. Spikelets pendulous. Lower glumes 7.5-11 mm long, 0.9-1.2 mm wide; upper glumes 2-3 mm shorter; florets 5-6 mm long, 0.6-0.9 mm thick, fusiform, terete; calluses 0.4-0.7 mm, blunt; lemmas evenly hairy on the lower portion, often glabrate distally, body and apical hairs 0.2-0.5 mm, apical lobes not or scarcely developed, to 0.1 mm; awns 15-25 mm, persistent, twice-geniculate, first 2 segments strigulose, hairs about 0.1 mm, termi¬nal segment straight; paleas 2.2-3.6 mm, 1/2 - 3/5 as long as the lemmas, pubescent, hairs not exceeding the apices, apices rounded; anthers 2.5-3 mm, dehiscent, penicillate, hairs 0.1-0.5 mm. Caryopses 3-4 mm, fusiform. 2n = 44.</description>
+  <discussion>Achnatherum richardsonii grows in open woodlands and grasslands,often on sand or gravel, from the Yukon Territory to Washington and Manitoba, and south in the Rocky Mountains through Montana and Wyoming to western South Dakota and northern Colorado. Its elevation range is 1000-3100 m. It is readily recognized by its combination of flexuous panicle branches, drooping spikelets, and straight distal awn segments. Scagel and Maze (1984) concluded that putative hybrids between A. richardsonii and A. nelsonii subsp. dorei were merely large plants of subsp. dorei that varied in the direction of A. richardsonii.</discussion>
+</bio:treatment>

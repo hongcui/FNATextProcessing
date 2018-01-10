@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>25</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aristida lanosa Muhl. ex Elliott </name_authority_date>
+  </taxon_identification>
+  <common_names>WOOLY THREEAWN</common_names>
+  <description type="morphology">Plants perennial; loosely cespitose. Culms 65-150 cm, sometimes thickened at the base, erect, unbranched; internodes glabrous; nodes concealed. Leaves cauline; sheaths longer than the internodes, usually lanose-floccose,     occasionally glabrate; ligules about 0.1 mm; blades 10-25(30) cm long, 2-6 mm wide, flat, light green or slightly blue-green, glabrous abaxially. Inflorescences paniculate, (25)35-70(82) cm long, (2)3-8(10) cm wide; rachis nodes lanose-floccose; primary branches 3-12 cm, appressed at the base, without axillary pulvini, ascending to spreading distally, sometimes loose and somewhat flexible, with 4-12 spikelets per branch. Glumes usually unequal, 1-veined, brownish-green to dark brown or purplish; lower glumes 8.7-18 mm, with a keeled mid-vein; upper glumes 8.4-15 mm, awn-tipped, awns to 3 mm; calluses 0.5-1 mm; lemmas 6.5-10 mm, smooth to scabridulous, mostly dark purplish-mottled, slightly narrowed distally but not beaked, junction with the awns not evident; central awns 12-28 mm, curved at the base, often strongly so; lateral awns 7-17 mm, at least Yi as long as the central awns; anthers 3, about 3 mm, brown. Caryopses 5-6 mm, chestnut brown. 2n = unknown.</description>
+  <discussion>Aristida lanosa is restricted to the eastern United States, where it grows in dry fields, pine-oak woods, and uplands, chiefly in sandy soil. It is sometimes confused with A. palustris, but differs in several reproductive, vegetative, and habitat characteristics.</discussion>
+</bio:treatment>

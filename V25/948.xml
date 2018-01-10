@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Tuctoria greenei (Vasey) Reeder </name_authority_date>
+  </taxon_identification>
+  <common_names>AWNLESS SPIRALGRASS</common_names>
+  <description type="morphology">Culms 5-15(30) cm, erect or decumbent, often geniculate; nodes often purplish. Blades 1.5-5 cm long, to 5 mm wide, curved outward. Spikes 2.5-5(8) cm, exserted at maturity, congested above; lower internodes 4-5 mm; upper internodes 1-2 mm. Spikelets with 5-15(40) florets. Glumes subequal, 3-5 mm, prominently many-veined, irregularly dentate at the apices; lemmas (3)4-5(6) mm, prominently 9-13-veined, apices truncate and mucronate; paleas slightly shorter than the lemmas; anthers 3-3.5 mm, whitish; lodicules about 0.1 mm, not fused to the paleas. Caryopses about 2 mm, slightly compressed laterally, oblong, minutely rugose. 2n = 24.</description>
+  <discussion>Tuctoria greenei grows at elevations below 150 m in the Central Valley of California.</discussion>
+</bio:treatment>

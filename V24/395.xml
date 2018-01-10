@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Triticum spelta L. </name_authority_date>
+  </taxon_identification>
+  <common_names>SPELT, DINKEL, ÉPEAUTRE, GRAND ÉPEAUTRE</common_names>
+  <description type="morphology">Culms 80-120 cm; nodes glabrous or pubescent; internodes hollow, even immediately below the spikes. Blades 12-20 mm wide, sparsely pubescent. Spikes 6-20 cm, about as wide as thick, slender, almost cylindrical, narrowing distally; rachises glabrous or sparsely hairy at the nodes and margins, disarticulating with pressure, disarticulation units barrel-shaped or wedge-shaped. Spikelets 12-16 mm, with 3-5 florets, 1-3 seed-forming. Glumes 5-10 mm, coriaceous, tightly appressed to the lower florets, truncate, with 1 prominent keel, keel winged to the base, terminating in a tooth; lemmas 8-12 mm, toothed or awned, awns on the lower 2 lemmas to 10 cm, the third lemma sometimes awned, awns to 2 cm; paleas not splitting at maturity. Endosperm usually flinty. Haplomes AuBD. 2n = 42.</description>
+  <discussion>In the Flora region, Triticum spelta is grown for the specialty food and feed grain markets. It is known for yielding a pastry-grade flour not suitable for bread making unless mixed with T. aestivum, the bread-quality flour. Modern plant breeding programs are improving its gluten profile to upgrade its bread-making quality. Consequently, claims that T. spelta is a safe option for consumers with gluten intolerance should be treated with caution.
+The ability of Triticum spelta to break under pressure into barrel-shaped units similar to those found in Aegilops cylindrica distinguishes it from all other members of Triticum.
+</discussion>
+</bio:treatment>

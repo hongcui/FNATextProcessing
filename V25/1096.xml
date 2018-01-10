@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>J.K. Wipff</author>
+    </source>
+  </meta>
+  <number>25.04</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>AMPHICARPUM Kunth</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; rhizomatous, rhizomes slender, terminating in a reduced panicle of cleistogamous spikelets. Culms 30-100 cm, erect or decumbent. Sheaths open; auricles absent; ligules of hairs; blades flat. Inflorescences subterranean and aerial, only the subterranean inflorescences forming mature caryopses; subterranean panicles with 1-5 spikelets; aerial panicles terminal, simple, with elongate rachises bearing erect to ascending branches, usually with 15 or more spikelets. Spikelets glabrous, unawned, with 2 florets. Subterranean spikelets setting seed, with 1 glume; lower glumes absent; upper glumes and lower lemmas similar in size and texture, exceeded by the upper florets; upper florets turgid, ellipsoidal; upper lemmas mostly indurate, margins thin, flat, apices acuminate; upper paleas similar in texture to the lemmas; anthers 3; caryopses well-developed. Aerial spikelets not setting seed, sometimes forming immature caryopses, lanceoloid, dorsally compressed to terete; glumes unequal or the lower glumes absent; upper glumes and lower lemmas similar in size and texture; upper lemmas mostly indurate, margins thin, flat, apices acute; lower florets staminate or sterile; upper florets with pistils but fruit not developed, x = 9. </description>
+  <discussion>Amphicarpum is a genus of two species, both endemic to the southeastern United States. It differs from all other North American grass genera in its production of subterranean, cleistogamous spikelets. The aerial spikelets occasionally have immature caryopses but, for some unknown reason, these never mature.</discussion>
+  <key>
+    <key_body>
+1. Leaf blades conspicuously hirsute; plants annual; culms erect .....1. A. amphicarpon
+1. Leaf blades glabrous or almost glabrous; plants perennial; culms usually decumbent .....2. A. muhlenbergianum
+
+    </key_body>
+  </key>
+</bio:treatment>

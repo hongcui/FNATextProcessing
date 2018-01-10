@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>24</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Digitaria milanjiana (Rendle) Stapf </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; rhizomatous and stoloniferous. Culms 50-250 cm, erect or decumbent, rooting or not at the lower nodes. Basal sheaths glabrous or variously pubescent (pilose, rarely tomentose or with papillose-based hairs); upper sheaths glabrous; ligules 0.8-2.5 mm; blades 6-15(30) cm long, 3.5-8.5(13) mm wide, glabrous adaxially, rarely hirsute, with papillose-based hairs basally, margins scabridulous. Panicles with 2-18 spike¬like primary branches, these digitate or with rachises to 6 cm; primary branches 5-25 cm, axes wing-margined, wings about as wide as the midribs, bearing spikelets in unequally pedicellate pairs; secondary branches rarely present; shorter pedicels 0.2-0.3 mm; longer pedicels 1-1.5 mm. Spikelets homomorphic, 2.5-3.5 mm long, 0.7-0.9 mm wide, lanceolate. Lower glumes 0.2-0.5 mm, acute to truncate; upper glumes (1.2)1.6-2.3 mm, from 1/5 as long as to almost equaling the spikelets; lower lemmas 2.5-3.5 mm, 7-veined, veins unequally spaced, midvein and lateral veins scabrous at least on the distal 1/2, margins and region between the inner 2 lateral veins with straight, yellowish, 0.6-1 mm hairs; upper lemmas gray to tan at maturity. 2n = 18, 34, 36, 45, 54, 72(?).</description>
+  <discussion>Digitaria milanjiana is native to tropical and subtropical Africa. It has been found as an escape from experimental plantings in Florida.</discussion>
+</bio:treatment>

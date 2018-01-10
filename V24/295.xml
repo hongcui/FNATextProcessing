@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>16</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus orcuttianus Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>ORCUTT'S BROME</common_names>
+  <description type="morphology">Plants perennial; not rhizomatous. Culms 90-150 cm, erect; nodes 2-4, pubescent or puberulent; internodes glabrous to pubescent, pilose to densely pubescent below the nodes. Basal sheaths sparingly to densely pilose, hairs 2-4 mm, occasionally glabrous; upper sheaths hairy, hairs to 1 mm, collars glabrous or pilose, hairs to 4 mm; auricles absent; ligules 1-3 mm, usually glabrous, occasionally pilose, obtuse, erose; blades 7-24 cm long, 3-12 mm wide, flat, usually glabrous, sometimes hairy. Panicles 7-13.5 cm, open; branches erect, ascending and appressed to slightly spreading. Spikelets 20-40 mm, elliptic to lanceolate, terete to moderately laterally compressed, with 3-9(11) florets. Glumes usually glabrous, occasionally scabrous or pubescent; lower glumes 5-9 mm, l(3)-veined; upper glumes 7-11 mm, 3(5)-veined, sometimes mucronate; lemmas 9-16 mm, elliptic, rounded over the midvein, backs usually pubescent, sometimes glabrous or scabrous, margins pubescent or scabrous, apices obtuse, entire; awns (4)5.5-8 mm, straight, arising less than 1.5 mm below the lemma apices; anthers 3-5 mm. 2n = 14. </description>
+  <discussion>Bromus orcuttianus grows on dry hillsides and rocky slopes, and in open pine woods and meadows in the mountains, from 500-3500 m. It is found in the western United States, including Washington, Oregon, California, Nevada, and Arizona. It is not known from Mexico.</discussion>
+</bio:treatment>

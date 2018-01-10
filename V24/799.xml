@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>51</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa laxa x glauca </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; not or only slightly glaucous; densely tufted, not stoloniferous, not rhizomatous. Basal branching mixed intra- and extra vaginal. Culms 6-18 cm, with 0(1) exserted nodes, upper node in the lower 1/3 of the culms. Sheaths closed for 1/10 – 1/5 their length, terete, smooth or very sparsely scabrous, distal sheath lengths 0.8-1.8 times blade lengths; ligules 1.25-2.5 mm, smooth, apices obtuse, often lacerate; blades thin, sparsely scabrous adaxially, flag leaf blades 1.6-3.8 cm. Panicles 1.5-3.5 cm, slightly lax, ovoid, contracted to loosely contracted, dense to moderately dense, with 2-6 branches per node; branches steeply ascending, fairly straight, sulcate or angled, smooth or infrequently the angles sparsely scabrous, not glaucous. Spikelets laterally compressed; florets 2-5; rachilla internodes smooth, glabrous, lower internodes 0.8-1 mm. Glumes equal, broadly lanceolate, thin; lower glumes 0.75-1.05 mm wide, 3-veined; upper glumes 3.7-4.7 mm long, 0.9-1.3 mm wide, lengths 3.7-4.1 times widths; calluses all glabrous, or some proximal florets within a spikelet sparsely webbed; lemmas 3.7-4.5 mm, broadly lanceolate, distinctly keeled, thin, keels and marginal veins short- to long-villous, hairs extending 1/3-1/2 the keel length, lateral veins usually glabrous, or infrequently sparsely softly puberulent, intercostal regions glabrous; palea keels finely scabrous; anthers 0.8-1.2 mm, poorly formed, sacs not fully maturing, not dehiscing, about 0.1 mm in diameter. 2n = ca. 65, 70.</description>
+  <discussion>Poa laxa x glauca is an eastern low arctic entity which has passed under the name P. flexuosa Sm., P. laxa subsp. flexuosa (Sm.) Hyl., and, more recently, P. laxiuscula (Blytt) Lange. It has also been confused with P. glauca (p. 576). It can be distinguished from P. laxa (see previous) by its more open sheaths and poorly developed, indehiscent anthers. It differs from P. glauca in its broad, thin glumes and lemmas; compact panicles; smooth or nearly smooth, non-glaucous branches; and poorly developed, indehiscent anthers. It also grows in wetter habitats than P. glauca, often around seeps. Its chloroplast DNA is more like that of the American P. laxa subsp. fernaldiana than that of the European subspp. flexuosa and laxa or of P. glauca.</discussion>
+</bio:treatment>

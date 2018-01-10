@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Puccinellia wrightii (Scribn. & Merr.) Tzvelev </name_authority_date>
+  </taxon_identification>
+  <common_names>WRIGHT'S ALKALI GRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, not mat-forming. Culms 15-40 cm, erect. Ligules 1.5-3 mm, acute to obtuse, entire; blades 2-8 mm wide, flat or folded. Panicles 5-8 cm, open and diffuse at maturity, lowest node usually with long branches, lower branches ascending, horizontal, or descending, spikelets usually confined to the distal 73; pedicels glabrous and smooth, lacking tumid epidermal cells. Spikelets 4-7 mm, with 4-5 florets. Glumes narrow, not enfolding the base of the lower lemmas, rounded over the back, veins obscure or distinct, apices acute to obtuse; lower glumes 1.7-3 mm, usually less than 2/3 as long as the adjacent lemmas; upper glumes 2.5-4 mm; rachilla internodes abruptly or gradually broadened to the point of attachment with the lemmas, at least the lowest internode usually more than 0.09 mm thick; calluses with a few hairs; lemmas 4-5 mm, mostly herbaceous, hairy along and between the veins on the proximal 1/2, backs rounded, 5-veined, veins obscure or distinct, not extending to the margins, apical margins hyaline, smooth, apices acute, entire, becoming erose with age; palea veins with curly, intertwined hairs proximally, these hairs rarely lacking, scabrous distally; anthers 1.5-2.5 mm. 2n = 14.</description>
+  <discussion>Puccinellia wrightii is an uncommon arctic species. Its range extends from the Chukotka Peninsula in the Russian Far East to western Alaska. Like P. vahliana, its  
+roots are characteristically thicker and more tightly curled than those of other Puccinellia species.
+</discussion>
+</bio:treatment>

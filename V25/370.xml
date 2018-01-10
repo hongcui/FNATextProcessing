@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Evangelina Sanchez</author>
+    </source>
+  </meta>
+  <number>17.43</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>MICROCHLOA R. Br.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial (rarely annual); erect and cespitose, or decumbent and mat-forming. Culms 5-60 cm; nodes glabrous. Leaves mostly basal; ligules membranous and ciliate or of hairs; blades often stiff, convolute. Inflorescences terminal, panicles with a solitary (rarely 2), slender, spikelike branch; rachises curved or falcate, semi-circular or crescentic in cross section. Spikelets solitary, with 1(2) florets, terete to dorsally compressed; florets bisexual; disarticulation above the glumes. Glumes subequal, exceeding the florets, 1-veined; lower glumes asymmetric, keeled, keels somewhat twisted; upper glumes symmetric, flat, midveins straight; lemmas membranous or hyaline, 3-veined, veins hairy; paleas with 2 pubescent keels. Caryopses 0.9-1.5 mm, glabrous, x = 10, 12.</description>
+  <discussion>Microchloa includes three African and one pan-tropical species. The species usually grow in open mesic to xeric habitats in tropical regions, often in shallow, hard soils. One species has become established in the Flora region.
+The distinctive shape of the rachis links Microchloa to Ctenium.
+</discussion>
+</bio:treatment>

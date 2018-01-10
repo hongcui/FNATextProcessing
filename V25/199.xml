@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sporobolus clandestinus (Biehler) Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>HIDDEN DROPSEED</common_names>
+  <description type="morphology">Plants perennial; cespitose, occasionally rhizomatous. Culms 40-130(150) cm tall, 1-4 mm thick, frequently glaucous. Sheaths with sparsely hairy apices, hairs to 3 mm, not conspicuously tufted; uppermost sheaths 0.5-3 mm wide; ligules 0.1-0.4 mm; blades 4-23 cm long, 1.5-4 mm wide, flat or involute, abaxial surface glabrous or pilose, adaxial surface glabrous or scabridulous, margins glabrous. Panicles terminal and axillary, 5-11 cm long, 0.04-0.2(0.3) cm wide, with 10-40 spikelets per cm2, narrow, sometimes spikelike, included in the uppermost sheath; lower nodes with 1-2(3) branches; primary branches 0.4-5 cm, appressed, spikelet-bearing to the base; secondary branches appressed; pulvini glabrous; pedicels 0.3-3.5 mm, appressed, glabrous or scabridulous. Spikelets 4-9(10) mm, stramineous to purplish-tinged. Glumes subequal, lanceolate, membranous to chartaceous, mid-veins usually greenish; lower glumes 1.5-6.2 mm; upper glumes (2)2.5-5(6.5) mm, slightly shorter or longer than the lemmas; lemmas (2.2)3-7(7.4) mm, lanceolate, chartaceous and opaque, minutely appressed pubescent or scabridulous, occasionally 2- or 3-veined, acute to obtuse; paleas (2.2)3-9(10) mm, ovate to lanceolate, chartaceous; anthers 2.2-3.2 mm, yellow to orangish. Fruits (1.5)2.4-3.5 mm, ellipsoid, laterally flattened, often striate, reddish-brown; pericarps loose, but neither gelatinous nor slipping from the seeds when wet. 2n = unknown.</description>
+  <discussion>Sporobolus clandestinus grows primarily in sandy soils along the coast and, inland, along roadsides. In the southeastern United States, it is found in dry to mesic longleaf pine-oak-grass communities and cedar glades. Its range lies entirely within the Flora region.</discussion>
+</bio:treatment>

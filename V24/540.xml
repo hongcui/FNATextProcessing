@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>13.20</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>THINOPYRUM Á. Löve  </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose or not, sometimes rhizomatous. Culms 10-250 cm, usually erect. Sheaths open, glabrous or ciliate; auricles 0.2-1.8 mm or absent; ligules membranous; blades convolute or flat. Inflorescences terminal, distichous spikes, usually not disarticulating at maturity, with 1 spikelet at all or most nodes; internodes 5-30 mm. Spikelets 1-3 times the length of the middle internodes, solitary, appressed to ascending, often diamond-shaped in outline and arching outwards at maturity; disarticulation tardy, usually beneath the florets, sometimes in the rachises. Glumes rectangular to lanceolate, narrowing beyond midlength, stiff, indurate to coriaceous, glabrous or with hairs, keeled or rounded at the base, usually more strongly keeled distally than proximally, 4-9-veined, midveins usually scabrous distally, margins often hyaline, apices truncate to acute, sometimes mucronate, unawned, without lateral teeth; lemmas 5-veined, coriaceous, glabrous or with hairs, truncate, obtuse, or acute, sometimes mucronate or awned, awns to 3 cm; anthers 3, 2.5-12 mm. x = 7. </description>
+  <discussion>Thinopyrum includes approximately ten species, most of which are alkaline tolerant. It is native from the Mediterranean region to western Asia. Four species are established in the Flora region; only T. intermedium and T. ponticum are common. The genus is sometimes included in Elytrigia Desv. or Elymus.
+Thinopyrum differs from the other Triticeae in its thick, stiff glumes and lemmas. These are several cells thick, even between the veins (Jarvie and Barkworth 1992b).
+</discussion>
+  <references>Assasi, M. 1994. The genus Elymus L. (Poaceae) in Iran: Biosystematic studies and generic delimitation. Ph.D. dissertation, Lund University, Lund, Sweden. 104 pp.; Barkworth, M.E. 1997. Taxonomic and nomenclatural comments on the Triticeae in North America. Phytologia 83:302-311; Darbyshire, S.J. 1997. Tall Wheatgrass, Elymus elongatus subsp. ponticus, in Nova Scotia. Rhodora 99:161-165; Jarvie, J.K. 1992. Taxonomy of Elytrigia sect. Caespitosae and sect. Junceae (Gramineae: Triticeae). Nordic J. Bot. 12:155-169; Jarvie, J.K. and M.E. Barkworth. 1992a. Anatomical variation in some perennial Triticeae. Bot. J. Linn. Soc. 108:287-301; Jarvie, J.K. and M.E. Barkworth. 1992b. Morphological variation and genome constitution in some perennial Triticeae. Bot. J. Linn. Soc. 108:167-189; Liu, Z.W. and R.R.-C. Wang. 1993. Genome constitutions of Thinopyrum curvifolium, T. scirpeum, T. distichum, and T. junceum (Triticeae: Gramineae). Genome 36:641-651; Ogle, D. 2001. Intermediate wheatgrass, Thinopyrum intermedium (Host) Barkworth & D.R. Dewey. Plant Fact Sheet, U.S. Department of Agriculture, Natural Resource Conservation Service Plant Materials Program, http://plants.usda.gov.</references>
+  <key>
+    <key_discussion>In the key and descriptions, measurements and comments about rachis internodes refer to the internodes at midspike. The lowest internodes of a spike are usually 2-4 times as long as those at midspike.</key_discussion>
+    <key_body>
+1. Plants not rhizomatous; glumes truncate, midveins about equal in length and prominence to the lateral veins ..... 4. T. ponticum
+1. Plants rhizomatous; glumes obliquely truncate or obtuse to acute, midveins usually slightly longer and more prominent than the lateral veins.
+2. Glumes 9-18 mm long.....3. T. pycnanthum
+2. Glumes 4.5-8.5 mm long.
+3. Lemmas 7.5-10 mm long, glabrous or hairy; rachis internodes 7-12 mm long; plants widespread in the Flora region, particularly in the western United States  .....1.T. intermedium
+3. Lemmas 10-17 mm long, glabrous; rachis internodes 12-28 mm long; plants known only from a few coastal locations in the Flora region  .....2. T. junceum
+
+    </key_body>
+  </key>
+</bio:treatment>

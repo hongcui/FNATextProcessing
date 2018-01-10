@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Leymus simplex var. luxurians (Scribn. & T.A. Williams) Beetle </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 55-75 cm tall, 2-2.5 mm thick. Spikes 10-27 cm long; internodes 10-20 mm. Spikelets 20-25 mm, with 6-12 florets.</description>
+  <discussion>Leymus simplex var. luxurians grows at a few locations in Wyoming. It sometimes grows close to var. simplex. It may represent clones that have access to more water and/or more nutrients, but the absence of intermediate plants suggests a genetic distinction.</discussion>
+</bio:treatment>

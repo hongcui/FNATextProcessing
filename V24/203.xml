@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Piptatherum miliaceum (L.) Coss. subsp. miliaceum </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Branches loosely whorled; lower nodes with 3-7 spikelet-bearing branches.</description>
+  <discussion>Piptatherum mileaceum subsp. miliaceum is the most common of the two subspecies, and the only one known to be established in the Flora region.</discussion>
+</bio:treatment>

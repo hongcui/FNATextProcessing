@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>13</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Panicum hallii Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>HALL’S WITCHGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose. Culms 10-100 cm, 2-10 mm thick, erect, simple or sparingly branched basally; nodes sericeous, pilose or glabrous; internodes usually glaucous. Leaves often crowded basally; sheaths rounded, glabrous or hirsute, hairs fragile, papillose-based, margins sometimes ciliate distally; ligules 0.6-2 mm; blades 4-23 cm long, 1-10 mm wide, erect to spreading, flat or sometimes involute (on sterile branches), often curling at maturity, glaucous, abaxial surfaces sometimes with prominent papillae along the midribs, bases rounded or narrowing to the sheaths, margins cartilaginous, ciliate basally, scabridulous elsewhere, apices acute. Terminal panicles 7-31 cm long, 3-15 cm wide; rachises glabrous, tending to break at maturity; branches usually alternate, slender, stiff, ascending to divergent; pedicels 1-15 mm, appressed. Spikelets 2.1-4.2 mm long, 0.8-1 mm wide, usually ovoid, glabrous. Lower glumes 1.2-2.4 mm, 1/2 - 3/4 as long as the spikelets, attenuate; upper glumes and lower lemmas similar, 7-11-veined, acuminate, extending 0.3-1.2 mm beyond the upper florets; lower florets sterile; lower paleas 0.8-2 mm; upper florets 1.5-2.4 mm long, 0.7-1.2 mm wide, ovoid to ellipsoid, smooth, nigrescent. 2n = 18.</description>
+  <discussion>Fanicum hallii grows on sandy, gravelly, or rocky land, including roadsides, pastures, rangeland, oak and pine savannahs, chaparral, and moist areas in deserts and on mesas. Its range extends from the southwestern United States to southern Mexico. </discussion>
+  <key>
+    <key_body>
+1. Spikelets 3-4.2 mm long; panicles usually greatly exceeding the blades, with a few spikelets; blades clustered near the base of the plants, ascending, often curling at maturity .....subsp. hallii
+1. Spikelets 2.1-3 mm long; panicles scarcely exceeding the blades, with relatively crowded spikelets; blades not clustered near the base of the plants, lax, spreading, not curled.....subsp. filipes
+
+    </key_body>
+  </key>
+</bio:treatment>

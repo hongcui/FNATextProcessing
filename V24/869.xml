@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Neil Snow</author>
+    </source>
+  </meta>
+  <number>14.21</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>BRIZA L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; cespitose. Culms 5-100 cm, usually erect, unbranched; internodes hollow; nodes glabrous. Sheaths sometimes less than 1/2 as long as the internodes, open; auricles absent; ligules hyaline; blades flat, usually erect. Inflorescences open panicles; branches sparsely strigose, capillary, spikelets usually pendulous, some branches longer than 1 cm. Spikelets pedicellate, pendulous, oval to triangular in side view, becoming light brown at maturity, laterally compressed but the glumes and lemmas with broadly rounded backs, glumes and florets strongly divergent from the rachillas, with 4-12(15) chartaceous florets, distal florets rudimentary; rachillas glabrous, not prolonged beyond base of the distal floret; disarticulation above the glumes and beneath the florets. Glumes subequal, shorter than to longer than the adjacent lemmas, naviculate, faintly 3-7-veined, margins more or less membranous, apices obtuse, unawned; calluses short, glabrous; lemmas inflated, about as wide as long, with broadly rounded backs, similar in shape to the glumes but somewhat cordate, margins becoming hyaline, frequently splitting perpendicular to the midveins, unawned; paleas shorter than the lemmas, scarious or chartaceous; lodicules 2, joined or free, usually entire, sometimes toothed; anthers 3; ovaries glabrous. Caryopses shorter than the lemmas, concealed at maturity, usually falling with the lemma and palea, ovoid to obovoid; hila round to elliptic, x = 5,7.</description>
+  <discussion>Briza, a genus of about 20 species, is native to Eurasia and South America. Most species have little to no fodder value because of the scant foliage. The ornamental value of the genus is more significant; the species are often grown for use in dried floral arrangements. Three European species are now scattered in the more temperate parts of southern Canada and the United States, and will undoubtedly be collected in areas not indicated here. Briza species can become weedy where established.
+ 
+</discussion>
+  <references>Gould, EW. 1975. The Grasses of Texas. Texas A&M University Press, College Station, Texas, U.S.A. 653 pp.; Murray, B.G. and N.R.N. Barker. 1988. Pollen/stigma interactions and hybridization in the genus Briza L. (Gramineae). Evol. Trends PI. 2:107-110.</references>
+  <key>
+    <key_body>
+1. Plants perennial; ligules about 0.5 mm long; sheaths open for about 1/2 their length.....1. B. media
+1. Plants annual; ligules 3-13 mm long; sheaths open to near the base.
+2. Spikelets 10-20 mm long  .....2.B. maxima
+2. Spikelets 2-7 mm long.....3. B. minor
+ 
+
+    </key_body>
+  </key>
+</bio:treatment>

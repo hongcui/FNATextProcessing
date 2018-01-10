@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus aleutensis Trin. ex Griseb.</name_authority_date>
+  </taxon_identification>
+  <common_names>ALEUT BROME</common_names>
+  <description type="morphology">Plants perennial; loosely cespitose. Culms 40-130 cm tall, 3-7 mm thick, often decumbent. Sheaths coarsely striate, pilose, hairs sparse to moderately dense, throats pilose; auricles rarely present; ligules 3.5-5 mm, usually glabrous, occasionally pubescent, lacerate; blades 13-35 cm long, 6-15 mm wide, flat, usually sparsely to moderately pilose on both surfaces, sometimes glabrous. Panicles 10-28 cm, erect, open or somewhat contracted; lower branches to 10 cm, 1-2 per node, stiffly ascending, with (1)2-3 spikelets on the distal 72, sometimes confined to the tips. Spikelets 25-40 mm, elliptic to lanceolate, strongly laterally compressed, with 3-6 florets. Glumes glabrous or pubescent; lower glumes 9-13 mm, 3-5-veined; upper glumes 10-15 mm, 7(9)-veined; lemmas 12-17 mm, lanceolate, laterally compressed, usually softly pubescent, sometimes glabrous, strongly keeled at least distally, 9(11)-veined, veins conspicuous distally, apices entire or with acute teeth shorter than 1 mm; awns (3)5-10 mm; anthers 2.2-4.2 mm. 2n = 56.</description>
+  <discussion>Bromus aleutensis grows in sand, gravel, and disturbed soil along the Pacific coast, from the Aleutian Islands of Alaska to western Washington, and on some lake shores of central British Columbia. It has also been found further east in Canada and in northern Idaho, always in disturbed sites, such as road edges.
+Bromus aleutensis might represent a modified version of B. sitchensis, in which reproduction occurs at a relatively early developmental state in response to the climatic conditions of the Aleutian Islands (Hulten 1968). B. aleutensis is predominantly self-fertilizing, and B. sitchensis is predominantly outcrossing. Anther lengths close to 4.2 mm suggest that at least some plants of B. aleutensis are outcrossing (Hitchcock 1969). Bromus aleutensis intergrades with B. carinatus var. marginatus to the south.
+</discussion>
+</bio:treatment>

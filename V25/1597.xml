@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Andropogon glomeratus var. hirsutior (Hack.) C. Mohr</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants usually oblong in the upper portion, sometimes cylindrical. Culms 1-2 m; internodes not glaucous. Sheaths scabrous; ligules ciliate or not, cilia to 0.3 mm; blades green, usually pubescent. Subtending sheaths of inflorescence units (2)2.4-3.1(4) mm wide; peduncles 2-5(8) mm; rames usually 1.7-2.8 cm, not exserted at maturity. Keels of lower glumes usually smooth below midlength, scabrous distally; anthers often retained within the spikelets.</description>
+  <discussion>Andropogon glomeratus var. hirsutior grows in ditches, swales, bogs, flatwoods, and savannahs of the southeastern coastal plain, often forming very large populations in cleared, low ground.</discussion>
+</bio:treatment>

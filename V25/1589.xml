@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Andropogon virginicus L. </name_authority_date>
+  </taxon_identification>
+  <common_names>BROOMSEDGE BLUESTEM</common_names>
+  <description type="morphology">Plants cespitose, dense and cylindrical to obpyramidal above. Culms 40-210 cm; internodes glaucous or not; branches erect to ascending, usually straight, sometimes arching. Sheaths usually smooth, rarely some¬what scabrous; ligules 0.2-1 mm, ciliate, cilia 0.2-1.3 mm; blades 11-52 cm long, 1.7-6.5 mm wide, smooth and glabrous or sparsely to densely pubescent with spreading hairs. Inflorescence units 6-195 per culm; subtending sheaths (2.1)3.1-4.6(6.7) cm long, (1.7)3-3.8(5.6) mm wide; peduncles usually (1)4-6(30) mm, with 2-7 rames; rames (0.5)1.7-2.8(4.4) cm, sometimes exerted at maturity, pubescence sparse basally and increasing in density distally within each internode. Sessile spikelets (2.6)3.5-3.8(4.7) mm; callus hairs 1-3 mm; keels of lower glume usually smooth below midlength, scabrous distally; awns 6-21 mm; anthers 1(3), 0.6-1.5 mm, yellow or purple. Pedicellate spikelets vestigial to absent. 2n = 20.</description>
+  <discussion>Andropogon virginicus is native from the southeastern United States to northern South America, but has become established outide its native range in California, Hawaii, Japan, and Australia. Three varieties are recognized, two of which contain morphologically distinct variants. Andropogon virginicus hybridizes with A. glomeratus and A. longiberbis (Campbell 1986).</discussion>
+  <key>
+    <key_body>
+1. Leaves   bluish-green,  more  or  less  strongly glaucous .....var. glaucus
+1. Leaves green, sometimes somewhat glaucous.
+2. Sheaths subtending the inflorescence units (1.7)2.4-3.1(4) mm wide; inflorescences units usually with 2 rames; rames (1.3)1.5-2.3(3) cm long; peduncles (1) 4-9 (30) mm long .....var. decipiens
+2. Sheaths subtending the inflorescences units (2.2)3.3-4.4(5.6) mm wide; inflorescence units with 2-5(7) rames; rames (0.5)1.9-3.3(4.4) cm long; peduncles (2)3-6(12) mm long.....var. virginicus
+
+    </key_body>
+  </key>
+</bio:treatment>

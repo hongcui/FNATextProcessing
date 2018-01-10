@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Leymus arenarius (L.) Hochst. </name_authority_date>
+  </taxon_identification>
+  <common_names>EUROPEAN DUNEGRASS, LYMEGRASS, ELYME DES SABLES D'EUROPE</common_names>
+  <description type="morphology">Plants weakly cespitose, rhizomatous, strongly glaucous. Culms 50-150 cm tall, (2)3-6 mm thick, usually glabrous throughout, occasionally pub¬escent distally to 5 mm below the spike. Leaves exceeded by the spikes; ligules 0.3-2.5 mm; blades 3-11 mm wide, with 15-40 adaxial veins. Spikes 12-35 cm long, 15-25 mm wide, usually with 2 spikelets per node; internodes 8-12 mm, surfaces glabrous, edges ciliate. Spikelets 12-30 mm, with 2-5 florets. Glumes 12-30 mm long, 2-3.5 mm wide, lanceolate, tapering from below midlength, stiff, glabrous towards the base and usually distally, sometimes pubescent distally, the central portion thicker than the margins, 3(5)-veined at midlength, keeled or rounded over the midvein, midveins and sometimes the margins with hairs to about 1.3 mm, apices acuminate; lemmas 12-25 mm, densely villous, hairs 0.3-0.7 mm, 5-7-veined, acute, occasionally awned, awns to 3 mm; anthers 6-9 mm, dehiscent. 2n = 56.</description>
+  <discussion>Leymus arenarius is native to Europe. It has become established in sandy habitats around the Great Lakes and the coast of Greenland. It has also been found at a few other widely scattered locations. It is sometimes cultivated, forming large, attractive, blue-green clumps, but its tendency to spread may be undesirable.</discussion>
+</bio:treatment>

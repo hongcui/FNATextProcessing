@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Hordeum arizonicum Covas </name_authority_date>
+  </taxon_identification>
+  <common_names>ARIZONA BARLEY</common_names>
+  <description type="morphology">Plants annual to biennial, perennial under favorable conditions; forming small tufts. Culms 21-75 cm, rarely geniculate, not bulbous; nodes glabrous. Lower sheaths pub¬escent; upper sheaths glabrous; ligules 0.6-1.8 mm; auricles absent; blades to 13 cm long, to 4 mm wide, flat, glaucous, both surfaces scabrous, hairy, sometimes only sparsely hairy. Spikes 5-12 cm long, 6-10 mm wide, erect, often partially enclosed at maturity, pale green. Glumes bent, strongly divergent at maturity. Central spikelets: glumes 11-28 mm long, 0.2-0.4 mm wide, flattened near the base, setaceous above the middle; lemmas 5-9 mm, glabrous, awned, awns 10-22 mm; anthers 1-2.2 mm. Lateral spikelets sterile; glumes to 27 mm long, 0.2-0.4 mm wide, flattened near the base; lemmas 2.5-5 mm, unawned or awned, awns to 3 mm, lemma and awn together to 7 mm, the transition from the lemma to the awn gradual. 2n = 42.</description>
+  <discussion>Hordeum arizonicum grows in saline habitats, along irrigation ditches, canals, and ponds in the south¬western United States and northern Mexico. It is a segmental allopolyploid between H. jubatum and either H. pusillum or H. intercedens.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Parapholis strigosa (Dumort.) C.E. Hubb. </name_authority_date>
+  </taxon_identification>
+  <common_names>HAIRY SICKLEGRASS, STRIGOSE SICKLEGRASS</common_names>
+  <description type="morphology">Culms 12-45 cm, erect to ascending, branching at the lower nodes. Sheaths of upper leaves usually with the margins all alike, not inflated, not enclosing the lowest spikelets; ligules to 2.3 mm; blades to 2(12) cm long, 1-3 mm wide, flat to inrolled, adaxial surfaces scabrid. Spikes 5-18 cm, straight, not twisted, with 5-25 spikelets. Spikelets 4.5-7 mm, usually slightly longer than the internodes, usually not cleistogamous. Glumes 4-6 mm, lanceolate, acuminate, keels obscure; anthers 1.5-4 mm. 2n = 14, 28.</description>
+  <discussion>Parapholis strigosa has been found in disturbed areas of Humboldt Bay, California, and has also been reported from Del Norte, Mendicino, and Sonoma counties. It grows on moist soils above normal high tides, usually in well-compacted sandy loams. In general, it is found in less saline soils and at higher elevations than P. incurva.</discussion>
+</bio:treatment>

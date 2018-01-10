@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Leymus salina subsp. salmonis (C.L. Hitchc.) R.J. Atkins </name_authority_date>
+  </taxon_identification>
+  <common_names>SALMON WILDRYE</common_names>
+  <description type="morphology">Culms 60-140 cm. Basal sheaths conspicuously hairy; blades open to involute, abaxial surfaces conspicuously hairy, adaxial surfaces evenly strigillose to strigose. Spikes with 1-2 spikelets at the central nodes, usually 1 at the distal nodes. 2n = 28.</description>
+  <discussion>Leymus salina subsp. salmonis grows at scattered locations on rocky hillsides in the mountains of southern Idaho, Nevada, and western Utah.</discussion>
+</bio:treatment>

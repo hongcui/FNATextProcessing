@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>9.02</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>MELICA L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose or soboliferous, not or only shortly rhizomatous. Culms (4)9-250 cm, sometimes forming a basal corm; nodes and internodes usually glabrous. Sheaths closed almost to the top; auricles sometimes present; ligules thinly membranous, erose to lacerate, usually glabrous, those of the lower leaves shorter than those of the upper leaves; blades flat or folded, glabrous or hairy, particularly on the adaxial surfaces, sometimes scabrous. Inflorescences terminal panicles; primary branches often appressed; secondary branches appressed or divergent; pedicels either more or less straight or sharply bent below the spikelets, scabrous to strigose distally; disarticulation below the glumes in species with sharply bent pedicels, above the glumes in other species. Spikelets with 1-7 bisexual florets, terminating in a sterile structure, the rudiment, composed of 1-4 sterile florets; rudiments sometimes morphologically distinct from the bisexual florets, sometimes similar but smaller. Glumes membranous or chartaceous, distal margins wide, translucent; lower glumes 1-9-veined; upper glumes 1-11-veined; calluses glabrous; lemmas membranous basally, sometimes becoming coriaceous at maturity, glabrous or with hairs, (4)5-15-veined, usually unawned, sometimes awned, awns to 12 mm, straight; paleas from 1/2 as long as to almost equaling the lemmas, keels usually ciliate; lodicules fused into a single, collarlike structure extending 1/2 - 2/3 around the base of the ovaries; anthers (2)3. Caryopses usually 2-3 mm, smooth, glabrous, longitudinally furrowed, falling from the floret when mature, x = 9.</description>
+  <discussion>Melica includes approximately 80 species, which grow in all temperate regions of the world except Australia, usually in shady woodlands on dry stony slopes (Mejia-Saules and Bisby 2003). The species are relatively nutritious, but are rarely sufficiently abundant to be important as forage.
+Nineteen species of Melica grow in the Flora region. Two European species are grown as ornamentals in North America. Many of the seventeen native species merit such use.
+Several proposals have been made for dividing Melica into smaller units. American taxonomists have tended to favor Thurber's (1880) recognition of two subgenera: Melica and Bromelica. In subg. Melica, the pedicels are straight and disarticulation is above the glumes; in subg. Bromelica, the pedicels are sharply bent and the spikelets disarticulate below the glumes. Hempel (1970) recognized three subgenera in Melica, but his groups do not correspond well to the pattern of morphological variation seen in North America. More recently, Mejia-Saules and Bisby (2003) examined the variation in lemma silica bodies and hooked papillae within Melica. Their results are not consistent with either Thurber's or Hempel's treatment, but provide some support for Papp's (1928) recognition of two groups, based on the presence or absence of hairs on the lemmas and the compression of the spikelets.
+</discussion>
+  <references>Boyle, W.S. 1945. A cytotaxonomic study of the North American species of Melica. Madrono 8:1-26; Farwell, O.A. 1919. Bromelica (Thurber): A new genus of grasses. Rhodora 21:76-78; Hempel, W. 1970. Taxonomische und chorologische Untersuchungen an Arten von Melica L. subgen. Melica. Feddes Repert. 81:131-145; Hitchcock, A.S. 1951. Manual of the Grasses of the United States, ed. 2, rev. A. Chase. U.S.D.A. Miscellaneous Publication No. 200. U.S. Government Printing Office, Washington, D.C., U.S.A. 1051 pp.; Mejia-Saules, T. and F.A. Bisby. 2003. Silica bodies and hooked papillae in lemmas of Melica species (Gramineae: Pooideae). Bot. J. Linn. Soc. 143:447-463; Papp, C. 1928. Monographic der Siidamerikanischen Arten der Gattung Melica L. Repert. Spec. Nov. Regni Veg. 25:97-160; Thurber, G. 1880. Melica Linn. Pp. 302-305 in S. Watson. Geological Survey of California: Botany, vol. 2. Little, Brown, Boston, Masssachusetts, U.S.A. 559 pp.</references>
+  <key>
+    <key_discussion>In the following key and descriptions, unless otherwise stated, comments on the panicle branches apply to the longest branches within the panicle; glume widths are measured from side to side, at the widest portion; lemma descriptions are for the lowest floret in the spikelets; and rachilla internode comments apply to the lowest internode in the spikelets.</key_discussion>
+    <key_body>
+1. Spikelets disarticulating below the glumes; pedicels sharply bent just below the spikelets. 
+2. Lemmas with hairs.
+3. Lemmas with hairs on the lower portion of the lemmas, the hairs twisted.....15. M. montezumae
+3. Lemmas with hairs on the marginal veins, the hairs not twisted.....18. M. ciliata
+2. Lemmas glabrous, sometimes scabridulous to scabrous.
+4. Rudiments acute to acuminate, similar to but smaller than the bisexual florets.
+5. Spikelets broadly V-shaped when mature, 5-13 mm wide; upper glumes 6-18 mm long ..........13. M. stricta
+5. Spikelets parallel-sided when mature, 1.5-5 mm wide; upper glumes 5-8 mm long   .....14. M. porter
+4. Rudiments clublike, not resembling the bisexual florets.
+6. Rudiments at an angle to the rachilla; panicle branches with 2-5 spikelets.....16. M. mutica
+6. Rudiments in a straight line with the rachilla; panicle branches with 5-20 spikelets.
+7. Panicle branches often divergent to reflexed; glumes unequal, lower glumes shorter and more ovate than the upper glumes .....17. M. nitens
+7. Panicle branches strongly ascending to appressed; glumes subequal in length and similar in shape .....19. M. altissima
+1. Spikelets disarticulating above the glumes; pedicels more or less straight. 
+8. Rudiments truncate to acute, not resembling the lowest florets. 
+9. Bisexual florets 1(2); paleas almost as long as the lemmas.
+10. Rudiments shorter than the terminal rachilla internode; bisexual lemmas scabridulous, sometimes hairy .....1. M. torreyana
+10. Rudiments longer than the terminal rachilla internode; bisexual lemmas glabrous, sometimes scabrous .....2. M. imperfecta
+9. Bisexual florets 2-7; paleas 1/2 – 3/4 the length of the lemmas.
+11. Culm bases not forming distinct corms  .....6.M. californica
+11. Culm bases forming distinct corms.
+12. Glumes usually less than 1/2 as long as the spikelets; ligules 0.1-2 mm long; corms connected to the rhizomes by a rootlike structure .....3. M. spectabilis (in part)
+12. Glumes from 1/2(2/3) as long as to equaling the spikelets; ligules 2-6 mm long; corms almost sessile on the rhizomes .....4. M. bulbosa (in part)
+8. Rudiments tapering, smaller than but otherwise similar to the lowest florets in shape. 
+13. Lemmas awned.
+14. Awns shorter than 3 mm.
+15. Panicle branches appressed; lemmas usually with 0.7-1.3 mm hairs on the margins .....7.M. harfordii (in part)
+15. Panicle branches widespread to reflexed; lemmas glabrous.....8. M. geyeri (in part)
+14. Awns 3-12 mm long.
+16. Panicle branches 4-6 cm long, appressed or ascending; blades 2-6 mm wide.....9. M. aristata
+16. Panicle branches 7-11 cm long, spreading to reflexed; blades 5-12 mm wide  .....10. M. smithii
+13. Lemmas unawned.
+17. Lemmas strongly tapering and acuminate, the veins usually hairy  .....11. M. subulata
+17. Lemmas acute to obtuse, the veins hairy or not.
+18. Lemmas pubescent, the hairs on the marginal veins clearly longer than the hairs elsewhere .....7.M. harfordii (in part)
+ 
+ 
+18. Lemmas glabrous, scabrous, or pubescent, never with clearly longer hairs on the marginal veins.
+19. Rachilla internodes swollen when fresh, wrinkled when dry  .....12. M. fugax
+19. Rachilla internodes not swollen when fresh, not wrinkled when dry. 
+20. Panicle branches with 5-15 spikelets; paleas about 1/2 as long as the lemmas; culms not forming corms .....5. M. frutescens
+20. Panicle branches with 1-6 spikelets; paleas from 2/3 as long as to equaling the lemmas; culms forming corms. 
+21. Panicle branches 3-11 cm long, divergent to reflexed, flexuous; lowest rachilla internodes 2-3 mm long   .....8.M. geyeri (in part)
+21. Panicle branches 2-6.5 cm long, usually appressed to ascending, straight, sometimes strongly divergent and flexuous; lowest rachilla internodes 1-2 mm long.
+22. Ligules 0.1-2 mm long; glumes usually less than 1/2 the length of the spikelets; corms not attached directly to the rhizomes .....3. M. spectabilis (in part)
+22. Ligules 2-6 mm long; glumes from (1/2)2/3 as long as to equaling the spikelets; corms almost sessile, directly attached to the rhizomes   .....4.M. bulbosa (in part)
+
+    </key_body>
+  </key>
+</bio:treatment>

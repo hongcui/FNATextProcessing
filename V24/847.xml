@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>75</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Named intersectional hybrids Poa xgaspensis Fernald </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; densely to loosely tufted, rhizomatous. Basal branching intra- and extravaginal. Culms 15-50 cm, erect or the bases decumbent. Sheaths closed for 1/4-1/2 their length, terete; ligules acute; blades flat, thin, apices broadly prow-shaped. Panicles erect, narrowly lanceoloid to ovoid, contracted, with 2-4 branches per node; branches ascending to spreading, sparsely scabrous. Spikelets 3.5-6 mm, laterally compressed, with 3-4 florets. Glumes broadly lanceolate, distinctly keeled, distinctly scabrous on the distal 1/3; lower glumes 3-veined; calluses shortly webbed; lemmas 2.5-4.5 mm, broadly lanceolate, keeled, keels and marginal veins long-villous, intercostal regions sofdy puberulent; palea keels scabrous, long-villous at midlength; anthers 1.2-1.4 mm. 2n = unknown. </description>
+  <discussion>Poa xgaspensis is found in the coastal mountains of the Gaspe Pennisula. There are few plants that fit the description. It seems to consist of hybrids between P. pratensis subsp. alpigena (p. 525) and P. alpina (p. 518). Poa xgaspensis differs from P. alpina in its extravaginal branching, rhizomatous habit, and webbed calluses; from P. pratensis in its acute ligules and more pubescent lemmas; and from P. arctica (p. 529) in its sharply keeled, more scabrous glumes and its spikelet shape, which approaches those of P. alpina and P. pratensis.</discussion>
+</bio:treatment>

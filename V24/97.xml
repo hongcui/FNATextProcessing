@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Glyceria septentrionalis Hitchc. var. septentrionalis</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Ligules 5-10 mm; blades 2-15 mm wide. Panicle branches 3-17 cm, with 1-9 spikelets. Rachilla internodes 1.1-1.8 mm. Lemmas scabrous over the veins, prickles about 0.05 mm, scabrous or scabridulous between the veins, apices almost truncate to obtuse or acute, apical margins crenate to entire. 2n = 40.</description>
+  <discussion>Glyceria septentrionalis var. septentrionalis grows throughout the range of the species, but is less common in the lower floodplain of the Mississippi River and Kentucky than var. arkansana. It is found in shallow water or wet soils. In reviewing specimens for this treatment, some were found to have acute lemmas that usually exceeded the paleas, and lemma midveins that were clearly longer than the other veins; others had truncate to obtuse lemmas that were usually shorter than or equaling the paleas, and lemma midveins that were barely longer than the lateral veins. Further study is needed to determine whether the two kinds merit separate recognition.</discussion>
+</bio:treatment>

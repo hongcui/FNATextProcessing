@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Aristida dichotoma Michx. var. dichotoma</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Glumes equal or subequal; lower glumes 3-6 mm; upper glumes 4-7 mm; lemmas 3-8 mm, sparsely appressed-pubescent; central awns 3-6 mm; lateral awns about 1 mm. Caryopses 2-6 mm.</description>
+</bio:treatment>

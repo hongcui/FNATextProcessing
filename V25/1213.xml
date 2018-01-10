@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Dichanthelium strigosum subsp. glabrescens (Griseb.) Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms usually less than 30 cm, glabrous, usually very densely cespitose; nodes glabrous. Cauline blades mostly  glabrous, sometimes sparsely pilose basally. Spikelets 1.4-1.8 mm, glabrous, obovoid; lower glumes about 1/3 as long as the spikelets. 2n = unknown.</description>
+  <discussion>Dichanthelium strigosum subsp. glabrescens grows in sandy, open pine woods and bogs. Its range extends from Mississippi along the coast to Florida and south through the West Indies.</discussion>
+</bio:treatment>

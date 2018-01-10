@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>26.11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>DICHANTHIUM Willemet</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; cespitose, sometimes with extensive creeping stolons. Culms 15-200 cm. Leaves usually not aromatic; ligules membranous, sometimes ciliate; blades 2-4 mm wide. Inflorescences terminal, sometimes also axillary but the axillary inflorescences not numerous; peduncles with 1-many rames in digitate or subdigitate clusters; rames sometimes naked basally, axes terete to slightly flattened, without a translucent, longitudinal groove, bearing 1-many sessile-pedicellate spikelet pairs and a terminal triplet of 1 sessile and 2 pedicellate spikelets, basal pair(s) homomorphic and homogamous, staminate or sterile, unawned, persistent, distal spikelet pairs homomorphic but heterogamous, sessile spikelets bisexual and awned, pedicellate spikelets staminate or sterile and unawned; disarticulation in the rames, beneath the bisexual sessile spikelets. Sessile spikelets often imbricate, dorsally compressed, with blunt calluses; lower glumes chartaceous to cartilaginous, broadly convex to slightly concave, sometimes pitted; lower florets reduced, sterile; upper florets sterile or staminate and unawned in the homogamous pairs, bisexual and awned in the heterogamous pairs; awns 1-3.5 cm, usually glabrous; anthers (2)3. Pedicels free of the rame axes, terete to somewhat flattened, slender, not grooved. Pedicellate spikelets sterile or staminate. x = 10. </description>
+  <discussion>Dichanthium, a genus of 20 species, grows in habitats ranging from subdeserts to marshlands in tropical Asia and Australia. It is frequently found in disturbed areas, and some species are considered to provide good forage. Three species have been introduced to the Flora region, one of which is sometimes used as a lawn grass.</discussion>
+  <key>
+    <key_body>
+1. Lower glume of the sessile spikelets with a subapical arch of hairs; pedicellate spikelets usually sterile .....1. D. sericeum
+1. Lower glume of the sessile spikelets without a subapical arch of hairs; pedicellate spikelets usually staminate.
+2. Rame bases pilose; lower glume of the sessile spikelets more or less obovate.....2. D. aristatum
+2. Rame bases glabrous; lower glume of the sessile spikelets elliptic to oblong   .....3. D. annulatum
+
+    </key_body>
+  </key>
+</bio:treatment>

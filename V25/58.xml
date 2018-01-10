@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Tridens texanus (S. Watson) Nash </name_authority_date>
+  </taxon_identification>
+  <common_names>TEXAS TRIDENS</common_names>
+  <description type="morphology">Plants cespitose, with knotty, shortly rhizomatous bases. Culms 20-75 cm, slender, strictly erect; nodes glabrous; internodes often pilose. Sheaths mostly glabrous or pilose throughout, collar and distal portion of the margins densely pilose; ligules to 0.5 mm, membranous, ciliate; blades 1-3(5) mm wide, flat or becoming inrolled, hispid, with long hairs on the adaxial surface just above the ligule, apices attenuate. Panicles 5-16 cm long, 2-9 cm wide, open or loosely contracted; branches (2)4-7 cm, slender, lax, strongly divergent to drooping, basal portion naked, spikelets confined to the distal portion; pedicels (2)3-6 mm. Spikelets 6-13 mm, with 6-12 florets. Glumes glabrous, 1-veined; lower glumes 3 mm; upper glumes 3.5-4 mm, bright green; lemmas 3-4.5 mm, usually purple or rosy-purple at maturity, beins pilose to midlength, lateral veins often excurrent as short points; paleas 3-3.5 mm, glabrous, abruptly broadened and bowed-out below; anthers 1-1.5 mm. Caryopses 1.5-2 mm. 2n = 40.</description>
+  <discussion>Tridens texanus grows in clayey and sandy loam soils, often in the protection of shrubs and along fenced road right of ways. Its range extends from southern Texas into northern Mexico. </discussion>
+</bio:treatment>

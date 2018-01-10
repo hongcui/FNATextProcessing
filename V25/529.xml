@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>14</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aristida basiramea Engelm. ex Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>FORKTIP THREEAWN, ARISTIDE À RAMEAUX BASILAIRES</common_names>
+  <description type="morphology">Plants annual. Culms 25-45 cm, erect, branching at most nodes. Leaves cauline; sheaths shorter than the internodes, glabrous or sparsely pilose; ligules about 0.3 mm; blades 3-8 cm long, 1-1.5 mm wide, flat to folded, becoming involute in age, adaxial surfaces with scattered pilose hairs, pale green. Inflorescences racemose or paniculate, (2)4-10 cm long, 1-2 cm wide, with few (sometimes only 1 or 2) spikelets; primary branches weakly developed, to 2 cm, appressed, with 1-3 spikelets. Spikelets appressed, only slightly overlapping. Glumes 1-veined, acute, awned, awns 1-2 mm, brown to purplish; upper glumes 10-12 mm; lower glumes 1-2 mm shorter; calluses 0.4-0.6 mm; lemmas 8-9 mm, light gray, mottled; awns erect to divergent; central awns 10-15 mm, with 2-3 spiral coils at the base; lateral awns 5-10 mm, not coiled but often curved and twisted basally, strongly divergent distally; anthers 3, about 3 mm, purplish-brown. Caryopses 6-7 mm, light chestnut brown. 2n = unknown.</description>
+  <discussion>Aristida basiramea grows in open, sandy, often barren ground in southern Ontario and in the United States. It is similar to A. dichototna, differing in its longer lateral awns. Further study may show that the two should be treated as conspecific varieties.</discussion>
+</bio:treatment>

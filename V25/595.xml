@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>13</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Digitaria serotina (Walter) Michx. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual; often mat-forming. Culms 10-30 cm, decumbent and rooting at the lower nodes. Sheaths conspicuously and densely hairy, longer hairs 1.5-2.5 mm, papillose-based, shorter hairs about 0.5 mm, not papillose-based; ligules 1.5-2.5 mm; blades 2-9 cm long, 3-8 mm wide, conspicuously hairy on both surfaces, longer hairs 1.5-2.5 mm, papillose-based, shorter hairs about 0.5 mm, not papillose-based. Panicles with 2-9 spikelike primary branches, digitate  
+or on rachises to 4 cm; primary branch axes 3-10 cm, wing-margined, wings wider than the midribs, lower and middle portions bearing spikelets in groups of 3; secondary branches rarely present; shortest pedicels 0.5-0.8 mm; midlength pedicels 1.5-2 mm; longest pedicels 3-3.5 mm, adnate to the branch axes basally. Spikelets homomorphic, 1.5-1.8 mm, lanceolate. Lower glumes absent; upper glumes 1/6-1/3 as long as the spikelets, margins and apices with appressed white hairs, hairs about 0.3 mm; lower lemmas 7-veined, veins equally spaced, appressed-pubescent between the inner lateral veins and on the margins, hairs 0.3-0.5 mm, minutely verrucose (use 50x magnification); upper lemmas yellow or tan at maturity. 2n - unknown.
+</description>
+  <discussion>Digitaria serotina is native to the coastal plain of the southeastern United States. It has also been found in Cuba, possibly as an introduction, and on a ballast dump in Philadelphia, Pennsylvania. Its densely hairy sheath and short, densely hairy blades make this one of the more distinctive species of Digitaria in the Flora region.</discussion>
+</bio:treatment>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>John W. Thieret</author>
+    </source>
+  </meta>
+  <number>26.30</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>COIX L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; monoecious, pistillate and staminate spikelets on separate rames in the same inflorescence. Culms to 3 m, erect, creeping, or floating, branched; internodes solid. Leaves not aromatic; ligules membranous. Inflorescences axillary, of 2(3) rames, 1 pistillate, the other(s) staminate, pistillate rames completely enclosed in indurate, globose to cylindric, modified leaf sheaths, termed involucres, from which the staminate rames protrude. Pistillate rames each with 3 spikelets, 1 sessile and pistillate, the other 2 pedicellate and rudimentary; sessile spikelets somewhat dorsally compressed; glumes coriaceous, beaked; stigmas protruding from the involucres. Caryopses more or less globose. Staminate rames flexible, exserted from the involucre; spikelets in pairs or triplets, 1 sessile, the other(s) pedicellate, reduced, or absent; lower glumes chartaceous, with 15 or more veins, 2-keeled, keels winged above; upper glumes similar, with 1 keel; lower florets sometimes sterile; upper florets staminate; stamens 0 or 3; lodicules 2. Pedicels not fused to the rame axes, x = 5.</description>
+  <discussion>Coix is a genus of about five species, one of which has been introduced into the Flora region. All the species are native to tropical Asia, where C. lacryma-jobi and, to a lesser extent, C. gigantea are harvested for food.</discussion>
+  <references>Jain, S.K. and D.K. Banerjee. 1974. Preliminary observations on the ethnobotany of the genus Coix. Econ. Bot. 28:38-42; Watt, G. 1904. Coix spp. or Job's tears: A review of all available information. Agric. Ledger 13:189-229.</references>
+</bio:treatment>

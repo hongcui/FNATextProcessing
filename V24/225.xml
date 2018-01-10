@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Piptochaetium avenaceum (L.) Parodi </name_authority_date>
+  </taxon_identification>
+  <common_names>BLACKSEED SPEARGRASS</common_names>
+  <description type="morphology">Culms (30)40-100 cm, glabrous; nodes 2-3, narrowed, yellowish to reddish. Sheaths glabrous; ligules rounded, sometimes highest at the sides, entire, of basal leaves 0.4-3.3 mm, of upper leaves 1.8-2.5 mm; blades 8-30 cm long, 0.6-3 mm wide, usually involute and about 0.5 mm in diameter, 3-veined, abaxial surfaces glabrous, smooth, adaxial surfaces scabrous over the veins, margins scabrous. Panicles 14-22 cm, open, with (10)15-25 spikelets; branches lax, divergent, spikelets confined to the distal 1/2; pedicels 15-50 mm, flattened, hispid. Glumes subequal, 9-15 mm long, 0.9-1.9 mm wide, acute; lower glumes 3(5)-veined; upper glumes 5-veined; florets 7-13 mm long, 1-1.2 mm thick, terete; calluses 2-3 mm, sharp, strigose, hairs golden brown at maturity; lemmas glabrous, tan to brown at maturity, smooth below, sharply tuberculate in the distal 1/3, constricted below the crown; crowns 0.5-0.6 mm wide, straight, not revolute, hairy, hairs 0.2-0.5 mm, golden brown; awns 40-75 mm, persistent, twice-geniculate, basal segment hispid, terminal segment scabrous; paleas 7-14 mm; anthers 0.3-0.5 mm or 3-4 mm, not penicillate. Caryopses 3.5-6 mm, terete. 2n = 22. Cialdella & Giussani (2002) mistakenly cited Gould (1958) as having reported 2n = 28.</description>
+  <discussion>Piptochaetium avenaceum grows in open oak and pine woods, often on sandy soils, throughout most of the coastal plain of the eastern United States, extending north up the Mississippi valley, and also on the east side of Lake Michigan. With the exception of one record from southern Ontario, Canada (collected in 1965 and not seen in Canada since, even though it has been searched for, fide Michael Oldham, pers. comm.), P. avenaceum is known only from the contiguous United States.
+Piptochaetium avenaceum is very similar to P. avenacioides, differing only in its smaller size and more widespread distribution. It is also similar to P. leianthum (Hitchc.) Beetle, a species of northeastern Mexico, from which it differs in it larger size. The existence of two ranges of anther length suggests that the species is sometimes cleistogamous.
+</discussion>
+</bio:treatment>

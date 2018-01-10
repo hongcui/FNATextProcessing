@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Paspalum setaceum var. supinum (Bosc ex Poir.) Trin.</name_authority_date>
+  </taxon_identification>
+  <common_names>SUPINE THIN PASPALUM</common_names>
+  <description type="morphology">Plants usually spreading. Leaves mostly cauline; blades to 31 cm long, 2.2-19 mm wide, lax to straight, long pubescent, hairs 1.5-4 mm, yellow-green, margins ciliate, with long stiff hairs. Panicle branches 2.2-9.9 cm; branch axes 0.6-1.5 mm wide. Spikelets 1.7-2.1 mm long, 1.2-1.6 mm wide, elliptic to obovate (rarely suborbicular), glabrous or pubescent; lower lemmas with or without an evident midvein; upper florets 1.7-2.1 mm.</description>
+  <discussion>Paspalum setaceum var. supinum grows at the edges of forests and in disturbed areas. Within the Flora region, its range extends from Texas, Arkansas, and Louisana to South Carolina, Georgia, and Florida.
+Paspalum setaceum var. supinum resembles var. muhlenbergii, differing in its spreading habit and, usually, in its spikelet shape and lack of a midvein on the lower lemma.
+</discussion>
+</bio:treatment>

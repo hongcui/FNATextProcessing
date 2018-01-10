@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>22</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis tef (Zucc.) Trotter </name_authority_date>
+  </taxon_identification>
+  <common_names>TEFF</common_names>
+  <description type="morphology">Plants annual; loosely tufted, without innovations, without glands. Culms 25-60 cm, erect, glabrous and shiny. Sheaths mostly glabrous, apices hairy, hairs to 5 mm; ligules 0.2-0.4 mm, ciliate; blades 10-30 cm long, 2-5.5 mm wide, flat to involute, glabrous abaxially, scabridulous adaxially. Panicles 10-45 cm long, 2.5-22 cm wide, ovate, open to contracted; primary branches 4-17 cm, appressed or diverging up to 50° from the rachises, flexible, naked below; pulvini glabrous or hairy, hairs to 5 mm; pedicels 2.5-17 mm, appressed or divergent. Spikelets 4-11 mm long, 1.3-2.5 mm wide, linear-lanceolate to ovate, stramineous, grayish-green to purplish, with 4-16 florets; disarticulation tardy, acropetal, caryopses falling before the glumes and lemmas, paleas persistent. Glumes lanceolate, membranous to hyaline; lower glumes 1-2 mm; upper glumes 1.5-2.8 mm; lemmas 1.6-3 mm, lanceolate, membranous, apices acute; paleas 1.4-2.2 mm, hyaline, keels scabridulous, apices obtuse; anthers 3, 0.2-0.5 mm, purplish. Caryopses 0.7-1.3 mm, obovoid, not grooved, smooth, light brown to whitish. 2n = 40.</description>
+  <discussion>Eragrostis tef is native to northern Africa. In Ethiopia, it is used both as a grain and as fodder for cattle. It is also grown, but not commonly, for these purposes in the Flora region and is occasionally found as an escape from cultivation.</discussion>
+</bio:treatment>

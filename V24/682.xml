@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>20</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Puccinellia nutkaensis (J. Presl) Fernald & Weath. </name_authority_date>
+  </taxon_identification>
+  <common_names>ALASKA ALKALI GRASS, PACIFIC ALKALI GRASS, PUCCINELLIE BRILLANTE</common_names>
+  <description type="morphology">Plants perennial; cespitose, occasionally appearing rhizomatous or stoloniferous after rooting at the nodes of buried stems, not mat-forming. Culms 10-90 cm, usually erect, sometimes decumbent. Leaves usually distributed evenly along the culms; ligules 1-3 mm, obtuse to truncate, entire; blades 1.5-6 mm wide when flat, flat to involute. Panicles 5-30 cm, compact to diffuse at maturity, lower branches usually erect to ascending, occasionally spreading to descending, spikelet-bearing from near the base or the spikelets confined to the distal 1/2; pedicels from sparsely to densely scabrous, epidermal cells often tumid. Spikelets 3.5-12 mm, with 3-7 florets. Glumes rounded over the back, veins obscure, apices acute to truncate; lower glumes 1-1.6 mm; upper glumes 2-3 mm; calluses with a few hairs; lemmas (2.2)3-4.5(5) mm, herbaceous, glabrous or sparsely hairy on the proximal 1/2, principally along the veins, backs rounded, 5-veined, veins obscure, not extending to the margins, midveins smooth distally, apical margins uniformly and densely scabrous, apices usually acute to obtuse, sometimes acuminate, entire; palea veins glabrous or with short hairs proximally, scabrous distally; anthers 0.5-1.4 mm. 2n = 42, 56.</description>
+  <discussion>Puccinellia nutkaensis grows in coastal habitats of continental North America and Greenland, generally in sand and stones in protected intertidal environments. It is variable in form, ranging from diminutive plants that resemble P. pumila to tall, erect plants, often with dense or open inflorescences, resembling P. nuttalliana. Larger plants on the Pacific coast have been called P. grandis Swallen, and those on the Atlantic coast P. lucida Fernald & Weath., but there are many plants of intermediate stature.</discussion>
+</bio:treatment>

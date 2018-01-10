@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Paul M. Peterson</author>
+    </source>
+  </meta>
+  <number>17.23</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>ERAGROSTIS Wolf</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; usually synoecious, sometimes dioecious; cespitose, stoloniferous, or rhizomatous. Culms 2-160 cm, not woody, erect, decumbent, or geniculate, sometimes rooting at the lower nodes, simple or branched; internodes solid or hollow. Leaves not strongly distichous; sheaths open, often with tufts of hairs at the apices, hairs 0.3-8 mm; ligules usually membranous and ciliolate or ciliate, cilia sometimes longer than the membranous base, occasionally of hairs or membranous and non-ciliate; blades flat, folded, or involute. Inflorescences terminal, sometimes also axillary, simple panicles, open to contracted or spike¬like, terminal panicles usually exceeding the upper leaves; pulvini in the axils of the primary branches glabrous or not; branches not spikelike, not disarticulating. Spikelets 1-27 mm long, 0.5-9 mm wide, laterally compressed, with (1)2-60 florets; disarticulation below the fertile florets, sometimes also below the glumes, acropetal with deciduous glumes and lemmas but persistent paleas, or basipetal with the glumes often persistent and the florets usually falling intact. Glumes usually shorter than the adjacent lemmas, l(3)-veined, not lobed, apices obtuse to acute, unawned; calluses glabrous or sparsely pubescent; lemmas usually glabrous, obtuse to acute, (l)3(5)-veined, usually keeled, unawned or mucronate; paleas shorter than the lemmas, longitudinally bowed-out by the caryopses, 2-keeled, keels usually ciliate, intercostal region membranous or hyaline; anthers 2-3; ovaries glabrous; styles free to the bases. Cleistogamous spikelets occasionally present, sometimes on the axillary panicles, sometimes on the terminal panicles. Caryopses variously shaped, x = 10. </description>
+  <discussion>Eragrostis, a genus of approximately 350 species, grows in tropical and subtropical regions throughout the world. About 110 species are native or adventive in the Western Hemisphere; 25 species are native in the Flora region, 24 are introduced. In most taxa native to the Western Hemisphere, disarticulation is acropetal and the lemmas fall with the caryopses, leaving the paleas attached to the rachilla.
+Nathaniel Wolf (1776), the person who first named Eragrostis, made no statement concerning the origin of its name. Clifford (1996) provides three possible derivations: from eros, 'love', and Agrostis, the Greek name for an indeterminate herb; from the Greek er, 'early' and agrostis, 'wild', referring to the fact that some species of Eragrostis are early invaders of arable land; or the Greek eri-, a prefix meaning 'very' or 'much', suggesting that the name means many-flowered Agrostis. Many authors have stated that the first portion of the name is derived from eros, but none has explained the connection between Eragrostis and passionate expressions of love, the kind of love to which eros applies.
+</discussion>
+  <references>Clifford, H.T. 1996. Etymological Dictionary of Grasses, Version 1.0 (CD-ROM). Expert Center for Taxonomic Identification, Amsterdam, The Netherlands; Harvey, L.H. 1948. Eragrostis in North and Middle America. Ph.D. dissertation, University of Michigan, Ann Arbor, Michigan, U.S.A. 269 pp.; Harvey, L.H. 1975. Eragrostis. Pp. 177-201 in F.W. Gould. The Grasses of Texas. Texas A&M University Press, College Station, Texas, U.S.A. 635 pp.; Koch, S.D. 1974. The Eragrostis pectinacea-pilosa complex in North and Central America. Illinois Biol. Monogr. 48:1-74; Sanchez Vega, I. and S.D. Koch. 1988. Estudio biosistematico de Eragrostis mexicana, E. neomexicana, E. orcuttiana, y E. virescens (Gramineae: Chloridoideae). Bol. Soc. Bot. 48:95-112; Van den Borre, A. and L. Watson. 2000. On the classifica¬tion of the Chloridoideae: Results from morphological and leaf anatomical data analyses. Pp. 180-183 in S.W.L. Jacobs and J. Everett (eds.). Grasses: Systematics and Evolution. International Symposium on Grass Systematics and Evolution (3rd:1998). CSIRO Publishing, Collingwood, Victoria, Australia. 408 pp.; Wolf, N.M. 1776. Genera Plantarum. [publisher unknown, Danzig, Germany]. 177 pp.</references>
+  <key>
+    <key_body>
+1. Plants annual, tufted or mat-forming, without innovations [for opposite lead, see p. 67]. 2. Palea keels prominently ciliate, the cilia 0.2-0.8 mm long.
+3. Spikelets 1-3.6 mm long, 0.9-2 mm wide, with 4-12 florets; lemmas 0.7-1.3 mm long.
+4. Anthers 2; pedicels 0.1-1 mm long, mostly shorter than the spikelets, straight.....1. E. ciliaris
+4. Anthers 3; pedicels 1-4(7) mm long, as long as or longer than the spikelets, mostly curved .....3. E. amabilis
+3. Spikelets 5-20 mm long, 1.4-4 mm wide, with 10-42 florets; lemmas 1.3-2.8 mm long.
+5. Lemmas and culms without glands; anthers 0.1-0.2 mm long, purplish   .....2. E. cumingii
+5. Lemmas with 1-3 crateriform glands on the keels, similar glands also often present below the cauline nodes; anthers 0.2-0.5 mm long, yellow   .....18. E. cilianensis
+2. Palea keels smooth or scabrous, the scabridities less than 0.2 mm long.
+6. Plants mat-forming; panicles 1-3.5 cm long; erect portion of culms (2)5-20 cm, the basal portion prostrate and rooting at the nodes. 
+7. Spikelets bisexual; anthers 2, 0.2-0.3 mm long.....4. E. hypnoides
+7. Spikelets and plants unisexual; anthers 3, 1.4-2.2 mm long.....5. E. reptans
+6. Plants usually not forming mats; panicles 3-55 cm long; culms (2)6-130 cm tall, not prostrate or rooting at the lower nodes.
+8. Ligules membranous, neither ciliolate nor ciliate   .....6. E. japonica
+8. Ligules membranous and ciliolate to ciliate, the cilia often longer than the basal membrane.
+9. Caryopses with a shallow or deep ventral groove, ovoid to rectangular-prismatic or dorsally compressed, if dorsally compressed, the surface striate or smooth. 
+10. Bases of the caryopses greenish; caryopses dorsally compressed, the distal 2/3 translucent, the surface smooth; leaf sheaths with oblong glands; in the Flora region, known from a single collection at Canton, Maryland .....7. E. cylindriflora
+10. Bases of the caryopses reddish-brown or brownish; caryopses laterally compressed or rectangular-prismatic to ovoid, the distal 2/3 opaque, the surface striate; sheaths without oblong glands, sometimes with glandular pits; plants found at many locations in the Flora region. 
+11. Spikelets 4-11 mm long, with 5-15 florets; pedicels somewhat divergent to almost appressed  .....12. E. mexicana
+11. Spikelets 1.4-5 mm long, with 2-7 florets; pedicels divergent.
+12. Panicles 4-20 cm long, less than 1/2 the height of the plant; pedicels 1.5-5 mm long; glandular pits often present below the cauline nodes, on the rachises, and on the panicle branches  .....13. E. frankii
+12. Panicles 10-45(55) cm long, 2/3 or more the height of the plant; pedicels 4-25 mm long; plants without glandular pits .....14. E. capillaris
+9. Caryopses without a ventral groove, usually globose, rarely flattened, pyriform, obovoid, ellipsoid, or rectangular-prismatic, the surface smooth to faintly striate.
+13. Plants with glandular pits or bands somewhere, the location(s) various, including any or all of the following: below the cauline nodes, on the sheaths, blades, rachises, panicle branches, or pedicels, or on the keels of the lemmas and paleas.
+14. Panicles 0.5-2 cm wide, contracted; primary panicle branches usually appressed, occasionally diverging up to 30° from the rachises; spikelets light yellowish, occasionally with reddish-purple markings   .....15. E. lutescens
+14. Panicles 2-18 cm wide, open to somewhat contracted; primary panicle branches diverging 20-110° from the rachises; spikelets plumbeous, greenish, or reddish-purple.
+15. Spikelets 1.7-5.6 mm long, with 3-6 florets   .....13. E. frankii
+15. Spikelets (2)3.5-20 mm long, with (3)5-40 florets.
+16. Spikelets 0.6-1.4 mm wide; pedicels 1-10 mm long, lax, appressed or divergent .....16. E. pilosa
+16. Spikelets 1.1-4 mm wide; pedicels 0.2-4 mm long, stiff, straight, usually divergent.
+17. Lemmas 2-2.8 mm long, with 1-3 crateriform glands along the keels; spikelets 6-20 mm long, 2-4 mm wide, with 10-40 florets; disarticulation below the florets, the rachillas persistent; anthers yellow   .....18. E. cilianensis
+17. Lemmas 1.4-1.8 mm long, rarely with 1 or 2 crateriform glands along the keels; spikelets 4-7(11) mm long, 1.1-2.2 mm wide, with 7-12(20) florets; disarticulation below the lemmas, both the paleas and rachillas usually persistent; anthers reddish-brown.
+18. Panicles with glandular regions below the nodes, the glandular tissue forming a ring or band, often shiny or yellowish; anthers 3; blade margins without crateriform glands; pedicels without glandular bands.....19. E. barrelieri
+18. Panicles sometimes with areas, but rarely rings, of glandular spots or crateriform pits below the nodes, the glands usually dull greenish-gray to stramineous; anthers 2; blade margins sometimes with crateriform glands; pedicels usually with glandular bands .....20. E. minor
+13. Plants without glandular pits or bands.
+19. Spikelets (1.6)2-4 mm wide; florets disarticulating intact from the persistent rachillas .....21. E. unioloides
+19. Spikelets 0.6-2.5 mm wide; lemmas disarticulating separately from the paleas, sometimes both the paleas and the rachillas persistent. 
+20. Spikelets with 3-6 florets; plants of the central and northeastern United States and southern Ontario, Canada .....13. E. frankii
+20. Spikelets with (3)5-42 florets; plants from throughout the contiguous United States and southern Ontario, Canada.
+21. Lemmas 1.6-3 mm long; caryopses 0.7-1.3 mm long, obovoid, smooth, light brown to white; plants cultivated, occasionally escaping .....22. E. tef
+21. Lemmas 1-2.2 mm long; caryopses 0.3-1.1 mm long, subglobose, pyriform, or obovoid to prism-shaped, smooth or faintly striate, brownish; plants native species or established introductions, variously distributed.
+22. Lemmas  with conspicuous, often greenish lateral  veins; caryopses 0.3-0.6 mm long, ovoid, subglobose to obovoid.
+23. Spikelets 5-12(18) mm long, with 12-42 florets; primary branches 6-10 per culm; lemmas 1.3-2 mm long; anthers 3 .....2.E. cumingii
+23. Spikelets 2-4.6 mm long, with 5-15 florets; primary
+branches (12)15-20 per culm; lemmas 1-1.3 mm long; anthers 2 ..... 23. E. gangetica
+22. Lemmas with inconspicuous to moderately conspicuous lateral veins, the veins usually not greenish; caryopses 0.5-1.1 mm long, pyriform or obovoid to prism-shaped.
+24. Lower glumes 0.5-1.5 mm long, at least 1/2 as long as the lowest lemmas; spikelets 1.2-2.5 mm wide; panicle branches solitary or paired at the lowest 2 nodes; lemmas with moderately conspicuous lateral veins .....17. E. pectinacea
+24. Lower glumes 0.3-0.6(0.8) mm long, usually less than 1/2 as long as the lowest lemmas; spikelets 0.6-1.4 mm wide; panicle branches usually whorled at the lowest 2 nodes; lemmas with inconspicuous lateral veins .....16. E. pilosa
+1. Plants perennial, sometimes rhizomatous, forming innovations at the basal nodes [for opposite lead, see p. 65].
+25. Paleas with a broad lower portion forming a wing or tooth on each side, these often projecting beyond the lemmas.
+26. Spikelets 5.5-16 mm long, 2.7-9 mm wide; lemmas 3-5 mm long, the keels without crateriform glands; pedicels with a narrow band or abscission line just below the apices; anthers 1.4-2.8 mm long   .....24. E. superba
+26. Spikelets 2-5 mm long, 2-3.5 mm wide; lemmas 1.8-2.3 mm long, the keels with a few crateriform glands; pedicels without a narrow band or abscission line just below the apices; anthers 0.5-0.9 mm long .....25. E. echinochloidea
+25. Paleas without a broad lower portion forming a wing or tooth, the bases never projecting beyond the lemmas.
+27. Plants rhizomatous; disarticulation always below the florets, the paleas falling with the lemmas and caryopses.
+28. Plants with long, scaly rhizomes, 4-8 mm thick; spikelets 8-14 mm long; lemmas 3.8-4.5 mm long, 3-5-veined, the apices acute to obtuse, usually erose; caryopses 1.6-2 mm long .....26. E. obtusiflora
+28. Plants with short, knotty rhizomes less than 4 mm thick, often stout but never elongated; spikelets 2.5-7.6 mm long; lemmas 1-2.5 mm long, 3-veined, the apices acute, usually entire; caryopses 0.5-0.8 mm long.
+29. Sheaths, blades, and culms not viscid or glandular; caryopses strongly flattened, the ventral surface with 2 prominent ridges separated by a groove ; anthers 0.3-0.5 mm long; lemmas leathery .....27. E. spectabilis
+29. Sheaths, blades, and/or culms often viscid, sometimes glandular; caryopses terete, the ventral surfaces without 2 ridges separated by a groove; anthers 0.2-0.4 mm long; lemmas membranous. 
+30. Pedicels 0.2-1.2 mm long, appressed; lemmas 1.5-2.2 mm long; caryopses 0.6-0.8 mm long .....28. E. curtipedicellata
+30. Pedicels (1)1.5-12 mm long, divergent or appressed; lemmas 1.1-1.4 mm long; caryopses 0.5-0.6 mm long .....29. E. silveana
+27. Plants not rhizomatous; disarticulation often below the lemmas, the paleas persistent, sometimes below the florets and the the paleas falling with the lemmas and caryopses.
+31. Panicles 0.3-0.6 cm wide, spicate, dense; spikelets with 2-3 florets.....30. E. spicata
+31. Panicles 1-45 cm wide, ovate to obovate or elliptic, open to somewhat condensed and glomerate; spikelets with 1-45 florets.
+32. Caryopses with shallowly to deeply grooved adaxial surfaces, rectangular-prismatic to ellipsoid, ovoid, or obovoid in overall shape [for opposite lead, see p. 69].
+33. Caryopses strongly dorsally compressed, translucent, mostly light brown, bases sometimes greenish.
+34. Lemmas 1.8-3 mm long; panicles 16-35(40) cm long, (4)8-24 cm wide; blades 12-50(65) cm long; caryopses 1-1.7 mm long; ligules 0.6-1.3 mm long .....9. E. curvula
+34. Lemmas 1.4-1.7 long; panicles 6-18 cm long, 2-8 cm wide; blades 2-12 cm long; caryopses 0.4-0.8 mm long; ligules 0.3-0.5 mm long.
+35. Plants without woolly hairs at the base; glumes unequal; lateral lemma veins not green, inconspicuous throughout; spikelets 0.8-1.2 mm; naturalized in the southwestern United States .....10. E. lehmanniana
+35. Plants with conspicuous, woolly hairs at the base; glumes subequal; lateral lemma veins green, conspicuous basally, obscure near the lemma apices; spikelets 1.3-2 mm wide; in the Flora region, known only from waste areas near a woolen mill in South Carolina .....11. E. setifolia
+33. Caryopses laterally compressed, terete, or slightly dorsally compressed, usually opaque, usually reddish-brown.
+36. Lateral veins of the lemmas conspicuous, often greenish, the lemmas strongly keeled.
+37. Panicles 2-8 cm wide, contracted to somewhat open, narrowly oblong to narrowly lanceolate; primary branches appressed or diverging up to 30° from the rachises; lemmas with punctate glands along the keels; pedicels 1-7 mm long, appressed; plants native to Africa, in the Flora region, known only from waste areas near sheep and cattle lots in South Carolina and Alabama   .....31. E. plana
+37. Panicles 4-30 cm wide, open, ovate to oblong; primary branches diverging 10-90° from the rachises; lemmas without punctate glands on the keels; pedicels 0.4-22 mm long, usually diverging, occasionally appressed; plants native to the southern United States.
+38. Pedicels with a glandular band; culms with a glandular band below the nodes; anthers 0.3-0.5 mm long; restricted to southern Texas .....32. E. swallenii
+38. Pedicels and culms without glandular bands; anthers 0.6-1.6 mm long; often found outside southern Texas.
+39. Glumes 1.8-4 mm long, the upper glumes generally equaling or exceeding the lower lemmas; spikelets 1.5-3.6 mm wide, greenish-yellow with a reddish-purple tinge; lemmas 2.2-3.5 mm long; caryopses  0.8-1.3 mm long  .....33. E. trichodes
+39. Glumes 1.1-2.2 mm long, the upper glumes exceeded by the lower lemmas; spikelets 1-2 mm wide, plumbeous; lemmas 2-2.6 mm long; caryopses 0.6-0.8 mm long .....34. E. palmeri
+36. Lateral veins of the lemmas inconspicuous, the lemmas sometimes only weakly keeled. 40. Lemmas 1.2-1.8 mm long; culms 30-70 cm tall.
+41. Culms with a glandular ring below the nodes; bases of primary panicle branches with a glandular band; panicles 2-7 cm wide; pedicels glandular; known, in the Flora region, only from a few collections at Canton, Maryland .....8. E. trichopbora
+41. Culms without a glandular ring below the nodes; bases of primary panicle branches without a glandular band; pedicels not glandular at the base; panicles 5-27 cm wide; plants known from many parts of the southern United States. 
+42. Spikelets 1.1-1.6 mm wide, uniformly plumbeous; sheaths sometimes densely pilose dorsally and on the collars; distal margins of the lemmas not hyaline .....35. E. polytrichia
+42. Spikelets 0.5-1(1.3) mm wide, plumbeous to reddish-purple; sheaths usually glabrous dorsally and on the collars; distal margins of the lemmas hyaline .....36. E. lugens
+40. Lemmas 1.6-3 mm long; culms (30)40-110(120) cm tall.
+43. Spikelets greenish with a purplish tinge, with 2-6 florets; blades 25-60 cm long, 3-11 mm wide, flat to loosely involute; sheaths densely hirsute with papillose-based hairs on the collar, back, and base  .....37. E. hirsuta
+43. Spikelets olivaceous to plumbeous, with (3)5-12 florets; blades (4)10-35 cm long, 1-3.8 mm wide, involute or flat; sheaths never with papillose-based hairs, sometimes villous over the back. 
+44. Lemmas 1.6-2.2 mm long; anthers 0.5-0.8 mm long, purplish .....38. E. intermedia
+44. Lemmas 2-3 mm long; anthers 0.6-1.7 mm long, purplish to yellowish. 45. Caryopses 0.8-1.6 mm long; lemmas 2.4-3 mm long .....39. E. erosa
+45. Caryopses 0.6-0.8 mm long; lemmas 2-2.6 mm long .....34. E. palmeri
+32. Caryopses not grooved on the adaxial surfaces, ellipsoid, subellipsoid, ovoid, obovoid, globose, to pyriform in overall shape [for opposite lead, see p. 68].
+46. Anthers 2.
+47. Panicles 15-45 cm wide, open, diffuse, broadly ovate to obovate; primary branches lax; pedicels 0.5-35(50) mm long, the lower pedicels longer or shorter than the spikelets.
+48. Spikelets with appressed pedicels; only the terminal pedicels of each branch longer than the spikelets; disarticulation usually in the rachilla beneath the florets.....40. E. refracta
+48. Spikelets with divergent pedicels; all pedicels usually longer than the spikelets; disarticulation below the lemmas, the paleas persistent .....41. E. elliottii
+47. Panicles (1)2-17 cm wide, contracted to open, narrowly ovate to oblong; primary branches stiff; pedicels absent or 0.3-6 mm long, always shorter than the spikelets.
+49. Spikelets 2.4-5 mm wide; glumes 1.7-4 mm long; lemmas 2-6 mm long, the apices usually acuminate or attenuate .....42. E. secundiflora
+49. Spikelets 1-2.4 mm wide; glumes 1-2.2 mm long; lemmas 1.1-2.5  mm  long, the apices usually acute, occasionally acuminate. 
+50. Spikelets 0.7-1.4 mm wide; anthers 0.2-0.3 mm long; caryopses flattened ventrally  .....43. E. prolifera
+50. Spikelets 1.3-2.4 mm wide; anthers (0.2)0.3-0.7 mm long; caryopses rounded, not flattened ventrally. 
+51. Terminal panicles  1-3.5 cm wide, contracted, condensed into glomerate lobes; primary branches 0.8-3 cm long   .....44. E. elongata
+51. Terminal panicles (1)2-17 cm wide, open to contracted; primary branches 1-15 cm long. 
+52. Plants without axillary panicles; terminal panicles 15-45 cm long; blades (8)12-40 cm long, 2-5 mm wide, flat to involute; caryopses 0.6-0.8 mm long, striate, obovoid to ellipsoid ..... E. bahiensis
+52. Plants usually with axillary panicles, these contracted and partially to completely enclosed by the subtending sheaths; terminal panicles 5-15 cm long; blades 4-8(18) cm long, 1-2 mm wide, usually involute; caryopses 0.5-0.6 mm long, smooth, globose ..... 46. E. scaligera
+46. Anthers 3.
+53. Primary panicle branches not rebranched; proximal spikelets on each branch sessile or subsessile, the pedicels shorter than 0.4 mm .....47. E. sessilispica
+53. Primary panicle branches usually with secondary branches; proximal spikelets on each branch usually pedicellate, the pedicels longer than 0.4 mm. 
+54. Spikelets 1.3-2 mm long, with 1-3 florets; lemmas 0.8-1.2 mm long .....48. E. airoides
+54 Spikelets 2-19 mm long, with 2-22 florets; lemmas 1.2-2.4 mm long. 
+55. Spikelets 2-4.5(5) mm long.
+56. Blades 25-60 cm long, 3-11 mm wide; lemmas 1.6-2.4 mm long; spikelets 1-1.7 mm wide; sheaths densely hirsute, with papillose-based hairs on the base, back, and collar .....37. E. hirsuta
+56. Blades 4-22 cm long, 1-3.5 mm wide; lemmas 1.2-1.8 mm long; spikelets 0.5-1.3 mm wide; sheaths sometimes hirsute, at least partially, but the hairs never papillose-based  .....36. E. lugens
+55. Spikelets 4-19 mm long.
+57. Spikelets with 10-22 florets; caryopses terete to laterally compressed, opaque, uniformly reddish brown .....49. E. atrovirens
+57. Spikelets with  3-12(14)  florets;  caryopses  dorsally compressed, translucent, greenish over the embryo.
+58. Lemmas 1.8-3 mm long; panicles 16-35(40) cm long, (4)8-24 cm wide; blades 12-50(65) cm long; caryopses  1-1.7 mm long;  ligules  0.6-1.3  mm long .....9. E. curvula
+58. Lemmas 1.4-1.7 long; panicles 6-18 cm long, 2-8 cm wide; blades 2-12 cm long; caryopses 0.4-0.8 mm long; ligules 0.3-0.5 mm long.
+59. Plants without woolly hairs on the base; glumes unequal; lateral lemma veins not green, inconspicuous throughout; spikelets 0.8-1.2 mm; naturalized in the southwestern United States ..... 10. E. lehmanniana
+59. Plants with conspicuous, woolly hairs on the base; glumes subequal; lateral lemma veins green, conspicuous basally, obscure near the lemma apices; spikelets 1.3-2 mm wide; in the Flora region, known only from waste areas near a woolen mill in South Carolina.....11. E. settfolia
+
+    </key_body>
+  </key>
+</bio:treatment>

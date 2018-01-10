@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Digitaria arenicola (Swallen) Beetle </name_authority_date>
+  </taxon_identification>
+  <common_names>SAND WITCHGRASS</common_names>
+  <description type="morphology">Plants perennial; loosely tufted, with long,  creeping rhizomes. Culms 20-60 cm, erect; lower nodes glabrous or pubescent; upper nodes glabrous. Leaves mainly cauline; sheaths usually glabrous, lower sheaths sometimes pubescent; ligules 0.4-1 mm, truncate, entire to lacerate; blades 5-11.5 cm long, 3-4.5 mm wide, glabrous, usually flat or folded. Panicles simple, 12-24 cm long, 19-40 cm wide, open; nodes hispid; branches divergent; lower primary branches 10-21 cm, with 1-several sterile branches near the base; pedicels divergent, spikelets solitary. Spikelets 3.5-4.6 mm long, 0.8-1 mm wide, elliptical. Lower glumes 0.2-0.5 mm; upper glumes 3-3.8 mm, 5-7-veined, densely villous between the veins, hairs white, becoming purple at maturity; lower lemmas similar to the upper glumes in size, texture, and pubescence; upper lemmas 3-3.7 mm, narrowly acute, dark brown; anthers 1.1-1.4 mm. Caryopses 1.5-2 mm. 2n = 36, 37.</description>
+  <discussion>Digitaria arenicola is endemic to deep sands along the coast of Texas, a very restricted habitat and one that is being lost to the development of coastal parks and housing.</discussion>
+</bio:treatment>

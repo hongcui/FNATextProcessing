@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Dichanthelium dichotomum subsp. roanokense (Ashe) Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms to 100 cm, erect; nodes usually glabrous; internodes terete, usually glabrous, often slightly glaucous, sometimes olivaceous; fall phase with erect or decumbent culms, branching at the mid- and upper culm nodes, with numerous axillary branches, branches elongated and widely divergent, not forming fascicles. Cauline sheaths glabrous or the lowest sheaths sparsely pubescent; blades usually 5-8 mm wide, stiffly ascending or erect, often olivaceous or purplish abaxially, glabrous or sparsely pubescent basally. Spikelets 1.5-1.8 mm (seldom longer), broadly ellipsoid or obovoid, often purplish at the base, glabrous, obtuse to subacute. Upper florets 1.4-1.6 mm, broadly ellipsoid. 2n = unknown.</description>
+  <discussion>Dichanthelium dichotomum subsp. roanokense grows in marshes, wet pinelands, wet woods, and the borders of swamps. A relatively uncommon subspecies, it grows on the coastal plain from Delaware to south¬eastern Texas and in the West Indies.
+It is very similar to subsp. dichotomum and also exhibits traits of Dichanthelium sphaerocarpon and D. erectifolium.
+</discussion>
+</bio:treatment>

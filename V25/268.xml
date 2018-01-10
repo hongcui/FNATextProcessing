@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>23</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia polycaulis Scribn. </name_authority_date>
+  </taxon_identification>
+  <common_names>CLIFF MUHLY</common_names>
+  <description type="morphology">Plants perennial; loosely cespitose, sometimes shortly rhizomatous. Culms 15-40(50) cm tall, 0.8-1.5 mm thick, erect or decumbent; internodes glabrous or strigulose for most of their length, including below the nodes. Sheaths usually shorter than the internodes, smooth or scabridulous, without necrotic spots, not becoming spirally coiled when old; ligules 0.5-2.5 mm, membranous, obtuse to acute, without lateral lobes; blades 3-10 mm long, 0.5-2 mm wide, flat or involute (occasionally folded), smooth or scabridulous abaxially, hirsute or scabridulous adaxially, without necrotic spots. Panicles 2-12 cm long, 0.3-1.8 cm wide, contracted, interrupted below; primary branches 0.5-4 cm, appressed or diverging up to 30° from the rachises, spikelet-bearing to the base; pedicels 0.1-1.5 mm, scabrous. Spikelets 2.5-4 mm, plump near the middle. Glumes subequal, (1)1.5-2.6 mm, exceeded by the florets, 1-veined, acute or acuminate, unawned or awned, awns to 1.4 mm; lemmas 2-3.5 mm, elliptic, widest near the middle, appressed-pubescent on the lower 1/2 - 2/3 of the midveins and margins, hairs to 0.5 mm, apices scabridulous, acuminate, awned, awns 10-20(25) mm, flexuous; paleas 2-3.5 mm, elliptic, intercostal region appressed-pubescent on the basal 1/2, apices acuminate; anthers 1.5-2 mm, orange. Caryopses 1.5-2 mm, fusiform, brownish. 2n = 20, 40.</description>
+  <discussion>Muhlenbergia polycaulis grows in open vegetation on steep rocky slopes, canyon walls, cliffs, table rocks, and volcanic rock outcrops, at elevations of 1200-2400 m. Its range extends from the southwestern United States to central Mexico. It differs from M. glauca, with which it may be confused, in its longer lemma awns, shorter rhizomes, and loosely tufted habit.</discussion>
+</bio:treatment>

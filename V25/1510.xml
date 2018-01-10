@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Saccharum officinarum L. </name_authority_date>
+  </taxon_identification>
+  <common_names>SUGARCANE</common_names>
+  <description type="morphology">Plants with short rhizomes. Culms 3-6 m tall, 2-5 cm thick, clumped, glabrous throughout or nearly so, lower internodes swollen. Sheaths sometimes ciliate at the collar margins; auricles present; ligules 2-3 mm; blades 70-150 cm long, 20-60 mm wide, usually glabrous, occasionally with hairs on the adaxial surfaces. Peduncles 20-80 cm, glabrous; panicles 50-100 cm long, to 20 cm wide, lanceolate; rachises 30-80 cm, glabrous; primary branches 10-25 cm, appressed to spreading; rame internodes 3-6 mm, glabrous. Sessile spikelets 3-5 mm long, 0.8-0.9 mm wide, white to gray. Callus hairs 6-10 mm, exceeding the spikelets, white; lower glumes glabrous, 2-4-veined; upper glumes 3-veined; lower lemmas 3-4.5 mm, 2-3-veined; upper lemmas without veins, entire; awns absent; lodicule veins not extending into hairlike projections; anthers 3. Pedicels 2-5 mm, glabrous. Pedicellate spikelets similar to the sessile spikelets. 2n = 80.</description>
+  <discussion>Saccharum officinarum is native to tropical Asia and the Pacific islands. It is cultivated for sugar production in various parts of the world, including Texas, Louisiana, and Florida. It is also becoming popular as an ornamental plant for gardens in warmer parts of the contiguous United States, and appears to be established in some parts of the southeastern United States. A number of different, clonally propagated color forms are available. It hybridizes with S. spontaneum (see discussion above). </discussion>
+</bio:treatment>

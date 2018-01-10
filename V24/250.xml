@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Amelichloa brachychaeta (Godr.) Arriaga & Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>PUNA NEEDLEGRASS</common_names>
+  <description type="morphology">Plants with knotty, shortly rhizomatous bases. Culms 40-90 cm tall, 1-2(3) mm thick, erect, glabrous; nodes usually 3. Basal sheaths mostly glabrous, margins ciliate distally; collars glabrous, often with tufts of hair to 1.5 mm on the sides; ligules 0.2-0.6 mm, membranous, strigose, ciliate, cilia to 2 mm, slightly longer at the leaf margins; blades 8-35 cm long, usually convolute and 0.5-0.8 mm in diameter, 2-3 mm wide when flat, erect, abaxial surfaces smooth, adaxial surfaces usually glabrous. Panicles 10-25 cm long, 1-4 cm wide, bases sometimes included in the upper leaf sheaths; branches ascending to spreading, longest lower branches 4-12 cm. Glumes subequal, 6-8 mm, linear-lanceolate, 1-3-veined, midveins smooth, scabridulous, or with stiff hairs, varying within a panicle, apices acuminate; florets 4-5.5 mm long, about 0.8 mm thick, fusiform; calluses 0.4-0.5 mm, blunt, strigose, hairs 0.5-0.8 mm; lemmas pubescent over and between the veins on the proximal 1/2 at least initially, hairs 0.5-0.8 mm, sometimes glabrous at maturity between the midveins and lateral veins, distal portion glabrous, tapering to the apices, apices with 0.7-1 mm hairs around the base of the awn; awns 10-18 mm, glabrous or scabrous, usually once-geniculate; paleas 3/4 - 9/10 as long as the lemmas, pubescent over the central portion, apices involute; lodicules 3; anthers 2-2.4(3) mm, penicillate. Caryopses 2-3 mm long, 0.9-1 mm thick, fusiform; style bases straight, centric. 2n = unknown.</description>
+  <discussion>Amelichloa brachychaeta has been found at a few locations in California, where it is listed as a noxious weed. It is native to Uruguay and Argentina. It is avoided by cattle because of its sharply pointed leaves. The cleistogamous panicles, which may be at or below ground level, remain a source of seeds unless the plants are completely uprooted. Amelichloa caudata and A. clandestina (see below) are a greater problem in this regard, because they appear to produce such panicles more frequently.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Thinopyrum intermedium subsp. barbulatum (Schur) Barkworth & D.R. Dewey </name_authority_date>
+  </taxon_identification>
+  <common_names>HAIRY WHEATGRASS</common_names>
+  <description type="morphology">Glumes usually hairy throughout, sometimes merely scabrous on the veins; lemmas hirsute throughout, sometimes only on the margins, hairs 1-1.5 mm.</description>
+  <discussion>There is no known difference in geographic distribution between subsp. barbulatum and subsp. intermedium in the Flora region. Ogle (2001) states that T. intermedium subsp. barbulatum is adapted to areas with 11-12 inches of rainfall per year.</discussion>
+</bio:treatment>

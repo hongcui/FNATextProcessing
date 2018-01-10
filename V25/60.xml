@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Tridens flavus var. chapmanii (Small) Shinners </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Panicles usually erect throughout; branches stiff; pulvini conspicuously hairy, hairs extending around the base of the branches.</description>
+  <discussion>Tridens flavus var. chapmanii grows in pine and oak woods of the southeastern United States from Missouri to Virginia and south from easter Texas to Florida. </discussion>
+</bio:treatment>

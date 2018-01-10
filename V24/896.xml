@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Deschampsia mackenzieana Raup </name_authority_date>
+  </taxon_identification>
+  <common_names>MACKENZIE HAIRGRASS</common_names>
+  <description type="morphology">Plants loosely cespitose. Culms 30-80 cm, smooth, glabrous, sometimes decumbent at the base and rooting at the lower nodes. Basal leaves not forming a tuft; sheaths smooth; ligules 4-7.5 mm, acute; blades 1-3 mm wide, convolute to involute, abaxial surfaces smooth, adaxial surfaces scabrous. Panicles 10-20 cm long, 8-14 cm wide; branches ascending to laxly diverging or reflexed, somewhat scabrous, longest branches at the lower nodes usually undivided for 1/3-1/2 their length. Spikelets 6-7.5 mm, bisexual. Glumes acuminate, equaling or slightly longer than the distal floret; callus hairs 1.5-2 mm; lemmas 4.5-5.5 mm, awns attached on the lower 1/4 - 2/3, inconspicuous, weakly geniculate, from shorter than to exceeding the lemma by approximately 2 mm; anthers 1.5-2.7 mm. 2n = 52.</description>
+  <discussion>Deschampsia mackenzieana grows on the sandy shores and dunes around Great Slave Lake, Northwest Territories, and Lake Athabasca, Saskatchewan. The decumbent culms of some plants may be a response to shifting substrate.</discussion>
+</bio:treatment>

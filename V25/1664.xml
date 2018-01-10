@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Zea mays L. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual. Culms (0.5)1-3(6) m tall, (0.5)1-5 cm thick. Blades mostly 30-90 cm long, 2.5-12 cm wide. Pistillate inflorescences rames or spikes, usually shortly pedunculate (sometimes sessile), solitary, 4-30(40) cm long, (0.5)1-10 cm thick, with 2 or more rows of paired spikelets, hence the spikelets 4 or more ranked, rarely terminating in an unbranched staminate inflorescence. Caryopses concealed in fruitcases (wild taxa) or exposed (domesticated taxon); fruitcases of wild taxa distichous, triangular in side view; domesticated taxon without fruitcases, glumes reduced and shallow or collapsed and embedded in the rachis. Staminate panicles 10-25+ cm, with 1-60(235) branches, internodes 1.5-8.2 mm; spikelets 9-14 mm long, 2.5-5 mm wide; lower glumes rounded dorsally, flexible, translucent, papery, loosely enclosing the upper glumes, the 2 lateral veins subequal to the others, not winged. 2n = 20.</description>
+  <discussion>Of the five subspecies of Zea mays, only the domesticated subspecies, Z. mays subsp. mays, is widely grown outside of research programs. Three wild subspecies are treated here, albeit briefly, because of their importance as genetic resources for Z. mays subsp. mays.</discussion>
+  <key>
+    <key_body>
+1. Pistillate inflorescences cylindrical spikes, 2-5(10) cm thick, with 8-24+ rows of spikelets pairs, each inflorescence tightly and permanently enclosed by several leaf sheaths and a large prophyll, not disarticulating at maturity; caryopses 60-1000+, not concealed by the glumes; staminate panicle branches not disarticulating below the sessile spikelets, lacking abscission layers; central axis of the staminate panicles polystichous, much thicker than the lateral branches; obligate domesticate .....subsp. mays
+1. Pistillate inflorescences cylindrical, distichous rames, less than 1 cm thick, with 2 rows of spikelet pairs, each rame usually enclosed by a single leaf sheath and a prophyll, disarticulating at maturity into fruitcases; caryopses 4-15, each one concealed within a fruitcase; staminate panicles composed of rames that disarticulate below the sessile spikelets and have evident abscission layers; central axis of the staminate panicles similar in width to the rames; in the  
+Flora region, wild taxa are known only from research plantings.
+2. Staminate spikelets (6.6)7.5-10.5 mm long; fruitcases 6-10 mm long, 4-6 mm wide; staminate panicles with 1-35+ ascending to divergent, rather stiff branches .....subsp. mexicana
+2. Staminate spikelets 4.6-7.2(7.9) mm long; fruitcases  5-8  mm long,  3-5  mm wide; staminate panicles usually with 10-100(235) divergent to nodding branches. 
+3. Leaves  pubescent; staminate panicles with (2)10-100(235) branches .....subsp. parviglumis
+3. Leaves glabrous or almost so; staminate panicles  usually  with  fewer  than 40 branches .....subsp. huehuetenangensis
+
+    </key_body>
+  </key>
+</bio:treatment>

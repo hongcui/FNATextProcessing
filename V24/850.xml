@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>xDupoa labradorica (Steudel) J. Cay. & Darbysh. </name_authority_date>
+  </taxon_identification>
+  <common_names>LABRADOR BLUEGRASS, PATURIN DU LABRADOR</common_names>
+  <description type="morphology">Rhizomes to 1.5 mm thick, nodes with few roots. Culms 25-80 cm. Ligules 1-4 mm; blades 5-20 cm long, 2-6 mm wide. Panicles 8-20 cm, open to somewhat dense; branches glabrous, spikelet-bearing to the base. Spikelets 5-10 mm. Glumes subequal to unequal; lower glumes 4-8.5 mm,  1-3-veined; upper glumes 6.5-10 mm, (l)3-veined; lemmas 4-7 mm, 3-5-veined; paleas 4-6 mm; anthers 1.8-2.5 mm. 2n = 43-46
+(43+0-3).
+</description>
+  <discussion>xDupoa labradorica is known from southeastern Hudson Bay, eastern James Bay, and northern Labrador. Its distribution is completely within the sympatric range of the parental species. Additional records are to be expected from regions where both parental species are found, such as Alaska and the Russian Far East. It grows on seashores, lagoon margins, and salt marshes, usually in relatively deep organic matter over clay layers sometimes mixed with sandy or gravelly deposits. It sometimes forms dense and almost pure stands. The occurrence and spread of xDupoa labradorica are related primarily to geological processes associated with glacio-eustatic rebound and seasonal ice action, affecting its seashore habitats.
+xDupoa labradorica is a sterile hybrid between Dupontia fisheri (see next) and Poa eminens (p. 598). It is similar to Poa eminens, but has narrower leaves, stems, and rhizomes, and more open panicles. It differs from Dupontia fisheri in having glumes that usually do not exceed the florets, and some woolly or crinkly callus hairs. It differs from both parental species in having indehiscent anthers and no caryopses.
+</discussion>
+</bio:treatment>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Gordon C. Tucker</author>
+    </source>
+  </meta>
+  <number>14.35</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>DESMAZERIA Dumort.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual. Culms to 60 cm, procumbent to erect, sparingly branched at the base. Leaves basal and cauline; sheaths open, glabrous; auricles absent; ligules longer than wide, acute; blades linear, usually flat, sometimes convolute when dry, glabrous. Inflorescences terminal, racemes or panicles, usually with 1 branch per node; branches stiff, not secund, pedicels 0.5-3 mm. Spikelets subsessile, tangential to the rachises, lanceolate to ovate, laterally compressed, with 4-25 florets, distal florets reduced; disarticulation above the glumes, beneath the florets; rachillas not prolonged beyond the base of the distal floret. Glumes unequal to subequal,
+ 
+ 
+shorter than or subequal to the adjacent lemmas, 1-5-veined, unawned; calluses blunt, rounded, glabrous; lemmas narrowly elliptic, coriaceous at maturity, inconspicuously 5-veined, glabrous, sometimes scabridulous towards the apices, apices acute to obtuse, sometimes bifid, often mucronate, unawned; paleas about as long as the lemmas, 2-veined; lodicules 2, free, lanceolate; anthers 3, only slightly exserted at anthesis; ovaries glabrous. Caryopses shorter than the lemmas, concealed at maturity, ellipsoid-oblong, dorsally flattened, falling with the paleas; hila about 1/10 as long as the caryopses, ovate, x = 7.</description>
+  <discussion>Desmazeria has six or seven species, all of which are native around the Mediterranean. There are two species in the Flora region, one established as a weed and one introduced as an ornamental.
+One or two genera have sometimes been segregated from Desmazeria; current opinion favors the treatment presented here.
+</discussion>
+  <references>Hitchcock, A.S. 1951. Manual of the Grasses of the United States, ed. 2, rev. A. Chase. U.S.D.A. Miscellaneous Publication No. 200. U.S. Government Printing Office, Washington, D.C., U.S.A. 1051 pp.; Stace, C.A. 1978. Notes on Cutandia and related genera. Bot. J. Linn. Soc. 76:350-352.</references>
+  <key>
+    <key_body>
+1. Lemmas 2-3 mm long, rounded on the back or weakly keeled distally; anthers 0.4-0.6 mm long; inflorescences usually panicles, sometimes racemes  .....1. D. rigida
+1. Lemmas 3.5-4.5 mm long, strongly keeled; anthers 0.8-1.4 mm long; inflorescences racemes.....2. D. sicula
+
+    </key_body>
+  </key>
+</bio:treatment>

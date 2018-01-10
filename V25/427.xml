@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Bouteloua barbata var. rothrockii (Vasey) Gould </name_authority_date>
+  </taxon_identification>
+  <common_names>ROTHROCK'S GRAMA</common_names>
+  <description type="morphology">Plants short-lived perennials; not stoloniferous. Culms 25-60 (75) cm, stiffly erect or slightly geniculate-spreading basally; ligules 0.1-0.5 mm; blades 6-10 cm long, 1-4 mm wide. Panicles (3.5)5-25 cm, with 3-8 branches; branches 15-30 mm, scabrous, with 35-50 (55) spikelets. 2n = 40.</description>
+  <discussion>Bouteloua barbata var. rothrockii grows on dry slopes and sandy flats, mostly at 750-1700 m. It grows throughout the southwestern United States and Mexico, sometimes covering large areas. It used to be the most important forage grass in southern Arizona and neighboring regions.
+Bouteloua barbata var. rothrockii resembles B. parryi var. parryi, but can be easily distinguished from that taxon by the lack of papillose-based hairs on the keels of its upper glumes.
+</discussion>
+</bio:treatment>

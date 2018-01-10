@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Phalaris aquatica L. </name_authority_date>
+  </taxon_identification>
+  <common_names>BULBOUS CANARYGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, shortly rhizomatous. Culms 60-200 cm, often swollen at the base, rooting at the lower nodes. Ligules 2-12 mm, truncate, lacerate; blades 5-15(20) cm long, 0.5-10 mm wide. Panicles 1.5-15 cm long, 1-2.5 cm wide, usually cylindric, sometimes ovoid, occasionally lobed at the base, spikelets borne singly, not clustered; branches not evident. Spikelets homogamous,  with 2-3(5)  florets,  usually with  1 bisexual floret, occasionally with 2, occasionally the terminal floret viviparous; disarticulation above the glumes, beneath the sterile florets. Glumes 4.4-7.5 mm long, 1.2-1.5 mm wide, keels winged distally, wings 0.2-0.4 mm wide, usually entire, lateral veins conspicuous, smooth; sterile florets usually 1, hairy, if 2, lowest floret to 0.7 mm, upper or only sterile floret 1-3 mm; bisexual florets 3.1-4.6 mm long, 1.2-1.5 mm wide, hairy, stramineous, acute; anthers 3-3.6 mm. 2n = 28.</description>
+  <discussion>A native of the Mediterranean region, Phalaris aquatica now grows in many parts of the world, frequently having been introduced because of its forage value. Even where it is native, it usually grows in disturbed areas, often those subject to seasonal flooding. It is now established in western North America, being most common along the coast, and as an invasive in disturbed wet prairies with clay soils.
+Phalaris aquatica can hybridize with other species of Phalaris. The stabilized polyploid hybrid with P. minor, P. xdaviesii S.T. Blake, is cultivated as a forage grass in Australia, Africa, and South America. The hybrid with P. arundinacea, P. xmonspeliensis Daveau, is also a good forage grass. The name 'Toowoomba Canary-grass' has been applied to P. xmonspeliensis in North America, but Ross (1989) stated that it should be applied to P. aquatica. Using 'Bulbous Canarygrass' as the English-language name for P. aquatica avoids confusion, at least in the Flora region. In addition, it is descriptive, and is the name used by the U.S. Department of Agriculture for P. aquatica.
+</discussion>
+</bio:treatment>

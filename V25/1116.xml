@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Echinochloa crus-pavonis var. macra (Wiegand) Gould</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Panicles  usually erect,  stiff.  Lower paleas  absent or much less than 1/2 as long as the lower lemmas.</description>
+  <discussion>This variety extends south only as far as northern Mexico. The epithet is frequently spelled ‘macera’ but 'macra' is correct.</discussion>
+</bio:treatment>

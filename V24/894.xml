@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Deschampsia cespitosa (L.) P. Beauv. subsp. cespitosa</name_authority_date>
+  </taxon_identification>
+  <common_names>TUFTED HAIRGRASS, DESCHAMPSIE CESPITEUSE</common_names>
+  <description type="morphology">Plants densely cespitose, not glaucous. Culms (7)35-150 cm. Ligules 2-8 mm; blades 5-25 cm long, 1.5-3.5 mm wide when flat. Panicles 8-30 cm long, 4-30 cm wide, open, nodding, pyramidal; branches, both primary and secondary, usually divergent, usually sparsely to moderately scabridulous or scabrous, sometimes smooth. Spikelets 2.5-7 mm, not to slightly imbricate. Glumes subequal to the distal floret, lengths often less than 5 times widths; lower glumes 2.5-5 mm, midveins smooth or scabridulous distally; upper glumes 2-6 mm; lemmas 2-4 mm, purple and/or green proximally, green to gold distally, the purple portion usually less than 1/2 the surface area, awns 1-8 mm, usually attached near the base, sometimes attached near midlength, straight or geniculate, exceeded by or exceeding the distal floret; anthers 1.5-2 mm.</description>
+  <discussion>Deschampsia cespitosa subsp. cespitosa is treated here as a circumboreal taxon that is most prevalent in boreal and temperate North America, growing at 0-3000 m; many reports from arctic and alpine North America refer to what are treated here as D. sukatschewii or D. brevifolia. Even with this narrower interpretation, D. cespitosa is highly polymorphic. Plants with long awns are more prevalent in western North America but, within that region, do not appear to show any geographic or ecological preference (Lawrence 1945). Larger plants are difficult to distinguish from D. cespitosa subsp. beringensis. The morphological, geographic, and ecological boundaries between D. cespitosa subsp. cespitosa and subsp. beringensis need further study.
+Many cultivars of Deschampsia cespitosa subsp. cespitosa have been developed. At one time, the most frequently cultivated plants were distinguished by their combination of large (20-40 cm) panicles and small (2.5-4 mm) spikelets, and were called D. cespitosa var. parviflora (Thuill.) Coss. & Germ, or D. cespitosa subsp. parviflora (Thuill.) K. Richt. Such plants are treated here as one part of the spectrum of variation in subsp. cespitosa.
+The name Deschampsia cespitosa var. glauca (Hartm.) Lindm. has been applied in eastern North America to glaucous plants less than 75 cm tall, with spikelets only 3-4.5 mm long. Unfortunately, the name is illegitimate; there is no legitimate name available for such plants.
+</discussion>
+</bio:treatment>

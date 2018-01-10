@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>J.K. Wipff</author>
+    </source>
+  </meta>
+  <number>14.32</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>GASTRIDIUM P. Beauv.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual; tufted or the culms solitary. Culms 7-70 cm, erect to decumbent. Leaves cauline; sheaths open; auricles vestigial or absent; ligules membranous; blades flat. Inflorescences panicles, contracted or spikelike, more than 1 spikelet associated with each node; branches appressed to ascending. Spikelets pedicellate, laterally compressed, not U-shaped at the base, solitary, with 1 bisexual floret; rachillas prolonged as bristles beyond the base of the floret or absent; disarticulation above the glumes, beneath the floret. Glumes unequal, exceeding the florets, 1-veined, subcoriaceous and gibbous proximally, membranous distally, gradually narrowing to the apices, apices acuminate, unawned; calluses short, blunt, glabrous; lemmas membranous, pubescent or glabrous, 5-veined, lateral veins usually faint, not forming awns, apices more or less truncate and denticulate, unawned or awned, unawned and awned lemmas present in the same panicle, awns arising in the upper 1/3, sometimes subterminal, shorter or longer than the lemmas, geniculate; paleas subequal to the lemmas, hyaline, 2-veined, bifid; lodicules 2, membranous, glabrous, entire, unlobed; anthers 3; ovaries glabrous. Caryopses shorter than the lemmas, concealed at maturity, slightly adhering to the lemmas and/or paleas. x = 7. </description>
+  <discussion>Gastridium is a genus of two species that are native from Europe and North Africa east to Iran. They grow in grassy or disturbed sites. One species is established in the Flora region.</discussion>
+  <references>Scholz, H. 1986. Bermerkungen zur Flora Griechenlands: Gastridium phleoides und G. ventricosum (Poaceae). Willdenowia 16:65-68.
+ 
+</references>
+</bio:treatment>

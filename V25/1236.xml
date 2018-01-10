@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Panicum philadelphicum Bernh. ex Trin. subsp. philadelphicum</name_authority_date>
+  </taxon_identification>
+  <common_names>PANIC DE PHILADELPHIE</common_names>
+  <description type="morphology">Plants often slender, pilose, yellowish-green. Culms erect or decumbent. Blades 2-6 mm wide, often erect, those of the flag leaves usually less than 1/2 as long as the panicles. Secondary panicle branches usually appressed; pedicels usually short, appressed. Spikelets 1.4-2.1 mm, ovoid-ellipsoid, pale green to slightly reddish. Upper glumes and lower lemmas hooked over the upper florets; mature upper florets more than 1/2 as wide as long, shiny, blackish, with several pale veins.</description>
+  <discussion>Panicum philadelphicum subsp. philadelphicum grows in meadows, open woods, sand, and on receding shores.
+Plants with decumbent culms, glabrous pulvini, flexuous pedicels without hairs over 0.2 mm long, spikelets 1.4-1.7 mm long, and the mature floret not disarticulating have been called Panicum tuckermanii Fernald. They are often fairly distinct on receding lake shores in New England and the Great Lakes area (Darbyshire and Cayoutte 1995), but intergrade with subsp. philadelphicum elsewhere.
+</discussion>
+</bio:treatment>

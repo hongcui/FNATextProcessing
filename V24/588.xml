@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Festuca rubra subsp. mediana (Pavlick) Pavlick</name_authority_date>
+  </taxon_identification>
+  <common_names>DUNE RED FESCUE</common_names>
+  <description type="morphology">Plants rhizomatous, densely cespitose. Culms 20-30 cm. Sheaths reddish brown, glabrous or pubescent, shredding into fibers, cauline leaf sheaths loosely or tightly enclosing the culms; blades 0.7-1.5 mm in diameter, conduplicate; abaxial sclerenchyma in narrow strands; adaxial sclerenchyma sometimes present. Inflorescences mostly congested, lanceolate, often partially included in the uppermost leaf sheaths at maturity; branches scabrous. Spikelets to about 12 mm, with 4-8 florets. Lower glumes 2.5-3.2 mm; upper glumes 3.5-4.6(5) mm; lemmas 4.5-6 mm, glabrous or pilose, acuminate in side view, apices awned, awns 0.5-2 mm; anthers 2.5-3 mm long. 2n = 42 [for Festuca rubra var. littoralis Vasey ex Beal].</description>
+  <discussion>Festuca rubra subsp. mediana grows in sand beaches and dunes along exposed coasts, from Vancouver Island to Oregon.</discussion>
+</bio:treatment>

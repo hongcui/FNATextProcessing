@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>29</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus arizonicus (Scribn. & J.G. Sm.) Gould </name_authority_date>
+  </taxon_identification>
+  <common_names>ARIZONA WHEATGRASS</common_names>
+  <description type="morphology">Plants cespitose, not rhizomatous. Culms 45-100 cm, erect or decumbent at the base; nodes glabrous or almost so. Leaves evenly distributed over the lower 1/2 of the culms; sheaths glabrous; auricles usually present, to 1 mm; ligules to 1 mm on the basal leaves, 1-3 mm on the flag leaves; blades 2.5-6 mm wide, lax, abaxial surfaces smooth and glabrous, adaxial surfaces scabrous, with scattered 0.5-1 mm hairs, veins close together. Spikes 12-25 cm long, 2.5-6 cm wide including the awns, 10-15 mm wide excluding the awns, flexuous, usually nodding or pendent at maturity, with 1 spikelet per node; internodes 11-17 mm long, 0.4-1 mm wide, glabrous, mostly smooth, scabrous on the edges. Spikelets 14-26 mm long, 6-8 mm wide, appressed to divergent, 1.5-2 times as long as the internodes, with 4-6 florets; rachillas glabrous; disarticulation  above  the  glumes  and  beneath  each floret. Glumes narrowly lanceolate, margins about 0.2 mm wide, 3(5)-veined, the bases flat, evidently veined, margins hyaline, widest at about midlength, acute or acuminate, unawned or awned, awns to 4 mm, straight; lower glumes 5-9 mm; upper glumes 8-10 mm; lemmas 8-15 mm, scabrous, rounded on the back, awns 10-25 mm, arcuately diverging; paleas as long as or longer than the lemmas, tapering, apices truncate, about 0.3 mm wide; anthers 3-5 mm. 2n = 28.</description>
+  <discussion>Elymus arizonicus grows in moist, rocky soil in mountain canyons of the southwestern United States and northern Mexico. When mature, the drooping spike and solitary spikelets make E. arizonicus easy to identify. Immature specimens, or those mounted so that the spike appears erect, are easily mistaken for Pseudoroegneria spicata (p. 281), but they have thicker culms and longer ligules, more basal leaves, and wider leaf blades.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>49</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus scoparius L. </name_authority_date>
+  </taxon_identification>
+  <common_names>BROOM BROME</common_names>
+  <description type="morphology">Plants annual. Culms (9)20-40 cm, erect or ascending. Sheaths sparsely pubescent or glabrous; ligules 0.8-1.5 mm, glabrous or hairy, obtuse; blades 5-20 cm long,  2-5  mm wide,  abaxial  surfaces glabrous, adaxial surfaces pilose. Panicles 2-7 cm long, 1-4 cm wide, erect, dense, obovoid, wedge-shaped at the base, sometimes interrupted; branches shorter than the spikelets, erect, straight or almost so, sometimes verticillate. Spikelets 12-25 mm, lanceolate, crowded, terete to moderately laterally compressed; florets 5-10, bases concealed at maturity; rachilla internodes concealed at maturity. Glumes scabrous to pubescent; lower glumes 3-4 mm, 3-5-veined; upper glumes 5-7 mm, 5-7-veined; lemmas 7-10 mm long, 1.5-2 mm wide, lanceolate, glabrous, obscurely 7-veined, rounded over the midvein, margins rounded, not inrolled at maturity, apices sharply acute, bifid, teeth shorter than 1 mm; awns 7-10 mm, flattened at the base, divaricate or recurved when mature, arising 1.5 mm or more below the lemma apices; anthers 0.3-0.5 mm. Caryopses shorter than the paleas, thin, weakly inrolled or flat. 2n = 14.</description>
+  <discussion>Bromus scoparius is native to southern Europe. It grows in waste places. In the Flora region, it has been recorded from Californica and New York. </discussion>
+</bio:treatment>

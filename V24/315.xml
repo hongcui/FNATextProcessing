@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Bromus sect. Genea Dumort.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual. Spikelets with parallel or diverging sides in outline, terete to moderately laterally compressed, with 4-11 florets. Lower glumes 1-3-veined; upper glumes 3-5-veined; lemmas lanceolate to linear-lanceolate, rounded over the midvein, apices acuminate, teeth 0.8-5 mm; awns straight or arcuate, arising 1.5 mm or more below the lemma apices.</description>
+  <discussion>Bromus sect. Genea is native to Europe and northern Africa; five of its six species are established in the Flora region.</discussion>
+</bio:treatment>

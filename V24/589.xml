@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Festuca rubra subsp. pruinosa (Hack.) Piper </name_authority_date>
+  </taxon_identification>
+  <common_names>ROCK FESCUE, FÉTUQUE PRUINEUSE</common_names>
+  <description type="morphology">Plants usually densely, sometimes loosely, cespitose, usually with obscure rhizomes and numerous vegetative shoots, sometimes with conspicuous rhizomes. Culms (15)20-40(70) cm. Sheaths reddish brown, glabrous to pubescent, shredding into fibers, cauline leaf sheaths tightly enclosing the culms; blades conduplicate, often glaucous,  abaxial surfaces  smooth  or scabridulous, adaxial surfaces scabrous on the ribs, veins 5-9, ribs 5-7: abaxial sclerenchyma in narrow or wide strands; adaxial sclerenchyma rarely present. Inflorescences (3)4-10(20) cm, congested to more or less open, linear to lanceolate, usually completely exserted from the uppermost leaf sheaths; branches stiff, erect, scabrous. Spikelets 7.5-14 mm, with 4-7(9) florets. Lower glumes 2.2-3.2(4.5) mm; upper glumes 3.5-4.5(6.5) mm, margins and apices scabrous, apices acute or mucronate; lemmas 4.5-6(6.5) mm, lanceolate, green to violet, sometimes glaucous, scabrous near the apices, apices acute to acuminate, awned, awns (0.1)0.4-3 mm; anthers 2.3-3.2 mm. 2n = 42.</description>
+  <discussion>Festuca rubra subsp. pruinosa grows in the crevices of rocks, in pilings, and occasionally on pebble or sand beaches, extending upward from the upper littoral zone of the Pacific and Atlantic coasts of North America and Europe. Plants growing on coastal sands from California to Vancouver Island that are loosely cespitose and have abaxial sclerenchyma in large strands are sometimes distinguished as F. rubra subsp. arenicola E.B. Alexeev [= F. ammobia Pavlick]. The rhizomes are rarely present on herbarium specimens.</discussion>
+</bio:treatment>

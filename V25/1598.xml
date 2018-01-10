@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Andropogon glomeratus var. pumilus (Vasey) L.H. Dewey</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants oblanceolate to obpyramidal in the upper portion. Culms to 2.5 m, but as short as 20 cm in poor soils; internodes not glaucous. Leaf sheaths usually smooth; ligules ciliate, cilia 0.2-0.9 mm; blades green, smooth or pubescent. Subtending sheaths of inflorescence units (2)2.9-4.3(5.2) cm long, 1.5-3 mm wide; peduncles (2)8-15(40) mm; rames 1.3-3 cm, exerted. Keels of lower glumes usually smooth below midlength, scabrous distally; anthers often retained within the spikelets.</description>
+  <discussion>Andropogon glomeratus var. pumilus is weedy and grows in disturbed, wet or moist sites. It is abundant and widespread, extending from the southern United States through Central America to northern South America.</discussion>
+</bio:treatment>

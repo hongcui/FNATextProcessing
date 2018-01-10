@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum dissectum (L.) L. </name_authority_date>
+  </taxon_identification>
+  <common_names>MUDBANK PASPALUM</common_names>
+  <description type="morphology">Plants perennial; rhizomatous. Culms 10-50 cm, decumbent; nodes glabrous or pubescent. Sheaths glabrous; ligules 2-2.5 mm; blades to 12 cm long, 1.3-4.8 mm wide, flat. Panicles terminal, with 2-6 racemosely arranged branches; branches 1.3-5.3 cm, diverging to erect, often arcuate, persistent; branch axes 1.8-3 mm wide, broadly winged, usually conduplicate, glabrous, margins scabrous, terminating in a spikelet. Spikelets 1.7-2.1 mm long, 1.1-1.4 mm wide, solitary, appressed to the branch axes, elliptic to ovate, glabrous, stramineous. Lower glumes absent; upper glumes and lower lemmas 5-veined; upper florets stramineous, lemmas glabrous throughout. Caryopses 1-1.3 mm, white. 2n = 40, 60.</description>
+  <discussion>Paspalum dissectum grows at the edges of lakes, ponds, rice fields, and wet roadside ditches. It is native to the eastern portion of the contiguous United States and to Cuba.</discussion>
+</bio:treatment>

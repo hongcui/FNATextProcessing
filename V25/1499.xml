@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Spodiopogon sibiricus Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>SILVER SPIKE</common_names>
+  <description type="morphology">Plants rhizomatous. Culms 90-150 cm tall, 2-4 mm thick. Basal leaves bladeless or with reduced blades; cauline sheaths mostly glabrous, but pilose at the collar; ligules of cauline leaves 2-3 mm, ciliate on the erose margin; cauline blades to 35 cm long, 8-20 mm wide, pilose on both surfaces, margins ciliate near the base, cilia papillose-based. Panicles 12-20 cm long, 2-4 cm wide, shortly exserted; rachises glabrous, smooth; primary branches 2-6 cm; rames 2-3.5 cm. Spikelets 4.5-5.5 mm. Lower glumes pilose throughout, 5-9-veined; upper glumes of the sessile spikelets pilose on the margins, those of the pedicellate spikelets pilose throughout; callus hairs about 1/4 as long as the spikelets; awns 0.7-1.2 cm; anthers of the sessile spikelets about 2 mm, those of the pedicellate spikelets about 3 mm. 2n = 40, 42.</description>
+  <discussion>Spodiopogon sibiricus is native to the grasslands of the montane regions that extend from central China to northeastern Siberia. It is grown as an ornamental in Canada and the contiguous United States.</discussion>
+</bio:treatment>

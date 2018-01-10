@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>7.01</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>NARDUS L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose. Culms 3-60 cm, erect; basal branching intravaginal. Leaves mostly basal; sheaths open; auricles absent; ligules membranous, entire, rounded; blades filiform, tightly convolute, epidermes with bicellular microhairs. Inflorescences terminal spikes, 1-sided, spikelets in 2 rows, loosely to closely imbricate; rachises terminating in a bristle; disarticulation below the floret. Spikelets triangular in cross section, with 1 floret, floret bisexual. Lower glumes a highly reduced, cupular rim; upper glumes absent or vestigial; florets 5-10 mm; lemmas linear-lanceolate to lanceolate-oblong, chartaceous, enveloping the paleas, 3-veined, awned; paleas hyaline, 2-veined, 2-keeled; lodicules absent; anthers 3; styles 1. x = 13. </description>
+  <discussion>Nardus is a monospecific European genus. Its relationships to other genera are unclear.</discussion>
+  <references>Hubbard, C.E. 1984. Grasses: A Guide to their Structure, Identification, Uses, and Distribution in the British Isles, ed. 3, rev. J.C.E. Hubbard. Penguin Books, Hammondsworth, Middlesex, England and New York, New York, U.S.A. 476 pp.; Turin, T.G. 1980. Nardus L. P. 255 in T.G. Turin, V.H. Heywood, N.A. Burges, D.M. Moore, D.H. Valentine, S.M. Walters, and D.A. Webb (eds.). Flora Europaea, vol. 5. Cambridge University Press, Cambridge, England. 452 pp.</references>
+</bio:treatment>

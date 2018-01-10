@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Fingerhuthia africana Lehm. </name_authority_date>
+  </taxon_identification>
+  <common_names>THIMBLEGRASS,  ZULU  FESCUE</common_names>
+  <description type="morphology">Plants cespitose and shortly rhizomatous. Culms 10-95 cm. Blades 2.5-40 cm long, 2-4 mm wide, scabrous distally. Panicles 1.5-5 cm, cylindrical or ovoid, cuneate below. Spikelets 4-5.5 mm. Glumes narrowly elliptic, ciliate on the keel and the distal portion of the margins; lowest lemmas 3.5-4 mm, glabrous, sometimes scabridulous, margins ciliate, apices obtuse and abruptly mucronate. 2n = 40. </description>
+  <discussion>Fingerhuthia africana is native to southern Africa and western Asia. It has been grown at the Santa Rita Experimental Range in Pima County, Arizona, but is not established in the Flora region.</discussion>
+</bio:treatment>

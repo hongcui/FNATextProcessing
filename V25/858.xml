@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Spartina anglica C.E. Hubb. </name_authority_date>
+  </taxon_identification>
+  <common_names>ENGLISH CORDGRASS</common_names>
+  <description type="morphology">Plants rhizomatous; rhizomes elongate, flaccid, thick, whitish, imbricate. Culms 30-130 cm, forming large clumps. Sheaths glabrous, rounded dorsally; ligules 2-3 mm; blades 10-46 cm long, 6-15 mm wide, persistent or deciduous, flat or involute, adaxial surfaces ridged, not scabrous, margins smooth or slightly scabrous, sharply pointed, blades of upper leaves strongly divergent. Panicles 12-40 cm, with 2-12, more or less equally spaced branches; branches 16-25 cm, erect or somewhat divergent, axes pubescent, extending up to 5 cm beyond the spikelets; disarticulation at the base of the glumes, spikelets falling intact at maturity. Spikelets 14-21 mm long, 2-3 mm wide, narrowly oblong, appressed, closely imbricate. Glumes straight, sides appressed pubescent, keels ciliate or hispid, acute; lower glumes 10-14 mm, 2/3 - 4/5 as long as the upper glumes, 1-veined; upper glumes exceeding the floret, 3-6-veined; lemmas shorter than the upper glumes, shortly appressed pubescent, 1-3-veined, acute; paleas a little longer than the lemmas; anthers 5-13 mm, well-filled, dehiscent at maturity. 2n = 122-124.</description>
+  <discussion>Spartina anglica is a naturally formed amphidiploid, derived from Spartina xtownsendii, that was first recognized as a separate species in 1968. It has been introduced (like S. xtownsendii) for reclamation of tidal mudflats. It differs from Spartina xtownsendii in its wider and more widely divergent upper blades, longer ligules, longer, more hairy spikelets, and longer, well-filled anthers.</discussion>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Puccinellia bruggemannii T.J. Sørensen </name_authority_date>
+  </taxon_identification>
+  <common_names>BRUGGEMANN'S ALKALI GRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, not mat-forming. Culms 5-12 cm, erect to decumbent. Ligules 0.8-2 mm, acute or obtuse, entire; blades usually involute and 0.5-1.1 mm in diameter, sometimes flat and 0.7-2.5 mm wide. Panicles 1-4 cm, contracted at maturity, lowest node with 2(3) branches, lower branches erect to ascending, spikelets usually confined to the distal 1/3, pedicels scabrous, lacking tumid epidermal cells. Spikelets 3.5-6.5 mm, with 2-4 florets. Glumes rounded over the back, veins obscure, apices acute to obtuse; lower glumes 0.7-2 mm, less than (1/2)2/3 as long as the adjacent lemmas; upper glumes 1.5-2.8 mm, broadly elliptic; rachilla internodes slightly and gradually broadened to the point of attachment with the lemmas, at least the lowest internode usually more than 0.09 mm thick; calluses with a few hairs; lemmas 2.8-3.8 mm, herbaceous, hairy on the lower 1/2 along and between the veins, backs rounded, 5-veined, veins obscure, not extending to the margins, apical margins herbaceous, scabrous or scabridulous, apices acute or somewhat obtuse, entire or erose, slightly incurved; palea veins with curly, intertwined hairs proximally, scabrous distally; anthers 0.7-1.1 mm. 2n = 28.</description>
+  <discussion>Puccinellia bruggemannii is restricted to arctic islands of Canada and northern Greenland. In Canada, it is a widespread yet local northern, western, and central arctic island species. It is found in calcareous, barren, gravelly, sandy, or silty sites, and is sometimes coastal. Although P. bruggemannii has been reported as non-littoral (Porsild 1964) and probably non-halophilous (Sarensen 1955), specimens keying to this species have been found near the sea coast: for example, paratype specimens collected on Beechey Island and in the vicinity of salt springs on Axel Heiberg Island.
+Puccinellia bruggemannii sometimes superficially resembles Poa abbreviata or small Poa glauca in the field, because of its small, dense inflorescence.
+</discussion>
+</bio:treatment>

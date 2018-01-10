@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Polypogon imberbis (Phil.) Johow </name_authority_date>
+  </taxon_identification>
+  <common_names>SHORTHAIRED BEARDGRASS</common_names>
+  <description type="morphology">Plants perennial. Culms 15-80 cm, ascending or geniculate, not branched. Sheaths smooth or scabrous; ligules 2-5 mm, membranous or hyaline, sometimes retrorsely scabridulous; blades 3-15 cm long, 1.5-8 mm wide, flat to convolute, scabrous, apices acute to sharp. Panicles 3-25 cm long, 1-8 cm wide, dense, glomerate, interrupted near the base; pedicels not developed; stipes 0.6-1.5 mm. Glumes 1.8-4 mm, scabridulous on the sides, keels echinate, not tapering to the apices, apices acute, unlobed, awned, awns 0.2-2.5 mm; lower glumes 1.8-4 mm; upper glumes 1.6-3.5 mm, usually shorter than the lower glumes; lemmas 1-2 mm, hyaline, unawned or awned, awns subterminal, to 1 mm; paleas 0.5-0.8 mm, about 1/2 as long as the lemmas; anthers 0.2-0.8 mm. Caryopses 1-1.5 mm long, 0.3-0.4 mm wide. 2n = unknown.</description>
+  <discussion>Polypogon imberbis is a South American species that has been collected at two locations in California, one from Oceano Beach, San Luis Obispo County, and the other near Martines, Contra Costa County. It does not appear to be established there, the last collections having been made before 1950. In South America, it grows in moist, sandy soils near streams, lagoons, and the coast.
+ 
+</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>24</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sporobolus purpurascens (Sw.) Ham. </name_authority_date>
+  </taxon_identification>
+  <common_names>PURPLE DROPSEED</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 25-95 cm. Sheaths rounded below, upper margins sometimes sparsely hispid-ciliate, apices hairy, hairs to 5 mm; ligules 0.2-0.3 mm; blades 8-22 cm long, 2-5 mm wide, flat or involute, glabrous abaxially, scabridulous adaxially, margins scabrous, sometimes sparsely hispid. Panicles 5-30 cm long, 0.4-1.6 cm wide, narrow, contracted; lower nodes with 3 or 5 branches; primary branches 0.3-2 cm, appressed or spreading to 20° from the rachis, spikelet-bearing to near the base; secondary branches appressed; pedicels 0.2-2.5 mm, appressed, scabridulous. Spikelets 2.8-3.8 mm, purplish-red. Glumes unequal, linear-lanceolate to lanceolate or ovate, hyaline to membranous; lower glumes 0.9-3 mm; upper glumes 2.9-3.8 mm, subequal to the florets; lemmas 2.9-3.8 mm, ovate, membranous, glabrous, acute; paleas 2.9-3.8 mm, ovate, membranous; anthers 1.5-2 mm, yellowish to purplish. Fruits 1.8-2.3 mm, ellipsoid, somewhat laterally flattened, rugulose, reddish-brown. 2n = 60.</description>
+  <discussion>Sporobolus purpurascens grows in oak scrub, prairie grasslands, and sandy sites near railroad crossings and roadsides, at elevations from 2-300 m. It extends from southern Texas through eastern Mexico, the West Indies, and Central America to Brazil.</discussion>
+</bio:treatment>

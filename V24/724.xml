@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa alpina L. subsp. alpina </name_authority_date>
+  </taxon_identification>
+  <common_names>ALPINE BLUEGRASS</common_names>
+  <description type="morphology">Spikelets not bulbiferous. Anthers 1.3-2.3 mm, well formed. 2n = 22, 23, 26, 27, 28, 28+1, 30, 31, 32, 32+1, 33, 34, 35, 36, 37, 39, 40+1, 41, 42, ca. 43, 44, 46, ca. 48, 56.</description>
+  <discussion>Poa alpina subsp. alpina is the more common of the two subspecies. In the Flora region, it grows throughout the range of the species.</discussion>
+</bio:treatment>

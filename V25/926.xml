@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Tragus racemosus (L.) All. </name_authority_date>
+  </taxon_identification>
+  <common_names>STALKED BURGRASS</common_names>
+  <description type="morphology">Plants annual. Culms 5-40 cm. Ligules 0.5-1.3 mm; blades (0.5)1-5.5 cm long, 1.5-4 mm wide, glabrous. Panicles (1.5)2-11 cm long, 7-13 mm wide; rachises pubescent; branches 2.1-4.8 mm, pubescent, with (2)3-5 spikelets, axes extending past the distal spikelets; proximal internodes 0.5-1.8 mm, longer than second internodes. Proximal spikelets 3.8-6.6 mm; second spikelets (2.3)2.9-6.6 mm; third and fourth spikelets 0.8-4.2 mm; distal spikelets sterile. Lower glumes 0.7-1.1 mm, glabrous or minutely pubescent; upper  glumes 3.8-6.6 mm, 7-veined, minutely pubescent; glume projections 6-11, in (5)6-7 rows, (0.2)0.6-1.3 mm, usually uncinate; lemmas 3.2-4 mm, sparsely pubescent on the back, midveins occasionally excurrent to 4 mm; paleas 2.3-3.1  mm;  anthers  3,  0.6-0.8  mm,  yellow. Caryopses 1.7-2.3 mm long, 0.6-0.8 mm wide. 2n = 40.</description>
+  <discussion>Tragus racemosus is native from the Mediterranean region to southwest Asia, but now grows in the United States, primarily   in   Cochise   and   Pima   Counties, Arizona. It was collected in Maine, Pennsylvania, New York, and North Carolina in the late nineteenth century, but does not appear to be established in these states. Reports for New Mexico and Texas appear to reflect confusion with T. berteronianus.</discussion>
+</bio:treatment>

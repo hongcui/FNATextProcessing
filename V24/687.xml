@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Laurie L. Consaul </author>
+    </source>
+  </meta>
+  <number>14.08</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>PHIPPSIA (Trin.) R. Br.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants usually perennial, annual in some environments that have a sufficient growing season for seed production in a single year; cespitose or matlike. Culms 2-19 cm, erect or procumbent, not rooting at the lower nodes, glabrous; prophylls 4-10 mm. Sheaths not inflated, those of the basal leaves usually fused only near the base, those of the flag leaves closed for at least 1/2 their length; auricles absent; ligules membranous, glabrous, acute; blades flat or conduplicate. Inflorescences panicles, dense or diffuse. Spikelets pedicellate, with 1 floret, laterally compressed to nearly terete; rachillas not prolonged beyond the florets; disarticulation above the glumes and beneath the florets. Glumes to 1/3 the length of the florets, ovate, without veins, caducous or persistent, unawned; lower glumes highly reduced; calluses short, glabrous; lemmas 1-3-veined, not strongly keeled, apices acute to rounded, unawned; paleas subequal to the lemmas; lodicules 2, free, glabrous; anthers 1 or 2; ovaries glabrous. Caryopses exceeding the lemmas and exposed at maturity, x = 7.</description>
+  <discussion>Phippsia has two species, one of which is found in arctic Eurasia, Greenland, and the Canadian arctic islands; the other is circumpolar in the arctic, and is also known from the Rocky Mountains of North America and the high Andes of South America.</discussion>
+  <references>Aares, E., M. Nurminiemi, and C. Brochmann. 2000. Incongruent phylogeographies in spite of similar morphology, ecology, and distribution: Phippsia algida and P. concinna (Poaceae) in the North Atlantic region. PI. Syst. Evol. 220:241-261; Aiken, S.G., L.L. Consaul, and M.J. Dallwitz. 1995 on. Grasses of the Canadian arctic archipelago: Descriptions, illustrations, identification, and information retrieval, http://www.mun.ca/biology/delta/arcticf/poa/index.htm; Bay, C. 1992. A phytogeographical study of the vascular plants of northern Greenland—north of 74° northern latitude. Meddel. Granland, Biosci. 36:1-102; Steen, N.W., R. Elven, and I. Nordal. 2004. Hybrid origin of the arctic xPucciphippsia vacillans (Poaceae): Evidence from Svalbard plants. Pi. Syst. Evol. 245:215-238.</references>
+  <key>
+    <key_body>
+1. Panicles (0.5)1-2(3) cm long, 3-7 mm wide; spikelet length less than twice the width; glumes caducous, often colorless when present; lemmas often yellow-green, purple coloration, when present, not reaching the apices, glabrous or with a few soft hairs on the lower 1/3, caryopses ellipsoid, widest at or just above the middle .....2. P. algida
+1. Panicles (1)3-9 cm long, (4)5-15 mm wide; spikelet length 2-3 times the width; glumes, particularly the upper glumes, not caducous, often still present on the previous season's growth, often with some deep purple coloration; lemmas usually purplish-red with a strong coloration over the veins, the color over the midvein extending to the apex, veins with stiff hairs, soft or stiff hairs elsewhere over the lower 1/2 - 2/3 of the surface; caryopses ovoid, widest below the middle.....2. P. concinna
+
+    </key_body>
+  </key>
+</bio:treatment>

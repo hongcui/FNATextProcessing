@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subsection</rank>
+    <name_authority_date>Poa subsect. Epiles Hitchc. ex Soreng</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; densely or rarely moderately densely tufted, usually neither stoloniferous nor rhizomatous, rarely shortly rhizomatous. Basal branching intra- or extravaginal, or both. Culms 5-60(70) cm. Sheaths closed for 1/7 – 4/5 their length, terete, distal sheaths longer than their blades; innovation blades sometimes involute and firmer than the cauline blades, adaxial surfaces smooth or moderately to densely scabrous, glabrous or hispidulous on and between the veins; cauline blades 0.5-3 mm wide, flat, folded, or involute, thin to thick, soft to firm, apices usually narrowly prow-shaped, cauline blades sometimes broadly prow-shaped. Panicles 1-12 cm, erect or slightly nodding, contracted or open, usually narrowly lanceolate to ovate, sometimes pyramidal; nodes with 1-3(5) branches; branches 0.5-4(5) cm, terete to angled, smooth or sparsely to densely scabrous. Spikelets (3)4-10(12) mm, lengths to 3.5 times widths, lanceolate to broadly ovate, not bulbiferous; florets 2-8. Glumes lanceolate to broadly lanceolate; lower glumes 3-veined; calluses usually glabrous, sometimes shortly and sparsely webbed; lemmas (3)3.5-8 mm, lanceolate to broadly lanceolate, usually glabrous, sometimes sub-puberulent, or short-villous in hybrids; palea keels scabrous, glabrous or ciliate; anthers 3, vestigial (0.1-0.2 mm), aborted late in development, or 1.3-4.5 mm.</description>
+  <discussion>The five species of Poa subsect. Epiles are cespitose, gynodioecious or dioecious, and have involute or folded leaf blades.</discussion>
+</bio:treatment>

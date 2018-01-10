@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mirta O. Arriaga</author>
+    </source>
+  </meta>
+  <number>10.13</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>JARAVA Ruiz & Pav.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, sometimes rhizomatous, rhizomes forming knotted bases. Culms 15-200 cm, not branching at the upper nodes; basal branching intravaginal or extravaginal; prophylls not evident, shorter than the leaf sheaths. Leaves mostly basal, not overwintering; sheaths open to the base; cleistogenes not present; collars with tufts of hair on either side; auricles absent; ligules membranous, truncate or shortest in the center and rounded, edges usually ciliate, hairs at the outer edges often longer than the central membranous portion, ligules of the lower leaves glabrous or hairy, sometimes densely hairy, those of the upper leaves glabrous or sparsely hairy; blades usually convolute, apices narrowly pointed, flag leaves longer than 10 mm. Inflorescences panicles, often partially included in the upper leaf sheath; branches straight. Spikelets 5.5-24 mm, with 1 floret; rachillas not prolonged beyond the floret; disarticulation above the glumes, beneath the floret. Glumes unequal, usually longer than the floret, sometimes shorter, hyaline, 0-5-veined; florets narrowly lanceoloid, terete; calluses 0.2-1.6(3) mm, acute, less than or equaling the floret diameter, antrorsely strigose distally, hairs white; lemmas thickly membranous, basal 2/3 scabrous or shortly pubescent, distal 1/3 often bearing a pappus of ascending to strongly divergent 3-8 mm hairs, sometimes glabrous or with appressed hairs shorter than 1 mm, margins not or only slightly overlapping at maturity, apices not fused into a crown, lobes to 0.2 mm, with a single, terminal awn, awn-lemma junction conspicuous; awns 9-45(80) mm, persistent or deciduous, scabrous, weakly once- or twice-geniculate, first segment scabrous or pilose, terminal segment glabrous or pilose, smooth or scabrous; paleas 1/3 - 1/2 as long as the lemmas, flat between the veins, membranous to hyaline, glabrous or sparsely pubescent, 2-veined, veins poorly developed, apices rounded to irregular; lodicules 2-3, the third, if present, reduced; anthers 3. Caryopses fusiform, not ribbed; hila linear, x = unknown.</description>
+  <discussion>Jarava is a South American genus that used to be included in Stipa. Its limits are currently under study. As treated here, it is a genus of approximately 50 species, all of which are native to South America. It includes three groups that have been recognized as subgenera within Stipa sensu lato: Jarava (Ruiz. & Pav.) Trin. & Rupr., Pappostipa Speg., and Ptilostipa Speg. Jacobs and Everett (1997) recommended including only the approximately 14 species of Stipa subg. Jarava in Jarava. This treatment adopts a somewhat broader interpretation and includes the members of the other two subgenera, pending more detailed study of relationships among the American Stipeae. In this respect, the treatment presented here conforms with the treatment by Pefiailillo (2002); it differs in excluding Achnatberum and Amelichloa.
+One species of the Pappostipa group, Jarava speciosa, grows as a disjunct in the southwestern United States, its broadest distribution being in South America. Two other species, /. ichu and /. plumosa, both members of Jarava sensu stricto, have been found as escapes from cultivation in California.
+Many species of Jarava have conspicuous hairs on the distal portion of the lemma, termed a pappus, or on the first and/or second segment of the awn. These are an adaptation to wind dispersal. Jarava sensu stricto shows an even stronger adaptation to wind dispersal, usually combining a well-developed pappus with light florets less than 5 mm long and 1 mm wide.
+</discussion>
+  <references>Arriaga, M.O. 1983. Anatomia foliar de las especies de Stipa del subgenera Pappostipa (Stipeae-Poaceae) de Argentina. Revista Mus. Argent. Ci. Nat., Bernardino Rivadavia Inst. Nac. Invest. Ci. Nat., Bot. 6:89-141; Caro, J.A. and E. Sanchez. 1973. Las especies de Stipa (Gramineae) del subgenera Jarava. Kurtziana 7:61-116; Jacobs, S.W.L. and J. Everett. 1997. Jarava plumosa (Gramineae), a new combination for the species formerly known as Stipa papposa. Telopea 7:301-302; Matthei, O. 1965. Estudio critico de las gramineas del genero Stipa en Chile. Gayana, Bot. 13:1-137; Pefiailillo, P. 2002. El genero jarava Ruiz et Pavon (Stipeae-Poaceae): Delimitacion y nuevas combina-ciones. Gayana, Bot. 59:27-34.</references>
+  <key>
+    <key_body>
+1. Awns 35-80 cm long, the basal segment pilose; ligules of the basal leaves softly and densely hairy .....3. J. speciosa
+1. Awns 9-30 mm long, the basal segment scabridulous or smooth; ligules of the basal leaves glabrous or almost so.
+2. Glumes clearly exceeding the florets; pappus hairs 3-4 mm long   .....1. J. ichu
+2. Glumes from shorter than to subequal to the florets; pappus hairs 5-8 mm long.....2. J. plumosa
+
+    </key_body>
+  </key>
+</bio:treatment>

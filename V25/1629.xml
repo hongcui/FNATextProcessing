@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>26.20</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>HETEROPOGON Pers.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; cespitose. Culms 20-200 cm, simple or branched. Leaves sometimes aromatic and smelling of lemon oil or citronella; sheaths keeled, sometimes with a row of glandular depressions on the keel; ligules membranous, glabrous or ciliate. Inflorescences terminal and axillary; peduncles usually with 1 rame, sometimes with several in a digitate cluster; rames with 3-10 homogamous, unawned, sessile-pedicellate spikelet pairs on the lower 1/4 - 2/3 and heterogamous, awned, sessile-pedicellate spikelet pairs distally, axes slender, without a translucent median groove; disarticulation in the rames, beneath the sessile spikelets of the heterogamous spikelet pairs, sometimes also below their pedicellate spikelets. Homogamous spikelet units sterile or staminate; calluses poorly developed; glumes membranous, many-veined, keels winged above. Heterogamous spikelet units: sessile spikelets bisexual, terete; calluses 1.5-3 mm, sharp, antrorsely strigose, hairs golden brown; glumes coriaceous, pubescent, concealing the florets; lower glumes enclosing the upper glumes, obscurely 5-9-veined; upper glumes sulcate, 3-veined; lower florets sterile, reduced to a hyaline lemma; upper florets bisexual, lemmas with conspicuous, geniculate awns; awns 5-15 cm, with hairs. Caryopses lanceolate, sulcate on 1 side. Pedicels short, free of the rame axes, not grooved; pedicellate spikelets sterile or staminate, larger than the sessile spikelets; calluses long, glabrous, functioning as pedicels; glumes membranous, many-veined, keels winged above, x = 10, 11. </description>
+  <discussion>Heteropogon is a pantropical genus of eight to ten species. Two species grow in the Flora region; probably both are introduced. Many grow well on poor soils.</discussion>
+  <key>
+    <key_body>
+1. Glumes of the pedicellate spikelets of the heterogamous spikelet units without glandular pits; plants perennial ...... H. contortus
+1. Glumes of the pedicellate spikelets of the heterogamous spikelet units with a row of glandular pits along the midvein; plants annual .....2. H. melanocarpus
+
+    </key_body>
+  </key>
+</bio:treatment>

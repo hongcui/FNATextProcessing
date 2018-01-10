@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>J.K. Wipff</author>
+    </source>
+  </meta>
+  <number>17.39</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>WILLKOMMIA Hack.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; cespitose or tufted, often stoloniferous. Culms 12-80 cm, herbaceous, unbranched distally. Leaves involute to flat; ligules membranous, ciliate. Inflorescences terminal, panicles of several, racemosely arranged, spikelike branches, mostly exceeding the leaves, lower branches sometimes partially included in the upper leaf sheaths at maturity; branches not woody, unilateral, with 2 rows of appressed, imbricate, solitary spikelets, terminating in a rudimentary, sterile spikelet, sterile spikelets sometimes consisting of 1 or 2 small scales. Spikelets dorsally compressed, with 1 floret; disarticulation below the glumes. Lower glumes to 2/3 as long as the spikelets, veinless; upper glumes equaling the florets, 1-veined; calluses acute to pointed; lemmas thinly membranous, 3-veined, apices rounded to acute, mucronate, shortly awned, or unawned. Caryopses ellipsoid, x = 10. </description>
+  <discussion>Willkommia is a genus of four species, three native to southern tropical Africa and one to the Americas, including the Flora region.</discussion>
+</bio:treatment>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Rytidosperma biannulare (Zotov) Connor & Edgar </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose. Culms 30-85 cm, erect, branching    intra-vaginal.   Leaves mostly basal, exceeded by the culms, flag leaf blades usually reaching or exceeding the inflorescences; sheaths mostly glabrous, often purplish distally, with apical tufts of hairs sometimes present, hairs to 5 mm; ligules 0.3-0.5(1) mm; blades 30-40 cm long, to 5 mm wide, usually involute, margins, apices, and sometimes adaxial surfaces scabrous, young blades sparsely pilose, becoming glabrous at maturity. Inflorescences 10-20 cm, narrow, dense panicles; rachises and pedicels scabrous. Spikelets (7)10-15 mm, longer than the rachis  internodes, with  6-7 florets; rachilla segments 0.3-0.5 mm. Glumes 7.6-11(13.2)  
+mm, subequal, lanceolate, subacute; lower glumes 5-7(9)-veined; upper glumes 5-veined; calluses 0.5-0.7 mm, with marginal tufts of hairs reaching the lower lemma hairs; lemma bodies 1.8-2.4(2.8) mm, 7-9-veined, lower and upper rows of hairs dense, hairs of lower rows usually not or only just reaching the upper rows, sometimes ill-defined, hairs of upper rows clearly exceeding the base of the awn but exceeded by the lemma lobes, margins ciliate, other portions of the lemma with short scattered hairs, sometimes glabrous below the upper row of hairs; lobes 3.5-5(8.5) mm, aristate; awns 6-10(12.5) mm; paleas 2.5-4.6 mm, exceeding the lemma sinuses, emarginate, intercostal region sparsely hairy, margins usually long-hairy, veins ciliate; anthers 0.8-1.6 mm. Caryopses 1.2-1.9 mm long, 0.6-0.8 mm wide; embryos 0.5-0.8 mm; hila 0.3-0.6 mm. 2n = unknown.
+</description>
+  <discussion>Rytidosperma biannulare is endemic to New Zealand. As early as 1905, it was grown experimentally under the name Danthonia semiannularis (Labill.) R. Br. in several states. Although frequently mentioned in literature, only a few specimens document its persistence in Oregon and California.</discussion>
+</bio:treatment>

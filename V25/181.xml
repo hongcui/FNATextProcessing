@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Acrachne racemosa (B. Heyne ex Roem. & Schult.)	
+Ohwi 
+</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 17-50 cm. Blades 7-20 cm long, 5-11.5 mm wide, bases rounded, setaceous apically. Influorescence branches 1.5-10 cm, in whorls of 2-5, either subdigitate or on rachises up to 15 cm long. Spikelets 5.5-13 mm, oblong, serrate in outline, with 6-25 florets. Lower glumes 1.2-2.9 mm, linear-oblong, acute, mucronate; upper glumes 1.5-3 mm, lanceolate, acuminate, awn-tipped; lemmas 2-2.8 mm, narrowly ovate, keels scabrous, shallowly concave distally, midveins excurrent, forming stout, 0.3-0.9 mm awns; lateral veins also slightly excurrent. Fruits ellipsoid; seeds blackish, rugose, finely granular. 2n = 36.</description>
+  <discussion>Arachne racemose grows in areas of seasonal rainfall in tropical regions of Africa, Asia, and Australia. It has been found in Riverside County, California and may become established there. </discussion>
+</bio:treatment>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>17</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthelium dichotomum (L.) Gould </name_authority_date>
+  </taxon_identification>
+  <common_names>FORKED PANICGRASS</common_names>
+  <description type="morphology">Plants in small or large clumps, with knotty crowns. Basal rosettes well-differentiated; blades ovate to lanceolate. Culms 20-100 cm, decumbent to erect, sometimes geniculate; nodes usually glabrous, sometimes sparsely pilose or densely bearded with retrorse hairs; internodes often purplish or olive green, lowest internodes usually glabrous, varying to sparsely pubescent; fall phase usually branching freely, especially from the nodes above the middle, ultimately forming dense, reclining fascicles of divergent branchlets with numerous reduced, thin, often involute blades, secondary panicles often reduced, with few spikelets. Cauline leaves 4-7; sheaths usually shorter than the internodes, usually glabrous, occasionally the lower sheaths sparsely to densely soft-pubescent, sheaths of the uppermost leaves sometimes with whitish glandular spots between the prominent veins, margins of all sheaths glabrous or ciliate; ligules absent or shorter than 1 mm, of hairs; blades 3.5-14 cm long, 5-14 mm wide, usually thin, distant, spreading to reflexed or (occasionally) ascending, yellow-green to purplish, usually glabrous on both surfaces or (at least the lower blades) more or less densely and softly pubescent, bases constricted (in narrow-bladed subspecies) or narrowly subcordate (in wide-bladed subspecies), margins glabrous or ciliate basally, glabrous distally, blades of the flag leaves usually spreading. Primary panicles 3-12 cm, long-exserted, usually with many spikelets; branches wiry, mostly spreading or ascending, usually glabrous, sometimes scabridulous. Spikelets 1.5-2.7 mm, usually ellipsoid or obovoid, green or purplish (at least at the base), glabrous or (less commonly) sparsely pubescent or puberulent, often prominently veined, obtuse to acute to beaked. Lower glumes usually less than 1/3 as long as the spikelets, obtuse to acute; upper glumes usually slightly shorter than or as long as the lower lemmas and upper florets (occasionally extending beyond the floret); lower florets sterile; upper florets 1.3-2 mm long, usually less than 1 mm wide, ellipsoid, subacute to obtuse.</description>
+  <discussion>Dichanthelium dichotomum grows in dry, sandy, clayey, or rocky ground, often in woods, or (more commonly) in moist or wet places, including marshes, bogs, low woods, swamps, and the moist borders of lakes and ponds. Its range extends south from the Flora region into the Caribbean. It is a polymorphic and ubiquitous species, with many of its intergrading subspecies exhibiting traits of other widespread and variable species such as D. commutatum, D. laxiflorum, and D. sphaerocarpon, which often grow at the same sites.</discussion>
+  <key>
+    <key_body>
+1. Lower nodes hairy.
+2. Spikelets 1.5-1.8 mm long, upper floret 0.6-0.8 mm wide.....subsp. microcarpon
+2. Spikelets 1.8-2.5 mm long; upper floret 0.7-1.0 mm wide.
+3. Spikelets usually glabrous; midculm blades usually 5-7 mm wide.....subsp. dichotomum
+3. Spikelets pubescent; midculm blades usually 7-14 mm wide.
+4. Lower sheaths and blades glabrous or sparsely pubescent.....subsp. nitidum
+4. Lower sheaths and blades more or less densely velvety pubescent.....subsp. mattamuskeetense
+1. Lower nodes glabrous.
+5. Larger blades more than 1 cm wide; sheaths often with pale glandular spots between the prominent veins; spikelets 1.9-2.6 mm long, acute to beaked .....subsp. yadkinense
+5. Larger blades less than 1 cm wide; sheaths without glandular spots; spikelets 1.5-2.3 mm long, obtuse to subacute.
+6. Culms weak, ultimately reclining or sprawling, often flattened.....subsp. lucidum
+6. Culms erect, terete.
+7. Blades usually spreading; spikelets ellipsoid, 1.8-2.3 mm long, rarely purplish at the base.....subsp. dichotomum
+7. Blades usually ascending or erect; spikelets broadly ellipsoid or obovoid, 1.5-1.8 mm long, often purplish at the base .....subsp. roanokense
+ 
+
+    </key_body>
+  </key>
+</bio:treatment>

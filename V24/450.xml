@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Elymus elymoides subsp. hordeoides (Suksd.) Barkworth </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 10-20 cm, erect. Blades glabrous or puberulent abaxially. Spikes 3-6 cm, exserted or partly included, with 3 spikelets per node. Spikelets in the central position usually with 2 fertile florets, the lateral spikelets usually with rudimentary to awnlike florets. Glume awns 15-50 mm, usually entire; lemma awns of fertile florets 15-30 mm; paleas with or without distinct bristles.</description>
+  <discussion>Elymus elymoides subsp. hordeoides grows in dry, rocky, often shallow soils, particularly in Artemisia rigida-Poa secunda communities, from eastern Washington and Idaho to northern California and Nevada. It resembles some Elymus-Hordeum hybrids.</discussion>
+</bio:treatment>

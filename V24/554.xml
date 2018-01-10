@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date></name_authority_date>
+  </taxon_identification>
+  <description type="morphology"></description>
+  <key>
+    <key_heading>Festuca Subkey I</key_heading>
+    <key_body>
+1. Ovary apices pubescent.
+2. Sheaths closed for about 3/4  their length or more; vegetative shoot leaf blades narrow and conduplicate, the cauline blades broader and flat; anthers 2.5-4.5 mm long .....18. F. heterophylla
+2. Sheaths closed for no more than 1/2 their length; vegetative shoot and cauline leaf blades similar, conduplicate; anthers 1-3.5 mm long. 3. Lower inflorescence branches usually reflexed at maturity; lemma awns 3-12 mm long; ovary apices densely pubescent .....37. F. occidentalis
+3. Lower inflorescence branches erect at maturity; lemma awns 1-2.5 mm long; ovary apices sparsely pubescent .....38. F. calligera (in part)
+1. Ovary apices glabrous, or with up to 5 hairs in F. calligera.
+4. Abaxial sclerenchyma forming continuous or interrupted bands; lemmas (2.6)3-6(6.2) mm long; blades with 1-3(5) indistinct ribs; anthers 1.4-3 mm long; species used as ornamentals or for turf or soil stabilization, rarely spreading from cultivation.
+5. Plants usually not glaucous or pruinose; sheaths glabrous; plants used for turf.....21. F. ovina (in part)
+5. Plants usually glaucous or pruinose; sheaths pubescent or glabrous; plants grown as ornamentals ...... F. glauca
+4. Abaxial sclerenchyma usually in 3-7 discrete or somewhat confluent strands, if in a continuous band, the lemmas 3.8-7(8.2) mm long; blades with 1-9 distinct ribs; anthers 0.4-4.5 mm long; most species native, a few introduced for turf.
+6. Abaxial sclerenchyma in 5-7 strands or in interrupted to continuous bands; blades with (1)3-9 well-defined ribs.
+7. Lemmas 3.8-5(6.5) mm long, usually scabrous or pubescent distally, especially on the margins, rarely entirely pubescent; lemma awns usually less than 1/2 the length of the lemma bodies .....24. F. trachyphylla
+7. Lemmas 5-10 mm long, scabrous distally; lemma awns usually more than 1/2 the length of the lemma bodies. 
+8. Blades with (1)3-5 ribs; adaxial surfaces of the blades pubescent or scabrous; inflorescence branches usually somewhat spreading at maturity  .....40. F. idahoensis
+ 
+8. Blades with 5-9 ribs; adaxial surfaces of the blades glabrous or pubescent, sometimes scabrous; inflorescence branches erect to slightly spreading at maturity ..... 41. F. roemeri 
+6. Abaxial sclerenchyma strands usually restricted to the margins and midvein, rarely with additional strands in between; blades with 1-5 well-defined ribs. 
+9. Sheaths closed distinctly less than 1/2 their length; culms 15-65 cm tall; inflorescences 5-15 cm long; plants native to the southwestern United States .....38. F. calligera (in part)
+9. Sheaths closed for about 1/2 their length; culms 8-50(60) cm tall; inflorescences 1.5-10 cm long; plants introduced or native to the extreme northwest of the Flora region.
+10. Inflorescences (3)5-10 cm long, panicles; abaxial blade surfaces glabrous or pubescent, not pilose; lower glumes 2-3 mm long; anthers 2.2-2.6 mm long; plants introduced .....19. F. valesiaca
+10. Inflorescences 1.5-5(5.5) cm long, panicles or racemes; abaxial blade surfaces glabrous, pubescent, or pilose, varying within individual plants; lower glumes 2.5-3.4 mm long; anthers (2)2.4-3.5 mm long; plants native to the extreme northwest of the Flora region. 
+11. Abaxial sclerenchyma strands distinctly narrower than the veins; spikelets 5-6.5(8) mm long .....25. F. auriculata
+11. Abaxial sclerenchyma strands about the same width as or wider than the veins; spikelets (5)7-9(11) mm long ..... 26. F. lenensis (in part)
+
+    </key_body>
+  </key>
+</bio:treatment>

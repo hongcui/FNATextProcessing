@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>John R. Reeder</author>
+    </source>
+  </meta>
+  <number>18.01</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>PAPPOPHORUM Schreb.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, essentially glabrous throughout. Culms 30-130 cm. Sheaths open; ligules of hairs; microhairs of blades with an inflated terminal cell similar in length to the basal cell. Inflorescences terminal, narrow, spikelike or somewhat open panicles; disarticulation above the glumes but not between the florets, these falling together. Spikelets with 3-5 florets, only the lower 1-3 bisexual. Glumes subequal, thin, membranous, 1-veined, acute; lemmas rounded on the back, hairy at least basally, obscurely (5)7(9)-veined, veins extending into scabridulous awns of unequal length, several additional narrow awnlike lobes usually also present, awns and lobes together forming a pappuslike crown; paleas textured like the lemmas, 2-veined, 2-keeled, keels scabrous or hairy; anthers 3; styles 2. Caryopses elliptical, plump, slightly dorsally flattened or nearly terete; embryos about 1/2 as long as the caryopses. x = 10. </description>
+  <discussion>Pappophorum is an American genus with about eight species. It grows in warm regions of North and South America. Two species are native to the Flora region.</discussion>
+  <references>Pensiero, J.F. 1986. Revision de las especies argentinas del genero Pappophorum (Gramineae-Eragrostoideae-Pappophoreae). Darwiniana 17:65-87; Reeder, J.R. and L.J. Toolin. 1989. Notes on Pappophorum (Gramineae: Pappophoreae). Syst. Bot. 14:349-358.</references>
+  <key>
+    <key_body>
+1. Panicles purple-tinged, narrow, but usually with some slightly spreading branches; lemma bodies 3-4 mm, the awns mostly not more than 1.5 times as long, these rarely spreading at right angles.....1. P. bicolor
+1. Panicles white or tawny, rarely slightly purplish, tightly contracted; lemma bodies 3-3.2 mm, the awns about twice as long, commonly spreading at right angles when mature  .....2. P. vaginatum
+
+    </key_body>
+  </key>
+</bio:treatment>

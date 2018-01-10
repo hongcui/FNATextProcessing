@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>46</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus xpinalenoensis (Pyrah) Barkworth & D.R. Dewey </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose, not rhizomatous. Culms 60-90 cm tall, about 2 mm thick. Leaves somewhat basally concentrated; sheaths smooth or scabridulous; auricles to 1.5 mm; ligules 0.5-0.7 mm, rounded; blades 2-2.5 mm wide, those of the basal leaves 7-15 cm long, those of the flag leaves 2-7 cm long, abaxial surfaces smooth or scabridulous, glabrous or sparsely hairy basally, veins not evident, adaxial surfaces scabrous, sometimes with scattered hairs, veins prominently and equally ribbed. Spikes 8-14 cm long, about 5 cm wide including the awns, about 1 cm wide excluding the awns, nodding, lower nodes with 1-2 spikelets, upper nodes with 1 spikelet; internodes about 10 mm; disarticulation in the rachises and beneath each floret. Glumes 22-31 mm including the awns, glume bodies 5-10 mm, midvein evident, scabrous, awns 17-26 mm, divergent, scabrous; lemmas 11-13 mm, smooth, awns 20-40 mm, divergent, sometimes strongly divergent; anthers about 2 mm long, 1-1.5 mm thick.</description>
+  <discussion>Elymus xpinalenoensis consists of hybrids between E. elymoides subsp. brevifolius (p. 319) and E. arizonicus (p. 329) (Pyrah 1983). It has been found in the Pinaleno and Santa Catalina mountains of Graham County, Arizona, in areas disturbed by logging, road building, summer home development, and recreation.</discussion>
+</bio:treatment>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>71</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa unilateralis Scribn. </name_authority_date>
+  </taxon_identification>
+  <common_names>SEA-BLUFF BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; frequently glaucous; densely tufted, not stoloniferous, not rhizomatous. Basal branching all or mainly intravaginal. Culms 5-40 cm, erect or ascending, frequently decumbent, terete, with 0-2 exserted nodes. Sheaths closed for 1/10(1/5) their length, terete, smooth, glabrous, bases of basal sheaths glabrous, distal sheath lengths 1-4 times widths; ligules 2-6 mm, smooth or sparsely scabrous, obtuse to acute; innovation blades usually 1-1.5 mm wide, thin, soon withering, and distinctly narrower than the cauline blades, infrequently wider, flat, and a bit fleshy as in the cauline blades, or involute; cauline blades gradually reduced in length distally, 2-5 mm wide, flat or folded, soft, thin and soon withering or moderately thick and somewhat fleshy and retaining their form, smooth, apices narrowly to broadly prow-shaped. Panicles 3-7 cm, erect, nearly cylindrical, contracted, congested, with (20)30-80(120) spikelets; nodes with 3-7 branches; branches 0.5-1.5(4.5) cm, erect, usually angled, infrequently terete or sulcate, angles usually moderately to densely scabrous, infrequently smooth with dense papillae and weak-angled, with 2-10 spikelets in the proximal 2/3; pedicels shorter than the spikelets. Spikelets 4.5-7 mm, lengths to 3.5 times widths, lanceolate to narrowly ovate, drab; florets 3-5; rachilla internodes usually shorter than 1 mm, smooth. Glumes lanceolate, slightly unequal, distinctly keeled, keels papillate or scabrous; lower glumes 3-veined; calluses glabrous or with a crown of hairs, hairs 0.1-0.2 mm; lemmas 3-4.5 mm, lanceolate, distinctly keeled, glabrous or the keels and marginal veins short-villous to midlength, intercostal regions sparsely puberulent near the base, margins glabrous, apices acute; palea keels scabrous, sometimes softly puberulent at midlength; anthers 1.5-3 mm. 2n = 42, 84.
+</description>
+  <discussion>Poa unilateralis grows on grassy bluffs and cliffs near the Pacific coast of North America, from Washington to California.</discussion>
+  <key>
+    <key_body>
+1. Lemmas villous on the keels and marginal veins for more than 1/3 the length of the lemmas; blades usually involute, the cauline and innovation blades similar.....subsp. pachypholis
+1. Lemmas glabrous or the keels and marginal veins villous or puberulent for less than 1/5 the length of the lemmas; blades flat or folded, the cauline blades sometimes wider and thicker than the innovation blades.....subsp. unilateralis
+
+    </key_body>
+  </key>
+</bio:treatment>

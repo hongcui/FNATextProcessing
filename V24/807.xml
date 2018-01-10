@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa glauca Vahl subsp. </name_authority_date>
+  </taxon_identification>
+  <common_names>GLAUCOUS BLUEGRASS</common_names>
+  <description type="morphology">Culms 10-40(80) cm. Panicles 3.5-10(20) cm. Spikelets not bulbiferous; florets normal. Calluses webbed or glabrous; lemmas usually with lateral veins short-villous to softly puberulent, intercostal regions glabrous or short-villous to softly puberulent. 2n = 34, 42, 44, 47, 48, ca. 49, 50, 56, 60, 63, 64, 65, 70, 75, 78.</description>
+  <discussion>Poa glauca subsp. glauca is the widespread and common subspecies in the Northern Hemisphere. It is also disjunct in South America. Plants with glabrous calluses are found only in the arctic. In the Rocky Mountains, P. glauca subsp. glauca often grows with subsp. rupicola and P. interior (see previous). It does not grow in California, and is uncommon in the Great Basin and southern Rocky Mountains. It is highly variable, especially in the Great Lakes region. It is often confused in herbaria with subsp. rupicola, but can sometimes be distinguished by its webbed calluses and lemmas that are glabrous between the veins. The name P. glaucantha Gaud, has sometimes been applied to plants of P. glauca from southeastern Canada and the northeastern United States.</discussion>
+</bio:treatment>

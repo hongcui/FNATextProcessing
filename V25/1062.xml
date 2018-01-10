@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Digitaria filiformis var. villosa (Walter) Fernald</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 75-150 cm. Basal leaf sheaths with papillose-based hairs; cauline leaf blades 1-6 mm wide, flat. Panicle branches 10-25 cm. Spikelets 2-2.8 mm; lower lemmas pubescent.</description>
+  <discussion>Digitaria filiformis var. villosa has essentially the same geographic range as var. filiformis and grows in similar habitats. Further study may show that the two varieties should be combined.</discussion>
+</bio:treatment>

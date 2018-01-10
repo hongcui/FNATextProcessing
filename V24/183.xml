@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>22</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Achnatherum webberi (Thurb.) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>WEBBER'S NEEDLEGRASS</common_names>
+  <description type="morphology">Plants tightly cespitose, not rhizomatous. Culms 12-35 cm tall, 0.4-0.7 mm thick, smooth or antrorsely scabridulous; nodes 2-3. Basal sheaths glabrous, smooth or scabridulous; collars glabrous, without tufts ' of hair on the sides; basal ligules 0.1-1 mm, truncate to rounded; upper ligules 1-2 mm, acute; blades 0.5-1.5 mm wide when flat, usually folded to involute and about 0.5 mm in diameter, stiff, abaxial surfaces smooth or scabrous, adaxial surfaces scabrous. Panicles 2.5-7 cm long, 0.5-2 cm wide, contracted; branches appressed, longest branches 1-2 cm. Glumes subequal, 6-10 mm long, 0.6-0.9 mm wide, lanceolate, not saccate; florets 4.5-6 mm long, 0.7-1 mm thick, fusiform, terete; calluses 0.3-0.8 mm, blunt; lemmas evenly and densely pilose, hairs 2.5-3.5 mm, apical lobes 0.6-1.9 mm, membranous; awns 4-11 mm, readily deciduous, straight to once-geniculate, scabrous; paleas 4-5.6 mm, from as long as to slightly longer than the lemmas; anthers 1.6-2 mm, dehiscent, not penicillate. Caryopses 3.5-4.5 mm, fusiform. 2n = 32.</description>
+  <discussion>Achnatherum webberi grows in dry, open flats and on rocky slopes, often with sagebrush, at 1500-2500 m. It grows at scattered locations from Oregon and Idaho to California and Nevada. It differs from A. hymenoides in its cylindrical floret and non-saccate glumes, and from A. pinetorum and A. parishii subsp. parishii in its shorter, deciduous awns. It also has narrower blades than A. parishii subsp. depauperatum.</discussion>
+</bio:treatment>

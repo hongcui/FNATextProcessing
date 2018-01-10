@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Echinochloa colona (L.) Link </name_authority_date>
+  </taxon_identification>
+  <common_names>AWNLESS BARNYARD GRASS</common_names>
+  <description type="morphology">Plants annual; erect or decum¬bent, cespitose or spreading, rooting from the lower cauline nodes. Culms 10-70 cm; lower nodes glabrous or hispid, hairs appressed; upper nodes glabrous. Sheaths glabrous; ligules absent, ligule region frequently brown-purple; blades 8-22 cm long, 3-6(10) mm wide, mostly glabrous, sometimes hispid, hairs papillose-based on or near the margins. Panicles 2-12 cm, erect, rachises glabrous or sparsely hispid; primary branches 5-10, 0.7-2(4) cm, erect to ascending, spikelike, somewhat distant, without secondary branches, axes glabrous or sparsely hispid, hairs 1.5-2.5 mm, papillose-based. Spikelets 2-3 mm, disarticulating at maturity, pubescent to hispid, hairs usually not papillose-based, tips acute to cuspidate. Lower glumes about XA as long as the spikelets; upper glumes about as long as the spikelets; lower florets usually sterile, occasionally staminate; lower lemmas unawned, similar to the upper glumes; lower paleas subequal to the lemmas; upper lemmas 2.6-2.9 mm, not or scarcely exceeding the upper glumes, elliptic, coriaceous portion rounded distally, passing abruptly into a sharply differentiated, membranous, soon-withering tip; anthers 0.7-0.8 mm. Caryopses 1.2-1.6 mm, whitish; embryos 63-83% as long as the caryopses. 2n = 54.</description>
+  <discussion>Echinochloa colona is widespread in tropical and subtropical regions. It is adventive and weedy in North America, growing in low-lying, damp to wet, disturbed areas, including rice fields. The unbranched, rather widely-spaced panicle branches make this one of the easier species of Echinochloa to recognize.
+Hitchcock (1913) considered that 'colonum' was a non-declining contraction, but dictionaries of Linnaeus' time treated it as a declining adjective. Because Linnaeus was the first to name the species (as "Panicum colonum"), it seems best to follow the practice considered correct in his day; hence "E. colona".
+</discussion>
+</bio:treatment>

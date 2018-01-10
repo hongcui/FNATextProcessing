@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Chloris berroi Arechav. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose. Culms 15-80 cm. Sheaths glabrous; ligules ciliate; blades 3-15 cm long, 1.5-2 mm wide, glabrous or sparsely pilose near the base. Panicles with 2-4 branches, these entangled for most of their length, separable only with difficulty, forming a narrow, cylindrical, spikelike inflorescence, individual branches visibly distinct only at the tips; branches 3-12 cm, tightly appressed and adherent, with 9-12 spikelets per cm. Spikelets imbricate, with 1 bisexual and 3 sterile florets. Lower glumes 1.5-2 mm long, about 0.3 mm wide; upper glumes 2.1-2.6 mm long, 0.3-0.6 mm wide; lowest lemmas 2.7-3.5 mm, ovate, margins and keels hairy, hairs to 2 mm, awns 2.7-3.4 mm; second florets about 1.9 mm, glabrous, awned; distal florets unawned. Caryopses 1.2-1.8 mm long, 0.5-0.7 mm wide, trigonous. 2n = 40.</description>
+  <discussion>Chloris berroi is native to the Rio de la Plata region of Argentina and Uruguay. It has been cultivated at scattered locations in the United States (Hitchcock 1951), but is not known to be established in the Flora region.</discussion>
+</bio:treatment>

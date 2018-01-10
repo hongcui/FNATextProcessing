@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Festuca viviparoidea Krajina ex Pavlick subsp. viviparoidea </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants densely cespitose. Culms densely to sparsely puberulent below the inflorescence. Sheaths stramineous, persistent; abaxial sclerenchyma strands about twice as wide as the adjacent veins, 2-3 times as wide as high. Glumes and lemmas smooth or scabrous near the apices. 2n = 49, 56.</description>
+  <discussion>Festuca viviparoidea subsp. viviparoidea is circumpolar and found in the high arctic, including Alaska, Yukon Territory, Nunavut, Greenland, Svalbard, and Russia.</discussion>
+</bio:treatment>

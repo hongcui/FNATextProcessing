@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Leptochloa chloridiformis (Hack.) Parodi </name_authority_date>
+  </taxon_identification>
+  <common_names>ARGENTINE SPRANGLETOP</common_names>
+  <description type="morphology">Plants perennial. Culms 60-200 ; cm, erect, compressed, un-branched; internodes hollow. Sheaths pubescent; ligules 0.5-1 mm, shortly ciliate; blades 25-50 cm long, 2.8-5.5 mm wide, ascending to reflexed, adaxial surfaces usually sparsely pilose behind the ligules, other¬wise both surfaces glabrous. Panicles to 53 cm, with 5-20 digitate branches; secondary panicles not present in the lower sheaths; branches 7-17 cm, steeply ascending but drooping at the apices. Spikelets 4.5-5 mm, imbricate, green to straw-colored, with 3-4 florets. Glumes ovate, acute; lower glumes 1.3-2.6 mm; upper glumes 2.2-3.7 mm; lemmas 2.8-3.8 mm, lanceolate to ovate, chartaceous, lateral veins sericeous, apices acute to slightly obtuse, minutely emarginate, mucronate; paleas ciliolate over the veins; anthers 1, 0.4-0.6 mm. Caryopses 0.9-1.8 mm long, 0.3-0.4 mm wide, triangular in cross section. 2n = unknown.</description>
+  <discussion>Leptochloa chloridiformis is native to Uruguay, southern Paraguay, and northern Argentina. It was introduced in the early part of the twentieth century but has not become established in the Flora region. The only known collections are from Cameron County, Texas, the most recent having been made in the 1940s.</discussion>
+</bio:treatment>

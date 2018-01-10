@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Setaria macrosperma (Scribn. & Merr.) K. Schum. </name_authority_date>
+  </taxon_identification>
+  <common_names>CORAL BRISTLEGRASS</common_names>
+  <description type="morphology">Plants perennial. Culms 1-1.5 m. Sheaths prominently keeled, margins villous; ligules 1-3 mm; blades 1-2 cm wide, flat, scabrous. Panicles to 25 cm, loosely spicate; rachises readily visible, sparsely villous; bristles 1(2), 15-30 mm, flexible, antrorsely scabrous. Spikelets 3-3.2 mm. Lower glumes about 1/3 as long as the spikelets, 3-veined; upper glumes about 3/4 as long as the spikelets, 5-veined; lower lemmas equaling the upper lemmas; lower paleas about 1/2 as long as the upper paleas, hyaline, narrow; upper lemmas finely and transversely rugose; upper paleas similar to the upper lemmas. 2n = unknown.</description>
+  <discussion>Setaria macrosperma grows on shell or coral islands, and occasionally in old fields or hammocks. It is most frequent in Florida, but has been collected in both South Carolina and Georgia. It also grows in the Bahamas and Mexico.</discussion>
+</bio:treatment>

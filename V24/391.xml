@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Triticum turgidum L. </name_authority_date>
+  </taxon_identification>
+  <common_names>RIVET WHEAT, CONE WHEAT, BLE POULARD</common_names>
+  <description type="morphology">Culms 120-180 cm; nodes glabrous; internodes mostly hollow, solid for 1 cm below the spikes. Blades to 18 mm wide, shortly pubescent to villous. Spikes 7-14 cm, about as wide as thick, except when branched below; rachises hairy at the nodes and margins, not disarticulating. Spikelets 10-16 mm, with 5-7 florets, 2-5 seed-forming. Glumes 8-11 mm, coriaceous, loosely appressed to the lower florets, with 1 prominent keel, terminating in a tooth, tooth to 0.3 cm; lemmas 10-13 mm, lowest 2 lemmas awned, awns to 20 cm; paleas not splitting at maturity. Endosperm mealy. Haplomes AuB. 2n = 28.</description>
+  <discussion>Triticum turgidum is the tallest of the wheats, and differs from other species of domesticated wheat in having branched-spike forms. It is grown primarily in southern Europe, northern Iraq, southern Iran, and western Pakistan. As treated here, T. turgidum is a narrowly distributed taxon of minor importance in plant breeding. Under genomic classifications, however, the name is applied to all AUB taxa, e.g., to T. polonicum, T. durum, and T. carthlicum, as well as to T. turgidum sensu stricto.</discussion>
+</bio:treatment>

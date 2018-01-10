@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis amabilis (L.) Wight & Arn. ex Nees </name_authority_date>
+  </taxon_identification>
+  <common_names>JAPANESE LOVEGRASS</common_names>
+  <description type="morphology">Plants annual; cespitose, without innovations, without glands. Culms 5-40 cm, erect, glabrous, occasionally with oblong glandular areas below the nodes. Sheaths hairy on the distal margins and at the apices, hairs to 4 mm, stiff; ligules 0.2-0.3 mm; blades 2-8 cm long, 2-4 mm wide, flat to involute, abaxial surfaces smooth, adaxial surfaces scabridulous, bases occasionally with papillose-based hairs. Panicles 4-15 cm long, 1-7 cm wide, cylindrical to narrowly ovate, open, rachises sometimes glandular below the nodes; primary branches 0.5-4 cm, diverging 20-100° from the rachises; pulvini sparsely pilose; pedicels 1-4(7) mm, as long as or longer than the spikelets, mostly pendent, lax, terete. Spikelets (1)1.5-2.5 mm long, 0.9-1.4 mm wide, ovate to oblong, reddish-purple to greenish, with 4-8 florets; disarticulation basipetal, glumes persistent. Glumes ovate, hyaline, keeled, veins commonly green; lower glumes 0.4-0.7 mm; upper glumes 0.7-1 mm; lemmas 0.7-1.1 mm, ovate to broadly oblong, membranous, lateral veins usually greenish, apices trun-cate to obtuse; paleas 0.6-1.1 mm, hyaline, keels ciliate, cilia 0.3-0.5 mm, apices obtuse to truncate; anthers 3, about 0.2 mm, purplish. Caryopses 0.3-0.5 mm, ellipsoid, translucent, light brown. 2n = 20.</description>
+  <discussion>Eragrostis amabilis is native to the Eastern Hemisphere. It is now naturalized in the southeastern United States, growing in open areas such as cultivated fields, forest margins, and roadsides at 0-200 m.</discussion>
+</bio:treatment>

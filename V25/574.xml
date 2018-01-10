@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Gynerium sagittatum (Aublet) P. Beauv. </name_authority_date>
+  </taxon_identification>
+  <common_names>WILDCANE</common_names>
+  <description type="morphology">Culms 2-10(15) m tall, 1-4 cm thick. Sheaths distichous, narrowing toward the apices, sometimes with a line of deciduous hairs on the back below the articulation with the blade; ligules 0.5-2 mm; blades long-attenuate, (0.4)1.5-2 m long, 2-10 cm wide, in a flat, fan-shaped arrangement, margins serrate. Panicles 0.5-1.5(2) m. Pistillate spikelets 8-11 mm; lower glumes 2.5-4 mm, lanceolate, l(3)-veined; upper glumes 7-11 mm, linear-subulate, curved when mature, 3-veined; lemmas 4.5-7 mm; paleas 1-2 mm, lanceolate. Staminate spikelets 3-4 mm; glumes (1.5)2-3 mm, hyaline, acute; lemmas 3-4 mm, lanceolate, acute to acuminate; paleas to 2.5 mm, hyaline; anthers 1.5-2 mm, purplish. 2n = 44.</description>
+  <discussion>Gynerium sagittatum is grown as an ornamental in subtropical portions of the Flora region. Even when vegetative, it can be identified by its height, the absence of blades on the lower leaves, the strongly distichous, fan-shaped arrangement of the distal leaf blades, and the wide midveins of the blades. It does not flower when grown outdoors in the Flora region.</discussion>
+</bio:treatment>

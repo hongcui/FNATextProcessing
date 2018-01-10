@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Signe Frederiksen</author>
+    </source>
+  </meta>
+  <number>13.03</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>DASYPYRUM (Coss. & Durieu) T. Durand</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; shortly rhizomatous if perennial. Culms 20-100 cm. Sheaths open; auricles present, often inconspicuous; ligules 0.3-1 mm, membranous, truncate; blades 1-5 mm wide, flat, linear, central vein distinct on the abaxial side. Inflorescences terminal spikes, 4-12 cm long including the awns, 0.6-2 cm wide excluding the awns, compressed, dense, with 1 spikelet per node; rachis internodes flat, margins ciliate, hairs white; middle internodes 1-3 mm; disarticulation in the rachises, at the nodes beneath each spikelet. Spikelets 25-75 mm including the awns, 7-22 mm excluding the awns, more than 3 times the length of the rachis internodes, usually divergent, sometimes ascending, laterally compressed, with 2-4 florets, the lower 2 florets usually bisexual, the terminal florets sterile; rachilla internodes below the lower florets shorter than those below the terminal florets. Glumes equal, to 40 mm including the awns, to 8 mm excluding the awns, coriaceous, usually 5-veined, strongly 2-keeled, keels with 1-3 mm hairs, margins unequal, stiff, translucent, apices tapering into scabrous awns; bisexual lemmas 9-13 mm excluding the awns, lanceolate, keeled, usually 5-veined, apices acuminate, awned, awns to 60 mm; sterile lemmas smaller, awns to 10 mm; paleas narrowly lanceolate, membranous, 2-veined, 2-keeled; lodicules 2, free, membranous, ciliate or glabrous; anthers 3, 4-7 mm, yellow; ovaries pubescent; styles 2, free to the base, x = 7. Haplome V.</description>
+  <discussion>Dasypyrum is a Mediterranean genus of two species; only one has been collected in the Flora region. The hairy, 2-keeled glumes make the genus easily distinguishable from other genera in the Triticeae.</discussion>
+  <references>Frederiksen, S. 1991. Taxonomic studies in Dasypyrum (Poaceae). Nordic J. Bot. 11:135-142.</references>
+</bio:treatment>

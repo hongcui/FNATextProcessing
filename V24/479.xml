@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>series</rank>
+    <name_authority_date>Elymus Named hybrids</name_authority_date>
+  </taxon_identification>
+  <description type="morphology"></description>
+  <discussion>Elymus is notorious for its ability to hybridize. Most of its interspecific hybrids are partially fertile, permitting introgression between the parents. The descriptions provided below are restricted to the named interspecific hybrids. They should be treated with caution and some skepticism; some are based solely on the type specimen, because little other reliably identified material was available. Moreover, as the descriptions of the non-hybrid species indicate, many other interspecific hybrids exist.
+The parentage of all hybrids is best determined in the field. Perennial hybrids, such as those in Elymus, can persist in an area after one or both parents have died out, but the simplest assumption is that both are present. Interspecific hybrids of Elymus that have disarticulating rachises presumably have E. elymoides or E. multisetus as one of their parents.
+</discussion>
+</bio:treatment>

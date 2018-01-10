@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Holcus Ianatus L. </name_authority_date>
+  </taxon_identification>
+  <common_names>VELVETGRASS, YORKSHIRE FOG, HOULQUE LAINEUSE</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 20-100 cm, erect, sometimes decumbent; lower internodes densely pilose, hairs to 1 mm; uppermost internode often glabrous. Sheaths densely pubescent; ligules 1-4 mm, truncate, erose-ciliolate; blades 2-20 cm long, (3)5-10 mm wide, densely soft-pubescent. Panicles 3-15(20) cm long, 1-8 cm wide; branches hairy; pedicels 0.2-1.6(4) mm, pilose, hairs to 0.3 mm. Spikelets 3-6 mm; rachillas 0.4-0.5 mm, glabrous. Glumes exceeding and enclosing the florets, membranous, ciliate on the keels and veins, usually scabrous, puberulent, or villous between the veins, especially towards the apices, whitish green, often purple over the veins and towards the apices; lower glumes lanceolate, narrow, acute; upper glumes ovate, wider and longer than the lower glumes, midveins often prolonged as an awn to 1.5 mm, apices obtuse, somewhat bifid; calluses sparsely hirsute; lemmas 1.7-2.5 mm, acute, erose-ciliate; upper lemmas shallowly bifid, awns 1-2 mm, often purple-tipped, slightly twisted and forming a curved hook at maturity; anthers (1.2)2-2.5 mm. 2n = 14.</description>
+  <discussion>Holcus Ianatus grows in disturbed sites, moist waste places, lawns, and pastures, in a wide range of edaphic conditions and at elevations from 0-2300 m. A native of Europe, it was widely distributed in North America by 1800. It is an ancestor of the polyploid complex represented by H. mollis. In Europe, it hybridizes with tetraploids of H. mollis to form a sterile triploid that spreads vegetatively.
+ 
+</discussion>
+</bio:treatment>

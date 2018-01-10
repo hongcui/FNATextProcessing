@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>32</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum setaceum Michx. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose or shortly rhizomatous. Culms 25-110 cm, erect, spreading, or prostrate; nodes glabrous or pubescent. Sheaths glabrous or pubescent; ligules 0.2-0.5 mm; blades flat, glabrous or pubescent. Panicles terminal and axillary, with 1-6 racemosely axillary arranged   branches, panicles partially or completely enclosed by the subtending leaf sheath; branches 2-12(17) cm, ascending to spreading, often arcuate, terminating in a spikelet; branch axes 0.2-1.2 mm wide, glabrous, sometimes scabrous. Spikelets 1.4-2.6 mm long, paired, imbricate, appressed to the branch axes, elliptic to obovate to ovate to orbicular, stramineous or brown. Lower glumes absent; upper glumes and lower lemmas glabrous or shortly glandular-pubescent, 3-veined, margins entire; lower lemmas lacking ribs over the veins; upper florets stramineous. Caryopses elliptic to suborbicular, white. 2n = 20.</description>
+  <discussion>Paspalum setaceum is a variable species that grows east of the Rocky Mountains in the contiguous United States and Mexico. The following treatment summarizes the major patterns of variation within the species. Some specimens will be hard to place, particularly old herbarium specimens that have lost their color. Nine varieties grow in the Flora region.</discussion>
+  <key>
+    <key_body>
+1. Leaf blades conspicuously basal, recurved, 3-10 mm wide; lower lemmas without evident midveins.
+2. Leaf blades yellowish-green, usually glabrous; spikelets usually glabrous, not spotted.....var. longepedunculatum
+2. Leaf blades grayish-green, hirsute; spikelets short pubescent, often spotted  .....var. villosissimutn
+1. Leaf blades more evenly distributed, lax to straight, 1.5-20 mm wide; lower lemmas with or without evident midveins.
+3. Leaf blades glabrous (or almost so) on the surfaces, sometimes ciliate on the margins.
+4. Leaf blades 2.4-6.1 mm wide, stiff; spikelets 2-2.6 mm long.....var.  rigidifolium
+4. Leaf blades 3-18 mm wide, lax to somewhat stiff but, if somewhat stiff, more than 6 mm wide; spikelets 1.7-2.4 mm long.
+5. Lower lemmas without evident midveins; blades yellowish-green to dark green.....var. stramineum
+5. Lower lemmas with evident midveins; blades dark green to purplish   .....var. ciliatifolium
+3. Leaf blades evidently hirsute on the surfaces as well as on the margins. 
+6. Plants widely spreading to prostrate.
+7. Leaf blades grayish-green; lower lemmas without evident midveins   .....var. psammophilum
+7. Leaf blades yellowish-green; lower lemmas with or without evident midveins   .....var. supinum
+6. Plants erect to spreading.
+8. Lower lemmas usually with evident midveins; spikelets 1.8-2.5 mm long, usually glabrous, light green to green .....var. muhlenbergii
+ 
+3. Lower lemmas usually without evident midveins; spikelets 1.4-2.4 mm long, usually pubescent, pale yellow to light green.
+9. Leaves grayish-green; blades 1.5-7 mm wide, always conspicuously hirsute.....var. setaceum
+9. Leaves yellowish-green to dark green; blades 3.3-13.5 mm wide, almost glabrous or conspicuously hirsute .....var. stramineum
+
+    </key_body>
+  </key>
+</bio:treatment>

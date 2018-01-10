@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Leptochloa scabra Nees </name_authority_date>
+  </taxon_identification>
+  <common_names>ROUGH SPRANGLETOP</common_names>
+  <description type="morphology">Plants annual. Culms (12)20-125 cm, mostly erect, often strongly compressed, branching; internodes hollow. Sheaths glabrous, smooth to scabrous; ligules 1.5-2 mm, membranous, truncate, erose; blades 25-35(50) cm long, 8-16 mm wide, scabrous on both surfaces. Panicles 8-35 cm, with 50-150 racemose branches; branches (2)5-12 cm, lax, sometimes arcuate, lower branches often remaining enclosed in the upper leaf sheaths. Spikelets 3-4.5 mm, usually tightly imbricate, green but straw-colored when dry, with 2-6 florets. Glumes sometimes mucronate; lower glumes 0.8-1.6 mm, narrowly triangular to lanceolate; upper glumes 1.1-2.1 mm, ovate; rachilla segments not visible between the florets; lemmas 2.1-2.4 mm, lanceolate to narrowly ovate, membranous, sparsely sericeous along the lateral veins, apices acute, unawned; anthers 0.2-0.4 mm. Caryopses 0.8-1.3 mm long, 0.3-0.5 mm wide, elliptic to obovate, depressed obovate in cross section. 2n = 60.</description>
+  <discussion>Leptochloa scabra is a neotropical species that extends into Louisiana and southwestern Alabama. It is often confused with L. panicoides, but it has more, flexuous to arcuate panicle branches, shorter spikelets, and less prominent lemma veins. It may also be confused with L. fusca subsp. uninervia, from which it differs in its acute lemmas, and with L. virgata, from which it differs in its hollow, flattened culms and the complete lack of lemma awns.</discussion>
+</bio:treatment>

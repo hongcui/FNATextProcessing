@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Phalaris californica Hook. & Am. </name_authority_date>
+  </taxon_identification>
+  <common_names>CALIFORNIA CANARYGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 60-160 cm, swollen at the base. Ligules 3-5(8) mm, truncate to acute, irregularly erose; blades 5-35 (40) cm long, 3-12(18) mm wide, smooth. Panicles 1.5-6 cm long, 1-3 cm wide, ovoid to cylindrical, often purplish, often truncate at the base; branches not evident, spikelets borne singly, not clustered. Spikelets homogamous, with 3 florets, terminal floret bisexual; disarticulation above the glumes, beneath the sterile florets. Glumes 5-8 mm long, 0.9-1.6 mm wide, acute to acuminate, keels not or only narrowly winged distally, wings to 0.2 mm wide, scabrous, lateral veins conspicuous, smooth; sterile florets 2, equal or subequal, 1.8-3.5 mm, usually more than 1/2 as long as the bisexual florets, densely hairy; bisexual florets 3.5-5 mm long, 1-1.5 mm wide, sparsely hairy, shiny, stramineous, becoming darker at maturity, apices acute to weakly acuminate; anthers 3-3.5 mm. 2n = 28.</description>
+  <discussion>Phalaris californica is native to California and southwestern Oregon. It grows in ravines and on open, moist ground. Records from further north probably represent  introductions. The relatively long, sterile florets of P. californica distinguish it from other species of Phalaris in the Flora region.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia glabrifloris Scribn. </name_authority_date>
+  </taxon_identification>
+  <common_names>INLAND MUHLY</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, not cespitose. Culms 30-100 cm tall, 0.5-2 mm thick, herbaceous, ascending or decumbent, bushy and much branched above; internodes smooth and shiny for most of their length, scabridulous or strigulose below the nodes. Sheaths glabrous, margins hyaline; ligules 0.5-1.5 mm, membranous, truncate, lacerate-ciliolate; blades 3-8 cm long, (1.5)2-4 mm wide, flat, glabrous. Panicles 2-6.5 cm long, 0.2-0.8 cm wide, lobed, dense; branches 0.3-2.5 cm, ascending, closely appressed; axillary panicles common, partly included in or exserted from the subtending sheaths; pedicels 0.3-2.2 mm, scabrous to strigulose. Spikelets 2.2-3.5 mm. Glumes subequal, 1.5-3.5 mm, from 3/4 as long as to longer than the lemmas, smooth or scabridulous near the apices, 1-veined; upper glumes acuminate, acute, unawned or awned, awns to 1.2 mm; lemmas 2.2-3.1 mm, narrowly lanceolate, shiny, stramineous or purplish, usually completely glabrous (rarely with a few appressed hairs), apices scabridulous, acuminate, unawned; paleas 2.2-3.1 mm, narrowly lanceolate; anthers 0.3-0.5 mm, yellow to purplish. Caryopses 1.2-1.4 mm, fusiform, brown. 2n = 40.</description>
+  <discussion>Muhlenbergia glabrifloris grows at the edge of dry forests, in prairies, thickets, and along roadsides in pine and oak associations, at elevations of 20-400 m. It is restricted to the southern portion of the central contiguous United States. It resembles M. frondosa, but differs from that species in its glabrous lemmas and shorter caryopses (1.2-1.4 mm rather than 1.6-1.9 mm).</discussion>
+</bio:treatment>

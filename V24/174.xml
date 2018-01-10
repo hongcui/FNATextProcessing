@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>13</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Achnatherum diegoense (Swallen) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>SAN DIEGO NEEDLEGRASS</common_names>
+  <description type="morphology">Plants cespitose, not rhizomatous. Culms 110-140 cm tall, 2.5-4 mm thick, internodes densely and retrorsely pubescent for 3-9 mm below the nodes, particularly the lower nodes, glabrous or retrorsely puberulent elsewhere; nodes 3, pubescent or glabrate. Basal sheaths mostly glabrous or puberulent, margins ciliate distally; collars glabrous or with hairs, hairs mostly to 0.5 mm, sides with tufts of 1.5-2 mm hairs; ligules 0.4-2 mm, rounded to acute, abaxial surfaces hairy, hairs to 0.5 mm; upper ligules 1-3 mm, similar in structure and pubescence; blades 1-3.5 mm wide, abaxial surfaces smooth or scabrous, adaxial surfaces prominently ribbed, hairy, hairs 2-3 mm. Panicles 21-25 cm long, (2)4-8 cm wide; branches strongly divergent to ascending, straight, lower branches 5-7 cm. Spikelets appressed to the branches. Glumes subequal, 8-11.5 mm; lower glumes 0.5-1 mm wide, 3-5-veined; upper glumes 3-veined; florets 5.5-7.5 mm long, 0.7-1 mm thick, fusiform, terete; calluses 0.25-1.2 mm, acute; lemmas evenly hairy, hairs at midlength and at the apices 0.5-1 mm, apical lobes 0.2-0.4 mm, membranous, flexible; awns 20-50 mm, persistent, twice-geniculate, all segments scabrous to scabridulous, terminal segment straight; paleas 2.6-3.8 mm, 1/2 - 3/4 as long as the lemmas, pubescent, hairs not extending beyond the apices, veins terminating below the apices, apices rounded; anthers 2.5-4 mm, dehiscent, not penicillate. 2n = unknown.</description>
+  <discussion>Achnatherum diegoense grows in chaparral and coastal sage scrub, on rocky soil near streams or the coast, at 0-350 m, on the Channel Islands of Santa Barbara County, California, and, on the mainland, in Ventura and San Diego counties south into Baja California, Mexico.</discussion>
+</bio:treatment>

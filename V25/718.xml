@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia bushii R.W. Pohl </name_authority_date>
+  </taxon_identification>
+  <common_names>NODDING MUHLY</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, not cespitose. Culms 30-100 cm tall, 1-2 mm thick, herbaceous; internodes smooth, shiny, usually glabrous throughout. Sheaths glabrous, usually smooth, occasionally scabridulous distally; ligules 0.2-0.6 mm, membranous, truncate, ciliolate; blades 5-15 cm long, 2-7 mm wide, flat, glabrous abaxially, glabrous, smooth or scabridulous adaxially, those of the lateral branches often shorter and narrower than those of the primary branches. Panicles terminal and axillary, 4-15 cm long, 0.1-0.7 cm wide, narrow, not dense; axillary panicles common, partly included in the sheaths; branches 0.5-4 cm, ascending to appressed; pedicels 1-4 mm, glabrous. Spikelets 2.6-3.3 mm, not imbricate along the branches. Glumes subequal, 1.4-2 mm, about 1/3–2/3 as long as the lemmas, smooth or scabridulous distally, l(2)-veined, acuminate or acute, unawned or awned, awns to 1 mm; lemmas 2.6-3.3 mm, narrowly lanceolate, usually hairy on the calluses and lower 1/3 of the margins and midveins (rarely glabrous), hairs 0.5-1 mm, apices scabridulous, acuminate, unawned or awned, awns 0.5-7 mm; paleas 2.2-3.1 mm, shorter than the lemmas, narrowly lanceolate, intercostal region shortly pilose on the basal 1/3, apices acuminate; anthers 0.3-0.6 mm, yellow. Caryopses 1.5-1.8 mm, fusiform, brown. 2n = 40.</description>
+  <discussion>Muhlenbergii bushii grows in sandy alluvium, open thickets, dry woodlands, and flood plains, at elevations of 10-250 m in the central portion of the contiguous United States.
+Early season plants, in which the axillary panicles are poorly developed, can be distinguished from those of M. mexicana by their shiny internodes and the tendency of the blades on the secondary branches to be shorter and narrower than those on the main branches.
+</discussion>
+</bio:treatment>

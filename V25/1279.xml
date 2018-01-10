@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Panicum anceps subsp. rhizomatum (Hitchc. & Chase) Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants rhizomatous, rhizomes relatively long and slender. Panicles terminal and axillary; branches more numerous, appressed, congested, with dense clusters of spikelets. Spikelets 2.3-2.8 mm, not clearly falcate, often ovoid-lanceolate, purplish-stained, acute.</description>
+  <discussion>Panicum anceps subsp. rhizomatum grows in the Atlantic and Gulf coastal plains.
+The small, crowded, often purplish spikelets of this subspecies often closely resemble those of Panicum rigidulum.
+</discussion>
+</bio:treatment>

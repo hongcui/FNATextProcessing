@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Alopecurus geniculatus L. </name_authority_date>
+  </taxon_identification>
+  <common_names>WATER FOXTAIL, VULPIN GENICULE</common_names>
+  <description type="morphology">Plants perennial; cespitose. Culms (5)10-60 cm, erect or decumbent, rooting at the lower nodes. Ligules 2-5 mm, obtuse; blades 2-12 cm long, 1-4(7) mm wide; upper sheaths somewhat inflated. Panicles 1.5-7 cm long, 4-8 mm wide. Glumes 1.9-3.5 mm, connate at the base, membranous, pubescent, keels not winged, ciliate, apices obtuse, parallel, often purplish; lemmas 2.5-3 mm, connate in the lower 1/2, glabrous or with a few scattered hairs at the apices, apices truncate to obtuse, awns 3-5(6) mm, geniculate, exceeding the lemmas by (1.2)2-4 mm; anthers (0.9)1.4-2.2 mm, yellow. Caryopses 1-1.5 mm. 2n = 28.</description>
+  <discussion>Alopecurus geniculatus is native to Eurasia and parts of North America, growing in shallow water, ditches, open wet meadows, shores, and streambanks, from lowland to montane zones. It has been naturalized in eastern North America. The status of populations in the west, including the Queen Charlotte Islands in British Columbia, is less certain. Many occur in moist sites within native rangeland, but these areas have also been affected by European settlement, although less intensively and for a shorter period than those in eastern North America.
+Alopecurus xhaussknechtianus Asch. 5c Graebn. is a hybrid between A. geniculatus and A. aequalis, which occurs fairly frequently in areas of sympatry, particularly in drier midcontinental areas from Alberta to Saskatchewan, south to Arizona and New Mexico. The hybrids are sterile and appear to have 2n = 14.
+</discussion>
+</bio:treatment>

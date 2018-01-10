@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Gordon C. Tucker</author>
+    </source>
+  </meta>
+  <number>14.45</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>AVENULA (Dumort.) Dumort.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, sometimes stoloniferous. Culms 10-110 cm. Sheaths usually open, sometimes closed for most of their length; auricles absent; ligules membranous, acute to truncate; blades flat or folded, adaxial surfaces unribbed, with a furrow on either side of the midveins, margins sclerenchymatous. Inflorescences reduced panicles, many branches (all branches in depauperate specimens) with a single spikelet. Spikelets with 2-7 florets; rachillas glabrous on the side adjacent to the paleas, hairy elsewhere; disarticulation above the glumes, beneath the florets. Glumes as long as or longer than the adjacent lemmas, 1-3-veined, unawned; calluses acute; lemmas 5-7-veined, obtuse, bifid, awned from about midlength, awns geniculate, flattened or terete and twisted below the bend; paleas with lateral wings less than 1/2 as wide as the intercostal region, apices shallowly bifid; lodicules 2, entire, unlobed; anthers 3. Caryopses more than twice as long as the hila, shorter than the lemmas, concealed at maturity; endosperm liquid or semi-liquid, x = 7. </description>
+  <discussion>Avenula is a genus of approximately 30 species, most of which are European. One species is native to the Flora region, and one has been introduced. The genus is frequently included in Helictotrichon, from which it differs in having acute cauline ligules, unribbed leaves, rachillas glabrous on one side, unlobed lodicules, short hila, liquid to semi-liquid endosperm, and no sclerenchyma ring in its roots.</discussion>
+  <references>Dixon, J.M. 1991. Biological flora of the British Isles: Avenula (Dumort.) Dumort. J. Ecol. 79:829-865; Gervais, C. 1973. Contribution a l'etude cytologique et taxonomique des avoines vivaces. Denkschr. Schweiz. Naturf. Ges. 88:3-166; Holub, J. 1963. Ein Beitragzur Abgrenzung der Gattungen in der Tribus Aveneae: Die Gattung Avenochloa Holub. Acta Horti Bot. Prague 1962:75-86.</references>
+  <key>
+    <key_body>
+1. Sheaths closed for less than 1/3 their length, sheaths and blades smooth to scabridulous; panicles 4-13 cm long, usually 0.8-2.5 cm wide; awns 10-17 mm long, flattened below the bend .....1. A. hookeri
+1. Sheaths closed to near the top, sheaths and blades usually pubescent; panicles 6-20 cm long, 2-6 cm wide; awns 12-26 mm long, terete below the bend .....2. A. pubescens
+
+    </key_body>
+  </key>
+</bio:treatment>

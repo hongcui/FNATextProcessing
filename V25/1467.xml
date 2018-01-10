@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>25</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum malacophyllum Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>RIBBED PASPALUM</common_names>
+  <description type="morphology">Plants perennial; cespitose, sometimes with short rhizomes. Culms 90-200 cm, erect; nodes sunken, glabrous or pubescent, brown. Sheaths pubescent; ligules 4-5 mm, membranous, brown, acute; blades 12-40 cm long, 8-35 mm wide, flat or conduplicate, pubescent below, glabrous above, distinctly pubescent basally. Panicles terminal, with 8-25 racemosely arranged branches; branches 1-8 cm, divergent to erect; branch axes 1-1.2 mm wide, margins scabrous, terminating in a spikelet; pedicels 0.2-0.4 and 0.5-1.2 mm long, flattened, scabrous. Spikelets 1.8-2 mm, paired, appressed to or divergent from the branch axes, oblong-elliptic, white to stramineous. Glumes absent; lower lemmas glabrous, ribbed over the veins, sulcate between, 5-veined, margins entire; upper lemmas as long as the lower ones, longitudinally papillose-striate, glabrous, pale-colored. Upper florets white to stramineous. 2n = 40, 60.</description>
+  <discussion>Paspalum malacophyllum is native from Mexico to Bolivia and Argentina. It was introduced to the southern United States for forage and soil conservation, and is now established in the southeastern United States, growing in disturbed sites at scattered locations.</discussion>
+</bio:treatment>

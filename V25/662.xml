@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Dichanthelium sect. Macrocarpa Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose, often with knotty rhizomes, sometimes with caudices. Basal rosettes usually well-differentiated. Culms 20-110 cm, ascending to erect; fall phase sparsely rebranching, not producing dense axillary fascicles. Cauline leaves 3-6; sheaths glabrous or pubescent, not viscid; ligules shortly membranous and ciliate, cilia longer than the membranous portion. Primary panicles at least partially exserted. Spikelets narrowly ellipsoid to obovoid, pubescent to puberulent, sometimes sparsely so, hairs sometimes papillose-based. Upper florets pointed, umbonate, mucronate, or apiculate.</description>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Poa stenantha var. vivipara Trin. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Spikelets bulbiferous; florets bulb-forming. Glumes usually glaucous, not lustrous; anthers usually aborted late in development or not developed.</description>
+  <discussion>Poa stenantha var. vivipara is the common form of the species in the Aleutian Islands; it extends eastward to Sitka, Alaska. It differs from bulbiferous forms of P. arctica (p. 529) in its lack of rhizomes, more open sheaths, and usually glaucous and scabrous panicle branches.</discussion>
+</bio:treatment>

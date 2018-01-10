@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Aristida purpurascens Poir. var. purpurascens</name_authority_date>
+  </taxon_identification>
+  <common_names>ARROWFEATHER THREEAWN</common_names>
+  <description type="morphology">Lower sheaths longer than the internodes, usually glabrous, or occasionally with appressed-pilose hairs; blades 1-3 mm wide, often curling. Glumes unequal; lower glumes 6-10 mm, usually longer than the upper glumes; upper glumes 5-8 mm; awns 15-25 mm, of equal thickness, straight or only slightly contorted, divergent.</description>
+  <discussion>Aristida purpurascens var. purpurascens grows in waste places, glades, fields, and pine savannahs in sandy or clay soils. Its range extends into northern Mexico.</discussion>
+</bio:treatment>

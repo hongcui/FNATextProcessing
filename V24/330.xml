@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Bromus hordeaceus subsp. pseudothominei (P. M. Sm.) H. Scholz </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms (3)10-70 cm. Panicles to 10 cm, usually with more than 1 spikelet. Lemmas 6.5-8(9) mm, usually glabrous, margins often abruptly angled; awns straight, erect. Caryopses usually as long as the paleas.</description>
+  <discussion>Bromus hordeaceus subsp. pseudothominei grows sporadically throughout the range of the species in the Flora region. Hitchcock (1951) included it in B. racemosus. Bromus hordeaceus subsp. pseudothominei often resembles B. lepidus in lemma characteristics (e.g., length, smoothness, and margin angle), so that either may be misinterpreted.</discussion>
+</bio:treatment>

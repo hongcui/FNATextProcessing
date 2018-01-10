@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Phyllostachys aurea Carriere ex Rivière & C. Rivière</name_authority_date>
+  </taxon_identification>
+  <common_names>FISHPOLE BAMBOO, GOLDEN BAMBOO</common_names>
+  <description type="morphology">Culms to 10 m tall, 1-4 cm thick, straight; internodes glabrous, initially green, becoming gray, glaucous soon after sheath-fall, some culms in every clump with 1 to several short internodes; nodal ridges moderately prominent; sheath scars not flared, fringed with short, persistent, white hairs. Culm leaves: sheaths with a basal line of minute white hairs, otherwise glabrous, pale olive-green to rosy-buff, with a sparse scattering of small brown spots and wine-colored or pale green veins, not glaucous; auricles and fimbriae absent; ligules short, slightly rounded, ciliate; blades lanceolate, somewhat crinkled below, upper blades pendulous. Foliage leaves: auricles and fimbriae well developed or lacking; ligules very short, glabrous or sparsely ciliolate; blades 4-15 cm long, 5-23 mm wide. 2n = 48.</description>
+  <discussion>Phyllostachys aurea is native to China, but it is widely cultivated in temperate and subtropical regions. In North America, it grows as far north as Vancouver, British Columbia, in the west and Buffalo, New York, in the east. The young shoots are very palatable, even when raw, but the mature culms are very hard when dried. They are sometimes used for fishpoles. This species differs from other species of Phyllostachys, including those with brighter yellow culms, in having a raised collar below the nodes and irregularly compressed basal culm nodes.</discussion>
+</bio:treatment>

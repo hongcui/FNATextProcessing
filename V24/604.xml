@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>26</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca lenensis Drobow </name_authority_date>
+  </taxon_identification>
+  <common_names>LENA FESCUE</common_names>
+  <description type="morphology">Plants densely cespitose, with¬out rhizomes. Culms (8)10-35 (50) cm, erect, smooth, glabrous or sparsely pubescent below the inflorescence. Sheaths closed for about 1/2 their length, glabrous or pilose, persistent; collars glabrous; ligules 0.1-0.5 mm; blades 0.4-0.8(1) mm in diameter, conduplicate, sometimes glaucous, abaxial surfaces glabrous, pubescent, or pilose, all conditions often present on the same plant, adaxial surfaces scabrous or pubescent, veins 5-7, ribs 3, 1 distinct and 2 indistinct; abaxial sclerenchyma in 3 strands, 2 at the margins and 1 opposite the midvein, strands as wide or wider than the veins; adaxial sclerenchyma absent; flag leaf blades 0.3-2 cm. Inflorescences 1.5-4(5.5) cm, panicles or racemes, contracted, with 1(2) branches per node; branches erect, lower branches with 1-2 spikelets. Spikelets (5)7-9(11) mm, with (2)3-5(6) florets. Glumes exceeded by the upper florets, ovate to lanceolate, glabrous, sometimes scabrous distally; lower glumes 2.5-3.4 mm; upper glumes 3-4.3 mm; lemmas 4-5.5 mm, ovate to ovate-lanceolate, glabrous, sometimes scabrous towards the apices, awns 0.8-2.6(3) mm, terminal; paleas about as long as the lemmas, intercostal region smooth or scabrous distally; anthers (2)2.4-3.5 mm; ovary apices glabrous. 2n = 14. </description>
+  <discussion>Festuca lenensis is an amphiberingean species of dry, eroding, rocky slopes in alpine and low arctic habitats. Its range extends from Siberia, Russia, and Mongolia to Alaska and the Yukon Territory. In North America, this species seems to intergrade with, and is sometimes treated as including, F. auriculata (see previous). The two species usually differ in their leaf surfaces as well as in the width of their sclerenchyma strands. Festuca lenensis has been frequently included in F. ovina (p. 422).</discussion>
+</bio:treatment>

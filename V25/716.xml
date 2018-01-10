@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia andina (Nutt.) Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>FOXTAIL MUHLY</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, not cespitose. Culms 25-85 cm tall, 0.9-1.7 mm thick, ascending; internodes glabrous for most of their length, scabrous to strigose below the nodes. Sheaths scabridulous, especially basally; ligules 0.5-1.5 mm, membranous, truncate, lacerate to ciliate; blades 4-16 cm long, 2-4(5) mm wide, flat, scabrous abaxially, pubescent adaxially. Panicles 2-15 cm long, 0.5-2.8 cm wide, contracted, dense; primary branches 0.5-5 cm, appressed to strongly ascending; pedicels 0.5-1.5 mm, appressed, strigose. Spikelets 2-4 mm. Glumes equal to subequal, 2-4 mm, subequal to or longer than the florets, 1-veined, veins scabridulous, apices acuminate to awn-tipped; lemmas 2-3.5 mm, lanceolate, grayish-green, hairy on the calluses and lemma bases, hairs 2-3.5 mm, apices acuminate, awned, awns 1-10 mm; paleas 2-3.5 mm, lanceolate, bases with silky hairs between the veins, apices acuminate; anthers 0.4-1.5 mm, yellow. Caryopses 0.9-1.1 mm, cylindrical, yellowish-brown. 2n = 20.</description>
+  <discussion>Muhlenbergia andina grows in damp places such as stream banks, gravel bars, marshes, lake margins, damp meadows, around springs, and in canyons, at elevations of 700-3000 m. It grows only in the western part of southern Canada and the contiguous United States.</discussion>
+</bio:treatment>

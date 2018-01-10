@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Thysanolaena latifolia (Roxb. ex Hornem.) Honda </name_authority_date>
+  </taxon_identification>
+  <common_names>ASIAN BROOMGRASS</common_names>
+  <description type="morphology">Sheaths mostly glabrous, margins often ciliate distally; collars pubescent; blades 20-65 cm long, 2-7(10) cm wide, flat, usually glabrous or mostly so on both surfaces, occasionally sparsely pubescent abaxially, adaxial surfaces often pubescent immediately distal to the collar and ligule. Panicles 17-140 cm; branches to 75 cm, often drooping, pulvini pubescent. Spikelets 1.2-2.8 mm, frequently abortive. Lower glumes 0.5-0.9 mm, broadly ovate; upper glumes 0.5-1 mm, broadly elliptic; lower lemmas 1.3-2.4 mm, elliptic lanceolate, acute to  
+acuminate; upper lemmas 1.2-2.8 mm, lanceolate, acute to acuminate; anthers 0.6-1 mm, yellow; stigmas purple. Caryopses 0.4-0.5 mm. 2n = 24.
+</description>
+  <discussion>Thysanolaena latifolia is an important pasture species in Asia. It is grown in the United States as an ornamental plant, recommended for frost-free areas with full sunlight or light shade. It is not known to be established in the Flora region.
+The species has been known as Thysanolaena maxima (Roxb.) Kuntze, but Baaijens and Veldkamp (1991) demonstrated that T. latifolia has priority at the species level.
+</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>15</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Agrostis exarata Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>SPIKE BENT</common_names>
+  <description type="morphology">Plants perennial; usually cespitose, sometimes rhizomatous, not stoloniferous. Culms 8-100 cm, erect or decumbent at the base, sometimes rooting at the lower nodes, with (2)3-6(8) nodes. Leaves mostly cauline; sheaths smooth or slightly scabrous; ligules (1)1.7-8(11.2) mm, dorsal surfaces scabrous, apices truncate to obtuse, lacerate to erose; blades 4-15 cm long, 2-7 mm wide, flat. Panicles (3)5-30 cm long, 0.5-4 cm wide, contracted, spikelike, oblong, or lanceolate, usually dense, rarely more open, sometimes interrupted near the base, bases usually exserted, rarely enclosed by the upper sheaths at maturity, lowest node with 1-5 branches; branches scabrous, ascending to appressed, spikelet-bearing to or near the base, usually hidden by the spikelets, spikelets crowded, lower branches 1-2(4) cm; pedicels 0.2-4.3 mm. Spikelets lanceolate to narrowly ovate, greenish to purplish. Glumes subequal to equal, 1.5-3.5 mm, scabrous on the midvein and sometimes on the back, l(3)-veined, acute, elongate-acuminate, with an awnlike tip to 1 mm; callus hairs to 0.3 mm, sparse to abundant; lemmas 1.2-2.2 mm, smooth, translucent to opaque, 5-veined, veins prominent distally or obscure throughout, apices acute, entire or toothed, teeth no more than 0.12 mm, unawned or awned from above midlength, awns to 3.5 mm, straight or geniculate; paleas absent or to 0.5 mm; anthers 3, 0.3-0.6 mm. Caryopses 0.9-1.2 mm; endosperm solid or soft. 2n = 28, 42, 56.</description>
+  <discussion>Agrostis exarata is common and widely distributed in western North America, usually growing in moist ground in open woodlands, river valleys, tidal marshes, and swamp and lake margins; it also grows in dry habitats such as grasslands and shrublands. It extends from Alaska into Mexico, and is also found in Kamchatka and the Kuril Islands. Eastern North American records probably reflect introductions. It readily colonizes roadsides and bare soil, and exhibits ecological and developmental flexibility. Agrostis exarata is recognized here as a single, variable species that includes what others have treated as distinct species or varieties. Cytotaxonomic study might clarify the basis of the observed variation. Agrostis exarata appears to be related to A. densiflora (see below).</discussion>
+</bio:treatment>

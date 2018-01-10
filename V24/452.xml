@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Elymus trachycaulus subsp. subsecundus (Link) Á. Löve & D. Love </name_authority_date>
+  </taxon_identification>
+  <common_names>ONE-SIDED WHEATGRASS</common_names>
+  <description type="morphology">Culms 40-110 cm. Spikes 7-25 cm, somewhat 1-sided. Spikelets with 3-7 florets, the bases usually visible. Glumes 11-17 mm, long-acuminate or awned, awns to 11 mm; lemmas awned, awns 17-40 mm, longer than the lemma body, straight.</description>
+  <discussion>Elymus trachycaulus subsp. subsecundus grows primarily in the Great Plains. It differs from plants of E. glaucus (p. 306) with solitary spikelets, in its 1-sided spike and stiffer, more basally concentrated leaves. It may comprise derivatives of E. trachycaulus subsp. trachycaulus x Hordeum jubatum (p. 245) hybrids that are adapted to moist prairies. The unilateral spike is particularly characteristic of artificial hybrids between the two species, and is uncommon in other hybrids (Jozwik 1966).</discussion>
+</bio:treatment>

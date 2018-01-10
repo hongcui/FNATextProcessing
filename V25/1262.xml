@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>18</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Panicum coloratum L. </name_authority_date>
+  </taxon_identification>
+  <common_names>KLEINGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, usu¬ally with short, knotty rhizomes. Culms 50-140 cm tall, 1.5-2.5 mm thick, usually erect, rarely decumbent, firm; nodes glabrous or puberulent; internodes glabrous. Sheaths shorter than the internodes, glabrous or hispid, hairs papillose-based, rounded basally; ligules 0.5-2 mm; blades 10-30 cm long, 2-8 mm wide, flat, glabrous or sparsely hirsute on 1 or both surfaces. Panicles 4-25(40) cm long, 3-14 cm wide, exerted, lax; primary branches 3-14 cm, opposite and alternate, ascending, glabrous, branching in the distal M; pedicels 1-4 mm, appressed or spreading. Spikelets 2.5-3.5 mm long, 1-1.2 mm wide, narrowly ovoid to ellipsoid, glabrous, acute. Lower glumes 1-1.5 mm, about 1/3 as long as the spikelets, glabrous, 1-3-veined, acute; upper glumes slightly exceeding the lower lemmas, glabrous, acute, scarcely separated from the lower lemmas; lower florets staminate; lower lemmas similar to the upper glumes; lower paleas 2-3 mm, oblong; upper florets 2-2.5 mm long, 0.8-1 mm wide, ellipsoid, widest below the middle, glabrous, smooth, shiny, apices lightly beaked. 2n = 18, 36, 41, 42, 43, 45, 54, 63 (United States material apparently usually tetraploid, with 2n = 36).</description>
+  <discussion>Panicum coloratum is an African species that has been widely introduced into tropical and subtropical regions around the world. It is now established in the Flora region, growing in open, usually wet ground; it is also occasionally cultivated as a forage grass.</discussion>
+</bio:treatment>

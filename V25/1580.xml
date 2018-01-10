@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Andropogon bicornis L. </name_authority_date>
+  </taxon_identification>
+  <common_names>BARBAS DE INDIO</common_names>
+  <description type="morphology">Plants densely cespitose, upper portion dense, obovate to obpyramidal. Culms 60-250 cm; internodes not glaucous. Sheaths smooth; ligules 0.6-1 mm; blades 20-70 cm long, 2-7 mm wide, usually glabrous or scabrous on the margins. Inflorescence units 50-500; subtending sheaths 2.5-4.5 cm long, 2-3 mm wide; peduncles 20-70 mm, with 2(3) rames; rames 2-4 cm, exerted at maturity; internodes filiform, densely and evenly pubescent, hairs 3-9 mm. Sessile spikelets 3-4 mm; unawned; callus hairs 0.5-1 mm; keels of lower glumes scabrous above the midpoint; anthers 3, 1-1.4 mm. Pedicellate spikelets mostly vestigial or absent, 1-2 of those in the terminal units on each rame 3-5 mm and staminate. 2n = 60, 120.</description>
+  <discussion>Andropogon bicornis is a widespread species of the Western Hemisphere tropics. It was collected in the early 1960s in Dade County, Florida, near the track of a major hurricane, but may not be established in the Flora region.</discussion>
+</bio:treatment>

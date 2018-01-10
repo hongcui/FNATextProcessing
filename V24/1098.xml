@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Cinna latifolia (Trevir. ex Gopp.) Griseb. </name_authority_date>
+  </taxon_identification>
+  <common_names>DROOPING WOODREED, SLENDER WOODREED, CINNA À LARGES FEUILLES</common_names>
+  <description type="morphology">Culms 20-190 cm; nodes 4-9. Ligules 2-8 mm; blades to 28 cm long, 1-20 mm wide. Panicles 3-46 cm; branches usually spreading, sometimes ascending. Spikelets (2)2.5-4(5) mm; rachilla prolongations 0.1-1.3 mm, sometimes absent. Lower glumes (1.8)2.5-4(4.7) mm, 1-veined; upper glumes (1.9)2.5-4(5) mm, 1(3)-veined; stipes 0.1-0.45 mm; lemmas 1.8-3.8 mm, 3(5)-veined, awns 0.1-2.5 mm or absent; paleas 2-veined, with the veins very close together, or 1-veined; anthers 1, 0.4-1 mm. Caryopses 1.8-2.8 mm. 2n = 28.</description>
+  <discussion>Cinna latifolia is a circumboreal species, extending from Alaska to Newfoundland in North America, and across Eurasia from Norway to the Kamchatka Peninsula, Russia. It grows in moist to wet soil in open coniferous or mixed forests, swamps, thickets, bogs, and streamsides, at 0-2600 m. It flowers in late summer and fall. Cinna latifolia differs from C. arundinacea in its l(3)-veined upper glumes and its smaller spikelets; and from C. bolanderi in having 1 anther, shorter anthers and spikelets, and stipitate florets. A collection of C. latifolia from the Aleutian Islands had abnormally large (to 5.5 mm), often 2-flowered spikelets (Brandenburg et al. 1991). Cinna latifolia is a variable species for which varietal names have been proposed; because the variation is continuous, no varieties are recognized in this treatment.</discussion>
+</bio:treatment>

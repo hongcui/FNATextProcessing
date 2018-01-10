@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Echinochloa muricata (P. Beauv.) Fernald var. muricata </name_authority_date>
+  </taxon_identification>
+  <common_names>ECHINOCHLOA DE L'OUEST</common_names>
+  <description type="morphology">Spikelets 3.5-5 mm. Lower glumes 1-2.6 mm; upper glumes 3-5 mm; lower lemmas usually awned, awns 6-16 mm, occasionally unawned; anthers 0.5-1.1 mm. </description>
+  <discussion>Echinochloa muricata var. muricata is the common variety in eastern North America.</discussion>
+</bio:treatment>

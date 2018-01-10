@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>David M. Brandenburg</author>
+    </source>
+  </meta>
+  <number>14.62</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>CINNA L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, sometimes rhizomatous. Culms 20-203 cm, solitary or clustered, often rooting at the lower nodes, usually glabrous. Sheaths open, glabrous; auricles absent; ligules scarious; blades flat, margins scabrous, surfaces scabrous or smooth. Inflorescences panicles; branches spreading to ascending, some branches longer than 1 cm; pedicels slightly flared, scabrous or smooth; disarticulation below the glumes. Spikelets laterally compressed, with 1 floret, rarely with a second rudimentary or fertile floret; rachillas usually prolonged beyond the base of the floret as a minute stub or bristle, smooth or scabridulous, sometimes not prolonged. Glumes from slightly shorter than to slightly longer than the floret, 1- or 3-veined, margins hyaline, keeled, keels scabrous, apices acute, sometimes minutely awn-tipped; lower glumes from somewhat shorter than to equaling the upper glumes, florets sessile or stipitate; calluses short, glabrous; lemmas 3- or 5-veined, sometimes obscurely so, apices acute, minutely bifid, usually awned, awns subterminal, sometimes unawned; paleas 3/4  to nearly as long as the lemmas, 1-veined or with 2 closely spaced veins; anthers 1 or 2. Caryopses shorter than the lemmas, concealed at maturity, often beaked, x = 7. </description>
+  <discussion>Cinna is a genus of four species, all of which generally grow in damp woods, along streams, or in wet meadows. One species, C. latifolia, is northern temperate and circumboreal. The other three species are restricted to the Western Hemisphere. Cinna poaeformis (Kunth) Scribn. & Merr. extends from Mexico to Venezuela and Bolivia.
+The reduction of Limnodea to synonymy under Cinna by Tucker (1996) introduced a markedly discordant element into Cinna (Brandenburg and Thieret 2000), and has not been followed here.
+</discussion>
+  <references>Brandenburg, D.M., W.H. Blackwell, and J.W. Thieret. 1991. Revision of the genus Cinna (Poaceae). Sida 14:581-596; Brandenburg, D.M., J.R. Estes, S.D. Russell, and J.W. Thieret. 1991. One-nerved paleas in Cinna arundinacea L. (Poaceae). Trans. Kentucky Acad. Sci. 52:94-96; Brandenburg, D.M. and J.W. Thieret. 2000. Cinna and Limnodea (Poaceae): Not congeneric. Sida 19:195-200; Tucker, G.C. 1996. The genera of Pooideae (Gramineae) in the southeastern United States. Harvard Papers Bot. 9:11-90.</references>
+  <key>
+    <key_body>
+1. Anthers 2; lemmas 5-veined; florets more or less sessile.....3. C. bolanderi
+1. Anthers 1; lemmas 3(5)-veined; florets on a 0.1-0.65 mm stipe.
+2. Upper glumes prominently 3-veined; spikelets (3.5)4-6(7.5) mm long.....1. C. arundinacea
+2. Upper glumes usually 1-veined, rarely 3-veined; spikelets (2)2.5-4(5) mm long.....2. C. latifolia
+ 
+
+    </key_body>
+  </key>
+</bio:treatment>

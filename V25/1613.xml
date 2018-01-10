@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Schizachyrium scoparium var. stoloniferum (Nash)
+Wipff
+</name_authority_date>
+  </taxon_identification>
+  <common_names>CREEPING BLUESTEM</common_names>
+  <description type="morphology">Plants not cespitose, with long, scaly rhizomes. Culms 58-210 cm. Sheaths usually pubescent near the collars; blades 10-39 cm long, 3.5-9 mm wide, pubescent near the collars. Rames 2-6.5 cm, with 6-14 spikelets, usu¬ally partially to fully exserted; internodes pubescent, hairs to 4.5 mm. Sessile spikelets 5-10 mm; calluses with hairs to 2.5 mm; awns 6-14 mm. Pedicels 3.5-5 mm, curving out at maturity. Pedicellate spikelets 0.75-4 mm, sterile, awned, awns 1-3 mm.</description>
+  <discussion>Schizachyrium scoparium var. stoloniferum grows in sandy soils of woodland openings and roadsides from southern Alabama and Georgia south to the Everglades. Northern populations consist of widely spaced, weak culms growing in rather bare sand; southern populations consist of dense, vigorous stands with taller, more robust culms growing primarily along roadsides, possibly spread by grading equipment. Some clones, particularly in the south, are largely sterile.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>17.13</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>SCLEROPOGON Phil.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; usually monoecious, less frequently dioecious, occasionally synoecious; bear¬ing wiry, often arching, stolons with 5-15 cm internodes, sometimes also weakly rhizomatous. Leaves mostly basal; sheaths short, strongly veined, basal leaves commonly hispid or villous; ligules of hairs; blades firm, flat or folded. Inflorescences terminal, usually exceeding the upper leaves, spikelike racemes or contracted panicles with few spikelets, in bisexual plants staminate and pistillate florets in the same spikelet with the staminate florets below the pistillate florets or in separate spikelets, bisexual florets occasionally produced; branches not pectinate; disarticu¬lation above the glumes and below the lowest pistillate floret in a spikelet, florets falling together, lowest floret with a bearded, sharp-pointed callus. Staminate spikelets with 5-10(20) florets; glumes membranous, pale, 1-3-veined, acuminate; lemmas 3-veined, similar to the glumes, unawned or awned, awns to 3 mm; paleas shorter than the lemmas, often conspicuously so. Pistillate spikelets appressed to the branch axes, usually the 3-5 lower florets functional, upper florets reduced to awns; glumes acuminate, strongly 3-veined, occasionally with a few fine accessory veins; lemmas narrow, 3-veined, veins extending into awns, awns (30)50-100(150) mm, spreading or reflexed at maturity, x = 10.</description>
+  <discussion>Scleropogon is a monotypic American genus with a disjunct distribution.</discussion>
+  <references>Reeder, J.R. and L.J. Toolin. 1987. Scleropogon (Gramineae), a monotypic genus with disjunct distribution. Phytologia 62:267-275.</references>
+</bio:treatment>

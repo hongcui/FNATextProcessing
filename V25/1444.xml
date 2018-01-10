@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum laeve Michx. </name_authority_date>
+  </taxon_identification>
+  <common_names>FIELD PASPALUM</common_names>
+  <description type="morphology">Plants perennial; shortly rhizomatous. Culms 40-120 cm, erect; nodes glabrous or pubescent. Sheaths glabrous or pubescent; ligules 1.5-3.8 mm; blades to 37 cm long, 2-9.3 mm wide, flat, glabrous or pubescent. Panicles terminal, with 1-6 racemosely arranged branches; branches 2-10.9 cm, diverging to spreading (rarely erect), persistent; branch axes 0.6-1.3 mm wide, glabrous, margins scabrous, terminating in a spikelet. Spikelets 2.3-3.3 mm long, 2-2.7 mm wide, solitary, appressed to the branch axes, elliptic to obovate or nearly orbicular, glabrous, stramineous. Lower glumes absent; upper glumes 3-veined, lower lemmas 5-veined; upper florets pale to stramineous. Caryopses about 2 mm, white to yellow-brown. 2n = 20, 58, 70, 80.</description>
+  <discussion>Paspalum laeve is restricted to the eastern United States. It grows at the edges of forests and in disturbed areas.</discussion>
+</bio:treatment>

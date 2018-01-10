@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Heteropogon contortus (L.) P. Beauv. ex Roem. & Schult. </name_authority_date>
+  </taxon_identification>
+  <common_names>TANGLEHEAD</common_names>
+  <description type="morphology">Plants perennial. Culms 20-150 cm, erect. Sheaths smooth, reddish; ligules 0.5-0.8 mm, cilia 0.2-0.5 mm; blades 10-15 cm long, 2-7 mm wide, flat or folded, glabrous or pubescent. Rames 3-7 cm, secund, with 12-22, brown to reddish-brown, sessile-pedicellate spikelet pairs. Homogamous spikelets 6-10 mm. Heterogamous spikelets: sessile spikelets 5-10 mm, brown, awned; calluses 1.8-2 mm, strigose; awns 6-10 cm; pedicellate spikelets 6-10 mm, unawned; glumes ovate-lanceolate, glabrous or with papillose-based hairs distally, without glandular pits, greenish to purplish-brown, becoming stramineous when dry. 2n = 40, 50, 60.</description>
+  <discussion>Heteropogon contortus grows on rocky hills and canyons in the southern United States into Mexico, and worldwide in subtropical and tropical areas, occupying a variety of different habitats, including disturbed habitats. It is probably native to the eastern hemisphere but is now found in tropical and subtropical areas throughout the world.
+Heteropogon contortus is a valuable forage grass if continuously grazed so as to prevent the calluses from developing. It is also considered a weed, being able to establish itself in newly disturbed and poor soils.
+</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>59</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa lettermanii Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>LETTERMAN'S BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; not glaucous; densely tufted, not stolon-iferous, not rhizomatous. Basal branching all or mainly intra-vaginal. Culms 1-12 cm, slender. Sheaths closed for 1/6 – 1/4 their length, terete; ligules 1-3 mm, milky white to hyaline, smooth; blades 0.5-2 mm wide, flat or folded, or slightly inrolled, thin, without papillae (at 100x), apices narrowly prow-shaped. Panicles 1-3 cm, erect, contracted, usually exserted from the sheaths; branches to 1.5 cm, erect to steeply ascending, slender, sulcate or angled, smooth or the angles sparsely scabrous; pedicels shorter than the spikelets. Spikelets 3-4 mm, laterally compressed, green or anthocyanic; florets 2-3; rachilla internodes shorter than 1 mm, smooth. Glumes usually equaling or exceeding the lowest lemmas, sometimes also equaling or exceeding the upper florets, lanceolate to broadly lanceolate, distinctly keeled, keels smooth; lower glumes 3-veined; calluses glabrous; lemmas 2.5-3 mm, lanceolate, distinctly keeled, thin, usually glabrous, keels and marginal veins rarely sparsely puberulent proximally, apices acute; palea keels scabrous; anthers 0.2-0.8 mm. 2n = 14.</description>
+  <discussion>Poa lettermanii grows on rocky slopes of the highest peaks and ridges in the alpine zone, from northern British Columbia to western Alberta and south to California and Colorado, usually in the shelter of rocks or on mesic to wet, frost-scarred slopes. It is one of only three known diploid Poa species native to the Western Hemisphere. Its glabrous calluses and lemmas usually distinguish it from P. abbreviata (p. 582); it also differs in having flat or folded leaf blades, and shorter spikelets with glumes that are longer than the adjacent florets. Poa montevansii E.H. Kelso is tentatively included here, although its slightly longer lemmas that slightly exceed the glumes suggest that it may represent rare, glabrous forms of P. abbreviata.</discussion>
+</bio:treatment>

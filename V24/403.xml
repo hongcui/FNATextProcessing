@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>xPseudelymus saxicoia (Scribn. & J.G. Sm.) Barkworth & D.R. Dewey </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants not rhizomatous. Culms 0.8-1 mm thick; ligules 0.2-0.4 mm; blades 1.5-2 mm wide. Spikes 7-14 cm, with 1 spikelet per node; internodes 7-9 mm. Spikelets 12-15 mm excluding the awns; disarticulation beneath the florets, sometimes also in the rachises. Glumes 15-21 mm including the awns, glume bodies 6-8 mm long, 0.7-1 mm wide, (l)3-4-veined; lemmas 10-11 mm excluding the awns, (14)18-37 mm including the awns, apices often bifid; anthers about 2.5 mm.</description>
+  <discussion>xPseudelymus saxicoia consists of hybrids between Pseudoroegneria spicata and Elymus elymoides. It is a rather common hybrid in western North America. It differs from E. albicans, which is thought to be derived from hybrids between P. spicata and E. lanceolatus, in lacking rhizomes, having longer awns on its glumes and lemmas, and having disarticulating rachises. It is more likely to be confused with E. xsaundersii, but differs in its longer glume and lemma awns.</discussion>
+</bio:treatment>

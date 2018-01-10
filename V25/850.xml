@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Cynodon nlemfuënsis Vanderyst </name_authority_date>
+  </taxon_identification>
+  <common_names>AFRICAN BERMUDAGRASS</common_names>
+  <description type="morphology">Plants stoloniferous, not rhizomatous; stolons stout, woody, usually lying flat on the ground. Culms 20-60 cm tall, 1-5 mm thick, not becoming woody. Sheaths glabrous; ligules about 0.3 mm, membranous, ciliolate; blades 5-16 cm long, 2-6 mm wide, abaxial surfaces glabrous or with scattered long hairs, adaxial surfaces with scattered long hairs. Panicles with 4-13 branches; branches (2)4-7(10) cm, in l(-3) whorls, lax, usually green, axes triquetrous. Spikelets 2-3 mm. Lower glumes 1.7-2 mm; upper glumes 1.5-2.3(3) mm; lemmas 1.9-2.9 mm, keels not winged, shortly pubescent, at least distally; paleas glabrous. 2n = 18, 36.</description>
+  <discussion>Cynodon nlemfuënsis is native to east and central Africa, but it is now established in southern Texas (Jones and Jones 1992), and may be present in other parts of the southern United States. It is similar to C. dactylon, but differs in being larger and lacking rhizomes. It is also less hardy, not becoming established where temperatures fall below -4°C. Plants in the Flora region belong to Cynodon nlemfuënsis var. nlemfuënsis which differs from C. nlemfuënsis var. robustus Clayton & J.R Harlan in having shorter inflorescence branches (2-7(10) cm rather than 6-10 cm) and thinner culms (1-1.5 mm rather than 2-5 mm). Cultivars of C. nlemfuënsis include 'Florico', 'Florona', 'Ona', and 'Costa Rica'.</discussion>
+</bio:treatment>

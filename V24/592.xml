@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Festuca rubra subsp. vallicola (Rydb.) Pavlick </name_authority_date>
+  </taxon_identification>
+  <common_names>MOUNTAIN RED FESCUE</common_names>
+  <description type="morphology">Plants rhizomatous, often with widely spaced single culms and only a few vegetative shoots, varying to loosely cespitose. Culms (20)25-70(100) cm. Sheaths tightly enclosing the culms; vegetative shoot blades 0.5-1.5 mm in diameter, conduplicate, deep green, abaxial surfaces smooth to slightly scabrous, adaxial surfaces scabrous on the ribs; cauline blades conduplicate or flat; abaxial sclerenchyma in narrow strands; adaxial sclerenchyma absent. Inflorescences 5-8 cm, closed or open. Spikelets 8-11 mm, with 4-7 florets. Lower glumes 2-3 mm; upper glumes 4-5 mm, acute to acuminate; lemmas 5-6 mm, pale green with violet borders, smooth or scabrous near the apices, apices awned, awns 1-2.5(4) mm; anthers 2-2.6 mm. 2n = unknown.</description>
+  <discussion>Festuca rubra subsp. vallicola grows in moist meadows, lake margins, and disturbed soil, at 1000-2000 m, in montane and subalpine habitats from the Yukon Territory/British Columbia border area south to Wyoming.</discussion>
+</bio:treatment>

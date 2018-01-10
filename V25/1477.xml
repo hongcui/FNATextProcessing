@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Paspalum setaceum var. muhlenbergii (Nash) D.J.
+Banks 
+</name_authority_date>
+  </taxon_identification>
+  <common_names>HURRAHGRASS</common_names>
+  <description type="morphology">Plants mostly erect. Leaves mostly cauline; blades to 25 cm long, 2-10.2 mm wide, lax to straight, surfaces and margins evenly hirsute, hairs 1.5-5.5 mm, light to dark green. Panicle branches 1.9-14.3 cm; branch axes 0.5-1 mm wide. Spikelets 1.8-2.5 mm long, 1.5-2 mm wide, oval to suborbicular, glabrous or with a few hairs, light green to green; lower lemmas usually with an evident midvein; upper florets 1.8-2.3 mm.</description>
+  <discussion>Paspalum setaceum var. muhlenbergii is endemic to the Flora region, extending from southern Ontario to the Gulf coast of Texas and northern Florida. It grows in disturbed areas and on the margins of forests. It resembles var. supinum, differing in its erect habit and, usually, in its spikelet shape and presence of a midvein on the lower lemma.</discussion>
+</bio:treatment>

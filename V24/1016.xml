@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>15</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Calamagrostis bolanderi Thurb. </name_authority_date>
+  </taxon_identification>
+  <common_names>BOLANDER'S REEDGRASS</common_names>
+  <description type="morphology">Plants sometimes with sterile culms; mostly cespitose, with rhizomes to 3 cm long, 1-2 mm thick. Culms 50-150 cm, un¬branched, smooth or slightly scabrous beneath the panicles; nodes 2-4. Leaves distributed along the culms; sheaths and collars smooth or scabrous, glabrous; ligules (2)3(5) mm, more or less obtuse, entire to lacerate; blades (5)15-26(30) cm long, (2)3-7(10) mm wide, flat or involute, smooth or slightly scabrous, glabrous or sparsely hairy. Panicles (4)10-16(25) cm long, (2.5)4-5.5(6) cm wide, open, erect to nodding, pale green to bronze or purple; branches (4)5.5-8(9) cm, sparsely scabrous, spreading to ascending, spikelets confined to the distal 1/4-1/2. Spikelets 3-4(5) mm; rachilla prolongations 0.5-1 mm, hairs 1-1.5 mm. Glumes rounded to slightly keeled, keels scabrous distally, lateral veins obscure, apices acute; callus hairs 0.5-1 mm, 0.2-0.4 times as long as the lemmas, appearing sparse primarily because of their shortness; lemmas 2.5-3 mm, 0-1(2) mm shorter than the glumes; awns 3.5-5(6) mm, attached to the lower 1/10 – 1/5 of the lemmas, usually exserted, strongly bent; anthers (1.5)2-3 mm. 2n = 56.
+ 
+</description>
+  <discussion>Calamagrostis bolanderi grows in marshes, swamps, bogs, fens, seeps, moist meadows, open and closed coniferous and broadleaf forests, prairies, and coastal scrub, from sea level to 500 m. It is known only from sites near the coast in Humboldt, Mendocino, and Sonoma counties, California. It differs from C. breweri and C. muiriana in having leaves evenly distributed along the culms.</discussion>
+</bio:treatment>

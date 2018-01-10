@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>43</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus xyukonensis (Scribn. & Merr.) Á. Löve  </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants rhizomatous. Culms about 60 cm, erect. Leaves somewhat basally concentrated; blades 3.5-6 mm wide. Spikes 6-10 cm long, 0.7-1.7 cm wide, with 1 spikelet per node; internodes 6-11 mm. Glumes 4-5.5 mm, about 1/2 the length of the adjacent lemmas, lanceolate, flat, hairy, apices acute or awn-tipped, awns shorter than 1 mm; rachillas densely hairy; lemmas 6-9 mm, densely villous, unawned; anthers 3.3-3.6 mm.</description>
+  <discussion>The parents of Elymus xyukonensis have not been identified. Morphological and geographic considerations suggest that they may be E. lanceolatus subsp. psammophilus (p. 327) and E. alaskanus (p. 326).</discussion>
+</bio:treatment>

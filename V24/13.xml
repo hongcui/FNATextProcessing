@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Christopher M.A. Stapleton</author>
+    </source>
+  </meta>
+  <number>2.02</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>BAMBUSA Schreb.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants usually arborescent, in well defined or rather loose clumps; rhizomes pachymorphic, with short necks. Culms 0.5-30(35) m tall, 0.5-18(20) cm thick, woody, perennial, usually self-supporting; nodes not swollen; supranodal ridges obscure; internodes terete, usually thinly covered initially with light-colored wax. Branch complements usually with a dominant primary central branch and 2 smaller co-dominant lateral branches, usually similar at all nodes; bud scales 2-keeled, thickened, initially closed at the back and front; branches all subtended by bracts, higher order branchlets at the lower nodes sometimes thornlike. Culm leaves usually promptly deciduous, initially lightly waxy, sometimes with short, stiff hairs, subsequently losing the wax and becoming glabrous; auricles usually well developed; fimbriae usually present; blades triangular to broadly triangular, usually erect. Foliage leaves: sheaths usually deciduous from the lower nodes of the branches, persistent at the distal nodes; blades to 30 cm long, to 6 cm wide, not distinctly cross veined. Inflorescences usually spicate, rarely capitate, bracteate; prophylls 2-keeled, narrow. Pseudospikelets 1-5 cm, with 3-12 florets; disarticulation above the glumes and below the florets, rapid; rachilla internodes usually long. Glumes several, subtending the buds; lemmas narrowly ovate, acute, unawned; paleas not exceeding the lemmas, 2-keeled, not winged; anthers 6; ovaries usually suboblong; styles short, with (2)3-4 plumose branches. 2n = 56-72. </description>
+  <discussion>Bambusa is a tropical and subtropical genus of 75-100+ species. It is native to southern and southeastern Asia, but is widely cultivated and naturalized throughout the tropics. Bambusa vulgaris and B. multiplex grow widely in Florida and Texas, having spread to some extent after being planted as ornamentals. Other species are known only in cultivation. The American Bamboo Society lists over 40 species as being commercially available in North America in 2005. This treatment includes a few of the more commonly cultivated species.</discussion>
+  <references>But, P.P.-H., L.-C. Chia, H.-L.F., and S.-Y. Hu. 1985. Hong Kong Bamboos. Urban Council, Hong Kong. 85 pp.; Dransfield, S. and E.A. Widjaja (eds.). 1995. Plant Resources of South-East Asia [PROSEA] No. 7: Bamboos. Backhuys, Leiden, The Netherlands. 189 pp.; Edelman, D.K., T.R. Soderstrom, and G.E Deitzer. 1985. Bamboo introduction and research in Puerto Rico. J. Amer. Bamboo Soc. 6: 43-57; McClure, F.A. 1955. Bambusa Schreb. Fieldiana, Bot. 242: 52-60; Pohl, R.W. 1994. Bambusa Schreber. Pp. 193-194 in G. Davidse, M. Sousa S., and A.O. Chater (eds.). Flora Mesoamericana, vol. 6: Alismataceae a Cyperaceae. Universidad Nacional Autonoma de Mexico, Instituto de Biologia, Mexico, D.F., Mexico. 543 pp.; Soderstrom, T.R. and R.P. Ellis. 1988. The woody bamboos (Poaceae: Bambuseae) of Sri Lanka: A morphological-anatomical study. Smithsonian Contr. Bot. 72:1-75; Stapleton, C.M.A. 1994. The bamboos of Nepal and Bhutan, Part I: Bambusa, Dendrocalamus, Melocanna, Cephalostacbyum, Teinostachyum, and Pseudostachyum (Gramineae: Poaceae, Bambusoideae). Edinburgh J. Bot. 51:1-32; Stapleton, C.M.A. 2002. Bambusa ventricosa versus Bambusa tuldoides. Bamboo 23:17-18; Widjaja, E.A. 1997. New taxa in Indonesian bamboos. Reinwardtia 11:57-152; Wong, K.M. 1995. The Morphology, Anatomy, Biology, and Classification of Peninsular Malayan Bamboos. University of Malaya Botanical Monographs No. 1. University of Malaya, Kuala Lumpur, Malaysia. 189 pp.; Xia, N.H. and C.M.A. Stapleton. 1997. Typification of Bambusa bambos (Gramineae, Bambusoideae). Kew Bull. 52:693-698.</references>
+  <key>
+    <key_body>
+1. Branchlets of the lower branches recurved, hardened, thornlike  .....1. B. bambos
+1. Branchlets of the lower branches not thornlike.
+2. Culm sheath auricles well developed, to 5 cm long.....2. B. vulgaris
+2. Culm sheath auricles absent or poorly developed.
+3. Culm internodes antrorsely hispid; culms 0.5-7 m tall, broadly arched above.....3. B. multiplex
+3. Culm internodes glabrous; culms 6-15 m tall, erect.....4. B. oldhamii
+    </key_body>
+  </key>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Aristida purpurea var. wrightii (Nash) Allred </name_authority_date>
+  </taxon_identification>
+  <common_names>WRIGHT'S THREEAWN</common_names>
+  <description type="morphology">Culms 45-100 cm. Blades 10-25 cm, involute or flat. Panicles (12)14-30 cm; primary branches usually erect, without axillary pulvini, stiff, straight, lower nodes associated with 2-10 spikelets. Glumes tan to brown, fading to stramineous. Lower glumes 5-10 mm; upper glumes 9-16 mm; lemmas 8-14 mm long, narrowing to 0.2-0.3 mm wide; awns (8)20-35 mm long, 0.2-0.3 mm wide at the base, lateral awns usually subequal to the central awn, rarely 1-3 mm. 2n = 22, 44, 66.</description>
+  <discussion>Aristida purpurea var. wrightii grows on sandy to gravelly hills and flats from the southwestern United States to southern Mexico. It is the most robust variety of A. purpurea, and has dark, stout awns and long panicles. It may be confused with var. nealleyi, which has narrower lemmas and awns and a light-colored panicle, but it also intergrades with var. purpurea and var. parishii. Aristida purpurea forma brownii (Warnock) Allred & Valdes-Reyna refers to plants with short central awns and lateral awns that are only 1-3 mm long.</discussion>
+</bio:treatment>

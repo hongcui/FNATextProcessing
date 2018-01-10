@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Kelly W. Allred</author>
+    </source>
+  </meta>
+  <number>21</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>tribe</rank>
+    <name_authority_date>ARISTIDEAE C.E. Hubb.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology"></description>
+  <discussion>See subfamily description.
+The tribe Aristideae has three genera and 300-350 species, and is primarily pan-tropical in its distribution. Its members are usually readily recognized by their terete, 3-awned lemmas with overlapping margins. Aristida, which has many more species than the other two genera combined, is the only genus found in the Americas.
+</discussion>
+</bio:treatment>

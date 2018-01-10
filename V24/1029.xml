@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Calamagrostis canadensis var. langsdorffii (Link) Inman </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms (32)65-110(180) cm, often branching above the base, smooth or slightly scabrous beneath the panicles; nodes (2)3-5(8). Sheaths and collars smooth or scabrous; ligules (3)5-8(12) mm; blades (11)18-29(50) cm long, (2)3-7(11) mm wide, adaxial surfaces usually strongly scabrous, rarely smooth, often glaucous. Panicles (6)9-15(25) cm long, (1.5)2.5-4(8) cm wide, often contracted when young, usually purplish, sometimes greenish to straw-colored; branches (2.7)3.5-6 (12) cm. Spikelets (3.5)4-4.5(5.2) mm; rachilla prolongations 0.7-1 mm, hairs 2-3 mm. Glumes keeled, usually scabrous throughout, rarely smooth, prickles on the keels hairlike, often bent, lateral veins obscure to prominent, apices acuminate; callus hairs (1.5)3-3.3 (4.5) mm, (0.5)1-1.2(1.5) times as long as the lemmas; lemmas (2.3)2.5-3(4) mm, 0.4-2.1 mm shorter than the glumes; awns 1.2-3.1 mm, attached to the lower (1/10)1/5 – 2/5(1/2) of the lemmas, not exserted, usually straight; anthers (0.9)1.2-1.6(2.6) mm. 2n = 28, 42, 56. </description>
+  <discussion>A circumboreal taxon, Calamagrostis canadensis var. langsdorffii grows from Alaska to Greenland and south to northern California, Colorado, Minnesota, New Hampshire, and New York.</discussion>
+</bio:treatment>

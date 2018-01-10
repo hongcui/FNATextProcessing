@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Kelly W. Allred</author>
+    </source>
+  </meta>
+  <number>16.03</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>PHRAGMITES Adans.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; rhizomatous or stoloniferous, often forming dense stands. Culms 1-4 m tall, 0.5-1.5 cm thick, leafy; internodes hollow. Leaves cauline, mostly glabrous; sheaths open; ligules membranous, ciliate; blades flat or folded. Inflorescences terminal, plumose panicles. Spikelets with 2-8 florets, weakly laterally compressed, lower 1-2 florets staminate, distal 1-2 florets rudimen¬tary, remaining florets bisexual; rachilla segments sericeous; disarticulation above the glumes and below the florets. Glumes unequal, shorter than the florets, 1-3-veined, glabrous; lower glumes much shorter than the upper glumes; calluses pilose, hairs 6-12 mm; lemmas 3-veined, glabrous, unawned; anthers 1-3. Caryopses rarely maturing, x = 12. </description>
+  <discussion>Phragmites is interpreted here as a monotypic genus that has a worldwide distribution. Some taxonomists (e.g., Clayton 1970; Koyama 1987; Scholz and Bohling 2000) recognize 3-4 segregate species. Recent work has identified two different genotypes in North America (Saltonstall 2002) that preliminary data suggest may be morphologicaly distinct (see http://www.invasiveplants.net/). How these genotypes relate to the various segregate species that have been recognized is not yet known.
+Plants of Phragmites are similar in overall appearance to Arundo, but the latter has subequal glumes, a glabrous rachilla, and hairy lemmas. Vegetatively, plants of Arundo, but not those of Phragmites, have a wedge-shaped, light to dark brown area at the base of the blades. They also tend to have thicker rhizomes, thicker and taller culms, and wider leaves than Phragmites, but there is some overlap. Phragmites is much more widely distributed than Arundo in North America.
+</discussion>
+  <references>Clayton, W.D. 1967. Studies in the Gramineae. XIV. Kew Bull. 21:111-117; Clayton, W.D. 1970. Flora of Tropical East Africa, Gramineae (Part 1). Crown Agents for Oversea Governments and Administrations, London, England. 176 pp.; Hocking, EC, CM. Finlayson, and A.J. Chick. 1983. The biology of Australian weeds. 12. Phragmites australis Trin. ex Steud. J. Austral. Inst. Agric. Sci. 49:123-132; Koyama, T. 1987. Grasses of Japan and Its Neighboring Regions: An Identification Manual. Kodansha, Ltd., Tokyo, Japan. 370 pp.; Saltonstall, K. 2002. Cryptic invasion by a non-native genotype of the common reed, Phragmites australis, into North America. Proc. Natl. Acad. Sci. U.S.A. 99:2445-2449; Scholz, H. and N. Bohling. 2000. Phragmites frutescens (Gramineae) re-visited: The discovery of an overlooked, woody grass in Greece, especially Crete. Vrilldenowia 30:251-261.</references>
+</bio:treatment>

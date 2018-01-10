@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>42</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa cusickii Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>CUSICK'S BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; usually densely tufted, rarely moderately densely tufted, usually neither rhizomatous nor stoloniferous, infrequently short-rhizomatous or stoloniferous, rarely with distinct rhizomes. Basal branching intravaginal or intra- and extravaginal. Culms 10-60(70) cm tall, 0.5-1.8 mm thick, erect or the bases decumbent, terete or weakly compressed; nodes terete, 0-2 exserted. Sheaths closed for 1/4-3/4  their length, terete, smooth or scabrous, glabrous, bases of basal sheaths glabrous, distal sheath lengths 1.6-10 times blade lengths; collars smooth or scabrous, glabrous; ligules of cauline leaves 1-3(6) mm, smooth or scabrous, truncate to acute, ligules of the innovation leaves 0.2-0.5(2.5) mm, scabrous, usually truncate; innovation blades sometimes distinctly different from the cauline blades, 0.5-2 mm wide, involute, moderately thick, moderately firm, adaxial surfaces usually densely scabrous or hispidulous to softly  
+puberulent, infrequently nearly smooth and glabrous; cauline blades subequal or the midcauline blades longest or the blades gradually reduced in length distally, 0.5-3 mm wide, flat, folded, or involute, usually thin, usually withering, abaxial surfaces smooth or scabrous, apices narrowly to broadly prow-shaped, flag leaf blades 0.5-5(6) cm. Panicles 2-10(12) cm, usually erect, contracted or loosely contracted, narrowly lanceoloid to ovoid, congested or moderately congested, with 10-100 spikelets and 1-3(5) branches per node; branches 0.5-4(5) cm, erect or steeply ascending, fairly straight, slender to stout, terete to angled, smooth or scabrous, with 1-15 spikelets. Spikelets (3)4-10 mm, lengths to 3 times widths, broadly lanceolate to narrowly ovate, laterally compressed, not sexually dimorphic; florets 2-6; rachilla internodes 0.5-1.2 mm, smooth or scabrous. Glumes lanceolate, distinctly keeled; lower glumes 3-veined, distinctly shorter than the lowest lemmas; calluses glabrous or diffusely webbed, hairs less than 1/4 the lemma length; lemmas (3)4-7 mm, lanceolate to broadly lanceolate, distinctly keeled, membranous to thinly membranous, smooth or sparsely to densely scabrous, glabrous or the keels and/or marginal veins puberulent proximally, lateral veins obscure to prominent, margins glabrous, apices acute; palea keels scabrous, intercostal regions glabrous; anthers vestigial (0.1-0.2 mm), aborted late in development, or 2-3.5 mm. 2n = 28, 28+11, 56, 56+11, 59, ca. 70.
+</description>
+  <discussion>Poa cusickii grows in rich meadows in sagebrush scrub to rocky alpine slopes, from the southwestern Yukon Territory to Manitoba and North Dakota, south to central California and eastern Colorado. It is gynodioecious or dioecious.
+Sexually reproducing plants of Poa cusickii subspp. cusickii and pallida grow in different geographic areas, but pistillate plants of these two subspecies have overlapping ranges. Only pistillate plants are known in Poa cusickii subspp. epilis and purpurascens. All the alpine plants studied were pistillate.
+</discussion>
+  <key>
+    <key_body>
+1. Panicle branches smooth or slightly scabrous, or the basal blades more than 1.5 mm wide and flat or folded; cauline blades more than 1.5 mm wide, often flat; some basal branching extravaginal; lemmas and calluses sometimes sparsely puberulent.
+2. Lemmas usually glabrous, rarely plants from the Rocky Mountains with puberulent keels and marginal veins; calluses glabrous; panicles erect, usually contracted; branches smooth to slightly scabrous.....subsp. epilis
+2. Lemmas rarely completely glabrous, at least some florets v/ith sparsely puberulent keels, the marginal veins glabrous or puberulent; calluses frequendy with a sparse, short web; panicles somewhat lax and loosely contracted; branches smooth or sparsely to moderately scabrous.....subsp. purpurascens
+1. Panicle branches moderately to strongly scabrous; basal and cauline blades usually less than 1.5 mm wide, involute, rarely flat or folded; basal branching intravaginal; lemmas and calluses glabrous.
+3. Panicle branches longer than 1.7 cm in at least some panicles; panicles open or contracted.....subsp. cusickii
+3. Panicle branches up to 1.7 cm long, stout; panicles contracted   .....subsp. pallida
+
+    </key_body>
+  </key>
+</bio:treatment>

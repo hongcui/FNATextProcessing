@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Piptatherum miliaceum subsp. thomasii (Duby) Sojak </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Branches densely whorled; lower nodes with 15-30+ branches, some sterile, bearing highly reduced or no spikelets.</description>
+  <discussion>Piptatherum miliaceum subsp. thomasii has a native range similar to that of subsp. miliaceum, except that it does not grow in semidesert regions. In the Flora region, it is known only from cultivated specimens.</discussion>
+</bio:treatment>

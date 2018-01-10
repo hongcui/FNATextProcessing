@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>John W. Thieret</author>
+    </source>
+  </meta>
+  <number>26.27</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>HACKELOCHLOA Kuntze</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual; cespitose. Culms 20-120 cm, erect to decumbent, often rooting at the lower nodes, branching above the bases. Leaves not aromatic; sheaths open; auricles absent; ligules membranous, ciliate. Inflorescences terminal and axillary, solitary, 2-sided rames, these some¬times fascicled and partially enclosed in subtending leaf sheaths at maturity; disarticulation in the rames, beneath the sessile spikelets. Spikelets in heterogamous sessile-pedicellate pairs. Sessile spikelets hemispherical, partly embedded in the rame axes; lower glumes as long as the spikelets, indurate, alveolate, indistinctly 7-11-veined, not keeled, margins involute; upper glumes chartaceous, 3-veined, usually adherent to the rame axes; lower florets sterile; upper florets bisexual; anthers 3. Pedicels adnate to the rame axes, concealed by the sessile spikelets. Pedicellate spikelets as long as or longer than the sessile spikelets, ovate; lower glumes dorsally compressed, 5-9-veined; upper glumes laterally compressed, 5-7-veined; lower florets sterile; upper florets staminate; anthers 3. x = 7 (probably). </description>
+  <discussion>Hackelochloa is treated here as a monospecific genus that is widely distributed in warm regions of the world, often as a weed. Veldkamp et al. (1986) combined it with Coelorachis Brongn., Heteropholis C.E. Hubb., Ratzeburgia Kunth, and Rottboellia formosa R. Br. in Mnesithea Kunth. The traditional treatment for Hackelochloa is retained here.</discussion>
+  <references>Allred, K.W. 1993. A Field Guide to the Grasses of New Mexico. New Mexico Agricultural Experiment Station, Department of Agricultural Communications. New Mexico State University, Las Cruces, New Mexico, U.S.A. 258 pp.; Hitchcock, A.S. 1951 [title page 1950]. Manual of the Grasses of the United States, ed. 2, rev. A. Chase. U.S.D.A. Miscellaneous Publication No. 200. U.S. Government Printing Office, Washington, D.C., U.S.A. 1051 pp.; Veldkamp, J.F., R. de Koning, and M.S.M. Sosef. 1986. Generic delimitation of Rottboellia and related genera (Gramineae). Blumea 31:281-307.</references>
+</bio:treatment>

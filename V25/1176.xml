@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Dichanthelium dichotomum (L.) Gould subsp. dichotomum</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 20-60 cm, usually slender, erect; nodes usually glabrous, lowermost nodes sometimes sparsely bearded with soft, retrorse hairs; internodes terete, green to purplish, glabrous; fall phase branching freely from the midculm nodes, producing dense clusters of reduced, flat to involute blades and reduced secondary panicles. Cauline sheaths usually glabrous, lowermost sheaths sometimes sparsely pubescent, margins glabrous or short-ciliate; blades usually 3.5-9 cm long, usually 5-7 mm wide (seldom wider), usually spreading, narrowly lanceolate, glabrous on both surfaces, bases constricted. Primary panicles well-exserted; branches few, flexuous, with fewer spikelets than all the other subspecies apart from subsp. lucidum. Spikelets 1.8-2.3 mm, ellipsoid, usually glabrous, rarely purplish at the base; upper florets 1.7-2 mm long, 0.7-1.0 mm wide. 2n = 18.</description>
+  <discussion>Dichanthelium dichotomum subsp. dichotomum usually grows in dry to mesic woods. Its range extends from southern Ontario to Maine and south through Illinois and Missouri to eastern Texas and to the east coast of the United States and central Florida.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Chloris virgata Sw. </name_authority_date>
+  </taxon_identification>
+  <common_names>FEATHER WINDMILL-GRASS, FEATHER FINGERGRASS</common_names>
+  <description type="morphology">Plants annual; usually tufted, occasionally stoloniferous. Culms 10-100+ cm. Sheaths usually  glabrous;  ligules   to  4 mm, erose or ciliate; blades to 30 cm long, to 15 mm wide, basal hairs to 4 mm, otherwise usually glabrous, occasionally pilose. Panicles digitate, with 4-20, evidently distinct branches; branches 5-10 cm, erect to ascending, averaging 10 spikelets per cm. Spikelets strongly imbricate, with 1 bisexual and 1(2) sterile floret(s). Lower glumes 1.5-2.5 mm; upper glumes 2.5-4.3 mm; lowest lemmas 2.5-4.2 mm, keels usually prominently gibbous, glabrous, or conspicuously pilose, sides not grooved, margins glabrous, scabrous or pilose basally, with conspicuously longer hairs distally, hairs longer than 1.5 mm, lemma apices not conspicu¬ously bilobed, awned, awns 2.5-15 mm; second florets 1.4-2.9 mm long, 0.4-0.8 mm wide, somewhat widened distally, not inflated, bilobed, lobes less than 1/5 as long as the lemmas, awned from the sinuses, awns 3-9.5 mm; third florets greatly reduced, unawned and shorter than the subtending rachilla segment or absent but the rachilla segment present. Caryopses 1.5-2 mm long, about 0.5 mm wide, elliptic. 2n = 20, 26, 30, 40.</description>
+  <discussion>Chloris virgata is a widespread species that grows in many habitats, from tropical to temperate areas with hot summers, including much of the United States. It is a common weed in alfalfa fields of the southwestern United States.</discussion>
+</bio:treatment>

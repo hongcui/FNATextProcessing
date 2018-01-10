@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Dichanthelium ensifolium (Baldwin ex Elliott) Gould subsp. ensifolium</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Cauline sheaths glabrous; ligules 0.2-1 mm; blades usually puberulent abaxially, glabrous or, occasionally, pubescent adaxially.</description>
+</bio:treatment>

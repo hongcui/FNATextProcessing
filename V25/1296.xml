@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>31</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Panicum trichoides Sw. </name_authority_date>
+  </taxon_identification>
+  <common_names>SMALL-FLOWERED PANICGRASS</common_names>
+  <description type="morphology">Plants annual. Culms 15-100 cm tall, 0.5-1(2) mm thick, sprawl¬ing to erect, without cormlike bases, freely branching and rooting from the lower nodes; nodes prominent, glabrous or pubescent; internodes not succulent, pilose. Sheaths shorter than the internodes, rounded, hairs papillose-based; collars pilose; ligules 0.2-0.5 mm; blades 2-7 cm long, 5-20 mm wide, 4-6 times longer than wide, lanceolate, thin, flat, sparsely to densely pilose, hairs papillose-based, bases asymmetrically cordate to subcordate, lower margins ciliate, papillose. Panicles 4-24 cm, almost as wide as long, diffuse, partially included or exerted; primary branches to 10 cm, alternate, ascending to reflexed, branching in the distal 2/3; pedicels 9-20 mm, threadlike. Spikelets 1-1.4 mm long, 0.5-0.6 mm wide, not secund, lanceoloid to narrowly ovoid, plano-convex in side view, sparsely pubescent. Lower glumes 0.4-0.8 mm, 1/3 – 1/2 as long as the spikelets, 1-3-veined, subacute; upper glumes 0.8-1.2 mm, arising 0.2 mm above the lower glumes, 3-5-veined; lower florets sterile; lower lemmas 0.1-0.2 mm longer than the upper glumes, 3-5-veined; lower paleas 0.5-0.8 mm, hyaline; upper florets 0.8-1.2 mm long, 0.4-0.6 mm wide, finely rugose, lemmas strongly convex. 2n = 18.</description>
+  <discussion>Panicum trichoides grows in moist, often weedy fields, woodlands, and savannahs of Mexico, Central and tropical America, and the Caribbean. It has been found, as a weed, in Brownsville and Austin, Texas, and is probably introduced to the Flora region. It has also been introduced into Africa, tropical Asia, and the Pacific islands. In the Flora region, it flowers from August through October.</discussion>
+</bio:treatment>

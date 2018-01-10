@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Kelly W. Allred</author>
+    </source>
+  </meta>
+  <number>26.12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>BOTHRIOCHLOA Kuntze</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose or stoloniferous. Culms 30-250 cm, with pithy internodes. Leaves basal or cauline, not aromatic; sheaths open; auricles absent; ligules membranous, sometimes also ciliate; blades usually flat, convolute in the bud. Inflorescences terminal, panicles of subdigitate to racemosely arranged branches, each branch with (l)2-many rames, branches not subtended by modified leaves; rames with spikelets in heterogamous sessile-pedicellate pairs, internodes with a translucent, longitudinal groove, often villous on the margins; disarticulation in the rames, beneath the sessile spikelets. Spikelets dorsally compressed; sessile spikelets with 2 florets; lower glumes rounded, several-veined, sometimes with a dorsal pit, margins clasping the upper glume; upper glumes somewhat keeled, 3-veined; lower florets hyaline scales, unawned; upper florets bisexual; upper lemmas with a midvein that usually extends into a twisted, geniculate awn, occasionally unawned; anthers 3. Pedicels similar to the internodes. Pedicellate spikelets reduced or well-developed, sterile or staminate, unawned. Caryopses lanceolate to oblong, somewhat flattened; hila punctate, basal; embryos about Yi as long as the caryopses. x = 10. </description>
+  <discussion>Bothriochloa is a genus of about 35 species that grow in tropical to warm-temperate regions. Nine are native to the Flora region; three Eastern Hemisphere species have been introduced into the southern United States for forage and range rehabilitation. Most species provide fair forage in summer and fall. Polyploidy has been an important mechanism of speciation in the genus.</discussion>
+  <references>Allred, K.W. 1983. Systematics of the Bothriochloa saccharoides complex (Poaceae: Andropogoneae). Syst. Bot. 8:168-184; de Wet, J.M.J. 1968. Biosystematics of the Bothriochloa barbinodis complex (Gramineae). Amer. J. Bot. 55:1246-1250; de Wet, J.M.J, and J.R. Harlan. 1970. Bothriochloa intermedia-a taxonomic dilemma. Taxon 19:339-340; Vega, A.S. 2000. Revision taxonomica de las especies americanas del genero Bothriochloa (Poaceae: Panicoideae: Andropogoneae). Darwiniana 38:127-186.</references>
+  <key>
+    <key_body>
+1. Pedicellate spikelets about as long as the sessile spikelets.
+2. Sessile spikelets 5.5-7 mm long   .....1. B. wrightii
+2. Sessile spikelets 3-4.5 mm long.
+3. Rachises longer than the branches.....10. B. bladhii
+3. Rachises shorter than the branches.
+4. Lower glumes of the sessile spikelets with a dorsal pit.....12. B. pertusa
+4. Lower glumes of the sessile spikelets without a dorsal pit.....11. B. ischaemum
+1. Pedicellate spikelets much shorter than the sessile spikelets.
+5. Sessile spikelets 2.5-4.5 mm long; awns absent or less than 17 mm long.
+6. Sessile spikelets unawned or with awns less than 6 mm long   .....4. B. exaristata
+6. Sessile spikelets with awns 8-17 mm long.
+7. Panicles reddish when mature; hairs below the sessile spikelets about 1/4 as long as the spikelets, sparse, not obscuring the spikelets .....10. B. bladhii
+7. Panicles silvery-white or light tan; hairs below the sessile spikelets at least 1/2 as long as the spikelets, copious, at least somewhat obscuring the spikelets. 
+8. Panicles 9-20 cm long; sessile spikelets narrowly ovate to lanceolate; glumes acute; leaves evenly distributed on the culms; culms 2-4 mm thick .....3. B. longipaniculata
+8. Panicles 4-12(14) cm long; sessile spikelets ovate; glumes blunt; leaves often clustered at the base of the culms; culms usually less than 2 mm thick .....2. B. laguroides
+5. Sessile spikelets 4.5-8.5 mm long; awns 18-35 mm long. 
+9. Rachises 5-20 cm long, with numerous branches.
+10. Panicles of the larger shoots 14-25 cm long; culms 130-250 cm tall, 2-4 mm thick, stiffly erect, little-branched distally, glaucous below the nodes; nodes with spreading hairs, the hairs 2-6 mm long  .....5. B. alta
+ 
+ 
+10. Panicles of the larger shoots 5-14(20) cm long; culms usually 60-120 cm tall, usually less than 2 mm thick, tending to be bent at the base and often branched at maturity, not glaucous below the nodes; nodes with ascending hairs less than 3 mm long .....6. B. barbinodis
+Rachises usually less than 5 cm long, with 2-9 branches.
+11. Cauline nodes densely pubescent, the hairs 3-7 mm long, white, spreading .....7. B. springfieldii
+11. Cauline nodes glabrous or puberulent, the hairs always less than 3 mm long, usually off-white and ascending.
+12. Lower branches of the inflorescences rebranched; sessile spikelets 4.5-6.5 mm long; lower glumes sparsely hairy near the base; leaves primarily cauline, the blades 2-5 mm wide .....8. B. hybrida
+12. Lower branches of the inflorescences simple, not rebranched; sessile spikelets 5-8 mm long; lower glumes glabrous; leaves primarily basal, the blades usually less than 2 mm wide .....9. B. edwardsiana
+ 
+
+    </key_body>
+  </key>
+</bio:treatment>

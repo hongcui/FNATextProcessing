@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Hilaria jamesii (Torr.) Benth. </name_authority_date>
+  </taxon_identification>
+  <common_names>GALLETA</common_names>
+  <description type="morphology">Plants perennial; strongly rhizomatous or stoloniferous. Culms 20-65 cm, erect, bases much branched; nodes usually pilose or villous, sometimes glabrous; lower internodes glabrous. Sheaths glabrous, sometimes slightly scabrous; collars pilose at the edges; ligules 1.5-5 mm, often laciniate; blades 2-20 cm long, 2-4 mm wide, involute and curled when dry, sparsely villous behind the ligules, abaxial surfaces scabridulous, adaxial surfaces scabrous. Panicles 2-6 cm; fascicles 6-8 mm. Lateral spikelets with 3 staminate florets; glumes thin, membranous, lanceolate or parallel-sided, not conspicuously fused at the base, apices acute to rounded, often ciliate, veins rarely excurrent; lower glumes dorsally awned, awns exceeding the apices; anthers 3, about 5 mm. Central spikelets with 1 bisexual floret; glumes with excurrent veins forming distinct awns; lemmas exceeding the glumes, ciliate, the midveins sometimes excurrent. 2n = 18, 36.</description>
+  <discussion>Hilaria jamesii is endemic to the southwestern United States, and grows in deserts, canyons, and dry plains. It has medium grazing value but low palatability. It is usually less pubescent than H. rigida, the difference being most marked on the lower cauline nodes.</discussion>
+</bio:treatment>

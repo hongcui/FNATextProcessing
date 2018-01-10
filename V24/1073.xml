@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Mibora minima (L.) Desv. </name_authority_date>
+  </taxon_identification>
+  <common_names>EARLY SANDGRASS</common_names>
+  <description type="morphology">Plants tufted. Culms 2-10(15) cm; nodes 2-3, glabrous. Sheaths delicate, rounded on the back, shallowly grooved; ligules 0.2-1 mm; blades 1-4(5) cm long, to 0.5 mm wide, flat or involute, obtuse. Racemes 0.5-2(5) cm long, 1-2 mm wide, usually purplish; pedicels 0.5-1 mm. Spikelets 1.8-3 mm. Glumes 1.8-3 mm, obtuse to slightly emarginate; lemmas 1.4-2 mm, 5-veined, often denticulate at the apices; paleas 1.4-2 mm, narrowly elliptic, apices notched; anthers 1-1.7 mm. Caryopses 1-1.4 mm. 2n = 14.</description>
+  <discussion>Mibora minima is native to western Europe, where it grows on sandy and other light, damp soils in places with mild winters. In central Europe, it usually flowers from February to April or May but, if the weather is warm, may flower in December.
+Mibora minima was collected from ballast dumps in Plymouth, Massachusetts, in the first part of the twentieth century, and from an experimental farm in Sydney, British Columbia, in 1914. It has also been collected in Monroe County, New York. None of these populations appear to have led to the establishment of the species in North America. Recently, garden societies in both Canada and the United States have been offering the seed, recommending M. minima for rock gardens.
+</discussion>
+</bio:treatment>

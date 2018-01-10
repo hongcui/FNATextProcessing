@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Andropogon ternarius Michx. </name_authority_date>
+  </taxon_identification>
+  <common_names>SPLIT BLUESTEM</common_names>
+  <description type="morphology">Plants cespitose. Culms 70-150 cm. Sheaths smooth or scabrous, sometimes pilose; ligules 0.4-1.5 mm, ciliate; blades 1-3 mm wide, pubescent or glabrous and glaucous. Inflorescence units 2-30+ per culm; peduncles usually 5-20 mm, with (1)2 rames; rames 3-4 cm, exerted at maturity, terminating in a sessile-pedicellate spikelet pair; internodes sparsely to densely villous, hairs from as long as to twice as long as the sessile spikelets. Sessile spikelets 4.5-8.4 mm; callus hairs to 8 mm; awns 10-25 mm; anthers 3,1.2-2.3 mm. Pedicellate spikelets 1.5-3.6 mm, sterile. 2n = 40, 60.</description>
+  <discussion>Andropogon ternarius grows in the southeastern United States and northern Mexico. It is planted as an ornamental and for erosion control on slopes in poor and sandy soils, and is tolerant of coastal conditions.
+Andropogon ternarius is similar to A. arctatus but differs in its possession of three anthers and usually in its longer spikelets, both sessile and pedicellate.
+</discussion>
+  <key>
+    <key_body>
+1. Rames densely villous, with hairs about twice as long as the sessile spikelets and more or less obscuring them; lower glumes of the sessile spikelets sometimes scabrous, without conspicuous veins between the keels..........var. cabanisii
+1. Rames sparsely villous, with hairs about as long as the sessile spikelets, but not obscuring them; lower glumes of the sessile spikelets scabrous, often conspicuously 2-veined between the keels.....var. ternarius
+
+    </key_body>
+  </key>
+</bio:treatment>

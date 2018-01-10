@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Festuca californica subsp hitchcockiana (E.B. Alexeev) Darbysh. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 60-120 cm, glabrous or pubescent for less than 5 mm below the nodes. Sheaths usually glabrous or scabrous, sometimes pubescent; collars glabrous or indistinctly pubescent; ligules (1)1.5-5 mm, sometimes ciliate, abaxial surfaces pubescent; blades 3-6.5 mm wide, conduplicate or flat, ribs 7-15(17), usually more than 1/2 as deep as the blade thickness, abaxial surfaces glabrous or sparsely pubescent proximally, adaxial surfaces pubescent; abaxial sclerenchyma forming continuous bands; adaxial sclerenchyma present; girders usually formed at most veins. Inflorescences 15-25 cm. Spikelets 8-12(17) mm, with (4)5-6(8) florets. Lemmas usually entire, sometimes minutely bidentate. 2n = unknown.</description>
+  <discussion>Festuca californica subsp. hitch cockiana is distinguished by its relatively long ligules. It is known only from Santa Clara and San Luis Obispo counties, California.</discussion>
+</bio:treatment>

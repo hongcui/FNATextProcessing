@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>J.K. Wipff</author>
+    </source>
+  </meta>
+  <number>14.22</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>AIRA L</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual; tufted. Culms 1-55 cm, erect to decumbent. Leaves cauline; sheaths open for most of their length, glabrous, usually scabridulous, occasionally smooth; auricles absent; ligules membranous; blades of the uppermost leaves greatly reduced. Inflorescences open or contracted panicles, sometimes spikelike, with more than 1 spikelet associated with most nodes; branches longer than 5 mm, capillary, appressed to strongly divergent; pedicels capillary, appressed to divergent. Spikelets 1.5-3.8 mm, laterally compressed, with 2 bisexual florets, both usually awned, the lower floret sometimes unawned, occasionally both unawned; rachillas glabrous, lowest segments about 0.2 mm, florets appearing opposite, usually not or scarcely extended beyond the base of the distal floret; disarticulation above the glumes and beneath the florets. Glumes equal to subequal, longer than the florets, membranous, 1-3-veined, unawned; calluses puberulent; lemmas subcoriaceous, glabrous, scabridulous, 5-veined, apices bifid, awned or unawned, awns attached below midlength, usually geniculate, sometimes straight; paleas membranous, 2-veined; lodicules 2, free; anthers 3; ovaries glabrous. Caryopses shorter than the lemmas, concealed at maturity, adhering to the lemmas and/or paleas, longitudinally grooved, dorsally compressed, x = 7. </description>
+  <discussion>Aira is a genus of eight species; two have been introduced into the Flora region. All members of the genus are native to temperate Europe and the Mediterranean region, North Africa, and western Asia. Frequently adventive, they are now widespread outside of their native range as weeds, although they are not considered particularly troublesome. They have little forage value because most are delicate, with extremely small leaves. All the species grow in open, disturbed places on usually dry, occasionally mesic, sandy to rocky soils.
+ 
+</discussion>
+  <key>
+    <key_body>
+1. Panicle branches ascending to divergent; panicles 1.2-13.5 cm long, 1.5-10 cm wide  .....1. A. caryophyllea
+1. Panicle branches appressed to the rachises; panicles 0.5—4.1 cm long, 0.3-0.7 cm wide .....2. A. praecox
+
+    </key_body>
+  </key>
+</bio:treatment>

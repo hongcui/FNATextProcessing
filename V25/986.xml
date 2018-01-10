@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aristida californica Thurb. </name_authority_date>
+  </taxon_identification>
+  <common_names>MOJAVE THREEAWN</common_names>
+  <description type="morphology">Plants perennial; sometimes flowering the first year. Culms 10-40 cm, highly branched above the base in age; internodes glabrous or pubescent, sometimes nearly lanose. Leaves cauline; sheaths shorter than the internodes, glabrous or puberulent; collars glabrous or pubescent at the sides; ligules 0.5-1 mm; blades usually less than 6 cm long, 0.5-1 mm wide, pale green, involute, glabrous or puberulent abaxially. Inflorescences paniculate or racemose, 5-10 cm long, 1-2 cm wide, with few spikelets; rachis nodes glabrous or with straight hairs; primary branches 1-2 cm, appressed, without axillary pulvini. Spikelets appressed. Glumes unequal, 1-2-veined; lower glumes 4-10 mm; upper glumes 7-15 mm; calluses about 1 mm; lemmas 5-7 mm, purple or mottled, junction of the lemma and awns evident; awns twisted together basally into a 4-26 mm column, free portions 12-50 mm, those of the central and lateral awns similar in length, curved to arcuate basally, straight and divergent distally, disarticulating at the base of the column at maturity; anthers 3, about 2 mm long. 2n = 22.</description>
+  <discussion>The range of both varieties of Aristida californica extends from the southwestern United States into northwestern Mexico.</discussion>
+  <key>
+    <key_body>
+1. Cauline internodes puberulent to nearly lanose .....var. californica
+1. Cauline internodes glabrous   .....var. glabrata
+
+    </key_body>
+  </key>
+</bio:treatment>

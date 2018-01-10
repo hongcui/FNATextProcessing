@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Lachnagrostis filiformis (G. Forst.) Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>PACIFIC BENT</common_names>
+  <description type="morphology">Plants perennial; cespitose, sometimes rhizomatous. Culms 15-65 cm, erect, sometimes geniculate basally. Sheaths glabrous, sometimes scabridulous; ligules 2.2-7.8 mm, obtuse or acute, lacerate; blades 8-20 cm long, 1-3 mm wide, usually flat, sometimes involute, finely scabrous. Panicles 7-30 cm long, (2)5-25 cm wide, broadly ovate, loose and diffuse at maturity, bases sometimes not exserted at maturity; branches capillary, scabrous, often deflexed at maturity, branched above the middle, spikelets confined to the distal 1/3; lower branches 5-15 cm; pedicels 0.5-7 mm; disarticulation above the glumes and below the panicles. Spikelets greenish to yellowish, often tinged with purple; rachilla prolongations about 1 mm, bristlelike, pilose distally, hairs about 0.6 mm. Glumes equal to subequal, 2.8-3.6 mm, scabrous on the midvein, at least distally, 1(3)-veined, apices long-acuminate; callus hairs to 0.5 mm, abundant; lemmas 1.8-2.3 mm, translucent to opaque, usually densely hairy at least on the lower 1/2, hairs to 0.7 mm, 5-veined, apices truncate to obtuse, erose or 2-4-toothed, awned from the middle 1/3 of the lemmas, awns 4-7.5 mm, geniculate; paleas (0.4)1.2-1.5 mm, usually more than 2/3 the length of the lemmas, thin, veins usually not visible; anthers 3, about 0.5 mm. Caryopses about 1.2 mm; endosperm solid. 2n = 56.</description>
+  <discussion>Lachnagrostis filiformis is native to New Guinea, Australia, New Zealand, and Easter Island. In North America, it grows in open, disturbed sites such as roadsides and burned areas, and has been spreading into vernal pools around San Diego, California. It was introduced to North America in the late nineteenth century, but is only known to be established in California. The most recent record located for Texas was collected in 1902. Records from South Carolina are from "waste areas around wool-combing mill; rare, perhaps only a waif." (Weakley, http: //www. herbarium.unc/ edu/flora.htm).</discussion>
+</bio:treatment>

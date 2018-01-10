@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>20</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Digitaria simpsonii (Vasey) Fernald </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants of indefinite duration; not rhizomatous. Culms 80-120 cm, erect or decumbent and rooting at the lower nodes, not branching at the aerial nodes. Sheaths hirsute, with papillose-based hairs, those of the innovation sheaths compressed-keeled; ligules 1-2 mm; blades 7-30 cm long, 3-5 mm wide, flat, pilose above and below. Panicles with 6-8 spikelike primary branches on 4-6 cm rachises; primary branches 8-13 cm, axes triquetrous, narrowly winged, wings less than 1/2 as wide as the midribs, lower and middle portions of the branches bearing spikelets in appressed, unequally pedicellate pairs; secondary branches rarely present; axillary inflorescences not present; pedicels not adnate to the branch axes. Spikelets about 3 mm, elliptic lanceolate, acute. Lower glumes absent or minute and hyaline; upper glumes 7-9-veined, glabrous or obscurely pubescent; lower lemmas 7-9-veined, glabrous or obscurely pubescent; upper lemmas elliptic, yellow or gray, becoming purple at maturity, slightly apiculate. 2n = unknown.</description>
+  <discussion>Digitaria simpsonii is a rare species, known only from sandy fields in Florida.</discussion>
+</bio:treatment>

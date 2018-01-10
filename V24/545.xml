@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Thinopyrum junceum (L.) Á. Löve   </name_authority_date>
+  </taxon_identification>
+  <common_names>RUSSIAN WHEATGRASS</common_names>
+  <description type="morphology">Plants not cespitose, rhizomatous. Culms 27-49 cm, glabrous; lowest internode plus sheath 3-8 mm thick. Sheaths glabrous; auricles absent; ligules 0.5-1.5 mm; blades 2-4 mm wide, convolute, abaxial surfaces glabrous, adaxial surfaces scabrous to densely pubescent, with 3-8 ribs, ribs narrow, prominent, margins not conspicuously thickened. Spikes 4-55 cm, erect; internodes 12-28 mm; rachises glabrous; disarticulation in the rachises. Spikelets 14-30 mm, appressed to the rachises, with 4-8 florets. Glumes lanceolate, glabrous, midveins slightly longer and more prominent than the lateral veins, apices obtuse to acute, often mucronate, margins not hyaline; lower glumes 10-18 mm, keeled, keels prominent; upper glumes 9-16 mm; lemmas 10-17 mm long, 2-4.5 mm wide, glabrous; paleas 9-14 mm, keels ciliate for almost their entire length; anthers 6-12 mm. 2n = 42, 56.</description>
+  <discussion>Thinopyrum junceum is native to the coast of Portugal, the Mediterranean, and the Black Sea. In the Flora region, it has been found on the coasts of southern California and Nova Scotia. In its native range, it grows on maritime rocky coasts, shifting beach sands, and, occasionally, by brackish water near river mouths.</discussion>
+</bio:treatment>

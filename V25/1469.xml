@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>27</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum intermedium Munro ex Morong & Britton 
+</name_authority_date>
+  </taxon_identification>
+  <common_names>INTERMEDIATE PASPALUM</common_names>
+  <description type="morphology">Plants perennial; shortly rhi-zomatous. Culms to 200 cm, erect; nodes glabrous. Sheaths glabrous; ligules 2-3 mm; blades to 57 cm long, 2-3 cm wide, flat, glabrous below, appressed pubescent above. Panicles terminal, with 60-100 racemosely arranged branches; branches 1-13 cm, divergent to spreading, often arcuate; branch axes 0.9-1.2 mm wide, winged, margins scabrous, long pubescent. Spikelets 2-2.4 mm long, 0.9-1.2 mm wide, paired, divergent to spreading from the branch axes, elliptic to ovate, glabrous or pubescent, stramineous, sometimes partially purple. Lower glumes absent; upper glumes smooth, 3-veined, margins entire, sparsely short-pubescent, at least distally; lower lemmas smooth, lacking ribs over the veins, 3-veined, margins entire, glabrous or shortly pubescent; upper florets stramineous to white. Caryopses 1.5-1.7 mm, golden brown. 2n = 20, 40.</description>
+  <discussion>Paspalum intermedium is an introduced roadside weed in the Flora region. It is found in Mexico and South America, but not in Central America (Pohl and Davidse 1994).</discussion>
+</bio:treatment>

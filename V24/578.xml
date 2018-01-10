@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Festuca californica Vasey subsp. californica </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 60-150(200) cm, densely pubescent for less than 5 mm below the nodes, particularly the upper nodes. Sheaths glabrous or pubescent; collars usually densely pubescent, at least at the margins, sometimes glabrous; ligules 0.2-1(1.2) mm, ciliate; blades 30+ cm long, 3-6.5 mm wide, conduplicate or flat, ribs 7-15(17), usually more than 1/2 as deep as the blade thickness, abaxial surfaces glabrous or sparsely pubescent proximally, adaxial surfaces pubescent; abaxial sclerenchyma forming a continuous band; adaxial sclerenchyma present; girders usually formed at most veins. Inflorescences 15-25(30) cm. Spikelets (8)13-18(20) mm, with (3)4-6(8) florets. Lemmas usually entire, sometimes minutely bidentate. 2n = 56.</description>
+  <discussion>Festuca californica subsp. californica is the most widespread variety, growing from west-central Oregon to central California. The lower leaf sheaths are typically glabrous and scabrous, but sometimes have spreading hairs. This subspecies differs from subsp. parishii in having wider and longer leaf blades and more extensively developed sclerenchyma. </discussion>
+</bio:treatment>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Leptochloa panicea (Retz.) Ohwi </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual. Culms (5)13-150 cm, usually erect, compressed, branching; internodes hollow. Sheaths sparsely or densely hairy, particularly distally, hairs papillose-based; ligules 0.6-3.2 mm, membranous, truncate, erose; blades 6-25 cm long, 2-21 mm wide, glabrous or sparsely pilose on both surfaces. Panicles 8-30 cm, with 3-100 racemose branches; branches 1-19 cm, ascending to reflexed. Spikelets 2-4 mm, distant to imbricate, green, magenta, or maroon, with 2-5(6) florets. Glumes sometimes exceeding the florets, linear to narrowly elliptic, acute, attenuate, or aristate; lower glumes 1.6-4 mm, linear to lanceolate; upper glumes 1.6-3.6 mm, lanceolate; lemmas 0.9-1.7 mm, glabrous or somewhat sericeous, acute to obtuse; paleas glabrous or sericeous; anthers 3, 0.2-0.3 mm. Caryopses 0.8-1.2 mm long, 0.5-0.6 mm wide, nearly round in cross section, with or without a ventral groove, apices acute to broadly obtuse. </description>
+  <discussion>Leptochloa panicea is a cosmopolitan species that somewhat resembles L. chinensis, an aggressive weed that has not yet been found in the Flora region. It differs in its sparsely to densely hairy, rather than glabrous or almost glabrous, sheaths and blades. Two of its three subspecies grow in the Flora region.</discussion>
+  <key>
+    <key_body>
+1. Glumes linear to narrowly lanceolate, exceeding the florets; lemmas 0.9-1.2 mm long; caryopses without a ventral groove, often somewhat coarsely rugose, the apices broadly obtuse   .....subsp. mucronata
+1. Glumes lanceolate to narrowly elliptic, not or only slightly exceeding the florets; lemmas 1.3-1.7 mm long; caryopses usually with a narrow, shallow ventral groove, smooth, the apices broadly obtuse to acute   .....subsp. brachiata
+
+    </key_body>
+  </key>
+</bio:treatment>

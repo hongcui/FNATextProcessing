@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>xElyhordeum arcuatum W.W. Mitch. & H.J. Hodgs.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 40-85 cm. Blades 7-22 cm long, 3-10 mm wide, abaxial surfaces scabrous, adaxial surfaces pilose. Inflorescences spikelike, 6-15 cm, arcuate to nodding, with 3 spikelets per node; central spikelets sessile, with 1-3 florets; lateral spikelets shortly pedicellate, with 0-2 florets. Glumes to 25 mm, awnlike, scabrous; lemmas 9-11 mm, scabrous, awned, awns to 25 mm, arcuate and divergent at maturity; anthers 1-1.4 mm. 2n = 28.</description>
+  <discussion>xElyhordeum arcuatum is probably a hybrid between Elymus sibiricus and Hordeum jubatum (Mitchell and Hodgson 1965). It was described from disturbed sites around Palmer, Alaska, from which it has since been eliminated. No additional reports are known. There is no illustration because the type specimens could not be located.</discussion>
+</bio:treatment>

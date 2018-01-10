@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Polypogon maritimus Willd. </name_authority_date>
+  </taxon_identification>
+  <common_names>MEDITERRANEAN BEARDGRASS</common_names>
+  <description type="morphology">Plants annual. Culms (5)20-40 (50) cm, geniculate. Sheaths glabrous, smooth, uppermost sheaths sometimes inflated; ligules to 7 mm; blades (1)3-9 (14) cm long, 0.5-5 mm wide. Panicles (1)2-8(15) cm, narrowly ellipsoid, dense, sometimes lobed, often purplish; pedicels to about 0.5 mm, capillary; stipes 0.1-1.2 mm. Glumes 1.8-3.2 mm, hispidulous basally, hairs sometimes strongly inflated and obtuse, apices lobed, lobes 0.3-1.2 mm, more than 1/6 the length of the glume body, awned from the sinus, awns (4)7-12 mm; lemmas 0.5-1.5 mm, unawned or awned, awns shorter than 1 mm; paleas subequal to the lemmas; anthers 0.4-0.5 mm. 2n = 14.</description>
+  <discussion>Polypogon maritimus grows in disturbed, moist places, from sea level to 700 m. It is a Mediterranean species that now occurs at scattered locations in North America, being particularly common in, or possibly just well-reported from, California. There are two varieties. Plants from the Flora region belong to P. maritimus Willd. var. maritimus, having stipes about as long as they are wide, glumes that never become strongly indurate at the base, and uninflated, acute hairs on the glume bases. Plants of P. maritimus var. subspathaceus (Req.) Bonnier 8c Layens have stipes that are 3-4 times as long as wide, glumes that become strongly indurate at maturity, and hairs on the glume bases that are strongly inflated and subobtuse.</discussion>
+</bio:treatment>

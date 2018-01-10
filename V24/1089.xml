@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Phalaris brachystachys Link </name_authority_date>
+  </taxon_identification>
+  <common_names>SHORTSPIKE CANARYGRASS</common_names>
+  <description type="morphology">Plants annual. Culms 80-100 cm. Ligules 4-6(7) mm, rounded, lacerate; blades 4-25 cm long, 3-8(10) mm wide. Panicles 1.5-5 cm long, 0.8-1.8 cm wide, usually ovoid to ellipsoid, occasionally cylindrical, continuous, not lobed, narrowly truncate at the base, rounded at the top; branches not evident, spikelets borne singly, not clustered. Spikelets homogamous, with 3 florets, terminal floret bisexual; disarticulation above the glumes, beneath the sterile florets. Glumes 6-8.5 mm long, 1.4-2.5 mm wide, glabrous or hairy, keels winged on the distal 2/3, wings to 1 mm wide, entire, abruptly pointed; sterile florets 2, subequal to equal, 0.6-1.2 mm, about 1/5 the length of the bisexual florets, with a tuft of hair at the base, otherwise glabrous; bisexual florets 4.4-5 mm long, 1.3-2 mm wide, hairy, shiny, brown to dark brown at maturity, acute; anthers 3-4 mm. 2n = 12.</description>
+  <discussion>Phalaris brachystachys is native to the Mediterranean region and the Canary Islands, where it grows on waste ground, at the edges of cultivated fields, and on roadsides. It is adventive in northern Europe, Australia, and North America. It is known from a few locations in the Flora region, most of them in California.</discussion>
+</bio:treatment>

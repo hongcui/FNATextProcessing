@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Aristida purpurea var. fendleriana (Steud.) Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>FENDLER'S THREEAWN</common_names>
+  <description type="morphology">Culms 10-40 cm. Leaves mostly cauline; blades 4-10 cm, involute. Panicles 3-14(15) cm; primary branches
+mostly appressed, stiff, straight, without axillary pulvini, with few spikelets. Lower glumes 5-8 mm; upper glumes 10-15 mm; lemmas 8-14 mm long, apices 0.2-0.3 wide; awns subequal, 18-40 mm long, occasionally slightly longer, 0.2-0.3 mm wide at the base. 2n = 22, 44.
+</description>
+  <discussion>Aristida purpurea var. fendleriana grows on open slopes, hills, and sandy flats, at low to medium elevations, from the western United States into northern Mexico. It is often confused with var. longiseta, having short basal leaves and short panicles, but plants of var. fendleriana have narrower lemma apices and thinner, shorter awns than those of var. longiseta.</discussion>
+</bio:treatment>

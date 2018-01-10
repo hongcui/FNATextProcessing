@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>25.17</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>ANTHEPHORA Schreb.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; tufted or cespitose. Culms 15-50 cm, not woody. Sheaths open; ligules membranous. Inflorescences terminal, spikelike panicles, each node supporting a highly reduced branch or fascicle of spikelets; fascicles imbricate, with a short, thick, basal stipe sub¬tending 4 thick, rigid, coriaceous, many-veined, flat, narrowly elliptic to ovate bracts; bracts fused at the base, enclosing 2-11 spikelets, 1-2 of the spikelets sterile or reduced; disarticula¬tion beneath the fascicles. Spikelets with 2 florets. Lower glumes absent; upper glumes acicular, 1-veined, awned; lower florets sterile, sometimes reduced; lower lemmas 7-veined; lower paleas subequal to the lower lemmas; upper florets bisexual, sterile, or reduced; upper lemmas faintly 3-veined. Caryopses ellipsoidal, x = 9. </description>
+  <discussion>Anthephora is a genus of 12 species. Most of the species are native to Africa and Arabia. One species is native to tropical America and has become established in the Flora region.
+The fascicle bracts are often interpreted as the lower glumes of the spikelets, but the devel¬opmental studies needed to evaluate this interpretation have not been conducted.
+</discussion>
+  <references>Reeder, J.R. 1960. The systematic position of the grass genus Anthephora. Trans. Amer. Microscop. Soc. 79:211-218.</references>
+</bio:treatment>

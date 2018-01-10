@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>26.14</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>APLUDA L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; often scrambling. Culms to 3 m, decumbent. Leaves not aromatic; sheaths open; ligules membranous; blades linear, often pseudopetiolate. Inflorescences false panicles, individual inflorescence units with solitary rames; rames to 1 cm, often enclosed by the sub¬tending leaf sheath, with 1 sessile and 2 unequally pedicellate spikelets; disarticulation at the base of the sessile spikelets, sometimes also at the base of the pedicellate spikelets. Sessile spikelets laterally compressed, with a large, bulbous callus; lower glumes coriaceous, without keels or wings, smooth, bidentate; upper glumes unawned; upper lemmas awned or unawned. Pedicels flat, wide, adjacent to each other, appressed but not fused to the rame axes. Pedicellate spikelets usually unequal, unawned, 1 staminate or bisexual and as large as the sessile spikelet, the other sterile and usually smaller, x = 10. </description>
+  <discussion>Apluda is treated here as consisting of a single weedy species that is native to tropical Asia and Australia, where it grows primarily in thickets and forest margins. It is not known to be established in the Flora region.</discussion>
+  <references>Clayton, W.D. 1994. Apluda. Pp. 35-37 in W.D. Clayton, G. Davidse, F. Gould, M. Lazarides, and T.R. Soderstrom. A Revised Handbook to the Flora of Ceylon, vol. 8 (ed. M.D. Dassanayake). Amerind Publishing Co., New Delhi, India. 458 pp.; Reed, C.F. 1964. A flora of the chrome and manganese ore piles at Canton, in the Port of Baltimore, Maryland and at Newport News, Virginia, with descriptions of genera and species new to the flora of the eastern United States. Phytologia 10:321-405.</references>
+</bio:treatment>

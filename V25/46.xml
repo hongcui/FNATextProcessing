@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Triraphis mollis R. Br. </name_authority_date>
+  </taxon_identification>
+  <common_names>PURPLE NEEDLEGRASS</common_names>
+  <description type="morphology">Plants short-lived perennials. Culms 2-90 cm, sometimes rooting at the nodes; nodes glabrous. Ligules membranous, long-ciliate, central cilia 0.5-1.6 mm, those at the sides to 3 mm, stiff; blades 7-24 cm long, 2-5 mm wide, usually involute, rarely flat. Panicles 6-30 cm long, 1.5-3 cm wide; primary branches to 4.5 cm, appressed or ascending. Lower glumes 3-4 mm, mucronate; upper glumes 4-5 mm, 2-toothed; calluses about 0.5 mm, with hairs; lemmas 3-5 mm, hairs on the veins to 2 mm, lobes about 1 mm, central awns 5-7 mm, lateral awns 6-7 mm. 2n = unknown.</description>
+  <discussion>Triraphis mollis usually flowers in response to rain. It is common on sandy soils in New South Wales, Australia. In the Flora region it is currently known only from Dimmit County, Texas, but it will probably spread.</discussion>
+</bio:treatment>

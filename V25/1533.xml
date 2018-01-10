@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Sorghum bicolor (L.) Moench subsp. bicolor </name_authority_date>
+  </taxon_identification>
+  <common_names>SORGHUM, BROOMCORN, SORGO</common_names>
+  <description type="morphology">Plants annual. Culms to 5 m or more, stout, frequently tillering. Inflorescence branches remaining intact at maturity, with 1-5 nodes. Sessile spikelets 3-9 mm long, 2-5 mm wide, elliptic to oblong. Caryopses exposed at maturity.</description>
+  <discussion>All the cultivated sorghums are placed in Sorghum bicolor subsp. bicolor. 'Grain sorghums' have short panicles and panicle branches, 'broomcorns' have elongate panicles and panicle branches, and 'sweet sorghums' or 'sorgo' produce an abundance of sweet juice in their stems. For a more detailed treatment, see Harlan and de Wet (1972).</discussion>
+</bio:treatment>

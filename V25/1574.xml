@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Andropogon hallii Hack. </name_authority_date>
+  </taxon_identification>
+  <common_names>SAND BLUESTEM</common_names>
+  <description type="morphology">Plants strongly rhizomatous, rhizome internodes often longer than 2 cm. Culms (40)60-150(200) cm, strongly glaucous. Ligules (0.9)2.5-4.5 mm, ciliate; blades 3-40(51) cm long, (1.5)2-10 mm wide, often pilose, at least near the collar. Inflorescence units usually only terminal; peduncles with 2-7 rames; rames 4-7(9) cm, exserted at maturity; internodes usually densely pubescent, hairs 3.7-6.6 mm, often strongly yellowish. Sessile spikelets (5)6.5-12 mm; lower glumes often ciliate; awns absent or to 11 mm; anthers 3, (2.3)4-6 mm. Pedicellate spikelets 3.5-12 mm, usually well-developed and staminate. 2n = 60 (usually), 70, 100.</description>
+  <discussion>Andropogon hallii grows on sandhills and in sandy soil. Its range extends through the central plains into northern Mexico. It is similar to A. gerardii, differing primarily in its rhizomatous habit, more densely pubescent rames and pedicels, and greater drought tolerance. Andropogon hallii and A. gerardii are sympatric in some locations. The two species can hybridize and are sometimes treated as conspecific subspecies.</discussion>
+</bio:treatment>

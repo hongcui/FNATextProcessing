@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>66</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia minutissima (Steud.) Swallen </name_authority_date>
+  </taxon_identification>
+  <common_names>ANNUAL MUHLY</common_names>
+  <description type="morphology">Plants annual. Culms 5-40 cm, slender, erect; internodes mostly glabrous, scabridulous or smooth, scabridulous or strigulose below the nodes. Sheaths shorter or longer than the internodes, smooth or scabridulous; ligules 1-2.6 mm, hyaline, truncate to obtuse, sometimes with lateral lobes; blades 0.5-4(10) cm long, 0.8-2 mm wide, flat or involute, scabrous abaxially, shortly pubescent adaxially. Panicles 5-16.2(21) cm long, 1.5-6.5 cm wide, open; primary branches 8-42 mm, often capillary, diverging 25-80° from the rachises; pedicels 2-7 mm, straight or curved, but rarely curved as much as 90°. Spikelets 0.8-1.5 mm. Glumes sparsely strigulose, at least near the apices, 1-veined; lower glumes 0.5-0.8 mm, obtuse to acute; upper glumes 0.6-0.9 mm, broader than the lower glumes, obtuse; lemmas 0.8-1.5 mm, lanceolate, brownish to purplish, glabrous or the midveins and margins appressed-pubescent, apices obtuse to subacute, unawned; paleas 0.8-1.4 mm, shortly pubescent or glabrous; anthers 0.2-0.7 mm, purplish. Caryopses 0.6-0.9 mm, fusiform to elliptic, brownish. 2n = 60, 80.</description>
+  <discussion>Muhlenbergia minutissima grows in sandy and gravelly drainages, rocky slopes, flats, road cuts, and open sites. It is usually found in yellow pine and oak-pine forests, pinyon-juniper woodlands, thorn-scrub forests, and oak-gramma savannahs, at elevations of 1200-3000 m. Its range extends from the western United States to southern Mexico.</discussion>
+</bio:treatment>

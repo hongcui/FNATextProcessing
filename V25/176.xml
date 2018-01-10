@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eleusine coracana (L.) Gaertn. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual. Culms to 62 cm, often branching; lower internodes 6-10 mm thick. Sheaths glabrous; ligules 1-2 mm, ciliate, with 1-2 mm hairs; blades 10-60 cm long, 6-12 mm wide, sometimes longer than the culms, adaxial surfaces scabrous or pubescent. Panicles subdigitate, with 4-20 branches, 1(2) of the branches attached below the terminal cluster; branches 4-17 cm long, 5-15 mm wide, spreading at maturity. Spikelets 5-9 mm long, 3-6 mm wide, with 2-9 florets, sometimes not disarticulating at maturity. Lower glumes 1.2-3 mm, 2- or 3-veined; upper glumes 2.2-6.5 mm; lemmas 2.2-5 mm; anthers about 1 mm. Seeds oblong-globose, granular, usually exposed at maturity. 2n = 36.</description>
+  <discussion>Eleusine coracana is an allotetraploid, one of its genomes being derived from E. indica.
+Two subspecies are recognized; only subsp. coracana is known from North America.
+</discussion>
+  <key>
+    <key_body>
+1. Seeds almost globose, the surface granular to smooth; florets not disarticulating.....subsp. coracana
+1. Seeds oblong, the surface shallowly ridged and uniformly granular; florets disarticulating at maturity .....subsp. africana
+
+    </key_body>
+  </key>
+</bio:treatment>

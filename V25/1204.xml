@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>27</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthelium aciculare (Desv. ex Poir.) Gould & C.A. Clark </name_authority_date>
+  </taxon_identification>
+  <common_names>NARROW-LEAVED PANICGRASS</common_names>
+  <description type="morphology">Plants grayish-green, cespitose, with caudices. Basal rosettes poorly differentiated; blades usually large, ovate to lanceolate, often transitional to the cauline blades. Culms 15-75 cm, erect; nodes glabrous or sparsely pubescent; internodes glabrous or puberulent to pilose basally; fall phase with erect to spreading culms, extensively branched from the mid- and upper culm nodes, eventually producing flabellate clusters of reduced, flat or involute blades. Cauline leaves 3-7; sheaths shorter than the internodes, glabrous or with soft, ascending, papillose-based hairs; ligules 0.5-2 mm, of hairs; lower blades 4-16 cm long, 3-9 mm wide, stiffly ascending to erect, glabrous or sparsely pilose to pubescent, with prominent raised veins, flat or longitudinally wrinkled, blades of the flag leaves often greatly reduced, often involute. Primary panicles 2-10 cm long, 0.5-7 cm wide, open or contracted, well-exserted. Spikelets 1.7-3.6 mm long, 1.2-1.8 mm wide, obovoid to ellipsoid, biconvex in side view, glabrous or pubescent, bases narrow to attenuate, apices blunt or pointed to beaked. Lower glumes thin, weakly veined, about 1/3 as long as the spikelets, attached to 0.5 mm below upper glumes, clasping at the base, broadly triangular to rounded; upper glumes with 5-9 prominent veins; lower florets sterile; upper florets apiculate. 2n = 18.</description>
+  <discussion>Dichanthelium aciculare grows in sandy, open areas in the southeastern United States, the West Indies and the Caribbean, southern Mexico, Central America, and northern South America. It has not been reported from northern Mexico. The primary panicles are open-pollinated (sometimes briefly) and develop from April to June; the secondary panicles are cleistogamous and develop from May into late fall.
+The subspecies are often distinct when growing together, perhaps maintained by the predominant autogamy, but they are more difficult to separate over wider geographic areas. Rare, partly fertile putative hybrids with Dichanthelium consanguineum, D. acuminatum, D. ovale, D. portoricense, and (possibly) D. dichotomum apparently lead to some intergradation with these species.
+</discussion>
+  <key>
+    <key_body>
+1. Primary panicles usually contracted; branches appearing 1-sided; culms sparsely pubescent to almost glabrous  .....subsp. neurantbum
+1. Primary panicles not contracted; branches not appearing 1-sided; culms usually pubescent, at least on the lower internodes. 
+2. Spikelets 1.7-2.3 mm long, with blunt apices ..... subsp. aciculare
+2. Spikelets 2.4-3.6 mm long, with pointed or beaked apices.
+3. Spikelets 2.4-3 mm long, not strongly attenuate at the base; lower glumes attached less than 0.2 mm below the upper glumes  .....subsp. angustifolium
+3. Spikelets 2.9-3.6 mm long, strongly attenuate at the base; lower glumes attached 0.3-0.5 mm below the upper glumes   .....subsp. fusiforme
+
+    </key_body>
+  </key>
+</bio:treatment>

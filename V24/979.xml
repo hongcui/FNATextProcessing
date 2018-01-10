@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Vahlodea atropurpurea (Wahlenb.) Fr. ex Hartm. </name_authority_date>
+  </taxon_identification>
+  <common_names>MOUNTAIN HAIRGRASS, DESCHAMPSIE POURPRE</common_names>
+  <description type="morphology">Culms 15-80 cm, erect. Leaves glabrous or pilose; lower sheaths usually retrorsely hirsute, some¬times glabrous; uppermost sheaths smooth or scabridulous; ligules 0.8-3.5 mm, rounded to truncate, often lacerate and ciliate; blades flat, blades of the lower leaves to 30 cm long, 1-8.5 mm wide, blades of the flag leaves 1-10 cm long, 1-5 mm wide. Panicles 3-20 cm; pedicels smooth or scabrous-pubescent. Spikelets 4-7 mm. Glumes usually smooth or scabrous on the keels and marginal veins; lower glumes 4-5(6.5) mm; upper glumes 4-5.5(7) mm; lemmas 1.8-3 mm, apices scabrous, ciliate, awns 2-4 mm; anthers 0.5-1.2 mm. Caryopses 1-1.5 mm. 2n = 14.</description>
+  <discussion>Vahlodea atropurpurea grows in moist to wet, open woods, forest edges, streamsides, snowbeds, and meadows, in montane to alpine and subarctic habitats. Plants from northwestern North America tend to have wider, more pubescent leaves and shorter lemma hairs than those elsewhere. They are sometimes treated as a distinct taxon, but the variation is continuous.
+ 
+</discussion>
+</bio:treatment>

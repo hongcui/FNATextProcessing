@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>19</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Calamagrostis rubescens Buckley </name_authority_date>
+  </taxon_identification>
+  <common_names>PINEGRASS, PINE REEDGRASS</common_names>
+  <description type="morphology">Plants sometimes with sterile culms; sometimes loosely cespitose, usually with rhizomes 15+ cm long, 1.5-2 mm thick. Culms (50)60-100(105) cm, unbranched, usually smooth, rarely slightly scabrous beneath the panicles; nodes (1)2-3(4). Sheaths smooth or slightly scabrous; collars often hairy, rarely glabrous; ligules (2)3-5(6) mm, truncate to obtuse, often lacerate; blades (6)8-40(42) cm long, (1)2-5(8) mm wide, usually flat, abaxial surfaces smooth or slightly scabrous, adaxial surfaces smooth or scabrous, glabrous or sparsely hairy. Panicles (5)6-15(25) cm long, (0.7)1.5-2(2.7) cm wide, contracted to somewhat open, erect, usually greenish, infrequently purplish; branches (1.2)2-4(10) cm, usually slightly scabrous, rarely densely long-scabrous, spikelet-bearing to the base. Spikelets (3)4-4.5(5.5) mm; rachilla prolongations 0.6-1.5(2) mm, hairs 1.2-2 mm. Glumes rounded to slightly keeled, mostly smooth, keels rarely slightly scabrous, lateral veins usually obscure, rarely prominent, apices acute; callus hairs (0.5)1-1.5(2.5) mm, 0.2-0.5(0.7) times as long as the lemmas, sparse; lemmas 2.5-3.5(4) mm, (0.5)1-2 mm shorter than the glumes; awns 2.8-3.5(4.5) mm, usually attached to the lower 1/5 of the lemmas, rarely higher, exserted, stout and readily distinguished from the callus hairs, strongly bent; anthers (1)1.3-2(2.6) mm. 2n = 28, 42, 56.</description>
+  <discussion>Calamagrostis rubescens grows at 50-2800 m, usually in open montane pine or aspen forests and parklands, infrequently in sagebrush steppes, chaparral, and meadows. It is primarily a species of interior western North America, although it reaches the Pacific coast in southern California. The distribution extends from central British Columbia and Alberta east to the Cypress Hills of eastern Alberta and the Pasquia and Cub hills of Saskatchewan, south to western California, Nevada, northeastern Utah, and central Colorado. It is considered threatened in Saskatchewan.
+Calamagrostis rubescens is similar to C. koelerioides (p. 721). The two have traditionally been distinguished by the presence of hairs on the leaf collars of C. rubescens, and their absence from C. koelerioides; a more reliable differentiation is the shorter lemmas, glumes, and awns of C. rubescens.
+ 
+Calamagrostis rubescens and C. porteri (p. 721) appear to be closely related. They may be part of the general phenomenon of eastern and western vicariants.</discussion>
+</bio:treatment>

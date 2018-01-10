@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Polytrias amaura (Biise) Kuntze </name_authority_date>
+  </taxon_identification>
+  <common_names>JAVA GRASS</common_names>
+  <description type="morphology">Plants highly stoloniferous. Culms 10-40 cm, decumbent, rooting at the lower nodes, erect portions 10-20 cm; nodes pubescent; internodes glabrous. Leaves cauline, often purplish; sheaths keeled, pubescent basally and sometimes sparsely so distally, margins ciliate; ligules 0.2-0.5 mm, truncate; blades 0.5-7 cm long, 1-7 mm wide, flat, pubescent. Rames 2-3 cm; internodes 2-3 mm, flat, ciliate on the edges and distally. Sessile spikelets 3-4 mm, ovate, pilose, brown or yellow-brown; calluses blunt; glumes concealing the floret; lower glumes 2-3 mm; lemmas about 1 mm; awns 4-12 mm, exserted, geniculate, twisted below the bend, brown. Pedicels 4-4.5 mm, slender, free of the rame axes. Pedicellate spikelets similar to the sessile spikelets or somewhat smaller, sometimes staminate. Caryopses 1.5-1.8 mm. 2n = 20.</description>
+  <discussion>Polytrias amaura is native to southeastern Asia. It used as a lawn grass in tropical and subtropical regions, including Florida. It gives a purplish cast to a lawn.</discussion>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Andropogon ternarius Michx. var. ternarius</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Rames sparsely villous; internode hairs about as long as, but not obscuring, the sessile spikelets. Lower glumes of sessile spikelets scabrous, often with 2 conspicuous veins between the keels.</description>
+  <discussion>Andropogon ternarius var. ternarius grows in dry, sandy woods, fields, openings, and roadsides of the southeastern United States and Mexico.</discussion>
+</bio:treatment>

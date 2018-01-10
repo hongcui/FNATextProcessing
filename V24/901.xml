@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Deschampsia danthonioides (Trin.) Munro</name_authority_date>
+  </taxon_identification>
+  <common_names>ANNUAL HAIRGRASS</common_names>
+  <description type="morphology">Plants annual; tufted. Culms 10-40(70) cm, erect. Leaves not forming a basal tuft; ligules (0.5)2-3(4.7) mm, acute to acuminate, entire; blades 0.3-1.5 mm wide, involute or flat. Panicles 5-15(25) cm long, 2-8 cm wide, contracted to open, erect; branches with the spikelets confined to the distal portion. Spikelets 4-9 mm, bisexual, narrowly V-shaped, usually pale green. Glumes exceeding the distal florets, glabrous to scabridulous, 3-veined; lower glumes 4-9 mm; upper glumes 3.5-8.5 mm; callus hairs 0.4-1.6 mm; lemmas 1.5-3 mm, smooth, shiny, glabrous, pale green or purplish, apices blunt, erose to 4-toothed, ciliate, awns 4-9 mm, attached from near the base to about the middle of the lemmas, strongly geniculate, geniculation above the lemma apices, distal segment 1.5-5 mm; anthers 0.3-0.5 mm. 2n = 26.</description>
+  <discussion>Deschampsia danthonioides grows in temperate and cool-temperate regions, usually in open, wet to dry habitats and often in disturbed ground. Its primary range extends from southern British Columbia, through Washington and Idaho, to Baja California, Mexico. It also grows, as a disjunct, in Chile and Argentina.
+Records from the Yukon Territory date from the late 1800s and early 1900s; it has not been seen since in the region. Records from east of the primary region are also probably introductions; it is not known whether the species has persisted at these locations.
+</discussion>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>31</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis plana Nees </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, with innovations, without rhizomes. Culms 65-100 cm, erect, glabrous. Sheaths flattened, smooth, shiny, glabrous or puberulent; ligules 0.2-0.4 mm; blades 15-50(70) cm long, 2-4 mm wide, folded, margins involute or revolute, abaxial surfaces glabrous or sparsely hairy, adaxial surfaces scabridulous. Panicles 13-28 cm long, 2-8 cm wide, narrowly oblong to narrowly lanceolate, contracted to open; primary branches 1-8 cm, appressed or diverging up to 30° from the rachises; pulvini glabrous or hairy; pedicels 1-7 mm, appressed, glabrous. Spikelets 6-14 mm long, 1.3-2.5 mm wide, linear-oblong, greenish to plumbeous, with 9-14 florets; disarticulation acropetal, paleas persistent. Glumes narrowly ovate to lanceolate, membranous to hyaline; lower glumes 0.4-1.2 mm, scalelike; upper glumes 1-1.5 mm; lemmas 1.8-3 mm, ovate, membranous, strongly keeled, keels with minute punctate glands, lateral veins conspicuous, apices acute to obtuse; paleas 1.8-3 mm, hyaline to membranous, bases not projecting beyond the lemmas, apices obtuse to truncate; anthers 3, 1.2-1.8 mm, reddish-purple. Caryopses 1-1.6 mm, rectangular-prismatic to ovoid, laterally compressed, adaxial surfaces deeply grooved, smooth, opaque, reddish-brown. 2n = 20.</description>
+  <discussion>Eragrostis plana is native to southern Africa. It is known from two locations in the Flora region, both waste areas near sheep and cattle lots in Florence County, South Carolina.</discussion>
+</bio:treatment>

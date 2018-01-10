@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>17</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Leymus californicus (Bol. ex Thurb.) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>CALIFORNIA BOTTLEBRUSH</common_names>
+  <description type="morphology">Plants loosely cespitose, rhizomatous. Culms 70-200 cm, erect, solitary. Leaves exceeded by the spikes; sheaths with stiff, 1-3 mm hairs; auricles 1-6 mm; ligules 1-5 mm; blades 6-28 mm wide, lax, flat, scabrous, glabrous, or thinly pilose above. Spikes 10-30 cm long, 2-5 cm  
+wide, erect to nodding, lax, nodes with 2-4(5) spikelets, the basal spikelets often on 1-3 mm pedicels; internodes 7-11(15) mm. Spikelets 12-17 mm, appressed to spreading, with 2-5 florets. Glumes absent or shorter than 1 mm; lemmas 10-15 mm, sparsely scabrous to appressed hispid, awned, awns 16-33 mm, straight; anthers 6-8 mm, dehiscent. 2n = 56.
+</description>
+  <discussion>Leymus californicus is endemic to coniferous forests near the coast in western California, from Sonoma to Santa Cruz counties, at elevations from near sea level to 300 m. It used to be included in Hystrix Moench, a genus that was described as lacking glumes. The type species of Hystrix has since been shown to be more closely related to species of Elymus than to other species placed in Hystrix which, with the exception of L. californicus, are native to eastern Asia. Transfer of L. californicus, and some of the other species formerly placed in Hystrix, to Leymus is supported by molecular data (Jensen and Wang 1997; Mason-Gamer 2001). The situation with respect to L. californicus illustrates the danger of circumscribing a taxon by its lack of a character. In this case, it appears that reduction in the glumes has taken place within both Elymus and Leymus.
+Leymus californicus is unusual among the other species of Leymus in the contiguous United States in growing in a forested habitat, but L. innovatus also grows in forests, and some of the Chinese species that have traditionally been placed in Hystrix are also reported to grow in forest habitats. Indeed, these similarities, plus its restriction to the vicinity of San Francisco, suggest the possibility that L. californicus is an introduced Chinese species.
+</discussion>
+</bio:treatment>

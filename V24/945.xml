@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>14.31</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>PHLEUM L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; cespitose, sometimes rhizomatous, occasionally stoloniferous. Culms 2-150 cm, erect or decumbent; nodes glabrous. Sheaths open; auricles absent or inconspicuous; ligules membranous, not ciliate; blades usually flat. Inflorescences dense, spikelike panicles, more than 1 spikelet associated with each node; branches often shorter than 2 mm, always shorter than 7 mm, stiff; pedicels shorter than 1 mm, sometimes fused; disarticulation above the glumes or, late in the season, beneath the glumes. Spikelets strongly laterally compressed, bases usually U-shaped, sometimes cuneate, with 1 floret; rachillas glabrous, sometimes prolonged beyond the base of the floret. Glumes equal, longer and firmer than the florets, stiff, bases not connate, strongly keeled, keels usually strongly ciliate, sometimes glabrous, sometimes scabrous, 3-veined, apices truncate to tapered, midveins often extending into short, stiff, awnlike apices; calluses blunt, glabrous; lemmas white, often translucent, not keeled, 5-7-veined, unawned, bases not connate, apices acute, entire, sometimes with a weak, subapical awn; paleas subequal to the lemmas, 2-veined; lodicules 2, free, glabrous, toothed; anthers 3; ovaries glabrous. Caryopses elongate-ovoid; embryos 1/6 – 1/4 the length of the caryopses. x = 7. 
+ 
+</description>
+  <discussion>Phleum is a genus of approximately 15 species, most of which are native to Eurasia. One species, P. alpinum, is native to the Flora region and six are introduced. One of the introduced species, P. pratense, has been established in the region for a long time. It is also widely cultivated as a fodder grass, both in the Flora region and in other parts of the world. Phleum phleoides was first recognized as being present in the Flora region in 1990. Phleum exaratum has been reported from the United States. No specimens supporting the report have been seen. It resembles P. arenarium (p. 675), but has anthers 1.5-2 mm long rather than 0.3-1.2 mm, and an inflorescence that is rounded at the base.
+Species of Phleum are sometimes mistaken for Alopecurus, but Alopecurus has obtuse to acute glumes that are unawned or taper into an awn, lemmas that are both awned and keeled, and paleas that are absent or greatly reduced. The species of Phleum that are most abundant in the Flora region are easily recognized by their strongly ciliate, abruptly truncate, awned glumes and adnate panicle branches. In addition, in Phleum the lemmas are not keeled, and the paleas are always subequal to the lemmas.
+</discussion>
+  <references>Humphries, C.J. 1978. Notes on the genus Phleum. Bot. J. Linn. Soc. 76:337-340; Kula, A., B. Dudziak, E. Sliwinska, A. Grabowska-Joachimiak, A. Stewart, H. Golczyk, and A.J. Joachimiak. 2006. Cytomorphological studies on American and European Phleum commutation Gaud. (Poaceae). Acta Biol. Cracov., Ser. Bot. 48:99-108.</references>
+  <key>
+    <key_body>
+1. Plants perennial.
+2. Panicles tapering distally; panicle branches free from the rachis; glumes scabrous to shortly ciliate on the keels; plants known, in the Flora region, only from British Columbia  .....3. P. phleoides 
+2. Panicles not tapering distally; panicle branches adnate to the rachises; glumes conspicuously ciliate on the keels; plants widespread in the Flora region. 
+3. Sheaths of the flag leaves not inflated; panicles 2-14(17) cm long, 5-20 times as long as wide; lower internodes of the culms frequently enlarged or bulbous; widespread in the Flora region .....1. P. pratense
+3. Sheaths of the flag leaves inflated; panicles 1-6 cm long, usually 1.5-3 times as long as wide; lower internodes of the culms not enlarged or bulbous .....2. P. alpinum
+1. Plants annual.
+4. Glume apices abruptly truncate  .....4. P. paniculatum
+4. Glume apices gradually narrowed to tapered.
+5. Glumes semi-elliptical in outline, apices pointing towards each other; keels usually glabrous, sometimes scabrous .....5. P. subulatum
+5. Glumes oblong-lanceolate, apices parallel or divergent; keels ciliate.....6. P. arenarium
+ 
+
+    </key_body>
+  </key>
+</bio:treatment>

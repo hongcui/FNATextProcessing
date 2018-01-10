@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Andropogon virginicus var. glaucus Hack.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 60-180 cm. Leaves bluish-green, more or less strongly glaucous. Inflorescence units with 2(3) rames; subtending sheaths (2.7)3.1-3.8(5.5) mm wide; peduncles (2)3-4(10) mm; rames (1.4)1.7-3(4) cm, not exserted.</description>
+  <discussion>Andropogon virginicus var. glaucus grows on moist or dry soils of the coastal plain, from southern New Jersey to eastern Texas. Plants growing on sandy, well-drained soils differ from those on poorly drained slopes in being glabrous (rather than pubescent) beneath the subtending sheaths of the inflorescence units, and in tending to have shorter rames.</discussion>
+</bio:treatment>

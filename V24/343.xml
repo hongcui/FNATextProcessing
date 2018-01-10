@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Hordeum pusillum Nutt. </name_authority_date>
+  </taxon_identification>
+  <common_names>LITTLE BARLEY</common_names>
+  <description type="morphology">Plants annual; loosely tufted. Culms 10-60 cm, erect, geniculate, or ascending; nodes glabrous. Sheaths glabrous or slightly pubescent; ligules 0.2-0.8 mm; auricles absent; blades to 10.5 cm long, to 4.5 mm wide, sparsely to densely pubescent on both sides. Spikes 2-9 cm long, 3-7 mm wide, erect, often partially enclosed at maturity, pale green. Glumes straight, not divergent at maturity. Central spikelets: glumes 8-17 mm long, 0.5-1.5 mm wide, distinctly flattened near the base; lemmas 5-8.5 mm, usually glabrous, sometimes sparsely to densely pubescent, awned, awns 3.5-9.5 mm; anthers 0.7-1.8 mm. Lateral spikelets usually sterile; glumes to 18 mm; lower glumes distinctly flattened, more or less winged basally; lemmas 2.5-5.7 mm, usually awned, awns to 1.8 mm, rarely unawned; anthers 0.6-1.2 mm. 2n = 14.</description>
+  <discussion>Hordeum pusillum grows in open grasslands, pastures, and the borders of marshes, and in disturbed places such as roadsides and waste places, often in alkaline soil. It is native, widespread, and often common in much of the Flora region. Its range extends into northern Mexico, but it is not common there.</discussion>
+</bio:treatment>

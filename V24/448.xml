@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Elymus elymoides subsp. californicus (J.G. Sm.) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>CALIFORNIA SQUIRRELTAIL</common_names>
+  <description type="morphology">Culms 8-40 cm, erect or decumbent. Blades usually glabrous abaxially, sometimes puberulent. Spikes 3-10 cm, often partly included, usually with 2 spikelets per node. Spikelets with (1)2-3 fertile florets, lowest 1-2 florets sterile and glumelike. Glume awns 15-40(70) mm, entire; lemma awns 25-70 mm, usually exceeding those of the glumes; paleas often with the veins extended as 1-2 mm bristles.</description>
+  <discussion>Elymus elymoides subsp. californicus grows in mid-montane to arctic-alpine habitats in western North America, at elevations of 1500-4200 m. Plants transitional to subsp. elymoides occur where the two are sympatric.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthelium leibergii (Vasey) Freckmann </name_authority_date>
+  </taxon_identification>
+  <common_names>LEIBERGS PANICGRASS</common_names>
+  <description type="morphology">Plants cespitose, with knotty rhizomes no more than 2 mm thick. Basal rosettes well-differentiated; blades few, small, ovate to lanceolate. Culms 24-80 cm, glabrous or puberulent; nodes sparsely , spreading-pilose; internodes mostly elongated, glabrous or puberulent; fall phase with a few suberect branches from the lower and midculm nodes, blades slightly reduced, secondary panicles partially exserted. Cauline leaves 3-4; sheaths not overlapping, with ascending papillose-based hairs; ligules 0.3-0.5 mm, membranous, ciliate, cilia longer than the membranous portion; blades 5-15 cm long, 7-13 mm wide, ascending to erect, sparsely to densely pubescent with papillose-based hairs, with 9-11 prominent major veins and 25-50 minor veins, bases truncate to cordate, margins with papillose-based cilia. Panicles 6-10 cm long, 3-5 cm wide, their length usually less than twice their width, eventually well-exserted, with 20-40 spikelets; branches spreading to ascending. Spikelets 3.3-3.8 mm long, 1.6-2 mm wide, ellipsoid-obovoid, turgid, pubescent, hairs papillose-based, apices rounded. Lower glumes about 1.8 mm, narrowly triangular; lower florets staminate; upper florets mucronate. 2n = 18.</description>
+  <discussion>Dichanthelium leibergii grows primarily on prairie relics, but is occasionally found in sandy woodlands. It is restricted to the Flora region. The primary panicles are produced from mid-May through July, the secondary panicles from late June to September. Sterile putative hybrids with D. acuminatum and D. xantho-physum are occasionally found.</discussion>
+</bio:treatment>

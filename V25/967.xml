@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Danthonia californica Bol. </name_authority_date>
+  </taxon_identification>
+  <common_names>CALIFORNIA OATGRASS</common_names>
+  <description type="morphology">Culms (10)30-130 cm, disarticulating at the nodes at maturity. Sheaths glabrous or pilose, upper sheaths usually glabrous or unevenly pilose; blades 10-30 cm long, (1)2-5(6) mm wide, flat to rolled or involute, glabrous or pilose, uppermost cauline blades strongly divergent to reflexed at maturity. Inflorescences usually racemose, with (2)3-6(10) widely-spreading spikelets; branches flexible, strongly  
+divergent to reflexed at maturity, pulvini usually present at the base; pedicels on the lowest branch longer than the spikelets, often crinkled. Spikelets (10)14-26(30) mm. Calluses of middle florets usually longer than wide, concave abaxially; lemma bodies 5-10 mm, glabrous or sparsely pilose over the back, margins pubescent (rarely glabrous), apical teeth (2)4-6(7) mm, aristate; awns (7)8-12 mm; anthers to 4 mm. Caryopses 2.5-4.2 mm long, 1.3-1.6 mm wide. 2n = 36.
+</description>
+  <discussion>Danthonia californica grows in prairies, meadows, and open woods. It has a disjunct distribution, one por¬tion of its range being located in western North America, the other in Chile. An introduced population has been found at Mansfield, Massachusetts.
+Plants with pilose foliage have been called Danthonia californica var. americana (Scribn.) Hitchc. and plants with sparsely pilose lemma backs D. californica var. macounii Hitchc, but the variation does not appear to be taxonomically significant.
+</discussion>
+</bio:treatment>

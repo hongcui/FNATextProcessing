@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>John R. Reeder</author>
+    </source>
+  </meta>
+  <number>18.02</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>ENNEAPOGON Desv. ex P. Beauv.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial or annual; cespitose, more or less hairy throughout. Culms 3-100 cm; nodes hairy; internodes hollow. Sheaths open; ligules of hairs; microhairs of blades each with an elongated basal cell and an inflated terminal cell. Inflorescences terminal, spikelike to somewhat open panicles, bases often included within the uppermost leaf sheath; disarticulation above the glumes but not between the florets, florets falling as a unit. Spikelets with 3-6 florets, frequently only the lowest floret bisexual, distal florets progressively reduced. Glumes subequal, as long as or slightly shorter than the florets (including the awns), more or less pubescent; lower glumes 5-7-veined; lemmas firm, rounded on the backs, villous below the middle, strongly 9-veined, veins extending into equal, plumose awns 3-5 times as long as the lemma bodies and forming a pappuslike crown; paleas longer than the lemmas, entire, thinly membranous, 2-veined, 2-keeled, keels hairy; anthers 3, 0.2-1.5 mm; styles 2, free to the base, white, x = 10. </description>
+  <discussion>Enneapogon includes about 28 species. It is found in tropical and warm regions of the world, especially in Africa and Australia. Two species are found in the Flora region: one is native, and one is an introduction that has become established in the region.</discussion>
+  <key>
+    <key_body>
+1. Culms 50-100 cm tall, about 2 mm thick; panicles loosely contracted to somewhat open, up to 3 cm wide at maturity; plants annual  .....1. E. cenchroides
+1. Culms 20-45 cm tall, up to 1 mm thick; panicles usually tightly cylindrical, rarely more than 1 cm wide; plants perennial ..... 2. E. desvauxii
+
+    </key_body>
+  </key>
+</bio:treatment>

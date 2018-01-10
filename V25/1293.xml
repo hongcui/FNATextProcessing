@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Panicum sect. Phanopyrum Raf.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; stoloniferous. Culms thick, decumbent, succulent, rooting profusely at the lower nodes. Ligules membranous. Panicles open; branches spikelike, stiffly ascending, with secund clusters of shortly pedicellate to sessile spikelets. Spikelets 6-7 mm, lanceoloid, laterally compressed, glabrous. Lower glumes 4/5 as long as the spikelets, 3-veined; upper glumes and lower lemmas 3-veined; lower paleas small, lanceolate; upper florets about 1/3 as long as the spikelets, obovoid, stipitate.</description>
+  <discussion>Panicum sect. Phanopyrum includes only P. gymnocarpon.</discussion>
+</bio:treatment>

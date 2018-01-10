@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>21</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis unioloides (Retz.) Nees ex Steud. </name_authority_date>
+  </taxon_identification>
+  <common_names>CHINESE LOVEGRASS</common_names>
+  <description type="morphology">Plants annual; tufted, without innovations, without glands. Culms 10-50 cm, erect, glabrous below the nodes. Leaves mostly basal; sheaths mostly glabrous, apices pilose, hairs 0.4-3 mm; ligules 0.1-0.2 mm, ciliate; blades (1.8)5-12 cm long, 2-6 mm wide, flat to involute, abax-ial surfaces glabrous, adaxial surfaces scabridulous and glabrous or sparsely hairy, hairs appressed. Panicles 6-15 cm long, 0.5-7 cm wide, ovate, open to contracted; primary branches 0.2-5 cm, appressed or diverging up to 70° from the rachises, glabrous; pulvini glabrous; pedicels 2-8 mm, glabrous. Spikelets 4-8(10) mm long, (1.6)2-4 mm wide, ovate-lanceolate, loosely imbricate, straw-colored to purplish, with 12-42 florets; disarticulation acropetal, paleas not persistent, rachillas persistent. Glumes ovate-lanceolate to lanceolate, hyaline to membranous; lower glumes 1-1.8 mm; upper glumes 1-2.2 mm; lemmas 1.5-1.9 mm, broadly ovate, membranous, lateral veins raised, apices obtuse to acute; paleas 1.4-1.9 mm, hyaline, keels scabridulous, apices acute to obtuse; anthers 2, 0.2-0.4 mm, purplish. Caryopses 0.6-0.9 mm, ellipsoid, laterally compressed, not grooved, smooth, light brown. 2n = 20, ca. 30.</description>
+  <discussion>Eragrostis unioloides is an Asian species that is now established in the southeastern United States, growing along roadsides and in disturbed ground, at 20-150 m.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Aristida purpurea Nutt. var. purpurea </name_authority_date>
+  </taxon_identification>
+  <common_names>PURPLE THREEAWN</common_names>
+  <description type="morphology">Culms 26-60 cm. Blades 3-17 cm, basal and cauline, involute. Panicles 10-25 cm; primary branches appressed at the base, without axillary pulvini, capillary, drooping to sinuous distally; pedicels capillary, usually lax to sinuous. Lower glumes 4-9 mm; upper glumes 7-16 mm; lemmas 6-12 mm long, narrowing to 0.1-0.3 mm wide; awns subequal, (15)20-60 mm long, 0.1-0.3 mm wide at the base. 2n = 22, 44, 66, 88.</description>
+  <discussion>Aristida purpurea var. purpurea grows in sandy to clay soils, along right of ways, or on dry slopes and mesas. Its range extends from the Flora region to Mexico and Cuba. As treated here, var. purpurea is, admittedly, a broadly defined taxon, incorporating slender plants with small spikelets that used to be referred to A. roemeriana Scheele, but also occasional plants with somewhat flexible branches that are intermediate to var. wrightii and var. nealleyi.</discussion>
+</bio:treatment>

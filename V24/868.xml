@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Cutandia memphitica (Spreng.) K. Richt. </name_authority_date>
+  </taxon_identification>
+  <common_names>MEMPHIS GRASS</common_names>
+  <description type="morphology">Culms 4-35(42) cm, prostrate, geniculate, or erect, somewhat stiff. Sheaths inflated, glabrous; ligules 2-5 mm, truncate to acute, entire to erose; blades mostly 2-10 cm long, 1-4 mm wide, glabrous. Panicles 3-18 cm; branches usually 1(2) per node, branches and pedicels strongly divaricate at maturity; pedicels of lateral spikelets 0.3-0.6(1.5) mm, sharply angular. Spikelets 7-10.5 mm, oblanceolate, with 2-3(4) florets; rachilla  
+internodes 1.5-3 mm. Glumes acute to acuminate, 1-veined, veins excurrent to 0.4 mm; lower glumes 3.5-5 mm; upper glumes 4.5-6 mm; lemmas 5.8-7.5 mm, smooth or scabridulous on the midvein, emarginate to shortly bifid, mid veins excurrent to 1.2 mm; anthers 1-2 mm. 2n = 14.
+</description>
+  <discussion>Cutandia memphitica is native to maritime sands, inland dunes, sandy gravel, and gypsum soils in the Mediterranean region and Middle East. In the Flora region, it was collected in sandy soil at a nursery at Devil's Canyon in the San Bernardino Mountains, California, in 1933. How it got there and whether it persists are not known.
+ 
+</discussion>
+</bio:treatment>

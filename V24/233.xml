@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>xAchnella caduca (Beal) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>DROPAWN</common_names>
+  <description type="morphology">Culms 50-90 cm, glabrous. Basal sheaths mostly glabrous, margins and throats usually ciliate; ligules 0.5-1.7 mm, truncate-rounded; blades 1-3.5 mm wide. Panicles 15-18 cm; branches ascending. Lower glumes 6-8.5 mm long, 1-1.6 mm wide; florets 4-5 mm; calluses about 0.7 mm; lemmas 7-veined, hairy, hairs 1-2 mm, apices awned; awns 9-16 mm, readily  
+deciduous; paleas 2.5-3.3 mm, 2/3 - 3/4 the length of the lemmas, hairy; anthers 2, 1.7-2.3 mm, differing in length within the florets, indehiscent. 2n = 65.
+</description>
+  <discussion>xAchnella caduca is a sterile hybrid between Achnatherum hymenoides and Nassella viridula that occurs infrequently in Montana and Wyoming. It differs from Achnatherum hymenoides in its longer glumes and florets; from Nassella viridula in its more saccate glumes, longer lemma hairs, and well-developed palea; and from other hybrids involving Achnatherum hymenoides in its readily deciduous awn.</discussion>
+</bio:treatment>

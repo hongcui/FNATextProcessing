@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Triplasis americana P. Beauv. </name_authority_date>
+  </taxon_identification>
+  <common_names>PERENNIAL SANDGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose. Culms 30-80 cm, usually erect; nodes and internodes appressed pubescent. Sheaths glabrous or pilose, margins ciliate; ligules to 2 mm, membranous, ciliate; blades to 20 cm long, usually less than 2 mm wide, filiform, scabrous adaxially. Panicles 1-5 cm long, 1-3 cm wide, occasionally reduced to a raceme. Spikelets 9-12 mm, with 2-5 florets. Glumes subequal, 3.4-4.5 mm, acuminate; lemmas 4-8 mm, lobes 4.5-8 mm, tapering to the acute apices; awns 8-11 mm, divergent; paleas 2-3 mm, keels ciliate; anthers 1.5-2 mm, yellow. Caryopses 1.5-2.5 mm, ovoid, tan. 2n = unknown.</description>
+  <discussion>Triplasis americana is endemic to the southeastern United States. It grows on sandy soils in prairies and woods, being less common in maritime dunes than Triplasis purpurea.</discussion>
+</bio:treatment>

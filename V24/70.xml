@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Nardus stricta L. </name_authority_date>
+  </taxon_identification>
+  <common_names>MATGRASS, NARDE RAIDE</common_names>
+  <description type="morphology">Culms (3)10-40(60) cm, stiff, wiry, frequently gray-green; nodes 1(2) per culm, restricted to the lower portion of the culms, pubescent; internodes glabrous. Sheaths smooth, whitish, tough; ligules 0.5-1(2) mm, blunt; blades 4-30 cm long, 0.5-1 mm wide, stiff, tightly convolute, abaxial surfaces hispid, hairs about 0.3 mm, adaxial surfaces scabridulous, ribbed over the veins, apices sharply acute. Spikes (1)3-8 cm, terminating in a single bristle, bristle to 1 cm. Spikelets 5-10 mm, narrowly linear, triangular in cross section, bluish or purplish; lemmas 5-10 mm, 2-3-keeled, awned, awns 1-4.5 mm; paleas slightly shorter than the lemmas; anthers 1-4 mm. Caryopses 3-4.5 mm, tighdy enclosed by the lemma and palea. 2n = 26.</description>
+  <discussion>Nardus stricta is a widespread xerophytic and glycophytic species in Europe, usually growing in open areas on sandy or peaty soils. In the Flora region, it is found in scattered locations from upper Michigan to Newfoundland and Greenland, and in Oregon and Idaho, where it is listed as a state noxious weed. The stiff, sharp leaves make it unpalatable; hence it tends to survive in areas of heavy grazing. This, combined with its broad ecological range, makes its potential for spreading in western rangelands a matter of concern.</discussion>
+</bio:treatment>

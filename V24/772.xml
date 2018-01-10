@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>37</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa confinis Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>COASTAL BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; densely to loosely tufted, rhizomatous and stoloniferous, rhizomes and stolons to 1 m, slender. Basal branching mainly intravaginal, some extravaginal. Culms 7-30 (35) cm tall, 0.4-0.9 mm thick, slender, erect or the bases decumbent, terete or weakly compressed; nodes terete, 0-1 exserted. Sheaths closed for 1/3-2/3 their length, terete, smooth, glabrous, bases of basal sheaths glabrous, distal sheath lengths (1)1.4-4.5 times blade lengths; collars smooth, glabrous; ligules 0.5-1.5(2.2) mm, scabrous, truncate to acute; innovation blades adaxially moderately to densely scabrous or hispidulous on and between the veins; cauline blades slightly reduced in length distally, 0.5-1(1.5) mm wide, involute, thin to moderately thick, usually filiform, soft, abaxial surfaces smooth, adaxial surfaces sparsely scabrous on and between the veins, apices narrowly prow-shaped, flag leaf blades (0.5)1-5 cm. Panicles 1-5(7) cm, erect, ovoid, fairly tightly to loosely contracted, congested or moderately congested, with fewer than 50 spikelets; nodes with 1-2 branches; branches 0.5-3 cm, erect to ascending, slightly lax, terete or angled, angles sparsely to densely scabrous, with 2-12 spikelets. Spikelets 3-6(8) mm, lengths to 3 times widths, laterally compressed, compact, not sexually dimorphic; florets 2-5; rachilla internodes 0.8-1.1 mm, usually not readily visible from the sides, glabrous or sparsely puberulent. Glumes slightly unequal, distinctly keeled, keels smooth or scabrous; lower glumes 2-4 mm, 1-3-veined, about 2/3 the length of the adjacent lemmas; upper glumes 2.9-5 mm; calluses usually diffusely webbed, hairs 1-2 mm, infrequently glabrous; lemmas 2.5-4(4.5) mm, lanceolate, distinctly keeled, moderately to densely finely scabrous, glabrous throughout or the keels and sometimes the marginal veins sparsely puberulent proximally, margins narrowly scarious, glabrous, apices acute; paleas subequal to the lemmas, keels scabrous, intercostal regions glabrous; anthers vestigial (0.1-0.2 mm) or 1.5-2 mm. 2n = 42.</description>
+  <discussion>Poa confinis grows on sandy beaches and forest margins of the west coast, a habitat that is being lost to invasion by exotic species and development. It is closely related to P. diaboli (see next), from which it differs by a suite of characters. The two species are ecologically and geographically distinct. Poa confinis differs from P. pratensis (p. 522) in having glabrous or sparsely hairy lemmas and diffusely webbed calluses. It is gyno-dioecious.</discussion>
+</bio:treatment>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>20</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Panicum virgatum L. </name_authority_date>
+  </taxon_identification>
+  <common_names>SWITCHGRASS, PANIC RAIDE</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, rhizomes often loosely interwoven, hard, with closely overlapping scales, sometimes short or forming a knotty crown. Culms 40-300 cm tall, 3-5 mm thick, solitary or forming dense clumps, erect or decumbent, usually simple; nodes glabrous; internodes hard, glabrous or glaucous, green or purplish. Sheaths longer than the lower internodes, shorter than those above, glabrous or pilose, especially on the throat, margins usually ciliate; ligules 2-6 mm; blades 10-60 cm long, 2-15 mm wide, flat, erect, ascending or spreading, glabrous or pubescent, adaxial surfaces sometimes densely pubescent, particularly basally, bases rounded to slightly narrowed, margins scabrous.  Panicles 10-55  cm long,  4-20  cm wide, exserted, open; primary branches thin, straight, solitary to whorled or fascicled, ascending to spreading, scabrous, usually rebranching once; pedicels 0.5-20 mm, appressed to spreading. Spikelets 2.5-8 mm long, 1.2-2.5 mm wide, narrowly lanceoloid, turgid to slightly laterally compressed, glabrous, acuminate. Lower glumes 1.8-3.2 mm, 1/2 - 4/5 as long as the spikelets, glabrous, 5-9-veined, acuminate; upper glumes and lower lemmas extending 0.4-3 mm beyond the upper florets, 7-11-veined, strongly gaping at the apices; lower florets staminate; lower paleas 3-3.5 mm, ovate-hastate, lateral lobes folded over the anthers before anthesis; upper florets 2.3-3 mm long, 0.8-1.1 mm wide, narrowly ovoid, smooth, glabrous, shiny; upper lemmas clasping the paleas only at the base. 2n = 18, 21, 25, 30, 32, 35, 36, 54-60, 67-72, 74, 77, 90, 108.</description>
+  <discussion>Panicum virgatum grows in tallgrass prairies, especially mesic to wet types where it is a major component of the vegetation, and on dry slopes, sand, open oak or pine woodlands, shores, river banks, and brackish marshes. Its range extends, primarily on the eastern side of the Rocky Mountains, from southern Canada through the United States to Mexico, Cuba, Bermuda, and Costa Rica, and, possibly as an introduction, in Argentina. It has also been introduced as a forage grass to other parts of the world.
+Panicum virgatum is an important and palatable forage grass, but its abundance in native grasslands decreases with grazing. Several types are planted for range and wildlife habitat improvement. Plants from eastern New Mexico, western Texas, and northern Mexico tend to have larger spikelets (6-8 mm versus 2.5-5.5 mm) and are sometimes called P. havardii Vasey
+Tetraploids appear to be the most common ploidy level, especially in the upper midwest and northern plains, with higher ploidy levels being more common southwards, but plants in a small area can range from diploid through duodecaploid, with dysploid derivatives. If morphological markers matched chromosome numbers and ecotypic characters, the species could be considered an aggregate of numerous microspecies. In the absence of such correlations, it must be regarded as simply a wide-ranging, highly variable taxon. Plants identified as Panicum virgatum var. cubense Griseb. and P. virgatum var. spissum Linder represent end points of geographic clines.
+Panicum virgatum is not always readily separable from P. amarum, particularly P. amarum subsp. amarulum; future work may support their treatment as conspecific taxa.
+</discussion>
+</bio:treatment>

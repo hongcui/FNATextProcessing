@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>xElyhordeum stebbinsianum (Bowden) Bowden</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 60-80 cm. Blades 3-5 mm wide, abaxial surfaces smooth, adaxial surfaces scabridulous. Inflorescences spikelike, 10-16 cm, with 3 spikelets per node; internodes averaging 3.4 mm. Spikelets with 1-3 florets, the lateral spikelets sessile or pedicellate, pedicels to 3 mm. Glumes 0.5-1 mm wide, terminating in a 4-7 mm awn; lemmas glabrous to scabrous, awned, awns 5-11 mm; anthers indehiscent. 2n = unknown.</description>
+  <discussion>xElyhordeum stebbinsianum consists of hybrids between Elymus glaucus and Hordeum brachy-antherum. Bowden (1958) reported that they appear to be completely sterile. They have been found at scattered locations in western North America.</discussion>
+</bio:treatment>

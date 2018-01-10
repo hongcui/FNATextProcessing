@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Melica porteri var. laxa Boyle </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Panicles open; branches flexible, ascending to patent. Glumes purplish-tinged.</description>
+  <discussion>Melica porteri var. laxa grows from southern Arizona east to the Chisos Mountains, Texas, and south into northern Mexico.</discussion>
+</bio:treatment>

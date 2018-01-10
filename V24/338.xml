@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>51</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus japonicus Thunb.</name_authority_date>
+  </taxon_identification>
+  <common_names>AUSTRALIAN BROME</common_names>
+  <description type="morphology">Plants annual. Culms (22)30-70 cm, erect or ascending. Sheaths usually densely pilose; upper sheaths sometimes pubescent or glabrous; ligules 1-2.2 mm, pilose, obtuse, lacerate; blades 10-20 cm long, 2-4 mm wide, usually pilose on both surfaces. Panicles 10-22 cm long, 4-13 cm wide, open, nodding; branches usually longer than the spikelets, ascending to spreading or somewhat drooping, slender, flexuous, sometimes sinuous, often with more than 1 spikelet. Spikelets 20-40 mm, lanceolate, terete to moderately laterally compressed; florets 6-12, bases concealed at maturity; rachilla internodes concealed at maturity. Glumes smooth or scabrous; lower glumes 4.5-7 mm, (3)5-veined; upper glumes 5-8 mm, 7-veined; lemmas 7-9 mm long, 1.2-2.2 mm wide, lanceolate, coriaceous, smooth proximally, scabrous on the distal 1/2, obscurely (7)9-veined, rounded over the midvein, margins hyaline, 0.3-0.6 mm wide, obtusely angled above the middle, not inrolled at maturity, apices acute, bifid, teeth shorter than 1 mm; awns 8-13 mm, strongly divergent at maturity, sometimes erect, twisted, flattened at the base, arising 1.5 mm or more below the lemma apices; anthers 1-1.5 mm. Caryopses equaling or shorter than the paleas, thin, weakly inrolled or flat. 2n = 14.</description>
+  <discussion>Bromus japonicus grows in fields, waste places, and road verges. It is native to central and southeastern Europe and Asia, and is distributed throughout much of the United States and southern Canada, with one record from the Yukon Territory.</discussion>
+</bio:treatment>

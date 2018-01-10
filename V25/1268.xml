@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>21</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Panicum urvilleanum Kunth </name_authority_date>
+  </taxon_identification>
+  <common_names>SILKY PANICGRASS</common_names>
+  <description type="morphology">Plants perennial. Culms 50-100 cm, erect, solitary or in small tufts from stout, scaly, creeping to vertical rhizomes or stolons, simple or branching at the base; nodes densely villous. Sheaths densely villous; ligules membra¬nous, ciliate, hairs 1.5-2 mm; blades 20-60 cm long, 4-10 mm wide, ascending to spreading, strigose to subglabrous, flat basally, tapering to a long, involute point. Panicles 20-30 cm long, 3-9 cm wide, narrow, shortly exserted; branches slender, ascending; secondary branches and pedicels 1-4 mm, crowded, ascending to appressed. Spikelets 5-7 mm, densely villous, hairs silvery or tawny-white. Lower glumes about 3/4 the length of the spikelets, 7-11-veined; upper glumes and lower lemmas 7-15-veined; lower florets staminate; lower paleas about as long as the lower lemmas; upper florets striate, margins of the upper lemmas villous, hairs white; lodicules very large. 2n = 36.</description>
+  <discussion>Panicum urvilleanum grows on desert sand dunes and in creosote bush scrubland in the Mojave and Colorado desert regions of southern California, southern Nevada, and western Arizona. It also grows in Peru, Chile, and Argentina.</discussion>
+</bio:treatment>

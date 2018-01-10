@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Festuca rubra subsp. fallax (Thuill.) Nyman </name_authority_date>
+  </taxon_identification>
+  <common_names>FLATLEAF RED FESCUE, FÉTUQUE TROMPEUSE</common_names>
+  <description type="morphology">Plants cespitose, strongly rhizomatous, stoloniferous, sometimes with solitary culms. Culms 50-90(130) cm. Sheaths of innovations red-brown at the base, scarious, pubescent on the upper parts, shredding into fibers; blades usually flat and  2-7 mm wide, or loosely  
+conduplicate and 0.8-2.5 mm in diameter; abaxial sclerenchyma in 5-9 broad strands; adaxial sclerenchyma always present. Inflorescences 9-15 cm, open, lax or erect. Spikelets 8-14(17) mm, with (4)6-10 florets. Glumes ovate-lanceolate to lanceolate, acute to acuminate; lower glumes 3.5-4.5(7) mm; upper glumes 5-6.5(8.5) mm; lemmas 5-7.5(9.5) mm, green or glaucous, often red-violet along the margins, glabrous, smooth, awned, awns 0.8-3.2 mm; anthers 3.5-4.5 mm. 2n = 42, 56, 70.
+</description>
+  <discussion>Festuca rubra subsp. fallax is a robust taxon that grows in damp, often disturbed places. It is native to northern and central Europe, but has been introduced widely in the Flora region, occurring from British Columbia to eastern Quebec and south to California. It is now common in some areas, occasional in others.
+Festuca rubra var. fraterculae Rasm., an unusual form described from the nesting colonies of Atlantic puffins (Fratercula arctica) on the Faeroe Islands and reported as introduced to southern Greenland, is included here in F. rubra subsp. fallax. Its luxuriant growth (flat leaves 4-7 mm wide, long stolons, and rhizomes) appears to be a phenotypic response to the soil conditions created by the puffins.
+</discussion>
+</bio:treatment>

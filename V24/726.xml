@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Poa sect. Micrantherae Stapf</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; green; usually neither rhizomatous nor stoloniferous, sometimes stoloniferous, densely to loosely tufted. Basal branching intravaginal. Culms 2-20(45) cm, terete or weakly compressed; nodes terete. Sheaths closed for 1/4-1/3 their length, terete or weakly compressed, smooth, glabrous; collars smooth, glabrous; ligules 0.5-3(5) mm, smooth, glabrous, truncate to obtuse, entire; blades 1-3(6) mm wide, flat or weakly folded, thin, soft, smooth, margins usually slightly scabrous, apices broadly prow-shaped. Panicles 1-7(10) cm, erect, loosely contracted or open, ovoid to pyramidal; nodes with 1-2(5) branches; branches ascending to reflexed, straight, terete, smooth or sparsely scabrous. Spikelets 3-6 mm, lanceolate to narrowly ovoid, laterally compressed, not bulbiferous; florets 2-7, normal, upper 1-2 florets pistillate in some spikelets; rachilla internodes smooth, glabrous. Glumes distinctly keeled, smooth; lower glumes distinctly shorter than the lowest lemmas, 1-veined; upper glumes shorter than to subequal to the lowest lemmas; calluses terete, glabrous; lemmas 1.7-4 mm, distinctly keeled, smooth and glabrous or the keels, marginal veins, and, usually, lateral veins hairy, lateral veins moderately prominent to prominent, intercostal regions glabrous, margins smooth, glabrous, apices whitish, obtuse to acute; palea keels smooth, usually softly puberulent to long-villous, sometimes glabrous; anthers 3, 0.1-2.5 mm, sometimes vestigial in the upper 1-2 florets.</description>
+  <discussion>Poa sect. Micrantberae includes eight species, all of which are native to Eurasia and North Africa. They are gynomonoecious, with smooth or sparsely scabrous panicle branches. The calluses are glabrous in most species; the palea keels are usually hairy.</discussion>
+</bio:treatment>

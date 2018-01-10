@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Brachiaria eruciformis (Sm.) Griseb. </name_authority_date>
+  </taxon_identification>
+  <common_names>SWEET SIGNALGRASS</common_names>
+  <description type="morphology">Plants mat-forming. Culms (10)19-60 cm, decumbent, rooting at the lower nodes before geniculately ascending, sometimes branching from the upper nodes; nodes pubescent; internodes glabrous. Sheaths glabrous or pubescent; ligules to 1 mm; blades 2-6(12) cm long, 3-6 mm wide, pubescent (rarely pilose) on both surfaces, bases subcordate. Panicles 4-9 cm long, 0.5-1 cm wide, exserted, with 3-15 erect to appressed branches; branches 1-2 cm, hispidulous; pedicels 0.1-0.5 mm, pubescent. Spikelets (1.6)2-2.6 mm long, 0.8-1 mm wide, ovate. Lower glumes 0.3-0.5 mm, to 1/5 the spikelet length; upper glumes  (1.6)2-2.5 mm; lower lemmas longer than the paleas, 5-veined, without cross-venation; upper lemmas (1.4)1.7-1.8 mm long, 0.6-0.9 mm wide; anthers 0.5-1 mm, reddish. Caryopses 1-1.5 mm. 2n = 18, 36.</description>
+  <discussion>Brachiaria eruciformis is native from the Mediterranean to tropical Africa and India. It tends to be a weedy species in many parts of the world, growing in moist, disturbed sites. It has been grown for evaluation as a forage crop at various experimental stations in the United States. A few of these plantings have resulted in escapes that have persisted persisted for a short time, but the species has not become an established in the Flora region.</discussion>
+</bio:treatment>

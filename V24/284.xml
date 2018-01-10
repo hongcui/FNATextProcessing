@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Bromus sect. Bromopsis Dumort.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants usually perennial, sometimes annual. Spikelets elliptic to lanceolate, more or less terete initially, sometimes becoming laterally compressed at anthesis, with (3)4-14(16) florets. Lower glumes 1-3-veined; upper glumes 3-5-veined; lemmas elliptic to lanceolate, rounded over the midvein, apices subulate, acute, obtuse or rounded, entire or slightly emarginate; awns straight, arising less than 1.5 mm below the lemma apices.</description>
+  <discussion>Bromus sect. Bromopsis is sometimes incorrectly called sect. Pnigma Dumort. It is native to Eurasia as well as to North and South America, and has about 90 species.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eriochloa aristata Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>BEARDED CUPGRASS</common_names>
+  <description type="morphology">Plants annual; cespitose, not rhizomatous. Culms 40-100 cm, erect or decumbent, some¬times rooting at the lower nodes; internodes glabrous; nodes 3-10, puberulent. Sheaths glabrous; ligules 0.5-0.8(2) mm; blades 6-20 cm long, 6-20 mm wide, linear to lanceolate, flat or folded, straight or lax, glabrous (rarely sparsely pubescent) adaxially. Panicles 5-20 cm long, 1-3 cm wide, loosely contracted; rachises hairy; branches 16-30, 20-35 mm long, 0.3-0.5 mm wide, divergent to spreading, setose, not winged, with 20-35 spikelets in unequally pedicellate pairs; pedicels 0.5-3 mm, hairy, with some hairs 0.5-2.5 mm long, at least distally. Spikelets 4-8.8 mm long, 1.1-1.6 mm wide, lanceolate. Upper glumes 1-1.1 times as long as the lower lemmas, lanceolate, pilose or scabrous above, 5-veined, acuminate and awned, awns 0.5-3.5 mm; lower florets sterile; lower lemmas 4-8 mm long, 1.1-1.6 mm wide, lanceolate, setose, 3-7-veined, acuminate, mucronate, mucro less than 0.4 mm; lower paleas absent; anthers absent; upper lemmas (2)3-4(6) mm, 0.4-0.6 times as long as the lower lemmas, indurate, elliptic, acute to rounded, 5-veined, awned, awns 0.2-0.8 mm; upper paleas indurate, rugose. 2n = 36.</description>
+  <discussion>Eriochloa aristata is a weed of moist swales, roadsides, and irrigated fields of the southwestern United States. Its range extends through Mexico and Central America to Colombia. There are three specimens from Oktibbeha County, Mississippi, two made in 1890 and one made in 1960. The last collection was from a waste area, which suggests that the species is now established there. The other two were both made in Starkville, where there is an experimental farm. The labels on the two specimens do not state whether the collections were made from experimental plantings or from plants that had escaped from such plantings.</discussion>
+</bio:treatment>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>J. Gabriel Sanchez-Ken </author>
+      <author>Lynn G. Clark</author>
+    </source>
+  </meta>
+  <number>22.01</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>CHASMANTHIUM Link</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose or loosely colonial, rhizomatous. Culms 35-150 cm, simple or branched. Leaves cauline; ligules membranous, ciliate; blades not pseudopetiolate, flat. Panicles open or contracted, sometimes becoming racemose distally; disarticulation above the glumes and between the florets. Spikelets 4-50 mm, laterally compressed, with 2-many florets, lower 1-4 florets sterile. Glumes 2, subequal, shorter than the spikelets, glabrous, (2)3-9-veined, acute to acuminate; lemmas glabrous, 3-15-veined, compressed-keeled, keels serrate or ciliate, apices acuminate to acute, entire (rarely bifid); paleas glabrous, gibbous basally, 2-keeled, keels winged, wings glabrous, scabrous, or pilose; lodicules 2, fleshy, cuneate, 2-4-veined, lobed-truncate; anthers 1; ovaries glabrous; styles 2; style branches 2, plumose, reddish-purple at anthesis. Caryopses 1.9-5 mm, laterally compressed, brown to reddish-black or black, x = 12. </description>
+  <discussion>Chasmanthium, a genus of five species endemic to North America, grows primarily in the southeastern and south-central parts of the United States. It was formerly included in Uniola, but it is now recognized as a distinct genus.</discussion>
+  <references>Yates, H.O. 1966a. Morphology and cytology of Uniola (Gramineae). SouthW. Naturalist 11:145-189; Yates, H.O. 1966b. Revision of grasses traditionally referred to Uniola, II. Chasmanthium. SouthW. Naturalist 11:451-455.</references>
+  <key>
+    <key_body>
+1. Panicle branches nodding or drooping; pedicels 10-30 mm long; calluses pilose; lower glumes 4.2-9.1 mm long; keels of fertile lemmas winged, the wings scabrous to pilose their full length; caryopses 2.9-5 mm long .....1. C. latifolium
+1. Panicle branches erect or ascending; pedicels 0.5-2.5(5) mm long; calluses glabrous; lower glumes 1.2-5 mm long; keels of fertile lemmas not winged, scabridulous toward or at the apices; caryopses 1.9-3 mm long.
+2. Spikelets 9.5-24 mm long; fertile lemmas 9-13-veined; caryopses enclosed at maturity; blades 7-16(33) cm long, lanceolate-fusiform; culms leafy for 80% of their height. 
+3. Axils of the panicle branches scabrous; fertile florets diverging to 45° from the rachilla; sterile florets (0)1(2); lower glumes 3.1-5 mm long, 7-9-veined; ligules entire .....2. C. nitidum
+3. Axils of the panicle branches pilose; fertile florets diverging to 85° from the rachilla; sterile florets 2-4; lower glumes 2.5-2.9 mm long, 2-3-veined; ligules irregularly laciniate .....3. C. ornithorhynchum 
+2. Spikelets 4-10 mm long; fertile lemmas 3-9-veined; caryopses exposed at maturity; blades (8)20-50 cm long, linear-lanceolate; culms leafy for 40-50% of their height.
+4. Collars and sheaths pilose; culms (1)2-3.5 mm thick at the nodes; fertile lemmas 7-9-veined, usually curved or irregularly contorted   .....4. C. sessiliflorum
+4. Collars and sheaths glabrous; culms to 1 mm thick at the nodes; fertile lemmas 3-7-veined, straight .....5. C. laxum
+
+    </key_body>
+  </key>
+</bio:treatment>

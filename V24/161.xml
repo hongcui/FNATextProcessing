@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Achnatherum coronatum (Thurb.) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>CRESTED NEEDLEGRASS</common_names>
+  <description type="morphology">Plants loosely cespitose, shortly rhizomatous, bases knotty. Culms 55-210 cm tall, 3-6 mm thick, internodes usually glabrous, lower internodes sometimes puberulent; nodes 1-2, glabrous. Basal sheaths mostly glabrous, often puberulent on the lower portion, flat, ribbon¬like with age, margins hairy distally, hairs 1-2.5 mm; collars mostly glabrous; ligules 0.4-1.6(3) mm, truncate to slightly rounded, abaxial surfaces pubescent, ciliate, cilia about 0.5 mm; blades usually flat, 2.5-7 mm wide, both surfaces scabrous. Panicles 15-60 cm long, 2-4 cm wide; branches widely spreading to ascending, longest branches 4-13 cm. Glumes lanceolate, glabrous, tapering to awnlike apices; lower glumes 16-21 mm long, 1-1.3 mm wide, midveins scabrous; upper glumes 11-18 mm; florets 6.5-10 mm long, about 1 mm thick, fusiform, terete; calluses 0.5-2 mm, blunt to acute; lemmas densely hairy, hairs at midlength 1.5-4 mm, apical hairs 2-5 mm; awns 25-45 mm, persistent, twice-geniculate, all segments scabrous, terminal segment straight; paleas 3.5-5.5 mm, 3/5 – 9/10 as long as the  
+lemmas, sparsely hairy between the veins, apices flat, rounded; anthers 3-4 mm, dehiscent, not penicillate. Caryopses 5-7 mm, fusiform. 2n = 40.
+</description>
+  <discussion>Achnatherum coronatum grows on gravel and on rocky slopes, mostly in chaparral associations of the Coast Range from Monterey County, California, to Baja California, Mexico. It is similar in size to A. diegoense, but differs in its mostly glabrous internodes and longer paleas. It differs from A. parishii, an inland species, in its twice-geniculate awns, more robust habit, and more sparsely pubescent paleas. Occasional plants combine the characteristics of both species.</discussion>
+</bio:treatment>

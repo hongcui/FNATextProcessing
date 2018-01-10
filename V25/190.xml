@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Sporobolus vaginiflorus var. ozarkanus (Fernald)
+Shinners
+</name_authority_date>
+  </taxon_identification>
+  <common_names>OZARK DROPSEED</common_names>
+  <description type="morphology">Sheath bases sparsely hairy, hairs papillose-based. Spikelets 2.3-4.6 mm. Glumes usually longer than the florets; lemmas 2.1-3.9 mm, faintly 3-veined; paleas 2.1-4 mm. Fruits 1.1-2 mm.</description>
+  <discussion>Sporobolus vaginiflorus var. ozarkanus grows primarily in the central and southeastern United States.</discussion>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Tripsacum lanceolatum Rupr. ex E. Fourn. </name_authority_date>
+  </taxon_identification>
+  <common_names>MEXICAN GAMAGRASS</common_names>
+  <description type="morphology">Plants rhizomatous. Culms 1-2 m tall, 2-4 mm thick. Lower sheaths hispid; upper sheaths essentially glabrous; ligules erose, not ciliate; blades to 100 cm long, 8-30 mm wide, glabrous or slightly pubescent. Terminal inflorescences with 4-7(10) rames. Pistillate spikelets 2-3  
+mm wide, beadlike in appearance. Staminate spikelets in sessile-pedicellate pairs; glumes 5-10 mm long, 1.5-2 mm wide, usually membranous, acute; pedicels 2-5 mm long, less than 0.3 mm wide, almost flat to plano-convex in cross section, flexible. 2n = 72.
+</description>
+  <discussion>Tripsacum lanceolatum grows in moist soil (often in canyon bottoms) of mountains from southeastern Arizona and southwestern New Mexico through Mexico to Guatemala. It has not been found in New Mexico since the 1800s.</discussion>
+</bio:treatment>

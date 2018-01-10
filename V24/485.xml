@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>45</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus xhansenii Scribn. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose, not rhizomatous. Culms 60-120 cm. Leaves evenly distributed; sheaths smooth; ligules to 1 mm; blades 10-30 cm long, 2-8 mm wide, flat or the margins involute. Spikes 5-20 cm, straight or nodding, with 2+ spikelets per node; internodes about 10 mm; disarticulation in the rachises. Spikelets about 15 mm, with 3-5 florets. Glumes narrowly lanceolate, 2-3-veined, awned, awns 25-35 mm; lemmas 10-12 mm, awned, awns 40-50 mm, outcurving; paleas subequal to the lemmas, truncate or bidentate.</description>
+  <discussion>Elymus xhansenii refers to hybrids between E. glaucus (p. 306) and either E. elymoides or E. multisetus (p. 318). It is not clear which of the latter two species is involved. It is a fairly common hybrid in those parts of western North America where both parents grow. The glumes of the type specimen are as wide as those in E. glaucus, and some are divided longitudinally, as in E. elymoides and E. multisetus. As in other hybrids involving E. elymoides and E. multisetus, the rachis of E. xhansenii disarticulates at maturity.</discussion>
+</bio:treatment>

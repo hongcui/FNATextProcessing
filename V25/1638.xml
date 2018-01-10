@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elionurus barbiculmis Hack. </name_authority_date>
+  </taxon_identification>
+  <common_names>WOOLYSPIKE BALSAMSCALE</common_names>
+  <description type="morphology">Plants cespitose. Culms 40-60 cm, erect, usually unbranched, densely antrorsely hirsute beneath the nodes. Sheaths mostly glabrous, often ciliate on the margins, particularly at the throat; ligules with 1-2 mm hairs; blades 15-30 cm long, 1-2(4) mm wide, usually involute, abaxial surfaces with scattered long hairs adjacent to the margins, adaxial surfaces usually densely pilose. Rames 5-10 cm, internodes densely villous. Sessile spikelets 4.5-8 mm; calluses about 0.5 mm, hirsute; lower glumes densely hirsute, acuminate, bifid, teeth 1.5-2.5 mm; pedicels densely pilose dorsally. Pedicellate spikelets with densely pilose lower glumes. 2n = 20.</description>
+  <discussion>Elionurus barbiculmis grows on mesas, rocky slopes, hills, and in canyons, usually above 1200 m. Its range extends from southern Arizona and southwestern Texas into northern Mexico.</discussion>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Glyceria borealis (Nash) Batch.</name_authority_date>
+  </taxon_identification>
+  <common_names>BOREAL GLYCERIA, BOREAL MANNAGRASS, GLYCERIE BOREALE</common_names>
+  <description type="morphology">Plants perennial. Culms 60-100 cm tall, 1.5-5 mm thick, often decumbent and rooting at the lower nodes. Sheaths glabrous, keeled; ligules 4-12 mm; blades 9-25 cm long, 2-7 mm wide, often floating, abaxial surfaces smooth, adaxial surfaces of the midcauline leaves densely papillose, glabrous. Panicles 18-40(50) cm long, 0.5-2(5) cm wide, arching, usually narrow, open at anthesis, bases often enclosed in the upper leaf sheath at maturity; branches 5-10(15) cm, usually 1-3(5) per node, usually appressed to strongly ascending, occasionally spreading, longer branches with 3-6 spikelets; pedicels 1.2-5 mm. Spikelets 9-22 mm long, 0.8-2.5 mm wide, cylindrical and terete, except at anthesis when slightly laterally compressed, rectangular in side view, with 8-12 florets. Glumes elliptic, apices rounded to obtuse, sometimes erose; lower glumes 1.2-2.2 mm; upper glumes 2-3.8 mm, rounded; rachilla internodes 0.6-3.5 mm; lemmas 2.7-5.4 mm, veins raised, scabridulous or smooth, intercostal regions usually smooth, sometimes scabridulous, midvein terminating about (0.1)0.2 mm short of the apical margin, apices usually acute, sometimes obtuse, entire or almost so; paleas usually shorter than to equaling the lemmas, sometimes exceeding them by up to 0.5 mm, keels narrowly winged, apices bifid, teeth to 0.2 mm, parallel to weakly incurved; anthers 3, 0.4-1.5 mm. Caryopses 1.2-2 mm. 2n = 20.</description>
+  <discussion>Glyceria borealis is a widespread native species that grows in the northern portion of the Flora region, extending southward through the western mountains into northern Mexico. It grows along the edges and muddy shores of freshwater streams, lakes, and ponds. In the southern portion of its range, G. borealis is restricted to subalpine and alpine areas. The midcauline leaves of G. borealis almost always have densely papillose upper leaf surfaces. Voss (1972) stated that such surfaces are non-wettable and develop on the floating leaves.
+Glyceria borealis differs from G. notata in having acute lemmas and, usually, densely papillose midcauline leaves.
+</discussion>
+</bio:treatment>

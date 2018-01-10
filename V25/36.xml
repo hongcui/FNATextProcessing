@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>17.05</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>AELUROPUS Trin.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; usually strongly rhizomatous or stoloniferous, rhizomes and stolons with persistent sheaths. Culms 5-40 cm, prostrate to erect, solitary or not; internodes numerous, short. Sheaths overlapping; ligules of hairs; blades usually stiffly spreading, flat or convolute below, folded distally, apices often cartilaginous and sharp. Inflorescences terminal, dense panicles of non-disarticulating spikelike branches racemosely arranged on elongate rachises, exceeding the upper leaves; branches 2.5-5 mm wide, axes triquetrous, spikelets closely packed, subsessile, in 2 rows. Spikelets bisexual, dorsally compressed, with 2-14 florets. Glumes unequal, exceeded by the florets, keeled; lower glumes 1-5 (7)-veined; upper glumes 3-9-veined; lemmas 7-11-veined, mucronate, mucros 0.1-0.3 mm; lodicules 2; anthers 3, 0.8-1.6 mm; style branches 2. Caryopses ovoid-ellipsoid; hila punctate, basal; embryos about 1/2 as long as the caryopses. x = 10. </description>
+  <discussion>Aeluropus is a genus of five species that extends from Portugal to China and northern India. The species are a good source of fodder and hay in Russia (Tzvelev 1976). One species has been cultivated in the Flora region.</discussion>
+  <references>Tzvelev, N.N. 1976. Zlaki SSSR. Nauka, Leningrad [St. Petersburg], Russia. 788 pp. [In Russian].</references>
+</bio:treatment>

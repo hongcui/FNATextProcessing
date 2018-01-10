@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa supina Schrad. </name_authority_date>
+  </taxon_identification>
+  <common_names>SUPINE BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; stoloniferous, loosely tufted. Basal branching intravaginal. Culms 8-12(20) cm, slender, bases decumbent, terete or weakly compressed; nodes terete, 1 exserted. Sheaths closed for 1/4-1/3 their length, terete, smooth, glabrous, bases of basal sheaths glabrous, distal sheath lengths 2-4 times blade lengths; collars smooth, glabrous; ligules 0.6-1 mm, smooth, glabrous, truncate; blades 2-3 mm wide, flat, thin, soft, smooth, apices broadly prow-shaped, cauline blades subequal. Panicles 2.5-5 cm, lengths 1-2 times widths, erect, loosely contracted or open, ovoid to pyramidal, sparse, with 10-25(30) spikelets and 1-2 branches per node; branches 1-3 cm, spreading to reflexed, straight, terete, smooth or sparsely scabrous, with 2-5(8) spikelets. Spikelets 4-6 mm, laterally compressed; florets 3-7; rachilla internodes smooth, glabrous, more or less concealed, distal internode less than 1/2 the length of the distal lemma. Glumes distinctly keeled, keels smooth; lower glumes 1-veined; calluses glabrous; lemmas 1.7-4 mm, lanceolate, distinctly keeled, smooth throughout, proximal lemmas glabrous throughout or the keels and marginal veins sparsely short-villous, distal lemmas glabrous or the keels and marginal veins short-villous to near the apices, lateral veins moderately prominent, intercostal regions glabrous, margins smooth, glabrous, apices obtuse to acute; palea keels smooth, sometimes sparsely softly puberulent to short-villous; anthers (1.25)1.5-2.5 mm, cylindrical prior to dehiscence, those of the upper 1-2 florets commonly vestigial. 2n = 14.</description>
+  <discussion>Poa supina is native to boreal to alpine regions of Eurasia. Beginning in the 1990s, the cultivar 'Supernova' has been introduced for seeding in wet to moist, cool, shady areas subject to heavy traffic. It has been tested in both Canada and the United States, and is expected to gradually escape cultivation, probably becoming established throughout the cool-temperate portion of the Flora region. Its current distribution is not known. Poa supina differs from P. annua (p. 519), of which is thought to be one of the parents, in having longer anthers and a more stoloniferous habit, as well as in being diploid. It is gynomonoecious.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>46</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus danthoniae Trin. ex C.A. Mey. </name_authority_date>
+  </taxon_identification>
+  <common_names>THREE-AWNED BROME</common_names>
+  <description type="morphology">Plants annual. Culms 5-40 cm, erect or ascending. Sheaths glabrous or pubescent; ligules 1.2-2.6 mm, puberulent, obtuse, laciniate; blades 2-15 cm long, 2-5 mm wide, pubescent on both surfaces. Panicles 2-12 cm long, 1-5 cm wide, dense, ovoid, stiffly erect, sometimes racemose; branches shorter than the spikelets, ascending, slightly curved or straight. Spikelets 10-40(45) mm long, 4-10 mm wide, lanceolate to elliptic or oblong, laterally compressed; florets 5-8(10), bases concealed at maturity; rachilla internodes concealed at maturity. Glumes glabrous or pubescent; lower glumes 5-8.5 mm, 3-5-veined, lanceolate; upper glumes 6.5-9.5 mm, 7-9(1 l)-veined, elliptic; lemmas 8-12(13.5) mm long, 6-7 mm wide, oblanceolate, veins glabrous, scabridulous, or ciliolate, glabrous or pubescent elsewhere, 9-11-veined, rounded over the midvein, margins broadly hyaline, bluntly angled above the middle, not inrolled at maturity, apices subulate to acute or obtuse, toothed, teeth shorter than 1 mm; awns usually 3 on the upper lemmas in each spikelet, arising 2-4 mm below the lemma apices, purple or deep red, central awn 5-25 mm, flattened at the base, divaricate and sometimes twisted at maturity, lateral awns 4-10 mm, erect or reflexed, sometimes absent or much reduced on the lower lemmas; anthers 1-1.8 mm. Caryopses equaling or shorter than the paleas, thin, weakly inrolled or flat. 2n = 14.</description>
+  <discussion>Bromus danthoniae is native from the western Asia to southern Russia and Tibet. It was collected in 1904 in Ontario; no other North American collections are known.</discussion>
+</bio:treatment>

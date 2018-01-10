@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>39</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus briziformis Fisch. & C.A. Mey. </name_authority_date>
+  </taxon_identification>
+  <common_names>RATTLESNAKE BROME</common_names>
+  <description type="morphology">Plants annual. Culms 20-62 cm, erect or ascending. Sheaths densely pilose; ligules 0.5-2 mm, hairy, obtuse, erose; blades 3-13 cm long, 2-4 mm wide, pilose to pubescent on both surfaces. Panicles 5-15 cm long, 3-7 cm wide, open, secund, nodding; branches sometimes longer than the spikelets, curved to reflexed. Spikelets 15-27 mm long, 8-12 mm wide, ovate, laterally compressed; florets 7-15, bases concealed at maturity; rachilla internodes concealed at maturity. Glumes smooth or scabridulous; lower glumes 5-6 mm, 3-5-veined; upper glumes 6-8 mm, 7-9-veined; lemmas 9-10 mm long, 6-8 mm wide, inflated, obovate or rhombic, coriaceous, smooth or scabridulous, obscurely 9-veined, rounded over the midvein, margins hyaline, 1-1.3 mm wide, abruptly angled, not inrolled at maturity, apices acute to obtuse, bifid, teeth shorter than 1 mm; awns usually absent, sometimes to 1 mm, arising less than 1.5 mm below the lemma apices; anthers 0.7-1 mm. Caryopses equaling or shorter than the paleas, thin, weakly inrolled or flat. 2n = 14.</description>
+  <discussion>Bromus briziformis grows in waste places, road verges, and overgrazed areas. It is native to southwest Asia and Europe, and is adventive in the Flora region, occurring from southern British Columbia to as far south as New Mexico, and in scattered locations eastward. The unique shape of its spikelets has led to its use in dried flower arrangements and as a garden ornamental.  The  common  name  may  refer  to  the similarity of the spikelets to a rattlesnake's tail.</discussion>
+</bio:treatment>

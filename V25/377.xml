@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Cynodon dactylon (L.) Pers. var. dactylon</name_authority_date>
+  </taxon_identification>
+  <description type="morphology"></description>
+  <discussion>As noted above, this is by far the most common variety of Cynodon dactylon.</discussion>
+</bio:treatment>

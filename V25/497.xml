@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Danthonia unispicata (Thurb.) Munro ex Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>ONE-SPIKE OATGRASS</common_names>
+  <description type="morphology">Culms (10)15-30(42) cm, disarticulating at the nodes at maturity. Sheaths usually densely pilose, hairs sometimes papillose-based (upper sheaths sometimes glabrous); blades 3-8(20) cm long, 1-3 mm wide, both surfaces sparsely to densely pilose, sometimes also scabrous or hirsute (rarely glabrous). Inflorescences with 1-2(3) spikelets, if more than 1, racemose; pedicels stiff, appressed, shorter than the spikelets. Spikelets (8)12-26 mm. Calluses of middle florets longer than wide, concave abaxially; lemma bodies 5.5-11 mm, glabrous over the back (rarely with a few scattered hairs), margins pilose (rarely glabrous), apical teeth 1.5-7 mm, acute to aristate; awns 5.5-13 mm; anthers to 3.5 mm. Caryopses 2.2-4 mm long, about 1 mm wide. 2n = 36. </description>
+  <discussion>Danthonia unispicata is restricted to western North America, where it grows in prairies and meadows, on rocky slopes, and in dry openings up to timberline in the mountains. It differs from D. californica in its shorter stature, usually densely pilose foliage, short, erect pedicels, and the usually erect cauline leaf blades. It is closely related to D. californica, and some authors prefer to treat it as D. californica var. unispicata Thurb.</discussion>
+</bio:treatment>

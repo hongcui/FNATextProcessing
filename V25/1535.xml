@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Patricia D. Dávila Aranda</author>
+      <author> Stephan L. Hatch</author>
+    </source>
+  </meta>
+  <number>26.09</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>SORGHASTRUM Nash</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; cespitose, sometimes rhizomatous. Culms 50-300+ cm, erect, nodding or clambering, unbranched; nodes densely pubescent, particularly in young plants. Leaves not aromatic; ligules membranous, glabrous or pubescent; blades flat, involute, or folded. Inflorescences terminal, secund or equilateral panicles with evident rachises and numerous branches, not subtended by modified leaves; branches capillary, rebranching, with many rames, not subtended by modified leaves; disarticulation in the rames, beneath the sessile spikelets. Spikelets sessile, subtending a hairy pedicel (2 pedicels in the terminal spikelet units), dorsally compressed. Calluses blunt or sharp; glumes coriaceous; lower glumes pubescent, 5-9-veined, acute; upper glumes slightly longer, usually glabrous, 5-veined, truncate; lower florets reduced to hyaline lemmas; upper florets bisexual, lemmas hyaline, bifid, awned from the sinuses; awns usually once- or twice-geniculate, often spirally twisted, shortly strigose, brownish; anthers 3; ovaries glabrous. Caryopses flattened. Pedicels 3-6.5 mm, slender, not fused to the rame axes; pedicellate spikelets absent, x = 10. </description>
+  <discussion>Sorghastrum includes about 18 species. Most are native to tropical or subtropical America, two are African, and four are native to the Flora region. Absence of the pedicellate spikelet, while confusing at first, makes Sorghastrum a readily recognizable genus. Its species range from sea level to approximately 3000 m, and can be found in a wide range of habitats. Two species, neither of which occur in the Flora region, are considered good forage.</discussion>
+  <references>Davila, P.D. 1988. Systematic revision of the genus Sorghastrum (Poaceae: Andropogoneae). Ph.D. dissertation, Iowa State University, Ames, Iowa, U.S.A. 333 pp.; Hall, D.W. 1982. Sorghastrum (Poaceae) in Florida. Sida 9:302-308; Sorrie, B.A. and S.W. Leonard. 1999. Noteworthy records of Mississippi vascular plants. Sida 18:889-908.</references>
+  <key>
+    <key_body>
+1. Awns 10-22(30) mm long, once-geniculate; plants rhizomatous.....3. S. nutans
+1. Awns 21-40 mm long, twice-geniculate; plants not rhizomatous.
+2. Pedicels sharply curved to recurved; panicles secund; sessile spikelets 0.8-1.2 mm wide.....2. S. secundum
+2. Pedicels flexuous; panicles not secund; sessile spikelets 1.1-1.8 mm wide   .....1. S. elliottii
+ 
+
+    </key_body>
+  </key>
+</bio:treatment>

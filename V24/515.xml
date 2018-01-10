@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Leymus simplex (Scribn. & T.A. Williams) D.R. Dewey var. simplex </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 35-55 cm tall, 1-2 mm thick. Spikes 1.5-13 cm long; internodes 7-9 mm. Spikelets 16-22 mm, with 3-6 florets.</description>
+  <discussion>Leymus simplex var. simplex is found throughout the range of the species, sometimes in close proximity to var. luxurians. The two may be environmentally induced variants, but the lack of intermediates suggests a genetic distinction.</discussion>
+</bio:treatment>

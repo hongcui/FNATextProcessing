@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Stephen J. Darbyshire</author>
+    </source>
+  </meta>
+  <number>20.02</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>DANTHONIA DC.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, sometimes shortly rhizomatous. Culms 7-130 cm, erect. Sheaths open to the base, with tufts of hairs at the auricle position, sometimes with a line of hairs around the collar; auricles absent; ligules of hairs; blades rolled in the bud, flat or involute when dry. Inflorescences terminal; panicles, racemes, or a solitary spikelet, to 12 cm; rachises, branches, and pedicels scabrous or hirsute. Spikelets terete or laterally compressed, with 3-12 florets, terminal floret reduced; disarticulation beneath the florets, also at the cauline nodes in some species. Glumes subequal or the lower glumes a little longer than the upper glumes, usually exceeding the florets (excluding the awns and lemma teeth), lanceolate, chartaceous, 1-7-veined, keels glabrous or sparsely scabrous; rachillas glabrous; calluses densely strigose on the sides; lemma bodies obscurely (5)7-11-veined, backs glabrous or pilose, margins usually densely pilose proximally, apices with 2 acute to aristate lobes, mucronate or awned between the lobes; awns, when present, geniculate and twisted below the geniculation; paleas about as long as the lemma bodies, 2-veined, veins scabrous, apices obtuse, sometimes bifid; lodicules 2, glabrous or with a few hairs; anthers 3, their size depending on whether the florets are chasmogamous or cleistogamous; ovaries glabrous. Caryopses 1.5-5.5 mm, ovate to obovate, dorsally flattened, brown; hila linear, 1/3 – 3/4 as long as the caryopses. Cleistogenes usually present in the lower sheaths, with 1(-10) florets, not disarticulating; rachilla segments about as long as or longer than the adjacent florets; lemmas coriaceous, glabrous or scabrous near the apex, entire, unawned; paleas sometimes slightly longer than the lemmas; anthers 3, minute; ovaries glabrous; caryopses more linear than in the aerial florets, x = 12.</description>
+  <discussion>Danthonia is interpreted here as a genus of about 20 species that are native in Europe, North Africa, and the Americas. Of the eight species found in the Flora region, seven are native and one is an introduction that is now established.</discussion>
+  <references>Baeza P., CM. 1996. Los generos Danthonia DC. y Rytidosperma Steud. (Poaceae) en America-Una revision. Sendtnera 3:11-93; Darbyshire, S.J. and J. Cayouette. 1989. The biolog, of Canadian weeds. 92. Danthonia spicata (L.) Beauv. in Roem. & Schult. Canad. J. PI. Sci. 69:1217-1233; Dobrenz, A.K. and A.A. Beetle. 1966. Cleistogenes in Danthonia. J. Range Managem. 19:292-296; Dore, W.G. 1971. Sieglingia decumbens (L.) Bernh.-Pulvini of palea. Watsonia 8:297-299; Dore, W.G. and J. McNeill. 1980. Grasses of Ontario. Research Branch, Agriculture Canada Monograph No. 26. Canadian Government Publishing Centre, Hull, Quebec, Canada. 566 pp.; Linder, H.P. and G.A. Verboom. 1996. Generic limits in the Rytidosperma (Danthonieae, Poaceae) complex. Telopea 6:597-627; Quinn, J.A. and D.E. Fairbrothers. 1971. Habitat ecology and chromosome numbers of natural populations of the Danthonia sericea complex. Amer. Midi. Naturalist 85:531-536; Tzvelev, N.N. 1976. Zlaki SSSR. Nauka, Leningrad [St. Petersburg], Russia. 788 pp. [In Russian].</references>
+  <key>
+    <key_discussion>NOTE: In the key and descriptions, lemma lengths do not include the apical teeth. Callus characteristics are best seen on the middle to upper florets in the spikelet.</key_discussion>
+    <key_body>
+1. Lemmas mucronate, not awned.....1. D. decumbens
+1. Lemmas not mucronate, with a twisted, geniculate awn.
+2. Calluses of the middle florets from shorter to slightly longer than wide, convex abaxially; lemma bodies 2.5-6 mm long, the backs usually pilose, occasionally glabrous or sparsely pilose. 
+3. Awns 10-17 mm; hairs of the lemma margins evidently increasing in length distally, longest hairs 2.5-4 mm long .....2. D. sericea
+3. Awns 5-10 mm; hairs of the lemma margins not evidently increasing in length distally, longest hairs 0.5-2 mm long.
+4. Lemma lobes 2-4 mm long, usually 2/3 or more as long as the lemma bodies, aristate; lower inflorescence branches usually flexible, divergent after anthesis; pedicels on the lowest inflorescence branch as long as or longer than the spikelets; leaves not curling at maturity.....3. D. compressa
+ 
+ 
+4. Lemma lobes 0.5-2 mm long, less than 2/3 as long as the lemma bodies, acute to aristate; inflorescence branches stiff, appressed to strongly ascending after anthesis; pedicels on the lowest inflorescence branch from shorter than to equaling the spikelets; blades usually becoming curled at maturity .....4. D. spicata
+2. Calluses of the middle florets longer than wide, concave abaxially; lemma bodies 3-11 mm long, the backs usually glabrous or sparsely pilose (pilose in D. parryi). 
+5. Lower inflorescence  branches  (pedicels  if the  inflorescence racemose)  stiff,  erect; pedicels from shorter than to as long as the spikelets. 
+6. Spikelets l(-3), if 2-3, the inflorescence a raceme; lemma bodies 5.5-11 mm; mature culms disarticulating at the nodes .....8. D. unispicata
+6. Spikelets (4)5-10; lower inflorescence branches usually with 2-3 spikelets; lemma bodies 3-6 mm; mature culms not disarticulating at the nodes .....5. D. intermedia
+5. Lower inflorescence branches (pedicels if the inflorescence racemose) flexible, slightly to strongly divergent; pedicels usually as long as or longer than the spikelets (sometimes shorter in D. parryi).
+7. Uppermost cauline blades usually strongly divergent or reflexed; inflorescences usually racemose; pedicels usually much longer than the spikelets and usually strongly divergent; lemmas glabrous or sparsely hairy over the back; mature culms disarticulating at the nodes .....7.D. californica
+7. Uppermost cauline blades usually erect to ascending; inflorescences usually paniculate; pedicels shorter than to as long as the spikelets; lemmas pilose over the back, at least basally; mature culms not disarticulating at the nodes.....6. D. parryi
+ 
+
+    </key_body>
+  </key>
+</bio:treatment>

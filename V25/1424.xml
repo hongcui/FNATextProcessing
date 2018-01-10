@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>26</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Setaria sphacelata (Schumach.) Stapf & C.E. Hubb. </name_authority_date>
+  </taxon_identification>
+  <common_names>AFRICAN BRISTLEGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, rhizomatous, rhizomes stout. Culms 50-150 cm, flattened; nodes glabrous. Sheaths glabrous; blades 15-50 cm long, 4-10 mm wide, flat, rather lax. Panicles 5-25 cm long, 4-8 mm thick (excluding the bristles), densely spicate; bristles 5 or more, 3-6 mm, usually orange to purple. Spikelets 2.5-3 mm, elliptic-oblong. Lower glumes about as long as the spikelets; upper florets staminate; upper glumes Vi-A as long as the spikelets; lower lemmas equaling the upper lemmas; lower paleas equaling the upper paleas, broad; upper lemmas finely and transversely rugose; upper paleas similar to the upper lemmas. 2n = 36, 54.</description>
+  <discussion>Setaria sphacelata is native to tropical Africa, but it has been found at a few scattered locations in the Flora region, often near a port. Clayton (1979) recognized five varieties of Setaria sphacelata. Those most likely to be introduced into the United States are Setaria sphace¬lata (Schumach.) Stapf & C.E. Hubb. var. sphacelata and S. sphacelata var. aurea (Hochst. ex A. Braun) Clayton, with var. aurea differing from var. sphacelata in having fibrous basal leaf sheaths and upper glumes that are often 3-veined.</discussion>
+</bio:treatment>

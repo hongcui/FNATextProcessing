@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Secale strictum (C. Presl) C. Presl </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial, short-lived; cespitose. Culms (35) 60-100(150) cm. Blades 2-8 mm wide, glabrous or scabridulous. Spikes (3.5)5-8(11) cm; disarticulation occurring readily, in the rachises, at the nodes. Glumes 8-11 mm, densely scabrous on the keels, acuminate or awned, awns 3-4 mm; lemmas 8-16 mm, awns 2-25 mm. 2n = 14.</description>
+  <discussion>Secale strictum is native to Eurasia and, as a disjunct, to South Africa. It grows on dry, stony or sandy soils, often in mountainous areas. So far as is known, it is not established in the Flora region.
+Hitchcock (1951) reported that Secale strictum had become established around the Agricultural Experiment Station in Pullman, Washington, but it is no longer present there. Prior to 1931, the station worked on development of a S. cereale x S. strictum strain that would combine the perennial habit with good seed production. The attempt had been abandoned by 1931, but hybrid seed had been distributed as ‘Michael’s Grass’. The seed was originally thought to be derived from a Triticum aestivum x Leymus racemosus cross; subsequent studies, both morphological and cytological, revealed that it was S. cereal x S. strictum.
+</discussion>
+</bio:treatment>

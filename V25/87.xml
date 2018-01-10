@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Leptochloa fusca subsp. fascicularis (Lam.) N. Snow </name_authority_date>
+  </taxon_identification>
+  <common_names>BEARDED SPRANGLETOP</common_names>
+  <description type="morphology">Culms 5-110 cm, prostrate (in small circular clumps) to erect. Blades glabrous or scabrous, uppermost blades often exceeding the panicles. Panicles (1.5)10-72 cm long, 4-22 cm wide, with 3-35 branches, usually partially enclosed in the uppermost leaf sheaths; branches 3-12(22) cm, often spreading. Spikelets 5-12 mm. Lower glumes 2-3 mm, lanceolate, sometimes asymmetric; upper glumes 2.5-5 mm, elliptic to ovate; lemmas lanceolate, smoky white at maturity, often with a dark spot on the basal 1/2, apices acute, mucronate, or awned, awns to 3.5 mm; anthers 1-3, 0.2-0.5 mm. Caryopses 0.8-2 mm.</description>
+  <discussion>Leptochloa fusca subsp. fascicularis extends from southern British Columbia and Ontario to Argentina, although it has not yet been reported from Georgia. Coastal populations from Massachusetts to Florida with long lemma awns have been called L. fascicularis var. maritima (E.P. Bicknell) Gleason. They do not merit taxonomic recognition because long awns and salinity tolerance are common throughout the species.
+Leptochla fusca subsp. fascicularis differs from L. viscida, which grows in the same region, in its longer panicles, frequently unawned or mucronate lemmas, and whitish florets.
+</discussion>
+</bio:treatment>

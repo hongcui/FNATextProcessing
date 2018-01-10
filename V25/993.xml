@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Aristida ternipes Cav. var. ternipes </name_authority_date>
+  </taxon_identification>
+  <common_names>SPIDERGRASS</common_names>
+  <description type="morphology">Awns markedly unequal; central awns 8-25 mm, straight to curving; lateral awns absent or to 2 mm, erect. 2n = 22, 44.</description>
+  <discussion>Aristida ternipes var. ternipes, like var. gentilis, grows on dry slopes and plains and along roadsides, but its range is somewhat different, extending from Arizona to Texas south through Mexico and Central America to South America.</discussion>
+</bio:treatment>

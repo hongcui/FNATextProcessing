@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Lasiacis ruscifolia (Kunth) Hitchc. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose. Culms 1-8 m long, 5-12 mm thick, hollow, arching or clambering. Sheaths glabrous, puberulent, or hispid with papillose-based hairs, margins ciliate; ligules 0.2-1 mm, glabrous or ciliate; blades 2-16 cm long, 8-56 mm wide, ovate to ovate-lanceolate. Panicles 2-22 cm; lower branches to 9 cm, divergent. Spikelets 2.6-4 mm, globose; lower glumes 1.2-2.2 mm, 9-13-veined; lower florets sterile; upper glumes 11-13-veined; upper florets 2.8-3.6 mm long, 2-2.9 mm wide, dark brown to grayish-black at maturity; upper lemmas usually with a distinct shelf at the base, from which a sterile projection often arises; upper paleas usually deeply concave; anthers 1.4-2.3 mm, white; stigmas white. Caryopses 2-2.5 mm. 2n = 36. </description>
+  <discussion>The range of Lasiacis ruscifolia extends from south¬ern Florida to Peru. Plants in the Flora region belong to L. ruscifolia (Kunth) Hitchc. var. ruscifolia, which dif¬fers from L. ruscifolia var. velutina (Swallen) Davidse in being scabrous or puberulent, rather than velutinous, on the panicle branches.</discussion>
+</bio:treatment>

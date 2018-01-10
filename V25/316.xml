@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>69</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia fragilis Swallen </name_authority_date>
+  </taxon_identification>
+  <common_names>DELICATE MUHLY</common_names>
+  <description type="morphology">Plants annual. Culms 10-38 cm, erect or spreading; internodes mostly glabrous, smooth or scabridulous, scabrous or strigulose below the nodes. Sheaths often longer than the internodes, scabridulous, margins hyaline; ligules 1-3 mm, hyaline, obtuse, irregularly toothed to lacerate, with lateral lobes; blades 1-10 cm long, 0.4-2 mm wide, flat, scabrous abaxially, strigulose adaxially, margins and midveins thickened basally, whitish. Panicles 10-24 cm long, 3.5-11 cm wide, diffuse; primary branches 2.2-6.2 cm long, about 0.1 mm thick, diverging 80-100° from the rachises, straight; pedicels 6-10 mm long, about 0.02 mm thick, delicate; disarticulation above the glumes. Spikelets 1-1.2 mm, appressed to slightly divergent. Glumes equal to subequal, 0.5-1 mm, glabrous throughout or obscurely puberulent, hairs about 0.06 mm, 1-veined, obtuse or subacute; lemmas 1-1.2 mm, oblong-elliptic, purplish to light brownish, not mottled, glabrous or densely appressed-puberulent on the margins and midveins, apices obtuse, unawned; paleas 0.9-1.2 mm, oblong-elliptic; anthers 0.3-0.5 mm, purplish. Caryopses 0.7-0.9 mm, elliptic, reddish-brown. 2n = 20.</description>
+  <discussion>Muhlenbergia fragilis grows on rocky talus slopes, cliffs, canyon walls, road cuts, and sandy slopes, often over calcareous parent materials, at elevations of 480-2200 m. It is usually found in oak-gramma  
+savannahs, thorn scrub forests, oak-yellow pine forests, and pinyon-juniper woodlands. Its range extends from the southwestern United States to southern Mexico.
+Populations may have individual plants with completely glabrous lemmas or may consist entirely of such plants. This morphological variation is not correlated with any distributional or habitat characteristics.
+</discussion>
+</bio:treatment>

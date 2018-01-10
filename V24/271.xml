@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Bromus sect. Bromus</name_authority_date>
+  </taxon_identification>
+  <description type="morphology"></description>
+  <key>
+    <key_body>
+1. Lemmas inflated, 6-8 mm wide; unawned or with awns up to 1 mm long; spikelets ovate .....39. B. briziformis 
+1. Lemmas not inflated, 1-7 mm wide; awns 2-25 mm long, rarely absent; spikelet shape various.
+2. Lemma margins inrolled at maturity; floret bases visible at maturity; rachilla internodes visible at maturity; caryopses sometimes thick, strongly inrolled.
+ 
+3. Anthers 2.5-5 mm long; awns straight; spikelets often purple-tinged; lower leaf sheaths with soft, appressed hairs .....40. B. arvensis (in part)
+3. Anthers 0.7-2 mm long; awns straight or flexuous; spikelets not purple-tinged; lower leaf sheaths glabrous, loosely pubescent and glabrate, or evenly covered with stiff hairs. 
+4. Lower leaf sheaths glabrous or loosely pubescent and glabrate; lemmas 6.5-8.5(10) mm long, margins evenly rounded; awns straight or flexuous .....41. B. secalinus
+4. Lower leaf sheaths evenly covered with stiff hairs; lemmas 8-11.5 mm long, margins bluntly angled; awns straight  ..... 42. B. commutatus (in part)
+Lemma margins not inrolled at maturity; floret bases concealed at maturity; rachilla internodes concealed at maturity; caryopses thin, weakly inrolled or flat.
+5. Lemmas 4.5-6.5 mm long, margins sharply angled; caryopses longer than the paleas.....43. B. lepidus
+5. Lemmas 6.5-20 mm long, margins rounded or slightly to strongly angled; caryopses equaling or shorter than the paleas.
+6. Awns arising less than 1.5 mm below the lemma apices, erect or weakly divaricate, not twisted at the base.
+7. Panicle branches shorter than the spikelets; lemmas chartaceous, with prominent ribs over the veins, often concave between the veins; anthers 0.6-1.5 mm long .....44. B. hordeaceus (in part)
+7. At least some panicle branches longer than the spikelets; lemmas coriaceous, veins obscure or distinct, not ribbed; anthers 0.7-5 mm long. 
+8. Lower leaf sheaths with soft, appressed hairs; anthers 2.5-5 mm long; panicles 11-30 cm long .....40. B. arvensis (in part)
+8. Lower leaf sheaths with stiff hairs; anthers 0.7-3 mm long; panicles 4-16 cm long. 
+9. Anthers 0.7-1.7 mm long; rachilla internodes 1.5-2 mm long; lemmas  8-11.5 mm long, margins bluntly angled .....42. B. commutatus (in part)
+9. Anthers 1.5-3 mm long; rachilla internodes 1-1.5 mm long; lemmas 6.5-8 mm long, margins rounded  ..... 45. B. racemosus
+6. Awns arising 1.5 mm or more below the lemma apices, erect to strongly divaricate, often twisted at the base.
+10. Panicle branches shorter than the spikelets, slightly curved or straight, panicles erect.
+11. At least the upper lemmas in each spikelet with 3 awns   .....46. B. danthoniae
+11. All lemmas 1-awned.
+12. Lemmas 11-20 mm long; spikelets 20-50 mm long.
+13. Spikelets   usually  single   at  the  nodes;  glumes  glabrous or puberulent; panicles strongly contracted, even at maturity .....47. B. caroli-henrici
+13. Spikelets often 2 or more at each node; glumes pilose; panicles contracted when immature, more open with age .....48. B. lanceolatus
+12. Lemmas 6.5-11 mm long; spikelets 11-25 mm long.
+14. Lemmas 1.5-2 mm wide; panicles obovoid, branches sometimes verticillate .....49. B. scoparius
+14. Lemmas 3-5 mm wide; panicles usually ovoid .....44. B. hordeaceus (in part)
+10. At least some panicle branches as long as or longer than the spikelets, sometimes sinuous; panicles nodding.
+15. Lower glumes  7-10 mm long; upper glumes  8-12 mm long; panicle branches conspicuously sinuous; awns erect to weakly spreading; lemma margins rounded .....50. B. arenarius
+15. Lower glumes 4-7 mm long; upper glumes 5-8 mm long; panicle branches sometimes sinuous; awns erect to  strongly divergent;  lemma margins slightly to strongly angled above the middle. 
+16. Anthers 2.5-5 mm long; spikelets often purple-tinged; culms 80-110 cm tall ..... 40. B. arvensis (in part)
+16. Anthers 1-1.5 mm long; spikelets not purple-tinged; culms 20-70 cm tall.
+ 
+ 
+17. Lemmas with hyaline margins 0.3-0.6 mm wide, slightly angled above the middle; branches somewhat drooping, sometimes sinuous, often with more than 1 spikelet.....51. B. japonicus
+17. Lemmas with hyaline margins 0.6-0.9 mm wide, strongly angled above the middle; branches not drooping or sinuous, usually with 1 spikelet  .....52. 3. squarrosus
+
+    </key_body>
+  </key>
+</bio:treatment>

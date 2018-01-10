@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>17</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aristida adscensionis L. </name_authority_date>
+  </taxon_identification>
+  <common_names>SIXWEEKS THREEAWN</common_names>
+  <description type="morphology">Plants short- to long-lived annuals. Culms (3)10-50(80) cm, often highly branched above the base. Leaves cauline, glabrous; sheaths shorter than the internodes, not disintegrating into threadlike fibers; ligules 0.4-1 mm; blades 2-14 cm long, 1-2.5 mm wide, flat to involute. Inflorescences panicles, 5-15(20) cm long, 0.5-3 cm wide, often interrupted below; nodes glabrous or with straight, less than 0.5 mm hairs; primary branches 1-4 cm, erect to ascending, without axillary pulvini, with 3-8 spikelets. Spikelets crowded. Glumes unequal, 1-veined, acuminate; lower glumes 4-8 mm; upper glumes 6-11 mm; calluses 0.5-0.8 mm; lemmas 6-9 mm, slightly keeled, midveins scabrous, junction with the awns not evident; awns not disarticulating at maturity, flattened and straight to some¬what curved at the base, central rib flanked by equally wide pale wings; central awns 7-15(20) mm; lateral awns somewhat shorter, occasionally only 1-2 mm; anthers 3, 0.3-0.7 mm. 2n = 22.</description>
+  <discussion>Aristida adscensionis grows in waste ground, along roadsides, and on degraded rangelands and dry hillsides, often in sandy soils. It is associated with woodland, prairie, and desert shrub communities. Its range extends from the United States south through Mexico and Central America to South America.
+Because Aristida adscensionis is highly variable in height, panicle size, and awn development, several varieties have been described. None are recognized here because most of the variation appears to be environmentally induced.
+</discussion>
+</bio:treatment>

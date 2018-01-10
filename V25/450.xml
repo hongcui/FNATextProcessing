@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Hilaria swallenii Cory </name_authority_date>
+  </taxon_identification>
+  <common_names>SWALLEN'S CURLY MESQUITE</common_names>
+  <description type="morphology">Plants perennial; stoloniferous. Culms 10-35 cm, erect; nodes villous. Sheaths slightly scabrous; ligules 2-2.2 mm; blades to 8 cm long, 1-2 mm wide, mostly basal, both surfaces scabrous, sometimes also sparsely pilose. Panicles 1-4 cm, with 2-8 fascicles; fascicles 6.5-8 mm. Lateral spikelets with 2 florets, lowest florets usually sterile, distal florets staminate; glumes unequal, thick, indurate, and conspicuously fused basally, mostly gray to dark brown, evenly and sparsely to densely spotted with dark glands, awned from above midlength, margins hyaline; anthers 3, 3-3.5 mm. Central spikelets with 1 pistillate floret; lemmas elliptic basally, narrower and parallel-sided distally. 2n = 54, 72.</description>
+  <discussion>Hilaria swallenii grows on dry plains and rocky mesas in New Mexico, Texas, and northern Mexico. It is considered better forage than H. belangeri, but it is less important because it is less common.</discussion>
+</bio:treatment>

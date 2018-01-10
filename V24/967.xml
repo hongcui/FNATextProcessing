@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Ventenata dubia (Leers) Coss. </name_authority_date>
+  </taxon_identification>
+  <common_names>VENTENATA, NORTH-AFRICA GRASS</common_names>
+  <description type="morphology">Culms 15-75 cm, puberulent below the nodes; nodes 3-4, exposed, purple-black. Ligules 1-8 mm; blades 2-7(12) cm long, 0.8-2.5 mm wide. Panicles (7)15-20 cm, open, pyramidal, lower nodes with 2-5 branches; branches 1.5-7 cm, bearing 1-5 spikelets distally; pedicels 2-18 mm. Spikelets 9-15 mm, with 2-3 florets, the lowest usually staminate, the remainder bisexual; rachillas usually glabrous, sometimes pubescent abaxially, internodes mostly 1-1.5 mm, prolongation to 2 mm, empty or with a reduced floret. Lower glumes 4.5-6 mm; upper glumes 6-8 mm; lemmas 5-7.5 mm, awns of the lowest lemma within a spikelet to 4 mm, straight, distal lemmas within a spikelet bifid, teeth 1-2 mm, awns 10-16 mm, geniculate; paleas 4-5 mm; anthers 1-2 mm. Caryopses about 3 mm. 2n = 14.</description>
+  <discussion>The first North American collection of Ventenata dubia was made in Washington in 1952. It is now established in crop and pasture lands of eastern Washington and western Idaho (Old and Callihan 1986), and has been found, but has not necessarily become established, at scattered locations elsewhere. Mature specimens can be confusing because the first, straight-awned floret remains after the distal, bisexual florets have disarticulated (Chambers 1985).
+ 
+</discussion>
+</bio:treatment>

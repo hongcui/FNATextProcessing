@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>1. Upper lemmas of sessile spikelets awned, the awns 2-16 cm long.
+2. Plants annual; pedicellate spikelets 7.2-15 mm long	1. C. pauciflorus
+2.	Plants perennial; pedicellate spikelets 2.5-8 mm long   	2. C. fulvus
+1. Upper lemmas of sessile spikelets unawned or the awns no more than 8 mm long.
+3.	Calluses of the sessile spikelets 0.6-0.8 mm long, rounded, with white hairs; plants not stoloniferous 	4. C. zizanioides
+3. Calluses of the sessile spikelets 3-6.4 mm long, sharp, with golden-yellow hairs; plants extensively stoloniferous 	3. C. aciculatus
+</name_authority_date>
+  </taxon_identification>
+  <common_names>FLORIDA RHAPHIS </common_names>
+  <description type="morphology">Plants annual. Culms 60-110 cm, erect or somewhat decum¬bent. Sheaths glabrous; ligules membranous, ciliolate; blades to 31 cm long, 4-10 mm wide, flat or folded, mostly or completely glabrous, adaxial surfaces some¬times with scattered pubescence at the base. Panicles 20-30 cm, open; branches 5-8 cm, capillary, strongly divergent; rames usually a triplet of spikelets. Sessile spikelets 8.1-10 mm; calluses about 7 mm, sharp; glumes smooth below, scabrous distally; lower glumes shortly awned or mucronate from the sinuses of the minutely bilobed apices; upper lemmas awned, awns 10.6-16 cm, geniculate, twisted below. Pedicellate spikelets 7.2-15 mm. 2n = unknown.</description>
+  <discussion>Chrysopogon pauciflorus is native, but infrequently encountered, in the southeastern United States, primarily in Florida; it also occurs in Cuba. It grows in flatwoods, abandoned fields, pinelands, marsh edges, and various disturbed sites.</discussion>
+</bio:treatment>

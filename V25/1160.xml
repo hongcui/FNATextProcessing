@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Dichanthelium acuminatum subsp. fasciculatum (Torr.) Freckmann & Lelong </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants yellowish-green to olivaceous or purplish. Culms 15-75 cm, suberect, ascending or spreading; nodes often with spreading hairs, occasionally with a glabrous ring below. Cauline sheaths with ascending to spreading, papillose-based hairs, occasionally with shorter hairs underneath; midculm sheaths about 1/2 as long as the internodes; blades 5-12 cm long, 6-12 mm wide, spreading to ascending, bases with papillose-based cilia, abaxial surfaces usually pubescent, adaxial surfaces pilose or glabrous, hairs shorter than 3 mm. Spikelets 1.5-2 mm (tending to be longer in the western part of its range), obovoid to ellipsoid.</description>
+  <discussion>Dichanthelium acuminatum subsp. fasciculatum grows primarily in disturbed areas, open or cut-over woods, thickets, and grasslands, in dry to moist soils, including river banks, lake margins, and marshy areas. It is widespread in temperate North America, growing from Canada to Mexico, but it is somewhat less common in the western part of its range, where it often occurs on moister areas.
+Dichanthelium acuminatum subsp. fasciculatum includes probably the most widespread, ubiquitous, and variable assemblages of forms in the species. It is not always clearly separable from the other subspecies of D. acuminatum, especially subsp. acuminatum, subsp. implicatum, and subsp. lindheimeri. Gene exchange with other Dichanthelium species (including D. dichotomum, D. laxiflorum, D. ovale, D. commutatum, and D. boreale) probably occurs not infrequently.
+</discussion>
+</bio:treatment>

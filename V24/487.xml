@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>47</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus xebingeri G.C. Tucker </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose, not rhizomatous. Culms 50-135 cm, usually smooth, glabrous, sometimes retrorsely hairy; nodes glabrous or hairy. Leaves evenly distributed; sheaths smooth or scabridulous, hairy; ligules to 1 mm; blades 14-26 cm long, to 12 mm wide, flat, both surfaces scabridulous, adaxial surfaces hairy. Spikes 8-17 cm, with (1)2+ spikelets per node; internodes 4-8 mm. Spikelets diverging at about 45° from the rachises, not patent. Glumes usually subequal, 15-20 mm, bases indurate, bodies lanceolate to subulate, scabrous, sometimes the lower glumes reduced to a stub; lemmas 8-10 mm, glabrous or strigose, sometimes scabrous, awns 23-29 mm, straight, scabrous; anthers 2-2.9 mm. Caryopses seldom formed.</description>
+  <discussion>Elymus xebingeri is the name for hybrids between E. virginicus (p. 298) and E. hystrix (p. 316). It is frequently found where the two parental species grow together, often with later hybrid generations and introgressants to the two parents. It has been reported from southern Ontario, and from Wisconsin to New York and Illinois. Most published reports simply refer to the existence of these hybrids, the name itself not having been published until 1996.</discussion>
+</bio:treatment>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>18</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Glyceria notata Chevall. </name_authority_date>
+  </taxon_identification>
+  <common_names>MARKED GLYCERIA</common_names>
+  <description type="morphology">Plants perennial. Culms 25-80 cm, rooting at the nodes. Sheaths usually scabridulous or hirtel-lous; ligules 2-8 mm; blades 5-30 cm long, 3-11(14) mm wide, abaxial surfaces scabrous, adaxial surfaces sometimes scabridulous to scabrous, sometimes sparsely hairy, sometimes papillose. Panicles 10-45 cm; branches 2-5 per node, eventually widely spreading; branches to 12 cm, with 5-15(19) spikelets; pedicels 1-6 mm. Spikelets 10-25 mm long, 1.5-3 mm wide, cylindrical and terete except slightly laterally compressed at anthesis, rectangular in side view, with 7-16 florets. Glumes obtuse to rounded; lower glumes 1-2.5 mm; upper glumes 2.5-4.5 mm; lemmas 3.5-5 mm, the submarginal veins often longer than those adjacent to the midvein, veins scabridulous, smooth or scabridulous between the veins, apices truncate to rounded, crenulate; paleas from slightly shorter to slightly longer than the lemmas, keels winged distally, apices bifid, teeth about 0.2 mm; anthers 0.8-1.5 mm. Caryopses 1.5-2.5 mm. 2n = 40.</description>
+  <discussion>Glyceria notata is a Eurasian species that has been reported from scattered locations in the Flora region; the reports have not been verified. In Europe, G. notata grows in rich, organic, wet soils, often near G. fluitans, with which it hybridizes. It is more tolerant of trampling than G. fluitans.
+There is no single morphological characteristic that separates Glyceria notata from G. septentrionalis and G. leptostachya. It more frequently has lemmas with short veins adjacent to the midvein than the other two species, is more frequently smooth between the veins, more frequently has scabridulous leaf sheath, and tends to have more spikelets on its branches. The limited cpDNA data indicate that the three are distinct taxa (Whipple et al. [in press]). An intensive examination of the three species is needed.</discussion>
+</bio:treatment>

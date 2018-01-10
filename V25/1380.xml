@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Cenchrus biflorus Roxb. </name_authority_date>
+  </taxon_identification>
+  <common_names>INDIAN SANDBUR</common_names>
+  <description type="morphology">Plants annual. Culms 5-150 cm, erect. Sheaths keeled, glabrous, scabrous, or slightly pubescent; ligules 1.3-2 mm; blades 2-35 cm long, 2-7 mm wide, flat, glabrous or scabrous (sparsely pilose). Panicles 2-15 cm; fascicles 4-11 mm long, 2-4.5 mm wide; bristles 30-60; outer bristles numerous, less than 1/2 as long as the inner bristles, terete; inner bristles 2.9-7 mm long, 0.2-1.1 mm wide, flattened, with 1-3 grooves abaxially, fused only at the base, forming a shallow disk, retrorsely scabrous, inner margins long-ciliate. Spikelets 1-3(4) per fascicle, 3.5-6 mm long, 1.2-1.9 mm wide; lower glumes 0.5-2.5 mm; upper glumes 2.5-4.9 mm, 3-5-veined; lower lemmas 3.2-5.5 mm, 4-5-veined; upper lemmas 3.4-5.9 mm; anthers about 1.5 mm. Caryopses 2-3.4 mm long, 1-3.5 mm wide, ovoid. 2n = 34.</description>
+  <discussion>Cenchrus biflorus is widely distributed from Africa to India. It was collected once in Westchester County, New York, but has not become established in the Flora region.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>13</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aristida oligantha Michx. </name_authority_date>
+  </taxon_identification>
+  <common_names>OLDFIELD THREEAWN</common_names>
+  <description type="morphology">Plants annual. Culm 25-55 cm, erect or geniculate at the base, highly branched. Leaves cauline; sheaths usually shorter than the internodes, lowermost sheaths appressed-pilose basally; collars glabrous; ligules less than 0.5 mm; blades usually 4-12 cm long, 0.5-1.5 mm wide, flat or loosely involute, somewhat lax, glabrous or scabridulous, pale green. Inflorescences spicate or racemose, (5)7-20 cm long, 2-4 cm wide; primary branches rarely developed. Spikelets divergent, pedicels with axillary pulvini. Glumes unequal, glabrous, brownish-green with a purple tinge; lower glumes (9)12-22(28) mm, 3-7-veined, midvein extended into a 1-13 mm awn between 2 delicate setae; upper glumes (7)11-20(24) mm, 1-veined; calluses 0.5-2 mm; lemmas (9)12-22(23) mm, glabrous, light-colored, often mottled; awns (8)12-65(70) mm, subequal, spreading; anthers usually 1 and less than 0.5 mm, rarely 3 and 3-4 mm. Caryopses 8-14 mm, brown. 2n = 22.</description>
+  <discussion>Aristida oligantha grows in waste places, dry fields, roadsides, along railroads, and in burned areas, usually in sandy soil. It has been reported from Coahuila, Mexico, but is otherwise unknown outside southern Canada and the United States.</discussion>
+</bio:treatment>

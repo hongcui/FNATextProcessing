@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Eragrostis ciliaris (L.) R. Br. var. ciliaris</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Panicles 0.2-1.5 cm wide, contracted; branches mostly appressed to the rachises, forming glomerate lobes. Spikelets densely packed.</description>
+  <discussion>Eragrostis ciliaris var. ciliaris is more common than E. ciliaris var. laxa in the Flora region.</discussion>
+</bio:treatment>

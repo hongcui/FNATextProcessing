@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dasyochloa pulchella (Kunth) Willd. ex Rydb. </name_authority_date>
+  </taxon_identification>
+  <common_names>FLUFFGRASS</common_names>
+  <description type="morphology">Culms (1)4-15 cm, scabrous or puberulent; peduncles (internode below the panicles) 3-7(11) cm. Sheaths striate, margins scarious; ligules 3-5 mm; blades (1)2-6 cm, abaxial surfaces scabrous, adaxial surfaces scabridulous. Panicles 1-2.5 cm long, 1-1.5 cm wide, densely white-pubescent, light green or purple-tinged. Spikelets (5)6-9(10) mm, with (4)6-10 florets. Lower glumes 6-8.5 mm; upper glumes 6.5-9 mm, as long as or longer than the florets; lemmas 3-5.5 mm, lobes (1)3-3.2 mm, midveins extending into straight (1.5)2.5-4 mm awns; paleas 2-3.5 mm, keels long pilose proximally, ciliate distally; anthers 0.2-0.5 mm. Caryopses 1-1.5 mm, translucent. 2n = 16.</description>
+  <discussion>Dasyochloa pulchella grows in rocky soils of arid regions. It extends from the United States to central Mexico and is the most common grass in the Larrea-Flourensia scrub of the southwestern United States and adjacent Mexico.</discussion>
+</bio:treatment>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>26.16</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>CYMBOPOGON Spreng.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants usually perennial; cespitose. Culms 15-300 cm. Leaves aromatic, smelling of lemon oil or citronella; sheaths open, not strongly keeled except near the summit; ligules membranous; blades usually glabrous or mostly so, with long filiform apices. Inflorescences terminal and axillary, false panicles; peduncles often enclosed in the subtending leaf sheaths at maturity, with 2 rames; rames with 4-7 heterogamous spikelet pairs, axes slender, without a median groove, lower rame of each pair with 1 homogamous spikelet pair at the base, its pedicel swollen and more or less fused to the adjacent internodes, upper rames with short, sterile, flattened bases that are usually deflexed at maturity, without homogamous spikelet units. Heterogamous spikelet units: sessile spikelets dorsally compressed, with 2 florets; lower glumes chartaceous, concave or flat, 2-keeled, with or without intercostal veins, often streaked with oil glands; upper florets with a short, glabrous awn (rarely unawned); pedicels linear, free from the rame axes; pedicellate spikelets well-developed, x = 10. </description>
+  <discussion>Cymbopogon comprises 55 species, and is native to the tropics and subtropics of the Eastern Hemisphere. It is cultivated in southern Florida and California, sometimes persisting for a considerable period. Plants grown outdoors in the Flora region generally remain vegetative, but can usually be identified to genus by their lemony aroma. Heteropogon melanocarpus also smells lemony when fresh but, unlike the species of Cymbopogon that have been grown in the United States, it has a row of glandular depressions over the well-developed keels of the lower leaf sheaths.
+Identification of any grass to species in the absence of reproductive parts is difficult. The key for use on vegetative plants of the three species of Cymbopogon reported from the Flora region should be used only as a last resort.
+Cymbopogon citratus and C. nardus are cultivated commercially for their oils (lemon oil and citronella oil, respectively), which are used in cooking and perfume, and as an insect repellent; C. citratus and C. jwarancusa are also grown for their medicinal value.
+</discussion>
+  <references>Clifford, H.T. 1996. Etymological Dictionary of Grasses, Version 1.0 (CD-ROM). Expert Center for Taxonomic Identification, Amsterdam, The Netherlands; Soenarko, S. 1977. The genus Cymbopogon Spreng. (Gramineae). Reinwardtia 9:225-375.</references>
+  <key>
+    <key_body>
+REPRODUCTIVE KEY
+1. Pedicels pilose on the margins, glabrous dorsally   .....2. C. nardus
+1. Pedicels pilose on the margins and the dorsal surface.
+2. Lower glumes of the sessile spikelets shallowly concave distally; the keels not winged; ligules 2-6 mm long; blades whitish .....1.C. jwarancusa
+2. Lower glumes of the sessile spikelets flat above, the keels narrowly winged; ligules 0.5-2 mm long; blades green ..... C. citratus
+VEGETATIVE KEY
+1. Ligules 0.5-2 mm long, truncate, the nodes not swollen   .....3. C. citratus
+1. Ligules 2-6 mm long, truncate to acute, the nodes usually swollen.
+2. Basal sheaths purplish-red; blades 3-16 mm wide   .....2. C. nardus
+2. Basal sheaths whitish; blades 1.5-4 mm wide   .....1. C. jwarancusa
+
+    </key_body>
+  </key>
+</bio:treatment>

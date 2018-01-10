@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Vulpia sciurea (Nutt.) Henrard </name_authority_date>
+  </taxon_identification>
+  <common_names>SQUIRRELTAIL FESCUE</common_names>
+  <description type="morphology">Culms 15-50(60) cm, solitary or tufted, erect or drooping at maturity. Sheaths glabrous; ligules 0.5-1 mm; blades usually shorter than 10 cm, 0.5-1 mm wide, flat or rolled, glabrous. Panicles 5-20 cm long, 0.5-1 cm wide, with 1-2 branches per node; branches appressed to erect. Spikelets 3.5-5.2 mm, with 3-6 florets; rachilla internodes 0.25-0.9 mm. Lower glumes 1.5-2.5 mm, about 2/3 the length of the upper glumes; upper glumes 2.5-4 mm; lemmas 2.5-3.5 mm, 3-veined, evidently pubescent distally, glabrous or sparsely pubescent proximally, awns 4.5-10 mm; paleas subequal or equal to the lemmas; anthers about 0.5 mm. Caryopses 1.5-2.5 mm. 2n = 42.</description>
+  <discussion>Vulpia sciurea, our most distinctive native species, is restricted to the Flora region. It can be recognized by its small spikelets and apically pubescent lemmas, and grows mostly in deep, sandy soils of open woodlands, old fields, roadside ditches, and sand hills in the southeastern Flora region. It is listed as endangered in New Jersey.</discussion>
+</bio:treatment>

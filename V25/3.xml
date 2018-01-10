@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Pascopyrum smithii (Rydb.) Barkworth & D.R. Dewey </name_authority_date>
+  </taxon_identification>
+  <common_names>WESTERN WHEATGRASS</common_names>
+  <description type="morphology">Culms 20-100 cm, glabrous. Auricles 0.2-1 mm, often purple; ligules about 0.1 mm; blades 2-26 cm long, 1-4.5 mm wide, decreasing in length upwards, spreading, rigid, adaxial surfaces with prominent veins. Spikes 5-17 cm; middle internodes 4.5-11 mm. Spikelets 12-26(30) mm, with 2-12 florets; lowest rachilla internodes in each spikelet 0.8-2 mm long, 0.5-0.9 mm wide at the top. Glumes 5-15 mm, lower glumes usually exceeded by the upper glumes; lower glumes 0.15-0.8 mm wide at 3/4 length; lemmas 6-14 mm, unawned or awned, awns 0.5-5 mm. 2n = 56.</description>
+  <discussion>Pascopyrum smithii is native to sagebrush deserts and mesic alkaline meadows, growing in both clay and sandy soils. Pascopyrum smithii is probably derived from a Leymus triticoides-Elymus lanceolatus cross (Dewey 1975); it is frequently confused with both. Leymus triticoides differs in usually having 2 spikelets per node and glumes that are narrower at the base. In E. lanceolatus, the leaves tend to be more evenly distributed and the glumes have straight midveins, become narrow beyond midlength, and tend to be wider at 3/4 length (0.35-1.6 mm). In addition, the first rachilla internodes of E. lanceolatus are often longer and narrower (the length/width ratio averaging 2.6, versus 1.8 in P. smithii). No infraspecific taxa of P. smithii are recognized here.</discussion>
+</bio:treatment>

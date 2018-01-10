@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date> Alopecurus aequalis Sobol. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose. Culms 9-75 cm, erect or decumbent. Ligules 2-6.5 mm, obtuse; blades 2-10 cm long, 1-5(8) mm wide; upper sheaths not inflated. Panicles 1-9 cm long, 3-9 mm wide. Glumes 1.8-3.7 mm, connate near the base, membranous, pubescent on the sides, keels not winged, ciliate, apices obtuse, sometimes erose, pale green, occasionally purplish; lemmas 1.5-2.5(3.5) mm, connate in the lower 1/3-1/2, glabrous, apices obtuse, awns 0.7-3 mm, straight, exceeding the lemmas by 0-2.5 mm; anthers 0.5-1.2 mm, usually pale to deep yellow or orange, rarely purple. Caryopses 1-1.8 mm. 2n = 14, 28.</description>
+  <discussion>Alopecurus aequalis is native to temperate zones of the Northern Hemisphere. It generally grows in wet meadows, forest openings, shores, springs, and along streams, as well as in ditches, along roadsides, and in other disturbed sites, from sea level to subalpine elevations.
+Alopecurus aequalis is the most widespread and variable species of Alopecurus in the Flora region. Despite its variability, the only phenotype meriting formal recognition is that found in the low marshes of Marin and Sonoma counties, California. Some high elevation plants of the Sierra Nevada have unusually long awns (exserted by up to 1.5 mm) and anthocyanic spikelets but, like the semi-aquatic ecotype A. aequalis var. natans (Wahlenb.) Fernald, they do not warrant taxonomic recognition.
+Alopecurus xhaussknechtianus Asch. & Graebn. is a hybrid between A. aequalis and A. geniculatus, which occurs fairly frequently in areas of sympatry, particularly in drier midcontinental areas from Alberta to Saskatchewan, south to Arizona and New Mexico. The hybrids are sterile and apparently have 2n = 14.
+</discussion>
+  <key>
+    <key_body>
+1 Panicles 3-6 mm wide; glumes 1.8-3 mm long; awns not exceeding the lemmas or exceeding them by less than 1 mm; anthers 0.5-0.9 mm long   .....var. aequalis
+1 Panicles 4—9 mm wide; glumes to 3.7 mm long; awns exceeding the lemmas by 1-2.5 mm; anthers 1-1.2 mm long.....var. sonotnensis
+
+    </key_body>
+  </key>
+</bio:treatment>

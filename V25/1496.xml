@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Reimarochloa oligostachya (Munro ex Benth.) Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>FLORIDA REIMARGRASS</common_names>
+  <description type="morphology">Plants stoloniferous. Culms 20-40 cm or longer, compressed, decumbent, rooting at the lower nodes. Sheaths loose, lower sheaths pubescent, upper sheaths glabrous; blades to 13 cm long, 2-4 mm wide, glabrous, scabrous, or pubescent. Panicle branches (1)2-3(4), 2.5-8 cm. Spikelets 3.8-5.2 mm long, 1-1.5 mm wide, glabrous; upper lemmas thinly coriaceous. 2n = unknown.</description>
+  <discussion>Reimarochloa oligostachya grows in water or wet soil of hammocks, riverbanks, ditches, and disturbed areas. While not common in the Flora region, it grows in peninsular Florida, Mobile County, Alabama, and Cuba. The Alabama record is probably an introduction.</discussion>
+</bio:treatment>

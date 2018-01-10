@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Cynodon aethiopicus Clayton & J.R. Harlan </name_authority_date>
+  </taxon_identification>
+  <common_names>ETHIOPIAN DOGSTOOTH GRASS</common_names>
+  <description type="morphology">Plants stoloniferous, not rhizomatous; stolons stout, woody, lying flat on the ground. Culms 25-100 cm tall, 2-6 mm thick, becoming woody. Sheaths glabrous; ligules about 0.3 mm, membranous, ciliolate; blades 3-25 cm long, 3-7 mm wide, glabrous or sparsely pubescent, glaucous. Panicles with 4-10(20) branches; branches 3.5-7 cm, in (1)2-5 whorls, stiff, usually red or purple, axes triquetrous. Spikelets 2-3 mm. Glumes equaling to slightly exceeding the florets; lower glumes 2-2.2 mm; upper glumes 1.7-2.6 mm; lemmas 2.1-2.6 mm, keels not winged, glabrous or with a few scattered hairs. 2n =18, 36.</description>
+  <discussion>Cynodon aethiopicus is native to the East African rift. It is now established along the canal bank in the Santa Ana National Wildlife Refuge in Texas, and is expected to spread. The cultivar 'McCaleb' has been released as a forage grass for use in Florida.</discussion>
+</bio:treatment>

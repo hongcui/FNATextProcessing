@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>24</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus violaceus (Hornem.) Feilberg </name_authority_date>
+  </taxon_identification>
+  <common_names>ARCTIC WHEATGRASS, ÉLYME LATIGLUME</common_names>
+  <description type="morphology">Plants cespitose, not rhizomatous. Culms 18-75 cm, often decumbent or geniculate; nodes usually glabrous. Sheaths glabrous; auricles about 0.5 mm; ligules 0.5-1 mm, truncate; blades 3-4 mm wide, flat, glabrous or hairy, abaxial surfaces less densely hairy and with shorter hairs than the adaxial surfaces, apices acute. Spikes 5-12 cm long, 0.4-0.7 cm wide excluding the awns, erect, with 1 spikelet per node; internodes 4-5.5 mm, edges ciliate. Spikelets 11-19 mm, appressed, with (3)4-5 florets; rachillas hairy, hairs about 0.4 mm; disarticulation above the glumes, beneath each floret. Glumes 8-12 mm long, 1.2-2 mm wide, about 3/4  as long as to equaling the adjacent lemmas, narrowly ovate to obovate, often purplish, glabrous, sometimes scabrous, flat or equally keeled the full length, keels and other veins usually smooth, sometimes scabrous, 3(5)-veined, adaxial surfaces glabrous, margins usually unequal, the wider margin 0.3-1 mm wide, usually widest in the distal 1/3, apices acute to rounded, often awned, awns to 2 mm; lemmas glabrous or pubescent, hairs flexible, all similar, apices usually awned, awns 0.5-3 mm, straight; paleas subequal to the lemmas, tapering to the apices, apices about 0.4 mm wide; anthers 0.7-1.3 mm. 2n = 28. Haplomes StH.</description>
+  <discussion>Elymus violaceus grows in arctic, subalpine, and alpine habitats, on calcareous or dolomitic rocks, from Alaska through arctic Canada to Greenland, and south in the Rocky Mountains to southern New Mexico. In western North America, it forms intermediates with E. scribneri (p. 330), E. trachycaulus (p. 321), and E. alaskanus (p. 326). It is treated here as including E. alaskanus subsp. latiglumis [= Agropyron latiglume], E. alaskanus being restricted to plants with relatively short glumes that are often found in valleys and at lower elevations than E. violaceus. Western plants of E. violaceous tend to be more glaucous, have shorter spikes and spikelets, and more obovate glumes than plants from Greenland but, until more is known about the extent and genetic basis of the variation in and among E. violaceus, E. alaskanus, and E. trachycaulus, formal taxonomic recognition seems inappropriate.</discussion>
+</bio:treatment>

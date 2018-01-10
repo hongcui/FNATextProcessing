@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>William J. Crins</author>
+    </source>
+  </meta>
+  <number>14.65</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>MILIUM L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; cespitose, sometimes rhizomatous. Culms 10-180 cm, glabrous or hispidulous; nodes 2-5, glabrous. Sheaths open, smooth or scabrous; auricles absent; ligules hyaline, glabrous, obtuse to acute; blades flat, smooth or scabrous over the veins. Inflorescences open panicles; branches drooping to ascending, smooth or scabrous, some branches longer than 1 cm. Spikelets pedicellate, dorsally compressed, with 1 floret; rachillas not prolonged beyond the base of the floret; disarticulation above the glumes, beneath the floret. Glumes equal, equaling or exceeding the lemmas, membranous, smooth or scabrous, unawned; calluses blunt, glabrous; lemmas dark, coriaceous, glabrous, lustrous, obscurely 5-veined, margins involute, apices unawned; paleas similar to the lemmas and partly enfolded by them; lodicules 2, free, glabrous, toothed or not; anthers 3; ovaries glabrous. Caryopses shorter than the lemmas, concealed at maturity, glabrous; hila 1/5 to nearly 1/2 the length of the caryopses. x = 4, 5,7,9. </description>
+  <discussion>Milium is a circumtemperate genus of four species. All the species grow in mesic to dry mixed woods and dry open habitats. Milium effusum is native to the Flora region; M. vernale has become established.</discussion>
+  <references>Callihan, R.H. and D.S. Pavek. 1988. Milium vernale survey in Idaho County, Idaho. Idaho Weed Control Rep. 1988:153; Femald, M.I. 1950. The North American variety of Milium effusum. Rhodora 52:218-222.</references>
+  <key>
+    <key_body>
+1. Plants perennial; blades 8-17 mm wide; panicles 10-27 cm long; lemmas 2.3-3 mm long.....1. M. effusum
+1. Plants annual; blades 1.9-5 mm wide; panicles 4-11.5 cm long; lemmas 2-2.3 mm long   .....2. M. vernale
+ 
+
+    </key_body>
+  </key>
+</bio:treatment>

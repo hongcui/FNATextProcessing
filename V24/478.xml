@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>39</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus semicostatus (Nees ex Steud.) Melderis </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose, not rhizomatous. Culms 45-135 cm, erect or geniculately ascending, glabrous. Sheaths glabrous or villous; auricles to 1.5 mm; ligules 0.5-1.5 mm, truncate; blades 15-30 cm long, 4-12 mm wide, sometimes villous, adaxial surfaces smooth or scabrous, primary and secondary veins alternating. Spikes 8-30 cm long, 1-2 cm wide including the awns, 0.5-1 cm wide excluding the awns, erect or nodding, usually with 1 spikelet per node, sometimes with 2 spikelets at the lower nodes; internodes 10-20 mm long, about 0.8 mm wide, scabrous on the margins and on the surfaces, marginal prickles larger than those on the surfaces, hirtellous just below the spikelets. Spikelets 16-30 mm, loosely appressed, with 6-8 florets; rachilla internodes about 0.8 mm, strigose, hairs to about 0.3 mm; disarticulation above the glumes, beneath each floret. Glumes subequal, 10-18 mm long, 1.1-2 mm wide, elliptic-lanceolate, green, not keeled, 5-7-veined, veins more or less equally prominent, scabrous, apices acute to acuminate; lemmas 10-14 mm, scabrous or puberulent dorsally, awned, awns (4)12-18 mm, straight; paleas 3/4 as long as to slightly shorter than the lemmas, keels outwardly curved below the apices, apices 0.3-0.7 mm wide, truncate; anthers 3-6 mm. 2n = 28.</description>
+  <discussion>Elymus semicostatus is native to central Asia, from Afghanistan through Pakistan to northeastern India (Sikkim). Reports of its presence in the Flora region appear to be based on misidentifications.</discussion>
+</bio:treatment>

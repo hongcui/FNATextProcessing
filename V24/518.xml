@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Leymus angustus (Trin.) Pilg. </name_authority_date>
+  </taxon_identification>
+  <common_names>ALTAI WILDRYE</common_names>
+  <description type="morphology">Plants somewhat cespitose, rhizomatous. Culms 60-120 cm tall, 2.5-7 mm thick, solitary or few together, glabrous or pubescent below the nodes. Leaves exceeded by the spikes, basally concentrated; sheaths smooth, scabridulous, or hairy; auricles to 1 mm; ligules 0.5-1 mm, rounded to obtuse, sometimes erose; blades 15-20 cm long, 5-7 mm wide, glaucous, stiff, involute, abaxial surfaces glabrous or hairy, sometimes scab-ridulous, adaxial surfaces scabrous, with 7-17 closely spaced subequal veins. Spikes 10-25 cm long, 7-10 mm wide, with 2(3) spikelets per node; internodes 8-10 mm, surfaces strigillose, hairs to 0.3 mm, edges ciliate, cilia to 1 mm. Spikelets 10-19 mm, with 2-3 florets. Glumes 10-13 mm long, 0.5-2.5 mm wide, exceeded by the florets, narrowly lanceolate, tapering from the base, stiff, keeled, the central portion thicker than the margins, (0)l(3)-veined at midlength, bases expanded, overlapping, concealing the base of the lowest floret, scabrous; lemmas 8-13 mm, densely hairy and not glaucous, hairs to 0.4 mm, or glabrous and glaucous, apices unawned or awned, awns to 2.5 mm; anthers 3-4 mm, dehiscent. 2n = 84.</description>
+  <discussion>Leymus angustus is a Eurasian species that, in its native range, grows in alkaline meadows, and on sand and gravel in river and lake valleys. Several cultivars of L. angustus have been developed for use as forage, particularly in Canada. Some of the better known are 'Prairieland', 'Eejay', and 'Pearl'. The distribution of L. angustus in the Flora region is not known.
+Chen and Zhu (2006) describe Leymus angustus as always being puberulent. Some accessions cultivated under this name by the U.S. Department of Agriculture (Plant Introduction Numbers 110,079; 406,461), have glabrous, glaucous lemmas and glumes that tend to exceed the lemmas, suggesting that they belong to another taxon, possibly L. karelinii (Turcz.) Tzvelev, a species for which 2n = 56.
+</discussion>
+</bio:treatment>

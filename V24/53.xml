@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Zizania palustris L. var. interior (Fassett) Dore </name_authority_date>
+  </taxon_identification>
+  <common_names>INTERIOR WILDRICE</common_names>
+  <description type="morphology">Plants 1-3 m. Blades 10-40+ mm wide. Pistillate part of inflorescences 10-40+ cm wide; branches ascending to widely divergent; lower pistillate branches with 9-30 spikelets.</description>
+  <discussion>Zizania palustris var. interior grows on muddy shores and in shallow water, mainly in the north central United States and adjacent Canada. It resembles Z. aquatica in its vegetative characters, and Z. palustris var. palustris in its pistillate spikelets. Crossing experiments (Duvall and Biesboer 1988) suggest that hybridization between the two may occur. Isozyme data (Warwick and Aiken 1986) do not support the hypothesis that Z. palustris var. interior is a hybrid.</discussion>
+</bio:treatment>

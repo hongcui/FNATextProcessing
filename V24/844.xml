@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>72</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa eminens J. Presl </name_authority_date>
+  </taxon_identification>
+  <common_names>EMINENT BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; often glaucous; rhizomatous, rhizomes stout, about 2 mm thick, culms solitary. Basal branching extravaginal. Culms 20-100 cm tall, about 2 mm thick, terete or weakly compressed; nodes terete, 0-1 exserted. Sheaths closed for 1/6-1/3 their length, sometimes fused by a hyaline membrane to 3/4  their length, terete, bases of some basal sheaths densely retrorsely hairy, hairs 0.1-0.2 mm, thick; ligules 1-3.5 mm, yellow-cream to brown, truncate, erose, ciliolate; blades (2)4-11 mm wide, flat, thick, smooth or sparsely scabrous, apices broadly prow-shaped. Panicles 8-30 cm, erect, loosely contracted, fairly congested, with 40-100+ spikelets; branches 3-10 cm, steeply ascending, terete, smooth or sparsely scabrous, sometimes with tufts of hair at the nodes, with 5-20 spikelets. Spikelets 5-12 mm, laterally compressed; florets 2-6; rachilla internodes smooth, infrequently sparsely puberulent. Glumes lanceolate, subequal or the upper glumes to 2 mm longer than the lower glumes, sometimes exceeding the lowest lemmas, distinctly keeled, smooth, often glaucous, acute to acuminate; lower glumes 4-9.5 mm, l-3(5)-veined; upper glumes 5.5-10 mm, (l)3(5)-veined; calluses of proximal lemmas usually with a crown of hairs, hairs 1-2 mm;  
+lemmas 4.5-7 mm, lanceolate, 5-7-veined, distinctly keeled, thinly membranous, glabrous or the keels and marginal veins long-villous, intercostal regions glabrous or hispidulous, moderately to densely scabrous, margins usually with hairs to 0.2 mm proximally, apices acute; palea keels scabrous; anthers 1.7-3.2 mm. 2n = 28, 29+-, 42, 62.
+</description>
+  <discussion>Poa eminens grows along low arctic and boreal coasts and estuaries, in subsaline meadows and beaches. It also grows along the Asian coast from Hokkaido Island, Japan, to the Chukchi Peninsula, Russia. It hybridizes with Dupontia (see xDupoa, p. 601). Its nuclear ribosomal DNA appears to be related to an ancestor of Dupontia (p. 602) and Arctophila (p. 605); and its chloroplast DNA to P. tibetica Munro ex Stapf, an Asian member of Poa sect. Aphydris (Griseb.) Tzvelev (Gillespie & Soreng [in prep.]).</discussion>
+</bio:treatment>

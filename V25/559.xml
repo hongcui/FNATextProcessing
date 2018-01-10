@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>29</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aristida gyrans Chapm. </name_authority_date>
+  </taxon_identification>
+  <common_names>CORKSCREW THREEAWN</common_names>
+  <description type="morphology">Plants perennial; tightly cespitose, bases often bleached, without rhizomes. Culms 20-65 cm tall, 1-4 mm thick at the base, erect, rarely geniculate at the base, unbranched; internodes often in a sequence of 2 short and 1 long. Leaves mostly basal; sheaths usually shorter than the internodes, glabrous, remaining intact at maturity; collars glabrous; ligules 0.2-0.3 mm; blades (3)5-15 cm long, to 1 mm wide, involute, rarely loosely folded or flat, some¬what stiff and arcuate, bases glabrous abaxially, pale green. Inflorescences paniculate or racemose, 10-30 cm long, 1-2 cm wide, slender, lax; primary branches 3-5 cm, loosely appressed, without axillary pulvini, with 2-5 spikelets. Spikelets appressed. Glumes usually unequal, 1-veined, acuminate or awned, awns to 4 mm, tan to dark brownish or purplish; Lower glumes 6-9(11) mm; upper glumes 9-12 mm; calluses 1-2 mm; lemmas 5-7 mm, glabrous, brownish, without a column, the junction with the awns not evident; awns 8-15 mm, subequal, loosely spirally contorted, but not coiled, just above the base, ascending to spreading distally, not disarticulating at maturity; anthers 3, 1-1.5 mm, brownish. Caryopses 3-4 mm, somewhat lustrous, chestnut-colored. 2n = unknown.</description>
+  <discussion>Aristida gyrans is endemic to the southeastern United States, growing in sandy pine woods and oak scrub. It differs from other species in the genus by its combination of narrow blades, unequal glumes, long calluses, and contorted awns.</discussion>
+</bio:treatment>

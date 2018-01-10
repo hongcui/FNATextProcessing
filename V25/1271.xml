@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>22</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Panicum rigidulum Bosc ex Nees </name_authority_date>
+  </taxon_identification>
+  <common_names>REDTOP PANICUM</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous, occasionally purple-tinged throughout, mostly glabrous throughout (except as noted). Culms 35-150 cm, stout, compressed. Sheaths more or less strongly compressed or keeled, sides usually glabrous or sparsely pubescent distally; ligules 0.3-3 mm, membranous, erose or ciliate, cilia often themselves fimbriate; blades 8-50 cm long, 2-12 mm wide, flat or folded, both surfaces usually glabrous or scabridulous, or the adaxial surfaces sparsely pilose basally. Panicles terminal and axillary, 9-40 cm, 1/3 – 3/4 as wide as long, usually dense; ultimate branchlets usually appressed, 1-sided, scabridulous; pedicels 0.5-1.5 mm, usually appressed, sometimes with 1-several slender hairs at the apices. Spikelets usually 1.6-3.8 mm, usually subsessile, lanceolate, green, purple-tinged, or purple, glabrous. Lower glumes 2/5 – 3/4 as long as the spikelets, 3-veined, midveins keeled; upper glumes and lower lemmas subequal or the glumes slightly longer, often spreading slightly apart at the apices, midveins keeled, usually scabridulous apically; lower florets sterile; lower paleas to 2/3 as long as the lower lemmas; upper florets 1.4-2 mm long, 0.6-0.8 mm wide, 2/5 – 3/4 as long as the spikelets, occasionally stipitate, lustrous, with a tuft of minute, thickish hairs at the apices; upper lemmas thick, stiff, clasping the upper paleas throughout their length. 2n =18.</description>
+  <discussion>Panicum rigidulum grows in swamps, wet woodlands, flood-plain forests, wet pine savannahs, marshy shores of rivers, ponds, and lakes, drainage ditches, and other similar wet to moist places; it is rarely found in dry sites. Its range extends from southern Canada to Mexico, Guatemala, and the Antilles.</discussion>
+  <key>
+    <key_body>
+1. Sheaths truncate or broadly auriculate; blade bases  much  narrower  than  the  subtending sheaths .....subsp. abscissum
+1. Sheaths not truncate or broadly auriculate; blade bases about as wide as the subtending sheaths. 2. Blades usually 5-12 mm wide, flat, mostly glabrous or scabridulous; ligules membranous, 0.3-1 mm long.
+ 
+3. Spikelets 1.6-2.5 mm long, usually over 0.6 mm wide, green or purplish-tinged .....subsp. rigidulum
+3. Spikelets 2.4-3 mm long, usually less than 0.6  mm  wide,  conspicuouly  stipitate, usually purple  .....subsp. elongatum
+2. Blades usually 2-7 mm wide, often folded or involute, usually pilose adaxially, at least near the base; ligules membranous, the cilia usually fimbriate, 0.5-3 mm long.
+4. Spikelets 2-2.7 mm long, green or purplish-stained, often obliquely set on the pedicels .....subsp. pubescens
+4. Spikelets 2.6-3.8 mm long, usually purple, slender, erect on the pedicels   .....subsp. combsii
+
+    </key_body>
+  </key>
+</bio:treatment>

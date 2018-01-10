@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>21</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthelium tenue (Muhl.) Freckmann & Lelong </name_authority_date>
+  </taxon_identification>
+  <common_names>SLENDER PANICGRASS</common_names>
+  <description type="morphology">Plants cespitose, with caudices, forming small, often rather dense clumps with few culms. Basal rosettes well-differentiated; blades 1-5 cm, ovate to lanceolate. Culms 15-55 cm tall, 0.2-0.8 mm thick, erect from geniculate bases; nodes glabrous; internodes mostly glabrous, or the lowest internodes sparsely appressed-pubescent basally; fall phase branching sparingly from the lower and midculm nodes. Cauline leaves 3-4; sheaths much shorter than the internodes, prominently veined, mostly glabrous, margins occasionally ciliate, ligules 0.2-0.7 mm, of hairs, without adjacent pseudoligules; blades 2-6 cm long, 1.5-6 mm wide, ascending, distant, flat, relatively thick, glabrous on both surfaces or the abaxial surfaces minutely puberulent, bases rounded, margins more or less prominently whitish-scabridulous, blades of the flag leaves much shorter than those of the lower leaves. Primary panicles 3-6 cm, nearly as wide as long, long-exserted, dense; branches wiry, spreading to ascending, usually scabridulous. Spikelets 1.3-1.7 mm long, less than 1 mm wide, ellipsoid, often purplish, densely puberulent, obtuse or subacute. Lower glumes usually less than 1/4  as long as the spikelets, broadly acute or obtuse; upper glumes and lower lemmas subequal, or the glumes slightly shorter, exceeded by the upper florets; lower florets sterile; upper florets 1.3-1.6 mm, ellipsoid, subacute. 2n = 18.</description>
+  <discussion>Dichanthelium tenue grows in moist to dry, sandy woods, savannahs, and disturbed sites. It also grows in Chiapas, Mexico (Zuloaga et al. 1993). It exhibits features of D. sphaerocarpon and D. dichotomum. It is also closely related to D. ensifolium, and occasional specimens are intermediate between them.</discussion>
+</bio:treatment>

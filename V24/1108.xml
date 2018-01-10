@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Milium effusum L.</name_authority_date>
+  </taxon_identification>
+  <common_names>WOOD MILLET, MILLET DIFFUS</common_names>
+  <description type="morphology">Plants perennial; rhizomatous. Culms 55-140 cm, erect from decumbent bases, glabrous; nodes 3-5. Sheaths glabrous; ligules 3-9 mm, obtuse, erose; blades 5-26 cm long, 8-17 mm wide, flat, glabrous, equally distributed on the culms. Panicles 10-27 cm; branches 1-9 cm, in pairs or fascicles, flexuous, spreading or drooping, scabrous, with spikelets mainly near the distal ends. Glumes 2.5-5 mm, scabrous, 3-veined, acute to acuminate; lemmas 2.3-3 mm, acute; anthers 1.5-2 mm. 2n = 14, 28.</description>
+  <discussion>Milium effusum is widespread in temperate to subarctic regions in the Northern Hemisphere. North American plants belong to M. effusum var. cisatlanticum Fernald, an elegant native grass that grows in woodlands in eastern North America. It differs from M. effusum L. var. effusum, which grows from Europe to Asia and Japan, in having 2-3 panicle branches at most nodes and spikelets 2.5-5 mm long, rather than 4-5 panicle branches at most nodes and spikelets about 3 mm long. A cultivar of M. effusum, 'Aureum', is grown for its yellowish leaves.</discussion>
+</bio:treatment>

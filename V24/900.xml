@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Deschampsia elongata (Hook.) Munro </name_authority_date>
+  </taxon_identification>
+  <common_names>SLENDER HAIRGRASS</common_names>
+  <description type="morphology">Plants perennial; densely cespitose. Culms (10)30-120 cm. Leaves sometimes forming a basal tuft; sheaths glabrous; ligules 2.5-8(9) mm, acute to acuminate; blades 7-30 cm long, 0.2-2 mm wide, usually involute. Panicles 5-30(35) cm long, 0.5-1.5(2) cm wide, erect or nodding; branches erect to ascending. Spikelets 3-6.7 mm, bisexual, narrowly V-shaped, appressed to the branches. Glumes equaling or exceeding the florets, narrowly lanceolate, usually pale green, sometimes purple-tipped, 3-veined, acuminate; lower glumes (3)3.2-5.5(6.7) mm; upper glumes (3)3.1-5.4(6) mm; callus hairs 0.3-1.15 mm; lemmas 1.7-4.3 mm, smooth, shiny, glabrous, apices weakly toothed or erose, awns 1.5-5.5(6) mm, straight to slightly geniculate, attached from slightly below to slightly above the middle of the lemma, exceeding the florets by 1-2.5 mm; anthers 0.3-0.5(0.7) mm. 2n = 26.</description>
+  <discussion>Deschampsia elongata grows in moist to wet habitats, from near sea level to alpine elevations, from Alaska and the Yukon south to northern Mexico and east to Montana, Wyoming, and Arizona. It also grows, as a disjunct, in Chile. The records from Maine and Colorado probably represent introductions.</discussion>
+</bio:treatment>

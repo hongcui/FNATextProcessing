@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subgenus</rank>
+    <name_authority_date>Setaria subg. Paurochaetium (Hitchc. & Chase) Rominger</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial. Culms tufted, erect. Blades 1-7 mm wide, not plicate. Panicles narrow, usually nodding, more or less interrupted; rachises scabridulous or scabrous, sometimes also sparsely strigose; branches short, appressed; ultimate branchlets with 1-several spikelets in 2 ranks, terminal spikelets subtended by a 1-6 mm bristle. Spikelets 1.5-2.5 mm, glabrous; lower florets usually paleate; upper lemmas and paleas finely and transversely rugose.</description>
+  <discussion>Setaria subg. Paurochaetium, as treated by Fox and Hatch (1999), includes seven taxa and extends from southern Florida through the West Indies into the Yucatan region of Mexico and Belize. One species, S. chapmanii, grows in the Flora region.
+Setaria subg. Paurochaetium usually differs from subg. Reverchoniae in its 2-ranked and smaller spikelets and in the absence of a palea in the lower floret. Unfortunately, S. chapmanii, the only representative of subg. Paurochaetium in the Flora region, is exceptional within the subgenus in lacking a lower palea.
+</discussion>
+</bio:treatment>

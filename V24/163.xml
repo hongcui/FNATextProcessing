@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Achnatherum parishii subsp. depauperatum (M.E. Jones) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>Low NEEDLEGRASS</common_names>
+  <description type="morphology">Culms 14-35 cm tall, 0.8-1.7 mm thick, glabrous. Basal sheath margins glabrous or hairy distaily, hairs to 0.5 mm; blades 4-15 cm long, 1-2.5 mm wide, usually 0.5-1.5 mm in diameter and tightly convolute, conspicuously arcuate distaily, abaxial surfaces smooth, glabrous, adaxial surfaces scabrous. Panicles 7-12 cm long, 1.5-2.5 cm wide. Florets 4.8-6 mm; paleas densely hairy between the veins, some hairs as long as those on the lemmas; awns 10-17 mm; anthers 2.3-2.8 mm. Caryopses 3-4 mm, fusiform. 2n = unknown.</description>
+  <discussion>Achnatherum parishii subsp. depauperatum grows in gravel and on rocky slopes, in juniper and mixed desert shrub associations, from central Nevada to western Utah. It differs from A. webberi in its persistent awns and thicker leaves that tend to curl when dry, and from A. parishii subsp. parishii in its smaller stature, glabrous or shortly hairy sheath margins, and densely hairy paleas.</discussion>
+</bio:treatment>

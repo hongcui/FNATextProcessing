@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>13.05</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>SECALE L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual, biennial, or short-lived perennials; cespitose when perennial. Culms 25-120(300) cm. Sheaths open; auricles usually present, 0.5-1 mm; ligules membranous, truncate, often lacerate; blades flat or involute. Inflorescences laterally compressed, distichous spikes; middle internodes 2-4 mm, with 1 spikelet per node, spikelets strongly ascending; disarticulation in the rachises, below the spikelets, rachises not or tardily disarticulating in cultivated strains. Spikelets 10-18 mm, with 2(3) florets; florets bisexual. Glumes 8-20 mm, shorter than the adjacent lemmas, linear to subulate, scabrous, margins hyaline, 1-veined, keeled, keels terminating in an awn, awns to 35 mm; lemmas 8-19 mm, strongly laterally compressed, strongly keeled, keels conspicuously scabrous distally, scabrules 0.6-1.3 mm, apices tapering to a scabrous awn, awns 2-50 mm; anthers 3, 2.3-12 mm, yellow, x = 7. Haplome R.</description>
+  <discussion>Secale is a genus of three species. All are native to the Mediterranean region and western Asia; two species have been collected in the Flora region. Secale cereale is cultivated as a crop and used along roadsides to prevent soil erosion, and is established in the Flora region. Secale strictum has been cultivated experimentally; it is not established in the Flora region.
+Unlike other cereal grasses such as Triticum, Hordeum, and Avena, species of Secale are outcrossing, although 5. sylvestre Host is reported to be self-compatible. All three species are diploids. Remains of cultivated rye dating to 6000 B.C. have been found in Turkey.
+xTriticosecale is an artificially derived hybrid between Triticum and Secale that is now widely cultivated (see p. 261).
+</discussion>
+  <references>Secale is a genus of three species. All are native to the Mediterranean region and western Asia; two species have been collected in the Flora region. Secale cereale is cultivated as a crop and used along roadsides to prevent soil erosion, and is established in the Flora region. Secale strictum has been cultivated experimentally; it is not established in the Flora region.
+Unlike other cereal grasses such as Triticum, Hordeum, and Avena, species of Secale are outcrossing, although 5. sylvestre Host is reported to be self-compatible. All three species are diploids. Remains of cultivated rye dating to 6000 B.C. have been found in Turkey.
+xTriticosecale is an artificially derived hybrid between Triticum and Secale that is now widely cultivated (see p. 261).
+</references>
+  <key>
+    <key_body>
+1. Plants annual or biennial; rachises not or tardily disarticulating; lemmas 14-18 mm long  ..... 1. S. cereale
+1. Plants perennial; rachises readily disarticulating; lemmas 8-16 mm long .....2. S. strictum
+
+    </key_body>
+  </key>
+</bio:treatment>

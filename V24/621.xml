@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Festuca viviparoidea subsp. krajinae Pavlick </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants loosely cespitose. Culms usually glabrous and smooth throughout, rarely sparsely puberulent near the inflorescence. Sheaths brownish, slowly shredding into fibers; abaxial sclerenchyma strands about as wide as the adjacent veins, less than 2 times as wide as high. Glumes and lemmas puberulent throughout or only near the apices. 2n = 56.</description>
+  <discussion>Festuca viviparoidea subsp. krajinae grows in alpine sites of the western cordillera, from southern Alaska and the Yukon Territory through British Columbia to southwestern Alberta.</discussion>
+</bio:treatment>

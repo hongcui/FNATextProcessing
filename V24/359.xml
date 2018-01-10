@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Hordeum murinum L. subsp. murinum </name_authority_date>
+  </taxon_identification>
+  <common_names>WALL BARLEY, FARMER'S FOXTAIL, WAY BARLEY</common_names>
+  <description type="morphology">Plants winter annuals. Culms 30-60 cm. Leaves green. Spikes green. Central floret sessile to subsessile; lemmas subequal to those of the lateral florets, awns longer than those of the lateral florets; anthers 0.8-1.4 mm. Lateral spikelets: paleas almost glabrous; anthers 0.8-1.4 mm; rachillas about 0.15 mm, pale. 2n = 28.</description>
+  <discussion>Hordeum murinum subsp. murinum grows in waste places that are somewhat moist. It is native to Europe. Within the Flora region, it has the most restricted distribution of the three subspecies, being found from Washington to Arizona, and in scattered locations from Maine to Virginia.</discussion>
+</bio:treatment>

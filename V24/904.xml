@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Agrostis capillaris L. </name_authority_date>
+  </taxon_identification>
+  <common_names>BROWNTOP, RHODE ISLAND BENT, COLONIAL BENT, AGROSTIDE FINE</common_names>
+  <description type="morphology">Plants perennial; rhizomatous or stoloniferous, rhizomes or stolons to 5 cm. Culms 10-75 cm, erect or geniculate, with 2-5 nodes. Leaves basal and cauline; sheaths smooth; ligules 0.3-2 mm, shorter than wide, dorsal surfaces usually scab-ridulous, sometimes smooth, apices truncate to rounded, erose-ciliolate, sometimes lacerate; blades 3-10 cm long, 1-5 mm wide, flat. Panicles 3-20 cm long, less than 1/2 the length of the culm, (1)2-12 cm wide, stiffly erect, widely ovate, open, exserted from the upper sheaths at maturity, lowest node with (2)3-9(13) branches; branches smooth or scabridulous, spreading during and after anthesis, spikelets usually confined to the distal 1/2, lower branches 1.5-7 cm; pedicels 0.4-3.3 mm, adjacent pedicels divergent. Spikelets lanceolate or oblong, purplish brown to greenish. Glumes subequal, 1.7-3 mm, 1-veined, acute; lower glumes scabridulous over the midvein towards the apices; upper glumes scabridulous or smooth over the midvein; calluses glabrous, or with a few hairs to 0.1 mm; lemmas 1.2-2.5 mm, smooth, glabrous, opaque to translucent, 3(5)-veined, veins typically prominent, apices obtuse to acute, usually entire, sometimes the veins excurrent to 0.5 mm, usually unawned, rarely awned, sometimes varying within a panicle, awns to 2 mm, mid-dorsal, straight or geniculate; paleas 0.6-1.2(1.4) mm, typically at least 1/2 the length of the lemmas, veins visible; anthers 3, 0.8-1.3 mm. Caryopses 0.8-1.5 mm; endosperm solid. 2n = 28.</description>
+  <discussion>Agrostis capillaris grows along roadsides and in disturbed areas. It was introduced from Europe, and is now well established in western and eastern North America. It is often used for fine-leaved lawns; commercial seed sold as Agrostis tenuis 'Highland' usually contains A. capillaris.
+Agrostis capillaris differs from A. gigantea (p. 641) in its short ligules, especially on the vegetative shoots, and the open panicles that lack spikelets near the base of the branches. It differs from A. castellana (see next) in having diffuse rather than clustered spikelets, fewer rhizomes, divaricate panicle branches after anthesis, calluses that are glabrous or with hairs up to 0.1 mm long, and glabrous lemmas. It also tends to flower somewhat earlier than A. castellana. Agrostis capillaris readily hybridizes with A. vinealis (p. 643), the hybrids being somewhat intermediate between the two parents.
+</discussion>
+</bio:treatment>

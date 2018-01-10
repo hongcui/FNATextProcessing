@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Zulma E. Rugolo de Agrasar</author>
+    </source>
+  </meta>
+  <number>14.44</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>BROMIDIUM Nees & Meyen</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; cespitose, sometimes rhizomatous. Culms 5-50 cm, erect. Sheaths open almost to the base; auricles absent; ligules membranous; blades flat or subconvolute, smooth or scabrous. Inflorescences panicles, spikelike or subspikelike, dense, usually interrupted towards the base. Spikelets with 1 floret; rachillas not prolonged beyond the base of the floret; disarticulation above the glumes, beneath the floret. Glumes 2, exceeding the florets, equal or unequal, membranous, 1-veined, keeled, keels scabrous or scabrous-ciliate, apices unawned; calluses short, pilose on all sides or with 2 tufts of lateral hairs, hairs not reaching past the lower 1/3 of the lemmas; lemmas membranous, glabrous or pilose, margins incurved, 5-veined, veins scabridulous on the distal 1/3, lateral and marginal veins extending beyond the lemma margins as awns or 0.1-2 mm awnlike teeth, midvein forming an awn from the lower or upper 1/3 of the lemmas, awns exceeding the glumes, stout, geniculate, bases twisted, hygroscopic; paleas absent or much reduced; lodicules 2, membranous, acute; anthers 3, anther sacs separated in the distal 1/3 after dehiscence; ovaries oblong; styles 2; stigmas plumose. Caryopses shorter than the lemmas, concealed at maturity, fusiform, grooved, usually falling free of the lemmas and paleas; hila punctiform or oval; embryos small; endosperm lipid, liquid, doughy, or starchy. 
+ 
+</description>
+  <discussion>Bromidium includes five species, all of which are native to South America. One species, B. tandilense, is now established in California. None of the species is important for forage. Four of the five species are annual. The stout hygroscopic awn, apical awnlike teeth, and lemma pilosity all aid in its dispersal.
+Bromidium is similar to Agrostis, and is sometimes included in it. It differs from Agrostis in its combination of dense, contracted, spikelike panicles with a relatively large number of spikelets, unawned glumes, and 4-awned or -toothed lemmas.
+</discussion>
+  <references>Rugolo de Agrasar, Z.E. 1982. Revalidation del genero Bromidium Nees et Meyen emend. Pilger (Gramineae). Darwiniana 24:187-216.
+ 
+</references>
+</bio:treatment>

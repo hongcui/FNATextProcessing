@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>14</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthelium acuminatum (Sw) Gould & C.A. Clark </name_authority_date>
+  </taxon_identification>
+  <common_names>HAIRY PANICGRASS, PANIC LAINEUX</common_names>
+  <description type="morphology">Plants more or less densely cespi¬tose. Basal rosettes usually well-differentiated; blades ovate to lanceolate. Culms 15-100 cm (rarely taller), usually thicker than 1 mm, weak and wiry or relatively stout and rigid, erect, ascending or decumbent; nodes occasionally swollen, glabrous or densely pubescent, often with a glabrous or viscid ring below; internodes purplish or olive green or grayish-green, to yellowish-green, variously pubescent, with hairs of 2 lengths or glabrous; fall phase erect, spreading, or decumbent, usually branching extensively at all but the uppermost nodes, ultimately forming dense fascicles of branchlets with reduced, flat or involute blades and reduced secondary panicles with few spikelets. Cauline leaves 4-7; sheaths usually shorter than the internodes, glabrous or densely and variously pubescent with hairs shorter than 3 mm, margins ciliate or glabrous; ligules and pseudoligules 1-5 mm, of hairs; blades 2-12 cm long (rarely longer), 2-12 mm wide (rarely wider), firm or lax, spreading to reflexed or stiffly ascending, yellowish-green or grayish-green to olivaceous, densely to sparsely and variously pubescent, margins similar or occasionally whitish-scabridulous, margins often with papillose-based cilia,  at least  basally,  bases  rounded  or  subcordate. Primary panicles 3-12 cm, 1/4 - 3/4 as wide as long, usually open, well-exserted, rather dense; rachises glabrous, puberulent, or more or less densely pilose, at least basally. Spikelets 1.1-2.1 mm, obovoid to ellipsoid, yellowish-green to olivaceous or purplish, variously pubescent, obtuse or subacute. Lower glumes usually 1/4 - 1/2 as long as the spikelets, obtuse to acute; upper glumes and lower lemmas subequal, equaling the upper florets at maturity, or occasionally the upper glumes slightly shorter, not strongly veined; lower florets sterile; upper florets 1.1-1.7 mm long, 0.6-1 mm wide, ellipsoid, obtuse to acute or minutely umbonate or apiculate. 2n = 18.</description>
+  <discussion>Dichanthelium acuminatum is common and ubiquitous in dry to wet, open, sandy or clayey woods, clearings, bogs, and swamps, or in saline soil near hot springs, growing in much of the Flora region and extending into northern South America. It is probably the most polymorphic and troublesome species in the genus. The treatment presented here attempts to delimit the major variants present, but does not fully reflect the intricate reticulate pattern of morphological variation that exists. There is considerable overlap among the nine subspecies recognized and, in addition, there appears to be widespread introgression from other Dichanthelium species, such as D. dichotomum, D. sphaerocarpon, D. ovale, and D. aciculare into the D. acuminatum complex, contributing to the taxonomic difficulties.</discussion>
+  <key>
+    <key_body>
+1. Lower portion of the culms and lower sheaths usually glabrous or sparsely pubescent.
+2. Primary panicles congested, more than twice as long as wide; spikelets ascending to appressed.....subsp. spretum
+2. Primary panicles open, less than twice as long as wide; spikelets diverging to ascending.
+3. Blades green or purplish, the margins not conspicuously ciliate at the base; spikelets 1.1-1.5 mm long, usually ellipsoid .....subsp. longiligulatum
+3. Blades often yellowish-green, the margins usually with long, papillose-based cilia at the base; spikelets 1.3-1.6 mm long, usually obovoid .....subsp. lindheimeri
+1. Lower portion of the culms and lower sheaths densely and variously pubescent or puberulent.
+4. Culms 15-30 cm tall; midculm sheaths nearly as long as the internodes; blades usually 2-6.5 cm long, less than 8 times longer than wide .....subsp. sericeum
+4. Culms usually 30-100 cm tall; midculm sheaths about 1/2  as long as the internodes; blades usually 6-12 cm long, more than 8 times longer than wide.
+5. Culms and lower sheaths densely covered with spreading, villous hairs or soft, thin, papillose-based hairs, often with shorter hairs underneath; blades softly pubescent to velvety on the abaxial surfaces. 
+6. Primary panicles usually poorly exserted, on peduncles less than 6 cm long; blades suberect, the margins lacking cilia on the distal 1/2 .....subsp. thermale
+6. Primary panicles usually well-exserted, on peduncles more than 8 cm long; blades ascending to spreading, the margins ciliate along most of their length .....subsp. acuminatum
+5. Culms and sheaths pilose with papillose-based hairs to hispid, with mostly ascending hairs, or densely puberulent with a few longer, ascending hairs also present; blades appressed-pubescent or puberulent abaxially, not velvety to the touch.
+7. Sheaths and culms densely puberulent, scattered long hairs often present also.....subsp. columbianum
+7. Sheaths and culms pilose with papillose-based hairs, the hairs mostly ascending, occasionally with inconspicuous, shorter hairs underneath.
+8. Blades usually 6-12 mm wide, spreading to ascending, the adaxial surfaces nearly glabrous or with hairs shorter than 3 mm long; spikelets 1.5-2 mm .....subsp. fasciculatum
+8. Blades usually 2-6 mm wide, erect to ascending, spreading or reflexed, the adaxial surfaces glabrous or with hairs 3-6 mm long; spikelets 1.1-1.6 mm long. 
+9.  Blades erect to ascending, the adaxial surfaces long-pilose; spikelets 1.3-1.6 mm long, usually broadly obovoid .....subsp. implicatum
+9.  Blades ascending, spreading, or reflexed, the adaxial surfaces glabrous or sparsely pubescent; spikelets 1.1-1.5 mm long, usually ellipsoid .....subsp. leucothrix
+
+    </key_body>
+  </key>
+</bio:treatment>

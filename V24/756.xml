@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>24</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa laxiflora Buckley </name_authority_date>
+  </taxon_identification>
+  <common_names>LAX-FLOWER BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; green throughout; loosely tufted or with solitary shoots, long-rhizomatous. Basal branching extravaginal. Culms 50-120 cm. Sheaths closed for 1/2 - 3/4 their length, usually sparsely to moderately retrorsely scabrous, margins not ciliate; ligules 2-3.5 mm, smooth or sparsely scabrous, obtuse to acute; blades 3-8 mm wide, flat, lax, apices narrowly prow-shaped. Panicles 14-30 cm, open, sparse, with 1-3(4) branches per node; branches (5.5)8-12(15) cm, widely spreading, fairly straight, angled, angles sparsely to moderately scabrous, with 3-13 spikelets. Spikelets 4-8 mm, laterally compressed, rarely bulbiferous; florets 2-4, usually normal, rarely bulb-forming; rachilla internodes about 1 mm, smooth, glabrous. Glumes distinctly keeled, keels scabrous; lower glumes lanceolate, 1-3-veined; upper glumes shorter than or subequal to the lowest lemmas; calluses webbed; lemmas 3.2-6 mm, lanceolate, distinctly keeled, smooth or sparsely finely scabrous, keels and marginal veins long-villous, keels hairy to 2/3 – 3/4 their length, marginal veins sparsely hairy, lateral veins moderately prominent, usually glabrous, rarely sparsely softly puberulent, intercostal regions glabrous, apices acute; paleas scabrous, glabrous over the keels; anthers 0.5-1.1 mm. 2n = ca. 98.</description>
+  <discussion>Poa laxiflora is restricted to mesic, old growth, mixed conifer forests of the Pacific coast, from Alaska south through the western foothills of the northern Cascades to Oregon. It is not a common species. A bulbiferous specimen was collected in the Queen Charlotte Islands.
+Inclusion of Poa laxiflora in Poa sect. Homalopoa is tentative; it may belong to sect. Sylvestres.
+</discussion>
+</bio:treatment>

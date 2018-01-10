@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Setaria setosa (Sw.) P. Beauv. </name_authority_date>
+  </taxon_identification>
+  <common_names>WEST INDIES BRISTLEGRASS</common_names>
+  <description type="morphology">Plants perennial. Culms 50-100 cm; nodes usually glabrous. Sheaths glabrous or finely pubescent, margins ciliate distally; ligules of 1 mm hairs; blades 15-20 cm long, 6-12 mm wide, flat or folded, often finely pubescent on both surfaces. Panicles 15-20 cm, loosely spikelike, interrupted, attenuate; rachises often villous; branches ascending, lower branches about 2.5 cm; bristles usually solitary, less than 10 mm, antrorsely scabrous. Spikelets 2-2.5 mm, ovate-lanceolate. Lower glumes about 1/2 as long as the spikelets, 3-veined; upper glumes about 2/3 as long as the spikelets, 5-7-veined; lower lemmas equaling the upper lemmas; lower paleas as long as the upper paleas, broad; upper lemmas finely and distinctly transversely rugose. 2n = unknown.</description>
+  <discussion>Setaria setosa is native to the West Indies and Mexico. It is probably a recent introduction to Florida, but appears to be established there. The specimen from New Jersey was from a ballast dump; the species is not established in that state.
+ 
+</discussion>
+</bio:treatment>

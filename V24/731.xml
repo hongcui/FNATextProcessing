@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Poa L. sect. Poa</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; rhizomatous, rhizomes usually well developed and extensive, sometimes poorly developed, densely to loosely tufted or the shoots solitary. Basal branching mainly extravaginal or equally extra- and intravaginal. Culms 5-120 cm, terete or weakly compressed; nodes terete or weakly compressed. Sheaths closed for (1/6)1/4 – 3/5 their length, terete to slightly compressed, smooth or sparsely scabrous, usually glabrous, infrequently sparsely to moderately hairy, distal sheaths usually longer than their blades; collars smooth, glabrous; ligules 0.9-7 mm, smooth or scabrous, truncate to acute, glabrous or ciliolate; innovation blades of intravaginal shoots involute and narrower or similar to the cauline blades and blades of extravaginal shoots; cauline blades subequal or the middle blades longest, flat, folded, or weakly involute, abaxial surfaces smooth, glabrous, adaxial surfaces smooth or sparsely scabrous, frequently sparsely hairy, hairs 0.2-0.8 mm, apices prow-shaped, sometimes narrowly prow-shaped, flag leaf blades 1.5-10 cm. Panicles 2-18(20) cm, loosely contracted to open, often slightly lax to nodding, sparsely to moderately congested, with 1-7(9) branches per node; branches 1-9 cm, ascending to widely spreading or somewhat reflexed, flexuous to straight, terete or angled, usually smooth or sparsely to moderately scabrous, infrequently densely scabrous. Spikelets 3.5-9(12) mm, lengths to 3.5 times widths, lanceolate to broadly lanceolate, laterally compressed, sometimes bulbiferous; florets 2-5(6), usually normal, bisexual; rachilla internodes smooth, glabrous or pubescent. Glumes unequal to subequal, distinctly shorter than to subequal to the adjacent lemmas, keels weak or distinct, smooth or scabrous; lower glumes 1- or 3-veined; calluses terete or slightly laterally compressed, usually dorsally webbed, sometimes with additional webs below the marginal veins, infrequently glabrous; lemmas 2-8 mm, lanceolate to broadly lanceolate, distinctly keeled, keels and marginal veins, and sometimes also the lateral veins, hairy, all veins prominent, intercostal regions glabrous or hairy; palea keels sometimes with hairs at midlength, intercostal regions glabrous or hairy; anthers 3, 1.2-2.5 mm, infrequently aborted late in development.</description>
+  <discussion>Poa section Poa includes 32 species. All the species are synoecious perennials; most are strongly rhizomatous.</discussion>
+</bio:treatment>

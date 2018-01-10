@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Enteropogon prieurii (Kunth) Clayton </name_authority_date>
+  </taxon_identification>
+  <common_names>PRIEUR'S UMBRELLAGRASS</common_names>
+  <description type="morphology">Plants perennial; stoloniferous. Culms to 80 cm. Sheaths glabrous, occasionally pilose apically; ligules short ciliate to long pilose; blades 10-30 cm long, to 5 mm wide, glabrous abaxially, scabrous to pilose adaxially. Panicles with 3-7 branches in a single digitate cluster; branches 6-11 cm, erect to slightly divergent, with 8-11 spikelets per cm. Spikelets with 1 bisexual floret and 4-5 sterile florets. Lower glumes 2.1-2.2 mm; upper glumes 3.7-4 mm; lowest lemmas 3.3-4.7 mm long, 0.4-0.7 mm wide, narrowly elliptic, margins densely strigose distally; lowest sterile florets 1.5-2.5 mm, cylindrical, awned, awns 8-17 mm; distal florets about 0.3 mm, flabellate. Caryopses 2-2.5 mm long, about 0.5 mm wide. 2n = unknown.</description>
+  <discussion>Enteropogon prieurii is native to the tropics of the Eastern Hemisphere. It was found near wharves in Alabama and North Carolina at the beginning of the twentieth century, but it is not known to be established in the Flora region.</discussion>
+</bio:treatment>

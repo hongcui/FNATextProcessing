@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis hypnoides (Lam.) Britton, Sterns & Poggenb. </name_authority_date>
+  </taxon_identification>
+  <common_names>TEEL LOVEGRASS, ÉRAGROSTIDE HYPNOIDE</common_names>
+  <description type="morphology">Plants annual; stoloniferous, mat-forming, without innova¬tions, without glands. Culms decumbent and rooting at the lower nodes, erect portion (2)5-12(20) cm, often branched, glabrous or hairy on the lower internodes. Sheaths pilose on the margins, collars, and at the apices, hairs 0.1-0.6 mm; ligules 0.3-0.6 mm; blades 0.5-2.5 cm long, 1-2 mm wide, flat to involute, abaxial surfaces glabrous, adaxial surfaces appressed pubescent, hairs about 0.2 mm. Panicles terminal and axillary, 1-3.5 cm long, 0.7-2.5 cm wide, ovate, open to somewhat congested; primary branches 0.1-0.5 cm, appressed to strongly divergent, glabrous; pulvini sparsely pilose or glabrous; pedicels 0.2-1 mm, ciliate. Spikelets 4-13 mm long, 1-1.5 mm wide, linear-oblong, often arcuate, loosely imbricate, greenish-yellow to purplish, with 12-35 florets; disarticulation acropetal, paleas persistent. Glumes linear-lanceolate to lanceolate, hyaline; lower glumes 0.4-0.7 mm; upper glumes 0.8-1.2 mm; lemmas 1.4-2 mm, ovate, strongly 3-veined, veins greenish, apices acuminate; paleas 0.7-1.2 mm, hyaline, keels scabridulous, apices acute to obtuse; anthers 2, 0.2-0.3 mm, brownish. Caryopses 0.3-0.5 mm, ellipsoid, some¬what translucent, light brown. 2n = 20.</description>
+  <discussion>Eragrostis hypnoides grows along muddy or sandy shores of lakes and rivers and in moist, disturbed sites, at 10-1600 m. It is native to the Americas, extending from southern Canada to Argentina.</discussion>
+</bio:treatment>

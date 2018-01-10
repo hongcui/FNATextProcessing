@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>28</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Panicum antidotale Retz. </name_authority_date>
+  </taxon_identification>
+  <common_names>BLUE PANICGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, rhizomatous, rhizomes about 1 cm thick, knotted, pubescent, with large, scalelike leaves. Culms 50-300 cm tall, 2-4 mm thick, often compressed, erect or ascending, hard, becoming almost woody; nodes swollen, glabrous or pubescent; internodes glabrous, glaucous. Sheaths not keeled, shorter than or equal to the internodes, glabrous or the lower sheaths at least partially pubescent, hairs papillose-based; ligules 0.3-1.5 mm; blades 10-60 cm long, 3-20 mm wide, elongate, flat, abaxial surfaces and margins scabrous, adaxial surfaces occasionally pubescent near the base, with prominent, white midveins, bases rounded to narrowed. Panicles 10-45 cm, to 1/2 as wide as long, open or somewhat contracted, with many spikelets; branches 4-12 cm, opposite or alternate, ascending to spreading; pedicels 0.3-2.5 mm, scabridulous to scabrous, appressed to diverging less than 45° from the branch axes. Spikelets 2.4-3.4 mm long, 1-1.3 mm wide, ellipsoid-lanceoloid to narrowly ovoid, often purplish, glabrous, acute. Lower glumes 1.4-2.2 mm, 1/3 – 1/2 as long as the spikelets, 3-5-veined, obtuse; upper glumes and lower lemmas subequal, glabrous, 5-9-veined, margins scarious, acute; lower florets staminate; upper florets 1.8-2.8 mm long, 0.9-1.1 mm wide, smooth, lustrous, acute. 2n = 18, 36.</description>
+  <discussion>Panicum antidotale is native to India. It is grown in the Flora region as a forage grass, primarily in the southwestern United States. It is now established in the region, being found in open, disturbed areas and fields.</discussion>
+</bio:treatment>

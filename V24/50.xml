@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Zizania aquatica L. var. aquatica </name_authority_date>
+  </taxon_identification>
+  <common_names>SOUTHERN WILDRICE, ZIZANIE AQUATIQUE</common_names>
+  <description type="morphology">Plants to 5 m. Blades (5)10-75 mm wide. Pistillate spikelets 7-24 mm; awns to 10 cm.</description>
+  <discussion>Zizania aquatica var. aquatica grows in fresh or somewhat brackish marshes, swamps, streams, and lakes. Its native range extends from southeastern Minnesota to southern Maine, and south to central Florida and southern Louisiana. Plants in the Wading River, New Jersey, grow mostly immersed; narrow-leaved populations occur locally in the New England states and near Ottawa, Ontario.</discussion>
+</bio:treatment>

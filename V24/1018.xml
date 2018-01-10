@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>17</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Calamagrostis koelerioides Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>DENSE-PINE REEDGRASS</common_names>
+  <description type="morphology">Plants without sterile culms; often densely cespitose, with rhizomes 2-6 cm long, 2-4 mm thick. Culms (26)60-85(120) cm, unbranched, slightly scabrous; nodes 2-3(5). Sheaths and collars usually scabrous, rarely smooth, glabrous; ligules (1.5) 2-4.5(7) mm, truncate to obtuse, entire or sometimes lacerate; blades (2)9-20(30) cm long, (2)2.5-4.5(8) mm wide, flat, slightly scabrous, adaxial surfaces glabrous or sparsely hairy. Panicles (4)10-13(16) cm long, about 1 cm wide, contracted, erect to slightly nodding, often slightly interrupted towards the base, straw-colored or pale green to pale purple; branches (1.1)2.8-4(6) cm, scabrous, spikelet-bearing to the base. Spikelets (4)4.5-6(7) mm; rachilla prolongations 1.5-2.5(3) mm, hairs 1.5-2 mm. Glumes slightly keeled, keels smooth or slightly scabrous distally, lateral veins visible but not prominent, apices acute; callus hairs 1.5-2 mm, 0.3-0.4 times as long as the lemmas, sparse; lemmas (3.5)4-5(6) mm, 0.5-1.5 mm shorter than the glumes; awns 4-5.5 mm, attached to the lower 1/10 – 1/5 of the lemmas, exserted, sometimes barely so, stout, distinguishable from the callus hairs, bent; anthers 2-3.5 mm. 2n = 28.</description>
+  <discussion>Calamagrostis koelerioides grows in mountain meadows, chaparral, and Jeffrey pine and blue spruce forests, and on talus slopes, dry hills, and ridges, occasionally on serpentine soils, at 50-2100 m. It extends from Washington south to southern California and east to Montana and western Wyoming.
+Calamagrostis koelerioides is similar to C. rubescens (p. 723). The two have traditionally been distinguished by the presence of hairs on the leaf collars in C. rubescens, and their absence in C. koelerioides; a more reliable differentiation is the longer lemmas, glumes, and awns of C. koelerioides compared to C. rubescens.
+</discussion>
+</bio:treatment>

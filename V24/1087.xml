@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Phalaris minor Retz. </name_authority_date>
+  </taxon_identification>
+  <common_names>LESSER CANARYGRASS</common_names>
+  <description type="morphology">Plants annual. Culms 10-100 cm, not swollen at the base. Ligules 5-12 mm, truncate to rounded, often lacerate; blades 3-15 cm long, 2-10 mm wide, smooth, shiny. Panicles 1-8 cm long, 1-2 cm wide, dense, ovoid-lanceoloid, truncate to rounded at the base, rounded apically. spikelets borne singly, not clustered. Spikelets homogamous, with 2 florets, 1 bisexual; disarticulation above the glumes, beneath the sterile florets. Glumes 3.5-6.5 mm long, 1.2-2 mm wide, keels winged distally, wings 0.3-0.5 mm wide, irregularly dentate or crenate, occasionally entire, varying within a panicle, lateral veins conspicuous, smooth; sterile florets 1, 0.7-1.8 mm, linear, glabrous or almost so; bisexual florets 2-4 mm long, 1-1.8 mm wide, hairy, dull yellow when immature, becoming shiny gray-brown at maturity, acute to somewhat acuminate; anthers 1-2 mm. 2n = 28, 29.</description>
+  <discussion>Phalaris minor is native around the Mediterranean and in northwestern Asia, but is now found throughout the world. Even where it is native, it usually grows in  
+disturbed ground, often around harbors and near refuse dumps. Although it has been found at numerous locations in the Flora region, it is only established in the southern portion of the region.
+The compact panicle with its truncate to rounded base, and the rather variable edges of the glume wings, usually distinguish Phalaris minor from other species in the genus. It sometimes forms a polyploid hybrid with P. aquatica, P. xdaviesii S.T. Blake, which is cultivated for forage in Australia, Africa, and South America.
+</discussion>
+</bio:treatment>

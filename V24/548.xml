@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>14</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>tribe</rank>
+    <name_authority_date>POEAE R. Br.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; cespitose, rhizomatous, or stoloniferous. Culms annual, not woody, not branching above the base; internodes usually hollow. Sheaths usually open for most of their length, sometimes closed; collars without tufts of hair on the sides; auricles usually absent; ligules membranous to hyaline, sometimes ciliate, those of the upper and lower cauline leaves usually similar; pseudopetioles not developed; blades linear to narrowly lanceolate, venation parallel, cross venation not evident, without arm or fusoid cells, epidermes without microhairs, not papillate, cross sections non-Kranz. Inflorescences terminal, usually panicles, sometimes spikes, panicles sometimes spikelike or reduced to racemes in depauperate specimens; disarticulation usually above the glumes and beneath the florets, sometimes below the glumes. Spikelets 0.7-50 mm, laterally compressed, sometimes weakly so, sometimes viviparous, usually with 2-22 florets, sometimes with 1, sterile florets usually distal to the reproductively functional florets, sometimes with 1 or 2 staminate or sterile florets below a bisexual floret, sterile florets often reduced in size; rachillas sometimes prolonged beyond the base of the distal florets. Glumes (0,1)2, equal or unequal, shorter or longer than the adjacent florets, sometimes exceeding the distal florets; florets laterally compressed; calluses glabrous or hairy, not well developed; lemmas lanceolate to ovate, l-7(9)-veined, unawned or awned, veins usually converging distally, sometimes parallel, awns from basal to terminal on the lemmas, straight or bent; paleas 2-keeled, from shorter than to longer than the lemmas, sometimes absent or minute; lodicules 2, membranous, not or weakly veined; anthers 3; ovaries usually glabrous, sometimes hairy distally; styles 2, bases free. Caryopses longitudinally grooved or not, not beaked, pericarp thin; hila punctate to linear; embryos from 1/4-1/3 as long as the caryopses. x = 7.</description>
+  <discussion>The Poeae constitute the largest tribe of grasses, encompassing around 115 genera and 2500 species. The species are primarily cool-temperate to arctic in their distribution. In the Flora region, there are 63 non-hybrid genera with 344 species, and 4 hybrid genera, each of which has one species. Many of the tribe's species are well known as lawn and pasture grasses, for example, Poa pratensis (Kentucky bluegrass), Dactylis glomerata (orchard grass), and Phleum pratense (timothy).
+The tribe's circumscription and its infratribal taxonomy are unclear. It is interpreted here as including generic groups that are, or have been, treated in other works as tribes (e.g., Agrostideae Dumort., Aveneae Dumort., Hainardeae Greut., and Phalarideae Dumort.). Some of these are sometimes recognized as subtribes, often with modified circumscriptions. Recent studies (e.g., Catalan et al. 1997, 2004; Soreng and Davis 1998) indicate that there are some infratribal groupings that, based on chloroplast DNA data, appear stable; other groupings do not. In addition, there is little support for the monophyly of some genera, notably Festuca and its allies.
+The following key does not include these four hybrid genera: xAgropogon (Agrostis x Polypogon, p. 668), xArctodupontia (Arctopbila x Dupontia, p. 604), xDupoa (Dupontia x Poa, p. 601), and xPucciphippsia (Puccinellia x Phippsia, p. 477). They are described on the pages indicated. In the key that follows, branch measurements include spikelets, but not awns.
+</discussion>
+  <references>Catalan, P., E.A. Kellogg, and R.G. Olmstead. 1997. Phylogeny of Poaceae subfamily Pooideae based on chloroplast ndh¥ gene sequences. Molec. Phylogenet. Evol. 8:150-166; Catalan, P., P. Torrecilla, J.A. Lopez Rodriguez, and R.G. Olmsted. 2004. Phylogeny of the festucoid grasses of subtribe Loliinae and allies (Poeae, Pooideae) inferred from ITS and trnL-T sequences. Molec. Phylogenet. Evol. 31:517-541; Macfarlane, T.D. 1987. Poaceae subfamily Pooideae. Pp. 265-276 in T.R. Soderstrom, K.W. Hilu, C.S. Campbell and M.E. Barkworth (eds.). Grass Systematics and Evolution. Smithsonian Institution Press, Washington, D.C., U.S.A. 473 pp.; Soreng, R.J. and J.I. Davis. 1998. Phylogenetics and character evolution in the grass family (Poaceae): Simultaneous analysis of morphological and chloroplast DNA restriction site character sets. Bot. Rev. (Lancaster) 64:1-85.; Soreng, R.J., J.I. Davis, and J.J. Doyle. 1990. A phylogenetic analysis of chloroplast DNA restriction site variation in Poaceae subfam. Pooideae. PI. Syst. Evol. 172:83-97.</references>
+  <key>
+    <key_body>
+1. All or almost all spikelets viviparous, the spikelets producing plantlets [if sexual spikelets are common, take the alternate lead]. 
+2. Panicle branches smooth or slightly scabrous, the scabrules widely spaced; blades with a translucent line on either side of the midvein, apices usually prowlike .....14.13 Poa (in part)
+2. Panicle branches scabrous; blades without a translucent line on either side of the midvein, apices usually not prowlike.
+3. Sheaths closed for 1/2 or more of their length; ligules 0.1-0.6 mm long.....14.01 Festuca (in part)
+3. Sheaths open; ligules 1.5-13 mm long   .....14.26 Deschampsia (in part)
+1. Some, usually all, spikelets sexually functional, with 1-25 bisexual or unisexual florets, sometimes with sterile and sexual spikelets mixed within an inflorescence. 
+4. Inflorescences with 2 morphologically distinct forms of spikelets.
+5. Spikelets in pairs, the pedicels not fused at the base, smooth or slightly scabrous; disarticulation above the glumes and beneath the florets .....14.37 Cynosurus
+5. Spikelets in fascicles, the pedicels fused at the base, glabrous, hispid or strigose; disarticulation at the base of the fused pedicels. 
+6. Secondary panicle branches sharply bent below the pedicels; glumes not winged  ..... 14.11 Lamarckia
+6. Secondary panicle branches straight below the pedicels; glumes winged   .....14.61 Phalaris (in part)
+4, Inflorescences with all spikelets morphologically alike.
+7. Glumes with pilose awns   .....14.30 Lagurus
+7. Glumes, if present, unawned or with glabrous awns.
+8. Inflorescences spikes with 1-2(4) spikelets per node, or spikelike racemes with 1 spikelet at all or most nodes.
+9. Spikelets with 1 functional floret, sometimes a reduced, sterile floret also present. 
+10. Glumes membranous, flexible; all spikelets pedicellate, pedicels 0.5-1 mm long, 0.1-0.2 mm thick .....14.59 Mibora
+ 
+10. Glumes coriaceous, stiff; lower spikelets sessile, upper spikelets sometimes pedicellate. 
+11. Spikelets radial to the rachises, most spikelets with 1 glume, the terminal spikelets with 2 glumes  .....14.40 Hainardia
+11. Spikelets tangential to the rachises, all with 2 glumes.
+12. Lemmas unawned.....14.38 Parapholis
+12. Lemmas awned, awns 2-4 mm.....14.39 Scribneria
+9. Spikelets with 2-25 functional florets.
+13. Lemmas  awned from  about midlength,  awns  8-26 mm long,  twisted proximally. 
+14. Adaxial surfaces of the leaves ribbed; rachillas pilose on all sides; ligules truncate to rounded, 0.5-1.5 mm long  .....14.47 Helictotrichon (in part)
+14. Adaxial surfaces of the leaves unribbed; rachillas glabrous on the side adjacent to the paleas, hairy elsewhere; ligules acute to truncate, 0.5-7 mm long .....14.45 Avenula (in part)
+13. Lemmas unawned or apically awned, awns straight.
+15. Spikelets sessile; lemmas 2-12 mm long.
+16. Spikelets radial to the rachises, most spikelets with 1 glume, only the terminal spikelet with 2 glumes .....14.05 Lolium
+16. Spikelets tangential to the rachises, all spikelets with 2 glumes.....14.50 Gaudinia
+15. Spikelets subsessile to pedicellate, pedicels 0.5-3 mm long.
+17. Plants perennial.....14.01 Festuca (in part)
+17. Plants annual.
+18. Inflorescences usually exceeded by the leaves; spikelets with (2)3-4(7) florets; lemmas (5)7-9-veined, apices round to emarginate, not bifid; culms usually prostrate or procumbent .....14.09 Sclerochloa (in part)
+18. Inflorescences usually exceeding the leaves; spikelets with 4-25 florets; lemmas 5-veined, apices acute to obtuse, sometimes bifid; culms procumbent to erect .....14.35 Desmazeria (in part)
+8. Inflorescences panicles or racemes, with more than 1 spikelet associated with each node.
+19. Inflorescences racemes or spikelike panicles, with all branches shorter than 1 cm [for opposite lead, see p. 382]. 
+20. Leaves usually exceeding the inflorescences; culms usually prostrate to procumbent; lemmas indurate at maturity  .....14.09 Sclerochloa (in part)
+20. Leaves usually exceeded by the inflorescences; culms usually erect or decumbent at the base; lemmas usually membranous or papery, sometimes coriaceous, not indurate.
+21. Spikelets  disarticulating below the glumes or,  if the  spikelets  are attached to stipes, at the base of the stipes; glume bases sometimes fused. 
+22. Spikelets weakly laterally compressed, with stipes that fall with the spikelets; glume bases not fused; glumes usually awned  .....14.28 Polypogon (in part) 
+22. Spikelets strongly laterally compressed, without stipes; glume bases sometimes fused; glumes unawned or awned. 23. Lemmas dorsally awned; spikelets oval in outline; glumes often connate at the base, often winged distally, keels sometimes ciliate, apices never abruptly truncate .....14.66 Alopecurus (in part)
+23. Lemmas usually unawned, occasionally subterminally awned; spikelets often U-shaped in outline, sometimes oval; glumes not connate at the base, not winged, often strongly ciliate on the keels and abruptly truncate to an awnlike apex  .....14.31 Phleum (in part)
+21. Spikelets disarticulating above the glumes; glume bases not fused.
+24. Spikelets with 2-25 bisexual florets, the sterile or staminate florets, if present, distal to the bisexual florets.
+ 
+25. Sheaths closed for at least 1/2 their length.
+26. Lemma midveins sometimes excurrent up to 2.2 mm, other veins not excurrent; plants native, arctic .....14.15 Dupontia (in part)
+26. Lemmas with 3-5 veins excurrent, forming awnlike teeth; plants cultivated .....14.34 Sesleria
+25. Sheaths open for all or almost all of their length.
+27. Distal lemmas, sometimes all lemmas, awned from below midlength .....14.22 Aira (in part)
+27. All lemmas unawned or apically awned.
+28. Lemmas coriaceous at maturity, unawned, sometimes mucronate .....14.35 Desmazeria (in part)
+28. Lemmas membranous, apically awned, awns 0.3-22 mm long.
+29. Lemma margins involute, not scarious.....14.04 Vulpia (in part)
+29. Lemma margins flat, scarious.....14.58 Rostraria (in part)
+24. Spikelets with 1 bisexual floret, sometimes with 1-2 sterile florets below the bisexual floret, the sterile florets sometimes reduced to lemmas, sometimes resembling tufts of callus hair.
+30. Spikelets with 1-2 sterile or staminate florets below the bisexual florets, these from larger than to much smaller than the bisexual florets, sometimes resembling tufts of hair; glumes sometimes winged distally.
+31. Fresh leaves not sweet-smelling when crushed; sterile lemmas unawned; bisexual lemmas usually hairy, sometimes sparsely so; glumes subequal, sometimes winged distally .....14.61 Phalaris (in part)
+31. Fresh leaves sweet-smelling when crushed; sterile lemmas awned; bisexual lemmas glabrous; glumes unequal, not winged  .....14.60 Anthoxanthum (in part)
+30. Spikelets without sterile or staminate florets below the bisexual floret; glumes not winged distally.
+32.Lemmas dorsally awned, awns geniculate; lateral lemma veins excurrent, forming 4 teeth, teeth sometimes awnlike  .....14.44 Bromidium (in part)
+32. Lemmas unawned or with only 1 awn, awns not strongly geniculate; lateral lemma veins not excurrent. 
+33. Spikelets 8-15 mm long; lemmas more than 3/4 as long as the glumes; plants strongly rhizomatous .....14.64 Ammophila (in part) 
+33. Spikelets 1.2-7 mm long; lemmas less than 3/4 as long as the glumes; plants rhizomatous or not. 
+34. Sheaths closed for at least 1/2 their length.
+35. Calluses glabrous; exposed at maturity; lemmas 1-3-veined, unawned; [other genera may develop long caryopses when infected by nematodes or fungi; such caryopses are usually deformed and filled with eggs, larvae, or spores]  .....14.08 Phippsia (in part)
+35. Calluses with a ring of stiff hairs, hairs to
+about 1 mm long; lemmas 3-11-veined  .....14.15 Dupontia (in part)
+34. Sheaths open for most of their length.
+36. Spikelet bases usually U-shaped, sometimes cuneate; glumes equal, midveins usually strongly ciliate .....14.31 Phleum (in part)
+36. Spikelet bases cuneate; glumes unequal, midveins not strongly ciliate.
+ 
+37. Both glumes twice as long as the lemmas; lemmas pubescent ..... 14.32 Gastridium (in part)
+37. Glumes from slightly shorter than to slightly longer than the lemmas; lemmas glabrous, sometimes scabridulous or scabrous.
+38. Lemma awns 4-16 mm long; plants annual;  paleas from 3/4 as long as to slightly longer than the lemmas .....14.67 Apera
+38. Lemma awns to 10 mm, if longer than  4 mm, plants perennial and/or paleas less than 1/2 as long as the lemmas  .....14.27 Agrostis (in part)
+19. Inflorescences panicles, dense to open, sometimes compact, usually at least some branches longer than 1 cm [for opposite lead, see p. 380]. 
+39. Caryopses usually as long as or longer than the lemmas, exposed at maturity; lemmas 1-3-veined, unawned; spikelets with 1 floret; sheaths of the flag leaves closed for at least 1/2 their length; calluses glabrous [other genera may develop long caryopses when infected by nematodes or fungi; such caryopses are usually deformed or filled with eggs, larvae, or spores]. 
+40. Lemmas 1-veined, narrowed to awnlike apices; sheaths strongly inflated; glumes absent; plants of temperate habitats .....14.23 Coleanthus
+40. Lemmas 1-3-veined, apices acute to rounded; sheaths not inflated; glumes developed, caducous or persistent; plants of arctic or alpine  .....14.08 Phippsia (in part)
+39. Caryopses shorter than the lemmas, concealed at maturity; lemmas 3-11-veined; spikelets with 1 or more florets; leaf sheaths open or closed; calluses glabrous or with hairs.
+41. Panicle branches secund, appearing 1-sided; spikelets strongly imbricate, subsessile.
+42. Culms usually prostrate or procumbent; glumes obtuse to emarginate .....14.09 Sclerochloa (in part)
+42. Culms erect or ascending; glumes apiculate to awn-tipped.
+43. Lemmas awned, awns of the lowest lemmas 0.3-22 mm long  .....14.04 Vulpia (in part)
+43. Lemmas unawned, sometimes awn-tipped.
+44. Spikelets circular to ovate or obovate in outline, with 1-2 florets; glumes almost entirely concealing the sides of the florets; disarticulation below the glumes .....14.12 Beckmannia
+44. Spikelets  oval in outline, longer than wide, with 2-6 florets; glumes partially exposing the sides of the florets; disarticulation above the glumes .....14.10 Dactylis
+41. Panicle branches not secund; spikelets usually widely spaced to somewhat imbricate, usually clearly pedicellate, sometimes subsessile, sometimes on stipes.
+45. All or most spikelets in an inflorescence with 1 bisexual floret, sometimes with 1-2 sterile or staminate florets below the bisexual floret, the sterile florets sometimes resembling tufts of hair .....Poeae Subkey I
+45. All or most spikelets in an inflorescence with 2-25 sexual florets, usually all florets bisexual or the distal florets sterile or unisexual, sometimes all florets unisexual, sometimes the plants unisexual.....Poeae Subkey II
+
+    </key_body>
+  </key>
+</bio:treatment>

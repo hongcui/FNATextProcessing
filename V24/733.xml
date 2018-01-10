@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Cultivars of Poa pratensis L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology"></description>
+  <discussion>Plants densely to loosely tufted, often forming turf, shoots clustered. Basal branching intra- and extravaginal or mainly extravaginal. Culms 8-50 cm. Innovation shoot blades usually shorter than 45 cm, (0.4)1-4 mm wide, usually flat, sometimes some involute, usually soft, sometimes somewhat firm, adaxial surfaces usually glabrous; cauline blades flat or folded. Panicles 3-15 cm, broadly pyramidal, open or somewhat contracted, with 2-7(9) branches per node; branches ascending or widely spreading, sparsely to densely scabrous, with few to many spikelets per branch. Spikelets lanceolate to broadly lanceolate, not bulbiferous; florets normal. Glume keels strongly compressed, sparsely to moderately scabrous; upper glumes shorter than to nearly equaling the lowest lemmas; lemmas 2.8-4.3(6) mm, finely muriculate, lateral veins glabrous; palea keels scabrous, glabrous, intercostal regions glabrous. 2n = 41-45, 48-59, 62, 64-74, 76, 78, 80, 81, 84-90, 95.
+More than 60 cultivars of Poa pratensis have been released in the Flora region. Plants grown from commercially distributed seed have generally been placed in subsp. pratensis by North American authors, but they appear to include genetic contributions from at least three major subspecies, e.g., subspp. angustifolia, pratensis, and irrigata. These and intermediate forms, especially those favoring subspp. irrigata and pratensis, are best simply referred to as Poa pratensis sensu lato or labeled as cultivated material.The chromosome counts listed here are numbers reported for the species that are probably not subspp. alpigena, angustifolia, or colpodea; they may represent subspp. irrigata or pratensis.
+</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>20</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum conspersum Schrad. </name_authority_date>
+  </taxon_identification>
+  <common_names>SCATTERED PASPALUM</common_names>
+  <description type="morphology">Plants perennial; cespitose. Culms 100-200 cm, stout, erect; nodes glabrous. Sheaths glabrous or sparsely pubescent; ligules 1-2 mm, brown; blades to 50 cm long, 7-18 mm wide, flat, glabrous or pubescent, margins scabrous, ciliate. Panicles terminal, with 4-13 racemosely arranged branches; branches 6-11 cm, diverging, divaricate, or reflexed; branch axes 0.5-1(1.2) mm wide, winged, wings narrower than the central section, terminating in a spikelet. Spikelets 2-2.7(3) mm long, 1.1-1.8 mm wide, paired, appressed to or diverging from the branch axes, elliptic to obovate, pubescent, brown. Lower glumes absent; upper glumes densely short pubescent, hairs about 0.5 mm; lower lemmas glabrous or sparsely short pubescent, margins entire; upper florets 1.8-2.2 mm, pubescent, brown. 2n = 40, 60.</description>
+  <discussion>Paspalum conspersum is native from Mexico to Argentina, but it has been introduced to the southern United States. It is grown for its forage value, and has become established at scattered locations from Texas to Florida, growing along roadsides and in other disturbed areas.</discussion>
+</bio:treatment>

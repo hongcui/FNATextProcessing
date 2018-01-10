@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus maritimus (Piper) Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>MARITIME BROME</common_names>
+  <description type="morphology">Plants perennial; loosely ces¬pitose. Culms 20-70 cm tall, to 3 mm thick, sometimes geniculate at the base. Sheaths usually smooth or scabridulous, some¬times slightly pubescent distally, not pilose at the throat; auricles absent; ligules 1-6 mm, densely hairy to ciliolate, acute to obtuse, erose; blades 6-13 cm long, 6-8 mm wide, flat, both surfaces glabrous, sometimes scabrous. Panicles 9-20 cm long, 2-2.5 cm wide, dense; lower branches shorter than 10 cm, 2-4 per node, erect, with 1-2 spikelets variously distributed. Spikelets 20-40 mm, usually longer than the branches and pedicels, elliptic to lanceolate, strongly laterally compressed, crowded, overlapping, with 3-7 florets. Glumes pubescent; lower glumes 8-12 mm, (3)5(7)-veined; upper glumes 10-13 mm, 7(9)-veined, shorter than the lowest lemma; lemmas 12-14 mm, lanceolate, laterally compressed, distinctly 9-11-veined, strongly keeled at least distally, more or less uniformly hairy, often with bronze hyaline margins, apices entire or with acute teeth shorter than 1 mm; awns (2)4-7 mm; anthers 2-4 mm. 2n = 56.</description>
+  <discussion>Bromus maritimus grows in coastal sands from Lane County, Oregon, to Los Angeles County, California.</discussion>
+</bio:treatment>

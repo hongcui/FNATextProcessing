@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Orcuttia viscida (Hoover) Reeder </name_authority_date>
+  </taxon_identification>
+  <common_names>SACRAMENTO ORCUTTGRASS</common_names>
+  <description type="morphology">Plants pilose, very viscid, strongly aromatic. Culms 3-10(15) cm, simple, erect, often spreading in age. Leaves usually without a "collar" line; blades 2-4 mm wide. Spikes 3-5 cm, somewhat congested (less so than those of O. inaequalis); lower and upper internodes 3-7 mm. Spikelets with 6-20(30) florets. Glumes subequal, 5-6 mm, unequally 3-toothed, teeth as long as the bodies, awn-tipped; lemmas 6-7 mm, teeth as long as the lemma bodies, central tooth evidently the longest, awns at least 1 mm; paleas at least 3/4 as long as the lemmas; anthers about 2 mm. Caryopses 2.3-2.5 mm, broadly elliptical; embryos about as long as the caryopses. 2n = 28.</description>
+  <discussion>Orcuttia viscida grows at elevations below 120 m in Sacramento County, California. Its awn-tipped lemma teeth curve outward at maturity, giving the spikes a distinctive, bristly appearance. It is listed as an endangered species by the U.S. Fish and Wildlife Service.</discussion>
+</bio:treatment>

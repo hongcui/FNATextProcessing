@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca thurberi Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>THURBER'S FESCUE</common_names>
+  <description type="morphology">Plants densely cespitose, without rhizomes. Culms (45) 60-100(120) cm, glabrous, smooth or scabrous below the inflorescence. Sheaths closed for less than 1/3 their length, smooth or scabrous, persistent; collars glabrous; ligules 2-5(9) mm, entire or lacerate, not ciliate; blades 1.5-3 mm wide, 0.8-1.8 mm in diameter when conduplicate, deciduous, abaxial surfaces scabrous, adaxial surfaces scabrous or pubescent, veins 9-15, ribs 7-13; abaxial sclerenchyma a more or less continuous band; adaxial sclerenchyma present; girders usually formed at the major veins, sometimes only pillars present. Inflorescences (7)10-15(17) cm, open, with 1-2(3) branches per node; branches 4.5-9 cm, lax, erect or spreading, spikelets borne towards the ends of the branches. Spikelets (8)10-14 mm, with (3)4-5(6) florets. Glumes unequal to subequal, ovate-lanceolate, scabrous or smooth, acute; lower glumes (2)3.5-5.5 mm; upper glumes (2.5)4.5-6.5(7) mm; lemmas 6-10 mm, lanceolate to ovate-lanceolate, scabrous or smooth, unawned, sometimes mucronate, mucros to 0.2 mm; paleas shorter than to as long as the lemmas, intercostal region puberulent distally; anthers 3-4.5 mm; ovary apices densely pubescent. 2n = 28, 42.</description>
+  <discussion>Festuca thurberi is a large bunchgrass of dry, rocky slopes and hills, open forests, and meadows in montane and subalpine regions, at (1000)2000-3500 m. Its range extends from southern Wyoming south through Utah and Colorado to New Mexico.</discussion>
+</bio:treatment>

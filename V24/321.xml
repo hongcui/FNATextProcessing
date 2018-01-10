@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Bromus L. sect. Bromus</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants usually annual, sometimes biennial. Spikelets with parallel or converging sides in outline, terete to moderately laterally compressed, with 4-30 florets. Lower glumes 3-5-veined; upper glumes 5-9-veined; lemmas elliptic, lanceolate, obovate, or rhombic, rounded over the midvein, apices subulate, acute, acuminate, or obtuse, notched, minutely bifid, or toothed, teeth shorter than 1 mm, apices sometimes split and the teeth appearing longer; awns (0)1(3), straight or flexuous, recurved or divaricate.</description>
+  <discussion>Bromus sect. Bromus has about 40 species that are native to Eurasia, northern Africa, and Australia; 14 species have been introduced to the Flora region.</discussion>
+</bio:treatment>

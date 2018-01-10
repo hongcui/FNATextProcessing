@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>19</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Setaria adhaerans (Forssk.) Chiov. </name_authority_date>
+  </taxon_identification>
+  <common_names>BUR BRISTLEGRASS, TROPICAL BARBED BRISTLEGRASS</common_names>
+  <description type="morphology">Plants annual. Culms 25-60 cm. Sheaths glabrous throughout; ligules 1-2 mm, of hairs, white; blades usually less than 10 cm long, 5-10 mm wide, flat, broad basally, abaxial surfaces conspicuously strigose with papillose-based hairs, tapering abruptly at the apices; bristles solitary, about 5 mm, retrorsely scabrous. Panicles 2-6 cm, verticillate, green to purple; rachises retrorsely rough hispid. Spikelets 1.5-2.2 mm. Lower glumes about 1/2 as long as the spikelets, obtuse, 1(3)-veined; upper glumes nearly as long as the spikelets, 5-7-veined; lower lemmas equaling to slightly exceeding the upper lemmas; lower paleas less than 1/2 as long as the spikelets, scalelike; upper lemmas finely and transversely rugose; upper paleas similar to the upper lemmas. 2n = 18.</description>
+  <discussion>Setaria adhaerans grows in subtropical regions throughout the world. In North America, it is known from the southern United States, northeastern Mexico, Guatemala, Cuba, and the Bahamas. The Californian record may represent a recent introduction.
+Setaria adhaerans resembles the temperate S. verticillata, but differs in having shorter panicles, shorter spikelets, glabrous sheath margins, and papillose-based strigose hairs on the blades.
+</discussion>
+</bio:treatment>

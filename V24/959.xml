@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sesleria autumnalis (Scop.) F.W. Schultz </name_authority_date>
+  </taxon_identification>
+  <common_names>AUTUMN MOORGRASS</common_names>
+  <description type="morphology">Plants cespitose, rhizomatous. Culms 25-70 cm, erect, glabrous; nodes 4-5. Basal leaves distichous, keeled, folded; sheaths glabrous, lower sheaths scabrous, eventually disintegrating into wavy fibers, upper sheaths smooth; ligules of lower leaves to 1 mm, shortly ciliate; blades 25-35(40) cm long, 2-4 mm wide; blades of cauline leaves usually flat, rarely dolded; blades of flag leaves 4-8(12) cm, diverging at about midculm. Panicles 4.5-10 cm long, 4-7 mm wide, cylindrical, lax, grayish to whitish, branches to 1 cm; pedicels with 1-2 hyaline, scalelike bracts at the base. Spikelets 5-7 mm long, wedge-shaped, with 2(3) florets. Glumes subequal, 4-5 mm, usually extending above the florets, narrowly lanceolate, hyaline, glabrous, 1-veined, acute, midveins extending into 1-2(4) mm awns; lemmas 3-5.5 mm, 3(7)-veined, broadly lanceolate to ovate, hyaline, bases shortly and finely pubescent on the veins and margins, glabrous between the veins, midveins forming (0.5)1-1.5 mm teeth, marginal veins forming 0.5-1 mm teeth; paleas 4-5 mm, finely ciliate on the keels, apices rounded, notched, veins forming short awn tips; anthers 2.4-2.8 mm, white. Caryopses 2-3 mm, elliptical in outline, shortly and stiffly pubescent distally. 2n = 28. </description>
+  <discussion>Sesleria autumnalis is native from northern and eastern Italy to central Albania, where it grows primarily on limestone-derived soils in deciduous, often littoral forests, and is frequently co-dominant with Ostrya virginiana. It sometimes forms intermediates with S. nitida (Deyl 1980). It is now popular in the Flora region as an ornamental, being an attractive, low-maintenance plant that provides excellent ground cover. It can be grown in open areas, and is drought- and shade-tolerant once established. 
+ 
+</discussion>
+</bio:treatment>

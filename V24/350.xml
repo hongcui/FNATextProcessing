@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Hordeum jubatum L. subsp. jubatum </name_authority_date>
+  </taxon_identification>
+  <common_names>FOXTAIL BARLEY, SQUIRRELTAIL BARLEY, SQUIRRELTAIL GRASS, ORGE AGRÉABLE, QUEUE D'ÉCUREUIL, ORGE QUEUE D'ÉCUREUIL</common_names>
+  <description type="morphology">Central spikelets: glumes 35-85 mm, strongly spreading at maturity; lemmas awned, awns 35-90 mm.</description>
+  <discussion>Hordeum jubatum subsp. jubatum is the more widespread of the two subspecies, extending from eastern Siberia through most of North America to northern Mexico. Native in western and northern portions of the Flora region, it is considered to be adventive in the eastern and southeastern portion of its range. It grows in moist soil along roadsides and other disturbed areas, as well as in meadows, the edges of sloughs and salt marshes, and on grassy slopes.</discussion>
+</bio:treatment>

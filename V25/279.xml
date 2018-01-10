@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>33</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia dumosa Scribn. ex Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>BAMBOO MUHLY</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, loosely cespitose. Culms 100-300 cm tall, 3-6 mm thick, erect or ascending, woody below, branching at the middle and upper nodes, branches numer¬ous, fascicled, and spreading; internodes glabrous for most of their length, puberulent or glaucous below the nodes. Sheaths glabrous, enlarged and flattened basally, somewhat chartaceous; ligules 0.2-0.6 mm, membranous, truncate; blades of the branch leaves 1.2-8(12) cm long, 0.7-2.2 mm wide, flat or involute, glabrous abaxially, hirtellous adaxially; blades of the cauline leaves, particularly the lower cauline leaves, absent or greatly reduced. Panicles numerous, terminal on the main culms and the branches, 1-4 cm long, 0.3-1.4 cm wide, lax, incon-spicuous; primary panicle branches appressed or loosely spreading up to 40° from the rachises; pedicels 0.1-1.5 mm. Spikelets 2.2-3.1 mm, green or purplish. Glumes subequal, 1-1.7 mm, glabrous, 1-veined, acute to acuminate, occasionally mucronate, mucros to 0.5 mm; lemmas 2.3-3.1 mm, lanceolate, appressed-pubescent on the calluses and lower portion of the margins, apices acuminate, awned, awns 1-5 mm, flexuous; paleas 2.3-3.1 mm, narrowly lanceolate, appressed-pubescent basally, acuminate; anthers 1.5-2 mm, purplish. Caryopses 1.2-1.6 mm, fusiform, reddish-brown. 2n = 40.</description>
+  <discussion>Muhlenbergia dumosa grows on rocky slopes, canyon ledges, and cliffs, in areas protected from grazing animals in oak-pine and thorn-scrub forests and oak-gramma savannahs, at elevations of 600-1800 m, from Arizona to southern Mexico.
+The bladeless cauline leaves and abundant branching from the middle and upper nodes make 'Bamboo Muhly' a very apt English name. North American Indians used it, after boiling, for chest and bowel ailments. It is native from southern Arizona to southern Mexico, but is also grown as an ornamental in the southwestern United States.</discussion>
+</bio:treatment>

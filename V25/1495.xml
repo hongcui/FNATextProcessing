@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>25.27</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>REIMAROCHLOA Hitchc.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual; sometimes stoloniferous. Culms 10-100 cm, erect to ascending, branching above the base. Leaves mostly cauline; ligules of hairs; blades linear. Inflorescences numerous, terminal and axillary, subdigitate or racemose panicles of spikelike branches, spikelets borne singly in 2 rows on the abaxial sides of the branches; disarticulation at the base of the spikelets. Spikelets dorsally compressed, with 2 florets, upper floret appressed to the branch axes. Glumes mostly absent, upper glume sometimes present on the terminal spikelet of a branch; lower florets sterile; upper florets bisexual; lower lemmas subequal to the upper lemmas; upper lemmas membranous to coriaceous, margins narrow; upper paleas similar in texture to the lemmas, their bases enclosed by the lemmas; anthers 1 or 2. x = unknown. </description>
+  <discussion>Reimarochloa is a genus of three species, all of which grow in damp habitats. The range of the genus extends from the southern United States to Argentina. One species is native to the Flora region.
+</discussion>
+</bio:treatment>

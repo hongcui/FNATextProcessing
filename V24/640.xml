@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Vulpia octoflora (Walter) Rydb. </name_authority_date>
+  </taxon_identification>
+  <common_names>SIXWEEKS FESCUE</common_names>
+  <description type="morphology">Culms 5-60 cm, solitary or loosely tufted, glabrous or pubescent. Sheaths glabrous or pubescent; ligules 0.3-1 mm; blades to 10 cm long, 0.5-1 mm wide, flat or rolled, glabrous or pubescent. Panicles 1-7(20) cm long, 0.5-1.5 cm wide, with 1-2 branches per node; branches appressed to spreading. Spikelets 4-10(13) mm, with (4)5-11(17) florets; rachilla internodes 0.5-0.7 mm. Lower glumes 1.7-4.5 mm, 1/2 - 2/3 the length of the upper glumes; upper glumes 2.5-7.2 mm; lemmas 2.7-6.5 mm, 5-veined, smooth, scabrous, or pubescent, apices entire, no more pubescent than the bases, awns of the lowermost lemma in each spikelet 0.3-9 mm; paleas slightly shorter than the lemmas, apices entire or minutely bifid, teeth shorter than 0.2 mm; anthers 0.3-1.5 mm. Caryopses 1.7-3.7 mm. 2n = 14.</description>
+  <discussion>Vulpia octoflora, a widespread native species, tends to be displaced by the introduced Bromus tectorum in the Pacific Northwest. It grows in grasslands, sagebrush, and open woodlands, as well as in disturbed habitats and areas of secondary succession, such as old fields, roadsides, and ditches. Three varieties are  
+recognized here, but their characterization is not completely satisfactory, e.g., plants of the southwestern United States with spikelets in the size range of var. glauca often have densely pubescent lemmas, the distinguishing characteristic of var. birtella.
+</discussion>
+  <key>
+    <key_body>
+1. Spikelets usually 4-6.5 mm long; awn of the lowermost lemma in each spikelet 0.3-3 mm long.....var. glauca
+1. Spikelets usually 5.5-13 mm long; awn of the lowermost lemma in each spikelet 2.5-9 mm long.
+2. Lemmas scabrous to pubescent.....var. hirtella
+2. Lemmas usually smooth, sometimes scabridulous distally and on the margins .....var. octoflora
+
+    </key_body>
+  </key>
+</bio:treatment>

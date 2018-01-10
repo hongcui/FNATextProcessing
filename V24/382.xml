@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aegilops neglecta Req. ex Bertol. </name_authority_date>
+  </taxon_identification>
+  <common_names>THREE-AWNED GOATGRASS</common_names>
+  <description type="morphology">Culms 20-55 cm, geniculate and semiprostrate at the base, usually with many tillers. Sheaths with hyaline margins, ciliate; blades 5-8 cm long, 3-4 mm wide. Spikes 2-4.5 cm long, 0.4-1.3 cm wide, ovoid-ellipsoid proximally, abruptly contracted distally to a narrow cylinder, with 3-6 spikelets, the distal 1-3 spikelets sterile; rudimentary spikelets (2)3; disarticulation at the base of the spikes. Fertile spikelets 8-12 mm, subventricose, urceolate, with 2 fertile florets and 2-3 sterile florets; apical spikelets 4-5 mm, usually with 1 sterile floret, cultivated forms often with 1 fertile floret and 1-2 sterile florets. Glumes of fertile spikelets 7-10 mm, usually velutinous, sometimes scabrous, apices with (2)3 awns, awns 2-5.5 cm; lemmas of fertile spikelets 2-awned, awns 0.5-4 cm, sometimes with 1 lateral tooth. Caryopses 5-7 mm, falling free of the lemmas and paleas. Haplomes UM, UMN. 2n = 28, 48.</description>
+  <discussion>Aegilops neglecta is native around the Mediterranean and in western Asia. It has been collected in Arlington County, Virginia, and near Corvallis, Oregon; the Oregon record indicates it is persisting from previous cultivation and becoming weedy.</discussion>
+</bio:treatment>

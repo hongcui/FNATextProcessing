@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthelium clandestinum (L.) Gould </name_authority_date>
+  </taxon_identification>
+  <common_names>DEER-TONGUE GRASS, PANIC CLANDESTIN</common_names>
+  <description type="morphology">Plants forming large clumps, with rhizomes 3-5 mm thick. Basal rosettes well-differentiated; sheaths pubescent; blades ovate to lanceolate. Culms 50-140 cm, stout, pilose with papillose-based hairs to subglabrous; fall phase branching from the mid- and upper culm nodes, with a few, nearly erect, elongate branches, sparsely rebranching, sheaths overlapping, concealing the secondary panicles; nodes not swollen, glabrous or sparsely pubescent. Cauline leaves 5-10; sheaths not overlapping, striate-ribbed, narrowing above midlength, hispid to sparsely hirsute, hairs sometimes papillose-based, summits mottled with pale spots, margins ciliate, collars puberulent; ligules 0.4-0.9 mm, membranous; blades 10-25 cm long, 15-30 mm wide, flat, lanceolate, often rigid, glabrous or sparsely pubescent, with 9-13 major veins and 40-80 minor veins, bases cordate, with papillose-based cilia, apices acuminate. Primary panicles 8-16 cm long, 4-12 mm wide, exserted, with many spikelets. Spikelets 2.4-3.6 mm long, 1.2-1.5 mm wide, narrowly ellipsoid, sparsely pubescent. Lower glumes 1/3 – 1/2 as long as the spikelets, narrowly triangular; upper glumes and lower florets slightly shorter than the spikelets, with 7 or 9 prominent veins; lower florets sterile; upper florets umbonate, apices with a minute tuft of hairs. 2n = 36.</description>
+  <discussion>Dichanthelium clandestinum usually grows in semi-open areas in damp or sandy woodlands, thickets, or on banks. It is restricted to the eastern part of the Flora region. The primary panicles are open-pollinated for a brief period, and produced from late May to early July; the secondary panicles, which are cleistogamous and usually concealed within the sheaths, are produced from July through September.
+Panicum recognitum Fernald refers to rare sterile hybrids with Dichanthelium dichotomum and perhaps D. scoparium; P. aculeatum Hitchc. & Chase to putative sterile hybrids with D. scabriusculum or D. dichotomum.
+ 
+</discussion>
+</bio:treatment>

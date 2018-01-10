@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>22</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa reflexa Vasey & Scribn. </name_authority_date>
+  </taxon_identification>
+  <common_names>NODDING BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial, short-lived; densely tufted, tuft bases narrow or not, not stoloniferous, not rhizomatous. Basal branching mixed intra- and extravaginal. Culms 10-60 cm. Sheaths closed for 1/3 – 2/3 their length, terete, smooth; ligules 1.5-3.5 mm, smooth or sparsely scabrous; blades 1.5-4 mm wide, flat, thin, soft, apices broadly prow-shaped. Panicles 4-15 cm, nodding, open, with numerous spikelets and 1-2 branches per node; branches (2)3-7 cm, spreading to reflexed, lower branches usually reflexed, flexuous, usually terete, smooth or sparsely scabrous, with (3)6-18 spikelets. Spikelets 4-6 mm, lanceolate to broadly lanceolate, usually partly to wholly purplish, with 3-5 florets; rachilla internodes shorter than 1 mm, smooth. Glumes narrowly to broadly lanceolate, distinctly keeled, keels smooth or nearly so; lower glumes 1-veined; upper glumes shorter than or subequal to the lowest lemmas; calluses webbed; lemmas 2-3.5 mm, lanceolate, partly purple to fairly strongly purple, distinctly keeled, keels and marginal veins short- to long-villous, keels hairy for 2h-ls their length, lateral veins usually sparsely softly puberulent at least on 1 side, lateral veins obscure to moderately prominent, intercostal regions smooth, minutely bumpy, glabrous, apices acute, slightly bronze-colored or not; palea keels scabrous, usually softly puberulent at midlength; anthers 0.6-1 mm. 2n = 28.</description>
+  <discussion>Poa reflexa grows in subalpine forests, meadows, and low alpine habitats, primarily in the central and southern Rocky Mountains. It usually grows on drier and more disturbed sites, and appears shorter-lived, than the frequently sympatric or parapatric P. leptocoma (p. 573), from which it differs in usually having hairs on the palea keels and lateral veins of the lemmas, and smooth panicle branches. In addition, P. reflexa is tetraploid, whereas P. leptocoma is hexaploid. Poa reflexa may resemble small plants of P. occidentalis (see previous) in habit.</discussion>
+</bio:treatment>

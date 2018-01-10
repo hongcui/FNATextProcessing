@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Agrostis hyemalis (Walter) Britton, Sterns &
+Poggenb. 
+</name_authority_date>
+  </taxon_identification>
+  <common_names>WINTER BENT, AGROSTIDE D'HIVER</common_names>
+  <description type="morphology">Plants perennials or facultative annuals; cespitose, not rhizomatous or stoloniferous. Culms 15-82 cm, erect, with (3)4-7 nodes. Leaves cauline and basal; sheaths smooth; ligules (0.7) 1.2-4 mm, dorsal surfaces scabrous, apices usually rounded to truncate, sometimes acute, lacerate-erose; blades 3-10 cm long, 1-2 mm wide, flat, becoming involute, or folded. Panicles (5)10-25(36) cm long, (3)4-24 cm wide, broadly ovate, often nearly as wide as long, diffuse, the whole panicle often detaching at the base at maturity, forming a tumbleweed, bases often enclosed by the upper sheaths, lowest node with (3)5-11 branches; branches scabrous, capillary, flexible, wide-spreading, branching in the distal 1/4, spikelets strongly clustered at the branch tips, lower branches 5-15 cm; pedicels 0.1-2.5(3.5) mm. Spikelets ovate to narrowly ovate, greenish or purplish. Glumes subequal, 1-2 mm, 1-veined, keeled, keels scabrous, sometimes the body also scabrous towards the apices, acute to acuminate; callus hairs to 0.2 mm, sparse; lemmas 0.8-1.2 mm, scabridulous, translucent to opaque, 5-veined, veins obscure or prominent distally, apices usually obtuse, sometimes acute, entire, unawned; paleas absent, or to 0.2 mm and thin; anthers 3, 0.2-0.5 mm. Caryopses 0.7-1 mm. 2n = 28.</description>
+  <discussion>Agrostis hyemalis is most abundant along roadsides and in open pastures, scrub, and rocky areas. It is centered in the southeastern United States; historically it extended north to coastal Maine, where it may be extinct, west to Wisconsin and Texas, and south into the Caribbean, Mexico, and Ecuador. Records from further north and west in North America are confused; many reflect the former inclusion of the generally more northern A. scabra in A. hyemalis. Agrostis hyemalis differs from A. scabra in its smaller spikelets and anthers, more conspicuous culm leaves, and more clustered spikelets.</discussion>
+</bio:treatment>

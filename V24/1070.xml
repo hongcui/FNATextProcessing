@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Lisa A. Standley</author>
+    </source>
+  </meta>
+  <number>14.58</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>ROSTRARIA Trin.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual; tufted or with solitary culms. Culms 3-60 cm, erect. Leaves mostly cauline; sheaths open, glabrous, pubescent, or pilose; auricles absent; ligules membranous; blades flat or involute, stiff. Inflorescences spikelike panicles, dense; branches scabrous to pubescent. Spikelets laterally compressed, with 2-7 florets; rachillas sparsely to moderately pubescent, prolonged or not beyond the base of the distal florets; disarticulation above the glumes, beneath the florets. Glumes unequal, membranous, glabrous or hirsute, keels ciliate, apices unawned; lower glumes shorter and narrower than the upper glumes, 1-veined; upper glumes subequal to the lowest lemmas, 3-veined; calluses usually glabrous, occasionally sparsely hairy; lemmas thin, membranous, 5-veined, glabrous or hirsute, margins shiny, scarious, apices acute, bifid, subterminally awned or unawned; paleas subequal to the lemmas, hyaline, veins sometimes extended into awnlike apices; anthers 3; ovaries glabrous. Caryopses glabrous, x = 7.</description>
+  <discussion>Rostraria is a genus of approximately 10 species, all of which are native to the Mediterranean, southeastern Europe, and western Asia, where they grow in dry, disturbed sites. The genus is sometimes included in Koeleria; it differs in its annual growth habit and awned lemmas and paleas.</discussion>
+</bio:treatment>

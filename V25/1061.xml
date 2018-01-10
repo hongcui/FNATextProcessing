@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Digitaria filiformis var. laeviglumis (Fernald) Wipff</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 75-150 cm. Basal leaf sheaths with papillose-based hairs or glabrous; blades 1-6 mm, flat. Spikelets 1.8-2.5 mm; lower lemmas glabrous.</description>
+  <discussion>Digitaria filiformis var. laeviglumis is endemic to sandy soils in New England.</discussion>
+</bio:treatment>

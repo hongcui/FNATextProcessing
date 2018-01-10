@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Melica torreyana Scribn. </name_authority_date>
+  </taxon_identification>
+  <common_names>TORREY'S MELIC</common_names>
+  <description type="morphology">Plants densely cespitose, not rhizomatous. Culms 30-100 cm, not forming corms; internodes smooth. Sheaths glabrous or sparsely pilose, sometimes pilose only at the throat, sometimes scabridulous; ligules 1-5 mm; blades 1-2.5 mm wide, sometimes pilose on both surfaces, sometimes scabridulous. Panicles 6-25 cm; branches 1-5 cm, usually appressed, occasionally divergent, with 5-37 spikelets; pedicels straight; disarticulation above the glumes. Spikelets 3.5-7 mm, with 1(2) bisexual florets. Lower glumes 3-5 mm long, about 1 mm wide, 1-5-veined; upper glumes 3.3-7 mm long, 1-2 mm wide, 3-5-veined; lemmas 3.5-6 mm, scabridulous, sometimes hairy, distal hairs longer than those below, 7-veined, veins inconspicuous, apices rounded to emarginate, unawned or awned, awns 1-2 mm; paleas slightly shorter than the lemmas; anthers 1.5-2.5 mm; rudiments 0.5-4 mm, clearly distinct from the bisexual florets, shorter than the terminal rachilla internode, truncate to acute. 2n =18.</description>
+  <discussion>Melica torreyana grows from sea level to 1200 m, in thickets and woods in California. It is common throughout chaparral areas and coniferous forests but, on serpentine soils, grows only in shady locations. The shape and size of the rudiments make M. torreyana unique among the species found in North America. Boyle (1945) obtained vigorous, almost completely sterile hybrids between M. imperfecta and M. torreyana, but found no examples of natural hybrids.</discussion>
+</bio:treatment>

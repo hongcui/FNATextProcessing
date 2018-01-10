@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Saccharum baldwinii Spreng. </name_authority_date>
+  </taxon_identification>
+  <common_names>NARROW PLUMEGRASS</common_names>
+  <description type="morphology">Plants cespitose, rarely stoloniferous. Culms 0.9-1.8 m; nodes glabrous or with hairs to 0.5 mm. Sheaths glabrous; ligules 1-3 mm, with lateral lobes; blades 18-60 cm long, 5-12 mm wide, glabrous. Peduncles 30-40 cm, glabrous; panicles 1-2.5 cm wide, linear; lowest nodes glabrous or sparsely pilose; rachises 10-35 cm, glabrous or sparsely pubescent; primary branches 6-18 cm, appressed; rame internodes 3-5 mm, glabrous. Sessile spikelets 7-10 mm long, 1.1-1.5 mm wide, brown. Callus hairs absent or to 2 mm, shorter than the spikelets, straw-colored; lower glumes scabrous, 5-veined; lower lemmas 6-8 mm, 2-veined; upper lemmas 0.9-1 times as long as the lower lemmas, 3-veined, entire; awns 17-24 mm, terete, straight or curved at the base; lodicule veins extending into hairlike projections; anthers 2. Pedicels 3-5 mm, glabrous. Pedicellate spikelets similar to the sessile spikelets. 2n = 30.</description>
+  <discussion>Saccharum baldwinii commonly grows in sandy, shaded river and stream bottoms. It occurs throughout the southeastern United States, but it is not as common as other members of the genus, and is rare or completely absent from higher elevations of the Appalachian Mountains.</discussion>
+</bio:treatment>

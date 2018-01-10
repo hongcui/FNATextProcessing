@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Puccinellia fasciculata (Torr.) E.P. Bicknell </name_authority_date>
+  </taxon_identification>
+  <common_names>BORRER'S SALTMARSH GRASS</common_names>
+  <description type="morphology">Plants short-lived perennials; cespitose, not mat-forming. Culms 10-65 cm, usually decumbent and geniculate, sometimes erect. Ligules 1-2 mm, obtuse to truncate, entire; blades 2-7 mm wide, flat, folded, or involute. Panicles 4-16 cm, compact to diffuse at maturity, linear to pyramidal, lower branches ascending to erect, spikelet-bearing nearly to the base; pedicels slightly to densely scabrous, often with tumid epidermal cells. Spikelets 3-6 mm, with 2-6 florets. Glumes rounded over the back, veins prominent to obscure, apices acute to obtuse; lower glumes 0.8-1.6 mm; upper glumes 1.2-2.3 mm; calluses with a few hairs; lemmas 1.8-3 mm, slightly to markedly coriaceous throughout, glabrous or with a few hairs near the base, backs rounded, 5-veined, veins obscure, midveins usually excurrent, sometimes ending at the margins, apices acute to obtuse, entire, apical margins smooth or with a few scattered scabrules; palea veins glabrous proximally, scabrous to shortly hispid near midlength, scabrous distally; anthers 0.6-1 mm. 2n = 28.</description>
+  <discussion>Puccinellia fasciculata is native to Europe. In the Flora region, it is found principally along the east coast, but it is also established at a few sites in Arizona and Utah, and has been reported from Nevada. All occurrences in the Flora region are probably the result of human introductions.</discussion>
+</bio:treatment>

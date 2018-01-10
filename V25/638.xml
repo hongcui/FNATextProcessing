@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Echinochloa muricata (P. Beauv.) Fernald </name_authority_date>
+  </taxon_identification>
+  <common_names>AMERICAN BARNYARD GRASS</common_names>
+  <description type="morphology">Plants annual. Culms 80-160 cm, erect or spreading, some-times rooting at the lowest nodes, often developing short axillary flowering shoots at most upper nodes when mature; lower nodes glabrous or puberulent; upper nodes glabrous. Sheaths glabrous; ligules absent; blades 1-27 cm long, 0.8-30 mm wide. Panicles of primary culms 7-35 cm, rachises and branches glabrous or hispid, hairs to 3 mm, papillose-based; primary branches 2-8 cm, usually spreading and rather distant, often with secondary branches. Spikelets 2.5-5 mm, disarticulating at maturity, usually purple or streaked with purple, usually hispid, hairs papillose-based. Upper glumes about as long as the spikelets; lower florets sterile; lower lemmas unawned or awned, awns to 16 mm; lower paleas well-developed; upper lemmas broadly obovoid or orbicular, narrowing to an acute or acuminate coriaceous portion that extends into the membranous tip, boundary between the coriaceous and membranous portions not marked by minute hairs; anthers 0.4-1.1 mm. Caryopses 1.2-2.5 mm, broadly obovoid or spheroid, yellowish; embryos 1.4-2 mm, 80-91% as long as the caryopses. 2n = 36.</description>
+  <discussion>Echinochloa muricata is native to North America, growing from southern Canada to northern Mexico in moist, often disturbed sites (but not rice fields). It resembles E. crus-galli in gross morphology and ecology, but differs consistently by the characters used in the key. The two varieties tend to be distinct, but there is some overlap in both morphology and geography.</discussion>
+  <key>
+    <key_body>
+1. Spikelets 2.5-3.8 mm long; lower lemmas unawned or awned, the awns to 10 mm long  .....var. microstachya
+1. Spikelets 3.5-5 mm long; lower lemmas usually awned, the awns 6-16 mm long .....var. muricata
+
+    </key_body>
+  </key>
+</bio:treatment>

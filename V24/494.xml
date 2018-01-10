@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>xElyleymus ontariensis (Lepage) Barkworth </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants rhizomatous. Culms to 75 cm tall, 2-2.5 mm thick, clustered, glabrous. Leaves more or less evenly distributed; sheaths glabrous, smooth; auricles absent or to 0.3 mm; ligules about 0.5 mm, truncate; blades 10-25 cm long, 2-3 mm wide, involute, abaxial surfaces scabridulous, glabrous, veins not evident, adaxial surfaces smooth or scabridulous, glabrous, veins all equally prominent, apices narrowly acuminate. Inflorescences spikes, 8-12 cm long, 6-12 mm wide, with 1(2) sessile or subsessile spikelets per node; internodes 6-9 mm, partly exposed, angles hairy, hairs 0.4-0.6 mm; disarticulation above the glumes, beneath the florets. Spikelets 15-20 mm, with 3-5 florets. Glumes 9.5-16 mm long including the awns, 0.7-1.3 mm wide, lanceolate, widest about midlength, 3-veined, hairy or scabrous over the veins, awns 1-1.5 mm; lemmas 10-15 mm, hairy, hairs 0.3-0.4 mm, awns 3-7 mm; anthers about 2.8 mm.</description>
+  <discussion>xElyleymus ontariensis, according to Bowden (1967), comprises hybrids between Elymus trachy¬caulus and Leymus innovatus. It differs from xElyleymus hirtiflorus in having wider, more parallel-sided glumes and longer rachis internodes.</discussion>
+</bio:treatment>

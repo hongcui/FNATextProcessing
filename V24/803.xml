@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>54</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa palustris L. </name_authority_date>
+  </taxon_identification>
+  <common_names>FOWL BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; usually loosely, sometimes densely, tufted, frequently stoloniferous. Basal branching extravaginal or mixed extra- and intravaginal. Culms 25-120 cm, erect or the bases decumbent, sometimes branching above the base, terete or weakly compressed, scabrous below the panicle; nodes terete or slightly compressed, proximal nodes often slightly swollen, uppermost node at or above (73)72 the culm length. Sheaths closed for 1/10 – 1/5 their length, slightly compressed, glabrous or sparsely retrorsely scabrous, bases of basal sheaths glabrous, distal sheath lengths 0.7-2.2 times blade lengths; ligules (1)1.5-6 mm, smooth or sparsely to moderately scabrous, apices obtuse to acute, frequently lacerate, usually minutely ciliolate; blades 1.5-8 mm wide, flat, usually several per culm, steeply ascending or spreading to 80°, often lax distally, apices narrowly prow-shaped. Panicles (9)13-30(41) cm, lengths 73-72 times widths at maturity, lax, eventually open, sparsely to moderately congested, with 25-100+ spikelets; nodes with 2-9 branches; branches 4-15 cm, 3/10 – 1/2  the panicle length, initially erect, eventually widely spreading to slightly reflexed, fairly straight, slender, angles densely scabrous. Spikelets 3-5 mm, lengths 3-3.5 times widths, narrowly to broadly lanceolate, laterally compressed; florets (1)2-5; rachilla internodes mostly shorter than 1 mm, usually muriculate, sometimes smooth, rarely sparsely hispidulous. Glumes subulate to lanceolate, distinctly keeled, keels smooth or sparsely scabrous; lower glumes with lengths 6.4-10 times widths, 3-veined, long-tapered to a slender point; calluses sparsely to moderately densely webbed, hairs (1/2)2/3 the lemma length; lemmas 2-3 mm, narrowly lanceolate to lanceolate, distinctly keeled, keels straight or gradually arched, usually abruptly inwardly arched at the junction of the scarious apices, keels and marginal veins short-villous, lateral veins obscure, intercostal regions muriculate, glabrous, margins distinctly inrolled, glabrous, apices obtuse or acute, usually partially bronze-colored, frequently incurved and blunt with a short, hyaline margin; palea keels  
+scabrous, intercostal regions glabrous; anthers 1.3-1.8 mm. 2n = 28, 30, 32, 35, 42, 56, 84.
+</description>
+  <discussion>Poa palustris is native to boreal regions of northern Eurasia and North America, and is widespread in cool-temperate and boreal riparian and upland areas. European plants have also been introduced to other parts of North America. Plants in the Pacific Northwest and the southern United States are usually regarded as introduced, but some populations may be native. Poa palustris is used for soil stabilization and waterfowl feed.
+Poa palustris from drier woods and meadows tends to resemble P. interior (p. 576). The best features for recognizing it include its loose growth habit, more steeply ascending leaf blades, well-developed callus webs, narrowly hyaline lemma margins, and incurving lemma keels. It also has a tendency to branch at the nodes above the base.
+</discussion>
+</bio:treatment>

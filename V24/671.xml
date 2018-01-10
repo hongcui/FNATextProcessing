@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Puccinellia groenlandica T.J. Sørensen </name_authority_date>
+  </taxon_identification>
+  <common_names>GREENLAND ALKALI GRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, not mat-forming. Culms 50-65 cm, erect to decumbent. Ligules 2.5-3.3 mm, obtuse to truncate, entire; blades 1.8-3.2 mm wide, flat. Panicles 15-30 cm, diffuse at maturity, lower branches ascending to horizontal, spikelets usually confined to the distal 2/3; pedicels uniformly scabrous, lacking tumid epidermal cells. Spikelets 7-10 mm, with 4-7 florets. Glumes rounded over the back, veins obscure, apices acute to obtuse; lower glumes 1.8-2.5 mm, up to approximately 1/2 as long as the adjacent lemmas; upper glumes 2.5-3 mm; rachilla internodes slightly and gradually broadened to the point of attachment with the lemmas, at least the lowest internodes usually more than 0.09 mm thick; calluses with a few hairs; lemmas 3-4.4 mm, mostly herbaceous, hairy on the proximal 1/2, principally along the veins, backs rounded or keeled distally, 5-veined, veins obscure, not extending to the margins, apical margins hyaline, uniformly scabrous, apices obtuse to acute, entire; palea veins with curly, intertwined hairs proximally, scabrous distally; anthers 1.1-1.5 mm. 2n = 56.</description>
+  <discussion>Puccinellia  groenlandica  grows  in  littoral  and nonlittoral environments. It is endemic to Greenland.</discussion>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Distichlis spicata (L.) Greene </name_authority_date>
+  </taxon_identification>
+  <common_names>SALTGRASS</common_names>
+  <description type="morphology">Plants rhizomatous and sometimes stoloniferous. Culms 10-60 cm, usually erect, sometimes decumbent or prostrate. Blades of upper leaves 1-8(20) cm, rigid and divaricate to lax and ascending, usually equaling or exceeding the pistillate panicles, varying with respect to the staminate panicles. Pistillate panicles 1-7 cm, often congested, with 2-20 spikelets. Pistillate spikelets 5-20 mm long, 4-7 mm wide, with 5-20 florets; lower  
+glumes 2-3 mm; upper glumes 3-4 mm; lemmas 3.5-6 mm; paleas with serrate keels. Caryopses 2-5 mm, tapered or truncate. Staminate panicles and spikelets similar to the pistillate panicles and spikelets, but the lemmas somewhat thinner in texture and the paleas not bowed-out. Anthers 3-4 mm. 2n = 40.
+</description>
+  <discussion>Distichlis spicata grows in saline soils of the Western Hemisphere and Australia. Numerous infraspecific taxa have been recognized in the past, but none appears to be justified. Recent North American accounts of Distichlis have usually recognized plants from maritime coasts as distinct from those growing inland, supposedly having more congested inflorescences, but the range of variation is similar in the two habitats.</discussion>
+</bio:treatment>

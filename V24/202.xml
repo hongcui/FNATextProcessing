@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Piptatherum miliaceum (L.) Coss. </name_authority_date>
+  </taxon_identification>
+  <common_names>SMILO GRASS</common_names>
+  <description type="morphology">Plants loosely cespitose, not rhizomatous. Culms 40-150 cm, glabrous, often branching at the lower cauline nodes; basal branching extravaginal. Leaves not basally concentrated; sheaths glabrous, persistent; ligules of lower leaves 0.5-1.5 mm, truncate; ligules of upper leaves 1.5-4 mm, rounded to sharply acute; blades 5-30 cm long, 2-10 mm wide, flat, smooth on both surfaces. Panicles 10-40 cm, lax, lower nodes either with 3-7 branches bearing 10-40 functional spikelets, or with 15-30+ branches with no functional spikelets; primary branches spreading to ascending; lower branches 3-8 cm; secondary branches diverging from the primary branches. Glumes 2.5-3.5 mm, acuminate, 3-veined; florets 1.5-2 mm, dorsally compressed; calluses about 0.3 mm, glabrous, disarticulation scars circular; lemmas stiffly membranous, glabrous, margins fused at the base, not overlapping,  
+light brown at maturity; awns 3-4 mm; anthers 2-2.5 mm, penicillate; ovaries rounded, bearing two styles. Caryopses 1.5-1.7 mm long, about 0.8 mm thick; hila linear, about 1/2 as long as the caryopses. 2n = 24.
+</description>
+  <discussion>Piptatherum miliaceum is a Eurasian introduction that is now established in several parts of the world. In its native range it grows, often as a common species, primarily in disturbed areas, wadis, and oases, penetrating into the semidesert regions of northern Africa and western Asia. It is used as a fodder plant in northern Africa. Within the Flora region, P. miliaceum is known from Arizona and California, growing in disturbed sites. It has also been found on a ballast dump in Maryland.</discussion>
+  <key>
+    <key_body>
+1. Panicle branches loosely whorled, lower nodes with 3-7 branches, all spikelet-bearing .....subsp. miliaceum
+1. Panicle branches densely whorled, lower nodes with 15-30+ branches, some with highly reduced or no spikelets   .....subsp. thomasii
+
+    </key_body>
+  </key>
+</bio:treatment>

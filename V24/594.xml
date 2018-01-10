@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>16</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca pseudovivipara (Pavlick) Pavlick </name_authority_date>
+  </taxon_identification>
+  <common_names>PSEUDOVIVIPAROUS FESCUE</common_names>
+  <description type="morphology">Plants loosely cespitose, rhizomatous. Culms 30-60 cm. Sheaths closed for about 3/4  their length, glabrous or scabrous-pubescent, shredding into fibers, bases red-scarious; collars glab¬rous; ligules 0.5-1 mm long; vegetative shoot blades to about 2 mm wide when flat, 0.5-1 mm in diameter when loosely conduplicate, deep green, abaxial surfaces more or less uniformly scabrous, adaxial surfaces hispid or pilose on the ribs; abaxial sclerenchyma in 5-9 small strands; adaxial sclerenchyma absent; cauline blades 1.4-2.5 mm wide, flat. Inflorescences (4)7-12(15) cm, open, lax, secund or partially secund, with 1-2 branches per node; branches somewhat stiff or lax, lower branches with 2-5 spikelets. Spikelets pseudoviviparous, varying in length with the stage of vegetative proliferation, most florets replaced by bracts, the glumes and sometimes the lowest floret more or less normally developed or only slightly elongated, mostly deep green or reddish tinged. Glumes more or less normally developed, lanceolate, apices scabrous; lower glumes (2.5)3.5-6 mm; upper glumes 4.5-6.5(8) mm; lemmas and bracts glabrous or pubescent, smooth or scabrous, sometimes mucronate, mucros to 0.5 mm; paleas, if present, about as long as or shorter than the lemmas, intercostal region puberulent distally; anthers not developed or abortive, to 2 mm; ovaries not developed. 2n = ca. 70.</description>
+  <discussion>Festuca pseudovivipara grows on coastal moun-tainsides, scree slopes, and other rocky areas, at 300-800 m. It is known only from the Queen Charlotte Islands, British Columbia.
+Festuca pseudovivipara has been described as a form of F. rubra subsp. aucta (p. 414), but differs from that taxon in having pseudoviviparous spikelets. It is also eco-logically, altitudinally, and probably reproductively isolated from F. rubra subsp. aucta.
+</discussion>
+</bio:treatment>

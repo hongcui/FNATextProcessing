@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Grass Phylogeny Working Group</author>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subfamily</rank>
+    <name_authority_date>PHAROIDEAE L.G. Clark & Judz.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial, rhizomatous; monoecious. Culms annual, not woody, solid or hollow. Leaves mostly cauline, evidently distichous; sheaths open; auricles absent; abaxial ligules absent; adaxial ligules membranous, ciliate; pseudopetioles prominent, twisted so the blades are resupinate; blades with the lateral veins evident, straight, diverging obliquely from the central vein; mesophyll nonradiate; adaxial palisade layer absent; fusoid cells well developed, large; arm cells weakly to moderately developed; Kranz anatomy not developed; midribs complex; inflated interstomatal cells present; bulliform cells poorly developed or absent; stomates with parallel-sided to dome-shaped subsidiary cells; bicellular microhairs absent; papillae absent. Inflorescences panicles, rachises and branches sometimes disarticulating, hairy, hairs uncinate. Spikelets unisexual, with 1 floret, mostly in staminate-pistillate pairs on short branchlets, some pistillate spikelets solitary. Staminate spikelets smaller than the pistillate spikelets, short- to long-pedicellate; glumes 1-2, membranous, shorter than the floret; lodicules absent or 3 and minute, elliptic, glabrous, veinless; anthers 6. Pistillate spikelets sessile or shortly pedicellate; glumes 2, shorter than the floret; lemmas tubular or inflated, covered wholly or in part with uncinate hairs, unawned; paleas well developed; lodicules absent; ovaries glabrous, without an apical appendage; styles 1, with 3 branches. Caryopses: hila subequal to the caryopses, linear; endosperm hard, without lipid; embryos small; epiblasts present; scutellar cleft present but short; mesocotyl internode absent; embryonic leaf margins overlapping, x = 12.</description>
+  <discussion>The Pharoideae include one tribe, the Phareae, three genera, and twelve species. It is pantropical, but in the Americas, it is represented by one genus, Pharus, that extends from Florida to Uruguay and Argentina. The Pharoideae is a basal lineage of the Poaceae, and the first subfamily in which an adaxial ligule and true spikelets are found.</discussion>
+  <references>Clark, L.G. and E.J. Judziewicz. 1996. The grass subfamilies Anomochlooideae and Pharoideae (Poaceae). Taxon 45:641-645; Clark, L.G., W. Zhang, and J.E Wendel. 1995. A phylogeny of the grass family (Poaceae) based on ndbY sequence data. Syst. Bot. 20:436—-460; Grass Phylogeny Working Group. 2001. Phylogeny and subfamilial classification of the grasses (Poaceae). Ann. Missouri Bot. Gard. 88:373-457.</references>
+</bio:treatment>

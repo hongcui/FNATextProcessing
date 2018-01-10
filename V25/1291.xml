@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Panicum sect. Hemitonia (Hitchc.) Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; aquatic or semi-aquatic, rhizomatous, rhizomes extensive. Culms erect or sprawling, often sterile. Ligules membranous and ciliate, or lacerate. Panicles narrow; branches few, spikelike, erect; ultimate branchlets 1-sided; pedicels less than 2 mm long, appressed. Spikelets lanceoloid, laterally compressed, glabrous; lower florets staminate; upper lemmas thin, flexible, whitish, clasping the paleas only near the base, x = 9. </description>
+  <discussion>Panicum sect. Hemitonia includes only P. hemitomon.</discussion>
+</bio:treatment>

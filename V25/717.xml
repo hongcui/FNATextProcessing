@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia xcurtisetosa (Scribn.) Bush </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; occasionally rhizomatous. Culms 20-70 cm tall, less than 3 mm thick, erect, branched above; internodes smooth, shiny for most of their length, scabridulous or glabrous below the nodes. Sheaths glabrous, margins hyaline, old sheaths not flattened, papery, or spirally coiled; ligules 0.2-1.1 mm, membranous, truncate, sometimes ciliolate; blades 2-8.5 cm long, 2-5 mm wide, flat, smooth or scabridulous. Panicles 4.2-16.5 cm long, 0.2-1.5 cm wide, mostly exserted from the sheath; primary branches 0.8-7.2 cm, ascending to appressed; pedicels 0.6-3 mm, strigose. Spikelets 2.2-3.4 mm. Glumes shorter than the florets, veins scabridulous, unawned or awned, awns to 0.5 mm; lower glumes 0.4-1.5 mm, veinless (rarely 1-veined), usually truncate to rounded, occasionally acute, sometimes notched; upper glumes 0.8-1.9 mm, l(2)-veined, acute to acuminate; lemmas 2.2-3(3.4) mm, lanceolate, hairy on the calluses and lower portion of the margins and midveins, hairs shorter than 1.5 mm, apices scabridulous, acuminate, awned, awns 0.5-4 mm, straight; paleas 2.2-3.1(3.4) mm, lanceolate, intercostal region shortly pilose on the lower 1/2, apices acuminate; anthers usually not developed, occasionally 1 or 2 present, 0.3-0.9 mm, yellow. Caryopses 1.4-1.6 mm, fusiform, brown. 2n = unknown.</description>
+  <discussion>Muhlenbergia xcurtisetosa grows in abandoned fields and forest openings, often near bogs, at elevations of 20-300 m. It may be a hybrid between M. schreberi (which contributes the short glumes) and either of two rhizomatous species, M. frondosa and M. tenuiflora.</discussion>
+</bio:treatment>

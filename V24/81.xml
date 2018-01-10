@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Glyceria alnasteretum Kom. </name_authority_date>
+  </taxon_identification>
+  <common_names>ALEUTIAN GLYCERIA</common_names>
+  <description type="morphology">Plants perennial, rhizomatous. Culms 60-90 cm tall, 2.5-4 mm thick, erect. Sheaths smooth, not keeled; ligules 2-3 mm, rounded to truncate; blades 5-20 cm long, 3-7 mm wide, abaxial surfaces smooth, adaxial surfaces scabrous, apices acute. Panicles 15-22 cm long, 12-16 cm wide, open, pyramidal, erect to nodding; branches 8-10 cm, lower branches widely divergent to drooping. Spikelets 7-9 mm long, 3-4.5 mm wide, with 5-8 florets. Glumes unequal, lanceolate, acute; lower glumes 2-3.5 mm; upper glumes 2.5-3.5 mm, longer than wide; lemmas 3-5.5 mm, 7-veined, obtuse to acute; paleas shorter than or subequal to the lemmas, keels not winged, apices not strongly incurved, emarginate between the keels; anthers 3, 0.7-1.2 mm. Caryopses not seen. 2n = 20.</description>
+  <discussion>Glyceria alnasteretum is included in this treatment with some hesitation, based on van Schaack 724 (W'l'LJ 152646) and van Schaack 887 (MO 1710727), both collected at Signal Point, Attu Island, Alaska in 1945. The above description is based on Komarov (1963) and Koyama (1987), modified to reflect the wider panicles and longer glumes and lemmas of the van Schaack specimens. The difference in habitat is troubling. The van Schaack specimens were found "in a beachside meadow" and "near beach." Koyama describes the habitat of G. alnasteretum as "wet meadows and marshes at high altitudes as well as subarctic zone" (p. 114). Nevertheless, the van Schaack specimens fit the description of G. alnasteretum better than any other taxon in this treatment. Clearly, further investigation is called for; it should include plants from both sides of the Bering Strait.</discussion>
+</bio:treatment>

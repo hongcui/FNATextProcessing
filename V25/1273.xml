@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Panicum rigidulum subsp. combsii (Scribn. & C.R. Ball) Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants similar to subsp. pubescens, but often shortly rhizomatous, more nearly glabrous, and more deeply and  consistently  purple  throughout.   Ligules   nearly obsolete; blades usually 2-7 mm wide, often folded or involute, usually pilose adaxially, at least near the base, bases about equal in width to the subtending sheaths. Spikelets 2.6-3.8 mm, usually purple, slender, erect on the pedicels. Lower glumes to 3/4 as long as the spikelets.</description>
+  <discussion> Panicum rigidulum subsp. combsii is restricted to the United States, where it grows in the same moist habitats as subsp. pubescens, but is much less common. Its long, narrow, purple, often gaping spikelets somewhat resem¬ble those of P. virgatum, which often grows in the same habitats.</discussion>
+</bio:treatment>

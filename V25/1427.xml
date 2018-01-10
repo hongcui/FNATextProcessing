@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Setaria pumila (Poir.) Roem. & Schult. subsp. pumila</name_authority_date>
+  </taxon_identification>
+  <common_names>SETAIRE GLAUQUE</common_names>
+  <description type="morphology">Blades yellowish-green. Bristles yellowish. Spikelets 3-3.4 mm. 2n = 36, 72.</description>
+  <discussion>Setaria pumila subsp. pumila is a European adventive that has become a common weed in lawns and cultivated fields throughout temperate North America.</discussion>
+</bio:treatment>

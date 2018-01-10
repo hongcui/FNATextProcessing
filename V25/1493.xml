@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>42</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum floridanum Michx. </name_authority_date>
+  </taxon_identification>
+  <common_names>FLORIDA PASPALUM</common_names>
+  <description type="morphology">Plants perennial; rhizomatous. Culms 80-210 cm, erect; nodes glabrous or pubescent. Sheaths glabrous or pubescent; ligules 1.2-3.3 mm; blades to 52 cm long, 3-18 mm wide, flat, glabrous or pubescent, usually densely pubescent behind the ligules. Panicles terminal, with 1-6 racemosely arranged branches; branches 3-17.9 cm, divergent to erect, terminating in a spikelet; branch axes 0.3-1.8 mm wide, glabrous, the margins scabrous. Spikelets 2.9-4.1 mm long, 1.9-3.1 mm wide, paired, imbricate, appressed to the branch axes, elliptic to suborbicular to orbicular, glabrous, stramineous. Lower glumes absent; upper glumes glabrous, 5-veined, margins entire; lower lemmas glabrous, lacking ribs over the veins, 3-veined, margins entire; upper florets golden brown. Caryopses 2.8 mm, amber. 2n = 120, 140, ca. 160-170.</description>
+  <discussion>Paspalum floridanum grows along the edges of forests, flatwoods, and pinewoods and in open areas. It is a frequent component of dry-mesic soils in longleaf pine-oak-grass ecosystems, and is restricted to the eastern United States.</discussion>
+</bio:treatment>

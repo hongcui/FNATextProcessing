@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Gaudinia fragilis (L.) P. Beauv. </name_authority_date>
+  </taxon_identification>
+  <common_names>FRAGILE OAT</common_names>
+  <description type="morphology">Plants annual; usually tufted. Culms 15-80(120) cm, erect or ascending; nodes glabrous. Sheaths villous; ligules 0.5-0.7 mm, truncate; blades 1-6.5 cm long, 0.6-4 mm wide, villous. Spikes 6-15(35) cm. Spikelets 9-20 mm, with 3-6(8) florets; rachillas straight, proximal segments 2.6-4 mm, distal segments to 1.8 mm. Glumes scabrous over the veins, margins hyaline, apices unawned; lower glumes 3-5 mm; upper glumes 7-11 mm, about twice the length of the lower glumes; calluses glabrous; lemmas (3)5-8 mm, scabrous on the midveins, awned from above midlength, awns 4.5-15 mm, scabrous, twisted or geniculate; anthers 2-5 mm. Caryopses about 2.5 mm. 2n = 14.</description>
+  <discussion>Gaudinia fragilis is the most widespread species of the genus in the Mediterranean region. The first record of its presence in the United States dates from a collection made by Karl Zimmer on ballast ground in Mobile, Alabama, in 1885. In 1991, it was discovered in Sonoma County, California, where it was found growing on an open, grassy hilltop in the thin, rocky soil of open oak woodlands, in a region that has long been used for agriculture.
+ 
+</discussion>
+</bio:treatment>

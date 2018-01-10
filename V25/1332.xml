@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>17</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Urochloa ciliatissima (Buckley) R.D. Webster </name_authority_date>
+  </taxon_identification>
+  <common_names>FRINGED SIGNALGRASS, SANDHILL GRASS</common_names>
+  <description type="morphology">Plants perennial; shortly rhizomatous or with long stolons. Culms 10-40 cm, erect to ascending, solitary or in small clumps; nodes retrorsely villous; internodes glabrous. Sheaths glabrous or with papillose-based hairs; ligules 0.5-1.5 mm; blades 1-7(9) cm long, 2-5 mm wide, glabrous or pilose on both surfaces, margins ciliate basally, with papillose-based hairs. Panicles 3-6 cm long, 0.5-1 cm wide, with 2-6 spikelike primary branches in 2 ranks; rachises scabridulous; primary branches 0.5-2 cm, appressed, axes 0.3-0.4 mm wide, triquetrous, scabridulous, glabrous or puberulent; secondary branches rarely present; pedicels shorter than the spikelets, scabridulous. Spikelets 3-4.5 mm long, 1.5-2 mm wide, plano-convex, solitary, in 2 rows, appressed to the branch axes. Glumes scarcely separate, rachilla between the glumes not pronounced; lower glumes 2.8-3.2 mm, 5-7-veined, glabrous or with long hairs basally; upper glumes 3-4.5 mm, (9)11-13-veined, with¬out cross venation, mostly puberulent, margins pilose-fringed; lower florets staminate; lower lemmas 3-4.5 mm, 7-9-veined, without cross venation, mostly puberulent, margins pilose-fringed; lower paleas present; upper lemmas 2.4-2.8 mm long, 1.3-1.4 mm wide, planoconvex, apices broadly acute to rounded, mucronate; anthers about 1 mm. Caryopses 1.8-3 mm. 2n = 36.</description>
+  <discussion>Urochloa ciliatissima is endemic to Texas, Oklahoma, and Arkansas, and grows on sandy soils. Reports of its occurrence in Mexico are based on misidentifications (Morrone and Zuloaga 1993).</discussion>
+</bio:treatment>

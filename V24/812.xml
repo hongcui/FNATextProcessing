@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Poa sect. Abbreviatae Nannf. ex Tzvelev</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; densely tufted, not stoloniferous, not rhizomatous. Basal branching mainly intravaginal. Culms usually shorter than 25(30) cm, slender, terete; nodes terete. Leaves mostly basal; sheaths closed for 1/10 – 1/4(1/3) their length, terete; ligules 0.4-5.5 mm, milky white to hyaline, smooth or scabrous, apices truncate to acute, glabrous; blades 0.5-2 mm wide, flat, folded, or involute, thin to moderately thick, soft or moderately firm, apices narrowly prow-shaped. Panicles 1-7 cm, erect, usually contracted, sometimes open; nodes with 1-3 branches; branches 0.5-1.5(5) cm, usually erect to steeply ascending, sometimes ascending to spreading, sulcate to angled, smooth or the angles sparsely to densely scabrous. Spikelets 3-7 mm, laterally compressed, rarely bulbiferous; florets 2-5, usually bisexual, sometimes with vestigial anthers or anthers that abort late in the growing season, rarely bulb-forming; rachilla internodes usually glabrous, infrequently sparsely hispidulous. Glumes usually subequal to or slightly longer than the adjacent lemmas, distinctly keeled, keels smooth or sparsely scabrous; lower glumes (1)3-veined; calluses terete or slightly laterally compressed, glabrous or dorsally webbed; lemmas 2-5.8 mm, lanceolate to broadly lanceolate, distinctly keeled, thin, glabrous or the keels and marginal veins softly puberulent to long-villous, intercostal regions glabrous or softly puberulent to short-villous, obscurely 5-veined; palea keels scabrous, glabrous or softly puberulent to short-villous at midlength; anthers 3, 0.2-1.3(1.8) mm, rarely vestigial (0.1-0.2 mm) or aborted late in development.</description>
+  <discussion>Poa sect. Abbreviatae includes five North American species, two of which also grow in arctic regions of the Eastern Hemisphere. The species are principally high alpine to high arctic. Two of the species are known or reputed to be diploid.</discussion>
+</bio:treatment>

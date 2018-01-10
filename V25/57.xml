@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Tridens eragrostoides (Vasey & Scribn.) Nash </name_authority_date>
+  </taxon_identification>
+  <common_names> LOVEGRASS TRIDENS</common_names>
+  <description type="morphology">Plants cespitose, with knotty, shortly rhizomatous bases. Culms 50-100 cm; nodes sometimes sparsely bearded. Sheaths glabrous, scabrous, or sparsely pilose, rounded; ligules 1.2-3 mm, glabrous, membranous, usually lacerate; blades 10-15 cm long, 1.5-5 mm wide, scabrous (occasionally sparsely pilose), apices long-attenuate. Panicles 10-30 cm long, to 20 cm wide, open; branches 5-10(12) cm, lax, ascending to reflexed at maturity, proximal internodes longer than the distal internodes; pedicels (1.5)3-5 mm. Spikelets 3-7 mm, with 5-12 florets. Glumes glabrous, 1-veined, purple; lower glumes 2-2.5 mm; upper glumes 2-3.5 mm; lemmas 2-3.2 mm, veins puberulent to well above midlength, midveins sometimes excurrent, lateral veins rarely reaching the distal margins; paleas 1.5-2 mm, glabrous or scabrous basally, neither enlarged nor bowed-out; anthers 1-1.5 mm. Caryopses 1-1.3 mm. 2n = 40.</description>
+  <discussion>Tridens eragrostoides grows in brush grasslands, generally in partial shade. Its range extends from the southern United States into Mexico and Cuba. </discussion>
+</bio:treatment>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Elizabeth A. Kellogg</author>
+    </source>
+  </meta>
+  <number>20.03</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>SCHISMUS P. Beauv.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annuals or short-lived perennials; tufted. Culms 2-30 cm, sometimes decumbent, glabrous. Sheaths open, usually shorter than the internodes, with tufts of 1.5-4 mm hairs on the margins of the collars; auricles absent; ligules membranous, ciliate; blades flat or folded, becoming involute on drying. Inflorescences terminal, dense panicles, 1-7 cm long, 0.5-2(3) cm wide, branches 1-2 per node; disarticulation initially above the glumes, glumes and pedicels sometimes falling together later. Spikelets with (4)5-7(10) florets. Glumes subequal, exceeding or exceeded by the distal floret, 3-7-veined, margins hyaline; lemmas 7-9-veined, margins and intercostal regions usually pubescent, varying to glabrous, margins hyaline, apices bifid or merely notched, sinuses sometimes mucronate, mucros to 1.5 mm; paleas spatulate, membranous, 2-veined, 2-keeled; anthers 3, 0.2-0.5 mm. Caryopses ovoid, x = 6. </description>
+  <discussion>Schismus is a genus of five species that is native to Africa and Asia. Two species are established in the Flora region. In using the key and descriptions, the lowest floret in a spikelet should be examined. Succeeding florets tend to have shorter, less acute or acuminate lobes, and a shallower sinus.</discussion>
+  <references>Conert, H.J. and A.M. Turpe. 1974. Revision der Gattung Schismus (Poaceae: Arundinoideae, Danthonieae). Abh. Senckenberg. Naturf. Ges. 532:1-81.</references>
+  <key>
+    <key_body>
+1. Lower glumes equaling or exceeding the distal florets; lemma lobes longer than wide, acute to acuminate; paleas always shorter than the lemmas .....1. S. arabicus
+1. Lower glumes exceeded by the distal florets; lemma lobes as wide as or wider than long, acute to obtuse; paleas of the lower florets in the spikelets as long as or longer than the lemmas .....2. S. barbatus
+
+    </key_body>
+  </key>
+</bio:treatment>

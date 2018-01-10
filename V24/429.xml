@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Elymus canadensis var. robustus (Scribn. & J.G. Sm.) Mack. & Bush </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Spikes 15-25(30) cm, moderately nodding, occasionally almost erect, not strongly glaucous, often becoming yellowish or pale reddish brown; internodes 3-4 mm. Glumes often slightly indurate and bowed out at the base, awns 15-25 mm; lemmas smooth to scabridulous, or occasionally hirsute, awns 30-40 mm, moderately or often strongly outcurving.</description>
+  <discussion>Elymus canadensis var. robustus occurs mostly in the east-central range of the species, from Illinois and Ohio to Oklahoma and Nebraska, locally becoming the most common variety. Anthesis can be earlier than in other sympatric E. canadensis varieties (Bush 1926). These rather heterogeneous plants tend to be large in most dimensions, and may have resulted from introgression with E. virginicus (p. 298) or E. glabriflorus (p. 296), with which they have often been confused (Davies 1980). Fj hybrids of the other varieties with these species are similar to var. robustus, sometimes with erect spikes that are longer than those of either parent, but they are usually sterile. Spike pubescence may vary considerably, perhaps reflecting different hybrid origins.</discussion>
+</bio:treatment>

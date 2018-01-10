@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>J.K. Wipff</author>
+    </source>
+  </meta>
+  <number>26.17</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>SCHIZACHYRIUM Nees</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; cespitose or rhizomatous, sometimes both cespitose and shortly rhizomatous. Culms 7-210 cm, branched above the bases, often purplish near the nodes. Leaves not aromatic, sheaths open; auricles usually absent; ligules membranous; blades flat, folded, or involute, those of the uppermost leaves often greatly reduced. Inflorescences axillary and terminal, of 1, rarely 2, rames, peduncles subtended by a modified leaf; rames not reflexed, with spikelets in heterogamous sessile-pedicellate spikelet pairs, internodes more or less flattened, filiform to clavate, without a median groove, apices cupulate or fimbriate; disarticulation in the rame axes, below the sessile spikelets. Spikelets somewhat dorsiventrally compressed. Sessile spikelets with 2 florets; glumes exceeding the florets, lanceolate to linear, membranous; lower glumes enclosing the upper glumes, convex, weakly 2-keeled, with several (sometimes inconspicuous) intercostal veins; lower florets reduced to hyaline lemmas; upper florets bisexual, lemmas hyaline, bilobed or bifid to 7/8 of their length (rarely entire), awned from the sinuses; anthers 3. Pedicels free of the rame axes, usually pubescent. Pedicellate spikelets usually shorter than to as long as the sessile spikelets, occasionally longer, sterile or staminate, with 1 floret, often disarticulating as the rame matures; lemmas present in staminate spikelets, hyaline, unawned or with a straight awn of less than 10 mm. x = 10. </description>
+  <discussion>Schizachyrium is a genus of approximately 60 species that are native to tropical and subtropical regions of the world; nine are native to the Flora region. In North America, the best known species is S. scoparium, which was one of the major constituents of the grasslands that used to cover the central plains. Hitchcock (1951) included both Schizachyrium and Bothriochloa in Andropogon. Most species of Schizachyrium differ from species of the other two genera in having only one rame per peduncle, but S. spadiceum has two. More reliable, but less conspicuous distinguishing features of Schizachyrium are the cupulate tips of the rame internodes, the convex lower glumes, and the presence of veins between the keels of the lower glumes. A few species of Andropogon have solitary rames, but they do not have these other features.</discussion>
+  <references>Bruner, J.L. 1987. Systematics of the Schizacbyrium scoparium (Poaceae) complex in North America. Ph.D. dissertation, Ohio State University, Columbus, Ohio, U.S.A. 167 pp.; Gandhi, K.N. 1989. A biosystematic study of the Schizacbyrium scoparium complex. Ph.D. dissertation, Texas A&M University, College Station, Texas, U.S.A. 188 pp.; Grelen, H.E. 1974. Pinehills bluestem, Andropogon scoparius Anderss. ex Hack., an anomaly of the A. scoparius complex. Amer. Midi. Naturalist 91:438^144; Hatch, S.L. 1975. A biosystematic study of the Schizacbyrium cirratum-Schizachyrium sanguineum complex (Poaceae). Ph.D. dissertation, Texas A&M University, College Station, Texas, U.S.A. 112 pp.; Hitchcock, A.S. 1951 [title page 1950]. Manual of the Grasses of the United States, ed. 2, rev. A. Chase. U.S.D.A. Miscellaneous Publication No. 200. U.S. Government Printing Office, Washington, D.C., U.S.A. 1051 pp.; Wipff, J.K. 1996. Nomenclatural combinations in Schizacbyrium (Poaceae: Andropogoneae). Phytologia 80:35-39.</references>
+  <key>
+    <key_body>
+1. Peduncles with 2 rames   .....1. S. spadiceum
+1. Peduncles with only 1 rame.
+2. Leaf blades 0.5-2 mm wide, with a longitudinal stripe of white, spongy tissue (formed of bulliform cells) on their adaxial surfaces; plants cespitose; pedicellate spikelets about as long as the sessile spikelets .....6. S. tenerum
+2. Leaf blades (1)1.5-9 mm wide, without a longitudinal stripe of white, spongy tissue on their adaxial surfaces; plants cespitose or rhizomatous; pedicellate spikelets equal to or smaller than the sessile spikelets.
+3. Plants rooting and branching at the lower nodes and at aerial nodes in contact with the soil; leaf collars usually elongate and narrow; plants of sandy coastal habitats. 
+4. Ligules 0.5-1 mm long, pedicellate spikelets 4.5-8.5 mm long   .....4. S. maritimum
+4. Ligules 1.5-2 mm long, pedicellate spikelets 1.5-5 mm long   .....5. S. littorale
+3. Plants not rooting or branching at the lower nodes; leaf collars neither elongate nor particularly narrow; plants of varied habitats.
+5. Pedicel bases 0.2-0.5 mm wide, gradually widening to 0.3-1 mm distally, straight, often somewhat stiff, not tending to curve outward; rames appearing linear.
+6. Pedicellate spikelets 6-8 mm long, about as long as the sessile spikelets, usually staminate, sometimes sterile, unawned .....9. S. cirratum
+6. Pedicellate spikelets 0.7-10 mm long, usually shorter than the sessile spikelets, sterile, unawned or awned, the awns up to 6 mm long. 
+7. Upper  lemmas  cleft  for 2/3 - 7/8 of their  length;  lower  glumes  glabrous   or pubescent .....8. S. sanguineum
+7. Upper lemmas cleft for up to 1/2 of their length; lower glumes glabrous.....2. S. scoparium
+5. Pedicel bases 0.1-0.2 mm wide, flaring above midlength to about 0.5 mm wide, tending to curve outward; rames appearing somewhat open.
+8. Upper lemmas indurate at the base, cleft 3/4 - 7/8 of their length; leaf blades 2.5-10 cm long; pedicellate spikelets 0.5-2 mm long; plants cespitose; known only from peninsular Florida .....7. S. niveum
+8. Upper lemmas membranous at the base, cleft for up to 1/2 of their length; leaf blades 7-105 cm long; pedicellate spikelets 0.7-10 mm long; plants cespitose or not; widespread, including Florida.
+9. Plants cespitose, not or shortly rhizomatous   .....2. S. scoparium
+9. Plants not cespitose, strongly rhizomatous.
+10. Pedicellate spikelets awned, awns to 4 mm; leaf blades usually 3.5-9 mm wide; culms usually 1-3 mm thick; plants of sandy soils .....2. S. scoparium
+10. Pedicellate spikelets unawned or the awns less than 1 mm; leaf blades 1-3  mm wide; culms usually less than 1 mm thick; plants of oolitic soil .....3. S. rhizomatum
+
+    </key_body>
+  </key>
+</bio:treatment>

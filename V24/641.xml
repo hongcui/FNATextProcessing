@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Vulpia octoflora var. glauca (Nutt.) Fernald </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Panicle branches usually appressed, infrequently spreading distally, spikelets closely arranged. Spikelets usually 4-6.5 mm, subsessile or short-pedicellate. Lemmas glabrous or scabrous; awns of the lowermost lemma in each spikelet 0.3-3 mm.</description>
+  <discussion>Vulpia octoflora var. glauca is most frequent in southern Canada and the northern half of the United States, and is the most common representative of V. octoflora from North Dakota to western Kansas, and east to Maine and Virginia.</discussion>
+</bio:treatment>

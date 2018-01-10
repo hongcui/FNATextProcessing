@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>44</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia jonesii (Vasey) Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>MODOC MUHLY</common_names>
+  <description type="morphology">Plants perennial; tightly cespitose, not rhizomatous. Culms 18-50 cm, erect, rounded near the base; internodes glabrous. Sheaths glabrous, bases becoming flattened and papery, lower sheaths longer than the internodes; ligules 2-5 mm, membranous, acute to acuminate; blades (5)6-12 cm long, 1-2.5 mm wide, flat, becoming loosely involute to subfiliform, scabrous abaxially, hirsute adaxially, apices not sharp. Panicles 4-15 cm long, 1.5-4 cm wide, not dense; primary branches 0.5-5 cm, appressed or diverging up to 40° from the rachises; pedicels 0.5-6 mm, flattened, scabrous. Spikelets 2.8-3.5 mm. Glumes subequal, 0.6-1.8 mm, scabridulous distally, truncate to obtuse, unawned; lower glumes 1-veined; upper glumes 3-veined, 3-toothed, often erose; lemmas 2.8-3.5 mm, lanceolate, loosely pubescent on the basal 1/3 of the midveins and margins, hairs to 0.6 mm, apices scabridulous, acute, mucronate,   mucros shorter than 1 mm; paleas 2.8-3.5 mm, lanceolate, acute; anthers 1.4-2.3 mm, purple. Caryopses 1.6-1.8 mm, fusiform, light brown. 2n = 20.</description>
+  <discussion>Muhlenbergia jonesii is endemic to northern California. It grows on open slopes, pumice flats, and in openings in pine forests, at elevations of 1130-2130 m.</discussion>
+</bio:treatment>

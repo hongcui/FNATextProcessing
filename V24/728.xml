@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa annua L. </name_authority_date>
+  </taxon_identification>
+  <common_names>ANNUAL BLUEGRASS</common_names>
+  <description type="morphology">Plants usually annual, rarely surviving for a second season; not rhizomatous, sometimes stoloniferous, densely tufted. Basal branching intravaginal, innovations common, similar to the culms. Culms 2-20(45) cm, prostrate to erect, slender; nodes terete, usually 1 exserted. Sheaths closed for about 1/3 their length, terete or weakly compressed, smooth; ligules 0.5-3(5) mm, smooth, glabrous, decurrent, obtuse to truncate; blades 1-10 cm long, 1-3(6) mm wide, flat or weakly folded, thin, soft, smooth, margins usually slightly scabrous, apices broadly prow-shaped. Panicles 1-7(10) cm, lengths 1.2-1.6 times widths, erect; nodes with 1-2(3) branches; branches ascending to spreading or reflexed, straight, terete, smooth, with crowded or loosely arranged spikelets. Spikelets 3-5 mm, laterally compressed; florets 2-6; rachilla internodes smooth, glabrous, concealed or exposed, distal internodes less than 1/2(3/4) the length of the distal lemma. Glumes smooth, distinctly keeled, keels smooth; lower glumes 1-veined; upper glumes shorter than or subequal to the lowest lemma; calluses glabrous; lemmas 2.5-4 mm, lanceolate, distinctly keeled, smooth throughout, the keels, marginal veins, and, usually, lateral veins crisply puberulent to long-villous, rarely glabrous throughout, lateral veins prominent, intercostal regions glabrous, margins smooth, glabrous, apices obtuse to acute; palea keels smooth, usually short- to long-villous, rarely glabrous; anthers 0.6-1.1 mm, oblong prior to dehiscence, those of the upper 1-2 florets usually vestigial. 2n = 28. </description>
+  <discussion>Poa annua is one of the world's most widespread weeds. It thrives in anthropomorphic habitats outside of the arctic. A native of Eurasia, it is now well established throughout most of the Flora region.
+Poa annua is a gynomonoecious tetraploid (possibly rarely polyhaploid), and is thought to have arisen from hybridization between P. infirma (see next) and P. supina (p. 521) (Tutin 1952). It is similar to P. infirma,  
+differing in having larger anthers. It differs from P. chapmaniana (p. 534) in having glabrous calluses and three larger anthers, rather than one. Forms with glabrous lemmas occur sporadically within populations.
+</discussion>
+</bio:treatment>

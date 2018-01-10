@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus riparius Wiegand </name_authority_date>
+  </taxon_identification>
+  <common_names>EASTERN RIVERBANK WILDRYE, ÉLYME DES RIVAGES</common_names>
+  <description type="morphology">Plants cespitose, not rhizomatous, often somewhat glaucous. Culms 70-160 cm, erect, sometimes rooting at the lower nodes; nodes 5-10, mostly concealed, glabrous. Leaves evenly distributed; sheaths usually glabrous or scabridulous, often reddish brown; auricles absent or to 2 mm, brown; ligules shorter than 1 mm; blades (5)8-15(25) mm wide, flat, lax, dull green, drying to grayish, adaxial surfaces glabrous or scabrous. Spikes 7-25 cm long, 2-4 cm wide, nodding, exserted, usually with 2 spikelets per node, rarely with 3 at some nodes; internodes  3-5(8)  mm long,  0.2-0.35  thick  at the thinnest sections, usually glabrous below the spikelets. Spikelets 10-20 mm, strongly divergent, with 2-3(4) florets, lowest florets functional; disarticulation above the glumes and beneath each floret. Glumes equal or subequal, 14-30 mm including the sometimes undifferentiated awn, the basal 0.5-2 mm terete, indurate, straight or nearly so, veins not evident, glume bodies 9-17 mm long, (0.3)0.5-0.8(1) mm wide, linear-setiform, entire, widening or parallel-sided above the base, 2-3(4)-veined, usually hispidulous or scabrous, rarely glabrous, margins firm, awns (5)8-18 mm, straight; lemmas 7-14 mm, usually hispidulous, sometimes scabrous, awns 15-35 mm, usually straight, those of the basal spikelets occasionally contorted; paleas 6-9 mm, usually acute, sometimes obtuse to truncate, bidentate; anthers 2-2.7 mm. Anthesis late June to late July. 2n = 28.</description>
+  <discussion>Elymus riparius grows in moist, usually alluvial and often sandy soils in woods and thickets, usually along larger streams and occasionally along upland ditches. It is widespread in most of temperate east-central North America. It is rare in southern Ontario and Quebec, and the eastern Great Plains. It is virtually absent from the southeastern coastal plain.
+Elymus riparius is relatively uniform and distinct. It is sometimes confused with E. canadensis (see next), but that species has curving awns. It hybridizes occasionally with several other taxa, especially E. virginicus var. virginicus (p. 300) and E. hystrix (p. 316), but the hybrids produce only late, depauperate spikes or none at all (e.g., Church 1958).
+</discussion>
+</bio:treatment>

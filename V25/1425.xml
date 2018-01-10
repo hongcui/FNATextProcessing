@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>27</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Setaria pumila (Poir.) Roem. & Schult. </name_authority_date>
+  </taxon_identification>
+  <common_names>YELLOW FOXTAIL, PIGEON GRASS</common_names>
+  <description type="morphology">Plants annual. Culms 30-130 cm. Sheaths glabrous; ligules ciliate; blades 4-10 mm wide, loosely twisted, adaxial surfaces with papillose-based hairs basally. Panicles 3-15 cm, uniformly thick, erect, densely spicate; rachises hispid; bristles 4-12, 3-8 mm, antrorsely scabrous. Spikelets 2-3.4 mm, strongly turgid. Lower glumes about 1/3 as long as the spikelets, 3-veined, acute; upper glumes about 1/2 as long as the spikelets, 5-veined, ovate; upper florets often staminate; lower lemmas equaling the upper lemmas; lower paleas equaling the lower lemmas, broad; upper lemmas conspicuously exposed, strongly transversely rugose. 2n = 36, 72.</description>
+  <key>
+    <key_body>
+1. Spikelets 3-3.4 mm long; bristles yellow .....subsp. pumila 1. Spikelets 2-2.5 mm long; bristles reddish  .....subsp. pallidefusca
+    </key_body>
+  </key>
+</bio:treatment>

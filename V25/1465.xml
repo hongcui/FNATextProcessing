@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>23</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum wrightii Hitchc. & Chase </name_authority_date>
+  </taxon_identification>
+  <common_names>WRIGHT'S PASPALUM</common_names>
+  <description type="morphology">Plants perennial; aquatic to semi-aquatic, conspicuously rhizomatous or stoloniferous. Culms 80-150 cm, erect; nodes glabrous.  Sheaths glabrous or sparsely pubescent; ligules 1-3 mm; blades to 35 cm long, 2-7 mm wide, flat, glabrous above, pubescent below, especially basally. Panicles terminal, with 5-8 racemosely arranged branches; branches 3.5-11 cm, divergent to erect; branch axes 0.6-1.1 mm wide, glabrous, terminating in a spikelet. Spikelets 2.2-2.7 mm long, 1-1.4 mm wide, paired, appressed to or divergent from the branch axes, elliptic, glabrous, light brown. Lower glumes absent; upper glumes glabrous, 3-veined; lower lemmas glabrous, 5-veined; upper florets glossy chestnut brown. 2n = unknown.</description>
+  <discussion>The range of Paspalum wrightii extends from Cuba and Campeche, Mexico, to Bolivia, Paraguay, and Argentina. It is now established in the Flora region, growing along wet, roadside ditches, primarily on the Gulf coast of Texas.</discussion>
+</bio:treatment>

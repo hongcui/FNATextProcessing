@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>43</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis prolifera (Sw.) Steud. </name_authority_date>
+  </taxon_identification>
+  <common_names>DOMINICAN LOVEGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, with innovations, without rhizomes, not glandular. Culms 85-130(150) cm, stiffly erect, glabrous below the nodes. Sheaths glabrous or hairy at the apices, hairs to 4 mm; ligules 0.1-0.2 mm; blades 25-50 cm long, 1.5-6 mm wide, flat to involute, glabrous abaxially, scabridulous adaxially, sometimes also with a few scattered hairs near the base. Panicles (10)20-50(60) cm long, 2-8(10) cm wide, narrowly ovate, contracted to open; primary branches mostly 2-14 cm, appressed or diverging up to 50°(90°) from the rachises, spikelets congested near the base of the branches; pulvini glabrous; pedicels 0.3-2.4 mm, appressed, always shorter than the spikelets. Spikelets 3.2-10(12) mm long, 0.7-1.4 mm wide, linear-lanceolate, stramineous to plumbeous, sometimes with a reddish tinge, with (5)8-25 florets; disarticulation acropetal, glumes first, then the lemmas, paleas persistent. Glumes subequal, ovate to lanceolate, hyaline; lower glumes 1-1.5 mm; upper glumes 1.1-1.6 mm; lemmas 1.1-1.8(2) mm, ovate, membranous, apices acute; paleas 0.8-1.7 mm, hyaline, narrower than the lemmas, apices obtuse to truncate; anthers 2, 0.2-0.3 mm, purplish. Caryopses 0.6-0.9 mm, ovoid, flattened ventrally, finely striate, reddish-brown. 2n = 40.</description>
+  <discussion>Eragrostis prolifera grows on beaches, in brackish water, and along roadsides, at elevations below 5 m in Florida. Its range extends southward from Florida through Mexico and Central America to Colombia.</discussion>
+</bio:treatment>

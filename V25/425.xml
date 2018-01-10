@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>15</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bouteloua barbata Lag. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or short-lived perennials; tufted, sometimes with stolons. Culms 1-75 cm, prostrate, decumbent, or erect, sometimes rooting at the lower nodes; lower internodes glabrous. Leaves basal or cauline; sheaths usually glabrous, except for tufts of long hairs on either side of the collars; ligules 0.1-1 mm, membranous, ciliate; blades 0.5-10 cm long, 0.7-4 mm wide, adaxial surfaces usually sparsely pubescent with a few papillose-based hairs basally. Panicles 0.7-25 cm, with (2)4-9(11) branches; branches 10-30 mm, persistent, straight to arcuate, glabrous, scabridulous, or with papillose-based hairs, with 20-55 spikelets, axes terminating in a well-developed spikelet; disarticulation above the glumes. Spikelets 2.5-5 mm, pectinate, with 1 bisexual and 2 rudimentary florets. Glumes unequal, glabrous, sometimes scabridulous, apices sometimes shortly bilobed, acuminate or mucronate; lower glumes 0.7-1.5 mm; upper glumes 1.5-2.5 mm, glabrous, scabrous, or strigose, hairs not papillose-based; lowest lemmas 1.7-4 mm, densely pilose, at least on the margins, 3-awned, awns 0.5-3 mm, central awns flanked by 2 membranous lobes; lowest paleas 1.5-4 mm, pubescent on the margins, 4-lobed, 2-awned, awns 1-2 mm; anthers 0.4-0.7 mm; rachilla segments subtending second florets terminating in a dense tuft of hairs; second florets rudimentary, 1.5-4 mm, 2-lobed, lobes rounded, 3-awned, awns 0.5-4 mm; rachilla segments subtending third florets with glabrous or puberulent apices; third florets rudimentary, flabellate, unawned. Caryopses to 1 mm. 2n = 20.</description>
+  <discussion>The range of Bouteloua barbata extends from the southwestern United States to southern Mexico. There are three varieties recognized. The two that grow in the Flora region are often sympatric, but are usually easily distinguished in the field in this region by their growth habit. According to Gould (1979), in the southern portion of their range the differences between the two varieties are less evident, particularly on herbarium specimens. The third variety, B. barbata var. sonorae (Griffiths) Gould, is usually stoloniferous; it is known only from the states of Sonora and Sinola, Mexico.
+Bouteloua barbata is often confused with juvenile plants of the perennial B. trifida, but in B. barbata the central awn is flanked by two membranous lobes and the lowest paleas are 4-lobed and 2-awned.
+</discussion>
+  <key>
+    <key_body>
+1. Plants annual; culms usually decumbent and geniculate, occasionally rooting at the lower nodes   .....var. barbata
+1. Plants short-lived perennials; culms erect from the base.....var. rothrockii
+
+    </key_body>
+  </key>
+</bio:treatment>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia mexicana (L.) Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>WIRESTEM MUHLY, MUHLENBERGIE DU MEXIQUE,
+MUHLENBERGIE MEXICAINE
+</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, not cespitose. Culms 30-90 cm tall, 0.5-2 mm thick, erect, much branched above the base; internodes dull, puberulent or glabrous for most of their length, sometimes strigose immediately below the nodes. Sheaths smooth or scabridu¬lous, somewhat keeled; ligules 0.4-1 mm, membranous, truncate, lacerate-ciliolate; blades 2-20 cm long, 2-6 mm wide, flat, scabrous or smooth, those of the sec¬ondary branches similar in length and width to those of the main branches. Panicles terminal and axillary, 2-21 cm long, 0.3-3 cm wide, dense; primary branches 0.3-5.5 cm, appressed or diverging up to 30° from rachises; pedicels to 2 mm, strigose; axillary panicles exserted on long peduncles. Spikelets 1.5-3.8 mm, often purple-tinged. Glumes subequal, 1.5-3.7 mm, equaling or slightly shorter than the lemmas, 1-veined, tapering from the bases to the acuminate apices, unawned or awned, awns to 2 mm; lemmas 1.5-3.8 mm, lanceolate, pubescent on the calluses, lower portion of the mid-veins, and margins, hairs shorter than 0.7 mm, apices scabridulous, acuminate, unawned or awned, awns to 10 mm; paleas 1.5-3.8 mm, narrowly lanceolate, apices acuminate; anthers 0.3-0.5 mm, yellow to purplish. Caryopses 1.1-1.6 mm, fusiform, brown. 2n = 40.</description>
+  <discussion>Muhlenbergia mexicana usually grows in mesic to wet areas such as moist prairies and woodlands, stream banks, roadsides, ditch banks, lake margins, swamps, bogs, and hot springs, at elevations 50-3300 m, and is found in many different plant communities. Despite its name, M. mexicana grows only in Canada and the United States.
+Plants with awns 3-10 mm long belong to Muhlenbergia mexicana var. filiformis (Torr.) Scribn., and those without an awn or with awns less than 3 mm long to Muhlenbergia mexicana (L.) Trin. var. mexicana. Early in the flowering season, M. mexicana may be confused with plants of M. bushii in which the axillary panicles are poorly developed, but they differ in their dull internodes and the fact that the blades on the secondary branches are usually similar in length and width to those of the main branches.
+</discussion>
+</bio:treatment>

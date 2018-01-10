@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sporobolus creber De Nardi </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; densely cespitose, not rhizomatous. Culms 6.5-100 cm. Sheaths rounded, margins ciliate, apices with tufts of hairs to 2 mm; ligules about 0.5 mm, the sides with a few hairs to 1.5 mm; blades 7-30 cm long, 1-2(3) mm wide, flat, becoming involute, tapering to a fine point. Panicles 20-40 cm long, 0.4-1 cm wide, narrowly contracted, sometimes spikelike; primary branches appressed to strongly ascending, spikelet-bearing to the base, lower branches 1.5-3 cm, much shorter than the adjacent internodes, usually appressed; pedicels 0.1-0.5 mm. Spikelets 1.1-1.5 mm, dark green. Glumes obtuse, often erose; lower glumes 0.4-0.5 mm; upper glumes 0.5-0.6 mm, less than 2/3 as long as the florets; lemmas 1.1-1.5 mm, glabrous, 1-veined, obtuse; paleas similar to the lemmas or slightly longer; anthers 2, 0.4-0.6 mm. Fruits 0.7-0.8 mm, often adhering to the floret at maturity, quadrangular to somewhat turbinate, red-brown, apices truncate and concave. 2n = unknown. </description>
+  <discussion>Sporobolus creber is an Australian species that was recently found growing spontaneously on a ranch in Glenn County, California. It is related to S. indicus, but differs in its widely spaced, closely appressed, and densely spikeleted branches.</discussion>
+</bio:treatment>

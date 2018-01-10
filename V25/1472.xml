@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>30</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum bifidum (Bertol.) Nash </name_authority_date>
+  </taxon_identification>
+  <common_names>PITCHFORK PASPALUM</common_names>
+  <description type="morphology">Plants perennial; rhizomatous. Culms 60-140 cm, erect; nodes glabrous. Sheaths pubescent; ligules 2-4 mm; blades to 37 cm long, 2.2-11 mm wide, flat. Panicles terminal, with 2-5 racemosely arranged branches; branches 3.7-13 cm, divergent to erect; branch axes 0.2-0.8 mm wide, glabrous, margins scabrous, terminating in a spikelet. Spikelets 3.1-4 mm long, 2-2.5 mm wide, paired, not imbricate, appressed to the branch axes, elliptic to obovate, yellow-brown. Lower glumes present or absent; upper glumes glabrous or sparsely pubescent basally, (6)7-veined, margins entire; lower lemmas glabrous or sparsely pubescent basally, lacking ribs over the veins, 5-veined, margins entire; upper florets white. Caryopses 2.6-2.9 mm, purple. 2n = unknown.</description>
+  <discussion>Paspalum bifidum is restricted to the southeastern United States. It grows at the edges of forests in longleaf pine-oak-grass ecosystems, usually in dry to mesic loamy sandy soils. It grows vigorously following fire. </discussion>
+</bio:treatment>

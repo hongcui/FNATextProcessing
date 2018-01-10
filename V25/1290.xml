@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subgenus</rank>
+    <name_authority_date>Panicum subg. Phanopyrum (Raf.) Pilg.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial, if perennial, growth habit various. Culms erect or decumbent, some¬times succulent or robust. Ligules membranous, membranous and ciliate, or lacerate; blades with the vascular bundles surrounded by 2 thick-walled sheaths, outer sheaths parenchymatous, chloroplasts few and unspecialized or absent. Photosynthesis C3. Spikelets ovoid, ellipsoid, or obovoid, glabrous, pilose, or tuberculate. Lower glumes 1/5 - 4/5 as long as the spikelets, usually 3-veined; upper glumes and lower lemmas usually 5-veined (rarely 7- or 9-veined); lower florets sterile or staminate; lower paleas present or absent; upper florets sometimes stipitate, indurate to membranous, smooth and shiny, or rugose, or finely pubescent, or with paired glands, x = 9 or 10, with some polyploids.</description>
+  <discussion>Panicum subg. Phanopyrum is most abundant in wet forests of warm temperate and tropical regions. In the Western Hemisphere, its range extends from the southern United States through South America. </discussion>
+</bio:treatment>

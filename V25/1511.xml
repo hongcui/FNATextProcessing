@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Saccharum bengalense Retz. </name_authority_date>
+  </taxon_identification>
+  <common_names>TALL CANE</common_names>
+  <description type="morphology">Plants cespitose, not rhizomatous. Culms to 5 m, glabrous. Blades to 2 m long, 3-25 mm wide, flat or channeled, glaucous and scabrous. Panicles 20-90 cm, compact; primary branches 2-5 cm, considerably shorter than the supporting branches; rame internodes hirsute, hairs to 7 mm. Sessile spikelets 4-6 mm long, somewhat heteromorphic. Sessile spikelets: callus hairs to 2.5 mm, white to gray; glumes equal; lower glumes membranous, pubescent; upper glumes glabrous; lower lemmas oblong-elliptic, pubescent; upper lemmas oblong-elliptic, ciliate on the margins, acute to shortly awned; awns about 1.3 mm, not visible beyond the glumes; anthers 3. Pedicels shorter than the sessile spikelet. Pedicellate spikelets pilose on the glumes, hairs 4-9 mm. 2n = 20, 22, 40, 60.</description>
+  <discussion>Saccharum bengalense is native from Iran to northern India. It is sometimes cultivated as an ornamental in the Flora region.</discussion>
+</bio:treatment>

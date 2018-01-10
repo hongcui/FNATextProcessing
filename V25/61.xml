@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Tridens flavus (L.) Hitchc. var. flavus </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Panicles nodding distally; branches flexible; pulvini inconspicuously or conspicuously hairy, hairs confined to the adaxial side of the branches.</description>
+  <discussion>Tridens flavus var. flavus grows in old fields and open woods. Its range extends to Nuevo Léon, Mexico. It was discovered for the first time in Canada in 1976, growing along a railway track in southern Ontario. 
+</discussion>
+</bio:treatment>

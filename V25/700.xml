@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>John W. Thieret</author>
+    </source>
+  </meta>
+  <number>17.32</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>CALAMOVILFA Hack.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; synoecious; rhizomatous, rhizomes short or elongate. Culms 50-250 cm, solitary or few. Leaves cauline; sheaths open; ligules of hairs, dense, short; blades elongate, long tapering. Inflorescences terminal, simple panicles, usually exserted and exceeding the upper leaves, open to contracted; panicles 8-80 cm long, to 60 cm wide, simple, flexible, branches not spikelike, not disarticulating. Spikelets with 1 floret, laterally compressed, unawned; rachillas not prolonged; disarticulation above the glumes, achenes falling with the lemmas and paleas. Glumes subequal to unequal, 1-veined, acute; calluses evidently hairy, hairs 1/4 - 7/8 as long as the lemmas; lemmas similar to the glumes, from shorter than to longer than the upper glumes, 1-veined, acute, unawned; paleas longitudinally grooved; anthers 3, 2.4-5.5 mm; ovaries glabrous. Fruit an achene, pericarp free from the seed, x = 10. </description>
+  <discussion>Calamovilfa is a genus of five species, all of which are endemic to temperate portions of the Flora region.</discussion>
+  <references>Thieret, J.W. 1956. Synopsis of the genus Calamovilfa (Graraineae). Castanea 31:145-152.</references>
+  <key>
+    <key_body>
+1. Rhizomes elongate; ligules 0.7-2.5 mm (sect. Interior).
+2. Lemmas or paleas (or both) pubescent, although sometimes sparsely so; spikelets 7-10.8 mm long .....1. C. gigantea
+2. Lemmas and paleas glabrous; spikelets 5-8.5 mm long .....2. C. longifolia
+1. Rhizomes short; ligules to 0.7 mm (sect. Calamovilfa).
+3. Panicles contracted, to 3.5 cm wide .....3. C. curtissii
+3. Panicles open, 4-40 cm wide.
+4. Spikelets 6-7.4 mm; glumes acute to acuminate, usually arcuate; lemmas 5.5-7 mm, arcuate, attenuate .....4. C. arcuata
+4. Spikelets 4-5.8 mm; glumes acute, straight; lemmas 4-5.4 mm, straight, acuminate .....5. C. brevipilis
+
+    </key_body>
+  </key>
+</bio:treatment>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>James M. Rominger</author>
+    </source>
+  </meta>
+  <number>25.20</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>SETARIA P. Beauv.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; cespitose, rarely rhizomatous. Culms 10-600 cm, erect or decumbent. Ligules membranous and ciliate or of hairs; blades flat, folded, or involute, or plicate and petiolate (subg. Ptychopbyllum). Inflorescences terminal, panicles, usually dense and spikelike, occasionally loose and open; disarticulation usually below the glumes, spikelets falling intact, bristles persistent. Spikelets 1-5 mm, usually lanceoloid-ellipsoid, rarely globose, turgid, subsessile to short pedicellate, in fascicles on short branches or single on a short branch, some or all subtended by 1-several, terete bristles (sterile branchlets). Lower glumes membranous, not saccate, less than 1/2 as long as the spikelets, 1-7-veined; upper glumes membranous to herbaceous at maturity, 1/2 as long as to nearly equaling the upper lemmas in length, 3-9-veined; lower florets staminate or sterile; lower lemmas membranous, equaling or rarely exceeding the upper lemmas, rarely absent, not constricted or indurate basally, 5-7-veined; lower paleas usually hyaline to membranous at maturity, rarely absent or reduced, veins not keeled; upper florets bisexual; upper lemmas and paleas indurate, transversely rugose, rarely smooth; anthers 3, not penicillate; styles 2, free or fused basally, white or red. Caryopses small, ellipsoid to subglobose, compressed dorsiventrally. x = 9. </description>
+  <discussion>Setaria, a genus of about 140 species, grows predominantly in tropical and warm-temperate regions, but it is particularly well-represented in Africa, Asia, and South America. Species from the Flora region fall into one of three categories: native to North America, native to South America, or native to the Eastern Hemisphere. There are 27 species in the Flora region; fifteen are native, nine are established introductions, one is cultivated, and two are not established or have been collected only at scattered locations. Several species of the native Setaria macrostachya complex (S. macrostacbya, S. leucopila, S. texana, S. villosissima, and S. scheelei) provide valuable forage in the southwestern United States. Setaria italica has been cultivated for centuries in Asia and Europe, providing food for humans and their livestock. The majority of species in temperate North America are aggressive, exotic annuals which collectively are a major nuisance, particularly in the corn and bean fields of the midwestern states.</discussion>
+  <references>Clayton, W.D. 1979. Notes on Setaria (Gramineae). Kew Bull. 33:501-509; Emery, U.H.P. 1957. A cyto-taxonomic study of Setaria macrostachya (Gramineae) and its relatives in the southwestern United States and Mexico. Bull. Torrey Bot. Club 84:94-105; Fox, W.E., III and S.L. Hatch. 1999. New combinations in Setaria (Poaceae: Paniceae). Sida 18:1037-1047; Hitchcock, A.S. 1951 [title page 1950]. Manual of the Grasses of the United States, ed. 2, rev. A. Chase. U.S.D.A. Miscellaneous Publication No. 200. U.S. Government Printing Office, Washington, D.C., U.S.A. 1051 pp.; Hubbard, F.T. 1915. A taxonomic study of Setaria italica and its immediate allies. Amer. J. Bot. 2:169-198; Rominger, J.M. 1962. Taxonomy of Setaria (Gramineae) in North America. Illinois Biol. Monogr. 29:1-132.</references>
+  <key>
+    <key_body>
+1. Terminal spikelet of each panicle branch subtended by a single bristle, single bristles occasionally also present below the other spikelets. 
+2. Blades not plicate, less than 10 mm wide; bristles present only below the terminal spikelets.
+3. Panicles nodding; spikelets 2-ranked on the branch axes (subg. Paurochaetium).....4. S. chapmanii
+3. Panicles erect; spikelets randomly distributed on the branch axes (subg. Revercboniae) .....5. S. reverchonii
+2. Blades plicate, more than 10 mm wide; a single bristle sometimes present below the non-terminal spikelets (subg. Ptychophyllum).
+4. Plants annual; blades 10-25 mm wide; rachises villous   .....1.5. barbata
+4. Plants perennial; blades 20-80 mm wide; rachises scabrous or puberulent.
+5. Panicles loosely open, branches lax, 6-10 cm long.....2. S. palmifolia
+5. Panicles lanceoloid, branches stiff, 2-5 cm long.....3. S. megaphylla
+1. All spikelets subtended by 1-several bristles (subg. Setaria). 
+6. Bristles 4-12 below each spikelet. 
+7. Plants annual.
+8. Panicles erect; bristles 3-8 mm long; spikelets 2-3.4 mm long; blades 4-10 mm wide .....27. S. pumila
+8. Panicles arching and drooping from near the base; bristles about 10 mm long; spikelets 2.5-3 mm long; blades 10-20 mm wide .....24. S. faberi
+7. Plants perennial.
+9. Panicles 3-8(10) cm long, yellow to purple; knotty rhizomes present; native.....25. S. parviflora
+9. Panicles 5-25 cm long, usually orange to purple; stout rhizomes present; introduced .....26. S. sphacelata
+6. Bristles 1-3 (rarely 6) below each spikelet. 
+10. Bristles retrorsely scabrous.
+11. Margins of sheaths glabrous; blades strigose on the abaxial surfaces; subtropical .....19. S. adhaerans
+11. Margins of sheaths ciliate distally; blades scabrous on the abaxial surfaces; temperate .....20. S. verticillata
+10. Bristles antrorsely scabrous.
+12. Plants perennial.
+ 
+13. Spikelets 2.8-3.2 mm long.
+14. Blades scabrous; plants of Florida and Georgia.....11. S. macrosperma
+14. Blades pubescent; plants of Texas and possibly Arizona.....10. S. villosissima
+13. Spikelets 1.9-2.8(3) mm long.
+15. Panicles 2-6 cm long; spikelets 1.9-2.1 mm long; culms branching at the upper nodes .....6. S. texana
+15. Panicles 5-30 cm long; spikelets 2-2.8(3)  mm long; culms seldom branching at the upper nodes.
+16. Lower paleas narrow, 1/2 - 3/4 as long as the lemmas; spikelets elliptical. 
+   17. Blades usually less than 5 mm wide; panicles 6-15 cm, columnar; bristles ascending .....8. S. leucopila
+17. Blades usually more than 5 mm wide; panicles 15-25 cm, tapering to the apex; bristles diverging .....9. S. scheelei
+16. Lower paleas broad, subequal to the lemmas in length; spikelets subspherical to ovate-lanceolate.
+18. Panicles dense, cylindrical; spikelets subspherical.....7. S. macrostacbya
+  18. Panicles interrupted, attenuate; spikelets ovate-lanceolate.
+19. Blades 6-12 mm wide; lower glumes 1/2 as long as the spikelets  .....12. S. setosa
+19. Blades mostly less than 5 mm wide; lower glumes about 1/3 as long as the spikelets .....13. S. rariflora
+12. Plants annual.
+20. Upper glumes and lower lemmas with 7 veins, the outer pair of veins not coalescing with the inner 5; lower paleas absent .....15. S. liebmannii
+20. Upper glumes and lower lemmas with 5-7 veins, all of which coalesce near the apices; lower paleas present, sometimes reduced or absent. 
+21. Upper lemmas smooth and shiny, occasionally obscurely transversely rugose.
+22. Spikelets about 2 mm long, lower paleas equal to the lower lemmas  .....18. S. magna
+22. Spikelets about 3 mm long, lower paleas absent or up to 1/2 as long as the lower lemmas .....23. S. italica
+21. Upper lemmas distinctly transversely rugose, dull.
+23. Upper lemmas coarsely rugose.
+24. Panicles densely spicate; rachises sparsely villous; plants of the southeastern United States .....17. S. corrugata
+24. Panicles loosely spicate; rachises scabrous; plants of southern Arizona .....16. S. arizonica
+23. Upper lemmas finely rugose.
+25. Panicles verticillate or loosely spicate; rachises visible, scabrous or hispid.
+26. Panicles verticillate; rachises scabrous; cauline nodes glabrous .....21. S. verticilliformis
+26. Panicles loosely spicate, interrupted; rachises hispid; cauline nodes pubescent .....14. S. grisebachii
+25. Panicles densely spicate; rachises not visible, villous.
+27. Blades softly pilose on the upper surface; spikelets 2.5-3 mm long; panicles nodding from the base  .....24. S. faberi
+27. Blades scabrous; spikelets 1.8-2.2 mm long; panicles nodding only from near the apex ..... 22. S. viridis
+
+    </key_body>
+  </key>
+</bio:treatment>

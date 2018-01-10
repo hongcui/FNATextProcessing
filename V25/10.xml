@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>64</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa secunda J. Presl </name_authority_date>
+  </taxon_identification>
+  <common_names>Poa secunda J. Presl </common_names>
+  <description type="morphology">Plants perennial; frequently anthocyanic, sometimes glaucous; densely tufted, basal leaf tufts 2-20+ cm, usually narrowly based, rarely with rhizomes. Basal branching intra- and extra vaginal. Culms (10)15-120 cm, slender to stout, erect or the bases slightly decumbent, terete or weakly compressed; nodes terete, 0-2 exserted. Sheaths closed for 1/10-1/4 their length, terete, smooth or scabrous, glabrous, bases of basal sheaths glabrous, distal sheath lengths (0.95)1.5-7(15) times blade lengths; collars smooth or scabrous, glabrous; ligules 0.5-6(10) mm, smooth or scabrous, truncate to acuminate, ligules of innovation leaves similar to those of the cauline leaves or shorter and truncate; innovation blades similar to the cauline blades; cauline blades gradually reduced in length upwards or the middle blades longest, 0.4-3(5) mm wide, flat, folded, or involute, thin, soft, and soon withering to thick, firm, and persisting, smooth or scabrous mainly over the veins, glabrous, apices narrowly prow-shaped, flag leaf blades 0.8-10(17) cm. Panicles 2-25(30) cm, erect or somewhat lax, narrowly lanceoloid to ovoid, usually contracted, more or less open at anthesis, infrequently remaining open at maturity, green or anthocyanic, sometimes glaucous, usually moderately congested, with 10-100+ spikelets; nodes usually with 1-3 branches; branches (0.5)1-8(10) cm, usually erect or ascending, infrequently spreading at maturity, terete to weakly angled, usually sparsely to densely scabrous on and between the angles, with (1)2-20(60+) spikelets in the distal 1/2-1/3. Spikelets (4)5-10 mm, lengths (3.8)4-5 times widths, usually narrowly lanceolate, subterete to weakly laterally compressed, drab, green or strongly anthocyanic, sometimes glaucous; florets (2)3-5(10); rachilla internodes usually 1-2 mm, terete or slightly dorsally compressed, smooth or muriculate to scabrous. Glumes broadly lanceolate, keels indistinct; lower glumes 3-veined; calluses glabrous or with a crown of hairs, hairs 0.1-0.5(2) mm, crisp or slightly sinuous; lemmas 3.5-6 mm, lanceolate to narrowly lanceolate or slightly oblanceolate, usually weakly keeled, glabrous or the keels and marginal veins softly puberulent to short-villous, intercostal regions smooth or scabrous, glabrous, short-villous, crisply puberulent or softly puberulent over the basal 2/3, hairs usually 0.1-0.5 mm, hairs of the keels and veins frequently similar in length to those between the veins, usually not or only slightly denser and extending further towards the apices, lateral veins obscure, margins strongly inrolled below, broadly scarious  above,  glabrous, apices obtuse to broadly acute, blunt, or pointed; palea keels scabrous, glabrous or softly puberulent to short-villous at midlength; anthers 1.5-3 mm. 2n = 42, 44+f, ca. 48, 56, ca. 62, 63, ca. 66, ca. 68, 70, ca.72, ca. 74, 78, ca. 80, 81, 82, ca. 83, 84-86, ca. 87, ca. 88, ca. 90, ca. 91, 93, ca. 94, ca. 97, ca. 98, ca. 99, 100, 104, 105-106.</description>
+  <discussion>Poa secunda is one of the major spring forage species of temperate western North America. It is very common in high deserts, mountain grasslands, saline wetlands, meadows, dry forests, and on lower alpine slopes, primarily from the Yukon Territory east to Manitoba and south to Baja California, Mexico. It also extends sporadically eastward across the Great Plains to the Gaspe Peninsula, Quebec. Both subspecies are present, as disjuncts, in Patagonia.
+Poa secunda is highly variable. Hitchcock (1951) divided it into two groups, with a total of seven species. The two groups are recognized here as subspecies. They overlap almost completely in terms of morphology, but differ ecologically and cytologically.
+Poa secunda is known or suspected to hybridize with several other species, including P. arctica (p. 529), P. arida (p. 599), P. glauca (p. 576), and P. pratensis (p. 522). Plants from the Columbia River Gorge in Oregon, including the type of P. multnomae Piper, that approach P. tenerrima (p. 588) are presumed to be derived from hybridization between P. secunda and P. nervosa (p. 545). Poa secunda differs from P. curtifolia (p. 589), with which it is sometimes confused, in having longer leaf blades that are sometimes folded or involute, and more spikelets per branch. Apomixis is common and facultative.
+</discussion>
+  <key>
+    <key_body>
+1. Lemmas usually glabrous, the keels and marginal veins infrequently sparsely puberulent at the base; basal branching mainly extravaginal; leaves slightly lax to firm, remaining intact through the growing season; ligules of the innovations to 2 mm long .....subsp. juncifolia
+1. Lemmas sparsely to densely puberulent or short-villous on the basal 2/3; basal branching mixed intra- or extravaginal or mainly intravaginal; leaves usually lax, withering with age; ligules of the innovations usually longer than 2 mm   .....subsp. secunda
+
+    </key_body>
+  </key>
+</bio:treatment>

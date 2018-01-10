@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>40</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis refracta (Muhl.) Scribn. </name_authority_date>
+  </taxon_identification>
+  <common_names>COASTAL LOVEGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, with innovations, without rhizomes, not glandular. Culms 30-85(110) cm, glabrous and shiny below the nodes. Sheaths sparsely hairy at the apices, hairs to 6 mm; ligules 0.1-0.4 mm; blades 10-35 cm long, 2-5 mm wide, flat to involute, glabrous abaxially, scabridulous and sparsely pilose adaxially, hairs to 7 mm. Panicles (25)30-60 cm long, 25-40 cm wide, broadly ovate to obovate, open, diffuse; primary branches 5-25 cm, diverging 20-90° from the rachises, capillary; pulvini hairy or glabrous; pedicels 0.5-25 mm, appressed, only the terminal pedicels on each branch longer than the spikelets. Spikelets 4-18(23) mm long, 1.4-3.4 mm wide, linear-lanceolate, grayish-green or stramineous to purplish, with (4)9-30 florets; disarticulation tardy, basipetal, in the rachillas below the florets, glumes persistent. Glumes narrowly lanceolate, membranous; lower glumes 0.8-2.4 mm; upper glumes 1.5-2.6 mm; lemmas 1.4-2.8 mm, lanceolate, membranous, apices acute to acuminate; paleas 1-2.6 mm, hyaline to membranous, narrower than the lemmas, apices obtuse to acute; anthers 2, 0.3-0.5 mm, purplish or brownish. Caryopses 0.5-0.9 mm, ovoid to ellipsoid, finely striate, reddish-brown. 2n = 28.</description>
+  <discussion>Eragrostis refracta grows in sandy pinelands, savannahs, marshes, and woodlands on the coastal plain of the southeastern United States, at 0-150 m. It is not known from Mexico.</discussion>
+</bio:treatment>

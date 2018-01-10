@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>19</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Digitaria pauciflora Hitchc.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; not rhizoma-tous. Culms 50-100 cm, erect to somewhat decumbent, not rooting at the lower nodes, usually branching at the aerial nodes. Sheaths grayish-villous; ligules 1.5-2 mm; blades to 12 cm long, 2-2.2 mm wide, flat or folded, densely grayish-villous on both surfaces. Panicles with 2-3 spikelike primary branches, secondary branches not present; primary branches 5-11 cm, axes not winged, without spikelets or with widely spaced abortive spikelets on the proximal 1-1.5 cm, bearing spikelets in unequally pedicellate pairs at midlength; shorter pedicels about 2 mm; longer pedicels about 3 mm, not adnate to the branch axes. Spikelets 2.7-3.2 mm, appressed, glabrous. Lower glumes minute, rounded, erose; upper glumes slightly shorter than the spikelets, 3-veined, glabrous; lower lemmas 7-veined, glabrous; upper lemmas gray or yellow when immature, becoming purple at maturity. 2n = unknown.</description>
+  <discussion>Digitaria pauciflora is known only from the type collection, which was collected in pinelands of Dade County, Florida.</discussion>
+</bio:treatment>

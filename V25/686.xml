@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>23</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sporobolus junceus (P. Beauv.) Kunth </name_authority_date>
+  </taxon_identification>
+  <common_names>PINEY WOODS DROPSEED</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms (30)40-100 cm. Sheaths rounded below, margins and apices sometimes sparsely ciliate; ligules 0.1-0.2 mm; blades (6)10-30 cm long, 0.8-2 mm wide, flat to tightly involute, glabrous abaxially, scabridulous adaxially, margins scabrous, apices pungent. Panicles 7-28 cm long, 2-6 cm wide, open, pyramidal; lower nodes with 3 or more branches; primary branches 0.7-4.5 cm, spreading 20-100° from the rachis, whorled or verticellate, without spikelets on the lower 1/8–1/2; secondary branches appressed; pedicels 0.4-2.5 mm, appressed, scabridulous. Spikelets 2.6-3.8 mm, purplish-red. Glumes unequal, linear-lanceolate to lanceolate or ovate, hyaline to membranous; lower glumes 0.9-3 mm; upper glumes 2.6-3.8 mm, as long as or longer than the florets; lemmas 2-3.6 mm, ovate, membranous, glabrous, acute; paleas 2-3.6 mm, ovate, membranous; anthers 1.4-2 mm, purplish. Fruits 1.4-1.8 mm, ellipsoid, somewhat laterally flattened, somewhat rugulose, reddish-brown. 2n = unknown.</description>
+  <discussion>Sporobolus junceus grows in openings in pine and hardwood forests, coastal prairies, and pine barrens, usually in sandy to loamy soils, at 2-400 m. Its range lies entirely within the southern United States.</discussion>
+</bio:treatment>

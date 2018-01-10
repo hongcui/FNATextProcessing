@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Brachyelytrum aristosum (Michx.) R Beauv. ex Branner & Coville </name_authority_date>
+  </taxon_identification>
+  <common_names>NORTHERN SHORTHUSK</common_names>
+  <description type="morphology">Culms (28)41-78(96) cm long, 0.6-1 mm thick; nodes densely pilose; internodes glabrous or hispid, occasionally retrorsely pubescent near the nodes. Sheaths pubescent; ligules of middle and upper cauline blades 1.8-2.5 mm, acute, erose; blades (6.9)8.6-13 (16.1) cm long, 8-16 mm wide, abaxial surfaces sparsely pilose, adaxial surfaces with some hairs usually restricted to the veins, margins scabrous, with (1)4-10(12) prickles and (1)1-9 macrohairs per mm. Panicles (6.6)9.5-17.5 cm. Spikelets, including the awns, 23-36 mm. Lower glumes 0.1-0.4(0.9) mm, sometimes absent; upper glumes 0.6-1.7(3) mm; calluses hairy, hairs 0.2-0.5 mm; lemmas 8-10(11) mm long, 0.7-1.4 mm wide, veins scabridulous, scabrules 0.08-0.14(0.2) mm, all veins equally prominent; awns (14)17-24(26) mm; paleas 7.7-11.5 mm; anthers 2-3.5 mm. Caryopses 5.5-7.5 mm. 2n = 22.</description>
+  <discussion>Brachyelytrum aristosum, like B. erectum, grows in moist woods and forests, but its primary distribution is more northern, extending from Ontario to Newfoundland, Minnesota, and Pennsylvania, and south through the Appalachian Mountains to the junction of Tennessee, North Carolina, and Georgia.
+Some authors (e.g., Koyama and Kawano 1964) have called this taxon Brachyelytrum erectum var. glabratum.
+ As discussed under B. erectum, that name is a nomenclatural synonym of B. erectum sensu stricto. Nevertheless, most plants identified as B. erectum var. glabratum will be found to be B. aristosum.
+</discussion>
+</bio:treatment>

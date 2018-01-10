@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>21</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Setaria verticilliformis Dumort. </name_authority_date>
+  </taxon_identification>
+  <common_names>BARBED BRISTLEGRASS</common_names>
+  <description type="morphology">Plants annual. Culms 30-100 cm; nodes glabrous. Sheaths mostly glabrous, margins ciliate distally; ligules 1-2 mm,   of hairs; blades 5-15 mm wide, flat, abaxial surfaces scabrous, adaxial surfaces sparsely villous. Panicles 5-15 cm, tapering to the apices, branches verticillate; rachises antrorsely rough hispid, without villous hairs; bristles solitary, 4-7 mm, antrorsely or retrorsely scabrous. Spikelets 2-2.3 mm. Lower glumes about 1/3 as long as the spikelets, obtuse, l(3)-veined; upper glumes nearly as long as the spikelets; lower paleas about 1/2 as long as the spikelets, broad; upper lemmas finely and transversely rugose; upper paleas similar to the upper lemmas. 2n = 36.</description>
+  <discussion>Setaria verticilliformis is a European adventive that has been found at scattered, mostly urban, locations in the United States.</discussion>
+</bio:treatment>

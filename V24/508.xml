@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Leymus mollis (Trin.) Pilg. </name_authority_date>
+  </taxon_identification>
+  <common_names>AMERICAN DUNEGRASS, SEA LYMEGRASS, ELYME DES SABLES D'AMERIQUE, SEIGLE DE MER</common_names>
+  <description type="morphology">Plants not cespitose, strongly rhizomatous, occasionally slight¬ly glaucous. Culms 12-170 cm tall, 3-6 mm thick, usually densely pubescent below the spikes for 10-40+ mm. Leaves exceeded by the spikes; auricles to 0.7 mm; ligules 0.2-2.5 mm; blades 10-94 cm long, 3-15 mm wide, adaxial surfaces scabridulous to scabrous, 20-40-veined, veins subequal, prominently ribbed, closely spaced. Spikes 5-34 cm long, 10-20 mm wide, with 3-33 nodes, usually with 2 spikelets per node; internodes 4.5-9.5 mm, surfaces and edges similar, hairs on the surfaces 0.1-0.5 mm, on the edges to 0.7 mm. Spikelets 15-34 mm, with 3-6 florets. Glumes 9-34 mm long, 1.5-4 mm wide, lanceolate, tapering from midlength or above, flat or rounded on the back, flexible, usually strigillose to pilose or villous, rarely almost glabrous, the central portion scarcely thicker than the margins, 3(5)-veined at midlength, apices acute; lemmas 11-20 mm, densely hairy, hairs 0.5-1 mm, soft, apices acute, unawned; anthers 4-9 mm, dehiscent.</description>
+  <discussion>Leymus mollis is native to Asia and North America. It is treated here as having two very similar subspecies that have somewhat different ranges. The subspecies are sometimes treated as separate species, but they may be little more than environmentally induced variants. Both subspecies grow primarily on coastal beaches, close to the high tide line, and along some inland waterways, particularly in the arctic. Reports of L. ajanensis (V.N. Vassil.) Tzvelev from North America are based on specimens of L. mollis (D. Murray, University of Alaska, pers. comm. 2006).</discussion>
+  <key>
+    <key_body>
+1. Spikes 12-34 cm long, with 12-33 nodes; basal blades 5-15 mm wide; culms 50-170 cm tall.....subsp. mollis
+1. Spikes 5-13(16) cm long, with 3-14 nodes; basal blades 3-8 mm wide; culms 12-70 cm tall.....subsp. villosissimus
+
+    </key_body>
+  </key>
+</bio:treatment>

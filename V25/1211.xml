@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>29</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthelium laxiflorum (Lam.) Gould </name_authority_date>
+  </taxon_identification>
+  <common_names>SOFT-TUFTED PANICGRASS</common_names>
+  <description type="morphology">Plants densely cespitose. Basal rosettes poorly differentiated; blades ovate to lanceolate. Culms 15-55 cm, slender, erect or radiating from a large tuft of predominantly basal leaves, lower internodes short, upper 3-5 internodes elongate; nodes bearded with soft, spreading or retrorse hairs; internodes glabrous; fall phase branching extensively from the basal nodes, forming a dense cushion that overwinters. Cauline leaves 2-4; sheaths usually longer than the internodes, pilose, hairs to 4 mm, retrorse or spreading; ligules 0.2-1 mm, at low magnification appearing to be membranous and ciliate, at high magnification evidently of hairs that are coherent at the base; blades 4-17 cm long, 4-12 mm wide, lanceolate, at least 3/4 as long as the basal blades, spreading to suberect, thin, soft, lax, yellowish-green, nearly glabrous or densely pilose on 1 or both surfaces, margins usually finely short-ciliate, at least on the basal 1/2, cilia not papillose-based. Primary panicles 4-12 cm long, 3-8 cm wide, well-exserted; secondary panicles more compact, usually not exserted above the crowded basal leaves; rachises and branches wiry, spreading or deflexed, often pilose. Spikelets 1.7-2.3 mm long, 1-1.2 mm wide, broadly ovate or oblong-obovoid, with papillose-based hairs, obtuse. Lower glumes 1/4 - 1/3 as long as the spikelets, broadly deltoid; upper glumes and lower lemmas subequal, usually fully covering the upper florets; upper florets 1.5-1.8 mm long, 1-1.2 mm wide, broadly ellipsoid or obovoid, minutely umbonate. 2n = 18.</description>
+  <discussion>Dichanthelium laxiflorum is a widespread, common species that grows in mesic deciduous woods, and occasionally in drier, more open woodlands. Its range extends south from the Flora region into Mexico. The density of the pubescence on the blade surfaces varies greatly.
+The primary (spring) panicles are apparently chasmogamous; the secondary panicles are largely cleistogamous and are produced from late spring to winter.</discussion>
+</bio:treatment>

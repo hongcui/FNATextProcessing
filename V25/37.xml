@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aeluropus littoralis (Gouan) Pari. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants both rhizomatous and stoloniferous. Culms 9-25 cm, erect or decumbent. Sheaths strongly ridged, glabrous; blades 1.5-7 cm, adaxial surfaces glabrous, scabridulous, or sparsely hairy, strongly and closely ridged. Panicles 1-7 cm long, 4-10 mm wide, with 4-13 branches, each bearing 12 or more spikelets; lower branches usually not overlapping. Spikelets 3-4.5 mm, ovoid, with 6-9 florets. Glumes unequal, veins scabrous, margins  glabrous   or  hairy; lower glumes 1-2.5 mm, 1-4-veined; upper glumes 1.5-3 mm, 3-6-veined; lemmas 1.5-4 mm, 9-11-veined, veins scabrous, margins glabrous or hairy, apices mucronate, mucros 0.1-0.3 mm; paleas hyaline, keels ciliolate; anthers 1-1.5 mm. Caryopses strongly compressed. 2n = 20.</description>
+  <discussion>Aeluropus littoralis is native to Eurasia, where it grows in sandy, often saline habitats. It has been cultivated experimentally in Pima County, Arizona; it is not established in the Flora region.</discussion>
+</bio:treatment>

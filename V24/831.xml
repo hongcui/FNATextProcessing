@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa hartzii Gand. subsp. hartzii </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 10-33 cm. Ligules (1.5)2-7 mm. Panicles 2.5-6 cm, with (1)2(3) branches per node; branches smooth or scabrous. Spikelets 4.8-7.4 mm, lustrous; florets normal; rachilla internodes 0.8-1.5 mm. Upper glumes 3.5-4.5 mm; calluses usually with a crown of hairs, longer hairs 1-2 mm long; lemmas (3.3)3.9-5.4 mm, sparsely hairy, hairs mostly longer than 0.5 mm, apices acute; anthers usually aborted, 0.5-1.5 mm. 2n = 63, 70.</description>
+  <discussion>Poa hartzii subsp. hartzii is the common subspecies on high arctic islands and in Greenland. It grows at scattered locations on the continental margin, from the Mackenzie River Delta to the Ungava Peninsula, Canada. Outside the Flora region, it is known from Wrangel Island in Russia and from Svalbard, Norway. It is apomictic, setting seed despite rarely forming anthers. Curiously, this subspecies has two different chloroplast genome types within its northern populations, one like P. glauca and one like P. secunda. Robust plants of subsp. hartzii resemble those of subsp. alaskana, but have a tighter habit and poorly developed anthers that are usually aborted.</discussion>
+</bio:treatment>

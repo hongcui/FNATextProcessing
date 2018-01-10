@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Dichanthelium ovale (Elliott) Gould & C.A. Clark subsp. ovale</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Basal blades 3-8 cm, rigid, with long hairs on or near the bases and margins. Culms more than 1 mm thick, stiff; lower internodes pilose; upper internodes short-pilose to nearly glabrous. Cauline sheaths with ascending hairs, hairs to 4 mm, not papillose-based: ligules 1-4 mm; blades 5-12 mm wide, firm, ascending, abaxial surfaces appressed-pubescent, adaxial surfaces nearly glabrous except for the long hairs on or near the scabridulous margins and bases. Spikelets 2.5-3 mm, ellipsoid, sparsely to densely pilose. 2n = 18.</description>
+  <discussion>Dichanthelium ovale subsp. ovale grows in dry, open, sandy woods, pinelands, and sandhills along the east coast of the United States from New Jersey south¬wards, extending into the coastal plain from eastern Texas to South Carolina, and in Mexico, Honduras, Guatemala, and Nicaragua. It intergrades somewhat with subsp. pseudopubescens. Occasional long-spikelet specimens exhibit morphological characteristics of D. oligosanthes and D. commutatum.</discussion>
+</bio:treatment>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Lycurus setosus (Nutt.) C. Reeder </name_authority_date>
+  </taxon_identification>
+  <common_names>BRISTLY WOLFSTAIL</common_names>
+  <description type="morphology">Plants densely cespitose. Culms 30-50(60) cm, erect, with several nodes, sparingly branched, scabrous to puberulent at or near the nodes. Ligules (2)3-10(12) mm, hyaline, acuminate, some¬times shortly cleft on the sides (in dried specimens the fragile ligules may appear shorter because of the folded tip); blades 4-9(13) cm long, 1-2 mm wide, glabrous, smooth or scabridulous abaxially, scabridulous or hispidulous adaxially, with prominent whitish midribs and scabrous margins, midribs extending as fragile, easily broken, awnlike, (3)4-7(12) mm apices. Panicles 4-8(10) cm long, (5)7-8 mm wide; shorter pedicels 0.8-1(1.5) mm; longer pedicels 1-2 mm. Spikelets 3-4 mm. Glumes 1-1.5(2) mm, scabrous apically; lower glumes 2-veined, with (1)2(3) unequal scabridulous awns, shorter awns 1-1.5 mm, longer awns (1)1.5-3(3.5) mm; upper glumes 1-veined, with a single, flexuous 2.5-4(5) mm awn; lemmas 3-4 mm, tapering to a scabrous 1.5-2(3) mm awn; anthers 1.5-2 mm, yellowish. Caryopses about 2 mm, brownish. 2n = 40.</description>
+  <discussion>Lycurus setosus grows on rocky slopes and open mesas, at elevations of 570-3400 m. Its range extends from the southwestern United States to northern Mexico, and, as a disjunct, in Argentina and Bolivia. It was found as an adventive (associated with wool waste) in North Berwick, York County, Maine, in 1902, but it has not been reported from there since. Its flowering time is July-October.
+Lycurus setosus is sometimes confused with Muhlenbergia wrightii, which has a somewhat similar aspect but is normally found in moist habitats. Also, in M. wrightii the first glume is 1-veined with a very short awn, and the lemma is acuminate and unawned or with an awn no more than 1 mm long.</discussion>
+</bio:treatment>

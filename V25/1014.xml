@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Aristida purpurea var. parishii (Hitchc.) Allred </name_authority_date>
+  </taxon_identification>
+  <common_names>PARISH'S THREEAWN</common_names>
+  <description type="morphology">Culms 20-50 cm. Leaves mostly cauline; blades more than 10 cm, loosely involute to flat. Panicles 15-24 cm; primary branches stiff, lower branches strongly divergent to divaricate, with axillary pulvini, upper branches appressed to ascending, without axaillary pulvini, lower nodes associated with 8-18 spikelets. Glumes red or dark at anthesis, fading to stramineous; lower glumes 7-11 mm, 3/4 as long as to equaling the upper glumes; upper glumes 10-15 mm; lemmas 10-13 mm long, narrowing to 0.2-0.3 mm wide near the apex; awns subequal, 20-30 mm long, 0.2-0.3 mm wide at the base. 2n = unknown.</description>
+  <discussion>Aristida purpurea var. parishii grows on sandy plains and hills of the southwestern United States and Baja California, Mexico. In many respects it is intermediate between A. purpurea and other species of Aristida with spreading panicle branches, especially A. ternipes var. gentilis. Its spikelets are indistinguishable from those of var. wrightii, but var. parishii frequently has axillary pulvini associated with the lower branches. The two also differ in their phenology: var. parishii flowers from March through May in response to winter rains, whereas var. wrightii flowers from May through October in response to summer rains.</discussion>
+</bio:treatment>

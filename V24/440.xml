@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>15</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus texensis J.J.N. Campb. </name_authority_date>
+  </taxon_identification>
+  <common_names>TEXAN WILDRYE</common_names>
+  <description type="morphology">Plants cespitose, not rhizomatous, glaucous. Culms 70-110 cm, erect; nodes 4-6, mostly exposed, glabrous. Leaves even¬ly distributed; sheaths glabrous or ciliate; auricles to about 2 mm, pale to purplish brown; ligules 1-2 mm, erose; blades 2-9 mm wide, lax or somewhat involute, adaxial surfaces thinly scabrous to hirsute or densely pilose. Spikes 9-20 cm long, 2-2.5 cm wide, erect to slightly nodding, with 2 spikelets per node; internodes (5)7-15(22) mm long, 0.1-0.3 mm thick at the thinnest sections, glabrous except for the ciliolate margins, with slight dorsal angles and green lateral bands along the concave sides. Spikelets 13-20 mm excluding the awns, 20-40 mm including the awns, appressed, with 4-6(8) florets, lowest florets functional; disarticulation above the glumes, beneath each floret. Glumes subequal, 14-24 mm long including the undifferentiated awns, 0.1-0.3 mm wide, setaceous, entire, 0-1-veined, tapering from the base, glabrous, margins firm, awns more or less straight; lemmas 8-12 mm, smooth, glabrous, awns 8-25 mm, straight, flexuous or slightly curving; paleas 7-11 mm, obtuse or truncate; anthers 4.5-6 mm. Anthesis in May. 2n = unknown.</description>
+  <discussion>Elymus  texensis  is  known only from calcareous bluffs and hills in juniper woods and grassy areas on the Edwards Plateau of southwest Texas. It is known from only three collections and needs further study (Campbell 2002). It is similar to the Mexican species E. pringlei (see previous), but differs in its larger anthers, larger, less pubescent spikelets, and in its longer, glabrous rachis internodes with green lateral bands.</discussion>
+</bio:treatment>

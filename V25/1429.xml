@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalidium geminatum (Forssk.) Stapf </name_authority_date>
+  </taxon_identification>
+  <common_names>EGYPTIAN PASPALIDIUM, WATER PASPALIDIUM</common_names>
+  <description type="morphology">Plants perennial; rhizomatous. Culms 25-100 cm, erect. Leaves basal and cauline; sheaths glabrous, margins scarious, sparsely ciliate distally; ligules 0.5-1 mm, of hairs; blades flat to conduplicate, glabrous or scabrous. Panicles 10-30 cm; branches 5-15, 1-3.7 cm, erect, with more than 12 spikelets; terminal bristles 2.5-4 mm. Spikelets 2.2-3.2 mm, clearly overlapping. Lower glumes 0.8-1.2 mm, 1-3-veined, truncate; upper glumes and lower lemmas 2-2.4 mm, glabrous, 5-7-veined, acuminate; lower paleas 2-2.4 mm, scarious; upper lemmas and paleas 2-2.3 mm, rugose, stramineous to light brown, lemma margins scarious, inrolled, clasping the paleas, lemma apices acuminate; anthers 1.2-1.5 mm. Caryopses about 1 mm in diameter, spheroidal, slightly flattened, yellow. 2n = 18, 54.</description>
+  <discussion>Paspalidium geminatum grows in moist to wet, fresh to brackish areas. It is native to the southeastern United States, the West Indies, and tropical regions of the Americas.</discussion>
+</bio:treatment>

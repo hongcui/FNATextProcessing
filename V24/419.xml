@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Elymus virginicus var. halophilus (E.P. Bicknell) Wiegand </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants glaucous, often strongly so, becoming reddish brown at maturity. Culms usually 30-80 cm; nodes usually 4-6, often exposed; ligules and auricles often pronounced. Blades 2-9 mm wide, often becoming involute and ascending, glabrous or slightly scabrous. Spikes 3.5-11 cm, exserted; spikelets usually glabrous to scabrous, strongly glaucous; glumes 0.7-1.5 mm wide, usually somewhat indurate and bowed out in the basal 1-2 mm. Anthesis late June to late July.</description>
+  <discussion>Elymus virginicus var. halophilus grows in the moist to damp soil of dunes and brackish marsh edges along the northern Atlantic coast, from Nova Scotia to North Carolina. It could be considered a relatively small, disjunct form of the largely midwestern E. virginicus var. jejunus, but its glumes are more like those of var. virginicus. Transitions to E. glabriflorus (p. 296) may be found in southern regions. Rare northern plants with hirsute spikelets (sometimes called E. virginicus i. lasiolepis Fernald) differ from var. intermedius in having grayish green, involute blades.</discussion>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Anthoxanthum odoratum L. </name_authority_date>
+  </taxon_identification>
+  <common_names>SWEET VERNALGRASS, FLOUVE ODORANTE, FOIN D'ODEUR</common_names>
+  <description type="morphology">Plants perennial. Culms (10) 25-60(100) cm, erect, simple or sparingly branched. Auricles 0.5-1 mm, pilose-ciliate, sometimes absent; ligules 2-7 mm, truncate; blades 1-31 cm long, 3-10 mm wide. Panicles (3) 4-14 cm, the spikelets congested; lowermost branches 10-25 mm; pedicels 0.5-1 mm, pubescent. Spikelets 6-10 mm; lower glumes 3-4 mm; upper glumes 8-10 mm; sterile florets 3-4 mm, awn of the first floret 2-4 mm, awn of the second floret 4-9 mm, equaling or only slightly exceeding the upper glumes; bisexual florets 1-2.5 mm; anthers 2, (2.9)3.5-4.8(5.5) mm. 2n = 10,20.</description>
+  <discussion>Anthoxanthum odoratum is native to southern Europe. In the Flora region, it grows in meadows, pastures, grassy beaches, old hay fields, waste places, and openings in coniferous forests, occasionally in dense shade or as a weed in lawns. It is most abundant on the western and eastern sides of the continent, and is almost absent from the central region. In southern British Columbia, it is rapidly invading the moss-covered bedrock of coastal bluffs, and will soon exclude many native species. Diploids (In = 10) have been referred to A. odoratum subsp. alpinum (Á. Löve   & D. Love) Hulten. Because the two ploidy levels can be distinguished only through cytological examination (Hedberg 1990), the two subspecies are not recognized here.
+Anthoxanthum odoratum was often included in hay and pasture mixes to give fragrance to the hay, but this practice is waning. The aroma is released upon wilting or drying. By itself, the species is unpalatable because of the bitter-tasting coumarin.
+</discussion>
+</bio:treatment>

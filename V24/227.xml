@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Piptochaetium fimbriatum (Kunth) Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>PINYON RICEGRASS</common_names>
+  <description type="morphology">Culms 35-95 cm, usually glabrous, sometimes pubescent below the nodes; nodes 2-3, often dark, glabrous. Sheaths glabrous, smooth; ligules truncate to rounded, of basal leaves 0.4-1.8 mm, of upper leaves 1.5-2 mm; blades 6-26 cm long, usually involute and 0.3-5 mm in diameter, sometimes flat and 0.5-1(1.5) mm wide, 3-veined, both surfaces glabrous, veins often scabridulous, margins scabrous. Panicles 6.5-25 cm, open, often partially enclosed in the upper leaf sheath, with 20-60 spikelets; branches flexuous; pedicels 4-12 mm, flattened, hispid. Glumes subequal, 4-6.2 mm long, 1.8-3.1 mm wide, 5-7-veined, often partly purplish; florets 3-5.5 mm long, 0.6-1.9 mm thick, somewhat laterally compressed, rectangular to slightly obovate in side view; calluses 0.2-0.7 mm, blunt, strigose; lemmas tan to light chocolate brown, shiny, smooth, evenly pubescent when immature, hairs easily rubbed off; crowns about 0.8 mm wide, inconspicuous, glabrous or glabrate; awns 11-20 mm, persistent, twice-geniculate; paleas about 3.5 mm; lodicules 2, about 1 mm; anthers 0.3-0.5 mm, not penicillate. Caryopses 2.5-3 mm long, about 0.6 mm thick, fusiform. 2n = 42.</description>
+  <discussion>Piptochaetium fimbriatum is an attractive species that grows in oak and pinyon woods of the southwestern United States and adjacent Mexico, and merits consideration as an ornamental. It has also been reported from Guatemala; the report has not been verified.
+Piptochaetium fimbriatum is not easily confused with other species in our range. Hitchcock (1951) treated it as including P. seleri (Pilg.) Henrard, a Mexican species with dull, rough, oblanceolate lemmas and persistent lemma hairs, an interpretation that is no longer accepted. It is occasionally confused with P. pringlei; it differs from that species in having shorter florets and blunt calluses.
+</discussion>
+</bio:treatment>

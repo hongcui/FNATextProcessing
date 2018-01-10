@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>xArctodupontia scleroclada (Rupr.) Tzvelev </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 13-40 cm. Ligules 2-4 mm; blades 2-6 cm long, 1.5-4 mm wide. Panicles 4-12 cm, partly or completely exserted. Spikelets 3.5-7 mm. Glumes 3-6 mm; lower glumes 1-veined; upper glumes 1(3)-veined; lemmas 3-5 mm, paleas about as long as the lemmas; anthers to about 2 mm. 2n = unknown.</description>
+  <discussion>xArctodupontia scleroclada is known from Mansfield Island in northern Hudson Bay, and from Malaya Zemlya and the Chukchi Peninsula in Russia. Plants seemingly intermediate between Dupontia fisheri and Arctopbila fulva are common, but caution must be exercised in assigning them to xArctodupontia. The hybrids differ from their parents in being sterile (as indicated by their indehiscent anthers), and in having lemmas with truncate, lacerate to dentate apices. Dupontia has lemmas with acute to acuminate apices; Arctopbila has lemmas with obtuse, entire apices.</discussion>
+</bio:treatment>

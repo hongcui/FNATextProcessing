@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>J.K. Wipff</author>
+    </source>
+  </meta>
+  <number>25.01</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>DIGITARIA Haller</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual, perennial, or of indefinite duration. Culms 5-250 cm, erect or decumbent, branching basally or at aerial culm nodes, when annual or of indefinite duration usually decumbent and rooting at the lower nodes. Sheaths open; ligules membranous, sometimes ciliate; blades usually flat. Inflorescences terminal, sometimes also axillary, usually panicles of 1-sided spikelike branches (sometimes only 1 branch) attached digitately or racemosely to a rachis, sometimes simple panicles of solitary, pedicellate spikelets; spikelike branches, if present, sometimes with secondary branches, primary branch axes triquetrous, bearing spikelets abaxially, in 2 rows, usually in unequally pedicellate groups of 2-5, occasionally borne singly. Spikelets 1.2-8.2 mm, lanceoloid to ellipsoid, dorsally compressed, apices obtuse to acuminate, unawned, with 2 florets; disarticulation beneath the glumes. Lower glumes absent or to 1/4 as long as the spikelets; upper glumes usually from 1/6 as long as to equaling the spikelets, occasionally absent, 0-5-veined, usually pubescent; lower florets sterile; lower lemmas membranous, usually as long as the upper lemmas, usually pubescent, (3)5-7(13)-veined; lower paleas absent or reduced; upper lemmas mostly stiffly chartaceous to cartilaginous, obscurely veined, with 0.5-1 mm hyaline margins that embrace the upper paleas; upper paleas similar to the upper lemmas in texture and size; lodicules 3, cuneate; anthers 3. Caryopses plano-convex; embryos 1/5–1/2 as long as the caryopses; hila punctiform to ellipsoid, x = 9. </description>
+  <discussion>Digitaria has approximately 200 species and grows primarily in tropical and warm-temperate regions, often in disturbed, open sites. Some species are grown as cereals; others for forage or as lawn grasses. In North America, the genus is best known for two of its weedy species, D. sanguinalis and D. ciliaris. There are 29 species known to occur in the Flora region; 18 are native to the region.
+Most annual species of Digitaria will survive several years in regions without a pronounced cold season; such species are described as being of indefinite duration.</discussion>
+  <references>Boonbundarl, S. 1985. A biosystematic study of the Digitaria leucites complex in North America. Ph.D. dissertation, Texas A&M University, College Station, Texas, U.S.A. 238 pp.; Gould, F.W. 1975. The Grasses of Texas. Texas A&M University Press, College Station, Texas, U.S.A. 653 pp.; Henrard, J. 1950. Monograph of the genus Digitaria. Universitaire Pers Leiden, Leiden, The Netherlands. 999 pp.; Kartesz, J. and C.A. Meacham. 1999. Synthesis of the North American Flora, Version 1.0 (CD-ROM). North Carolina Botanical Garden, Chapel Hill, North Carolina, U.S.A.; Kok, P.D.F., P.J. Robbertse, and A.E. van Wyk. 1989. Systematic study of Digitaria section Digitaria (Poaceae) in southern Africa. S. African J. Bot. 55:141-153; Veldkamp, J.F. 1973. A revision of Digitaria in Malesia. Blumea 21:1-80; Webster, R.D. 1981. A biosystematic study of the Digitaria sanguinalis complex in North America (Poaceae). Ph.D. dissertation, Texas A&M University, College Station, Texas. 156 pp.; Webster, R.D. 1983. A revision of the genus Digitaria Haller (Paniceae: Poaceae) in Australia. Brunonia 6:131-216; Webster, R.D. 1987. Taxonomy of Digitaria section Digitaria in North America (Poaceae: Paniceae). Sida 12:209-222; Webster, R.D. and S.L. Hatch. 1981. Taxonomic relationships of Texas specimens of Digitaria ciliaris and Digitaria bicornis (Poaceae). Sida 9-3A-A2; Webster, R.D. and S.L. Hatch. 1990. Taxonomy of Digitaria section Aequiglumae (Poaceae: Paniceae). Sida 14:145-167; Wipff, J.K. and S.L. Hatch. 1994. A systematic study of Digitaria sect. Pennatae (Poaceae: Paniceae) in the New World. Syst. Bot. 19:613-627.</references>
+  <key>
+    <key_discussion>NOTE: The pubescence of the lower lemmas may be mistaken for two white lines between the veins because the individual hairs are not visible, being both tightly packed and closely appressed.</key_discussion>
+    <key_body>
+1. Inflorescences simple open panicles, with well-developed primary and secondary branches; branches and pedicels divergent; spikelets solitary.
+2. Upper glumes absent or to 0.6 mm long, veinless.....4. D. tomentosa
+2. Upper glumes 1.8-3.8 mm long, 3-7-veined.
+3. Spikelets 3.5-4.6 mm long; upper glumes 5-7-veined.....1. D. arenicola
+3. Spikelets 2.2-3.3 mm long; upper glumes 3(5)-veined.
+4. Lower lemmas 7-veined, veins not equally spaced.....2. D. cognata
+4. Lower lemmas 5-veined, veins equidistant.....3. D. pubiflora
+1. Inflorescences panicles of spikelike branches; secondary branches rarely present; spikelets appressed to the branches, in groups of 2-5 on the middle portion of the primary branches.
+5. Spikelets in groups of 3-5 on the middle portions of the primary branches, the longer pedicels in each group often adnate to the branch axes for part of their length.
+6. Upper lemmas pale yellow or gray when immature, light brown to brown when mature, sometimes purple-tinged.
+7. Upper glumes 1/6-1/3 long as the spikelets; sheaths and blades pubescent   .....13. D. serotina
+7. Upper glumes equaling or almost equaling the spikelets; sheaths and blades usually glabrous.
+8. Upper glumes 5-veined; spikelets elliptic to obovate; plants stoloniferous.....14. D. longiflora
+8. Upper glumes 3-veined; spikelets lanceolate; plants not stoloniferous   .....15. D. floridana
+6. Upper lemmas brown when immature, becoming dark brown when mature.
+9. Primary panicle branches wing-margined, the wings at least 1/2 as wide as the midribs. 
+10. Plants always with axillary panicles in the lower leaf sheaths, these panicles sometimes completely concealed by the sheaths; spikelets 1.7-2.3 mm long .....16. D. ischaemum
+10. Plants without axillary panicles; spikelets 1.2-1.7 mm long.
+11. Primary panicle branches, if more than 2, racemose, the terminal branches erect, the other branches usually divergent; upper lemmas light brown to brown at maturity; upper glumes almost as long as the upper lemmas  .....15. D. floridana
+11. Primary panicle branches usually all digitate, sometimes 1 below the others, all the branches erect to ascending; upper lemmas dark brown at maturity; upper glumes 1/2 as long as to almost equaling the upper lemmas .....17. D. violascens
+9. Primary panicle branches not wing-margined or the wings not as wide as the midribs. 
+12. Lower lemmas pubescent.
+13. Plants annual, or short-lived perennials, branching at the lower nodes; cauline nodes 3-6 .....7. D. filiformis
+13. Plants perennial, not branching at the lower nodes; cauline nodes 1-2. 
+14. Upper glumes and lower lemmas with long, glandular-tipped hairs along their margins and intercostal regions .....8. D. leucocoma
+14. Upper glumes and lower lemmas glabrous over most of their length, sparsely pubescent near the apices, the hairs short, not glandular-tipped .....6. D. bakeri
+12. Lower lemmas glabrous.
+15. Upper glumes less than 1/2 as long as the spikelets   .....5. D. gracillima
+15. Upper glumes more than 1/2 as long as the spikelets.
+16. Plants annual, branching at the lower nodes; culm nodes 3-6; upper glumes obtuse .....7. D. filiformis
+16. Plants perennial, not branching at the lower nodes; culm nodes 1-2; upper glumes acute .....6. D. bakeri
+5. Spikelets paired on the middle portions of the primary branches; pedicels not adnate to the branch axes.
+17. Upper lemmas brown when immature, almost always dark brown when mature; primary branches not wing-margined or with wings less than 1/2 as wide as the midribs.
+18. Spikelets (including pubescence)  1.3-3.1 mm long; lower lemmas (including pubescence) shorter than or no more than 0.5 mm longer than the upper florets; ligules 0.1-1.5 mm long, ciliate; lower lemmas sparsely to densely pubescent, the hairs less than 1 mm long, appressed, not spreading at maturity.
+19. Lower glumes 0.3-1 mm long; plants perennial, with hard, knotty, shortly rhizomatous bases; culms erect, not rooting at the lower nodes; lower lemmas 5-veined, the veins equally spaced .....9. D. hitchcockii
+19. Lower glumes absent or to 0.1 mm long; plants annual, or short-lived perennials; culms  erect or decumbent,  sometimes rooting at the lower nodes; lower lemmas 5-7-veined, the veins unequally spaced, the outer veins closely spaced. 
+20. Upper lemmas dark brown at maturity; lower primary panicle branches without secondary branches; upper glumes with clavate to capitate hairs .....7. D. filiformis
+20. Upper lemmas usually gray, sometimes brown, at maturity; lower primary panicle branches with strongly divergent  secondary  branches;  upper glumes with tapering or parallel-sided hairs .....25. D. velutina
+18. Spikelets (including pubescence) 3.7-7.5 mm long; lower lemmas (including pubescence) exceeding the upper florets by 0.8 mm or more; ligules 1-6 mm long, not ciliate; lower lemmas densely pubescent, the hairs 1-6 mm long, usually spreading at maturity.
+21. Terminal pedicels of primary branches 7.4-20 mm long; primary branches usually divergent, sometimes ascending, at maturity, the middle internodes (4.5)6-15 mm long ..... 10. D. patens
+21. Terminal pedicels of primary branches 1.7-6(7) mm long; primary branches appressed to ascending at maturity, the middle internodes 2-6 mm long. 
+22. Lower lemmas pubescent between most, sometimes all, of the veins and on the margins .....12. D. insularis
+22. Lower lemmas glabrous between the veins, pubescent on the margins, sometimes also on the lateral veins .....11. D. californica
+17. Upper lemmas pale yellow, tan, or gray, sometimes purple-tinged, when immature; gray, yellow, tan, light brown, or purple at maturity; primary branches sometimes wing-margined, the margin widths various.
+23. Primary panicle branches not or only narrowly wing-margined, the wings no more than 1/2 as wide as the midribs. 
+24. Spikelets 1.5-2.5 mm long.
+25. Upper glumes glabrous; plants rhizomatous; culms decumbent but usually not rooting at the lower nodes .....18. D. abyssinica
+25. Upper glumes shortly villous on the margins, sometimes also elsewhere; plants not rhizomatous; culms erect or decumbent and rooting at the lower nodes .....21. D. texana
+24.  Spikelets 2.5-3.6 mm long.
+26. Culms usually branching at the aerial nodes, not rooting at the lower nodes; leaf blades 2-2.2 mm wide, flat or folded; upper glumes glabrous .....19. D. pauciflora 
+26. Culms not branching at the aerial nodes, often rooting at the lower nodes; leaf blades 2-7mm wide, flat; upper glumes villous or glabrous.
+27. Upper glumes 7-9-veined, glabrous or obscurely pubescent; plants of indefinite duration .....20. D. simpsonii
+27. Upper glumes (3)5-veined, shortly villous on the margins and sometimes between the margins; plants perennial .....21. D. texana
+23. Primary branches winged, the wings at least 1/2 wide as the midribs.
+28. Plants perennial, usually stoloniferous, sometimes also rhizomatous.
+29. Leaf blades 1-3 mm wide; panicles with 2-4 primary branches, the branches 2-7 cm long .....22. D. didactyla
+29. Leaf blades 3-13 mm wide; panicles with 2-18 primary branches, the branches 5-25 cm long.
+30. Midveins of the lower lemmas scabrous, at least on the distal 1/2 .....24. D. milanjiana
+30. Midveins of the lower lemmas smooth throughout  .....23. D. eriantha
+28. Plants annual or of indefinite duration, usually neither rhizomatous nor stoloniferous.
+31. Lateral veins of the lower lemmas scabrous for the distal 2/3 of their length, sometimes scabrous throughout (use 20x magnification); leaf blades usually with papillose-based hairs on both surfaces .....28. D. sanguinalis
+31. Lateral veins of the lower lemmas smooth throughout or scabrous only on the distal 1/3; leaf blades with or without papillose-based hairs.
+32. Lower lemmas of the lower spikelets of each pair 7-veined, the 2 lateral veins on each side crowded together near the margins, the 3 central veins equally spaced.
+33. Lower primary panicle branches with strongly divergent secondary branches .....25. D. velutina
+33. Lower primary panicle branches without secondary branches. 
+34. Spikelets 2.6-3.7 mm long; spikelets dimorphic with respect to their pubescence; lower lemmas of the upper spikelets of each spikelet pair with marginal hairs that become widely divergent at maturity; lower lemmas of the lower spikelets in each pair glabrous or with hairs that remain appressed at maturity; lowest panicle nodes glabrous or with hairs less than 0.4 mm long ..... 29. D. bicornis
+34. Spikelets 1.7-2.8 mm long; spikelets homomorphic with respect to their pubescence; lowest panicle nodes with hairs more than 0.4 mm long.
+35. Adaxial surfaces of the blades evenly, sometimes densely, hairy; leaf sheaths usually with scattered hairs; upper glumes 1/3 – 1/2 as long as the spikelets  .....26. D. horizontalis
+35. Adaxial surfaces of the blades glabrous or with a few long hairs near the base; leaf sheaths glabrous or with a few long hairs near the base; upper glumes 2/5 - 4/5 as long as the spikelets .....27. D. nuda
+32. Lower lemmas of the lower spikelets of each pair 5- or 7-veined, the 2 or 3 lateral veins on each side crowded together near the margins, well-separated from the midvein. 
+36. Lower glumes absent or no more than 0.1 mm long.
+37. Anthers 0.6-1.3 mm long; upper glumes 0.2-1.3 mm long, less than 0.4 times as long as the spikelets .....31. D. setigera
+37. Anthers 0.3-0.6 mm; upper glumes 1-2.2 mm long, 0.4-0.8 times as long as the spikelets .....27. D. nuda
+36. Lower glumes 0.1-0.8 mm long.
+38. Lower glumes 0.2-0.8 mm long; primary branches glabrous or with hairs shorter than 1 mm; spikelets 2.7-4.1 mm long .....30. D. ciliaris
+38. Lower glumes 0.1-0.2 mm long; primary branches often with scattered hairs 1-4 mm long; spikelets 1.7-2.8 mm long.
+39. Adaxial surfaces of the blades evenly hairy, sometimes densely so; leaf sheaths usually with scattered hairs; upper glumes 0.3-0.5 times as long as the spikelets .....26. D. horizontalis
+39. Adaxial surfaces of the blades glabrous or with a few long hairs near the base; leaf sheaths glabrous or with a few long hairs near the base; upper glumes 0.4-0.8 as long as the spikelets .....27. D. nuda
+
+    </key_body>
+  </key>
+</bio:treatment>

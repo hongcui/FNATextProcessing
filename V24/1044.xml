@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Avena hybrida Peterm. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual. Culms erect; nodes often pubescent. Sheaths glabrous; ligules 4-5 mm, obtuse or acute; blades 12-25 cm long, 7-12 mm wide. Panicles 15-30 cm, equilateral, sometimes slightly secund. Spikelets 15-24 mm, with 2-4 florets; disarticulation beneath each floret; disarticulation scars of the lower floret(s) in a spikelet oval to round, those of the third and fourth (and sometimes the second) florets heart-shaped. Glumes equal, 15-23 mm, 7-9(ll)-veined; calluses bearded; lemmas about 21 mm, usually glabrous, sometimes pubescent beneath the awn insertion, irregularly bidenticulate to bisubulate, veins not extending beyond the apices, awns about 30 mm, arising at midlength; lodicules with a small side lobe; anthers about 2 mm. 2n = 42.</description>
+  <discussion>Avena hybrida is native to western and central Asia; it grows as a weed in Europe. It has been reported from Essex County, Massachusetts, and Prince Edward Island.</discussion>
+</bio:treatment>

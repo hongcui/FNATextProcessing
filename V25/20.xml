@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Hakonechloa macra (Munro) Makino </name_authority_date>
+  </taxon_identification>
+  <common_names>JAPANESE FOREST GRASS, HAKONE GRASS</common_names>
+  <description type="morphology">Rhizomes and stolons covered with pale, coriaceous scales. Culms 30-90 cm tall, 1-1.5 mm thick, glabrous. Adaxial ligules 0.2-0.3 mm; blades 8-25 cm long, 0.4-1.2 cm wide, glabrous, abaxial surfaces green, adaxial surfaces often paler, turning orange-bronze in the fall. Panicles 6-12 cm long, 5-7 cm wide, open, nodding, with 15-30 spikelets; branches paired, somewhat stiff, scabrous. Spikelets 1-2 cm, yellowish-green, with 5-10 florets. Glumes broadly lanceolate; lower glumes 3-4 mm, 1-3-veined; upper glumes 3.8-5 mm, 3-veined; calluses 1.5-2 mm, strigose, hairs 1-1.5 mm; lemmas 6-7 mm long, 1.8-2.2 mm wide, chartaceous, 3-veined, margins sparsely pilose with long papillose-based hairs near the base, awned; awns 3-5 mm; anthers 2-3 mm. Caryopses about 2 mm. 2n = 50.</description>
+  <discussion>In Japan, Hakonechloa macra grows on rocks along rivers. Although rhizomatous, it is not an invasive species and is recommended for mass planting. Three forms are cultivated: forma alboaurea Makino ex Ohwi, with white- and yellow-striped leaves; forma albovariegata Makino ex Ohwi, with white-striped leaves; and forma aureola Makino ex Ohwi, with yellow leaves having narrow green stripes. This last form is the one most commonly available in the Flora region.</discussion>
+</bio:treatment>

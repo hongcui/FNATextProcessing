@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>In the Flora region, Eremopyrum bonaepartis is known only from a few collections in Arizona. Several infraspecific taxa have been recognized in Eurasia: subsp. bonaepartis has glabrous lemmas and glumes; specimens with pilose, hirsute, or fairly scabrous lemmas and glumes have been referred to as subsp. hirsutum (Bertol.) Melderis or subsp. sublanuginosum (Drobow) Á. Löve  ; and those with awned lemmas have been called subsp. turkestanicum (Gand.) Tzvelev. No attempt has been made to determine which are present in the Flora region.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms to 15 cm, smooth, mostly glabrous, puberulent below the spikes. Sheaths of upper leaves often somewhat inflated; blades 2-3 mm wide, more or less scabrous on both surfaces. Spikes 1.3-3.5 cm long, 0.9-1.8 cm wide, usually ovate-elliptic; disarticulation at the rachis nodes. Spikelets 7-12 mm long, with 2-3 florets. Glumes 5-12 mm, lanceolate, 3-5-veined, 1-keeled, lateral 2-3 veins prominent, hispid, bases curved, apices gradually tapering to a 0.5-3 mm awn; lemmas 5-12 mm, hispid, hairs 0.5-2 mm, prominently keeled, awned, awns 0.5-4 mm; paleas pubescent between the keels, keels prolonged into 2 toothlike appendages. 2n = 28.</description>
+  <discussion>Eremopyrum orientale has been collected from southern Manitoba, growing with E. triticeum, and has been reported from southeastern British Columbia and New York. It is not known to be established in the Flora region.</discussion>
+</bio:treatment>

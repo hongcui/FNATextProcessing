@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Tridens flavus (L.) Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>PURPLETOP TRIDENS</common_names>
+  <description type="morphology">Plants with firm, knotty, shortly rhizomatous bases. Culms 60-180 cm. Sheaths keeled, mostly glabrous, collars pubescent; ligules to 0.5 mm, membranous, ciliate; blades 3-10 mm wide, glabrous or sparsely hispid, apices attenuate and involute.  Panicles 15-40 cm long, 3-5 cm wide, erect or nodding; branches 10-15(25) cm, strongly divergent to drooping, stiff or lax, lower branches naked for 1/3 – 1/2 of their length; pedicels 3-8 mm. Spikelets 5-10 mm long, with 4-8 florets. Lower glumes 2.5-3 mm, often mucronate; upper glumes 3.5-4 mm; lemmas 3-5 mm, lateral veins puberulent or ciliate to well above midlength, midveins and lateral veins usually excurrent, midveins extending to 0.5 mm, lateral vein extensions shorter; paleas as long as the lemmas, widened below; anthers 1-1.5 mm. Caryopses 1.8-2 mm. 2n = 40.</description>
+  <key>
+    <key_body>
+1. Panicles nodding; pulvini inconspicuously or conspicuously hairy, the hairs confined to the adaxial side of the branches ..... var. flavus
+1. Panicles erect throughout; pulvini always conspicuously hairy, the hairs extending around the base of the branches .....var. chapmanii
+
+    </key_body>
+  </key>
+</bio:treatment>

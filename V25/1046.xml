@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>J. Gabriel Sanchez-Ken</author>
+    </source>
+  </meta>
+  <number>24</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>tribe</rank>
+    <name_authority_date>GYNERIEAE Sanchez-Ken & L.G. Clark</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; dioecious. Culms 2-15 m; internodes solid. Leaves cauline; sheaths longer than the internodes, persistent, distal sheaths strongly overlapping; blades leathery, not pseudopetiolate, articulated with the sheaths, midveins conspicuous, those below midculm length disarticulating at maturity. Inflorescences terminal, panicles. Pistillate spikelets laterally compressed, with 2 florets; disarticulation above the glumes and between the florets; glumes unequal, exceeding the florets, lower glumes shorter and less firm than the upper glumes; calluses linear, glabrous; lemmas long silky-pilose distally, apices elongate, narrow, unawned; style branches 2, free; rachilla extension absent. Staminate spikelets with 2-4 florets; disarticulation below the terminal florets, glumes and lower floret(s) remaining attached; glumes subequal, membranous; lemmas membranous, glabrous or sparsely short pilose, (0)l(3)-veined; anthers 2. Caryopses oblong; hila punctate, x = 11.</description>
+  <discussion>The tribe Gynerieae includes only one genus, the neotropical genus Gynerium. The position of the tribe in the Centothecoideae + Panicoideae clade is strongly supported; it is less clear whether it should be included in the Panicoideae, as in this treatment, or in the Centothecoideae.</discussion>
+  <references>Sanchez-Ken, J.G. and L.G. Clark. 2001. Gynerieae, a new neotropical tribe of grasses (Poaceae). Novon 11:350-352.</references>
+</bio:treatment>

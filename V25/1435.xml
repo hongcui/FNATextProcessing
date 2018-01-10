@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Steinchisma hians (Elliott) Nash </name_authority_date>
+  </taxon_identification>
+  <common_names>GAPING PANICGRASS</common_names>
+  <description type="morphology">Culms 20-75 cm, often compressed, at least basally, erect to decumbent, glabrous. Sheaths usually shorter than the inter-nodes, terete or somewhat compressed, glabrous or sometimes sparsely hispid below the throat, margins scarious or sparsely ciliate at the summit; ligules 0.2-0.5 mm, membranous, erose-ciliate; blades 6-20 cm long, 2-5 mm wide, relatively long and slender, flat or folded, glabrous abaxially, mostly glabrous adaxially but sparsely pilose basally. Panicles 5-20 cm, about 1/2 as wide as long, delicate, open; primary branches flexible, spreading or drooping, with short, crowded secondary branches and pedicels. Spikelets 1.8-2.4 mm, often purplish, glabrous. Lower glumes acute; upper glumes and lower lemmas slightly exceeded by the enlarged, indurate, sterile paleas; upper florets 1.6-1.9 mm, dull-colored, minutely papillose, acute. 2n = 18, 20.</description>
+  <discussion>Steinchisma hians grows in moist or wet, usually open areas, and in moist pinelands, low woods, and ditches. Its range extends from the southeastern United States, through Mexico and Central America to Colombia, Brazil, and Argentina.</discussion>
+</bio:treatment>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>John R. Reeder</author>
+    </source>
+  </meta>
+  <number>19</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>tribe</rank>
+    <name_authority_date>ORCUTTIEAE Reeder</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual; viscid, aromatic. Culms with solid, pithy interiors, often with 5 or more nodes. Leaves with little or no distinction between sheath and blade; ligules absent; blades of upper cauline leaves similar in length to those below; siliceous cells of the leaf epidermis absent or irregular to dumbbell-shaped; microhairs of the blades bicellular, small, sunken, "mushroom-button" shaped. Inflorescences terminal, narrow, cylindrical to clavate or capitate, usually dense panicles or spikes, spikelets sessile or shortly pedicellate; rachillas tardily disarticulating between the florets. Spikelets with 4-25(40) florets. Glumes entire, denticulate, toothed, or absent; lemmas with 5-17 conspicuous veins; paleas subequal to or slightly shorter than the lemmas, well-developed, keels glabrous; lodicules absent or 2, obscure, rounded, truncate to slightly emarginate; anthers 3. Caryopses laterally compressed; hila large, punctate, basal; embryos 3/4 or more as long as the caryopses. x = 10.</description>
+  <discussion>The tribe Orcuttieae includes only three genera and nine species, all of which are restricted to vernal pools and similar habitats in California and Baja California, Mexico.</discussion>
+  <references>Crampton, B. 1959. The grass genera Orcuttia and Neostapfia: A study in habitat and morphological specialization. Madrono 15:97-110; Reeder, J.R. 1965. The tribe Orcuttieae and the subtribes of the Pappophoreae (Gramineae). Madrono 18:18-28; Reeder, J.R. 1982. Systematics of the tribe Orcuttieae (Gramineae) and the description of a new segregate genus, Tuctoria. Amer. J. Bot. 69:1082-1095.</references>
+  <key>
+    <key_body>
+1. Lemmas deeply cleft into 5 mucronate or awn-tipped teeth, the teeth 1/3 as long as to equaling the lemma bodies; spikelets distichously arranged .....19.01 Orcuttia
+1. Lemmas entire or denticulate, often with a central mucro; spikelets spirally arranged.
+2. Inflorescences clavate, often partially enclosed at maturity; spikelets laterally compressed, with glumes; lemmas rectangular, not translucent between the veins, the apices mucronate, otherwise entire or denticulate; caryopses without a viscid exudate, the embryo visible through the pericarp   .....19.02 Tuctoria
+2. Inflorescences cylindrical, usually completely exposed at maturity; spikelets dorsally compressed, without glumes; lemmas flabellate, translucent between the veins, the apices ciliolate; caryopses covered with a viscid exudate, the embryos obscured by the pericarp   ..... 19.03 Neostapfia
+
+    </key_body>
+  </key>
+</bio:treatment>

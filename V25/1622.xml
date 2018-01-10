@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Schizachyrium sanguineum (Retz.) Alston var. sanguineum</name_authority_date>
+  </taxon_identification>
+  <common_names>CRIMSON BLUESTEM</common_names>
+  <description type="morphology">Culms 60-120 cm. Ligules 0.7-1.5 mm; blades usually 1-6 mm wide. Rames 5-8 cm; internodes 4-6 mm, glabrous except for a tuft of hairs at the base. Sessile spikelets: glumes glabrous or scabrous; awns 15-25 mm. Pedicels straight, ciliate on 1 edge distally. Pedicellate spikelets about 3 mm, sterile, awns 3-6 mm. 2n = 40, 50, 60, 70, 80.</description>
+  <discussion>Schizachyrium sanguineum var. sanguineum grows in tropical and subtropical regions of America, Africa, and Asia. Within the Flora region, it is known only from the pine woods of Alabama and Florida.</discussion>
+</bio:treatment>

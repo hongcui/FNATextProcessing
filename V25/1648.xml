@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eremochloa ophiuroides (Munro) Hack. </name_authority_date>
+  </taxon_identification>
+  <common_names>CENTIPEDE GRASS</common_names>
+  <description type="morphology">Plants mat-forming, stoloniferous, stolons to 150 cm, often branched, with well-developed leaves, and (usually) axillary fascicles of closely imbricate leaves. Culms 10-35 cm, unbranched. Sheaths mostly glabrous, margins sometimes pilose, keeled; leaves mostly basal, blades of basal leaves 0.5-15 cm long, 1-5 mm wide, glabrous or pilose, with papillose-based hairs near the base, margins glabrous or pectinate near the base; blades of upper leaves reduced to obsolete. Rames 1-3, 3-12 cm, straight; internodes 2-2.3 mm. Sessile spikelets (2.2)3-4 mm long, (1.1)1.8-2.2 mm wide, elliptic; calluses sparsely pubescent; glumes glabrous; lower glumes 5-7-veined, obtuse to truncate, often notched, keels with 1-several, 0.2-0.3 mm hooklike spines near the base, winged distally; upper glumes 3-veined, elliptic, acute; anthers of lower florets about 0.3 mm; anthers of upper florets 1.5-1.7 mm. Pedicels 2.8-3.5 mm long, about 0.5 mm wide at midlength. Pedicellate spikelets absent or to 3.4 mm, occasionally well-developed. Caryopses 1.5-2 mm, purple to reddish-brown or brown. 2n = 18.</description>
+  <discussion>Eremochloa ophiuroides, an east Asian species, was introduced into the southeastern United States as a lawn grass about 1920. It is now established along roadsides and in woods, fallow fields, and dunes in the region. It flowers from spring to fall, and sporadically at other times. The common name refers to the appearance of the leafy stolons.</discussion>
+</bio:treatment>

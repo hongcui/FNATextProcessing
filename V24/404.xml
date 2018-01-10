@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>13.12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>xELYHORDEUM Mansf. ex Tsitsin & K.A. Petrova</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; usually cespitose, occasionally shortly rhizomatous. Inflorescences terminal, spikes or spikelike, with 1-3(7) spikelets per node, lateral spikelets usually shortly pedicellate, central spikelets sessile or nearly so; disarticulation tardy, at the rachis nodes and beneath the florets. Spikelets with 1-4 florets. Glumes subulate to narrowly lanceolate, usually awned; lemmas usually awned; anthers sterile. Caryopses rarely formed.</description>
+  <discussion>Plants perennial; usually cespitose, occasionally shortly rhizomatous. Inflorescences terminal, spikes or spikelike, with 1-3(7) spikelets per node, lateral spikelets usually shortly pedicellate, central spikelets sessile or nearly so; disarticulation tardy, at the rachis nodes and beneath the florets. Spikelets with 1-4 florets. Glumes subulate to narrowly lanceolate, usually awned; lemmas usually awned; anthers sterile. Caryopses rarely formed.
+Inflorescence measurements, unless stated otherwise, do not include the awns.</discussion>
+  <references>Bowden, W.M. 1958. Natural and artificial xElymordeum hybrids. Canad. J. Bot. 36:101-123; Bowden, W.M. 1960. Typification of Elymus macounii Vasey. Bull. Torrey Bot. Club. 87:205-208; Jordal, L.K. 1951. A floristic and phytogeographic survey of the southern slopes of the Brooks Range, Alaska. Ph.D. dissertation, University of Michigan, Ann Arbor, Michigan, U.S.A. 411 pp.; Mitchell, W.W. and H.J. Hodgson. 1965. A new xAgrohordeum from Alaska. Bull. Torrey Bot. Club 92:403-407.</references>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Echinochloa polystachya (Kunth) Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>CREEPING RIVER GRASS</common_names>
+  <description type="morphology">Plants perennial; not rhizomatous. Culms 1-2 m tall, to 1 cm thick, erect or decumbent and rooting at the lower nodes, upper portion sometimes floating distally; nodes glabrous or   antrorsely  villous.   Sheaths mostly glabrous, minutely puberulent, or hispid, hairs papillose-based, throat hispid; ligules present on the lower leaves, 1-5 mm, of stiff hairs; blades 15-70 cm long, 5-13 mm wide, glabrous. Panicles 13-45 cm, erect, rachis nodes hispid, hairs 3-6.5 mm, papillose-based, internodes scabrous; primary branches 4-10 cm, subverticillate, ascending, nodes hispid, hairs 2.5-4 mm, papillose-based, internodes scabrous; secondary branches short, spikelets subsessile, in clusters. Spikelets 4-7 mm, hispid, hairs appressed, disarticulating at maturity. Lower glumes at least 1/2 as long as the spikelets; lower florets staminate; lower lemmas apiculate or awned, awns to 18 mm; lower paleas subequal to the lower lemmas, often purple; anthers of lower florets 1.5-3.6 mm, orange; upper lemmas 2.5-5 mm, elliptic or narrowly ovate, apices obtuse, with a membranous, soon-withering tip; anthers of upper florets shorter than those of the lower florets. Caryopses to 3 mm. 2n = 54.</description>
+  <discussion>Echinochloa polystachya grows in coastal marshes, often in standing water, from Texas, Louisiana, and Florida south through Mexico and the Caribbean islands to Argentina. Two varieties exist. Echinochloa polystachya var. polystachya has glabrous culms and leaf sheaths; Echinochloa polystachya var. spectabilis (Nees ex Trin.) Mart. Crov. has swollen, pubescent cauline nodes and pubescent leaf sheaths.
+ 
+</discussion>
+</bio:treatment>

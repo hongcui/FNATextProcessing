@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>28</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aristida condensata Chapm. </name_authority_date>
+  </taxon_identification>
+  <common_names>BIG THREEAWN</common_names>
+  <description type="morphology">Plants perennial; bases knotty, bleached, not rhizomatous. Culms 70-150 cm tall, 3-6 mm thick at the base, erect, rarely branched. Leaves mostly cauline; sheaths usually longer than the internodes, remaining intact at maturity, glabrous or appressed pilose; collars glabrous or pilose at the sides; ligules less than 0.5 mm; blades (10)15-30 cm long, 1.5-3 mm wide, flat at the base, involute toward the apex, straight to somewhat lax at maturity, glabrous abaxially, yellowish-green when fresh, drying stramineous or darker. Inflorescences paniculate, (15)20-55 cm long, 2-4 cm wide; nodes glabrous or with short, straight hairs; primary branches (4)5-20 cm, appressed to narrowly ascending, without axillary pulvini, naked below, with 5-15 overlapping spikelets distally. Glumes 6-10(12) mm, 1-veined, 1-keeled, awns less than 4 mm, brownish; lower glumes from 3/4 as long as to 1 mm longer than the upper glumes; calluses 1-2 mm; lemmas 5-8 mm, often reddish-mottled, apices not strongly twisted, junction with the awns not evident; awns about equally thick, divergent, spirally contorted at the base but usually not with distinct coils, not disarticulating at maturity; central awns 10-15 mm; lateral awns 8-13 mm; anthers 3, about 2 mm. Caryopses 4-5 mm, chestnut-colored. 2n = unknown.</description>
+  <discussion>Aristida condensata grows on sandy hills, and in pine and oak barrens in the southeastern United States.</discussion>
+</bio:treatment>

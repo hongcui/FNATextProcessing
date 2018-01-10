@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Alloteropsis cimicina (L.) Stapf </name_authority_date>
+  </taxon_identification>
+  <common_names>BUGSEED GRASS</common_names>
+  <description type="morphology">Culms 15-75 cm. Sheaths hispid; ligules to 2 mm, membranous and ciliate; blades to 8 cm long, 15-25 mm wide, flat, cordate, hispid abaxially, glabrous adaxially, margins with papillose-based hairs. Panicles with 4-7 digitate branches; branches 2-16 cm. Spikelets 2.7-3.2 mm, subsessile; upper lemmas awned, awns 0.4-1.2 mm. 2n = 36. </description>
+  <discussion>Alloteropsis cimicina is native to southeast Asia but has been collected in Alachua and Columbia counties, Florida, and Baltimore, Maryland. Being a weedy species, it should be sought at other disturbed locations along the east coast of the United States. </discussion>
+</bio:treatment>

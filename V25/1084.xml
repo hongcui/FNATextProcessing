@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>27</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Digitaria nuda Schumach. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or of indefinite duration. Culms 20-60 cm, glabrous, decumbent, rooting and branching from the lower nodes, geniculate above. Sheaths glabrous or with long hairs near the base; ligules 0.8-2.5 mm; blades 2-13.5 cm long, 1.5-2.5 mm wide, glabrous on both surfaces or the adaxial surface with a few long hairs near the base. Panicles with 3-8 spikelike primary branches, these digitate or with rachises to 2 cm long; lower panicle nodes with hairs at least 0.4 mm; primary branches 4-15.5(20) cm long, 0.4-0.8 mm wide, axes wing-margined, wings more than 1/2 as wide as the midribs, proximal portions of the branches often with scattered 1-4 mm hairs, bearing spikelets in unequally pedicellate pairs on the lower and middle portions of the branches; secondary branches absent; pedicels not adnate to the branches. Spikelets homomorphic, 1.7-2.8 mm long, 0.5-0.8 mm wide. Lower glumes absent or to 0.2 mm; upper glumes 1-2.2 mm, 0.4-0.8 times as long as the spikelets; lower lemmas about as long as the spikelets, 7-veined, veins smooth, lateral veins usually equally spaced, sometimes the inner lateral veins more distant from the other 2, intercostal regions adjacent to the midveins glabrous, those between the lateral veins with 0.5-1 mm hairs, hairs initially appressed, sometimes strongly divergent at maturity; upper lemmas yellow to gray when immature, becoming brown at maturity; anthers 0.3-0.6 mm. 2n = unknown.</description>
+  <discussion>Digitaria nuda is an African species that is now established in tropical regions throughout the world, including the Americas. So far as is known, it has only been collected once in the Flora region, in Columbia County, Florida.</discussion>
+</bio:treatment>

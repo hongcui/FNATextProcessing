@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Tridens ambiguus (Elliott) Schult. </name_authority_date>
+  </taxon_identification>
+  <common_names>PINE-BARREN TRIDENS</common_names>
+  <description type="morphology">Plants cespitose, with knotty, shortly rhizomatous bases. Culms 60-125 cm. Sheaths rounded or the basal sheaths keeled, glabrous, except for a few hairs on either side of the collar; ligules 1-2 mm, membranous, ciliate; blades 2-5 mm wide, elongate, usually involute distally. Panicles 8-16(20) cm long, 1.5-4 cm wide, not dense; branches to 8(10) cm, erect to divergent, stiff; pedicels shorter than 1 mm. Spikelets 4-6 mm long, pale to dark purple, with 4-6 florets. Glumes 1-veined; lower glumes 4-4.5 mm; upper glumes about 5 mm; lemmas 3-4 mm, veins pubescent to midlength or beyond, midveins excurrent, lateral veins often excurrent; paleas 3-3.5 mm, veins ciliolate, bases bowed-out; anthers 1-1.5 mm. Caryopses 1.5-1.8 mm. 2n = 40.</description>
+  <discussion>Tridens ambiguus grows on the southeastern coastal plain, from North Carolina to Texas. It is usually found in mesic to perennially moist soils of pine flatwoods and pine-oak savannahs, in seasonally inundated depres¬sions, and at the margins of pitcher plant bogs, often in disturbed sites.</discussion>
+</bio:treatment>

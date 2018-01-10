@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Kelly W. Allred</author>
+    </source>
+  </meta>
+  <number>16.04</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>ARUNDO L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; rhizomatous, rhizomes short, usually more than 1 cm thick. Culms 2-10 m tall, 1-3.5 cm thick, usually erect, occasionally pendant from cliffs; nodes glabrous; internodes hollow. Leaves cauline, conspicuously distichous, glabrous; sheaths open, longer than the internodes; ligules membranous, shortly ciliate; blades flat or folded, margins scabrous. Panicles terminal, plumose, silvery to purplish. Spikelets laterally compressed, with 1-several florets; rachilla segments glabrous; disarticulation above the glumes and between the florets. Glumes longer than the florets, 3-5-veined; lemmas pilose, hairs not papillose-based, 3-7-veined, apices entire or minutely awned; paleas shorter than the lemmas, 2-veined; anthers 3. x = 12. </description>
+  <discussion>Arundo, a genus of three species, grows throughout the tropical and warm-temperate regions of the world. Only one species has been introduced to the Western Hemisphere.
+Arundo is similar to, but usually larger than, Phragmites, a much more common genus in North America. In addition, Arundo, but not Phragmites, has a wedge-shaped, light to dark brown area at the base of its blades.
+</discussion>
+</bio:treatment>

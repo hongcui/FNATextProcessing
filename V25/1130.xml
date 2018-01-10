@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Dichanthelium sect. Pedicellata (Hitchc. & Chase) Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants usually cespitose, sometimes with knotty rhizomes; basal rosettes absent. Culms initially erect, ultimately decumbent, often with hard, cormlike bases; fall phase freely divaricate-branching before the primary panicles mature. Cauline leaves 4-14; sheaths glabrous or pubescent, not viscid; ligules membranous and ciliate or of hairs; blades with papillose-based marginal cilia. Primary panicles exserted. Spikelets obovoid to obpyriform, with papillose-based hairs, attenuate basally. Upper florets with pointed to attenuate, puberulent apices.</description>
+</bio:treatment>

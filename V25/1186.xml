@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Dichanthelium sect. Ensifolia (Hitchc.) Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose, with caudices. Basal rosettes well-differentiated. Culms 5-60 cm tall, 0.2-0.8 (1.6) mm thick, erect or reclining, sometimes geniculate at the lower nodes, glabrous or sparsely pubescent near the bases; fall phase branching from the lower and midculm nodes. Cauline leaves 3-9; sheaths glabrous or sparsely pilose, usually ciliate; ligules 0.2-1.8 mm, of hairs; blades usually 2-5 cm, sometimes with prominent white, cartilaginous margins. Spikelets 1.1-1.7 mm, ellipsoid to narrowly obovoid, glabrous or puberulent. Upper florets subacute to acute.</description>
+</bio:treatment>

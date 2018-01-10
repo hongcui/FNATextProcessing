@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>10.04</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>PIPTATHERUM P. Beauv.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose or soboliferous, sometimes rhizomatous. Culms 10-140(150) cm, erect, usually glabrous, usually smooth; nodes 1-6; branching intra- or extravaginal at the base, not branching above the base; prophylls concealed by the leaf sheaths. Leaves sometimes basally concentrated; cleistogenes not present; sheaths open, glabrous, smooth to scabrous; auricles absent; ligules 0.2-15 mm, membranous to hyaline; blades 0.5-16 mm wide, flat, involute, valvate, or folded, often tapering in the distal 1/3, apices acute to acuminate, not stiff, basal blades not overwintering, sometimes not developed, flag leaf blades well developed, longer than 1 cm. Inflorescences 3-40 cm, terminal panicles, open or contracted; branches straight or flexuous, usually scabrous, rarely smooth; pedicels often appressed to the branches. Spikelets 1.5-7.5 mm, with 1 floret; rachillas not prolonged beyond the floret; disarticulation above the glumes, beneath the floret. Glumes from 1 mm shorter than to exceeding the florets, subequal or the lower glumes longer than the upper glumes, membranous, 1-9-veined, veins evident, apices obtuse to acute or acuminate; florets 1.5-10 mm, usually dorsally compressed, sometimes terete; calluses 0.1-0.6 mm, glabrous or with hairs, blunt; lemmas 1.2-9 mm, smooth, coriaceous or stiffly membranous, tawny or light brown to black at maturity, 3-7-veined, margins flat, separated and parallel for their whole length at maturity, apices not lobed or lobed, glabrous or hairy, hairs about 0.5 mm, not spreading, awned, lemma-awn junction evident; awns 1-18(20) mm, centric, often caducous, almost straight to once- or twice-geniculate, scabrous; paleas as long as or slightly longer than the lemmas, similar in texture and pubescence, 2(3)-veined, not keeled over the veins, flat between the veins, veins terminating near the apices, apices often pinched; anthers 3, 0.6-5 mm, sometimes penicillate; styles 2 and free to their bases, or 1 with 2-3 branches. Caryopses glabrous, ovoid to obovoid; hila 1/2 as long as to equaling the length of the caryopses. x = 11, 12.</description>
+  <discussion>Piptatherum has approximately 30 species, most of which are Eurasian. They extend from lowland to alpine regions, and grow in habitats ranging from mesic forests to semideserts.
+The pistils in Piptatherum exhibit variability in the development of the styles, a feature that can be seen only in florets shortly before or at anthesis. This variability is reported in the descriptions, but the number of specimens examined per species is low, sometimes only one.
+</discussion>
+  <references>Curto, MX. and D.H. Henderson. 1998. A new Stipa (Poaceae: Stipeae) from Idaho and Nevada. Madrono 45:57-65; Freitag, H. 1975. The genus Piptatherum (Gramineae) in southwest Asia. Notes Roy. Bot. Gard. Edinburgh 42:355-489; Jacobs, S.W.L., R. Bayer, J. Everett, M.O. Arriaga, M.E. Barkworth, A. Sabin-Badereau, M.A. Torres, F. Vazquez, and N. Bagnall. 2006. Systematics of the tribe Stipeae using molecular data. Aliso 23:349-361; Johnson, B.L. 1945. Cytotaxonomic studies in Oryzopsis. Bot. Gaz. 107:1-32.</references>
+  <key>
+    <key_body>
+1. Basal leaf blades 0-2 cm long; cauline leaf blades 8-16 mm wide; florets 4.5-7.5 mm long   ..... 6. P. racemosum 
+1. Basal leaf blades 4-45 cm long; cauline leaf blades 0.5-10 mm wide; florets 1.5-6 mm long. 
+2. Lemmas and calluses usually glabrous, occasionally sparsely pubescent; florets 1.5-2.5 mm long. 
+3. Blades 0.5-2.5 mm wide, often involute; panicles 5-20 cm long, the lower nodes with 1-3 branches  .....4. P. micranthum (in part)
+3. Blades 2-10 mm wide, flat; panicles 10-40 cm long, the lower nodes usually with 3-7 branches, sometimes with 15-30+ branches .....7. P. miliaceum
+2. Lemmas evenly pubescent; calluses hairy; florets 1.5-6 mm long.
+4. Awns 3.9-15 mm long, persistent, once- or twice-geniculate.
+5. Primary panicle branches straight, appressed; awns 3.9-7 mm long; florets 3-6 mm long .....1. P. exiguum
+5. Primary panicle branches somewhat flexuous, often divergent; awns 5-15 mm long; florets 2.2-4.5 mm long .....2. P. canadense
+4. Awns 1-8 mm long, caducous, often absent from herbarium specimens, straight or arcuate.
+6. Awns 4-8 mm long; florets 1.5-2.5 mm long   .....4. P. micranthum (in part)
+6. Awns 1-2.5 mm long; florets 2.2-4.5 mm long.
+7. Lower panicle branches straight; ligules 0.5-2.5 mm long.....3. P. pungens
+7. Lower panicle branches flexuous; ligules 1.8-5.5 mm long.....5. P. shoshoneanum
+    </key_body>
+  </key>
+</bio:treatment>

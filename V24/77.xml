@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Glyceria sect. Hydropoa (Dumort.) Dumort.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial. Sheaths not or only slightly compressed, midvein sometimes conspicuous distally. Panicles 12-30 cm wide, usually open; branches divergent to strongly divergent and drooping; pedicels 0.8-15 mm. Spikelets oval in side view, lengths 1-4 times widths, somewhat laterally compressed, usually not appressed to the panicle branches. Lemmas with apices acute to rounded or truncate, more or less flat to slightly prow-shaped; paleas keeled, keels not winged, truncate to notched between the keels; lodicules wholly to partially connate; anthers 1, 2, or 3. Caryopses ovoid-oblong; hila ovoid to oblong.</description>
+  <discussion>Glyceria sect. Hydropoa includes approximately five species. Three species grow in the Flora region; one is introduced. They grow along streams and at the edges of lakes and ponds.</discussion>
+</bio:treatment>

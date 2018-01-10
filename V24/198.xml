@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Piptatherum pungens (Torr.) Dorn </name_authority_date>
+  </taxon_identification>
+  <common_names>SHARP PIPTATHERUM</common_names>
+  <description type="morphology">Plants cespitose, not rhizomatous. Culms 10-90 cm, usually glabrous, occasionally puber-ulent beneath the nodes; basal branching intravaginal. Leaves basally concentrated; sheaths smooth or somewhat scabrous; ligules 0.5-2.5 mm, truncate to acute; blades (6)18-45 cm long, 0.5-1.8 mm wide, flat to convolute, abaxial surfaces scabridulous to scabrous, adaxial surfaces scabrous. Panicles 4-6 cm, lower nodes with 1-2 primary branches; branches 0.8-4 cm, straight, usually strongly ascending, ascending to divergent at anthesis. Glumes subequal, 3.5-4.5 mm long, 1.4-2 mm wide, from 1 mm shorter than to slightly exceeding the florets, ovate, usually 1-veined, sometimes 3-5-veined near the base, apices rounded or acute; florets 3-4 mm, dorsally compressed; calluses 0.2-0.3 mm, rounded, hairy, disarticulation scars circular; lemmas evenly pubescent, margins not overlapping at maturity; awns 1-2 mm, straight, slightly twisted, caducous, often absent even from immature florets; paleas equaling or almost equaling the lemma lobes, similar in texture and pubescence to the lemmas; anthers 0.8-1.8 mm, usually not penicillate; ovaries with a conelike extension bearing a 2-branched style. Caryopses about 1.8 mm long, about 0.9 mm wide; hila linear, 9/10 as long as to equaling the caryopses. 2n = 22, 24.</description>
+  <discussion>Piptatherum pungens grows in sandy to rocky soils and open habitats, from southern Yukon Territory across Canada to the Great Lakes region and eastern Pennsylvania, and, as a disjunct, in the western Great Plains and the southern Rocky Mountains. Its apparent absence from Idaho and Montana, and almost complete absence from Wyoming, is puzzling. The awns of P. pungens fall off so rapidly that it is sometimes mistaken for Milium or Agrostis, but the only perennial species of Milium in the Flora region has leaf blades 8-17 mm wide, and no species of Agrostis has such stiff lemmas and well-developed paleas. Its deciduous, shorter awns distinguish it from P. canadense.</discussion>
+</bio:treatment>

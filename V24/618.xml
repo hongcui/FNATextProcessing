@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>34</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca minutiflora Rydb. </name_authority_date>
+  </taxon_identification>
+  <common_names>LITTLE FESCUE, SMALL-FLOWERED FESCUE</common_names>
+  <description type="morphology">Plants loosely or densely ces¬pitose, without rhizomes. Culms 4-30 cm, usually erect, sometimes semi-prostrate, glabrous, smooth. Sheaths closed for about 1/2 their length, glabrous, persistent; collars glabrous; ligules 0.1-0.3 mm; blades (0.2)0.3-0.4(0.6) mm in diameter, conduplicate, lax, abaxial surfaces glabrous, adaxial surfaces sparsely scabrous to puberulent, veins 3-5, ribs 1-3; abaxial sclerenchyma in 3-5 small strands, less than twice as wide as high; adaxial sclerenchyma absent. Flag leaf blades 0.7-3.5 cm. Inflorescences 1-4(5) cm, contracted, with 1-2 branches per node; branches erect, lower branches with 2+ spikelets. Spikelets (2.5)3-5 mm, with (1)2-3(5) florets. Glumes exceeded by the upper florets, ovate to ovate-lanceolate, sparsely scabrous distally; lower glumes 1.3-2.5 mm; upper glumes 2-3.5 mm; lemmas (2)2.2-3.5(4) mm, ovate-lanceolate, sparsely scabrous near the apices, apices abruptly acuminate, awns 0.5-1.5(1.7) mm; paleas about as long as or slightly shorter than the lemmas, intercostal region scabrous distally; anthers (0.4)0.6-1.2 mm; ovary apices usually with a few hairs, rarely glabrous. 2n = 28.</description>
+  <discussion>Festuca minutiflora grows in alpine regions of the western mountains, from southeastern Alaska and the southwestern Yukon Territory to Arizona, New Mexico, and the Sierra Nevada of California. It has often been overlooked or included with F. brachyphylla (p. 428), from which it differs in its laxer and narrower leaves, looser panicles, smaller spikelets, more pointed lemmas, shorter awns, and scattered hairs on the ovary. In the southern Rocky Mountains, it may grow with F. earlei (p. 420), which has short rhizomes and larger spikelets and lemmas. Festuca minutiflora has frequently been included in F. ovina (p. 422).</discussion>
+</bio:treatment>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bromus sitchensis Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>SITKA BROME, ALASKA BROME</common_names>
+  <description type="morphology">Plants perennial; loosely ces¬pitose. Culms 120-180 cm tall, 3-5 mm thick, erect. Sheaths glabrous or sparsely pilose; auricles absent; ligules 3-4 mm, glabrous or hairy, obtuse, lacerate; blades 20^40 cm long, 2-9 mm wide, flat, sparsely pilose adaxially or on both surfaces. Panicles 25-35 cm, open; lower branches to 20 cm, 2-4(6) per node, spreading, often drooping, with 1-3 spikelets on the distal 1/2 sometimes confined to the tips. Spikelets 18-38 mm, elliptic to lanceolate, strongly laterally compressed, with (5)6-9 florets. Glumes glabrous, sometimes scabrous; lower glumes 6-10 mm, 3-5-veined; upper glumes 8-11 mm, 5-7-veined; lemmas 12-14(15) mm, lanceolate, laterally compressed, 7-11-veined, strongly keeled at least distally, usually glabrous, sometimes hirtellous, margins  
+sometimes sparsely pilose, apices entire or with acute teeth, teeth shorter than 1 mm; awns 5-10 mm; anthers to 6 mm. 2n = 42, 56.
+</description>
+  <discussion>Bromus sitchensis grows on exposed rock bluffs and cliffs, and in meadows, often in the partial shade of forests along the ocean edge, and on road verges and other disturbed sites. Its range extends from the Aleutian Islands and Alaska panhandle through British Columbia to southern California.
+Bromus sitchensis resembles B. aleutensis, the two sometimes being treated as conspecific varieties. Bromus sitchensis is predominantly outcrossing, while B. aleutensis is predominantly self-fertilizing (C.L. Hitchcock 1969).
+</discussion>
+</bio:treatment>

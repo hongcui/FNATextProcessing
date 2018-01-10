@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aegilops tauschii Coss. </name_authority_date>
+  </taxon_identification>
+  <common_names>TAUSCH'S GOATGRASS, ROUGH-SPIKED HARDGRASS</common_names>
+  <description type="morphology">Culms 20-45 cm, geniculate at the base, usually forming many tillers. Sheaths with hyaline margins, margins of the lower cauline sheaths usually ciliate; blades 6-20 cm long, 3-6 mm wide. Spikes 5.5-8.2 cm long, 0.3-0.6 cm wide, narrowly cylindrical to slightly moniliform, with 6-13 spikelets; rudimentary spikelets absent; disarticulation in the rachises, the spikelets falling  
+attached to the internodes above. Spikelets 7-8 mm long, 3-4 mm wide, cylindrical, scabrous, with 2-5 florets, the distal 2 florets sterile. Glumes 5-7 mm, coriaceous, scabrous, rims thickened, apices obtuse to truncate, minutely denticulate, unawned; lemmas 6-8 mm, mucronate or awned, awns usually solitary; lemmas of lower spikelets with shorter awns than those of the upper spikelets, the lower lemmas in a spikelet with shorter awns than those of the distal florets. Caryopses 5-6 mm, adhering to the lemmas and paleas. Haplome D. 2n = 14.
+</description>
+  <discussion>Aegilops tauschii is a weed of disturbed areas. In the Flora region, it is known only from Riverside County, California; Cochise County, Arizona; and an old collection from Westchester County, New York. It is native from the Caucasus and southern shores of the Caspian Sea, eastward to Kazakhstan and western China, and southward to Iraq and northwestern India.</discussion>
+</bio:treatment>

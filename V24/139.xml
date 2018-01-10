@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Pleuropogon refractus (A. Gray) Benth. ex Vasey</name_authority_date>
+  </taxon_identification>
+  <common_names>NODDING SEMAPHOREGRASS</common_names>
+  <description type="morphology">Plants perennial; not cespitose, rhizomatous. Culms (85)100-150 cm, erect. Sheaths glabrous or pubescent, sometimes scabrid¬ulous; ligules 2-7 mm; blades 10-40 cm long, 5-14 mm wide, apices acute or acuminate and sharply mucronate, flag leaves often reduced to spinose tips. Racemes (10)20-35 cm, with 6-14 spikelets; internodes 2-5.6(8) cm; pedicels 2-3 mm long, reflexed at maturity. Spikelets (20)25-28 mm, pendent, with 7-14 florets, usually all but the terminal floret bisexual. Glumes frequently scabrous, apices obtuse, sometimes erosely notched; lower glumes 3-6 mm; upper glumes 4-7(8.3) mm, 3-veined; rachilla internodes 2-3 mm long, about 0.1 mm thick, bases sometimes weakly differentiated into a glandular swelling; lemmas 8-10 mm, faintly 7(9)-veined, lateral veins occasionally prominent, apices truncate, sometimes toothed, awned, awns (5)9-20 mm; paleal keels each with a 0.2-0.6(1) mm triangular appendage; anthers 3.5-4 mm. Caryopses 4.5-6 mm. 2n =32, 36.
+</description>
+  <discussion>Pleuropogon refractus grows in wet meadows, riverbanks, and shady places, from sea level to about 1000 m. Its range extends from British Columbia south to California.</discussion>
+</bio:treatment>

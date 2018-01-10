@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Leymus mollis (Trin.) Pilg. subsp. mollis </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Rhizomes 4-6 mm thick. Culms (50)70-170 cm. Basal blades 22-94 cm long, 5-15 mm wide. Spikes 12-34 cm, with 12-33 nodes. Glumes 13-34 mm long, 3-4 mm wide, often longer than the lemmas, usually pilose, sometimes almost glabrous. 2n = 28.</description>
+  <discussion>In the Flora region, Leymus mollis subsp. mollis grows primarily on the west coast; on the east coast, it grows in New Brunswick and Nova Scotia, particularly along the St. Lawrence River, and on the coast of Greenland. It does not grow along the arctic coast. Outside the Flora region, it is native in the coastal region of eastern Asia, growing primarily along the coast and in the mouths of larger rivers, and on the shores of large lakes near the coast from the Korean Peninsula to the Kamchatka Peninsula. It was introduced to Iceland, but is now rare there.
+Leymus xvancouverensis is thought to be a hybrid between L. mollis subsp. mollis and L. triticoides, although its range extends beyond the current range of L. triticoides.
+</discussion>
+</bio:treatment>

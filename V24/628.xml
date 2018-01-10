@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>42</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca viridula Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>MOUNTAIN BUNCHGRASS, GREENLEAF FESCUE, GREEN FESCUE</common_names>
+  <description type="morphology">Plants loosely or densely cespitose, without rhizomes. Culms 35-80(100) cm, smooth, glabrous throughout; nodes usually not exposed. Sheaths closed for less than 1/2 their length, usually glabrous, sometimes pubescent, strongly reined, persistent or slowly shredding into fibers; collars glabrous; ligules (0.2)0.3-0.8(1) mm; blades 0.5-1.3 mm in diameter when conduplicate, to 2.5 mm wide when flat, persistent, abaxial surfaces glabrous and smooth, adaxial surfaces scabrous or pubescent, veins 5-9(12), ribs 5-9, blades of the lower cauline leaves usually reduced to stiff horny points, blades of the upper cauline leaves longer and more flexuous; abaxial sclerenchyma in strands about as wide as the adjacent veins; adaxial sclerenchyma developed; pillars and girders often present. Inflorescences (4)8-15 cm, open or somewhat contracted, with 1-2 branches per node; branches lax, spreading or loosely erect, lower branches with 2+ spikelets. Spikelets 9-15 mm, with (2)3-6(7) florets. Glumes exceeded by the upper florets, ovate-lanceolate to lanceolate, glabrous, smooth or scabridulous distally; lower glumes (2.4)2.8-5 mm, distinctly shorter than the adjacent lemmas; upper glumes 4.5-7(8.5) mm; lemmas (4.8)6-8.5 mm, lanceolate to ovate-lanceolate, glabrous, smooth or slightly scabrous, apices acute, unawned or awned, awns 0.2-1.5(2) mm; paleas about as long as the lemmas, intercostal region scabrous or puberulent distally; anthers (2)2.5-4(5) mm; ovary apices densely pubescent. 2n = 28.</description>
+  <discussion>Festuca viridula grows in low alpine and subalpine meadows, forest openings, and open forests, at (900)1500-3000 m, from southern British Columbia east to Montana and south to central California and Nevada. It is highly palatable to livestock, and is an important forage species in some areas.</discussion>
+</bio:treatment>

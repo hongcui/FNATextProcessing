@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthelium pedicellatum (Vasey) Gould </name_authority_date>
+  </taxon_identification>
+  <common_names>CORM-BASED PANICGRASS</common_names>
+  <description type="morphology">Plants cespitose, not rhizoma-tous. Basal rosettes absent. Culms 20-70 cm, initially erect, with hard, cormlike bases; nodes puberulent to sparsely hirsute; internodes all elongated, puberu¬lent to hirsute; fall phase with decumbent culms, developing divaricate branches from the midculm nodes before the primary panicles mature. Cauline leaves 4-7; sheaths sometimes overlapping, puberulent to papillose-hispid, margins ciliate; ligules 0.3-1 mm, membranous and ciliate; blades 3-12 cm long, 2-8 mm wide, widening distal to the rounded or subcordate bases, thin, glabrous or sparsely hirsute, margins with papillose-based cilia. Primary panicles 3-6 cm long, 2-4 cm wide, exserted; branches spreading at maturity; pedicels somewhat divergent. Spikelets 3.2-4.4 mm long, 1.3-1.6 mm wide, narrowly obovoid-ellipsoid, papillose-hirsute, attenuate to the purplish bases. Lower glumes about 1/2 as long as the spikelets, narrowly triangular, subadjacent to the upper glumes, not encircling the pedicels; upper glumes about 0.3 mm shorter than the upper florets; lower florets sterile; upper florets with pointed, minutely puberulent apices. 2n = 18. </description>
+  <discussion>Dichanthelium pedicellatum grows on limestone outcroppings and in dry, open oak woodlands. Its range extends from Texas into Mexico and Guatemala. Primary panicles develop from late March into June (and sometimes from late August to November) and are open-pollinated; secondary panicles develop from May into fall and are at least partly cleistogamous.</discussion>
+</bio:treatment>

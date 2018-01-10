@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis curvula (Schrad.) Nees </name_authority_date>
+  </taxon_identification>
+  <common_names>WEEPING LOVEGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, forming innovations at the basal nodes, without glands. Culms (45)60-150 cm, erect, glabrous or glandular. Sheaths with scattered hairs, hairs to 9 mm; ligules 0.6-1.3 mm; blades 12-50(65) cm long, 1-3 mm wide, flat to involute, abaxial surfaces glabrous, sometimes scabridulous, adaxial surfaces with scattered hairs basally, hairs to 7 mm. Panicles 16-35(40) cm long, (4)8-24 cm wide, ovate to oblong, open; primary branches 3-14 cm, diverging 10-80° from the rachises; pulvini glabrous or not; pedicels 0.5-5 mm, appressed, flexible. Spikelets 4-8.2(10) mm long, 1.2-2 mm wide, linear-lanceolate, plumbeous to yellowish, with 3-10 florets; disarticulation irregular to acropetal, proximal rachilla segments persistent. Glumes lanceolate, hyaline; lower glumes 1.2-2.6 mm; upper glumes 2-3 mm; lemmas 1.8-3 mm, ovate, membranous, lateral veins conspicuous, apices acute; paleas 1.8-3 mm, hyaline to membranous, apices obtuse; anthers 3, 0.6-1.2 mm, reddish-brown. Caryopses 1-1.7 mm, ellipsoid to obovoid, dorsally compressed, adaxial surfaces with a shallow, broad groove or ungrooved, smooth, mostly translucent, light brown, bases often greenish. 2n = 40, 50.</description>
+  <discussion>Eragrostis curvula is native to southern Africa. It is often used for reclamation because it provides good ground cover but, once introduced, it easily escapes. In the Flora region, it grows on rocky slopes, at the margins of woods, along roadsides, and in waste ground, at 20-2400 m, usually in pine-oak woodlands, and yellow pine and mixed hardwood forests.</discussion>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>23</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Agrostis tolucensis Kunth </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose. Culms (3.3)5.5-60 cm, erect, glabrous, with (2)3-4 nodes. Leaves mostly basal or evenly distributed; sheaths glabrous, scabridulous; ligules 2-6.2 mm, membranous, scabridulous dorsally, apices acute to more or less truncate, erose to lacerate; blades 4-19 cm long, 0.5-4 mm wide, involute or flat, scabrous or smooth over the veins. Panicles 1.5-14 cm long, 0.5-1.5 cm wide, lanceoloid, somewhat spikelike, dense to somewhat open, exserted at anthesis; branches appressed, shorter than 2 cm; pedicels 0.7-3(4.5) mm, scabrous. Spikelets purple to green, shiny. Glumes subequal, 2-3.5 mm, 1-veined, keeled, keels and back usually smooth, occasionally scabrous, apices acute, muticous; lower glumes wider than the upper glumes; calluses with 2 tufts of hair to 0.3 mm; lemmas 1.4-1.9 mm, glabrous, 5-veined, veins evident, apices truncate to acute, microdenticulate, teeth to about 0.1  mm, dorsally awned from midlength or below, awns 2-3.5 mm, exserted, twisted, geniculate, scabridulous; paleas 0.1-0.2 mm, hyaline, linear; anthers 3, 0.5-1 mm. Caryopses 0.7-1.2 mm; endosperm soft. 2n = 28.</description>
+  <discussion>Agrostis tolucensis grows in alpine meadows, usually in damp areas by lakes or streams. It is native from Mexico to Chile, Bolivia, and Argentina, growing in the Andes at 1800-4900 m. Its presence in the Flora region is dubious; two specimens in the S.M. Tracy herbarium, from Brewster and Brown counties in Texas, are listed in the Flora of Texas online database (http://www. csdl.tamu.edu/FLORA/tracy/mainl.html). Attempts to locate the specimens in 2005 were unsuccessful, suggesting the records may have been based upon misidentifications which have since been rectified.</discussion>
+</bio:treatment>

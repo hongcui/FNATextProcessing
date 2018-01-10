@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Sorghum bicolor subsp. arundinaceum (Desv.) de Wet & J.R. Harlan</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or weakly biennial. Culms to 4 m, slender to stout. Rames readily disarticulating at maturity, with 1-5 nodes. Sessile spikelets 5-8 mm, lanceolate to elliptic. Caryopses not exposed at maturity.</description>
+  <discussion>Sorghum bicolor subsp. arundinaceum is native to, and most common, in Africa, but some strains have been introduced into the Western Hemisphere.</discussion>
+</bio:treatment>

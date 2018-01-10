@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date></name_authority_date>
+  </taxon_identification>
+  <description type="morphology"></description>
+  <key>
+    <key_heading>Festuca Subkey II</key_heading>
+    <key_body>
+1. Ovary apices pubescent, sometimes with only a few hairs. 2. Ovary apices densely and conspicuously pubescent.
+3. Lemma awns 0.3-1.5 mm long; lemmas 3-4.5 mm long.....17. F. earlei (in part)
+3. Lemma awns 3-12 mm long; lemmas (4)4.5-6.5(8) mm long.....37. F. occidentalis
+2. Ovary apices sparsely and inconspicuously pubescent.
+4. Culms densely pubescent or shortly pilose below the inflorescence; lemmas 3.5-6 mm long; anthers 0.3-0.7(1.1) mm long .....32. F. baffinensis (in part)
+4. Culms glabrous below the inflorescence; lemmas (2)2.2-3.5(4) mm long; anthers (0.4)0.6-1.2 mm long .....34. F. minutiflora (in part)
+1. Ovary apices glabrous.
+5. Abaxial sclerenchyma in a continuous band; anthers longer than 1.4 mm; plants persisting from historical use for turf and soil stabilization .....21. F. ovina (in part)
+5. Abaxial sclerenchyma in 3+ discrete or confluent strands, rarely in a continuous band; anthers various; plants native in the Flora region.
+6. Abaxial sclerenchyma strands at least twice as wide as high, varying to more or less confluent, rarely forming a continuous band; plants of various habitats. 
+7. Anthers (0.8)1.2-1.7(2) mm long; inflorescences 2-10(13) cm long; lemmas (3)3.4-4(5.6) mm long; spikelets (3)4.5-8.8(10) mm long; plants widespread in continental North America.....29. F. saximontana
+7. Anthers 0.8-1.3 mm long; inflorescences 1.5-5 cm long; lemmas (2.5)3-3.5(4) mm long; spikelets 4-5.6(6) mm long; plants known only from Greenland  .....33. F. groenlandica
+6. Abaxial sclerenchyma strands usually less than twice as wide as high, not confluent, never forming a continuous band; plants restricted to arctic or alpine habitats.
+8. Blades usually with 3 abaxial sclerenchyma strands, 2 in the margins and 1 opposite the midvein, occasionally with 2 additional abaxial strands opposite the lateral veins.
+9. Abaxial sclerenchyma strands 3(5), narrower than the veins; spikelets 5-6.5(8) mm long .....25. F. auriculata (in part)
+9. Abaxial sclerenchyma strands 3, about the same width as or wider than the veins; spikelets (5)7-9(11) mm long ..... 26. F. lenensis (in part)
+8. Blades with 3-7(9) abaxial sclerenchyma strands.
+ 
+10. Blades  (0.2)0.3-0.4(0.6)  mm in diameter;  spikelets 2.5-5 mm long, with (1)2-3(5) florets; lemmas (2)2.2-3.5(4) mm long; lemma awns 0.5-1.5(1.7) mm long; plants of alpine habitats .....34.F. minutiflora (in part)
+10. Blades (0.3)0.4-1.2 mm in diameter; spikelets (3)3.5-8.5 mm long, with 2-6 florets; lemmas 2.5-7 mm long; lemma awns (0.2)0.5-3.5 mm long; plants of arctic or alpine habitats. 
+11. Culms  densely pubescent or pilose below the inflorescences; anthers 0.3-0.7(1.1) mm long ..... 32. F. baffinensis (in part)
+11. Culms usually glabrous and smooth below the inflorescences, occasionally slightly scabrous or sparsely puberulent; anthers (0.3)0.4-1.3 mm long. 
+12. Inflorescences usually panicles; lower branches with 2+ spikelets; flag leaf sheaths not inflated; flag leaf blades (0.3)1-3 cm long  .....28.F. brachyphylla
+12. Inflorescences often racemes; lower branches with 1-2(3+) spikelets; flag leaf sheaths usually slightly to distinctly inflated; flag leaf blades 0.2-5(8) cm long.
+13. Culms erect, more than twice as tall as the basal tuft of leaves; glumes ovate-lanceolate to lanceolate; lemmas (3)4-5.5(7) mm long; plants of Alaska to the western Northwest Territories  .....27. F. brevissima
+13. Culms erect to prostrate, to twice as tall as the basal tuft of leaves; glumes ovate to ovate-lanceolate; lemmas 2.9-5.2 mm long; plants of Alaska to the eastern arctic.
+14. Culms usually erect, sometimes semi-prostrate; flag leaf blades 0.5-5(8) mm long; blades often curved or somewhat falcate; spikelets (3)4-5.5(7) mm long; upper glumes 2.2-3.2 mm long; lemma apices usually minutely bidentate; awns usually slightly subterminal .....30. F. hyperborea
+14. Culms usually geniculate to prostrate, becoming erect at anthesis; flag leaf blades (0.3)0.5-2 cm long; most blades straight; spikelets 4.5-8.5 mm long; upper glumes 2.9-4.3 mm long; lemma apices entire; awns usually terminal, sometimes slightly subterminal .....31. F. edlundiae
+
+    </key_body>
+  </key>
+</bio:treatment>

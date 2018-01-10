@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Panicum sect. Urvilleana (Hitchc. & Chase) Pilg.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; rhizomatous, rhizomes stout, horizontal or vertical. Culms erect, arising in tufts or solitary. Ligules membranous, ciliate. Panicles narrow to lax; branches ascending to spreading; secondary branches and pedicels short, crowded, often appressed. Spikelets ovoid, densely to sparsely villous, hairs silvery or tawny-white, apices acute. Lower glumes about 3/4 as long as the spikelets, (5)7-9(ll)-veined; upper glumes and lower lemmas 7-15-veined; lower florets staminate; lower paleas as large as the lower lemmas; upper lemmas villous on the basal portion of the margins.</description>
+  <discussion>Panicum sect. Urvilleana consists of three species growing on coastal dunes and sand in South America. There is one species in the Flora region.</discussion>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Panicum anceps Michx. subsp. anceps</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants rhizomatous, rhizomes relatively short and stout. Panicles primarily terminal; primary branches usually few, stiffly ascending, with short branchlets and crowded, subsecund spikelets on short pedicels. Spikelets 2.7-3.9 mm, often lanceolate, falcate, with prominent green veins, acuminate.</description>
+  <discussion>Fanicum anceps subsp. anceps is widespread in all physiographic provinces within its range.</discussion>
+</bio:treatment>

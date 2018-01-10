@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>J. Gabriel Sanchez-Ken</author>
+    </source>
+  </meta>
+  <number>24.01</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>GYNERIUM Willd. ex P. Beauv.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; dioecious, staminate and pistillate plants similar in gross morphology; rhizomatous. Sheaths overlapping, mostly glabrous or the young and bladeless leaves sparsely pilose, margins usually pilose distally; collars pilose in young leaves with rudimentary blades; ligules pilose; blades to 2 m, leathery, glabrous, lower blades disarticulating at maturity, midribs 0.5-1.5 cm wide, sometimes with a line of scattered hairs on either side. Panicles large, the pistillate panicles plumose. Pistillate spikelets with 2 florets; disarticulation above the glumes and between the florets; glumes 1-3-veined, tardily disarticulating; upper glumes longer and firmer than the lower glumes, exceeding the florets; lemmas shortly pilose below, long pilose above, apices elongated and narrowed; lodicules 2, membranous, faintly 2-3-veined, sometimes with long hairs, truncate; staminodes 2; styles 2. Staminate spikelets with 2-4 florets; disarticulation below the terminal florets; glumes 1-veined; lemmas hyaline, glabrous, occasionally puberulent below; lodicules 2, free, faintly veined, truncate; anthers 2; ovary abortive.</description>
+  <discussion>Gynerium is a monotypic genus that ranges from Mexico and the West Indies to northeastern Argentina.</discussion>
+</bio:treatment>

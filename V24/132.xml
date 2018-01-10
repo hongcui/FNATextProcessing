@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Schizachne purpurascens (Torr.) Swallen </name_authority_date>
+  </taxon_identification>
+  <common_names>FALSE MELIC, SCHIZACHNE POURPRE</common_names>
+  <description type="morphology">Culms (30)50-80(110) cm, sometimes slightly decumbent at the base, otherwise erect. Ligules 0.5-1.5 mm; blades 2-4(5) mm wide, glabrous or adaxial surfaces pilose. Panicles 7-13(17) cm, open or closed, often reduced to racemes in depauperate plants. Spikelets 11.5-17 mm. Glumes glabrous, acute; lower glumes 4.2-6.2 mm, faintly (1)3-5-veined; upper glumes 6-9 mm, faintly (3)5-veined; lemmas 8-10.5(12) mm; awns 8-15 mm, as long as or longer than the lemma bodies, somewhat twisted and divergent or slightly geniculate; anthers 1.4-2 mm. 2n = 20.</description>
+  <discussion>In North America, Schizachne purpurascens grows in moist to mesic woods, from south of the tree line in Alaska and northern Canada through the Rocky Mountains to New Mexico in the west, and to Kentucky and Maryland in the east.</discussion>
+</bio:treatment>

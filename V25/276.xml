@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>30</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia torreyi (Kunth) Hitchc. ex Bush </name_authority_date>
+  </taxon_identification>
+  <common_names>RING MUHLY</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 10-40(50) cm, decumbent, usually all the nodes concealed by the sheaths; internodes mostly scabrous or smooth, hispidulous below the nodes. Leaves strongly basally concentrated, most blades not reaching more than  1/5 of the plant height; sheaths shorter than the internodes, rounded, not keeled, scabridulous or smooth, not becoming spirally coiled when old; ligules 2-5(7) mm, hyaline, acuminate, lacerate, often with lateral lobes; blades 1-3(5) cm long, 0.3-0.9 mm wide, tightly involute or folded, arcuate, scabridulous, midveins and margins not thickened, green, apices somewhat sharp-pointed. Panicles 7-21 cm long, 3-15 cm wide, diffuse; primary branches 1-8 cm, diverging 30-90° from the rachises, stiff, naked basally; pedicels 1-8 mm, sometimes appressed to the branches. Spikelets 2-3.5 mm. Glumes equal, 1.3-2.5 mm, scabridulous, 1-veined, apices acute to acuminate, minutely erose, unawned or awned, awns to 1.1 mm; lemmas 2-3.2(3.5) mm, narrowly elliptic to lanceolate, appressed-pubescent on the basal 1/2 - 3/4 of the margins and midveins, apices scabrous, acuminate, awned, awns 0.5-4 mm; paleas 2-3.2(3.5) mm, narrowly elliptic, intercostal region sparsely pubescent, apices acuminate; anthers 1.2-2.1 mm, greenish. Caryopses 1.7-2 mm, fusiform, brownish. 2n = 20, 21.</description>
+  <discussion>Muhlenbergia torreyi grows in desert grasslands and open woodlands on sandy mesas, calcareous rock out-crops, and rocky slopes, at elevations of 1000-2450 m. Its range extends from the southwestern United States to northern Mexico. It also grows, as a disjunct, in northwestern Argentina.</discussion>
+</bio:treatment>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>16</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aristida longespica Poir. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual. Culms 15-65 cm, erect to spreading, often genicu-late-based, sometimes nearly prostrate, usually much-branched. Leaves cauline; sheaths shorter than the internodes, not disintegrating into threadlike fibers at maturity, glabrous or sparsely pilose, hairs on the throat sometimes to 5 mm; collars glabrous; ligules about 0.5 mm; blades 5-14 cm long, 1-2 mm wide, flat to loosely involute, light green. Inflorescences usually paniculate, occasionally racemose or spicate, 6-22 cm long, 1-4(6) cm wide; nodes glabrous or with straight hairs, hairs to 0.3 mm; primary branches 1-4 cm, appressed to erect, rarely somewhat spreading distally, without axillary pulvini, with 2-5 spikelets per branch. Spikelets widely spaced to crowded. Glumes 2-11 mm, subequal, 1-veined, acuminate, unawned or awned, awns to 1 mm; calluses less than 1 mm; lemmas 2.5-10 mm, gray to dark purplish-brown, often horizontally banded or mottled, scabrous-hispid or glabrous, not beaked, apices only slightly narrowed, junction with the awns not evident; awns usually unequal, terete and curving up to 100° at the base, erect to reflexed distally, not disarticulating at maturity; central awns 1-27 mm; lateral awns absent or to 18 mm, shorter than the central awns; anthers 1 and 0.2-0.3 mm, or 3 and 3-4 mm. Caryopses 3-4 mm, light brown. 2n = unknown.</description>
+  <discussion>Aristida longespica grows along roadsides and in waste places, sandy fields, and clearings in pine and oak woods of southern Ontario and the eastern and central United States. The two varieties have a similar geographic range and are often found growing together.</discussion>
+  <key>
+    <key_body>
+1. Central awns 8-27 mm long, lateral awns usually 6-18 mm long .....var. geniculata
+1. Central awns 1-14 mm long and/or lateral awns usually 0-5 mm long .....var. longespica
+
+    </key_body>
+  </key>
+</bio:treatment>

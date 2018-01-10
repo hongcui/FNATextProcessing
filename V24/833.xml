@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>68</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa ammophila A.E. Porsild </name_authority_date>
+  </taxon_identification>
+  <common_names>SAND BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; glaucous; densely tufted, not stoloniferous, not rhizomatous. Basal branching intravaginal. Culms 10-30 cm. Sheaths closed for 1/7 – 1/6 their length, terete, bases of basal sheaths glabrous; ligules 1.5-3 mm; innovation blades similar to the cauline blades; cauline blades 1-3 mm wide, involute, moderately thick, soft, abaxial surfaces smooth, adaxial surfaces smooth or sparsely scabrous, apices narrowly prow-shaped. Panicles 3-6 cm, congested or moderately congested; nodes with (1)2(3) branches; branches 1-3(4) cm, erect, terete, smooth or sparsely scabrous. Spikelets 5-7 mm, lengths to 3.5 times widths, broadly lanceolate, weakly laterally compressed, fairly drab; florets 2-4; rachilla internodes usually 1-1.3 mm, smooth. Glumes lanceolate, distinctly keeled, keels smooth; lower glumes 3-veined; calluses glabrous; lemmas 3-4.6 mm, lanceolate, distinctly to weakly keeled, evenly and densely strigulose over the proximal 1/3-1/2, hairs mostly about 0.1 mm, some keel hairs to 0.2(0.3) mm, lateral veins obscure, margins broadly scarious, glabrous, apices acute; palea keels scabrous, softly puberulent at midlength, intercostal regions softly puberulent; anthers 1.5-1.8 mm. 2n = unknown.</description>
+  <discussion>Poa ammophila is endemic to the Mackenzie River Delta region, Northwest Territories. It grows primarily north of treeline and, as its name indicates, usually on sandy soils. Its close relative, P. hartzii (see previous), also reaches the continental coastline in this region.</discussion>
+</bio:treatment>

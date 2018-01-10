@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>13</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Leymus salina (M.E. Jones) Á. Löve </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose, sometimes weakly rhizomatous. Culms 35-140 cm tall, 1.5-3 mm thick, several together. Leaves exceeded by the spikes; auricles to 1 mm; ligules 0.1-1 mm, truncate; blades 1-5 mm wide, flat to strongly involute, adaxial surfaces glabrous or sparsely to -9 prominently ribbed, subequal long, 4-11 mm wide, nodes below midspike with 1-2(3) spikelets, distal nodes with 1 spikelet; internodes 3.5-9 mm, surfaces glabrous, edges scabrous or strigillose. Spikelets 9-21 mm, pedicellate, pedicels to 1 mm, with 3-6 florets. Glumes unequal to subequal, to 12.5 mm long, 0.5-3.2 mm wide, subulate, stiff, keeled, the central portion thicker than the margins, tapering from below midlength, 0-l(3)-veined, veins inconspicuous at midlength; lower glumes 0-12 mm; upper glumes 3.5-12.5 mm; lemmas 7-12.5 mm, usually glabrous, sometimes sparsely strigillose, unawned or awned, awns to 2.5 mm; anthers 2.5-7.5 mm, dehiscent.  </description>
+  <discussion>The three subspecies of Leymus salina differ in their pubescence and geographic distribution, with subsp. salina being the most common of the three. The specific epithet comes from the locality of the type collection: Salina Pass, Utah.</discussion>
+  <key>
+    <key_body>
+1. Basal sheaths and blades conspicuously hairy on the abaxial surfaces   .....subsp. salmonis
+1. Basal sheaths glabrous; blades usually glabrous on the abaxial surfaces. 
+2. Blades strongly involute, usually densely hairy just above the ligules  .....subsp. salina
+2. Blades flat or almost flat, not densely hairy above the ligules .....subsp. mojavensis
+
+    </key_body>
+  </key>
+</bio:treatment>

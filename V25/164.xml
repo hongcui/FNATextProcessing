@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>47</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis sessilispica Buckley </name_authority_date>
+  </taxon_identification>
+  <common_names>TUMBLE LOVEGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, with innovations, without rhizomes, not glandular. Culms 30-90 cm, erect or decumbent, glabrous below the nodes. Sheaths hairy at the apices and on the collars, sometimes also on the distal portion of the margins, hairs to 5 mm; ligules 0.4-0.5 mm; blades 5-30 cm long, 1-3 mm wide, usually involute, sometimes flat, abaxial surfaces glabrous or sparsely pilose, hairs to 5 mm, adaxial surfaces scabridulous. Panicles 20-65 cm long, 10-35 cm wide, ovate, open; primary branches 2-20(24) cm, widely spaced, diverging 20-100° from the rachises, not rebranched, naked basally; pulvini hairy; pedicels 0-12 mm, appressed, proximal spikelets on each branch sessile or subsessile, the pedicels shorter than 0.4 mm. Spikelets 5-13 mm long, 1.4-3 mm wide, oblong to oblanceolate, stramineous to reddish-purple, with 3-12 florets; disarticulation tardy, basipetal, in the rachilla below the florets, glumes persistent. Glumes lanceolate, broad basally, indurate; lower glumes 2.5-6 mm; upper glumes 3-6 mm, apices acuminate; lemmas 3-5 mm, narrowly ovate to lanceolate, indurate, apices acuminate; paleas 2.4-4.6 mm, indurate, gibbous basally but the sides not projecting beyond the lemmas, keels ciliolate, apices obtuse; anthers 3, 0.3-0.5 mm, reddish-brown. Caryopses 0.9-1.5 mm, ovoid to pyriform, laterally flattened, tapering distally, smooth to faintly striate, brownish. 2n = 40.</description>
+  <discussion>Eragrostis sessilispica grows in prairies, limestone mesas, partial forest openings, and grasslands, gener¬ally in sandy soils, at 0-1220 m, often in association with Prosopsis and Quercus. Its range extends into northern Mexico.</discussion>
+</bio:treatment>

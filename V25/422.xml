@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Bouteloua trifida var. burkii (Scribn. ex S. Watson) Vasey ex L.H. Dewey</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Panicle branches ascending to divergent, rarely appressed. Lower glumes 1.7-3.1 mm, veins excurrent for 0.05-0.2 mm, usually not exceeding the apical  
+lobes; upper glumes 1.9-3.2 mm, veins excurrent for 0.05-0.2 mm, usually not exceeding the apical teeth; lower lemmas conspicuously appressed pubescent across the lower 2/3 - 4/5 and along most or all of the margins, awns 2.2-4.5 mm; anthers 0.2-0.3 mm. Caryopses 0.8-1.2 mm long, 0.5-0.6 mm wide, flat or slightly concave adaxially. 2n = 20.
+</description>
+  <discussion>Bouteloua trifida var. burkii grows in southern New Mexico, southern Texas, and adjacent Mexico.</discussion>
+</bio:treatment>

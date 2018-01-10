@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sphenopholis intermedia (Rydb.) Rydb.</name_authority_date>
+  </taxon_identification>
+  <common_names>SLENDER WEDGEGRASS, SPHENOPHOLIS INTERMÉDIARE</common_names>
+  <description type="morphology">Culms (5)30-120 cm. Sheaths smooth or scabridulous, sometimes pubescent; ligules 1.5-2.5 mm, erose-ciliate, often lacerate; blades 8-15 cm long, (1)2-6 mm wide, flat to slightly involute. Panicles (2)7-20 cm long, (0.5)1-3 cm wide, usually nodding, not spikelike, spikelets usually loosely arranged. Spikelets 2.1-4 mm. Lower glumes less than 1/3 as wide as the upper glumes; upper glumes 1.9-2.9 mm, oblanceolate to obovate, not subcucullate, width/length ratio 0.23-0.35, apices acute, rounded, or subtruncate; lowest lemmas 2.1-3 mm, smooth or scabridulous; distal lemmas usually smooth on the sides, rarely scabridulous near the apices, unawned; anthers 0.2-0.8 mm. 2n = 14.</description>
+  <discussion>Sphenopholis intermedia grows at 0-2500 m in wet to damp sites, sites that dry out after the growing season, and sites with clay soils that retain moisture. Restricted to the Flora region, it is found in forests, meadows, and waste places throughout most of the region other than the high arctic. It differs from Koeleria macrantha (p. 754), with which it is sometimes confused, in its more open panicles and in having spikelets that disarticulate below the glumes.</discussion>
+</bio:treatment>

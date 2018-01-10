@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Eriochloa acuminata (J. Presl) Kunth var. acuminata </name_authority_date>
+  </taxon_identification>
+  <description type="morphology"></description>
+  <discussion>Eriochloa acuminata (J. Presl) Kunth var. acuminata generally grows in ditches, fields, right of ways, and other disturbed areas of the southern United States.</discussion>
+</bio:treatment>

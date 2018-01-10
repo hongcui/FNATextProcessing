@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa hartzii subsp. vrangelica (Tzvelev) Soreng & L.J. Gillespie</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 30-40 cm, highest culm node in the proximal 1/5 -1/4. Leaves mostly basal. Sheaths closed for about 3/10 their length, smooth; ligules 2-3 mm, smooth, margins decurrent, apices obtuse to acute; blades 1.5-2 mm wide, involute, moderately thick, erect or steeply ascending, cauline blades mostly shorter than 3 cm. Panicles 5-9 cm, erect, open, narrowly pyramidal, sparse, with 2-4 branches per node; branches 1-2.5 cm, widely spreading, slender, more or less terete, sparsely to moderately densely scabrous, each branch with 1-2 spikelets. Spikelets bulbiferous, about 5-6 mm excluding the bladelets, distinctly laterally compressed, strongly anthocyanic, lustrous; florets 2, bulb-forming; rachilla internodes not distinguishable. Glumes 4.5-5.5 mm, about equal in length, lanceolate, distinctly keeled, keels smooth or sparsely scabrous distally; lower glumes 3-veined; calluses poorly differentiated, or with a sparse crown of hairs; lemmas 4.5-5.5 mm, the few more or less normal basal florets lanceolate, keels and sometimes the marginal veins sparsely puberulent proximally, margins narrowly hyaline, apices acute; palea keels sparsely scabrous distally, intercostal regions smooth, sometimes puberulent; anthers aborted, about 0.8 mm.</description>
+  <discussion>Poa hartzii subsp. vrangelica can be difficult to distinguish from P. glauca, but it has a looser habit and thin glumes. It grows along the Sagavanirktok River, from the Franklin Hills to Prudhoe Bay, Alaska, as well as at scattered locations along the coast of the Beaufort Sea in Alaska, the Queen Elizabeth Islands in Nunavut, and Wrangell Island, Russia. It includes two varieties: Poa hartzii var. vivipara Polunin, which grows in the Canadian portion of its range; and Poa hartzii var. vrangelica (Tzvelev) Prob., which is more western and favors P. glauca.</discussion>
+</bio:treatment>

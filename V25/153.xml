@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>36</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis lugens Nees </name_authority_date>
+  </taxon_identification>
+  <common_names>MOURNING LOVEGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, with innovations, without rhizomes, not glandular. Culms 30-70 cm, erect, sometimes geniculate, glabrous below the nodes. Sheaths usually mostly glabrous, summits hairy, hairs 2-5 mm, never papillose-based; ligules 0.2-0.3 mm; blades (4)8-22 cm long, 1-3.5 mm wide, involute to flat, both surfaces glabrous, margins sometimes with scattered hairs, hairs to 7 mm. Panicles 16-28 cm long, 10-21 cm wide, ovate, open; primary branches 0.6-15 cm, diverging up to 100° from the rachises, naked basally; pulvini hairy; pedicels 1.4-5(7) mm, diverging, wiry, present on all spikelets. Spikelets 2-4.5(5) mm long, 0.5-1(1.3) mm wide, narrowly lanceolate, plumbeous to reddish-purple, with 2-7 florets; disarticulation acropetal, paleas persistent. Glumes broadly ovate to narrowly lanceolate, hyaline, sometimes reddish-purple; lower glumes 0.6-1 mm; upper glumes 1.1-1.4 mm, usually broader than the lower glumes; lemmas 1.2-1.8 mm, broadly ovate, mostly membranous but the distal margins hyaline, lateral veins inconspicuous, apices acute; paleas 1.1-1.7 mm, membranous to hyaline, apices obtuse; anthers 3, 0.2-0.7 mm, reddish-purple. Caryopses 0.5-0.6 mm, obovoid to somewhat prism-shaped, terete to somewhat laterally compressed, sometimes with a weak adaxial groove, finely striate, usually opaque, faintly reddish-brown to whitish. 2n = 40, 80, ca. 108.</description>
+  <discussion>Eragrostis lugens grows on sandy dunes and along river banks, at 1-300 m. Its range extends from the southern United States to Peru and Argentina.</discussion>
+</bio:treatment>

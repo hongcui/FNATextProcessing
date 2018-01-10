@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Hygroryza aristata (Retz.) Nees </name_authority_date>
+  </taxon_identification>
+  <common_names>ASIAN WATERGRASS, WATER STARGRASS</common_names>
+  <description type="morphology">Culms 50-150 cm, floating, branched, flexuous; nodes rooting, roots feathery, whorled. Sheaths glabrous, open, inflated; ligules absent or 0.5-0.8 mm, hyaline, truncate; pseudopetioles shorter than 1 mm; blades 2-8 cm long, 5-20 mm wide, flat, bases rounded to cordate, apices blunt to rounded. Panicles 3-8 cm, pyramidal, with 4-9 branches; lower branches 2-4 cm, whorled, spreading or deflexed, glabrous; pedicels 0.2-2 mm, sometimes absent. Florets (6)7-18 mm (including the stipelike callus), narrowly lanceolate; calluses (1)2-10 mm, stipelike; lemmas 5-8 mm, chartaceous, keeled, veins and margins with hairs, glabrous or pubescent between the veins, awns 5-14 mm; paleas as long as the lemmas, chartaceous, glabrous, keels ciliate or scabrous; anthers 6, about 3.5 mm. Caryopses about 3.5 mm. 2n = 24.</description>
+  <discussion>Hygroryza aristata is native to tropical Asia, where it has occasionally been used as forage for cattle (Bor 1960). It is sold for ponds and aquaria, where its long, feathery, adventitious roots have a decorative effect, but it has the potential to become a significant weed problem in the southern United States.</discussion>
+</bio:treatment>

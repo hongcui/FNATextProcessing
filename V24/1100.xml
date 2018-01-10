@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Neil Snow</author>
+    </source>
+  </meta>
+  <number>14.63</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>LIMNODEA L.H. Dewey</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual; tufted. Culms to 60 cm, often prostrate and branching at the base, glabrous; internodes solid. Sheaths open or closed, rounded on the back, frequently hispid; auricles absent; ligules membranous, usually lacerate and minutely ciliate; blades flat, mostly ascending, abaxial and/or adaxial surfaces glabrous or hispid. Inflorescences panicles, loosely contracted; branches spikelet-bearing to the base or nearly so, some branches longer than 1 cm; disarticulation below the glumes. Spikelets pedicellate, subterete, with 1 floret; rachillas prolonged beyond the base of the floret as a slender bristle, glabrous. Glumes equal, rigid, coriaceous, hispid or scabrous throughout, rounded over the midvein, veinless or obscurely 3-5-veined, acute, unawned; calluses blunt, glabrous; lemmas equaling the glumes, chartaceous, smooth, veinless or inconspicuously 3-veined, minutely bifid or acute, awned, awns subterminal, exceeding the florets, geniculate near midlength, basal segment twisted; paleas shorter than the lemmas, veinless or the base 2-veined, hyaline; lodicules 2, glabrous, toothed or not; anthers 3; ovaries glabrous. Caryopses about 2.5 mm, shorter than the lemmas, concealed at maturity, linear, x = 7. </description>
+  <discussion>Limnodea is a monotypic genus of the southern United States and adjacent Mexico.</discussion>
+  <references>Brandenburg, D.M. and J.W. Thieret. 2000. Cinna and Limnodea (Poaceae): Not congeneric. Sida 19:195-200.
+ 
+</references>
+</bio:treatment>

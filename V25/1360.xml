@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Pennisetum polystachion (L.) Schult. </name_authority_date>
+  </taxon_identification>
+  <common_names>MISSION GRASS</common_names>
+  <description type="morphology">Plants annual or perennial; cespitose from a hard, knotty base. Culms 30-200 cm, erect, branching; nodes glabrous. Sheaths glabrous, margins ciliate; ligules 1.5-2.7 mm; blades 15-55 cm long, 4-18 mm wide, flat, glabrous or pubescent. Panicles terminal, 10-25 cm long, 15-30 mm wide, fully exerted from the sheaths, erect to drooping, white, yellow, light brown, or pink to deep purple; rachises terete,  scabrous. Fascicles  33-45 per cm,  disarticulating at maturity; fascicles axes 0.2-0.5 mm, with 1 spikelet; outer bristles 13-30, 1.3-5 mm, scabrous; inner bristles 6-14, 4.3-11.5 mm, long ciliate; primary bristles 14-25 mm, long-ciliate, noticeably longer than the other bristles. Spikelets 3-4.5 mm, sessile; lower glumes absent or to 2 mm, veinless; upper glumes 3-4.5 mm, glabrous, 5-7-veined, 3-lobed; lower florets sterile or staminate; lower lemmas  3-3.9 mm,  5-7-veined, apices lobed; lower paleas 2.9-3.7 mm; anthers absent or 1.7-2 mm; upper florets disarticulating at maturity; upper lemmas 1.7-3 mm, coriaceous, shiny, 5-veined, apices ciliate; anthers 1.3-2.1 mm. Caryopses about 1.7 mm, concealed by the lemma and palea at maturity. 2n = 18, 36, 45, 48, 52, 53, 54, 56, 78.</description>
+  <discussion>Pennisetum polystachion is a polymorphic, weedy African species that has become established in the tropics and subtropics, including Florida. The U.S. Department of Agriculture considers it a noxious weed. Only Pennisetum polystachion subsp. setosum (Sw.) Brunken has been found in the Flora region. It differs from P. polystachion (L.) Schutt. subsp. polystachion as indicated:</discussion>
+  <key>
+    <key_body>
+1. Plants annual, usually profusely branching; fascicles white, pink, red, or deep purple.....subsp. polystachion
+1. Plants perennial, usually sparingly branched; fascicles yellow, light brown, or purplish   .....subsp. setosum
+
+    </key_body>
+  </key>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>23</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Setaria italica (L.) P. Beauv. </name_authority_date>
+  </taxon_identification>
+  <common_names>FOXTAIL MILLET, SETAIRE ITALIENNE, SETAIRE D'ITALIE, MILLET DES OISEAUX</common_names>
+  <description type="morphology">Plants annual. Culms 10-100 cm. Sheaths mostly glabrous, margins sparsely ciliate; ligules 1-2 mm; blades to 20 cm long, 1-3 cm wide, flat, scabrous. Panicles 8-30 cm, dense, spikelike, occasionally lobed below; rachises hispid to villous; bristles 1-3, to 12 mm, tawny or purple. Spikelets about 3 mm, disarticulating between the lower and upper florets. Lower glumes 3-veined; upper glumes 5-7-veined; lower paleas absent or 1/2 as long as the lower lemmas; upper lemmas very finely and transversely rugose to smooth and shiny, exposed at maturity. 2n = 18.</description>
+  <discussion>Setaria italica was cultivated in China as early as 2700 B.C. and during the Stone Age in Europe. Nowadays it is grown mostly for hay or as a pasture grass, but it has been used as a substitute for rice in northern China. It is sometimes cultivated in North America, but it is better known as a weed in moist ditches, mostly in the northeastern United States. It is closely related to S. viridis, differing in the longer (3 mm) spikelets and smooth, shiny upper florets which readily disarticulate above the lower florets. It exhibits considerable variation in seed and bristle color, bristle length, and panicle shape. Using these characters, Hubbard (1915) recognized several infraspecific taxa; they are not treated here.</discussion>
+</bio:treatment>

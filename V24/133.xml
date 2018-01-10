@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Paul P.H. But</author>
+    </source>
+  </meta>
+  <number>9.04</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>PLEUROPOGON R. Br.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; cespitose or rhizomatous. Culms 5-160 cm, erect or geniculate at the base, glabrous; basal branching extravaginal. Sheaths closed almost to the top; ligules membranous; blades flat to folded, adaxial surfaces with prominent midribs. Inflorescences terminal, racemes, rarely panicles. Spikelets laterally compressed, with 5-20(30) florets, upper florets reduced; disarticulation above the glumes and beneath the florets. Glumes unequal to subequal, shorter than the adjacent lemmas, membranous to subhyaline, margins scarious; lower glumes 1-veined; upper glumes 1-3-veined; rachilla internodes in some species swollen and glandular basally, the glandular portion turning whitish when dry; calluses rounded, glabrous; lemmas thick, herbaceous to membranous, 7(9)-veined, veins parallel, margins scarious, apices scarious, entire or emarginate, midvein sometimes extended into an awn, awns straight; paleas subequal to the lemmas, 2-veined, keeled over each vein, keels winged, with 1 or 2 awns or a flat triangular appendage; lodicules 2, completely fused; anthers 3, opening by pores; ovaries glabrous, x = 8, 9, 10. </description>
+  <discussion>Pleuropogon is a genus of five hydrophilous species, one circumboreal in the arctic, the other four restricted to the Pacific coast of North America, extending from southern British Columbia to central California. The Pacific coast species are sometimes treated as a separate genus, Lophochlaena Nees, but are here regarded as constituting a subgenus of Pleuropogon.
+The flat, triangular paleal appendages differ from bristly or flattened awns in being wider at the base, and smooth rather than scabrous.
+</discussion>
+  <references>But, P.P.H. 1977. Systematics of Pleuropogon R. Br. (Poaceae). Ph.D. dissertation, University of California, Berkeley, California, U.S.A. 229 pp.; But, P.P.H., J. Kagan, V. Crosby, and J.S. Shelly. 1985. Rediscovery and reproductive biology of Pleuropogon oregonus (Poaceae). Madrono 32:189-190.</references>
+  <key>
+    <key_body>
+1. Paleal keels each with 2 awns, the lower awn 1-3 mm long, the upper awn 0.3-1 mm long: lemmas 3.5-5 mm long; plants of the arctic (subg. Pleuropogon)  .....5. P. sabinei
+1. Paleal keels each with 1 awn 3-9 mm long, or a triangular appendage; lemmas 4.5-10 mm long; plants of the Pacific Northwest and California (subg. Lophochlaena). 
+2. Lowest lemma in each spikelet 4.5-7.5 mm long; culms 15-95 cm tall; caryopses 2.5-3.1 mm long. 
+3. Paleal keels unawned, with a triangular appendage;  rhizomes absent or poorly developed; rachilla internodes with a glandular swelling at the base .....1. P. californicus
+3. Paleal keels with an awn 3-9 mm long, without a triangular appendage; rhizomes strongly developed; rachilla internodes without a glandular swelling at the base .....3. P. oregonus
+2. Lowest lemma in each spikelet 8-10 mm ong; culms mostly 100-160 cm tall; caryopses 3.5-6 mm long.
+4. Lemma awns 0.2-4 mm long; pedicels usually erect, rarely reflexed, the spikelets erect or ascending at maturity .....2. P. hooverianus
+4. Lemma awns (5)9-20 mm long; pedicels reflexed, the spikelets pendent at maturity.....4. P. refractus
+
+    </key_body>
+  </key>
+</bio:treatment>

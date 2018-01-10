@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>26.04</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>IMPERATA Cirillo</name_authority_date>
+  </taxon_identification>
+  <common_names>Mark L. Gabel</common_names>
+  <description type="morphology">Plants perennial; strongly rhizomatous. Culms 10-150(217) cm, mostly erect and unbranched, usually with 3-4 nodes. Leaves not aromatic; sheaths open, ciliate at the margins of the collars; ligules membranous; blades of the basal leaves linear to lanceolate, sometimes ciliate basally, those of the cauline leaves reduced. Inflorescences terminal, cylindrical to conical panicles with an evident rachis; rachises often with numerous long hairs; inflorescence branches 1-7 cm, usually shorter than the rachises, with spikelets in unequally pedicellate pairs; disarticulation below the glumes. Spikelets homogamous and homomorphic, unawned; calluses very short, hairy, hairs 7-16 mm. Glumes equal to subequal, membranous, 3-9-veined, with hairs longer than the florets over at least the lower 1/2;  lower florets reduced to hyaline or membranous lemmas; upper florets bisexual, lemmas, if present, hyaline, unawned; anthers 1-2, yellow to brown; stigmas elongate, purple to brown; styles connate or free. Pedicels not fused to the branch axes, terminating in cuplike tips. Caryopses ovate to obovate, light to dark brown, x = 10.</description>
+  <discussion>Imperata has nine species and is widely distributed in warm regions of both hemispheres. Its economic importance is primarily negative, as both I. cylindrica and I. brasiliensis are weedy (Gabel 1989), but new shoots of both species are used for hay or grazing. Imperata is thought to be closely related to Miscanthus. One species is native to the Flora region, and two have been introduced.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Calamovilfa brevipilis (Torr.) Scribn. </name_authority_date>
+  </taxon_identification>
+  <common_names>PINE-BARREN SANDREED</common_names>
+  <description type="morphology">Rhizomes short, covered with the persisent bases of the foliage leaves. Culms to 1.5 m. Sheaths to 30 cm; ligules to 0.5 mm; blades to 50 cm long, 2-5 mm wide. Panicles 8-40 cm long, 4-20 cm wide, open; branches to 17 cm long,   ascending to spreading. Spikelets 4-5.8 mm. Glumes straight, acute; lower glumes 1.7-4.1 mm; upper glumes 3.3-5 mm; callus hairs 1/4 - 1/2 as long as the lemmas; lemmas 4-5.4 mm, straight, slightly to markedly pubescent, acuminate; paleas 3.8-5.3 mm, slightly to markedly pubescent; anthers 2.4-3.2 mm. 2n = unknown.</description>
+  <discussion>Calamovilfa brevipilis grows in moist to dry pine barrens, savannahs, bogs, swamp edges, and pocosins. It is a common grass on the New Jersey pine barrens and locally common across the coastal plain of North Carolina, but rare at present in Virginia and South Carolina. The length of the ligule hairs tends to increase from 0.3 mm or less in the north to 0.5 mm at the southern end of its range.</discussion>
+</bio:treatment>

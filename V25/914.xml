@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Hilaria mutica (Buckley) Benth. </name_authority_date>
+  </taxon_identification>
+  <common_names>TOBOSAGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, rhizomatous. Culms 30-60 cm, erect, geniculate at the middle nodes; nodes glabrous or pubescent, hairs to 0.3 mm. Sheaths glabrous or sparsely pilose on the margins; ligules 0.5-2 mm, lacerate; blades 2-15 cm long, 2-4 mm wide, mostly scabrous on both surfaces, with papillose-based hairs behind the ligules. Panicles 4-8 cm; fascicles 5-8 mm. Lateral spikelets with 1 or 2(4) staminate florets; glumes not conspicuously fused basally, thin, papery, flabellate, dorsally awned, awns not exceeding the apices, apical lobes rounded, ciliate to finely laciniate, veins not or scarcely excurrent; anthers 3, 2.5-3.5 mm. Central spikelets with 1 bisexual floret; glumes with 1 or more divergent, dorsal awns, apical lobes, ciliate to finely laciniate, veins excurrent; lemmas exceeding the glumes, bilobed, mucronate. 2n = 36, 54.</description>
+  <discussion>Hilaria mutica grows in level upland areas and desert valleys subject to occasional flooding but lacking permanent streams. Its range extends into northern Mexico. Although H. mutica has moderate forage value, its palatability is low and it is frequently infected with ergot.</discussion>
+</bio:treatment>

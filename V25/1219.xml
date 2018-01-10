@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>33</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthelium linearifolium (Scribn.) Gould </name_authority_date>
+  </taxon_identification>
+  <common_names>LINEAR-LEAVED PANICGRASS, PANIC À FEUILLES LINÉAIRES</common_names>
+  <description type="morphology">Plants cespitose. Basal rosettes poorly differentiated; blades similar in shape to the lower cauline blades, narrow, ascending. Culms 10-50 cm, very slender, erect to drooping, lower 3-8 internodes telescoped together, less than 2 cm, upper 2 internodes elongated; nodes bearded; internodes pubescent to almost glabrous; fall phase developing a dense mass of erect blades and foreshortened branches arising from the basal nodes, terminating in small, narrow secondary panicles that are enclosed within the sheaths, with 6-15 spikelets. Cauline leaves 2-4; sheaths longer than the internodes, glabrous or pilose with dense, fine, papillose-based hairs; ligules about 0.5 mm; blades 5-20 cm long, 2-5 mm wide, stiffly ascending to erect, green to grayish-green, glabrous or densely pilose, apices long-tapering, lower blades shorter than the upper 2 or 3 blades. Primary panicles 4-10 cm long, 2-6 cm wide, long-exserted, with 12-70 spikelets; branches and pedicels spreading. Spikelets 2-3.2 mm long, 0.8-1.4 mm wide, ellipsoid, not turgid, sparsely pubescent. Lower glumes 0.6-1.1 mm, ovate-triangular; upper glumes and lower lemmas exceeding the upper florets by about 0.2 mm before flowering, subequal in fruit, slightly pointed at maturity, upper florets 1.7-2.3 mm, ovoid-ellipsoid, minutely umbonate. 2n = 18.</description>
+  <discussion>Dichanthelium linearifolium grows in dry, open woodlands, rock outcroppings, and sandy areas. It is restricted to the Flora region. The primary panicles are briefly open-pollinated, produced from May to early June; the secondary panicles are cleistogamous, produced from late June through July (rarely in fall). Plants in the northern United States and Canada tend to be shorter and more spreading, subglabrous, and to have spikelets 2-2.6 mm long; they have been called Panicum werneri Scribn., but do not merit taxonomic recognition. In the southwestern part of its range, especially in the Ozarks, most plants of D. linearifolium are tall, erect, densely pilose, with very elongated blades and spikelets often 2.6-3 mm long; they may hybridize with D. perlongum.</discussion>
+</bio:treatment>

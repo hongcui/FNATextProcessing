@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Sharon J. Anderson</author>
+    </source>
+  </meta>
+  <number>17.53</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>ZOYSIA Willd.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial, rhizomatous, mat-forming. Culms 5-40 cm tall. Ligules to 0.3 mm, of hairs, often with longer hairs at the base of each blade immediately behind the ligule; blades usually glabrous abaxially, sometimes with a ciliate callus at the base of each collar, adaxial surfaces glabrous, scabrous, or sparsely pilose, apices often sharply pointed. Inflorescences terminal, exceeding the leaves, solitary spikelike racemes (a single spikelet in Z. minima), spikelets solitary, shortly pedicellate, laterally appressed to the rachises; disarticulation beneath the glumes or not occurring. Spikelets laterally compressed, with 1 floret; florets bisexual. Lower glumes usually absent; upper glumes enclosing the floret, chartaceous to coriaceous, awned, awns to 2.5 mm; lemmas thin, lanceolate or linear, acute to emarginate, 1-veined; paleas thin, rarely present, x = 10. </description>
+  <discussion>Zoysia has 11 species. They are native to coastal sands between 42°N and 42°S and from Mauritius to Polynesia. Some species also grow in disturbed inland areas. Three species are used as lawn grasses in mesic tropical and subtropical areas, including parts of the Flora region. Because lawn grasses are rarely collected, the distribution maps for Zoysia show the states in which each species can be successfully grown rather than individual county records.
+As is common with commercially important species, several cultivars of Zoysia have been developed, sometimes from hybrids. Whether or not they are hybrids, cultivars often exceed the normal range of variation for a species in one or more respects. This makes it difficult to account for them in a key. The following key is written for specimens that fall within the normal range of the species concerned. In employing it, caution must be used when interpreting blade widths because blades of Zoysia become involute or convolute under drought or salinity stress. In addition, hybridization has resulted in cultivars with vegetative characteristics more like those of one species and reproductive characteristics more like those of another species.
+</discussion>
+  <key>
+    <key_body>
+1. Blades to 0.5 mm in diameter; racemes with 3-12 spikelets; peduncles included or extending to 1 cm beyond the sheaths of the flag leaves  .....1. Z. pacifica
+1. Blades 0.5-5 mm wide; racemes with 10-50 spikelets; peduncles extending (0.3)1-6.5 cm beyond the sheaths of the flag leaves. 
+2. Pedicels 1.6-3.5 mm long; spikelets ovate, 1-1.4 mm wide; culm internodes 2-10 mm long; blades ascending ...... Z. japonica
+2. Pedicels 0.6-1.6 mm long; spikelets lanceolate, 0.6-1 mm wide; culm internodes 5-40 mm long, all plants with at least some internodes more than 14 mm long; blades patent .....3. Z. matrella
+
+    </key_body>
+  </key>
+</bio:treatment>

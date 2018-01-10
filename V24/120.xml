@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>13</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Melica stricta Bol. </name_authority_date>
+  </taxon_identification>
+  <common_names>ROCK MELIC</common_names>
+  <description type="morphology">Plants densely cespitose, not rhizomatous. Culms 9-85 cm, not forming corms; basal internodes often thickened; internodes smooth. Sheaths scabridulous; ligules 2.5-5 mm; blades 1.5-5 mm wide, abaxial surfaces glabrous, scabridulous, adaxial surfaces sometimes strigose, sometimes glabrous or scabridulous. Panicles 3-30 cm; branches 0.5-10 cm, appressed, with 1-5 spikelets; pedicels sharply bent below the spikelets; disarticulation below the glumes. Spikelets 6-23 mm long, 5-13 mm wide, broadly V-shaped when mature, with 2-4 bisexual florets; rachilla internodes 1.8-2.1 mm. Lower glumes 6-16 mm long, 3.5-5 mm wide, 4-7-veined; upper glumes 6-18 mm long, 3-5 mm wide, 5-9-veined; lemmas 6-16 mm, glabrous, scabridulous, 5-9-veined, veins inconspicuous, apices acute, unawned; paleas 1/2 - 3/4 the length of the lemmas; anthers 1-3 mm; rudiments 2-7 mm, resembling the lower florets, acute to acuminate. Caryopses 4-5 mm. 2n = 18.</description>
+  <discussion>Melica stricta grows from 1200-3350 m on rocky, often dry slopes, sometimes in alpine habitats. Its range extends from Oregon and California to Utah. Boyle (1945) recognized two varieties, more on their marked geographical separation than on their morphological divergence.</discussion>
+  <key>
+    <key_body>
+1. Paleas about 3/4 the length of the lemmas; anthers 2-3 mm long .....var. albicaulis
+1. Paleas about 1/2 the length of the lemmas; anthers 1-2 mm long .....var. stricta
+
+    </key_body>
+  </key>
+</bio:treatment>

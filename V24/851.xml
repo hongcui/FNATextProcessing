@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Jacques Cayouette </author>
+      <author>Stephen J. Darbyshire</author>
+    </source>
+  </meta>
+  <number>14.15</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>DUPONTIA R. Br.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; rhizomatous. Culms 5-80 cm. Sheaths closed for 1/2 - 2/3 their length, glabrous; auricles absent; ligules membranous, glabrous, truncate; blades flat or folded, usually glabrous, adaxial surfaces sometimes scabrous or shortly pubescent. Inflorescences panicles, diffuse to dense and spikelike, with few spikelets; branches 0.7-3.5(8.5) cm, smooth, stiff, erect to reflexed, secondary branches usually appressed. Spikelets pedicellate, slightly laterally compressed, with 1-4(5) florets, distal florets sterile; rachillas prolonged beyond the uppermost floret or terminating in a vestigial floret, glabrous; disarticulation above the glumes and beneath the fertile florets. Glumes subequal, equaling or usually exceeding the distal florets, ovate and obtuse to lanceolate-attenuate, membranous, glabrous, 1-3-veined, unawned; calluses short, blunt, with a ring of stiff hairs, hairs to about 1 mm; lemmas ovate to ovate-lanceolate, membranous to coriaceous, glabrous or pubescent, with 3(5) fine veins, apices acute to acuminate, midveins sometimes excurrent as a mucro or awn to 1(2.2) mm; paleas shorter than the lemmas, glabrous, sometimes scabrous on the veins; lodicules 2, membranous, glabrous; anthers 3; ovaries glabrous. Caryopses shorter than the lemmas, concealed at maturity, falling free of the lemma and palea; hila 1/6 – 1/3 the length of the caryopses, ovate, x = not clear, 7 or 11. </description>
+  <discussion>Dupontia is a monotypic genus of arctic and subarctic wetlands, found throughout the holarctic region except in Scandinavia. Hybrids with Arctophila are referred to xArctodupontia (see next); hybrids with Poa eminens are referred to xDupoa (see previous).</discussion>
+  <references>Brysting, A.K., S.G. Aiken, L.P. Lefkovitch, and R.L. Boles. 2003. Dupontia (Poaceae) in North America. Canad. J. Bot. 81:769-779; Brysting, A.K., M.F. Fay, I.J. Leitch, and S.G. Aiken. 2004. One or more species in the arctic grass genus Dupontia?—A contribution to the Panarctic Flora project. Taxon 53:365-382; Jurtsev, B.A. 1995. Dupontia. Pp. 224-229 in J.G. Packer (ed., English edition). Flora of the Russian Arctic, vol. 1, trans. G.C.D. Griffiths. University of Alberta Press, Edmonton, Alberta, Canada. 330 pp. [English translation of A.I. Tolmachev (ed.). 1964. Arkticheskaya Flora SSSR, vol. 2. Nauka, Leningrad [St. Petersburg], Russia. 272 pp.].</references>
+</bio:treatment>

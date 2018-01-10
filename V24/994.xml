@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Helictotrichon sempervirens (Vill.) Pilg. </name_authority_date>
+  </taxon_identification>
+  <common_names>BLUE OATGRASS</common_names>
+  <description type="morphology">Culms 30-100(150) cm. Ligules 0.5-1.5 mm, truncate, ciliate; blades 15-60 cm long, 2-4 mm wide, usually convolute and 0.9-1.5 mm in diameter, glaucous, scabridulous, basal blades deciduous when dead. Panicles 8-20 cm; branches ascending, with 3-7(10) spikelets. Spikelets 10-14 mm, with 3(5) florets. Glumes subequal to unequal; lower glumes 7-10 mm; upper glumes 10-12 mm; lowest lemmas 7-12 mm, awns about 15 mm; distal lemmas unawned; anthers about 5 mm. 2n = 28, 42.</description>
+  <discussion>Helictotrichon sempervirens is a native of the southwestern Alps in Europe, where it grows on rocky soils and in stony pastures. In the Flora region, it is frequently grown as an ornamental species; it is not established in the region.
+ 
+</discussion>
+</bio:treatment>

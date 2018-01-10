@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Dichanthelium sect. Oligosantha (Hitchc.) Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants usually cespitose, often with caudices, clumps sometimes with only 1 culm. Basal rosettes well-differentiated. Culms 20-75 cm, with papillose-based hairs; fall phase branching from the mid-and upper culm nodes. Cauline leaves 4-7; sheaths glabrous or hirsute, hairs sometimes papillose-based; ligules 0.5-5 mm, of hairs, these often joined at the base into a thickened ring. Spikelets 2.5-4.3 mm, ellipsoid to obovoid, turgid. Upper glumes usually with an orange or purplish spot at the base, with 7-9 prominent veins. Upper florets umbonate, sometimes minutely so.</description>
+</bio:treatment>

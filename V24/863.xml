@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Torreyochloa pallida (Torr.) G.L. Church var. pallida</name_authority_date>
+  </taxon_identification>
+  <common_names>PALE FALSE MANNAGRASS</common_names>
+  <description type="morphology">Culms 47-110 cm tall, 1.2-3 mm thick, erect to decumbent. Ligules of larger cauline leaves 5-8 mm; widest cauline blades 2.8-9(11.4) mm wide. Panicles (7.5)11-19 cm long, 3-16 cm wide, 1-4.1 times as long as wide, ovoid to ellipsoidal. Spikelets 3.6-6.5 mm, with 2-6 florets. Lower glumes 1-2.1 mm; upper glumes 1.4-2.7 mm; lemmas 2.4-3.6 mm, obtuse to acute; anthers of lowest floret 0.7-1.5 mm.</description>
+  <discussion>The range of Torreyochloa pallida var. pallida extends from southeastern Manitoba to north of Lake Superior and Maine, and south to Missouri and Georgia. Torreyochloa pallida var. pallida can be difficult to distinguish from T. pallida var. fernaldii.</discussion>
+</bio:treatment>

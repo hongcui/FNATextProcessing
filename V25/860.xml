@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Spartina cynosuroides (L.) Roth </name_authority_date>
+  </taxon_identification>
+  <common_names>BIG CORDGRASS</common_names>
+  <description type="morphology">Plants strongly rhizomatous; rhizomes elongate, purplish-brown or tan, scales closely imbricate. Culms 100-350 cm tall, 1-2 cm thick, hard, solitary or few together. Sheaths smooth to striate, mostly glabrous, throats often densely pilose, lower sheaths often wrinkled; ligules 1-3 mm; blades 6-20 mm wide, flat or involute, glabrous on both surfaces, margins strongly scabrous, apices acuminate, second blade below the panicles 5-15 mm wide, usually flat. Panicles 15-40 cm, not smooth in outline, with 5-67 branches; branches 6-15 cm, usually spreading, with 10-70 spikelets. Spikelets 9-14 mm. Glumes with hispid keels and hispidulous margins; lower glumes 3-7 mm, from less than 1/2 as long as to 2/3 as long as the adjacent lemmas, linear, acute; upper glumes 9-14 mm, usually more than twice as long as the lower glumes, exceeding the florets, mostly glabrous or hispidulous, keels scabrous or hispid, trichomes to 0.3 mm, 2 lateral veins prominent, 1 on each side of the keel, usually hispid, apices unawned or awned, the awns to 2 mm; lemmas glabrous or hispidulous, sometimes glabrous proximally and hispidulous distally, apices obtuse to rounded, sometimes shallowly bilobed; anthers 4-6 mm, well-filled, dehiscent. 2n = 28, 42.</description>
+  <discussion>Spartina cynosuroides grows in brackish estuaries, tidal lagoons and bays, and in maritime habitats bordering the strand and intertidal zones. It grows primarily on the eastern and Gulf coasts of the United States, but has also been found in Michigan, possibly introduced by shipping. Reports from South Dakota are based on a misidentification.</discussion>
+</bio:treatment>

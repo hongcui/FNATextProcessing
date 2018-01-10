@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eleusine indica (L.) Gaertn. </name_authority_date>
+  </taxon_identification>
+  <common_names>GOOSEGRASS, ELEUSINE DES INDES, ELEUSINE D'INDE</common_names>
+  <description type="morphology">Plants annual. Culms 30-90 cm, erect or ascending, some-what compressed; lower internodes 1.5-2 mm thick. Sheaths conspicuously keeled, margins often with long, papillose-based hairs, particularly near the throat; ligules 0.2-1 mm, truncate, erose; blades 15-40 cm long, 3-7 mm wide, with prominent, white midveins, margins and/or adaxial surfaces often with basal papillose-based hairs. Panicles with 4-10(17) branches, often with 1 branch attached as much as 3 cm below the terminal cluster; branches (3.5)7-16 cm long, 3-5.5 mm wide, linear. Spikelets 4-7 mm long, 2-3 mm wide, with 5-7 florets, obliquely attached to the branch axes. Lower glumes 1.1-2.3 mm, 1-veined; upper glumes 2-2.9 mm; lemmas 2.4-4 mm; paleas with narrowly winged keels. Seeds ovoid, rugulose and obliquely striate, usually not exposed at maturity. 2n = 18.</description>
+  <discussion>Eleusine indica is a common weed in the warmer regions of the world. In the Flora region, it usually grows in disturbed areas and lawns, and has been found in most states of the contiguous United States.</discussion>
+</bio:treatment>

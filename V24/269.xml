@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Bromus sect. Neobromus</name_authority_date>
+  </taxon_identification>
+  <description type="morphology"></description>
+  <discussion>This section includes one species, 33. Bromus berteroanus.</discussion>
+</bio:treatment>

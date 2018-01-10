@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>4.01</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>EHRHARTA Thunb.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; synoecious. Culms 6-200 cm, sometimes woody, erect to decumbent, sometimes branched above the base, usually pubescent; basal branching intravaginal. Leaves basal or basal and cauline; sheaths terete, open; auricles present, often ciliate; ligules 0.5-3 mm, truncate, membranous or of hairs; blades linear to lanceolate, sometimes disarticulating from the sheaths. Inflorescences racemes or panicles; primary branches spreading to ascending; disarticulation above the glumes, not between the florets. Spikelets 2-17 mm, solitary, pedicellate, terete or laterally compressed, with 3 florets, lower 2 florets sterile, at least the upper equaling or exceeding the distal floret, distal floret bisexual. Glumes from about 1/2 as long as to exceeding the florets, (3)5-7-veined. Sterile florets consisting only of lemmas; sterile lemmas firmer than the glumes, glabrous or pubescent, stipitate or non-stipitate, smooth to rugose, unawned or awned, lowest lemma often with lateral earlike appendages at the base, upper lemma subequal to or longer than the distal floret. Bisexual florets: lemmas often indurate at maturity, glabrous, 5-7-veined, keeled, unawned, sometimes mucronate; paleas thinner than the lemmas, l-2(5)-veined; anthers (1-5)6, yellow; styles 2, fused or free to the base, white or brown. Caryopses laterally compressed, x = 12.</description>
+  <discussion>Named for Jakob Friedrich Ehrhart (1742-1795), a German botanist of Swiss origin who studied under Linnaeus.</discussion>
+  <references>Gibbs Russell, G.E. 1991. Ehrharta Thunb. Pp. 121-129 in G.E. Gibbs Russell, L. Watson, M. Koekemoer, L. Smook, N.P. Barker, H.M. Anderson, and M.J. Dallwitz. Grasses of Southern Africa (ed. O.A. Leistner). National Botanic Gardens, Botanical Research Institute, Pretoria, Republic of South Africa. 437 pp.; Gibbs Russell, G.E. and R.P. Ellis. 1987. Species groups in the genus Ehrharta (Poaceae) in southern Africa. Bothalia 17:51-65; Jacobs, S.W.L. and S.M. Hastings. 1993. Ehrhata. Pp. 652-654 in G.J. Harden (ed.). Flora of New South Wales, vol. 4. New South Wales University Press, Kensington, New South Wales, Australia. 775 pp.</references>
+  <key>
+    <key_body>
+1. Upper glumes 3/4 - 9/10 the length of the spikelets; sterile lemmas hairy, not transversely rugose.....1. E. calycina
+1. Upper glumes less than 3/4 the length of the spikelets; sterile lemmas glabrous or sparsely hispidulous, often transversely rugose distally.
+2. Lower sterile lemmas unawned   .....2.E. erecta
+2. Lower sterile lemmas awned, the awns 2-20 mm long   .....3. E. longiflora
+    </key_body>
+  </key>
+</bio:treatment>

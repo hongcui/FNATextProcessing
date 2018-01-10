@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Poa sect. Homalopoa Dumort.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; densely to loosely tufted or with solitary culms, shoots usually neither rhizomatous nor stoloniferous, infrequently rhizomatous. Basal branching both intra-and extravaginal or mainly extravaginal. Culms 2-120 cm, terete or somewhat compressed; nodes terete or weakly compressed. Sheaths usually closed for 1/2-7/8 their length, sometimes only 1/20 – 1/10 their length, terete to distinctly compressed, smooth or scabrous; ligules 0.7-12 mm, milky white, smooth or scabrous, truncate to acuminate; innovation shoot blades similar to the cauline blades; cauline blades 0.6-15 mm wide, flat or folded, thin or moderately thick, lax or moderately straight, abaxial surfaces usually smooth, sometimes scabrous over the midvein, adaxial surfaces smooth or scabrous over the veins, margins scabrous, apices narrowly to broadly prow-shaped. Panicles (1)2-40 cm, erect or nodding to lax, contracted or open, sparse or congested, with 1-7 branches per node; branches erect to reflexed, terete or angled, angles smooth or scabrous, smooth or sparsely scabrous between angles. Spikelets (2)2.4-9 mm, laterally compressed, rarely bulbiferous; florets (1)2-7, usually normal, sometimes the anthers aborting, rarely bulb-forming. Glumes unequal to subequal, distinctly shorter than the adjacent lemmas, usually bisexual, distinctly keeled; lower glumes 1-3-veined; calluses terete or slightly laterally compressed, usually dorsally webbed, sometimes glabrous; lemmas 2-6 mm, narrowly to broadly lanceolate, distinctly keeled, glabrous or hairy, lateral veins obscure to prominent, margins milky white, apices obtuse to narrowly acute; palea keels scabrous, glabrous or hairy at midlength; anthers (1, 2) 3, usually 0.1-1.1(1.8) mm, sometimes 1.5-3 mm and then sometimes aborting late in development.</description>
+  <discussion>Poa sect. Homalopoa is the largest and most heterogeneous section of the genus, having at least 170 species, including many annuals and short-lived perennials. Most species are cespitose, have sheaths closed for 1/4 - 3/4 their length and anthers up to 1 mm long. The section is widespread in its distribution, growing almost everywhere the genus is native.
+Poa chaixii is the type species of Poa sect. Homalopoa. It and other Eurasian species of the section have chloroplast genome markers like those of morphologically similar North American species, especially P. occidentalis (p. 536). For this reason, the sectional circumscription has been enlarged to include these and other species that are not readily placed elsewhere.
+</discussion>
+</bio:treatment>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Arundo donax L. </name_authority_date>
+  </taxon_identification>
+  <common_names>GIANT REED</common_names>
+  <description type="morphology">Culms (2)3-10 m, in large tussocks or hedges. Leaves distichous;   ligules   0.4-1   mm; blades 30-100 cm long, 2-7(9) cm wide, with a wedge-shaped, light to dark brown area at the base. Panicles 30-60 cm long, to 30 cm wide. Spikelets 10-15 mm, with 2-4 florets. Glumes subequal, as long as the spikelets, thin, brownish or purplish, 3-veined, long-acuminate; lemmas 8-12 mm, 3-5-veined, pilose, hairs 4-9 mm, apices bifid, midvein ending into a delicate awn; paleas 3-5 mm, pilose at the base; anthers 2-3 mm. Caryopses 3-4 mm, oblong, light brown. 2n = 24, 100, 110.</description>
+  <discussion>Within the Flora region, Arundo donax grows in the  
+southern half of the contiguous United States, being found along ditches, culverts, and roadsides where water accumulates. It has been used extensively as a windbreak, and planted for erosion control on wet dunes. It is also grown for the ornamental value of its tall, leafy culms and large panicles, but its tendency to spread is sometimes a disadvantage. Cultivars with striped or unusually wide leaves, e.g., 'Variegata' and 'Macrophylla', are of horticultural interest but do not merit taxonomic recognition.
+Arundo donax has been used for thousands of years in making musical instruments, the stems being used for pipes and the tough inner rind for reeds in a wide variety of woodwind instruments. It is one of the species referred to as 'reed' in the Bible. It is still used in many parts of the world for house construction, lattice-work, mats, screens, stakes, walking sticks, and fishing poles.
+</discussion>
+</bio:treatment>

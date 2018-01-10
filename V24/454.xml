@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Elymus trachycaulus subsp. virescens (Lange) Á. Löve & D. Love </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 20-80 cm. Spikes 5-10 cm long, 0.5-0.8(1) cm wide, 2-sided; internodes 5-10 mm. Spikelets usually with the bases concealed. Glumes 9.5-13.5 mm, 1 vein scabrous over most of its length, the basal 1/4 usually smooth, the remaining veins scabrous or smooth, awned, awns 1.5-2 mm; lemmas awned, awns 2.5-10 mm, often curved.</description>
+  <discussion>Elymus trachycaulus subsp. virescens is restricted to Greenland. It is very consistent in its morphology.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>13</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Agrostis idahoensis Nash </name_authority_date>
+  </taxon_identification>
+  <common_names>IDAHO REDTOP</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous or stoloniferous. Culms 8-40 cm, slender, erect, with 2-5 nodes. Leaves mostly basal; sheaths usually smooth, sometimes scabridulous, not inflated; ligules (0.7)1-3.8 mm, dorsal surfaces scabridulous, apices rounded to truncate, rarely acute, erose to lacerate; blades 1-7 cm long, 0.5-2 mm wide, flat, becoming involute. Panicles 3-13 cm long, 1-6(8) cm wide, lanceolate to ovate, diffuse, exserted from the upper sheaths at maturity, lowest node with 1-6(10) branches; branches scabridulous, fairly stiff, more or less ascending, branching at or above midlength, spikelets not crowded, frequently solitary, lower branches 1-4 cm; pedicels 0.5-6.4 mm. Spikelets lanceolate to narrowly ovate, purplish. Glumes subequal, 1.5-2.5 mm, 1-veined, usually scabrous to scabridulous, upper glumes sometimes smooth, apices acute to acuminate; callus hairs to 0.3 mm, sparse; lemmas 1.2-2.2 mm, usually smooth, sometimes scabridulous, translucent to opaque, 5-veined, veins usually prominent at least distally, sometimes obscure, apices acute to obtuse, entire, unawned; paleas absent, or to 0.2 mm and thin; anthers 3, 0.3-0.6 mm. Caryopses 1-1.3 mm. 2n = 28.</description>
+  <discussion>Agrostis idahoensis grows in western North America, from British Columbia to California and New Mexico, in alpine and subalpine meadows along wet seepage areas and bogs, and in wet openings with Sphagnum in coniferous forests. It was recently discovered in Chile and Argentina; it is not known whether it is native or introduced there (Rugolo de Agrasar and Molina 1997). Agrostis idahoensis is often confused with A. mertensii (p. 644) and dwarf forms of A. scabra (p. 646), both of which tend to grow in better-drained habitats.</discussion>
+</bio:treatment>

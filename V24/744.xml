@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa arctica R. Br. subsp. arctica </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants usually loosely, sometimes densely, tufted, rhizomatous, rhizomes short or long, well developed. Ligules (1)2-4 mm, obtuse to acute; blades 1.5-2.5(3) mm wide, flat or folded, thin and soon withering, flag leaf blades 0.7-5.5 cm. Panicles lax to erect, open; branches ascending or widely spreading, sinuous and flexuous to fairly straight, smooth or sparsely scabrous, proximal branches 2/5 – 3/5 the panicle length. Spikelets (3.5)4.5-6(7) mm, infrequently bulbiferous; rachilla internodes usually glabrous, infrequently sparsely softly puberulent to long-villous; calluses sparsely to copiously webbed; lemmas (2.7)3-4.5 mm; palea keels puberulent to long-villous at midlength, intercostal regions usually hairy, sometimes glabrous; anthers usually fully developed, except in the high arctic. 2n = 56, 60, 62, 63, 64, 65, 68, 70, 72, 74, 75, 76, 77, 78, 79, 80, 82, ca. 83, 84, 85, 88, 106.</description>
+  <discussion>Poa arctica subsp. arctica is polymorphic and circumpolar. It grows in alpine and tundra habitats as far south as Wheeler Peak, New Mexico. Bulbiferous plants are known from alpine habitats in Alaska and British Columbia.
+Poa arctica subsp. arctica has tougher leaves, and is less densely hairy between the lemma veins and palea keels, than subsp. aperta. It often grows with subsp. lanata, but can be distinguished by its smaller and, usually, more numerous spikelets and narrower leaves. Paleas that are glabrous between the keels are frequent in plants from the Rocky Mountains. Such plants have been called P. longipila Nash, but do not merit recognition. Hulten (1942) recognized several variants within subsp. arctica; they are of ecotypic significance at best.</discussion>
+</bio:treatment>

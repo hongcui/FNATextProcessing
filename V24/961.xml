@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sesleria caerulea (L.) Ard. </name_authority_date>
+  </taxon_identification>
+  <common_names>BLUE MOORGRASS</common_names>
+  <description type="morphology">Plants densely cespitose, shortly rhizomatous, glaucous. Culms to 40(60) cm, erect, stiff, strongly grooved, glabrous; nodes 4-6. Leaves mostly basal; sheaths grooved, glabrous, keeled distally, basal sheaths persistent, pubescent, disintegrating at maturity; ligules 0.3-0.5 mm, erose, often finely ciliate; blades of innovations and lower cauline leaves to 40 cm long, 2-4 mm wide, flat or slightly involute, divergent, apices rounded and slightly hooded, adaxial surfaces glaucous, particularly when young, midveins prominent, particularly basally, margins scabrous; blades of flag leaves 0.5-2.5 cm long, 2-4 mm wide. Panicles (0.9)1.2-1.4(2.4) cm long, 5-8(12) mm wide, dense, usually spherical or ovoid, usually purplish, branches with 1-2 spikelets; pedicels 0.5-1 mm, scabrous; bracts 2, 2-4 mm long, equally broad, erose. Spikelets 4-6 mm, with (2)3 florets, usually purplish, rarely stramineous. Glumes 4-5 mm, ovate, hyaline, mostly glabrous, margins ciliate, particularly distally, midveins with stiff hairs, apices acute, awns to 1.5 mm; lemmas 3.5-5 mm, hyaline, ovate, midveins and marginal veins hairy at least distally, hairs about 0.1 mm, appressed hairy between the veins, midveins forming 0.2-2 mm teeth, lateral veins forming 0.1-0.4 mm teeth; paleas as long as the lemmas, margins and keels hairy distally, hairs about 0.1 mm, veins forming awnlike apices to 2.3 mm; anthers about 2.3-3.2 mm. Caryopses about 2 mm, obovoid, hairy distally. 2n = 28.</description>
+  <discussion>Sesleria caerulea is native to Europe, ranging from central Sweden to northwestern Russia and central Bulgaria. It usually grows in moist to wet, calcareous pastures and bogs. It is grown as an ornamental in the Flora region.</discussion>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>22</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Calamagrostis montanensis (Scribn.) Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>PLAINS REEDGRASS</common_names>
+  <description type="morphology">Plants with sterile culms; ces¬pitose, with rhizomes 6+ cm long, 1-2 mm thick. Culms 15-50(54) cm, unbranched, usually scabrous, rarely smooth; nodes 1-2. Sheaths and collars smooth or slightly scabrous; ligules (1)2-3 mm, obtuse to acute, more or less lacerate; blades (5)8-19(23) cm long, (1)2-3(4) mm wide, usually involute, seldom reaching the panicles, abaxial surfaces scabrous, adaxial surfaces usually scabrous, rarely smooth, glabrous or sparsely hairy. Panicles 4-9(14) cm long, (0.7)1-2(3.5) cm wide, erect, contracted and not or only slightly interrupted, yellowish green with a light purple tinge; branches 1.3-3(3.7) cm, sparsely short-scabrous to densely long-scabrous, spikelet-bearing to the base. Spikelets (3)3.5-4.5(7) mm; rachilla prolongations about 1 mm, densely bearded, hairs to 2 mm. Glumes keeled, smooth or scabrous throughout, lateral veins usually somewhat obscure, rarely prominent, apices acute to acuminate, rarely awn-tipped; callus hairs (1)1.5-2(2.5) mm, 0.4-0.8 times as long as the lemmas, abundant; lemmas (2.5)3-3.5(5.5) mm, 0.5-1(2) mm shorter than the glumes; awns (1)2-3(4) mm, usually attached to the lower 1/10 – 2/5 of the lemmas, rarely above the middle, sometimes slightly exserted, stout, distinguishable from the callus hairs, slightly bent; anthers (1.1)1.8-2.4(3) mm. 2n = 28.
+ 
+</description>
+  <discussion>Calamagrostis montanensis inhabits prairie grass¬lands and sagebrush flats, benchlands, valley bottoms, and occasionally woodlands, at 200-2600 m. It grows in the continental interior from eastern British Columbia (near Fort St. John and Invermere) and adjacent Alberta, south to southern Wyoming and east to Manitoba and western Minnesota. It has also been reported from Peace Point in Wood Buffalo National Park in northeastern Alberta, but this report has not been verified. Calamagrostis montanensis may be mistaken for C. purpurascens (p. 710), but the latter species has hairy adaxial leaf surfaces and longer awns.</discussion>
+</bio:treatment>

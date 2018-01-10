@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subgenus</rank>
+    <name_authority_date>Setaria subg. Reverchoniae W.E. Fox</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial. Culms tufted, erect. Blades to 7 mm wide, not plicate. Panicles narrow, erect, more or less interrupted; rachises scabrous; branches short and appressed; ultimate branchlets with 1-several, randomly disposed spikelets, terminal spikelets subtended by a single bristle; bristlesl-6 mm, glabrous. Spikelets 2.1-4.5 mm; lower florets usually without paleas; upper lemmas and paleas finely and transversely rugose.</description>
+  <discussion>Setaria subg. Reverchoniae is a monotypic subgenus with a range that extends from western New Mexico and southern Oklahoma through western Texas to northeastern Mexico. It usually differs from subg. Paurochaetium in the random disposition and larger size of the spikelets and, usually, in the absence of the lower palea.</discussion>
+</bio:treatment>

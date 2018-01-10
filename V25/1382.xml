@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Anthephora hermaphrodita (L.) Kuntze </name_authority_date>
+  </taxon_identification>
+  <common_names>OLDFIELD GRASS</common_names>
+  <description type="morphology">Plants annual. Culms erect or decumbent, sometimes rooting at the lower nodes, branching from the base. Sheaths densely to sparsely pubescent, hairs papillose-based; ligules 1.5-3 mm, brownish, entire or dentate, not ciliate; blades 4-17 cm long, 2-8 mm wide, flat, pubescent on both surfaces. Panicles 4-12 cm long, 5-8 mm wide, with 20-60 fascicles; fascicles 5-7.5 mm; bracts 4-7 mm, scabrous. Fertile spikelets 3.5-4.5 mm, ovoid, scabrid between the veins, acute; upper lemmas 3.7-4 mm, glabrous, margins overlapping the edges of the palea. Caryopses about 2 mm. 2n = 18.</description>
+  <discussion>Anthephora hermaphrodita is a weedy species, native to maritime beaches, lowland pastures, and disturbed areas from Mexico and the Caribbean Islands to Peru and Brazil. It is now established in Alachua County, Florida, having escaped from plantings at the Experiment Station of the University of Florida, Gainesville.</discussion>
+</bio:treatment>

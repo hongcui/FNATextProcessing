@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>13.14</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>xELYLEYMUS B.R. Baum</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; sometimes rhizomatous. Culms 40-235 cm, erect. Inflorescences usually spikes, sometimes spikelike racemes, 5-35 cm, erect, with 1-3 spikelets per node, pedicels, when present, to 3 mm. Spikelets with 2-8 florets; disarticulation usually above the glumes and beneath the florets, sometimes below the glumes, sometimes in the rachises, usually tardy. Glumes linear to lanceolate, often awn-tipped; lemmas 6-25 mm, glabrous or hairy, usually awned, awns to 15 mm; anthers 1.5-5 mm.</description>
+  <discussion>xElyleymus consists of hybrids between Elymus and Leymus. So far as is known, they are completely sterile, having thin anthers (usually less than 0.5 mm thick) and failing to develop mature caryopses. Only the named hybrids are accounted for below. Each of the entities appears to be distinct, but identification of the parents is, in some instances, tentative. The descriptions are offered with considerable reservation, some being based solely on the type material. All the illustrations are based on type specimens.
+The hybrids fall into two groups. Those with Leymus mollis as the Leymus parent (species 7-11) tend to have wider and flatter glumes than those with one of the inland species of Leymus as the Leymus parent.
+Unless stated otherwise, measurements of the spikes include the awns; measurements of the spikelets, glumes, and lemmas do not. No attempt has been made to develop distribution maps.
+</discussion>
+  <references>Barkworth, M.E. 2006. A new hybrid genus and 12 new combinations in North American grasses. Sida 22:495-501; Bowden, W.M. 1959. Chromosome numbers and taxonomic notes on northern grasses: I. Tribe Triticeae. Canad. J. Bot. 37:1143-1151; Bowden, W.M. 1967. Cytotaxonomy of intergeneric hybrids of the tribe Triticeae from North America. Canad. J. Bot. 45:711-724; Dewey, D.R. and A.H. Holmgren. 1962. Natural hybrids of Elytnus cinereus and Sitanion hystrix. Bull. Torre) Bot. Club 89:217-228; Lepage, E. 1952. Etudes sur quelques plantes americaines: II. Hybrides intergeneriques; Agrohordeum et Agroelymus. Naturaliste Canad. 79:241-266.</references>
+</bio:treatment>

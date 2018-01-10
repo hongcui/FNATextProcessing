@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>17.50</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>AEGOPOGON Humb. & Bonpl. ex Willd.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; synoecious; tufted, cespitose, or sprawling. Culms 2-30 cm. Sheaths open; ligules membranous; blades flat. Inflorescences terminal, racemelike, 1-sided panicles, usually exceeding the upper leaves; branches 0.4-0.8 mm, not appressed to the rachis, with 3 spikelets, bases sharply curved, strigose, axes not extending beyond the distal spikelets; disarticulation at the base of the branches. Spikelets with 1 floret; lateral spikelets pedicellate, staminate or sterile, varying from rudimentary to as large as the central spikelet; central spikelets sessile or pedicellate, laterally compressed, bisexual. Glumes exceeded by the florets, cuneate, truncate to bilobed, 1-veined, awned from the midveins, sometimes also from the lateral lobes; lemmas 3-veined, central veins and sometimes the lateral veins extended into awns, central awns always the longest; paleas almost as long as the lemmas, 2-keeled, 2-awned; lodicules 2; anthers 3; styles 2. Caryopses about twice as large as the embryos; hila punctate, x = 10. </description>
+  <discussion>Aegopogon is an American genus of four species that extends from the southwestern United States to Peru, Bolivia, and northern Argentina. One species is native in the Flora region.</discussion>
+  <references>Beetle, A.A. 1948. The genus Aegopogon Humbold. & Bonpl. Univ. Wyoming Publ. 13:17-23.</references>
+</bio:treatment>

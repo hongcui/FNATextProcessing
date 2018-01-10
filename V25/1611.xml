@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Schizachyrium scoparium var. divergens (Hack.) Gould</name_authority_date>
+  </taxon_identification>
+  <common_names>PINEHILL BLUESTEM</common_names>
+  <description type="morphology">Plants cespitose. Culms 7-180 cm. Sheaths densely tomentose initially, sometimes glabrate, margins usually pilose distally; blades 12-30 cm long, 3.5-5 mm wide; initially densely tomentose, becoming glabrous. Rames 3-5 cm, with 7-12 spikelets, usually partially to wholly exserted, sometimes appearing linear; internodes 3.5-6 mm, often sparsely pubescent, hairs 1.5-3 mm. Sessile spikelets 6-10 mm; calluses about 0.3 mm, hairs to 2 mm; awns 9-15 mm. Pedicels 3.5-6.5 mm, curving out at maturity. Pedicellate spikelets on the proximal portion of the rames 5-10 mm, mostly staminate, with lemmas, distal spikelets often smaller (1-4 mm) and sterile, unawned or awned, awns to 2 mm.</description>
+  <discussion>Schizachyrium scoparium. var. divergens is common in the south central pinelands of the United States. The pubescence of the leaves varies across its range, western plants having longer and more villous leaves than those in the east and, towards Mississippi, the pubescence is confined to the sheaths. Schizachyrium scoparium var. divergens intergrades with var. scoparium.
+Grelen (1974) found that plants of S. scoparium var. divergens from western Louisiana, Oklahoma, and Arkansas produced mostly staminate pedicellate spikelets, plants from southeastern Louisiana and south-eastern Mississippi produced mostly sterile pedicellate spikelets, and plants from western Mississippi varied in this character.
+</discussion>
+</bio:treatment>

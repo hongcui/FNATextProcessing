@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>xElyleymus aristatus (Merr.) Barkworth & D.R. Dewey </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants not or shortly rhizomatous. Culms 60-130 cm, glabrous. Leaves evenly distributed on the culms; sheaths smooth, glabrous; auricles poorly developed, to 0.5 mm; ligules 1-2.5 mm, scarious, rounded; blades about 5.5 mm wide, abaxial surfaces glabrous, mostly smooth, scabrous near the margins, adaxial surfaces scabridulous, primary veins separated by about 3 secondary veins. Inflorescences spikes, 6-15 cm long, 10-15 mm wide including the awns, 7-10 mm wide excluding the awns, erect, with 2-3 sessile or subsessile spikelets per node; internodes 4-7 mm, concealed by the spikelets;  disarticulation tardy, in the rachises and beneath the florets. Spikelets 10-20 mm excluding the awns, to 18 mm including the awns, with 3-4 florets. Glumes 8-15 mm long, 0.3-0.5 mm wide, subequal to unequal, scabrous; lemmas 7.5-12 mm, glabrous, smooth or scabrous, sometimes only scabrous distally, midveins prominent and scabrous distally, awns 4-5 mm; anthers 2.2-2.4 mm.</description>
+  <discussion>Dewey and Holmgren (1962) argued that xElyleymus aristatus comprises hybrids between Elymus elymoides and Leymus cinereus or L. triticoides. It has been found at many locations where the parents are sympatric.</discussion>
+</bio:treatment>

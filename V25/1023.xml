@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>24</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aristida simpliciflora Chapm. </name_authority_date>
+  </taxon_identification>
+  <common_names>SOUTHERN THREEAWN</common_names>
+  <description type="morphology">Plants perennial; loosely cespitose. Culms 30-80 cm, loosely branched below; internodes hollow. Leaves cauline, mostly glabrous; sheaths shorter than the internodes, remaining intact at maturity; ligules about 0.1 mm; blades 5-15 cm long, 0.8-1.5 mm wide, usually flat, those of the innovations often sparsely pilose. Inflorescences narrowly racemose, 10-30 cm long, 1-2 cm wide, often nodding; nodes glabrous; lower pedicels appressed. Spikelets usually 2(1-3) per node, 1 sessile or short-pedicellate and 1 long-pedicellate. Glumes 6-9 mm, subequal, tan to purplish, 1-2-veined, acute to awn-tipped, awns 0.5-1.5 mm; lower glumes frequently 2-keeled; calluses 0.4-0.6 mm; lemmas 5-6 mm, light tan to lead-colored, column not twisted, junction with the awns not conspicuous; awns not disarticulating at maturity; central awns 10-15 mm, about twice as thick as the lateral awns, reflexed from a semicircular bend; lateral awns equal to or slightly shorter than the central awns, divaricate and slightly contorted at the base; anthers 3, 2-3 mm, tan to brown. Caryopses 4-5 mm, chestnut-colored. 2n = unknown.</description>
+  <discussion>Aristida simpliciflora grows in wet savannahs, the upper portion of seepage bogs, and the moister portion of ecotones between such bogs and the surrounding dry uplands. It is restricted to the southeastern United States. Aristida simpliciflora is sometimes confused with A. mohri because both have reduced, spikelike inflorescences, but A. mohri has lateral awns that are about as thick as the central awn, and its spikelets are solitary.</discussion>
+</bio:treatment>

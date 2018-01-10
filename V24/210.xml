@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Stipa pulcherrima K. Koch </name_authority_date>
+  </taxon_identification>
+  <common_names>BEAUTIFUL FEATHERGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 40-100 cm, glabrous or pubescent below the panicles. Sheaths longer than the internodes, smooth, mostly glabrous, margins sometimes ciliate; ligules 0.5-2 mm on the innovations, to 9 mm on the cauline leaves, stiffly membranous, pubescent, entire to erose; blades 2-5 mm wide when flat, 0.3-0.9(1.5) mm in diameter if involute, abaxial surfaces glabrous, smooth or scabrous, adaxial surfaces glabrous, scabrous, or hirsute, hairs to 0.6 mm. Panicles 10-15 cm, contracted, usually partially enclosed in the upper sheath; branches appressed to ascending, with 1-4 spikelets. Glumes 60-80(90) mm, long-attenuate, mostly hyaline; florets (18)20-27 mm; calluses 3-6 mm; lemmas with lines of hair over the veins and marginal veins, lines over the marginal veins longest, extending to the lemma apices; awns (250)300-500 mm, twice-geniculate, first 2 segments glabrous or hairy, hairs to 2 mm, terminal segment plumose, hairs 5-6 mm, spreading; paleas subequal to the lemmas, usually hairy on the keels, apices scarious; anthers 5-10 mm, not penicillate, yellowish or purplish; styles 2. Caryopses 10-18 mm. 2n = 44.</description>
+  <discussion>Stipa pulcherrima is native from France and Germany to Armenia, Azerbaijan, Turkey, and Iran. Freitag (1985) regarded it as a subspecies of S. pennata L. Its long, plumose awns make it a striking ornamental.</discussion>
+</bio:treatment>

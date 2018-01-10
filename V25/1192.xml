@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Dichanthelium chamaelonche subsp. breve (Hitchc. & Chase) Freckmann & Lelong</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 5-20 cm, glabrous or puberulent. Sheaths puberulent or glabrous; blades strongly involute, often arcuate, puberulent or glabrous on both surfaces. Primary panicles usually barely exserted above the dense basal tuft of blades. Spikelets 1.3-1.5 mm, puberulent. 2n = unknown.</description>
+  <discussion>Dichanthelium  chamaelonche subsp.  breve grows only in peninsular Florida.</discussion>
+</bio:treatment>

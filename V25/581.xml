@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Digitaria pubiflora (Vasey) Wipff </name_authority_date>
+  </taxon_identification>
+  <common_names>WESTERN WITCHGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, with or without rhizomes. Culms 20-70 cm, erect; nodes glabrous or pubescent . Leaves mainly cauline; sheaths glabrous or sparsely to densely pubescent, sometimes with papillose-based hairs; ligules 0.5-2.2 mm, entire to lacerate; blades 1.3-7.7 cm long, 1.5-4.7 mm wide, glabrous or sparsely to densely pubescent. Panicles simple, 4.5-20 cm long, 5.5-31 cm wide, open; branches divergent; lower primary branches 3.6-17.7 cm, often with 1-several sterile branches near the base; pedicels divergent, spikelets solitary. Spikelets 2.3-3.3 mm long, 0.6-1 mm wide, narrowly elliptic. Lower glumes 0.1-0.4 mm; upper glumes 1.8-2.9 mm, 3-veined, densely pubescent between the veins, hairs white, becoming purple at maturity; lower lemmas similar to the upper glumes in length, texture, and pubescence, 5-veined, veins equidistant; upper lemmas 1.9-2.6 mm, glabrous, dark brown, narrowly acute; anthers 0.3-0.5 mm, yellow, red, or purple. Caryopses 1.3-1.6 mm. 2n = (36), 72.</description>
+  <discussion>Digitaria pubiflora grows in dry, sandy or rocky soils from Arizona to central Texas and south to central Mexico.
+ 
+</discussion>
+</bio:treatment>

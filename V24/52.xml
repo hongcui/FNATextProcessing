@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Zizania palustris L. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual. Culms to 3 m, erect, usually at least partly immersed. Sheaths glabrous or with scattered hairs; ligules 3-16 mm, upper ligules trun¬cate, lanceolate or triangular, erose; blades 20-60 cm long, 3-21(40+) mm wide, glabrous, margins glabrate or scabrous. Panicles 24-60 cm long, 1-20(40) cm wide; branches unisexual. Staminate branches ascending or divergent; pedicel apices 0.2-0.4 mm wide. Staminate spikelets 6-17 mm, lanceolate, acuminate or awned, awns to 2 mm. Pistillate branches mostly appressed or ascending, a few sometimes divergent; pedicel apices 0.7-1.2 mm wide. Pistillate spikelets 8-33 mm long, 1-2.6 mm wide, lanceolate or oblong, coriaceous or indurate, lustrous, glabrous or with lines of short hairs, apices usually hirsute and abruptly narrowed, awned, awns to 10 cm; lemmas and paleas remaining clasped at maturity; aborted pistillate spikelets 0.6-2.6 mm wide. Caryopses 6-30 mm long, 0.6-2 mm wide. 2n = 30.</description>
+  <discussion>Zizania palustris grows mostly to the north of Z. aquatica, but the two species overlap in the Great Lakes region, eastern Canada, and New England. It is cultivated as a crop in some provinces and states, with California being the largest producer. All records from the western part of the Flora region reflect deliberate plantings; none are known to have persisted. In cultivated strains, the pistillate spikelets remain on the plant at maturity.</discussion>
+  <key>
+    <key_body>
+1. Lower pistillate branches with 9-30 spikelets; pistillate part of the inflorescence 10-40 cm or more wide, the branches ascending to widely divergent; plants 1-3 m tall; blades 10-40+ mm wide  .....var. interior
+1. Lower pistillate branches with 2-8 spikelets; pistillate part of the inflorescence 1-8(15) cm wide, the branches appressed or ascending, or a few branches somewhat divergent; plants to 2 m tall; blades 3-21 mm wide  .....var. palustris
+    </key_body>
+  </key>
+</bio:treatment>

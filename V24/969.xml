@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Cynosurus cristatus L. </name_authority_date>
+  </taxon_identification>
+  <common_names>CRESTED DOGTAIL, CYNOSURE ACCRÊTÉ, CRÉTELLE DES PRÉS</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms (5)15-75 (90) cm. Sheaths smooth, glabrous; ligules 0.5-2.5 mm, truncate, erose or ciliolate; blades 3-15(19) cm long, 0.5-2(4.3) mm wide, glabrous or pubescent. Panicles (1) 3.5-14 cm long, 0.4-1 cm wide, linear, spikelike, unilateral. Spikelets 3-7 mm, subsessile or shortly pedicellate, pedicels to 1 mm. Sterile spikelets strongly laterally compressed, with 6-11(18) florets; glumes and lemmas similar, linear-lanceolate, keeled, keels ciliate, apices acuminate to awned, awns to 1 mm. Fertile spikelets with 2-5 florets, glumes and lemmas dissimilar; glumes 2.8-5.1 mm long, 0.6-0.9 mm wide, 1-veined, laterally compressed, hyaline, keeled, acute; rachilla internodes 0.4-0.6 mm; lemmas 3-4.5 mm long, 0.6-1.1 mm wide, dorsally compressed, membranous to subcoriaceous, not keeled, margins hyaline, ciliolate, apices obtuse to acute, unawned or awned, awns to 3 mm; anthers 1.8-3 mm. 2n = 14.</description>
+  <discussion>Cynosurus cristatus is a European native that is now established in North America. It grows in a wide range of soils in dry or damp habitats. In Europe it is used for fodder and pasture, especially for sheep, but in North America it is regarded as a weedy species. It is self-incompatible.
+ 
+</discussion>
+</bio:treatment>

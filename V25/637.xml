@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Echinochloa paludigena Wiegand </name_authority_date>
+  </taxon_identification>
+  <common_names>FLORIDA BARNYARD GRASS</common_names>
+  <description type="morphology">Plants annual. Culms to 150 cm, erect. Sheaths glabrous; ligules absent; blades 15-60 cm long, 8-20 mm wide, scabrous adaxially. Panicles 8-40 cm, erect to slightly drooping, rachis nodes hispid, hairs papillose-based; primary branches 2-19 cm, erect to spreading, often widely spaced, longer branches with secondary branching. Spikelets 3.3-4.5 mm long, 2.4-2.6 mm wide, disarticu-lating at maturity, greenish or purplish, scabrous and hispid, hairs to 1 mm, often papillose-based. Upper glumes about as long as the spikelets; lower florets staminate; lower lemmas usually awned, awns 1-15 mm, purplish; lower paleas well-developed; upper lemmas broadly ovate, narrowing abruptly to the acute or acuminate apices; anthers of upper florets 1.2-1.7 mm. Caryopses 1.5-1.8 mm. 2n = unknown.</description>
+  <discussion>Echinochloa paludigena is native to swamps, river-banks, and other wet habitats. Reports from Texas and Louisiana appear to be based on misidentifications; Wunderlin (1988) considers E. paludigena as a Florida endemic.</discussion>
+</bio:treatment>

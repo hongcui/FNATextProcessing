@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Bromus carinatus var. marginatus (Nees) Barkworth & Anderton </name_authority_date>
+  </taxon_identification>
+  <common_names>MOUNTAIN BROME</common_names>
+  <description type="morphology">Plants perennial. Culms 45-120(180) cm tall. Sheaths usually sparsely retrorsely pilose throughout, ranging from densely pilose to glabrous, except at the throat, throats always pilose; auricles sometimes present on the lower leaves; ligules 1-3.5 mm, sparsely hairy, acute to obtuse, erose or lacerate; blades 8-25 cm long, 1-12 mm wide, flat or involute, glabrous or sparsely pilose to pubescent on 1 or both surfaces. Panicles 5-20(30) cm, erect; lower branches 1-4 per node, erect or ascending. Spikelets with 4-9 florets. Lower glumes 7-11 mm, 3-7(9)-veined; upper glumes 9-13 mm, 5-9(ll)-veined; lemmas 10-14(17) mm, pubescent on the backs and margins, on the margins only, or glabrous, 7-9-veined; awns 4-7 mm; anthers 1-6 mm. 2n =42.</description>
+  <discussion>Bromus carinatus var. marginatus is primarily an inland species and grows on open slopes, grass balds, shrublands, meadows, and open forests, in montane and subalpine zones. It grows from British Columbia to Saskatchewan, south throughout the western United States, and also extends into northern Mexico. Its elevational range is 350-2200 m in the northern part of its distribution, and 1500-3300 m in the south.
+ 
+Bromus carinatus var. marginatus is variable and intergrades with B. carinatus var. carinatus to the west, B. aleutensis to the north, and B. polyanthus to the southeast. As treated here, B. carinatus var. marginatus includes B. luzonensis J. Presl, which has been recognized mainly on the basis of its canescent sheaths and blades; this trait is highly variable and may be environmentally determined. Although the name Bromus carinatus var. marginatus was attributed to Hitchcock by Scoggan, there is no evidence that either A.S. or C.L. Hitchcock actually made the combination.
+</discussion>
+</bio:treatment>

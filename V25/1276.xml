@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Panicum rigidulum Bosc ex Nees subsp. rigidulum</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 40-150 cm, rather robust. Sheaths with the throat usually glabrous or sparsely pilose on the sides; ligules 0.3-1 mm, membranous; blades usually 5-12 mm wide, flat, mostly glabrous or scabridulous, bases about equal in width to the subtending sheaths. Panicles terminal and axillary, usually with many spikelets. Spikelets 1.6-2.5 mm long, usually over 0.6 mm wide, crowded, green or purplish-tinged, pedicellate, pedicels short, with 1-several slender hairs near the apices.</description>
+  <discussion>Culms 40-150 cm, rather robust. Sheaths with the throat usually glabrous or sparsely pilose on the sides; ligules 0.3-1 mm, membranous; blades usually 5-12 mm wide, flat, mostly glabrous or scabridulous, bases about equal in width to the subtending sheaths. Panicles terminal and axillary, usually with many spikelets. Spikelets 1.6-2.5 mm long, usually over 0.6 mm wide, crowded, green or purplish-tinged, pedicellate, pedicels short, with 1-several slender hairs near the apices.</discussion>
+</bio:treatment>

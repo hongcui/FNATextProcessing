@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bouteloua rigidiseta (Steud.) Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>TEXAS GRAMA</common_names>
+  <description type="morphology">Plants perennial; cespitose, without rhizomes or stolons, forming dense, small clumps. Culms 10-50 cm, erect, unbranched. Sheaths smooth, striate; ligules 0.2-0.3 mm, membranous, ciliate; blades 4-12(17) cm long, 1-2 mm wide, abaxial surfaces sparsely short pubescent, bases with papillose-based hairs on the margins, similar hairs also present on both surfaces. Panicles 3-6 cm, with 6-8 branches; branches 8-16 mm, hairy, becoming more sparsely so distally, with 2-6 spikelets, axes terminating beyond the base of the terminal spikelets, apices deeply bi- or trifurcate; disarticulation at the base of the branches. Spikelets appressed, all alike, with 1 bisexual and 1-2 rudimentary florets. Glumes lanceolate, veins pubescent, apices acuminate; lower glumes 3-4 mm; upper glumes about 6 mm, pubescent over the veins, hairs about 0.7 mm, apices bilobed, awned from the sinuses; lowest lemmas 2.5-4 mm, glabrous or sparsely pubescent on the veins, 3-awned, awns wide basally, forming 3 triangular lobes, central awns flanked by 2 membranous 0.5-1.5 mm lobes; lowest paleas 4-5 mm, bilobed, veins often excurrent; second lemmas glabrous, 3-awned, awns 5-10 mm; second paleas 2-lobed, unawned; third lemmas similar to the second lemmas but smaller and without paleas. Caryopses (2) 3.5-3.7 mm. 2n = 40.</description>
+  <discussion>Bouteloua rigidiseta grows in grassy pastures and openings in woods, usually in clay or sandy clay soils, from near sea level to approximately 700 m. It is both widespread and abundant within its range, which extends from the southern United States to northern Mexico, but has little value as a forage grass. It is one of the earliest flowering warm season grasses. Although similar to B. eludens, B. rigidiseta differs in its geographic distribution and glume pubescence, so the two taxa are unlikely to be confused in the field.</discussion>
+</bio:treatment>

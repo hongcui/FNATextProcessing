@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>62</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia rigens (Benth.) Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>DEERGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms (35)50-150 cm tall, to 5 mm thick near the base, stiffly erect, not rooting at the lower nodes; internodes glabrous. Sheaths longer than the internodes, smooth or scabridulous, rounded dorsally, bases somewhat flat and chartaceous; ligules 0.5-2(3) mm, firm, truncate, usually ciliolate; blades 10-50 cm long, 1.5-6 mm wide, flat or involute, stiff, glabrous abaxially, scabrous adaxially. Panicles 15-60 cm long, 0.5-1.2 cm wide, spikelike, dense, grayish-green, often interrupted below; primary branches 0.2-4 cm, appressed; pedicels 0.2-3 mm, hispidulous, strongly divergent. Spikelets 2.4-4 mm. Glumes subequal, 1.8-3.2 mm, almost as long as the florets, scabrous to scabridulous, 1-veined, usually acute or obtuse, occasionally acuminate or notched, occasionally mucronate, mucros to 0.6 mm; lemmas 2.4-4 mm, lanceolate, pubescent on the calluses, lower 1/6 of the margins, and midveins, hairs to 0.4 mm, apices scabrous, acute or obtuse, unawned, rarely mucronate, mucros to 1 mm; paleas 2.3-3.8 mm, lanceolate, acute; anthers 1.3-1.8 mm, yellow to purple. Caryopses 1.8-2.2 mm, fusiform, brownish. 2n = 40.</description>
+  <discussion>Muhlenbergia rigens grows in sandy washes, gravelly canyon bottoms, rocky drainages, and moist, sandy slopes, often along small streams, at elevations of 90-2500 m. Its geographic range extends to central Mexico. It is available commercially as an ornamental. Muhlenbergia rigens is similar to M. dubia, but differs in having tighter, spikelike panicles, shorter ligules, yellow or purplish anthers, and shorter lemmas.</discussion>
+</bio:treatment>

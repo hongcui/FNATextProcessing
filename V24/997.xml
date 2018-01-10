@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Amphibromus nervosus (Hook, f.) Baill. </name_authority_date>
+  </taxon_identification>
+  <common_names>COMMON SWAMP WALLABYGRASS</common_names>
+  <description type="morphology">Plants perennial; usually cespitose, occasionally rhizomatous. Culms 30-125 cm tall, 1-3 mm thick, erect, terete to flattened, glabrous; nodes 2-5; lowest internodes not swollen. Sheaths smooth or scabrid-ulous, ribbed; ligules 10-20 mm, acute to acuminate; blades 10-30 cm long, 1.5-3.5 mm wide, flat or involute, smooth to scabrous, abaxial surfaces scabridulous, adaxial surfaces deeply ribbed, scabrous. Terminal panicles 15-40 cm, erect, sparse, the lower portion sometimes partially enclosed in the uppermost sheaths; branches usually 7-15 cm, ascending or appressed, often flexuous; pedicels usually 10-20 mm. Spikelets 10-16 mm, with 4-6 florets. Glumes unequal to subequal, green, sometimes purplish in the center, with hyaline margins; lower glumes 2.5-5.5 mm, 3-5-veined; upper glumes 3-6.5 mm, 3-5-veined; lemmas 5-7.2 mm, 5-7-veined, scabrous, apices not appearing constricted, usually 4-toothed, 2 lateral teeth smaller than the 2 central teeth, awned from the lower 2/5 – 3/5 of the lemmas, awns 12-22 mm, geniculate and twisted; paleas 3/4  as long as to subequal to the lemmas, papillose; anthers of chasmogamous florets 2.2-3 mm, those of cleistogamous florets 0.3-1.4 mm. 2n = unknown.</description>
+  <discussion>Amphibromus nervosus is the most common species in the genus. It has frequently been misidentified as A. neesii, but has a lower awn insertion. Such misidentification is the basis of the report of A. neesii in North America; examination of the voucher specimens showed them to be A. nervosus. They were collected in 1990 from a vernal pool in Sacramento County, California. Its seeds had been found earlier as a contaminant in Trifolium subterraneum seed being imported from Australia. The discovery of living plants is of particular concern, because of their ability to invade and survive in vernal pools.</discussion>
+</bio:treatment>

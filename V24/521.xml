@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Leymus cinereus (Scribn. & Merr.) Á. Löve </name_authority_date>
+  </taxon_identification>
+  <common_names>GREAT BASIN WILDRYE</common_names>
+  <description type="morphology">Plants strongly cespitose, weakly rhizomatous, usually bright green, not glaucous. Culms 70-270 cm tall, 2-5 mm thick, many together, lowest nodes often pubescent, sometimes pubescent up to 1.5 cm below the inflorescence. Leaves exceeded by the spikes; sheaths glabrous or hairy; auricles to 1.5 mm; ligules 1.5-8 mm; blades 15-45 cm long, 3-12 mm wide, strongly involute to flat, abaxial surfaces glabrous, adaxial surfaces scabrous, 11-25-veined, veins subequal, prominently ribbed. Spikes 10-29 cm long, 8-17 mm wide, with 14-28 nodes and 2-7 spikelets per node; internodes 4-9 mm. Spikelets 9-25 mm, with 3-7 florets. Glumes 8-18 mm long, 0.5-2.5 mm wide, subulate distally, stiff, keeled, the central portion thicker than the margins, tapering from below midlength, smooth or scabrous, 0-l(3)-veined, veins inconspicuous at midlength; lemmas 6.5-12 mm, glabrous or hairy, hairs 0.1-0.3 mm, apices acute or awned, awns to 3 mm; anthers 4-7 mm, dehiscent. 2n = 28, 56.</description>
+  <discussion>Leymus cinereus grows along streams, gullies, and roadsides, and in gravelly to sandy areas in sagebrush and open woodlands. It is widespread and common in western North America. Leymus cinereus resembles Psathyrostacbys juncea, differing in its non-disarticulating rachises, larger spikelets with more florets, and longer ligules. Spontaneous hybridization between L. cinereus and L. triticoides is known; the hybrids do not have a scientific name. The rhizomes found in some specimens may reflect introgression from L. triticoides through such hybrids.</discussion>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subgenus</rank>
+    <name_authority_date>Festuca subg. Obtusae E.B. Alexeev</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants loosely cespitose, without rhizomes. Innovations extravaginal. Blades lax, flat or convolute; ribs shallow and indistinct; sclerenchyma girders present at the major veins. Calluses wider than long, scabrous at the margins; lemmas stiffly chartaceous, entire, unawned; ovary apices densely pubescent.</description>
+  <discussion>Festuca subg. Obtusae has been divided into two sections. The two species which occur in eastern North America belong to Festuca sect. Obtusae E.B. Alexeev. A third species, F. japonica Makino, belongs in Festuca sect. Fauria E.B. Alexeev.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>25</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthelium sphaerocarpon (Elliott) Gould </name_authority_date>
+  </taxon_identification>
+  <common_names>ROUND-FRUITED PANICGRASS</common_names>
+  <description type="morphology">Plants cespitose. Basal rosettes well-differentiated; blades 2-6 cm long, about 1 cm wide, ovate, the uppermost leaves often resembling the lower cauline blades. Culms 15-50 cm, few together, decumbent or ascending, light green, glabrous, slightly fleshy or thickened; fall phase branching mostly near the bases, with sparse branching; nodes appressed-pubescent or glabrous. Cauline leaves 3-4(6); sheaths sometimes overlapping near the bases, glabrous, margins ciliate; ligules almost obsolete, or of 0.2-0.8 mm hairs from a tiny membranous base; blades 1.5-10 cm long, 5-14 mm wide, thick, light green, faintly veined, bases cordate, with papillose-based cilia, margins white, cartilaginous. Primary panicles 4-14 cm, more than 1/2 as wide as long, usually long-exserted. Spikelets 1.4-1.8 mm, broadly obovoid-spherical, usually puberulent, sometimes glabrous. Lower glumes 0.4-0.8 mm, acute to obtuse, upper florets 1.1-1.5 mm, broadly ellipsoid, blunt. 2n = 18.</description>
+  <discussion>Dichanthelium sphaerocarpon grows in dry, open woods and roadsides. Its range extends from eastern North America to Ecuador and Venezuela. It occasionally hybridizes with other species, including D. polyanthes, D. acuminatum, and D. laxiflorum.</discussion>
+</bio:treatment>

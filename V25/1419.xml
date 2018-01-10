@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Setaria viridis var. major (Gaudin) Peterm. </name_authority_date>
+  </taxon_identification>
+  <common_names>GIANT GREEN FOXTAIL</common_names>
+  <description type="morphology">Culms 1-2.5 m; nodes 7-12. Blades 10-25 mm wide. Panicles 10-20 cm, producing around 4,000-6,000 caryopses; lower branches about 3 cm, producing a lobed appearance. Spikelets morphologically indistinguishable from those of var. viridis. 2n = 18.</description>
+  <discussion>Setaria viridis var. major is a major adventive weed in corn and bean fields of the midwestern United States, dwarfing var. viridis in stature.</discussion>
+</bio:treatment>

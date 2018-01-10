@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Glyceria R. Br. sect. Glyceria</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial, rarely annual. Sheaths compressed, usually at least weakly keeled. Inflorescences 0.5-5 cm wide if the branches appressed, to 20 cm wide if divergent; branches usually appressed to ascending, divergent at anthesis; pedicels 0.5-5 mm. Spikelets cylindrical and terete, except at anthesis when slightly laterally compressed, rectangular in side view, appressed to the panicle branches, lengths 5-22 times widths. Lemmas rounded over the back, apices acute to rounded or truncate, entire to irregularly lobed; paleas keeled, keels usually winged distally, tips parallel or almost so, sometimes extending into teeth, truncate, rounded, or notched between the keels; lodicules connate; anthers 3. Caryopses ovoid-oblong; hila about as long as the caryopses, linear.</description>
+  <discussion>Glyceria sect. Glyceria includes about 15 species. Seven species grow in the Flora region, three of which are introduced. In addition, there is one named hybrid. They grow in and beside shallow, still or slowly moving fresh water, such as along the edges of lakes and ponds and in low areas in wet meadows.</discussion>
+</bio:treatment>

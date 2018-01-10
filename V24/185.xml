@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>24</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Achnatherum wallowaense J.R. Maze & K.A. Robson </name_authority_date>
+  </taxon_identification>
+  <common_names>WALLOWA NEEDLEGRASS</common_names>
+  <description type="morphology">Plants tightly cespitose, not rhizomatous. Culms (10)15-40 (45) cm tall, 0.5-0.7 mm thick, glabrous; nodes 1-2. Basal sheaths becoming flat with age, glabrous; collars glabrous, including the sides; basal ligules 0.8-1.3 mm, membranous, truncate to broadly acute, glabrous; upper ligules to 1.6 mm; blades tightly valvate to involute, 0.5-0.8 mm in diameter, abaxial surfaces scabridulous, adaxial surfaces hairy, sometimes densely hairy, hairs shorter than 0.05 mm. Panicles (4)5-13(15) cm long, to 10 cm wide, lax; branches divergent, flexuous, longest branches 2-10 cm, with spikelets confined to the distal portions, drooping. Glumes obtuse to acute; lower glumes 3.5-7 mm long, 0.8-1.3 mm wide, 5(7)-veined; upper glumes 3-6.5 mm, 3-veined; florets 3-5.5 mm long, 1-1.5 mm thick, fusiform, terete; calluses 0.1-0.2 mm, blunt; lemmas coriaceous, shiny, glabrous, black to dark brown at maturity, margins overlapping at maturity, apices thickened dorsally; awns 5-11 mm, readily deciduous, not or weakly geniculate, scabrous; paleas 2.8-4.5 mm, similar to the lemmas in texture, glabrous; anthers 1.6-1.8 mm, dehiscent, not penicillate. Caryopses 2-4 mm, ovoid. 2n = unknown.</description>
+  <discussion>Achnatberum wallowaense grows in shallow, rocky soil at scattered localities, from 1000-1600 m, in the Wallowa and Ochoco mountains, Oregon.</discussion>
+</bio:treatment>

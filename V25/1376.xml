@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Cenchrus spinifex Cav. </name_authority_date>
+  </taxon_identification>
+  <common_names>COASTAL SANDBUR, COMMON SANDBUR</common_names>
+  <description type="morphology">Plants annual or perennial but short-lived; tufted. Culms 30-100 cm, geniculate. Sheaths compressed, glabrous or sparsely pilose; ligules 0.5-1.4 mm; blades 3-28 cm long, (1)3-7.2 mm wide, glabrous or sparsely long-pilose adaxially. Panicles 3-5(8.5) cm; fascicles 5.5-10.2 mm long, 2.5-5 mm wide, imbricate, ovoid to globose, glabrous or sparesely to moderately pubescent; outer bristles, when present, mostly flattened; inner bristles 8-40 (rarely more), 2-5.8 mm long, 1-2 mm wide, fused at least 1/2 their length, forming a distinct cupule, the distal portions usually diverging from the cupule at multiple, irregular intervals, sometimes diverging at more or less the same level, ciliate at the base, pubescent, stramineous to mauve or purple, flattened. Spikelets 2-4 per fascicle, 3.5-5.9 mm, glabrous. Lower glumes 1-3.3 mm; upper glumes (2.8)3.5-5 mm, 5-7-veined; lower florets some-times staminate; lower lemmas 3-5(5.9) mm, 5-7-veined; lower paleas sometimes reduced or absent; anthers 1.3-1.6 mm; upper lemmas 3.5-5(5.8) mm; anthers 0.5-1.2 mm. Caryopses about 2.5 mm long, 1-2 mm wide, ovoid. 2n = 34 (32).</description>
+  <discussion>Cenchrus spinifex is common in sandy woods, fields, and waste places throughout the southern United States and southwards into South America. It may be more widespread than shown in the northern portion of the contiguous United States because it has often been confused with C. tribuloides. Cenchrus spinifex differs from C. tribuloides in its glabrous or less densely pubescent fascicles, narrower inner bristles, and larger number of bristles. It has also been confused with C. longispinus but differs in having shorter spikelets, fewer bristles overall, wider inner bristles, and outer bristles that are usually flattened rather than usually terete.</discussion>
+</bio:treatment>

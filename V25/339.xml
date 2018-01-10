@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>14</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Chloris verticillata Nutt. </name_authority_date>
+  </taxon_identification>
+  <common_names>TUMBLE WINDMILL-GRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose. Culms 14-40 cm, erect or decumbent, sometimes rooting at the lower nodes. Sheaths mostly glabrous, with hairs to 3 mm adjacent to the ligule; ligules 0.7-1.3 mm, shortly ciliate; blades to 15 cm long, 2-3 mm wide, with basal hairs, otherwise glabrous or scabrous. Panicles with 10-16, evidently distinct branches in several well-separate whorls, and a solitary, vertical terminal branch; branches 5-15 cm, spikelet-bearing to the base, with 4-7 spikelets per cm; disarticulation at the uppermost cauline node, panicles falling intact. Spikelets with 1 bisexual and 1 sterile floret. Lower glumes 2-3 mm; upper glumes 2.8-3.5 mm; lowest lemmas 2-3.5 mm long, 1.5-1.9 mm wide, elliptic to lanceolate, keels glabrous or appressed pubescent, sides not conspicuously grooved, margins glabrous or appressed pubescent, acute to obtuse, awned, awns 4.8-9 mm; second florets 1.1-2.3 mm, oblong, somewhat inflated, truncate, not or inconspicuously bilobed, lobes less than 1/5 as long as the lemmas, midveins excurrent, forming 3.2-7 mm awns. Caryopses 1.3-1.5 mm long, about 0.5 mm wide, elliptic. 2n = ca. 28, 40, 63.</description>
+  <discussion>Chloris verticillata is a common weed of roadsides, lawns, and waste areas in the central United States. Prior to disruption of the native vegetation, it grew in low areas of the central prairies. It also grows in northern Mexico. Chloris verticillata hybridizes with both C. cucullata and C. andropogonoides (see discussion under C. andropogonoides).</discussion>
+</bio:treatment>

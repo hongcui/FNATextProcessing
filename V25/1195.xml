@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>23</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthelium erectifolium (Nash) Gould & C.A. Clark</name_authority_date>
+  </taxon_identification>
+  <common_names>FLORIDA PANICGRASS, ERECT-LEAF PANICGRASS</common_names>
+  <description type="morphology">Plants cespitose, with few culms. Basal rosettes well-differentiated; blades numerous, to 15 cm, lowest blades ovate, upper blades lanceolate, grading into the cauline blades. Culms 30-75 cm, nearly erect, stiff, slightly fleshy or thickened; nodes glabrous, often with a constricted, yellowish ring; internodes glabrous; fall phase with few, long, suberect branches, sparingly rebranched, branches arising mostly from near the base. Cauline leaves 4-7; sheaths shorter than the internodes, mostly glabrous, margins ciliate; ligules 0.2-0.5 mm; blades 5-10 cm long, 5-10 mm wide, stiffly ascending, thick, glabrous, veins evident, bases cordate, with papillose-based cilia, margins whitish, cartilaginous. Primary panicles 5-14 cm, 1/2 - 2/3 as wide as long, exserted. Spikelets 1-1.4 mm, broadly obovoid-spherical, puberulent to subglabrous. Lower glumes 0.2-0.4 mm, acute, upper florets 0.8-1.1 mm, broadly ellipsoid, minutely umbonate. 2n = unknown.</description>
+  <discussion>Dichanthelium erectifolium grows in sand and peat in wet pinelands, bogs, and the shores of ponds. Its range extends from the southeastern Flora region into the Caribbean.</discussion>
+</bio:treatment>

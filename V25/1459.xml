@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>17</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum modestum Mez </name_authority_date>
+  </taxon_identification>
+  <common_names>WATER PASPALUM</common_names>
+  <description type="morphology">Plants perennial; usually sprawling, occasionally cespitose. Culms 30-110 cm, decumbent and rooting at the lower nodes; nodes glabrous. Sheaths glabrous; ligules 1-2.3 mm; blades to 50 cm long, 2-10 mm wide, flat, glabrous or pubescent. Panicles terminal, with 2-6(10) racemosely arranged branches; branches 3.5-12.5 cm, diverging to erect; branch axes 1-2.1 mm wide, glabrous, terminating in a spikelet. Spikelets 2.5-3 mm long, 1.3-1.6 mm wide, paired, appressed to the branch axes, elliptic, light brown. Lower glumes often present, 0.5-2 mm, brown; upper glumes glabrous, 5-veined, margins entire, lower lemmas glabrous, 5-7-veined, margins entire; upper florets olive, golden brown, or dark brown. Caryopses 1.6-1.8 mm, brown. 2n = 20, 30, 40.</description>
+  <discussion>Paspalum modestum grows in wet roadside ditches and rice fields of Texas and southern Louisiana. It was introduced to the United States from South America. Plants with pale florets may key to P. lividum, which dif-fers from P. modestum in having shorter ligules.
+Until recently, plants belonging to Paspalum modestum have been called P. hydrophilum Henrard in North America, but experimental studies have shown that the two species are quite distinct and that North American plants belong to P. modestum.
+</discussion>
+</bio:treatment>

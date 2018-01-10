@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Grass Phylogeny Working Group</author>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subfamily</rank>
+    <name_authority_date>CENTOTHECOIDEAE Soderstr.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; rhizomatous or stoloniferous. Culms annual, sometimes becoming woody, internodes solid or hollow. Leaves distichous; sheaths usually open; auricles sometimes present; abaxial ligules absent or of hairs; adaxial ligules membranous, ciliate or not, or of hairs; blades often pseudopetiolate; mesophyll cells non-radiate; adaxial palisade layer often present; fusoid cells absent, but fusoidlike cells frequently present as extensions of the outer parenchyma bundle sheath; arm cells absent; kranz anatomy absent; midrib simple; adaxial bulliform cells present, large; stomata with dome-shaped or triangular subsidiary cells; bicellular microhairs present, with long, tapering apical cells; papillae absent. Inflorescences ebracteate, racemose or paniculate, panicle branches sometimes spikelike; disarticulation below the spikelets or the florets, sometimes at the base of the pedicels. Spikelets bisexual or unisexual, often laterally compressed, with (l)2-many florets, reduced florets present, distal or basal to the functional florets. Glumes shorter than the lemmas; lemmas lacking uncinate hairs, usually 5-9-veined, unawned or with single, terminal awns; paleas usually well-developed, sometimes short compared to the lemmas; lodicules 2 or none, cuneate, usually well-vascularized, varying to not or scarcely vascularized; stamens 2; ovaries glabrous; haustorial synergids presumed absent; styles 2, sometimes fused at the base, if free, close. Hila basal, punctiform; endosperm hard, without lipid; starch grains simple; embryos small or large relative to the caryopses; epiblasts present; scutellar cleft present; mesocotyl internode present; embryonic leaf margins overlapping, x = (11)12.</description>
+  <discussion>The subfamily Centothecoideae is one of the subfamilies that cannot be characterized by a suite of morphological characteristics, but anatomical, micromorphological, and nucleic acid data all support its recognition. It is most abundant in warm-temperate woodlands and tropical forests. Clayton and Renvoize (1986) suggested that it was an offshoot of the Arundinoideae, but molecular data (Hilu et al. 1999; Grass Phylogeny Working Group 2001) argue for a sister group relationship with the Panicoideae. The treatment here, in which two tribes are recognized, follows that of the Grass Phylogeny Working Group (2001). Some of the genera, however, are as yet poorly known in terms of the characters used in making such decisions.</discussion>
+  <references>Clayton, W.D. and S.A. Renvoize. 1986. Genera Graminum: Grasses of the World. Kew Bull., Addit. Ser. 13. Her Majesty's Stationery Office, London, England. 389 pp.; Decker, H.F. 1964. An anatomic-systematic study of the classical tribe Festuceae (Gramineae). Amer. J. Bot. 51:453-463; Grass Phylogeny Working Group. 2001. Phylogeny and subfamilial classification of the grasses (Poaceae). Ann. Missouri Bot. Gard. 88:373-457; Hilu, K.W, L.A. Alice and J. Liang. 1999. Phylogeny of the Poaceae inferred from matK sequences. Ann. Missouri Bot. Gard. 86:835-851; Hilu, K.W. and K. Wright. 1982. Systematics of Gramineae: A cluster analysis study. Taxon 31:9-36; Soderstrom, T.R. 1981.The grass subfamily Centostecoideae. Taxon 30:614-616.</references>
+  <key>
+    <key_body>
+1. Spikelets 4-50 mm long, with 1-15 florets, the lowest florets sometimes sterile, the upper florets bisexual; disarticulation at the base of the florets or the base of the spikelets; leaves not pseudopetiolate; culms 35-150 cm tall; plants not reedlike   .....22. Centotheceae
+1. Spikelets 1.2-1.8 mm long, with 2(3-4) florets, the lower florets sterile, the upper florets bisexual; disarticulation at the pedicel bases, subsequently below the spikelets; leaves pseudopetiolate; culms 150-400 cm tall; plants reedlike   .....23. Thysanolaeneae
+ 
+
+    </key_body>
+  </key>
+</bio:treatment>

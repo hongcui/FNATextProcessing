@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Melica fugax Bol. </name_authority_date>
+  </taxon_identification>
+  <common_names>LITTLE MELIC</common_names>
+  <description type="morphology">Plants cespitose, not rhizomatous. Culms 10-60 cm, forming corms; internodes smooth or scabridulous. Sheaths scabrid-ulous to scabrous; ligules 0.5-2.6 mm; blades 1.2-5 mm wide, sometimes pilose on both surfaces. Panicles 4.5-18 cm; branches 0.8-4 cm, appressed to ascending, with 1-5 spikelets; pedicels straight. Spikelets 4-17 mm, with 2-5 bisexual florets; rachilla internodes 2.1-2.3 mm, swollen when fresh, wrinkled when dry; disarticulation above the glumes. Lower glumes 3-5 mm long, 1.5-2.5 mm wide, 1-3-veined; upper glumes 3.5-7 mm long, 2.5-3.5 mm wide, 5-veined; lemmas 4-7 mm, glabrous or scabrous, 4-11-veined, veins inconspicuous, apices rounded to acute, unawned; paleas almost as long as the lemmas; anthers 3, 1-2 mm; rudiments 1.5-3.5 mm, tapering, resembling the bisexual florets. 2n =18.</description>
+  <discussion>Melica fugax grows at elevations to 2200 m on dry, open flats, hillsides, and woods, from British Columbia to California and east to Idaho and Nevada. It is usually found on soils of volcanic origin, and rarely below 1300 m. Melica fugax is often confused with M. bulbosa, but its rachilla internodes are unmistakable and unique among the species in the Flora region, being swollen when fresh and wrinkled when dry. One specimen, C.L. Hitchcock 15521 [WTU 114265] from Elmore County, Idaho, appears to be a hybrid. It has shrunken caryopses and combines the rachilla of M. fugax with the lemma pubescence, size, and overall appearance of M. subulata, but lacks corms.</discussion>
+</bio:treatment>

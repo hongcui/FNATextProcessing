@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>25</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Digitaria velutina (Forssk.) P. Beauv.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants of indefinite duration; loosely cespitose to straggling. Culms 15-80 m, decumbent, rooting and branching at the lower nodes. Sheaths pilose, with papillose-based hairs; ligules 1.8-2 mm; blades 4-15 cm long, 3-10 mm wide, pilose, with papillose-based hairs. Panicles with 5-18 spikelike primary branches on 2.5-5 cm rachises, lower branches usually verticillate; primary branches 3.5-10 cm long, 0.3-0.5 mm wide, narrowly wing-margined, wings less than 1/2 as wide as the midribs, bearing spikelets in unequally pedicellate pairs; secondary branches often present, often highly divergent; shorter pedicels 0.2-0.5 mm; longer pedicels 0.8-1.1 mm. Spikelets 1.5-2 mm long, about 0.5 mm wide, elliptic-lanceolate. Lower glumes absent or to 0.2 mm; upper glumes 1.5-1.7 mm, usually to 3/4 as long as the spikelets, 3-veined, villous between the veins, hairs tapering or parallel-sided; lower lemmas about as long as the spikelets, 7-veined, veins unequally spaced, 2 veins crowded together near each margin, 3 inner veins well-separated, pubescent on the margins and between the inner lateral veins, hairs about 0.2 mm, sometimes sparse, lateral veins smooth throughout or scabridulous only on the distal 1/3; upper lemmas 1.5-1.7 mm, usually gray at maturity, sometimes brown; anthers about 0.5 mm. 2n = 18.</description>
+  <discussion>Digitaria velutina is an African species, appearing on the noxious weed list of the U.S. Department of Agriculture. It has been erroneously reported as occurring in Texas (Kartesz and Meacham 1999).</discussion>
+</bio:treatment>

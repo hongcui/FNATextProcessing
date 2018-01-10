@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>13</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Chloris cucullata Bisch. </name_authority_date>
+  </taxon_identification>
+  <common_names>HOODED WINDMILL-GRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose. Culms 15-60 cm, erect. Sheaths glabrous; ligules 0.7-1 mm; blades to 20 cm long, 2-4 mm wide, without basal hairs, glabrous or scabrous, upper cauline leaves often greatly reduced. Panicles with 10-20 branches in several closely-spaced whorls; branches 2-5 cm, spreading, with 14-18 spikelets per cm; disarticulation beneath the glumes. Spikelets with 1 bisexual and 1 sterile floret. Lower glumes 0.5-0.7 mm; upper glumes 1-1.5 mm; lowest lemmas 1.5-2 mm long, 0.7-1 mm wide, broadly elliptic, mostly glabrous but the keels and marginal veins appressed-pilose, obtuse, awned, awns 0.3-1.5 mm; second florets 1-1.5 mm long and about equally wide, conspicuously inflated, spherical, with the distal portion of the margins inrolled, not or inconspicuously bilobed, lobes less than 1/5 as long as the lemmas, midveins sometimes excurrent to 1.5 mm. Caryopses 0.9-1.2 mm long, about 0.5 mm wide, obovoid. 2n = 40.  </description>
+  <discussion>Chloris cucullata is common along roadsides and in waste areas throughout much of Texas and adjacent portions of New Mexico and Mexico. Records from outside this area probably represent introductions. Chloris cucullata hybridizes with both C. andropogonoides and C. verticillata (see discussion under C. andropogonoides).</discussion>
+</bio:treatment>

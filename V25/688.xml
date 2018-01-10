@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>25</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sporobolus interruptus Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>BLACK DROPSEED</common_names>
+  <description type="morphology">Plants perennial; cespitose but shortly rhizomatous, with tough, fibrous roots. Culms 25-60 cm. Sheaths dull and fibrous basally, with scattered, contorted hairs to 5 mm, margins glabrous; ligules 0.2-0.7 mm; blades (5)8-20 cm long, 1-2.5 mm wide, flat to folded, glabrous or scattered-pilose on both surfaces, margins glabrous. Panicles 5-20 cm long, (0.6)1-8 cm wide, longer than wide, narrowly pyramidal, open to somewhat contracted, not diffuse, well-exerted from the upper leaf sheath; lower nodes with 1-2(3) branches; primary branches 0.6-7 cm, appressed or spreading to 70° from the rachis, not capillary, without spikelets on the lower 1/3; pedicels 0.8-5.5 mm, appressed to spreading. Spikelets 4.5-6.6 mm, plumbeous. Glumes unequal, lanceolate, membranous; lower glumes (2)2.5-4.2 mm; upper glumes 3.8-6.5 mm, at least 2/3 as long as the florets; lemmas 5-6.5 mm, ovate, membranous, glabrous, acute; paleas 4.8-6.5 mm, ovate, membranous; anthers 3-4.2 mm, yellow to purplish. Fruits about 3 mm long, 1.5-1.7 mm thick, pyriform-globose; embryo dark brown to blackish; endosperm reddish-brown. 2n = 30.
+ 
+</description>
+  <discussion>Sporobolus interruptus grows on rocky slopes and in dry meadows of open yellow pine and oak-pine forests and pinyon-juniper woodlands, at elevations from 1500—2300 m. It is an Arizonan endemic that is morphologically similar to S. heterolepis, but the two species are separated geographically, the range of the latter lying to the north and east of Arizona. The only reliable morphological difference between them is anther length (3-4.2 mm long in S. interruptus, 1.7-3 mm long in S. heterolepis). Cytologically, S. interruptus appears to be triploid, while 5. heterolepis appears to be an octoploid (2n = 72).</discussion>
+</bio:treatment>

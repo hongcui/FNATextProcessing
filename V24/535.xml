@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>xLeydeum littorale (H.J. Hodgs. & W.W. Mitch.) Barkworth </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants rhizomatous. Culms to 140 cm tall, about 3 mm thick. Leaves evenly distributed; sheaths smooth, glabrous; auricles 0.8-1 mm; ligules 0.2-0.5 mm, truncate, entire; blades to 20 cm long, 6-9 mm wide, glabrous, tapering from near the base, abaxial surfaces smooth, with 20+ veins, veins more or less equally prominent or the primary veins slightly more prominent than the secondary veins, adaxial surfaces scabridulous, apices narrowly acute. Spikes 6.5-15 cm long, 12-15 mm wide including the awns, 8-12 mm wide excluding the awns, nodes with 2-3 spikelets; internodes 3.5-5 mm, concealed by the spikelets; disarticulation in the rachises, possibly also in the spikelets. Spikelets 12-15 mm, with 1-3 florets, the distal florets reduced. Glumes equal, 11-13 mm long, 0.8-1.5 mm wide, 3-veined at midlength, hairy, hairs about 0.5 mm, somewhat divergent, tapering from below midlength, apices awned, awns 3-4 mm long; lemmas 13-15 mm, hairy, awns 1-3 mm; anthers about 2.8 mm long, 0.1-0.3 mm thick.</description>
+  <discussion>xLeydeum littorale consists of hybrids between Hordeum brachyantherum and Leymus mollis. It has been collected in the Matanuska Valley, Alaska, and on the coast of Vancouver Island, British Columbia; it may be more widespread.</discussion>
+</bio:treatment>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>POEAE SUBKEY I</name_authority_date>
+  </taxon_identification>
+  <description type="morphology"></description>
+  <key>
+    <key_heading>POEAE SUBKEY I</key_heading>
+    <key_discussion>Synoecious or monoecious grasses with panicles having at least some branches longer than 1 cm and spikelets with 1 bisexual floret, sometimes with 1-2 sterile or staminate florets below the bisexual floret.</key_discussion>
+    <key_body>
+1. Spikelets with 1-2 staminate or sterile florets below the bisexual floret, sterile florets sometimes knoblike or resembling tufts of hair. 
+2. Spikelets with 2 florets of similar size, the lower floret staminate; lower lemmas awned, the lemmas of the terminal floret unawned or awned .....14.54 Arrhenatherum
+2. Spikelets with 2-3(4) florets, the lower 1-2 florets staminate or sterile, sometimes knoblike or resembling tufts of hair, sometimes larger than the bisexual floret; lemmas of the lower florets awned or unawned, the lemmas of the terminal floret unawned. 
+3. Lower sterile florets 2, from shorter than to exceeding the bisexual floret; fresh leaves sweet-smelling when crushed  .....14.60 Anthoxanthum (in part)
+3. Lower sterile florets 1-2, varying from knoblike projections on the callus of the bisexual floret to linear or lanceolate lemmas up to 3/4 as long as the bisexual floret; fresh leaves not sweet-smelling when crushed .....14.61 Phalaris (in part)
+1. Spikelets without staminate or sterile florets below the bisexual florets.
+4. Spikelets  15-50 mm long; lemmas usually dorsally awned, awns 20-90 mm long, sometimes unawned  .....14.52 Avena (in part)
+4. Spikelets 1-15 mm long; lemmas unawned or awned, awns to 18 mm long, basal, dorsal, subterminal, or terminal.
+5. Glume bases gibbous and subcoriaceous; disarticulation above the glumes  .....14.32 Gastridium (in part) 
+5. Glumes bases not gibbous, usually membranous; disarticulation above or below the glumes. 
+6. Lemmas awned, awns longer than 2 mm.
+7. Glumes coriaceous, rigid, hispid or scabrous; lemmas awned, awns 5-14.5 mm long, subterminal .....14.63 Limnodea
+7. Glumes membranous, flexible, glabrous or with soft hairs, usually smooth; lemmas awned, awns 0.5-18 mm long, sometimes subterminal. 
+8. Disarticulation below the glumes.
+9. Spikelets borne on stipes; disarticulation at the base of the stipes; lemmas 0.5-2 mm long; glumes usually awned, sometimes unawned .....14.28 Polypogon (in part)
+9. Spikelets borne on pedicels; disarticulation immediately below the glumes; lemmas 1.5-7.5 mm long; glumes usually unawned.
+10. Paleas absent or greatly reduced; lemma awns attached at midlength or below; glume bases often fused; rachillas not prolonged beyond the floret base .....14.66 Alopecurus (in part)
+10. Paleas  from 3/4 to  nearly as long as the lemmas; lemma awns subterminal; glume bases not fused; rachillas usually prolonged beyond the base of the distal floret as a minute stub or slender bristle .....14.62 Cinna
+8. Disarticulation above the glumes.
+11. Rachillas not prolonged beyond the base of the distal floret; paleas absent, minute, or subequal to the lemmas; lemmas 0.5-4 mm long.
+12. Lemmas usually glabrous, sometimes pubescent, unawned or awned, if awned, the awns usually shorter than 4.5 mm, sometimes to 10 mm long, basal, dorsal, subterminal, or terminal; veins usually not excurrent, if excurrent, not forming awnlike teeth; panicles often open, sometimes contracted and cylindrical .....14.27 Agrostis (in part)
+12. Lemmas pilose and dorsally awned, awns 4.5-6 mm long; lateral lemma veins excurrent, forming 4 teeth, teeth sometimes awnlike; panicles dense  .....14.44 Bromidium (in part)
+ 
+11. Rachillas prolonged beyond the base of the distal floret; paleas at least 1/2 as long as the lemmas; lemmas 1-8 mm long. 
+13. Plants annual; calluses glabrous or sparsely hairy; lemma apices entire; marginal veins not excurrent; awns subterminal  .....14.67 Apera
+13. Plants perennial;  calluses  usually abundantly,  sometimes  sparsely hairy, hairs  0.2-6.5  mm  long;  lemma  apices  denticulate  or the marginal veins excurrent;  awn attachment from nearly basal to subterminal. 
+14. Lemma  surfaces  mostly  glabrous;  lemma  apices  denticulate; marginal lemma veins not excurrent .....14.49 Calamagrostis (in part)
+14. Lemma surfaces hairy; lemma apices erose or toothed; marginal lemma veins excurrent .....14.43 Lachnagrostis
+6. Lemmas unawned or, if awned, awns shorter than 2 mm. 
+15. Disarticulation below the glumes.
+16. Glumes attached to stipes, disarticulation at the base of the stipes; glumes usually awned, awns flexuous  .....14.28 Polypogon (in part)
+16. Glumes  attached  to  pedicels,   disarticulation  immediately  beneath  the glumes; glumes unawned or with stiff awns.
+17. Lemma awns subterminal; glume bases not fused; paleas from 3/4 to nearly as long as the lemmas; rachillas prolonged beyond the base of the distal floret for 0.1-1.3 mm .....14.62 Cinna
+17. Lemma awns attached at midlength or below; glume bases often fused; paleas absent or greatly reduced; rachillas not prolonged beyond the base of the distal floret .....14.66 Alopecurus (in part)
+15. Disarticulation above the glumes.
+18. Glumes 8-15 mm long; plants strongly rhizomatous.....14.64 Ammophila (in part)
+18. Glumes 1-10 mm long; plants rhizomatous or not.
+19. Spikelets dorsally compressed; lemmas dark, coriaceous, lustrous, and glabrous .....14.65 Milium
+19. Spikelets  laterally compressed,  sometimes  weakly so; lemmas not simultaneously dark, coriaceous, lustrous, and glabrous. 
+20. Lower glumes exceeded by the florets, upper glumes exceeded by to exceeding the florets; sheaths usually closed for up to 1/5 their length .....14.33 Arctagrostis
+20. Both glumes subequal to or exceeding the florets; sheaths open to the base.
+21. Paleas absent or minute to subequal to the lemmas, not veined; rachillas not prolonged beyond the base of the distal florets; lemmas often unawned, sometimes awned, awn attachment basal to terminal  .....14.27 Agrostis (in part)
+21. Paleas more than 1/2 as long as the lemmas, 2-veined; rachillas prolonged beyond the base of the floret by at least 0.1 mm; lemmas often awned, awn attachment usually on the proximal 1/2 of the lemmas.
+22. Calluses hairy, hairs 0.5-4.5 mm long; lemmas usually awned, awns usually attached to the proximal 1/2, if the attachment higher, the callus hairs longer than 2 mm and/or the awns geniculate .....14.49 Calamagrostis (in part)
+22. Calluses glabrous or with hairs to about 1 mm long; lemmas unawned or terminally awned, awns to 1(2.2) mm long. 
+23. Glumes 4-9 mm long; sheaths closed for 1/2 - 2/3 their length; plants of arctic and subarctic regions  .....14.15 Dupontia (in part) 
+23. Glumes 1.6-4.3 mm long; sheaths open; plants of western North America, from Alaska to California .....14.42 Podagrostis
+
+    </key_body>
+  </key>
+</bio:treatment>

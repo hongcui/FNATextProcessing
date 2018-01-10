@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eremochloa ciliaris (L.) Merr. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose, sometimes shortly stoloniferous. Culms 30-70 cm, compressed, sometimes branching from the upper nodes. Leaves mostly basal; sheaths keeled, strongly distichous and imbricate, often loose, basal sheaths pubescent below; ligules to 0.6 mm, membranous; blades to 25 cm long, to 6 mm wide, flat or folded, basal blades glabrous. Rames 4-7 cm, straight to falcate; internodes 2-3 mm, clavate, shortly pubescent. Sessile spikelets 4-5 mm, ovoid-oblong; calluses pubescent; lower glumes elliptic, obscurely 7-9-veined, keeled, keels with conspicuous spines, basal spines to 3 mm, those near the apices to 0.3 mm; upper glumes 3-5-veined, keeled below; lower florets staminate; anthers about 2 mm, yellow; upper florets bisexual. Pedicels to 3 mm. Pedicellate spikelets not differentiated. 2n = 36.</description>
+  <discussion>Eremochloa ciliaris is native to southeast Asia. It was collected in San Francisco in the nineteenth century, but has not been reported since from the Flora region.</discussion>
+</bio:treatment>

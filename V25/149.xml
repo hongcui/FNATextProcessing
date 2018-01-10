@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>32</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis swallenii Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>SWALLEN'S LOVEGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, with innovations, without rhizomes. Culms 35-70 cm, erect, with glandular bands below the nodes. Sheaths hairy on the margins and at the apices, hairs to 4 mm; ligules 0.2-0.5 mm; blades (8)10-25(30) cm long, 1.5-4 mm wide, flat to involute, abaxial surfaces glabrous, adaxial surfaces scabridulous, sometimes also sparsely hairy, hairs to 4 mm. Panicles 12-30 cm long, 5-16 cm wide, ovate, open, an oblique glandular ring present below the lowest rachis node; primary branches 2-10 cm, diverging 10-70° from the rachises, flexible; pulvini glabrous; pedicels 1.5-14 mm, divergent, with a glandular band. Spikelets 5-16 mm long, 1.2-2.3 mm wide, linear-lanceolate, plumbeous to dark reddish-purple, with 5-25 florets; disarticulation acropetal, paleas persistent. Glumes ovate, membranous to hyaline; lower glumes 1.1-1.5 mm; upper glumes 1.4-2 mm; lemmas 1.5-2.5 mm, ovate, membranous, strongly keeled, keels without glands, lateral veins conspicuous, apices acute; paleas 1.2-2.1 mm, hyaline, narrower than the lemmas, apices obtuse to truncate; anthers 3, 0.3-0.5 mm, purplish. Caryopses 0.8-1.1 mm, rectangular-prismatic to ellipsoid, somewhat laterally compressed, with a well-developed adaxial groove, smooth, faintly striate, mostly opaque, light reddish-brown. 2n = 84.</description>
+  <discussion>Eragrostis swallenii grows in sandy sites along coastal grasslands and roadsides, often with Andropogon and Spartina, at 30-150 m. Its range extends around the Gulf coast from Texas to Mexico.</discussion>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Aristida purpurascens var. tenuispica (Hitchc.) Allred</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Lower sheaths shorter or longer than the internodes, glabrous; blades usually about 1 mm wide, usually not curling. Glumes 8-9 mm, subequal; awns 12-18 mm, of equal thickness, spirally contorted at the base, divergent. </description>
+  <discussion>Aristida purpurascens var. tenuispica grows in pine and oak woods, prairies, and along roadsides, at low elevations and usually in sandy soils. Within the Flora region, it grows on the coastal plain from North Carolina to Mississippi. It also grows in Mexico and Honduras.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Chloris pectinata Benth. </name_authority_date>
+  </taxon_identification>
+  <common_names>COMB WINDMILL-GRASS</common_names>
+  <description type="morphology">Plants annual. Culms 20-75 cm, erect, often branched above. Sheaths glabrous; ligules membranous, ciliate; blades to 15 cm long, 2-5 mm wide, sometimes with basal hairs, otherwise glabrous or scabrous. Panicles digitate, with 4-13 easily separable or evidently distinct branches; branches 5-11 cm, initially erect, becoming divaricate, with 10-14 spikelets per cm. Spikelets pectinate, diverging at a wide angle from the branch axes, with 1 bisexual and 1 staminate floret. Lower glumes 1.4-2.5 mm; upper glumes 2.9-4.3 mm; lowest lemmas 3-6.2 mm long, 0.4-0.6 mm wide, linear to narrowly lanceolate, margins glabrous, scabrous, or with hairs less than 0.2 mm, lemma apices bilobed, lobes 0.5-1 mm, sometimes awned, central awns 4-37 mm, awns of lateral lobes, if present, less than 0.6 mm; second florets 1.7-2.9 mm long, 0.2-0.3 mm wide, laterally compressed, bilobed, lobes 1/3–1/2 as long as the lemmas, awned, awns 4-10 mm. Caryopses about 2.3 mm long, about 0.3 mm wide, narrowly ellipsoid, trigonous. 2n = unknown.</description>
+  <discussion>Chloris pectinata is an Australian species that was collected around woolen mills in South Carolina in the first half of the twentieth century.</discussion>
+</bio:treatment>

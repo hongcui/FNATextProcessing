@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bouteloua aristidoides (Kunth) Griseb. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual; tufted. Culms 4-60 cm, outer culms of a tuft decumbent, sometimes geniculate, branched at the lower nodes. Ligules 0.2-0.5 mm, membranous, lacerate or ciliate; blades 2-5(9) cm long, 0.7-2 mm wide, flat or folded, adaxial surfaces sometimes with papillose-based hairs, margins usually with papillose-based hairs near the ligules. Panicles 2.5-10.5 cm, with (1)4-15 branches; branches 5-45 mm, deciduous, densely pubescent (at least basally), with 2-10 spikelets per branch, axes extending 2-10 mm beyond the base of the terminal spikelets, apices entire; disarticulation at the base of the branches, the break forming a sharp tip. Spikelets appressed. Proximal spikelet on each branch with 1 floret; lower glumes 1.5-3.5 mm, glabrous, narrow to subulate; upper glumes 5.5-6.2 mm, densely pubescent, at least on the basal 1/2; lemmas 5.8-6 mm, acuminate, unawned; lowest paleas almost as long as the lemmas, bifid, glabrous; rachillas prolonged beyond the florets for about 0.5 mm. Distal spikelets with 1 bisexual and 1 rudimentary floret, glumes unequal, glabrous, minutely scabrous on the keels; narrowly acute or acuminate; lower glumes 1.5-2 mm; upper glumes 5-6 mm, glabrous or sparsely pubescent basally, often divergent; lowest lemmas 6-8 mm, veins pubescent, lateral veins excurrent as short (to 1 mm) awns, acuminate, midvein extended into a setaceous tip or a short awn; lowest paleas 5-7 mm, bifid, veins often excurrent as short awns; anthers about 2.5 mm, yellow or yellow and red; distal florets reduced to a pubescent, 3-awned, awn column, awns 2-7 mm, exserted. Caryopses 2.5-3 mm. 2n = 40.</description>
+  <discussion>There are two varieties, both of which grow in the Flora region.</discussion>
+  <key>
+    <key_body>
+1. Panicle branches with 2-5 spikelets, usually 5-16 mm to the base of the terminal spikelets, axes usually extending an additional 6-10 mm .....var. aristidoides
+1. Panicle branches with 6-10 spikelets, usually 15-35 mm to the base of the terminal spikelets, axes extending an additional 2-5(7) mm .....var. arizonica
+
+    </key_body>
+  </key>
+</bio:treatment>

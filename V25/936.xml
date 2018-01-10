@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Enneapogon cenchroides (Licht.) C.E. Hubb. </name_authority_date>
+  </taxon_identification>
+  <common_names>SOFTFEATHER PAPPUSGRASS</common_names>
+  <description type="morphology">Plants annual. Culms 50-80(100) cm, about 2 mm thick, usually rather robust, erect or somewhat geniculate at the base, often branching; nodes pubescent. Sheaths mostly shorter than the internodes, somewhat loose; blades 6-12(20) cm long, 1-7(10) mm wide, flat, becoming involute, apices attenuate. Panicles 10-20(30) cm long, to 3 cm wide at the base, loosely contracted to somewhat open. Spikelets 3.2-6.8 mm. Lower glumes 2.8-5.1 mm; upper glumes 3.2-6.8 mm, 3-veined; lowest lemmas 1.5-2 mm; awns 2.5-5 mm, usually exceeding the glumes; anthers 1-1.8 mm. 2n = 40.</description>
+  <discussion>Enneapogon cenchroides has been introduced and is persisting in the Ajo, Santa Catalina, Tucson, and Galiuro mountains of southern Arizona. Outside the Americas, its range extends from Sudan southward to the Cape Provinces of South Africa, through Arabia to India, and on Ascension Island.</discussion>
+</bio:treatment>

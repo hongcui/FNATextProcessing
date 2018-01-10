@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Aira caryophyllea L. var. caryophyllea </name_authority_date>
+  </taxon_identification>
+  <common_names>SILVER HAIRGRASS</common_names>
+  <description type="morphology">Pedicels 0.9-7 mm, usually 1-2 times as long as the spikelets, gradually thickening to the apices. Spikelets 2-3.3(3.5) mm, usually appressed to the secondary branches, silvery-green to stramineous; rachillas not prolonged. Glumes 2-3.3(3.5) mm, subequal, 1-veined or the upper glumes with 2 lateral veins, these sometimes obscure and usually less than 1/2 the length of the glumes, acute; lower lemmas 2-2.4 mm, apices bifid, teeth 0.2-0.4 mm, awned, awns 2.4-3.5 mm, geniculate; lower paleas 1.5-1.7 mm; upper lemmas 2-2.6 mm, apices bifid, teeth 0.2-0.3 mm, awned, awns 2.5-3.9 mm; upper paleas 1.4-1.7 mm; anthers 0.2-0.5 mm, yellow to orange. Caryopses 1.4-1.5 mm long, 0.4-0.5 mm wide, glabrous.</description>
+  <discussion>Aira caryophyllea var. caryophyllea is native to the Mediterranean region. It usually grows in dry, sandy to rocky soil and on rock outcrops, in open and disturbed sites in woods, grassy flats, pastures, paths, and roadsides; it is occasionally found in damp ground at swamp or lagoon margins.</discussion>
+</bio:treatment>

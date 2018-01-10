@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa alsodes A. Gray </name_authority_date>
+  </taxon_identification>
+  <common_names>GROVE BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; not rhizomatous, not stoloniferous, loosely tufted. Basal branching mainly pseudointravaginal. Culms 31-126 cm. Sheaths closed for 1/2 - 7/8 their length; ligules 0.1-1.7(2.1) mm, smooth or sparsely scabrous, truncate to obtuse; blades 0.8-4.1 mm wide, flat, lax. Panicles 11.4-36 cm, erect or lax, narrowly pyramidal, usually open, infrequently contracted; nodes with (2)3-5(7) branches; branches spreading, straight, angled, angles sparsely to moderately scabrous. Spikelets 3.5-6.7 mm, laterally compressed; florets 2-4; rachilla internodes glabrous. Glumes ovate, distinctly keeled, keels scabrous; lower glumes 1-veined; upper glumes shorter than or subequal to the lowest lemmas; calluses webbed; lemmas 2.7-4.2(5) mm, lanceolate, distinctly keeled, keels short-villous to about midlength, marginal and lateral veins glabrous, lateral veins obscure or moderately prominent, intercostal regions glabrous, smooth, apices acute; paleas glabrous or ciliolate over the keels, apices finely scabrous; anthers 0.4-0.8 mm. 2n = unknown.</description>
+  <discussion>Poa alsodes grows in mesic woodlands of eastern Canada and the northeastern United States, extending south to Illinois, Tennessee, and North Carolina, particularly in the Appalachian Mountains.</discussion>
+</bio:treatment>

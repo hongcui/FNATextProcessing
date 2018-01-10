@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>20</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus multisetus (J.G. Sm.) Burtt Davy </name_authority_date>
+  </taxon_identification>
+  <common_names>BIG SQUIRRELTAIL</common_names>
+  <description type="morphology">Plants cespitose, not rhizomatous. Culms 15-65 cm, erect to ascending, usually puberulent; nodes 4-6, mostly concealed, glabrous. Leaves evenly distributed; sheaths glabrous or white-villous; auricles usually present, 0.5-1.5 mm; ligules to 1 mm, truncate, entire or lacerate; blades 1.5-4(5) mm wide, often ascending and involute, adaxial surfaces scabrous, pilose, or villous. Spikes 5-20 cm long, 5-15 cm wide, erect, sometimes partially enclosed at the base, with 2 spikelets per node, rarely with 3-4 at some nodes; internodes 3-5(8) mm long, 0.1-0.3 mm thick at the thinnest sections, glabrous beneath the spikelets. Spikelets 10-15 mm, divergent, with 2-4 florets, lowest florets sterile and glumelike in 1 or both spikelets at each node; disarticulation initially at the rachis nodes, subsequently beneath each floret. Glumes subequal, (10)30-100 mm including the awns, the bases indurate and glabrous, glume bodies (2)5-10 mm long, 1-2 mm wide, setaceous, 2-3-veined, margins firm, awns (8)25-90 mm, each split into 3-9 unequal divisions, scabrous, flexuous to outcurving from near the glume bases at maturity; fertile lemmas 8-10 mm, smooth or scabrous near the apices, 2 lateral veins extending into bristles to 10 mm, awns (10)20-110 mm long, about 0.2 mm wide at the base, divergent to arcuate; paleas 7-9 mm, veins usually extending into about 1 mm bristles, apices acute to truncate; anthers 1-2 mm. Anthesis from late May to June. 2n = 28.</description>
+  <discussion>Elymus multisetus grows in dry, often rocky, open woods and thickets on slopes and plains, from central Washington and Idaho to southern California, Colorado, and northwestern Arizona, and from sea level to 2000 m. It has also been reported from Baja California, Mexico. It usually grows in less arid habitats than E. elymoides subsp. elymoides (p. 319), but the two taxa are sometimes sympatric.
+Wilson (1963) reported a wide belt of introgression between Elymus multisetus and E. elymoides subsp. elymoides from southeastern California to southern Nevada, but not in other areas where they are sympatric. There are also probable hybrids with E. glaucus (p. 306) and Pseudoroegneria spicata (p. 281).
+</discussion>
+</bio:treatment>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa arctica subsp. caespitans Simmons ex Nannf. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants densely to moderately densely tufted, rhizomatous, rhizomes very short, poorly developed. Sheaths closed for (1/5)1/3 their length, terete; ligules 2-4 mm, obtuse to acute; blades 1-2.5 mm wide, flat or folded, moderately thick. Panicles lax to erect, open; branches ascending or widely spreading, sinuous and flexuous to fairly straight, smooth or the angles moderately or densely scabrous, proximal branches 1/4-1/2 the panicle length. Spikelets 4.5-8 mm, laterally compressed, infrequently bulbiferous; rachilla inter-nodes usually glabrous, infrequently sparsely softly puberulent; calluses webbed; lemmas 3-6 mm; palea keels glabrous or long-villous; anthers usually aborted late in development, infrequently fully developed. 2n = 56, ca. 66, ca. 80.</description>
+  <discussion>Poa arctica subsp. caespitans grows in moist tundra of the high arctic, or infrequently in the low arctic of northeastern Canada and Greenland. It also grows in Norway and in the Russian high arctic; it is rare in both regions.
+Many plants included here tend towards Poa glauca (p. 576, e.g., scabrous branches, and intermediate leaf and panicle forms), while others are distinguished from other P. arctica subspecies only by their more tufted habit and sterile anthers. As interpreted here, subsp. caespitans includes P. trichopoda Lange [= P. tolmatchewii Roshev.].
+</discussion>
+</bio:treatment>

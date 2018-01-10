@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Urochloa adspersa (Trin.) R.D. Webster </name_authority_date>
+  </taxon_identification>
+  <common_names>DOMINICAN SIGNALGRASS</common_names>
+  <description type="morphology">Plants annual. Culms 20-120 cm, geniculate or decumbent, usually rooting at the lower nodes; nodes glabrous. Sheaths glabrous or glabrate, margins ciliate distally; ligules 0.5-1 mm; blades 2-20 cm long, 7-20 mm wide, glabrous. Panicles terminal and axillary, 5-18 cm long, to 1.4 cm wide, with 2-10 spikelike primary branches in more than 2 ranks; primary branches 1.5-9 cm, appressed, axes 0.3-0.8 mm wide, triquetrous, scabrous; secondary branches present or absent, if present, short, restricted to the lowest panicle branches; pedicels scabrous, shorter than the spikelets. Spikelets 2.9-3.8 mm long, 1.2-1.4 mm wide, ellipsoid, apices abruptly acuminate, mostly paired, in 2-4 rows, appressed to the branches. Glumes scarcely separate, rachilla internodes short, not pronounced; lower glumes 1-1.4 mm, glabrous or pubescent, (3)5-veined, 1/3 or less as long as the spikelets; upper glumes 2.8-3.7 mm, glabrous or pubescent, 5-7(9)-veined, cross venation not evident or evident only in the distal 1/2; lower florets sterile; lower lemmas 2.7-3.6 mm, glabrous or pubescent, 5-veined, usually without cross venation; upper florets 2.1-2.9 mm long, 1.3-1.7 mm wide, broadly acute, mucronate; anthers 1-1.2 mm. Caryopses 1.2-1.8 mm; hila punctiform. 2n = 54.</description>
+  <discussion>Urochloa adspersa grows in southern Florida, the West Indies, and Argentina. It prefers moist, open areas, often on coral limestone. It has also been found on ballast dumps in Mobile, Alabama; Philadelphia, Pennsylvania; and Camden, New Jersey; but it has not persisted at these locations.
+</discussion>
+</bio:treatment>

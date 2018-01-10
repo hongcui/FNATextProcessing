@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Trachypogon secundus (J. Presl) Scribn. </name_authority_date>
+  </taxon_identification>
+  <common_names>CRINKLE-AWN</common_names>
+  <description type="morphology">Plants perennial. Culms 60-120 cm, erect; nodes appressed-hirsute. Sheaths sparsely appressed-pilose; ligules 2-5 mm, stiff, acute; blades usually 12-35 cm long, 3-8 mm wide, with a broad midrib. Racemes 10-18 cm, the internodes glabrous. Pedicellate spikelets 6-8 mm; glumes pilose; awns 4-6 cm, pilose below, with 1-2 mm hairs, nearly glabrous distally; anthers 4-5 mm, orange. 2n = 20.</description>
+  <discussion>Trachypogon secundus is found in sandy prairies, woodlands, rocky hills, and canyons, in well-drained soils at 500-2000m. Statements about is range are difficult to make because of disagreement as to whether northern plants, such as those found in the Flora region, belong to the same species as those found elsewhere.
+Trachypogon secundus resembles Heteropogon, but differs in the longer, non-disarticulating inflorescence and shorter, pale awns. It rates as fairly good fodder when green, but is seldom abundant enough to be an important forage grass.
+</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>33</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis trichodes (Nutt.) Alph. Wood </name_authority_date>
+  </taxon_identification>
+  <common_names>SAND LOVEGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, with innovations, without rhizomes, not glandular. Culms 30-120 (160) cm, erect, glabrous and non-glandular below the nodes. Sheaths sometimes villous along the margins, apices hairy, hairs to 5 mm; ligules 0.3-0.5 mm; blades 15-46(65) cm long, 1.5-8 mm wide, flat to involute, abaxial surfaces glabrous, adaxial surfaces scabridulous, sometimes also pilose on the basal 1/4, hairs to 4 mm. Panicles 30-80 cm long, 6-30 cm wide, oblong to ovoid, diffuse; primary branches 2-35 cm, diverging 20-90° from the rachises, naked basally; pulvini hairy or glabrous; pedicels 2-22 cm, diverging, capillary. Spikelets 3-15 mm long, 1.5—3.6 mm wide, ovate to lanceolate, greenish-yellow with a reddish-purple tinge, with (2)4-18 florets; disarticulation acropetal, paleas persistent. Glumes subequal, 1.8-4 mm, narrowly ovate to linear-lanceolate, membranous, apices acuminate; upper glumes as long as or longer than the basal lemmas; lemmas 2.2-3.5 mm, broadly ovate to lanceolate, membranous, strongly keeled, keels not glandular, lateral veins conspicuous, apices acute; paleas 1.8-2.8 mm, hyaline, narrower than the lemmas, keels ciliolate, apices obtuse to truncate; anthers 3, 1-1.6 mm, purplish. Caryopses 0.8-1.3 mm, rectangular-prismatic, somewhat laterally compressed, with a wide, deep adaxial groove, faintly striate, opaque, dark reddish-brown. 2n = 40.</description>
+  <discussion>Eragrostis trichodes grows in sandy to gravelly prairies, open sandy woods, rocky slopes, and roadsides, at 100-2150 m, often in associations with Quercus marilandica, Q. stellata, Juniperus, and Redfieldia flexuosa. It is endemic to the contiguous United States, and is available commercially as an ornamental. Records from outside the primary range probably reflect introductions.</discussion>
+</bio:treatment>

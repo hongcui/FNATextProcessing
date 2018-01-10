@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Puccinellia angustata (R. Br.) E.L. Rand &
+Redfield 
+</name_authority_date>
+  </taxon_identification>
+  <common_names>TALL ALKALI GRASS, PUCCINELLIE ÉTROITE</common_names>
+  <description type="morphology">Plants perennial; cespitose, not mat-forming. Culms 10-35 cm, erect to decumbent. Ligules (0.8)1-3(4) mm, acute, obtuse, or truncate, entire; blades usually involute and 0.5-1.2 mm in diameter, sometimes flat and 0.5-3 mm wide. Panicles (4)5-10(13)cm, usually contracted, occasionally diffuse at maturity, lower nodes with 2-3(4) branches, lower branches erect to ascending, spikelets usually confined to the distal 1/2; pedicels scabrous, lacking tumid epidermal cells. Spikelets 4-10 mm, with 3-5(6) florets. Glumes rounded over the back, veins obscure, apices acute; lower glumes 1.5-2.8 mm, usually less than 1/2 as long as the adjacent lemmas; upper glumes 2.2-4.2 mm; rachilla internodes slightly and gradually broadened to the point of attachment with the lemmas, at least the lowest internode usually more than 0.09 mm thick; calluses with a few hairs; lemmas 3.5-5.2 mm, herbaceous, often purplish, hairy on the proximal 1/2 along the veins, sometimes also between the veins, backs rounded, 5-veined, veins obscure, not extending to the margins, apical margins hyaline, scabrous, apices acute, entire or erose; palea veins with curly, intertwined hairs proximally, scabrous distally; anthers (0.6) 0.8-1.1(1.5) mm. 2n = 42.</description>
+  <discussion>Puccinellia angustata is a common and widespread arctic species that grows in disturbed silty or sandy sediments. It is usually non-littoral, but when in coastal areas it grows above the influence of high tide.</discussion>
+</bio:treatment>

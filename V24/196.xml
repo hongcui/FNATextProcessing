@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Piptatherum exiguum (Thurb.) Dorn </name_authority_date>
+  </taxon_identification>
+  <common_names>LITTLE PIPTATHERUM</common_names>
+  <description type="morphology">Plants tightly cespitose, not rhizomatous. Culms 12-40 cm, sometimes not exceeding the basal leaves, scabridulous; basal branching mostly intravaginal. Leaves basally concentrated; sheaths mostly smooth, some¬times scabridulous distally; ligules 1.2-3.5 mm, acute; basal blades 9-30 cm long, 0.6-1.4 mm wide when open, usually valvate and 0.4-0.8 mm in diameter, both surfaces scabrous. Panicles 3.5-9 cm, lower nodes with 1-2 branches; branches straight, tightly appressed to the rachises, lower branches 1-2 cm, with 1-2 spikelets. Glumes subequal, 3.5-6 mm long, 1.8-2.2 mm wide, ovate, apices acute; florets 3-6 mm, terete; calluses 0.2-0.5 mm, hirsute, disarticulation scars circular; lemmas evenly pubescent, tan or gray-brown at maturity, margins not overlapping at maturity, apical lobes 2, 0.3-0.4 mm, thick; awns 3.9-7 mm, persistent, strongly once-geniculate, basal segment twisted; paleas not exceeding the lemma lobes, similar in texture and pubescence; anthers 1.5-3 mm; ovaries with a conelike extension bearing a 3-branched style. Caryopses about 2.5 mm long, 1 mm thick; hila linear, 9/10 as long as to equaling the caryopses. 2n = 22.</description>
+  <discussion>Piptatherum exiguum grows on rocky slopes and outcrops in upper montane habitats, from central British Columbia to southwestern Alberta and south to northern California, Nevada, Utah, and northern Colorado. The limited DNA evidence available suggests that it is a basal species within Piptatherum (Jacobs et al. 2006).</discussion>
+</bio:treatment>

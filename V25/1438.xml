@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Axonopus compressus (Sw.) P. Beauv. </name_authority_date>
+  </taxon_identification>
+  <common_names>BROADLEAF CARPETGRASS</common_names>
+  <description type="morphology">Plants stoloniferous, rarely rhizomatous, rhizomes, when present, 3-5 cm. Culms 7-80 cm; nodes glabrous or pubescent. Sheaths keeled, strongly compressed, pubescent; ligules 0.3-0.5 mm; blades  3-20 mm wide, glabrous or sparsely pilose, midveins often white and prominent, apices frequently ciliate or pubescent. Panicles terminal and axillary, 4-10 cm overall, rachises to 3.5 cm, with 2-5 branches; branches 1-13 cm. Spikelets 2-3.5 mm, ovoid, ellipsoid, or lanceoloid, acuminate. Upper glumes and lower lemmas extending beyond the upper florets, 2-5-veined, marginal veins pilose, apices acute to acuminate;  upper lemmas and paleas 1.5-1.8 mm, broadly ellipsoid. Caryopses 1.2-1.5 mm, gray. 2n = 40, 60, 80.</description>
+  <discussion>Axonopus compressus is native from the southeastern United States to Bolivia, Brazil, and Uruguay, and has become established in the Eastern Hemisphere. It is used as a lawn and forage grass but is also weedy, readily growing in moist, disturbed habitats.</discussion>
+</bio:treatment>

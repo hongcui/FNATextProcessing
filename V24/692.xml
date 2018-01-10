@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Kelly W. Allred</author>
+    </source>
+  </meta>
+  <number>14.10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>DACTYLIS L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, sometimes with short rhizomes. Culms to 2.1+ m, bases laterally compressed; internodes hollow; nodes glabrous. Leaves mostly basal, glabrous; sheaths closed for at least 1/2 their length; auricles absent; ligules membranous; blades flat to folded. Inflorescences panicles; primary branches 1-sided, naked proximally, with dense clusters of subsessile spikelets distally, at least some branches longer than 1 cm. Spikelets oval to elliptic in outline, laterally compressed, with 2-6 florets; rachillas glabrous, not prolonged beyond the distal floret; disarticulation above the glumes and beneath the florets. Glumes shorter than the florets, lanceolate, 1-3-veined, ciliate-keeled, awn-tipped; calluses short, blunt; lemmas 5-veined, scabrous to ciliate-keeled, tapering to a short awn; paleas 2-keeled, tightly clasped by the lemmas, unawned, apices notched; lodicules 2, glabrous, toothed; anthers 3; ovaries glabrous. Caryopses shorter than the lemmas, concealed at maturity, oblong to ellipsoid, falling free or adhering to the lemma and/or palea; hila round, x = 7. </description>
+  <discussion>Dactylis is interpreted here as a variable monotypic genus, although five species are recognized by Russian taxonomists. Numerous infraspecific taxa have been recognized in Eurasia, where Dactylis is native, but it does not seem feasible to identify subspecies and varieties in North America.</discussion>
+  <references>Stebbins, G.L., Jr. and D. Zohary. 1959. Cytogenetic and evolutionary studies in the genus Dactylis. Univ. Calif. Publ. Bot. 31:1-40.</references>
+</bio:treatment>

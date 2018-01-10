@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Trisetum cernuum Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>NODDING TRISETUM</common_names>
+  <description type="morphology">Plants perennial, with both fertile and sterile shoots; cespitose, not rhizomatous. Culms (30)50-110 cm, clumped, erect, glabrous or pubescent. Leaves 2-3 per culm; sheaths scabridulous or pilose; ligules  1.5-3 mm, truncate, erose to lacerate; blades (8.5)15-20+  cm long, (3)7-12 mm wide, flat, ascending, lax at maturity, often scabridulous. Panicles 10-30 cm long, (1)2-9 cm wide, open, nodding, green or tan, occasionally purple-tinged; branches 2-12+ cm, most, except sometimes the uppermost, spikelet-bearing only towards the apices, with the basal (1/5)1/3-1/2 bare, filiform, flexuous, at least the lowest 1-3 whorls spreading or drooping. Spikelets 6-12 mm, subsessile to pedicellate, pedicels to 2 cm, usually with 2-3 functional florets below 1-2 reduced florets; rachilla internodes and hairs 1-2.5 mm; disarticulation above the glumes, beneath the florets. Glumes unequal; lower glumes 0.75-2(3) mm, subulate; upper glumes 3.5-5 mm long, shorter than the lowest florets, 2-3 times as wide as the lower glumes, widest at or above the middle, ovate or obovate, rounded to the acuminate apices; callus hairs to 1 mm; lemmas 5-6 mm, broadly lanceolate, glabrous, bifid, teeth to 1.3 mm, awned, awns (7)9-14 mm, arising from above midlength to just below the teeth, exceeding the lemma apices, arcuate to flexuous; paleas shorter than the lemmas; anthers about 1 mm. Caryopses 2.5-3.2 mm, densely to sparsely pubescent. 2n = 42.</description>
+  <discussion>Trisetum cernuum grows in moist woods, on stream banks, lake and pond shores, and floodplains of the western Flora region. The hairiness of the leaf sheaths varies, often within a plant.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Chloris ventricosa R. Br. </name_authority_date>
+  </taxon_identification>
+  <common_names>PLUMP WINDMILL-GRASS</common_names>
+  <description type="morphology">Plants perennial; stoloniferous. Culms to 100 cm, erect. Sheaths glabrous, scabrous, or partly pilose; ligules erose to ciliate; blades with basal hairs to 3 mm, otherwise glabrous, scabrous, or sparsely pilose. Panicles digitate, with 2-9 evidently distinct branches; branches 5-11 cm, spikelet-bearing almost to the base, averaging 10 spikelets per cm. Spikelets with 1 bisexual and 1(2) staminate floret(s). Lower glumes 1.2-2.3 mm; upper glumes 2.5-4.1 mm; lowest lemmas 2-5.4 mm long, 0.6-1.2 mm wide, elliptic to obovate, sometimes ventricose, usually glabrous, midveins scabrous, sides not conspicuously grooved, margins inrolled, usually glabrous or scabrous, occasionally with a few scattered hairs, especially distally, apices entire or minutely bilobed, awned, awns 1-11 mm; second florets 1-2.6 mm long, 0.3-1 mm wide, cylindrical to narrowly turbinate, apices obtuse to truncate, entire, awned, awns 0.5-7.5 mm; anthers 0.7-1.4 mm. Caryopses 1.5-2.1 mm long, about 0.4 mm wide, narrowly obovoid to trigonous. 2n = unknown.</description>
+  <discussion>Chloris ventricosa, an Australian species, has been found near old woolen mills in South Carolina and has been cultivated It is very similar to C. truncata, but usually has shorter panicle branches. Other differences include its usually tawny bisexual lemmas and their usually glabrous margins.</discussion>
+</bio:treatment>

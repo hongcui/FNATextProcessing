@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Panicum dichotomiflorum subsp. puritanorum
+(Svenson) Freckmann & Lelong
+</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 30-60 cm, usually slender, sometimes to 2 mm thick. Sheaths glabrous or sparsely pilose, hairs not papillose-based. Pedicels often over 3 mm, usually longer than the spikelets. Spikelets 1.8-2.2 mm, widest at about the middle, acute. Upper glumes and lower lemmas slightly exceeding the upper florets, submembranacous.</description>
+  <discussion>Panicum dichotomiflorum subsp. puritanorum has a sporadic  distribution  on  receding  shores  along  the Atlantic coast from Nova Scotia to Virginia, and around southern Lake Michigan. The small spikelets with thin glumes and thin lower lemmas are probably genetically fixed traits; the commonly delicate habit, however, probably results from late season seed germination following receding water.</discussion>
+</bio:treatment>

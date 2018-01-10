@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Glyceria maxima (Hartm.) Holmb. </name_authority_date>
+  </taxon_identification>
+  <common_names>TALL GLYCERIA, ENGLISH WATERGRASS, GLYCERIE AQUATIQUE</common_names>
+  <description type="morphology">Plants perennial. Culms 60-250 cm tall, 6-12 mm thick, erect. Sheaths scabridulous, keeled; ligules 1.2-6 mm, rounded or with a central point, ligules of the lower leaves thick, stiff, and opaque, ligules of the upper leaves thinner and translucent; blades 30-60 cm long, 6-20 mm wide, both surfaces smooth or adaxial surfaces scabridulous. Panicles 15-45 cm long, to 30 cm wide, open; branches 8-20 cm, lax, strongly divergent or drooping at maturity, scabridulous, primary branches with 50+ spikelets; pedicels 0.8-10 mm. Spikelets 5-12 mm long, 2-3.5 mm wide, somewhat laterally compressed, oval in side view, with 4-10 florets. Glumes unequal, usually the midvein of 1 or both reaching to the apices; lower glumes 2-3 mm; upper glumes 3-4 mm, longer than wide; rachilla internodes 0.5-1 mm; lemmas 3-4 mm, 7-veined, veins scabridulous, apices broadly acute to rounded, slightly prow-shaped; paleas subequal to the lemmas, lengths more than 3 times widths, keels not winged, ciliate, tips not strongly incurved, curved to broadly notched between the keels; anthers 3, (1)1.2-2 mm. Caryopses 1.5-2 mm. 2n = 60.</description>
+  <discussion>Glyceria maxima is native to Eurasia. It grows in wet areas, including shallow water, at scattered locations in the flora region. It is an excellent fodder grass, and may have been planted deliberately at one time (Dore and McNeill 1980). At some sites, the species appears to be spreading, largely vegetatively. It is easily confused with large specimens of G. grandis, but differs in its firmer, more prow-tipped lemmas as well as its larger lemmas and usually larger anthers.</discussion>
+</bio:treatment>

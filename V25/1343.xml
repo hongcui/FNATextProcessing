@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eriochloa punctata (L.) Desv. ex Ham. </name_authority_date>
+  </taxon_identification>
+  <common_names>LOUISIANA CUPGRASS</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, often flowering the first year and , resembling an annual. Culms 30-150 cm, erect or decumbent, not rooting at the lower nodes; internodes glabrous; nodes 3-10, glabrate. Sheaths occasionally inflated, glabrous (rarely puberulent), often purplish at maturity; ligules 0.4-1 mm; blades 10-50 cm long, (2)4-10(13) mm wide, linear, flat, straight, spreading, glabrous (rarely puberulent) on both surfaces. Panicles 9-22 cm long, 1-10 cm wide, contracted, rarely open; rachises scabrous to densely pubescent; branches (4)8-20(27), 1-6 cm long, 0.3-0.5 mm wide, appressed or divergent, glabrous, not winged, with 28-60 spikelets, spikelets mostly in unequally pedicellate pairs, solitary distally; pedicels 0.1-0.7 mm, uniformly pubescent, hairs about 0.1 mm. Spikelets (4)4.5-5.7 mm long, 0.9-1.4 mm wide. Upper glumes equaling the lower lemmas, lanceolate, sparsely appressed pilose, 5-7-veined, acuminate, sometimes mucronate, mucro shorter than 0.5 mm; lower lemmas 4.3-5.5 mm long, 0.9-1.4 mm wide, lanceolate, setose, 5-7-veined, acuminate, unawned or mucronate; lower paleas absent; anthers absent; upper lemmas 2-3.5 mm (excluding the awn), 0.4-0.6 times as long as the lower lemmas, indurate, elliptic, 5-veined, rounded, awned, awns 0.6-1.5 mm; upper paleas 0.5-1.2 mm, indurate, blunt. 2n = 36.</description>
+  <discussion>Eriochloa punctata grows in coastal marshes, along water courses, and in moist swales and ditches of the coastal plain from Texas and Louisiana south through Mexico to Central and South America. It has not been possible to verify the identification of the specimen from Georgia for this treatment. If correct, it suggests that the species may be more widespread than generally thought.</discussion>
+</bio:treatment>

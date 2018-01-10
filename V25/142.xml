@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>26</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis obtusiflora (E. Fourn.) Scribn. </name_authority_date>
+  </taxon_identification>
+  <common_names>ALKALI LOVEGRASS</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, sometimes also stoloniferous, with many innovations and scaly, sharp-tipped rhizomes 4-8 mm thick. Culms 15-40(50) cm, erect, stiff, hard. Sheaths hairy at the apices, hairs to 2 mm; ligules 0.2-0.4 mm, membranous, ciliate; blades 2-15 cm long, (1)2-4 mm wide, involute, arcuate, glabrous abaxially, scabrous adaxially, apices sharply pointed. Panicles terminal, 6-20(24) cm long, 2-8(12) cm wide, ovate, open or contracted; primary branches 1-8(15) cm, appressed or diverging up to 50° from the rachises; pulvini glabrous or not; pedicels 0-8 mm, appressed, lower pedicels on each branch shorter than 1 mm. Spikelets 8-14 mm long, 1.4-3 mm wide, ovate to lanceolate, stramineous with a reddish-purple tinge, with 5-10 florets; disarticulation basipetal, glumes persistent. Glumes unequal, chartaceous; lower glumes 2.4-3.6 mm; upper glumes 3-4.5 mm, sometimes 3-veined; lemmas 3.8-4.5 mm, ovate, leathery, 3(4, 5)-veined, lateral veins evident, greenish, upper margins hyaline, apices acute to obtuse, usually erose; paleas 3.8-4.5 mm, membranous, keels scabridulous, apices obtuse to truncate; anthers 3, 2-2.4 mm, purplish to yellowish. Caryopses 1.6-2 mm, ellipsoid, dorsally flattened, with a shallow adaxial groove, striate, reddish-brown. 2n = 40.</description>
+  <discussion>Eragrostis obtusiflora is native to the southwestern United States and Mexico. It grows in dry or wet alkali flats, often in association with Distichlis and Sarcobatus, at 900-1400 m.</discussion>
+</bio:treatment>

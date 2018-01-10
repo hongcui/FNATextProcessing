@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Neil Snow</author>
+    </source>
+  </meta>
+  <number>17.48</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>BUCHLOË Engelm.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; usually dioecious; strongly stoloniferous, sometimes mat-forming. Culms 1-30 cm, erect, solid, mostly unbranched, those of the pistillate inflorescences much shorter than those of the staminate inflorescences; nodes mostly glabrous. Leaves basally tufted, not clustered or strongly distichous; sheaths open, rounded, often sparsely pilose near the collar; ligules membranous or of hairs; blades usually flat basally, curling when dry, glabrous or sparsely pilose, apices involute. Staminate inflorescences terminal, usually exceeding the upper leaves, panicles of 1-3(4) racemosely arranged, unilateral, pectinate branches; branches not enclosed at maturity, spikelets densely crowded in 2 rows. Staminate spikelets with 2 florets; glumes unequal, glabrous, 1- or 2-veined; lemmas 3-veined, glabrous, unawned; anthers brownish to red or orange. Pistillate inflorescences terminal, panicles, partially hidden within bracteate leaf sheaths; branches 2-3(4), 2.5-4.5 mm, burlike, with 3-5(7) spikelets; disarticulation at the base of the panicle branches. Pistillate spikelets with 1 floret, almost completely enclosed by the upper glumes; lower glumes irregular and reduced; branch axes and lower portion of upper glumes globose, white, indurate, terminating in 3 awnlike teeth; lemmas firmly membranous, glabrous, 3-veined, unawned or shortly 3-awned. x = 10. </description>
+  <discussion>Buchloë is a monotypic genus of the central plains of North America. It is usually dioecious, infrequently monoecious, or rarely synoecious. On the basis of his molecular studies, Columbus (1999) recommended including it and several other small, usually monoecious or dioecious genera in Bouteloua. Morphologically, the segregate genera differ from Bouteloua only in their pistillate panicles and spikelets and their reproductive mode, but not in their vegetative and staminate structures. Buchloë is maintained here pending corroboration from other studies.</discussion>
+  <references>Beetle, A.A. 1950. Buffalograss-native of the shortgrass plains. Wyoming Agric. Exp. Sta. Bull. 293:1-31; Columbus, J.T. 1999. An expanded circumscription of Bouteloua (Gramineae: Chlorideae): New combinations and names. Aliso 18:61-65; Quinn, J.A. and J.L. Engel. 1986. Life-history strategies and sex ratios for a cultivar and a wild population of Buchloë dactyloides (Gramineae). Amer. J. Bot. 73:874_881; Wenger, L.E. 1940. Inflorescence variations in buffalo grass, Buchloë dactyloides. J. Amer. Soc. Agron. 32:274-277.</references>
+</bio:treatment>

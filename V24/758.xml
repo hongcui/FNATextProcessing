@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>26</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa strictiramea Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>BIG BEND BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; densely tufted, not stoloniferous, not rhizomatous. Basal branching intra-vaginal. Culms 30-90 cm, slender to coarse. Sheaths closed for 1/20 – 1/10 their length, terete, scabrous, glabrous; collars smooth to scabrous; ligules 0.5-4(6) mm, scabrous, apices truncate to acute, entire or lacerate; innovation blades 15-30 cm; cauline blades 1-4 mm wide, involute or rarely flat, moderately thick and firm, both surfaces sparsely to densely antrorsely scabrous, apices narrowly prow-shaped, flag leaf blades usually longer than their sheaths. Panicles (7)10-30 cm, erect, pyramidal, open, with 2-5 branches per node; branches 2-8(15) cm, spreading, straight, angled, angles moderately to densely scabrous, sometimes densely scabrous all over, with 10-30 spikelets. Spikelets 4-7 mm, lanceolate, laterally compressed; florets 2-5; rachilla internodes 0.8-1.5 mm, smooth or scabrous, sometimes sparsely hispidulous. Glumes sparsely to rarely densely scabrous; lower glumes 1-3-veined; calluses usually glabrous, rarely sparsely short-webbed; lemmas 2.5-3.5 mm, lanceolate, distinctly keeled, smooth or sparsely to densely scabrous, keels and marginal veins glabrous or softly puberulent or short- to long-villous, lateral veins moderately prominent to prominent, intercostal regions usually glabrous, infrequently sparsely softly puberulent, apices acute; palea keels scabrous; anthers aborted late in development, or 2.2-2.5 mm. 2n = 28+1, 28-29+11.</description>
+  <discussion>Poa strictiramea grows on shady, upland mountain slopes, usually below north-facing cliffs, in and around the Chihuahuan Desert. In the United States, it is known only from the Chisos Mountains, Texas. It used to be treated as P. involuta Hitchc. Plants from the eastern part of its range, including the Chisos Mountains, commonly have short, truncate ligules, whereas westward in Mexico, plants with long, acute ligules are more common.</discussion>
+</bio:treatment>

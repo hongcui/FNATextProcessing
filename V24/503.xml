@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>13.16</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>xPASCOLEYMUS (B. Boivin) Barkworth</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; rhizomatous. Culms to 120 cm, glabrous. Leaves evenly distributed; sheaths open; auricles present; ligules 0.5-1 mm, ciliate; blades 3-10 mm wide, slightly glaucous, long-tapering to the narrowly acute apices, abaxial surfaces scabridulous, glabrous, adaxial surfaces scabrous. Inflorescences distichous spikes, with 2 spikelets per node. Spikelets sessile, with 8-9 florets: disarticulation above the glumes, beneath the florets. Glumes unequal, linear-lanceolate to subulate; lemmas awned, awns shorter than the lemma body; paleas subequal to the lemmas, apices about 0.2 mm wide; anthers about 3.5 mm, indehiscent.</description>
+  <discussion>xPascoleymus consists, as its name indicates, of hybrids between Pascopyrum and Leymus. Only one such hybrid has been recognized.</discussion>
+  <references>Boivin, B. 1967. Enumerations des plantes du Canada VI—Monopsides (2eme partie). Naturaliste Canad. 94: 471-528.</references>
+</bio:treatment>

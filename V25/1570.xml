@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Apluda mutica L. </name_authority_date>
+  </taxon_identification>
+  <common_names>MAURITIAN GRASS</common_names>
+  <description type="morphology">Culms to 3 m, decumbent and rooting from the lower nodes. Blades 5-25 cm long, 2-10 mm wide, flat, attenuate distally. Inflorescences 3-40 cm; rames to 10 mm long, subtending sheaths 3.5-10 mm, narrowly ovate in side view. Sessile spikelets 2-6 mm; lower glumes narrowly elliptic-lanceolate; upper lemmas unawned or awned; awns 4-12 mm. Pedicellate spikelets broadly lanceolate; larger spikelets 2-5 mm; smaller spikelets 2-4 mm. 2n = 20, 40.</description>
+  <discussion>Reed (1964) reported finding Apluda mutica on chrome ore piles in Canton, Maryland (a temporary unloading ground for ores). The report has not been verified because his voucher specimens were not accessible at the time of writing. They were acquired by the Missouri Botanical Garden in 2001.</discussion>
+</bio:treatment>

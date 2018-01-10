@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Polypogon viridis (Gouan) Breistr. </name_authority_date>
+  </taxon_identification>
+  <common_names>WATER BEARDGRASS</common_names>
+  <description type="morphology">Plants perennial, often flowering the first year. Culms 10-90 cm, sometimes decumbent and rooting at the lower nodes. Sheaths glabrous, smooth; ligules to 5 mm; blades 2-13 cm long, 1-6 mm wide. Panicles 2-10 cm, ovate-oblong to pyramidal, dense but interrupted, pale green to purplish; pedicels not developed; stipes 0.1-0.6 mm. Glumes 1.5-2 mm, scabrous on the back and keel, apices obtuse or truncate, unawned; lemmas about 1 mm, erose, unawned; paleas subequal to the lemmas; anthers 0.3-0.5 mm. 2n = 28, 42.</description>
+  <discussion>Polypogon viridis grows in mesic habitats associated with rivers, streams, and irrigation ditches. It is native from southern Europe to Pakistan, but is now established in the Flora region, particularly the southwestern United States. Records from the Atlantic coast are based on plants found on ballast dumps; there have been no recent collections from these locations.
+In Europe, Polypogon viridis hybridizes with P. monspeliensis, forming P. xadscendens Guss. ex Bertol.; no such hybrids have been reported from the Flora region.
+</discussion>
+</bio:treatment>

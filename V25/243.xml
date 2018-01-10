@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia californica Vasey </name_authority_date>
+  </taxon_identification>
+  <common_names>CALIFORNIA MUHLY</common_names>
+  <description type="morphology">Plants perennial; rhizomatous, not cespitose. Culms 30-70 cm tall, 0.7-1.5 mm thick, decumbent; internodes dull, smooth, and glabrous for most of their length, sometimes strigose immediately below the nodes. Sheaths shorter than the internodes, scabrous, margins whitish; ligules 0.8-2 mm, membranous, truncate, ciliolate, irregularly toothed; blades 4-16 cm long, 2-6 mm wide, flat, scabridulous abaxially, scabrous to strigose adaxially. Panicles terminal, 5-13 cm long, 0.5-2.2 cm wide, dense; branches 0.5-3.2 cm, ascending, appressed or diverging up to 20° from the rachises; pedicels to 1.5 mm, stout, strigose; axillary panicles not present. Spikelets 2.8-4 mm. Glumes subequal, 2.5-4 mm, nearly as long as or slightly longer than the lemmas, scabrous (especially on the veins), 1-veined, tapering from the base to the acuminate apices, usually unawned, awns, if present, to 1.2 mm; lemmas 2.8-4 mm, narrowly lanceolate, with soft hairs on the calluses and lower portion of the lemma bodies, hairs to 1 mm, apices scabridulous, acuminate, awned, awns 0.2-2.2 mm; paleas 2.8-4 mm, subequal to the lemmas, narrowly lanceolate, with short (less than 1.5 mm), soft hairs on the lower 1/2, apices scabridulous, acuminate; anthers 1-1.7 mm, yellow. Caryopses 1.7-2 mm, fusiform, brown. 2n = 80.</description>
+  <discussion>Muhlenbergia californica grows in canyons, along moist ditches, and on sandy slopes, at elevations of 100-2150 m. It is endemic to the Transverse Ranges of southern California.
+ 
+</discussion>
+</bio:treatment>

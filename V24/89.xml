@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Glyceria data (Nash) M.E. Jones </name_authority_date>
+  </taxon_identification>
+  <common_names>TALL MANNAGRASS</common_names>
+  <description type="morphology">Plants perennial. Culms 75-150 cm tall, 2.5-8 mm thick, spongy, decumbent and rooting at the lower nodes. Sheaths scabridulous or hirtellous, not or weakly keeled; ligules 2.5-4(6) mm, truncate to acute, erose, puberulent; blades 19-40+ mm long, 6-12(15) mm wide, abaxial surfaces smooth or scabridulous, adaxial surfaces usually scabrous, sometimes scabridulous. Panicles 15-30 cm long, 12-30 cm wide, pyramidal, open; branches 12-17 cm, divergent to drooping, lax, with 30-50+ spikelets; pedicels 0.3-5 mm. Spikelets 3-6 mm long, 1.5-2.8 mm wide, laterally compressed, oval in side view, with 3-4(6) florets. Glumes 1-1.5(2) times longer than wide, narrowing beyond midlength, veins terminating below the apical margins, apices obtuse to rounded; lower glumes 0.7-1.5 mm; upper glumes 1-1.5 mm; rachilla internodes 0.5-0.6 mm; lemmas 1.7-2.2 mm, oval in dorsal view, 5-7-veined,  veins raised throughout, scabridulous, apices rounded, prow-shaped; paleas subequal to or often slightly longer than the lemmas, lengths 2.4-3 times widths, oval in dorsal view, keels not winged, tips pointing towards each other, apices narrowly notched between the keels; anthers 2, 0.5-0.8 mm. Caryopses 0.8-1.5 mm long, 0.5-0.7 mm wide; hila as long as the caryopses. 2n = 20.</description>
+  <discussion>Glyceria elata grows in wet meadows and shady moist woods, from British Columbia east to Alberta and south to California and New Mexico. It is not known from Mexico. The anomalous record from Georgia may represent an inadvertent introduction. It is very similar to, and sometimes confused with, G. striata, but the two sometimes grow together and show no evidence of hybridization. Their differences in growth habit and stature are evident in the field. Molecular data (Whipple et al. [in press]) confirm that G. elata and G. striata are distinct, closely related entities.
+Glyceria elata is also sometimes confused with G. grandis. It differs in having rounded glumes with veins that terminate below the apices, more readily disarticu-lating florets, and greener lemmas with more prow-shaped apices, as well as in having paleal keel tips that point towards each other. In its overall aspect, it also resembles G. pulchella, but has somewhat more lax panicle branches than that species, in addition to smaller spikelets and florets.
+</discussion>
+</bio:treatment>

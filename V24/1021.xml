@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Calamagrostis porteri A. Gray subsp. porteri </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms (60)75-100 cm. Sheaths smooth or slightly scabrous; collars usually with prominent tufts of hair, rarely glabrous; ligules (1)2-5(6) mm; blades 8-40 cm long, (2)3-6(8) mm wide, abaxial surfaces darker green than the adaxial surfaces, adaxial surfaces light green, glaucous. Panicles (5)10-12(15) cm long, 0.8-3(7) cm wide; branches (1.5)2-5 cm. Spikelets 4-5 mm; rachilla prolongations with 1.5-2(3.5) mm hairs. Callus hairs 1.5-2 mm, 0.4-0.6 times as long as the lemmas; lemmas 3.5-4.5 mm, 0.5-1.5 mm shorter than the glumes; awns 3-4(4.5) mm, attached to the lower 1/10 – 1/5 of the lemmas; anthers about 2 mm. 2n = 84-±104.</description>
+  <discussion>Calamagrostis porteri subsp. porteri grows from New York to Virginia, Tennessee, and Kentucky. One specimen from Claiborne County, Tennessee, lacks hairs around the collar, but the leaves are glaucous on both surfaces. There are other specimens from this county that have hairy collars.
+Calamagrostis porteri subsp. porteri appears to form hybrids with the nearly sympatric C. canadensis (p. 726) in rocky wooded sites in central Virginia. These putative hybrids have hairy collars, relatively long callus hairs, and short awns.
+ 
+</discussion>
+</bio:treatment>

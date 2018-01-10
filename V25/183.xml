@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dactyloctenium aegyptium (L.) Willd. </name_authority_date>
+  </taxon_identification>
+  <common_names>DURBAN CROWFOOT</common_names>
+  <description type="morphology">Plants tufted annuals or short¬lived, shortly stoloniferous perennials. Culms 10-35(100) cm, usually geniculately ascending and rooting at the lower nodes. Sheaths keeled, with papillose-based hairs distally; ligules 0.5-1.5 mm, membranous, ciliate; blades 5-22 cm long, 2-8(12) mm wide, with papillose-based hairs. Panicle branches (1)2-6(8), 1.5-6 cm, only the first few spikelets in contact with the spikelets of adjacent branches; branch axes extending beyond the spikelets for 1-6 mm. Spikelets 3-4.5 mm long, about 3 mm wide. Glumes 1.5-2 mm; lower glumes ovate, acute; upper glumes oblong elliptic, obtuse, awned, awns 1-2.5 mm; lemmas 2.5-3.5 mm, ovate, midveins extended into curved, 0.5-1 mm awns; paleas about as long as the lemmas; anthers 0.5-0.8 mm, pale yellow. Seeds cuboid, about 1 mm long and wide, transversely rugose, light tan to reddish-brown. 2n = 20, 36, 40, 45, 48.</description>
+  <discussion>Dactyloctenium aegyptium is a widely distributed weed of disturbed sites in the Flora region. It is also considered a weed in southern Africa, but the seeds have been used for food and drink in times of famine. In addition, bruised young seeds have been used as a fish poison, and extracts are reputed to help kidney ailments and coughing (Koekemoer 1991). In Australia, it is planted as a sand stabilizer along the coast (Jacobs and Hastings 1993).</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Setaria barbata (Lam.) Kunth </name_authority_date>
+  </taxon_identification>
+  <common_names>MARY GRASS, CORN GRASS</common_names>
+  <description type="morphology">Plants annual. Culms 50-200 cm; nodes pubescent. Sheaths with ciliate margins distally; ligules about 1 mm, ciliate; blades 10-25 mm wide, plicate, both surfaces scabrous, adaxial surfaces with parallel rows of papillose-based  hairs.  Panicles to 20 cm, open; branches 2-4 cm, axes villous; bristles solitary, usually only present below the terminal spikelet on each branch, occasionally below non-terminal spikelets, 5-8 mm, flexible. Spikelets 2.5-3 mm. Lower glumes about 1 mm, orbicu¬lar, 3-5-veined; upper glumes about 2 mm, ovate, 7-veined; lower lemmas about 2.5 mm, slightly coriaceous, acute; lower paleas about equaling the lower lemmas in length and width; upper lemmas about 2.3 mm, strongly transversely rugose; upper paleas enclosed. 2n = 54, 56. </description>
+  <discussion>Setaria barbata is an African species that was apparently introduced to the Western Hemisphere from Asia. It is now common throughout the West Indies, but rare in the Flora region.</discussion>
+</bio:treatment>

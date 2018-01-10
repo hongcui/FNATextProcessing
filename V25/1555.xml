@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bothriochloa exaristata (Nash) Henrard </name_authority_date>
+  </taxon_identification>
+  <common_names>AWNLESS BLUESTEM</common_names>
+  <description type="morphology">Culms 40-150 cm, erect; nodes glabrous, uppermost node often concealed within the sheaths. Leaves cauline, mostly glabrous; sheaths with a white, powdery bloom; ligules 1-2.2 mm; blades 10-20 cm long, 3-6(8) mm wide, flat to folded. Panicles 4.5-15 cm, lanceolate; rachises with numerous branches; branches shorter than the rachises, erect-appressed, lacking axillary pulvini; rame internodes with a central groove about as wide as the margins, margins densely villous, hairs 4-6 mm, obscuring the spikelets. Sessile spikelets 2.5-4 mm long, 0.6-0.8 mm wide, narrowly ovate; lower glumes glabrous or sparsely short-pilose, lacking a dorsal pit; awns absent or to 6 mm; anthers 0.5-1.5 mm. Pedicellate spikelets shorter than the sessile spikelets, sterile. 2n = 60.</description>
+  <discussion>Bothriochloa exaristata grows in heavy soils of fields and roadsides of the Gulf coastal prairie, at 2-150 m, as well as in coastal areas of southern Brazil and adjacent Argentina, and inland along the Rio Pilcomayo to Paraguay. It has been reported from Los Angeles County, California. When growing in dense grassland thickets, B. exaristata has rather spindly basal growth, but branches abundantly from the middle and upper nodes.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>27</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca brevissima Jurtsev </name_authority_date>
+  </taxon_identification>
+  <common_names>SHORT FESCUE</common_names>
+  <description type="morphology">Plants densely cespitose, without rhizomes. Culms (3)10-15 (18) cm, more than twice as tall as the vegetative shoot leaves, erect, glabrous, sometimes slightly scabrous below the inflorescences. Sheaths closed for about 1/2 their length, glabrous, persistent; collars glabrous; ligules 0.3-0.5 mm; blades (0.3)0.4-0.8(1) mm in diameter, conduplicate, abaxial surfaces glabrous, adaxial surfaces scabrous or pubescent, veins 5-7(9), ribs (3)5(7); abaxial sclerenchyma in 5-7 strands, usually less than twice as wide as high; adaxial sclerenchyma absent; flag leaf sheaths often somewhat inflated; flag leaf blades 0.2-1 cm. Inflorescences (0.7)1-5 cm, usually racemes; branches erect, lower branches with 1(2) spikelets. Spikelets (4)5-7(8) mm, with 2-4(5) florets. Glumes exceeded by the upper florets, ovate-lanceolate to lanceolate; lower glumes (1.2)2.5-3.2 mm; upper glumes (2.4)3.2-4.8 mm; lemmas (3)4-5.5(7) mm, ovate-lanceolate to lanceolate, glabrous, scabrous distally, awns (0.2)0.5-2.5 mm, terminal; paleas about as long as the lemmas, intercostal region smooth or scabrous distally; anthers (0.6)0.9-1.2 mm; ovary apices glabrous. 2n = 14.</description>
+  <discussion>Festuca brevissima is an amphiberingian diploid species that grows in rocky tundra habitats from the Russian Far East to Alaska and the western part of the Northwest Territories. It has frequently been included in F. ovina (p. 422).</discussion>
+</bio:treatment>

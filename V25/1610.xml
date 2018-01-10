@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Schizachyrium scoparium (Michx.) Nash </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose or rhizomatous, green to purplish, sometimes glaucous. Culms 7-210 cm tall, usually 1-3 mm thick, not rooting or branching at the lower nodes. Sheaths rounded or keeled, glabrous or pubescent, sometimes glaucous; ligules 0.5-2 mm, collars neither elongate nor narrowed; blades 7-105 cm long, 1.5-9 mm wide, without a longitudinal stripe of white, spongy tissue. Peduncles 0.8-10 cm; rames 2.5-8 cm, partially to completely exserted, usually somewhat open; internodes 3-7 mm, usually arcuate at maturity, ciliate on at least the distal 1/2 (sometimes throughout), hairs 1.5-6 mm. Sessile spikelets 3-11 mm; calluses 0.5-1(2) mm, hairs 0.3-4 mm; lower glumes glabrous; upper lemmas membranous throughout, cleft to 1/2 their length; awns 2.5-17 mm. Pedicels 3-7.5 mm long, 0.1-0.2 mm wide at the base, flaring above midlength to 0.3-0.5 mm, straight or curving outwards. Pedicellate spikelets 0.7-10 mm, sometimes shorter than the sessile spikelets, sterile or staminate, unawned or awned, awns to 4 mm, when sterile, the lemma usually absent. 2n = 40.</description>
+  <discussion>Schizachyrium scoparium is a widespread grassland species extending from Canada to Mexico. It is one of the principal grasses in the tallgrass prairies that used to dominate the central plains of North America. It exhibits considerable variation, much of it clinal. The following varieties are recognized because they are morphologically, ecologically, and geographically distinctive.</discussion>
+  <key>
+    <key_body>
+1. Plants   not  cespitose,   strongly  rhizomatous; pedicellate spikelets sterile .....var. stoloniferum
+1. Plants usually cespitose, not or shortly rhizomatous; pedicellate spikelets staminate or sterile.
+2. Pedicellate spikelets of the proximal spikelet units on each rame staminate, 5-10 mm long, with a lemma, pedicellate spikelets of the distal units usually smaller (1-4 mm) and sterile; sheaths and blades densely tomentose to glabrate.....var. divergens
+2. Most pedicellate spikelets sterile, 1-6 mm long, without a lemma; sheaths and blades usually glabrous, occasionally pubescent.....var. scoparium
+
+    </key_body>
+  </key>
+</bio:treatment>

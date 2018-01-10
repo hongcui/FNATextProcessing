@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca versuta Beal </name_authority_date>
+  </taxon_identification>
+  <common_names>TEXAS FESCUE</common_names>
+  <description type="morphology">Plants loosely cespitose, without rhizomes. Culms 50-100 cm, glabrous, somewhat glaucous; nodes usually exposed. Sheaths closed for less than 1/3 their length, glabrous or sparsely pubescent, shredding into fibers; ligules 0.5-1 mm; blades 2-10 mm wide, flat, loosely conduplicate, or involute, abaxial surfaces smooth or scabrous, glabrous or puberulent, adaxial surfaces smooth or scabrous, veins 13-35, ribs obscure; sclerenchyma in abaxial and adaxial strands; girders formed at most major veins. Inflorescences (8)10-30(40) cm, open, with 1-2 branches per node; branches lax, spreading, spikelets borne towards the ends of branches. Spikelets 6-11 mm, sometimes glaucous, with (2)3-5 florets. Glumes lanceolate, smooth or scabrous, acuminate; lower glumes 4-7 mm; upper glumes 5-7.5 mm; lemmas 5-8 mm, chartaceous, lanceolate, glabrous, usually smooth, sometimes scabrous towards the apices, apices acute to acuminate, unawned, sometimes mucronate; paleas as long as or slightly shorter than the lemmas, intercostal region puberulent distally; anthers 2-3 mm; ovary apices densely pubescent. 2n = unknown.</description>
+  <discussion>Festuca versuta grows in moist, shaded sites on rocky slopes in open woods, from Oklahoma and Arkansas to Texas. It is an uncommon species.</discussion>
+</bio:treatment>

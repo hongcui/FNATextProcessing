@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>8</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Chloris gayana Kunth </name_authority_date>
+  </taxon_identification>
+  <common_names>RHODESGRASS</common_names>
+  <description type="morphology">Plants perennial; usually stoloniferous. Culms to 300 cm, erect.  Sheaths glabrous or scabrous, often ciliate apically; ligules ciliate; blades to 30 cm long, 15 mm wide, scabrous. Panicles digitate, with 9-30 evidently distinct branches; branches 8-20 cm, usually somewhat divaricate,   spikelet-bearing to the base, averaging 10 spikelets per cm.   Spikelets strongly imbricate, tawny, with 1 bisexual and (1)2-4 usually staminate, sometimes sterile florets. Lower glumes 1.4-2.8 mm; upper glumes 2.2-3.5 mm; lowest lemmas 2.5-4.2 mm long, 0.7-1 mm wide, ovate to obovate or elliptic, somewhat gibbous, sides not grooved, pubescence variable, sides usually glabrous, sometimes scabrous or appressed pubescent, margins usually glabrous or appressed pubescent on the lower portions, sometimes throughout their length, sometimes with strongly divergent hairs distally, occasionally with strongly divergent hairs their entire length, divergent hairs, when present, 1+ mm, lemma apices inconspicuously bilobed, awned, awns 1.5-6.5 mm; second florets staminate or sterile, 2.2-3.2 mm long, 0.3-1 mm wide, similar to the first floret but more cylindrical, not widened distally, inflated, if at all, only near the apices, inconspicuously bilobed, awned, awns 0.8-3.2 mm; distal florets progressively smaller, longer than the subtending rachilla segment, awn-tipped or unawned. Caryopses 1-1.5 mm long, about 0.5 mm wide. 2n = 20, 30, 40.
+ 
+</description>
+  <discussion>Chloris gayana grows in warm-temperate to tropical regions throughout the world, including the southern United States. It is cultivated as a meadow grass in irrigated regions of the southwest.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>16</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia appressa CO. Goodd. </name_authority_date>
+  </taxon_identification>
+  <common_names>DEVIL'S-CANYON MUHLY</common_names>
+  <description type="morphology">Plants annual. Culms 10-42 cm, erect or decumbent, much branched below; internodes mostly scabrous, scabrous or hispidulous below the nodes. Sheaths usually shorter than the internodes, flattened below, glabrous, scabridulous or smooth, striate; ligules 1.5-3 mm, hyaline, acute, lacerate, with lateral lobes; blades 1-5(7) cm long, 0.8-1.6(2) mm wide, flat or involute, scabrous abaxially, pubescent adaxially. Panicles 4-23 cm long, 0.5-2 cm wide, usually partially included in the subtending sheaths at maturity; primary branches 20-45 mm, ascending, closely appressed; pedicels 1-5 mm, appressed, scabrous; disarticulation above the glumes. Spikelets 4-7.5 mm, borne singly. Glumes 1-2 mm, 1-veined, veins conspicuous, scabrous, and greenish basally, apices obtuse to subacute, often erose; lemmas 4-6.2(7.5)   mm,  narrowly  lanceolate, terete, mostly smooth, scabrous distally, hairy on the calluses and lower 1/4 of the margins, hairs 0.2-0.3  mm, whitish, lemma bodies not appearing 5-veined, apices acuminate, awned, awns 10-30 mm, straight, scabrous; paleas 3.8-5.7(7) mm, narrowly lanceolate; anthers 0.3-1.1 mm, purplish. Caryopses 1.6-3 mm, narrowly fusiform, brownish to pinkish. Cleistogamous spikelets usually present in the axils of the lower leaves. 2n = unknown.</description>
+  <discussion>Muhlenbergia appressa grows in sandy drainages, canyon bottoms, rocky road cuts, and sandy slopes, at elevations of  20-1750  m. Its range extends from Arizona to Baja California, Mexico. It grows in gramma grasslands, oak-juniper woodlands, and chaparral associations.</discussion>
+</bio:treatment>

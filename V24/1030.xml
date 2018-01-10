@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Calamagrostis canadensis var. macouniana (Vasey) Stebbins</name_authority_date>
+  </taxon_identification>
+  <common_names>MACOUN'S REEDGRASS</common_names>
+  <description type="morphology">Culms 100-112 cm, not branching above the base, smooth beneath the panicles; nodes 5-7. Sheaths and collars smooth or slightly scabrous; ligules (2)3-4(5) mm; blades (10)17-30(33) cm long, 2-6(8) mm wide, adaxial surfaces scabrous, sometimes with widely scattered long hairs, often glaucous. Panicles 14-17(20) cm long, (2.5)3(4) cm wide, usually purplish; branches 4.8-6(7) cm. Spikelets (2)2.5-3 mm; rachilla prolongations about 0.5 mm, hairs 1.5-2 mm. Glumes rounded, smooth, or sometimes slightly scabrous distally, often only on the midvein, prickles straight, midveins not raised, lateral veins obscure, apices acute; callus hairs 2-2.5 mm, nearly as long as the lemmas; lemmas 2-2.5 mm, 0-1 mm shorter than the glumes; awns 1.2-2 mm, attached to the lower 1/5-1/2 of the lemmas, not exserted, straight; anthers 1-2 mm. 2n = unknown.</description>
+  <discussion>Calamagrostis canadensis var. macouniana is common in marshes and mud flats. It ranges eastward from Saskatchewan to Prince Edward Island and Nova Scotia, and from North Dakota and Missouri to New Jersey and Virginia. According to C.L. Hitchcock (Hitchcock et al. 1969), it may extend as far west as Idaho.
+ Vernon Harms (pers. comm.) reports that in the southern grassland region of Saskatchewan, intermediates between Calamagrostis canadensis var. macouniana and var. canadensis appear to be more common than plants that fit var. macouniana well. Some specimens that seem nearest to var. macouniana stretch across southern Saskatchewan south of 51° N latitude, from the Cypress Hills in the west to the Souris Valley in the east. Harms' observations suggest that it may not be practical to recognize this variety.
+</discussion>
+</bio:treatment>

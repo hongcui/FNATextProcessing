@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>15</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum dilatatum Poir. </name_authority_date>
+  </taxon_identification>
+  <common_names>DALLISGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, rhizomatous, rhizomes short (less than 1 cm), forming a knotty base. Culms 50-175 cm, erect; nodes glabrous. Sheaths glabrous or pubescent, lower sheaths more frequently pubescent than the upper sheaths; ligules 1.5-3.8 mm; blades to 35 cm long, 2-16.5 mm wide, flat, mostly glabrous, adaxial surfaces with a few long hairs near the base. Panicles terminal, with 2-7 racemosely arranged branches; branches 1.5-12 cm, racemose, divergent; branch axes 0.7-1.4 mm wide, winged, glabrous, margins scabrous, terminating in a spikelet. Spikelets 2.3-4 mm long, 1.7-2.5 mm wide, paired, appressed to the branch axes, ovate, tapering to an acute apex, stramineous (rarely purple). Lower glumes absent; upper glumes and lower lemmas 5-7-veined, margins pilose; upper florets stramineous. Caryopses 2-2.3 mm, white to brown. 2n = 20, 40, 50-63.</description>
+  <discussion>Paspalum dilatatum is native to Brazil and Argentina. It is now well established in the Flora region, generally as a weed in waste places. It is also used as a turf grass.</discussion>
+</bio:treatment>

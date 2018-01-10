@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Paspalum setaceum var. psammophilum (Nash) D.J. Banks </name_authority_date>
+  </taxon_identification>
+  <common_names>SAND PASPALUM</common_names>
+  <description type="morphology">Plants spreading to prostrate. Leaves mostly cauline; blades to 16 cm long, 2.8-8.3 mm wide, lax to straight, grayish-green, surfaces and margins evidently hirsute, with soft, short hairs. Panicle branches 3.1-5.9 cm; branch axes 0.7-1 mm wide. Spikelets 1.8-2.2 mm long, 1.6-1.8 mm wide, suborbicular to orbicular, pubescent; lower lemmas without an evident midvein; upper florets 1.8-2.1 mm.</description>
+  <discussion>Paspalum setaceum var. psammophilum grows in sandy, maritime habitats and, inland, along sandy roadsides and in dry fields, from Massachusetts to the District of Columbia. The combination of its spreading to prostrate habit and densely puberulent foliage distinguishes it from other varieties of P. setaceum.</discussion>
+</bio:treatment>

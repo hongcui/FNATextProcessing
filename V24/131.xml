@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Jacques Cayouette </author>
+      <author>Stephen J. Darbyshire</author>
+    </source>
+  </meta>
+  <number>9.03</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>SCHIZACHNE Hack.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; loosely cespitose. Culms 30-110 cm, glabrous, often decumbent at the base; nodes glabrous, becoming dark. Sheaths closed almost to the top; ligules membranous, margins often united in front; blades folded or loosely involute, glabrous or pilose. Inflorescences panicles or racemes, with 4-20 spikelets; branches straight and appressed to lax and drooping. Spikelets slightly laterally compressed, with 3-6 florets; disarticulation above the glumes and beneath the florets. Glumes exceeded by the lowest lemma in each spikelet, chartaceous, often anthocyanic below, the upper 1/3 hyaline; calluses rounded, with hairs; lemmas chartaceous, slightly scabrous, 7-9-veined, veins parallel, conspicuous, apices scarious, bifid, awned from below the teeth, awns 8-15 mm, divergent or slightly geniculate; paleas shorter than the lemmas, 2-veined, veins ciliate, keeled; lodicules truncate; anthers 3; ovaries glabrous. Caryopses 3.2-3.8 mm, smooth, shiny, falling free of the lemma and palea. x = 10. </description>
+  <discussion>Schizachne is a monospecific genus that extends across North America in boreal regions and southwards in the montane areas, as well as from the Ural Mountains of Russia to Kamchatka and Japan.</discussion>
+  <references>Koyama, T. and S. Kawano. 1964. Critical taxa of grasses with North American and eastern Asiatic distribution. Canad. J. Bot. 42:859-884; McNeill, J. and W.G. Dore. 1976. Taxonomic and nomenclatural notes on Ontario grasses. Naturaliste Canad. 103:553-567; Tsvelev, N.N. 1976. Zlaki SSSR. Nauka, Leningrad [St. Petersburg], Russia. 788 pp.</references>
+</bio:treatment>

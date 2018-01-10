@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>26</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Calamagrostis stricta (Timm) Koeler </name_authority_date>
+  </taxon_identification>
+  <common_names>SLIMSTEM REEDGRASS</common_names>
+  <description type="morphology">Plants rarely with sterile culms; cespitose, usually with rhizomes shorter than 5 cm, 1-1.5 mm thick. Culms (10)35-90(120) cm, usually unbranched, smooth to slightly scabrous; nodes 1-3(4). Sheaths usually smooth; collars usually smooth, sometimes scabrous, rarely pubescent; ligules (0.5)1-5.5(6) mm, truncate to obtuse, usually entire, sometimes lacerate; blades (5)11-25(34) cm long, (1)1.5-5(6) mm wide, flat or involute, usually scabrous, rarely smooth, sometimes puberulent. Panicles (2)4-18(29) cm long, (0.7)1-2(2.8) cm wide, erect, contracted, sometimes interrupted, pale green to purple; branches 1.4-5(9.5) mm, smooth or scabrous, usually spikelet-bearing to or near the base, sometimes only to midlength. Spikelets 2-4(5) mm; rachilla prolongations 0.5-1.5 mm, hairs 1.5-3 mm. Glumes usually less than 3 times as long as wide, rounded or keeled, usually smooth, rarely scabrous, keels smooth or scabrous, veins prominent to obscure, apices acute; callus hairs (1)1.5-3(4.5) mm, (0.5)0.7-0.9(1.3) times as long as the lemmas, abundant; lemmas 2-4(5) mm, 0.1-1.5 mm shorter than the glumes; awns 1.5-2.5 mm, usually attached to the lower 1/10-1/2 of the lemmas, rarely beyond the midpoint, equaling or exserted slightly beyond the margins of the glumes, usually stout, rarely slender, usually distinguishable from the callus hairs, straight or bent; anthers (0.9)1.2-1.8(2.4) mm, often sterile.</description>
+  <discussion>Calamagrostis stricta grows throughout northern North America; it also is found in Europe and northeastern Asia. It grows in habitats ranging from meadows and grassland to wetlands, sandy shorelines, and sand dunes, from sea level to 3400 m. Primarily a species of open settings, it is frequently found in association with shrubs. Both subspecies have a notable but not exclusive association with alkaline to saline substrates.
+Calamagrostis stricta comprises both sexual and apomictic populations. Two subspecies, C. stricta subsp. stricta and subsp. inexpansa, intergrade but generally differ as described below. Greene (1984) treated subsp. inexpansa as consisting of the apomictic plants, probably derived from the sexual subsp. stricta. A number of apomictic variants were previously recognized at the species level; among these were C. lacustris (Kearney) Nash and C. fernaldii Louis-Marie, which are morphologically nearly indistinguishable from each other (Greene 1980, 1984).
+Plants of short stature and short inflorescences, growing in the north, have been referred to as Calamagrostis stricta subsp. borealis (C. Laest.) Á. Löve & D. Love or C. stricta var. borealis (C. Laest.) Hartm. These intergrade with taller plants; they are not recognized here as a distinct taxonomic entity.
+Calamagrostis stricta is sometimes confused with C. lapponica (see previous). In addition to the differences noted in the descriptions and key, the glumes of C. stricta are not as smooth and glossy, and are generally brown at the tip; those of C. lapponica are typically purple.
+
+ 
+</discussion>
+  <key>
+    <key_body>
+1. Spikelets 3-4(5) mm long; callus hairs 2-4.5 mm long; rachilla prolongations 1-1.5 mm long; panicle branches 1.5-9.5 cm long; culms usually scabrous, sometimes smooth .....subsp. inexpansa
+1. Spikelets 2-2.5(3) mm long; callus hairs 1-3 mm long; rachilla prolongations 0.5-1 mm long; panicle branches 1.4-4 cm long; culms usually smooth, sometimes slightly scabrous  .....subsp. stricta
+
+    </key_body>
+  </key>
+</bio:treatment>

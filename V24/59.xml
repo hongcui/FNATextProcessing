@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Edward E. Terrell</author>
+    </source>
+  </meta>
+  <number>5.06</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>LUZIOLA Juss.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; aquatic, usually rooted, sometimes floating; stoloniferous, sometimes mat-forming; monoecious. Culms 10-100+ cm, erect or prostrate, sometimes rooting at the nodes, branched, emergent or immersed. Leaves cauline; sheaths open, not inflated or somewhat inflated; ligules hyaline; pseudopetioles present or absent; blades flat, linear to lanceolate or narrowly elliptic, glabrous, pubescent, or scabrous. Inflorescences panicles, racemes, or spikes, exserted or enclosed, staminate and pistillate spikelets usually in separate inflorescences, pistillate inflorescences at the lower or middle nodes, staminate inflorescences usually terminal; disarticulation below the spikelets. Spikelets unisexual, laterally compressed to subterete, with 1 floret. Glumes absent; calluses glabrous; lemmas and paleas subequal, ovate or lanceolate, membranous or hyaline, unawned; lodicules 2. Staminate lemmas and paleas obscurely few- to several-veined; anthers 6-16. Pistillate lemmas 5-14-veined, margins not clasping the margins of the paleas, unawned; paleas 3-10-veined; styles 2, bases fused, stigmas laterally or terminally exserted, plumose. Fruits achenes, ovoid, ellipsoid, or subglobose, beaked by the persistent style bases; pericarps shell-like, partially free from the seed, smooth or striate, crustaceous; seeds ovoid to subglobose; embryos basal; hila linear, x = 12. </description>
+  <discussion>Luziola is a genus of about 12 species that range from the southeastern United States to Argentina. Only L. fluitans is native to the Flora region; two other species have been introduced and are established. The species are emergent or immersed in shallow, fresh to brackish water.</discussion>
+  <references>Anderson, L.C. and D.W. Hall. 1993. Luziola bahiensis (Poaceae): New to Florida. Sida 15:619-622; Pohl, R.W. and G. Davidse. 2001. Luziola. Pp. 2072-2073 in W.D. Stevens, C.U. Ulloa, A. Pool, and M. Montiel (eds.). Flora de Nicaragua, Vol. 3: Angiosperms (Pandanaceae-Zygophyllaceae). Missouri Botanical Garden Press, St. Louis, Missouri, U.S.A. 2666 pp. [for vols. 1-3]; Swallen, J.R. 1965. The grass genus Luziola. Ann. Missouri Bot. Gard. 52:472-475; Terrell, E.E. and H. Robinson. 1974. Luziolinae, a new subtribe of oryzoid grasses. Bull. Torrey Bot. Club 101:235-245.</references>
+  <key>
+    <key_body>
+1. Culms prostrate, usually immersed; leaves floating or streaming in currents, 1-5(8) cm long, usually more numerous towards the ends of the culms; pistillate inflorescences mostly included in the sheaths, only the stigmas visible.....1. L. fluitans
+1. Culms suberect to erect, from fully emergent to immersed; leaves not conspicuously floating or streaming, longer than 6 cm, basal or scattered along the culms; pistillate inflorescences all or mostly exserted, their branches and spikelets evident.
+2. Pistillate florets 3-5 mm long; achenes striate.....2. L. bahiensis
+2. Pistillate florets 2-2.5 mm long; achenes smooth.....3. L. peruviana
+    </key_body>
+  </key>
+</bio:treatment>

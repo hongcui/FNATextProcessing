@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Orcuttia pilosa Hoover </name_authority_date>
+  </taxon_identification>
+  <common_names>HAIRY ORCUTTGRASS</common_names>
+  <description type="morphology">Plants cespitose, hairy, usually densely so. Culms 5-20(35) cm tall, 1-2 mm thick, simple or branching at the lower nodes, erect or decumbent, sometimes geniculate. Leaves with a faint "collar" line usually evident when dry; blades 4-6 cm long, 3-5(8) mm wide. Spikes to 10 cm; lower internodes 5-15 mm; upper internodes 1.5-3 mm. Spikelets with 10-40 florets. Glumes about 3 mm, irregularly 3-toothed; lemmas 4-5 mm, teeth about equal and 1/3–1/2 as long as the lemmas, acute or awn-tipped; anthers 2.5-3 mm. Caryopses about 2 mm, elliptical; embryos 3/4 or more as long as the caryopses. 2n = 30.</description>
+  <discussion>Orcuttia pilosa grows at elevations below 150 m in Madera, Merced, Stanislaus, and Tehama counties, California. It is listed as an endangered species by the U.S. Fish and Wildlife Service.</discussion>
+</bio:treatment>

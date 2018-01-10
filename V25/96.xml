@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Leptochloa viscida (Scribn.) Beal </name_authority_date>
+  </taxon_identification>
+  <common_names>SONORAN SPRANGLETOP</common_names>
+  <description type="morphology">Plants annual. Culms (3)10-60 cm, prostrate or erect, round or somewhat   compressed, often highly branched; internodes hollow. Sheaths glabrous (rarely sparsely pilose near the base), sometimes with a sticky exudate;  ligules   1.2-2.5 mm, truncate, erose to lacerate; blades 1-15 cm long,   1.2-5.5 mm wide, glabrous abaxially and adaxially. Panicles 2-17 cm, with 5-23 racemose branches; branches 1-2.5(3.5) cm, stiff, often included in the upper leaf sheaths. Spikelets 4.5-7.5 mm, more or less imbricate, magenta or green, with 2-6 florets. Glumes triangular, acute; lower glumes 1.6-2 mm, acute; upper glumes 2-2.9 mm; lemmas 2.4-3.5 mm, ovate, membranous, sericeous along the lower veins, lateral veins pronounced, apices acute, obtuse, or truncate, awned, awns 0.5-1.5 mm; paleas minutely scabrous along the veins; anthers 3, 0.4-0.5 mm. Caryopses 1.2-1.6 mm long, 0.4-0.5 mm wide, narrowly elliptic to obovate, transversely elliptic in cross section. 2n = 40.</description>
+  <discussion>Leptochloa viscida is a Sonoran Desert species that occurs from southern California to southwestern New Mexico and south into adjacent Mexico. It differs from L. fusca subsp. fascicularis, which grows in the same region, in its consistently short-awned lemmas, smaller panicles, often prostrate and much-branched growth habit, and often reddish florets.</discussion>
+</bio:treatment>

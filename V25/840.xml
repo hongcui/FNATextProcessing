@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Microchloa kunthii Desv. </name_authority_date>
+  </taxon_identification>
+  <common_names>KUNTH'S SMALLGRASS</common_names>
+  <description type="morphology">Plants perennial; forming small, dense tufts. Culms 5-30 cm. Sheaths generally shorter than the internodes; ligules 1-1.5 mm, ciliate; blades 1-1.5 mm wide, flat or folded, with thick, scabrous, white margins; cauline blades 1-2.5 cm; innovation blades to 6 cm. Panicle brances 6-15 cml rachises ciliate. Spikelets 2.5-3.5 mm; lemmas 2-2.5 mm, keel spilose, margins densely pilose, hairs 0.2-1 mm. 2n = 24, 40. </description>
+  <discussion>Microchloa kunthii grows on granitic outcrops on rocky slopes. Its range extends southward from Carr Canyon, Huachuca Mountains, Arizona and the Big Bend region of Texas through Mexico to Guatemala.</discussion>
+</bio:treatment>

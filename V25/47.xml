@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Jesus Valdes-Reyna</author>
+    </source>
+  </meta>
+  <number>17.10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>TRIDENS Roem. & Schult.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; usually cespitose, often with short, knotty rhizomes, occasionally with elongate rhizomes, never stoloniferous. Culms 5-180 cm, erect, mostly glabrous, lower nodes sometimes with hairs. Sheaths shorter than the internodes, open; ligules membranous and ciliate or of hairs; blades 6-25 cm long, 1-8 mm wide, flat or involute, margins not thick and cartilaginous. Inflorescences terminal, usually panicles (sometimes reduced to racemes), 5-40 cm, exceeding the upper leaves, exserted. Spikelets 4-10(13) mm, laterally compressed, with 4-11(16) florets, more than 1 floret bisexual; sterile florets distal to the fertile spikelets; disarticulation above the glumes. Glumes from shorter than to equaling the distal florets; lower glumes l(3)-veined; upper glumes shorter than or about equal to the lower glumes, l-3(9)-veined, unawned; calluses usually glabrous, sometimes pilose; lemmas hyaline or membranous, 3-veined, veins usually shortly hairy below, apices rounded to truncate, emarginate to bilobed, midvein often excurrent to 0.5 mm, lateral veins not or more shortly excurrent; paleas glabrous or shortly pubescent on the lower back and margins, veins glabrous or ciliolate; lodicules 2, free or adnate to the palea; anthers 3, reddish-purple. Caryopses dorsiventrally compressed and reniform in cross section, dark brown; embryos about 2/5 as long as the caryopses. x = 10. </description>
+  <discussion>Tridens, a genus of 14 species, is native to the Americas; all ten species described here are native to the the Flora region. Hitchcock (1951) included both Erioneuron and Dasyochloa in Tridens; Tateoka (1961) demonstrated that they should be excluded. One of the differences between Tridens and the other two genera lies in their chromosome bases numbers, 10 in Tridens and 8 in Erioneuron and Dasyochloa. Tridens albescens is exceptional within Tridens in having chromosome numbers that suggest two base numbers, 10 and 8.</discussion>
+  <references>Burbidge, N.T. 1953. The genus Triodia R. Br. (Gramineae). Austral. J. Bot. 1:121-184; Gould, F.W. 1975. The grasses of Texas. Texas A&M University Press, College Station, Texas, U.S.A. 653 pp.; Hitchcock, A.S. 1951 [title page 1950]. Manual of the Grasses of the United States, ed. 2, rev. A. Chase. U.S.D.A. Miscellaneous Publication No. 200. U.S. Government Printing Office, Washington, D.C., U.S.A. 1051 pp.; Tateoka, T. 1961. A biosystematic study of Tridens (Gramineae). Amer. J. Bot. 48:565-573.</references>
+  <key>
+    <key_body>
+1. Primary panicle branches appressed to strongly ascending; panicles 0.3-4 cm wide, dense and spikelike.
+2. Lateral veins of the lemmas glabrous or pubescent only at the base.....1. T. albescens
+2. Lateral veins of the lemmas pilose to well above the base.
+3. Glumes evidently longer than the adjacent lemmas, often twice as long, usually equaling or exceeding the distal florets .....2.T. strictus
+3. Glumes from shorter than to equaling the adjacent lemmas, often exceeded by the distal florets.
+4. All 3 lemma veins shortly excurrent; calluses pilose   .....3. T. carolinianus
+4. Lateral lemma veins not excurrent, often terminating before the distal margin, the midvein sometimes excurrent; calluses glabrous or shortly pilose.
+5. Panicles 7-25 cm long, 0.3-0.8 cm wide; lemma midveins rarely excurrent   .....4. T. muticus
+5. Panicles 5-8(10) cm long, 1.2-2.5 cm wide; lemma midveins always shortly excurrent .....5.T. congestus 
+1. Primary panicle branches ascending to reflexed or drooping; panicles 1-20 cm wide, open, not spikelike.
+6. All pedicels shorter than 1 mm   .....6. T. ambiguus
+6. Some pedicels longer than 1 mm.
+7. Lateral veins of the lemmas rarely excurrent.
+8. Lemmas 4-6 mm; ligules 0.4-1 mm.....7. T. buckleyanus
+8.  Lemmas 2-3.2 mm; ligules 1.2-3 mm.....8. T. eragrostoides
+7. Lateral veins of the lemmas commonly excurrent as short points.
+9. Blades 1-5 mm wide; panicles 5-16 cm long.....9.T. texanus
+9. Blades mostly 3-10 mm wide; panicles 15-40 cm long.....10. T. flavus
+
+    </key_body>
+  </key>
+</bio:treatment>

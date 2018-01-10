@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Deschampsia alpina (L.) Roem. & Schult. </name_authority_date>
+  </taxon_identification>
+  <common_names>ALPINE HAIRGRASS, DESCHAMPSIE ALPINE</common_names>
+  <description type="morphology">Plants perennial; densely cespitose. Culms 8-45(65) cm, smooth, glabrous. Leaves form¬ing a basal tuft; sheaths smooth, glabrous; ligules 1.5-7.5 mm, glabrous, acute to acuminate, entire; blades 2-8 cm long, 0.5-2 mm wide, usually folded or flat, sometimes some loosely involute, both surfaces glabrous, smooth. Panicles (4)8-16 cm; branches 2-8 cm long (excluding the blades of bulbous florets), straight, ascending, smooth. Spikelets usually viviparous, their length varying with age, rarely bisexual and 4-6.3 mm. Glumes subequal, exceeding the lowest floret in sexual spikelets, keels smooth, apices acuminate; callus hairs about 0.8 mm; lemmas 5-7 mm, smooth, shiny, glabrous, unawned or awned, awns to 4 mm, straight, attached from below midlength to near the apices; paleas vestigial or absent. 2n = 52, 56.</description>
+  <discussion>Deschampsia alpina grows in damp, rocky places, on calcareous substrates with low organic content, in Greenland and northeastern Canada and, outside the Flora region, in the mountains of Scandinavia and Russia in the Kola Peninsula and Novaya Zemlya. Plants of D. alpina differ from viviparous plants of D. cespitosa in having smooth, rather than scabrous, panicle branches (Murray, pers com. 2005).</discussion>
+</bio:treatment>

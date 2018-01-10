@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Trichloris pluriflora (E. Fourn.) Clayton </name_authority_date>
+  </taxon_identification>
+  <common_names>MULTIFLOWER  FALSE  RHODESGRASS</common_names>
+  <description type="morphology">Plants perennial;  stoloniferous or cespitose. Culms to 150 cm. Sheaths glabrous or sparsely hirsute; ligules to 3 mm; blades to 30 cm long, to 10 mm wide, scabrous or sparsely hirsute. Panicles with 7-20 branches in a few, evidently separate whorls; branches to 20 cm, ascending, with 7-9 spikelets per cm. Spikelets with 1-2 bisexual florets, a third floret with a rudimentary pistil and stamens sometimes present below the (1)2-3 sterile florets. Lower glumes 2-3 mm; upper glumes 3-5 mm; lowest lemmas 3-5  mm, mostly glabrous, margins short-ciliate near the middle, sparsely scabrous distally, apices 3-awned, central awns 8-12 mm, lateral awns 0.5-1.5 mm; lowest sterile florets 1.5-3 mm long, about 0.3 mm wide, mostly glabrous, margins sometimes short-ciliate near the middle, apices 3-awned, central awns to 8 mm, lateral awns 0.2-1 mm. Caryopses 1.8-2.2 mm, strongly dorsally compressed. 2n = 80.</description>
+  <discussion>Trichloris pluriflora is native from southern Texas to Guatemala and, as a disjunct, from Ecuador to Argentina.
+ 
+</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Trichoneura elegans Swallen </name_authority_date>
+  </taxon_identification>
+  <common_names>SILVEUS GRASS</common_names>
+  <description type="morphology">Plants annual; cespitose. Culms (12)30-115 cm, erect to decum¬bent, usually rooting at the lower nodes, mostly glabrous, pubescent beneath the panicles. Lower sheaths longer than the internodes, antrorsely scabridulous; ligules 1.2-2.7 mm, truncate, erose; blades (2.5)5-35.2 cm long, (1)2-9.3 mm wide, antrorsely scabridulous, usually flat, becoming involute or convolute when dry. Panicles (3)4-23 cm long, 1.5-8 cm wide, rachises pubescent; branches  5-24,  ascending, axes triquetrous; lower branches (0.8)1-9.5 cm. Spikelets 8-11.5 mm, with 5-10 florets, distal 1-4 florets sterile or staminate. Glumes with 1 green to purplish vein, antrorsely scabridulous, apices acuminate, awnlike; lower glumes 5.9-11.5 mm; upper glumes 5.8-10.5 mm; lowest lemmas 4.5-5.7(6.4) mm, veins green, midveins excurrent to 1.2 mm, midsections hairy adjacent to and on the lateral veins, with 0.5-1.6 mm hairs, antrorsely scabridulous elsewhere; paleas 4-5 mm, antrorsely scabridulous on the apices and veins; anthers 3, 1.3-1.7 mm, yellow to purplish. Caryopses 2.6-3 mm long, 0.7-0.9 mm wide, flattened. 2n = 40.</description>
+  <discussion>Trichoneura elegans usually grows in dry, deep, sandy soil. Its range extends from south central Texas to northern Tamaulipas, Mexico.</discussion>
+</bio:treatment>

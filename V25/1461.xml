@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>19</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum virgatum L. </name_authority_date>
+  </taxon_identification>
+  <common_names>TALQUEZAL</common_names>
+  <description type="morphology">Plants perennial; cespitose. Culms 100-200 cm, stout, erect; nodes glabrous. Sheaths pubescent; ligules 1.9-2.2 mm, brown; blades 30-90 cm long, 1-3 cm wide, flat, glabrous, pubescent behind the ligules. Panicles terminal, with 10-20 racemosely arranged branches; branches 3-15 cm, spreading to diverging; branch axes 1-1.7 mm wide, winged, wings narrower than the central section, terminating in a spikelet. Spikelets 2.2-3.2 mm long, 1.8-2.4 mm wide, paired, appressed to or diverging from the branch axes, obovate, brown. Lower glumes absent; upper glumes and lower lemmas glabrous or variously short pubescent, 5-veined, margins entire; upper florets 2.5-2.7 mm, brown. 2n = 36, 40, 54, 80.</description>
+  <discussion>Paspalum virgatum is native from Mexico to South America. It has been introduced to the southeastern United States, where it grows primarily in disturbed areas and cultivated fields.</discussion>
+</bio:treatment>

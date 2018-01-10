@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthelium boscii (Poir.) Gould & C.A. Clark </name_authority_date>
+  </taxon_identification>
+  <common_names>Bosc's PANICGRASS, PANIC DE BOSC</common_names>
+  <description type="morphology">Plants forming small clumps, with knotty rhizomes less than 2 mm thick. Basal rosettes well-differentiated; sheaths pubescent; blades ovate to lanceolate, dark green. Culms 25-75 cm, initially erect, often sprawling in the fall, nodes densely retrorsely bearded; internodes glabrous, or pilose with papillose-based hairs; fall phase branching from the midculm nodes, branches nearly erect, sparsely rebranching, blades and secondary panicles only slightly reduced. Cauline leaves 4-6, often with a transitional leaf above the basal rosette; sheaths not overlapping, bases puberulent to retrorsely pilose, margins ciliate, collars pubescent; ligules 0.4-0.9 mm, membranous, ciliate, cilia longer than the membranous portion; blades 3-6 times longer than wide, 15-40 mm wide, ovate-lanceolate, glabrous, puberulent, or pilose, with 11-15 major veins and 40-120 minor veins, bases cordate, margins with papillose-based cilia. Panicles 4-12 cm long, 4-12 cm wide, about as long as wide when fully expanded, partially included to tardily exserted, with 16-60 spikelets. Spikelets 3.8-5.2 mm long, 1.7-2.2 mm wide, narrowly ellipsoid, pubescent or puberulent. Lower glumes 1/3 – 1/2 as long as the spikelets, narrowly triangular; upper glumes shorter than the spikelets; lower florets usually staminate; upper florets pointed, with a minute tuft of hairs. 2n = 18,36.</description>
+  <discussion>Dichanthelium boscii usually grows in semi-open areas in dry oak-hickory woods of the eastern United States. The primary panicles are open-pollinated and are produced from late April through June (and some¬times again in the fall); the secondary panicles are partly open-pollinated, and are produced from July through September.</discussion>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca hallii (Vasey) Piper </name_authority_date>
+  </taxon_identification>
+  <common_names>PLAINS ROUGH FESCUE</common_names>
+  <description type="morphology">Plants densely cespitose, usually with short rhizomes. Culms (16)25-65(85) cm, glabrous, smooth or scabrous near the inflorescence; nodes usually not exposed. Sheaths closed for less than 1/3 their length, glabrous, smooth or scabrous, persistent; collars glabrous; ligules 0.3-0.6 mm; blades usually conduplicate and 0.5-1.2 mm in diameter, rarely flat and 1-2.5 mm wide, gray-green, deciduous, abaxial surfaces scabrous, adaxial surfaces scabrous or puberulent, veins (5)7-9, ribs 5-7, conspicuous; abaxial sclerenchyma usually forming continuous or interrupted bands; adaxial sclerenchyma present; girders developed at the 3(5) major veins; pillars developed at most other veins. Inflorescences 6-16 cm, usually more or less contracted, open at anthesis, with 1-2(3) branches per node; branches erect or stiffly spreading, spikelets borne towards the ends of the branches. Spikelets (6.5)7-9.5 mm, with 2-3(4) florets. Glumes about equaling or slightly exceeding the upper florets; lower glumes 5-8(9.5) mm, about equaling or slightly longer than the adjacent lemmas; upper glumes 6.2-8.5(9.5) mm; lemmas 5.5-8(9) mm, chartaceous to somewhat coriaceous, scabrous, rounded below midlength, veins somewhat obscure, apices unawned or awned, awns 0.5-1.3 mm; paleas somewhat shorter than the lemmas, intercostal region puberulent distally; anthers 4-6 mm; ovary apices sparsely pubescent. 2n = 28.</description>
+  <discussion>Festuca hallii is a major component of grasslands in the northern Great Plains and the grassland-boreal forest transition zone, where it is an important source of forage. Its range extends from the Rocky Mountains of Canada east to western Ontario and south to Colorado. At the southern end of its range in Colorado, it grows in alpine meadows.
+Festuca hallii differs from F. campestris (see next) in usually having short rhizomes, stiffly erect panicles, and smaller spikelets. Where the two species are sympatric, as in the foothills of the Rocky Mountains, F. hallii is usually found at lower elevations.
+</discussion>
+</bio:treatment>

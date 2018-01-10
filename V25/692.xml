@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>28</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sporobolus curtissii Small ex Kearney </name_authority_date>
+  </taxon_identification>
+  <common_names>CURTISS' DROPSEED</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 30-80(90) cm. Sheaths shiny and indurate basally, glabrous or appressed hairy elsewhere, hairs to 4 mm; ligules 0.2-0.6   mm; blades 5-22(28)  cm long,  0.8-2(2.2) mm wide, flat to v-shaped in cross section, folded or involute when dry, green, remaining so well into winter, glabrous abaxially, mostly glabrous adaxially but densely pilose basally, margins glabrous or scabridulous. Panicles 10-25 cm long, 2-10(13) cm wide, longer than wide, open (contracted   when immature), not diffuse, pyramidal to ovate; lower nodes with 1-2(3) branches; primary branches 2-9(10) cm, ascending or spreading to 80° from the rachis, not capillary, without spikelets on the lower 1/3; secondary branches mostly appressed; pulvini glabrous or hairy; pedicels 0.5-4(8) mm, usually shorter than the spikelets, appressed, glabrous. Spikelets 3.5-6.6 mm, purplish-brown. Glumes equal to subequal, linear-lanceolate, membranous; lower glumes (2.9)3.5-6.2 mm, 0.9-1.2(1.3) times as long as the upper glumes; upper glumes 3.2-6.6 mm, from almost as long as to longer than the florets; lemmas 3.4-4.5 mm, ovate to lanceolate, membranous, glabrous, acute; paleas 3.4-4.5 mm, ovate, membranous, glabrous; anthers 1.5-2.8 mm, yellow to purplish. Fruits 1.1-1.4 mm, fusiform, reddish-brown. 2n = unknown.</description>
+  <discussion>Sporobolus curtissii is restricted to the southeastern United States, where it grows in dry-mesic to moist flat-woods, in soils seasonally saturated at the surface or rather well-drained throughout the year. Its elevational range is 0-100 m.</discussion>
+</bio:treatment>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Lisa A. Standley</author>
+    </source>
+  </meta>
+  <number>14.53</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>HOLCUS L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants usually perennial, rarely annual; cespitose or rhizomatous, rarely both cespitose and rhizomatous. Culms (8)20-200 cm, glabrous or pubescent; nodes glabrous or retrorsely glabrous or puberulent; blade flat, pubescent. Inflorescences terminal panicles, contracted to open. Spikelets laterally compressed, with 2(3) florets, lower florets bisexual, upper floret(s) staminate or sterile; rachillas curved below the lowest florets, sometimes prolonged beyond the base of the distal florets; disarticulation below the glumes. Glumes equaling to exceeding the florets, strongly keeled, unawned; upper lemmas awned from below the apices, awns hooked or geniculate; paleas thin, subequal to the lemmas; lodicules 2, glabrous, toothed or not; anthers 3; ovaries glabrous. Caryopses shorter than the lemmas, concealed at maturity, glabrous. x = 4, 7. </description>
+  <discussion>Holcus, a genus of eight species, is native to Europe, North Africa, and the Middle East. One species, H. lanatus, has become widely naturalized in the Americas, Japan, and Hawaii; a second, H. mollis, has become a troublesome weed in some areas of the Flora region. </discussion>
+  <references>Carroll, C.P. and K. Jones. 1962. Cytotaxonomic studies in Holcus: III. A morphological study of the triploid F1 hybrid between H. lanatus L. and H. mollis L. New Phytol. 61: 72-84; Jones, K. 1958. Cytotaxonomic studies in Holcus L.: I. The chromosome complex in Holcus mollis L. New Phytol. 57:191-210; Jones, K. and C.P. Carroll. 1962. Cytotaxonomic studies in Holcus L.: II. Morphological relationships in H. mollis L. New Phytol. 61: 63-71; Zandee, M. and P.C.G. Glas. 1982 Studies in the Holcus lanatus-Holcus mollis complex (Poaceae [= Gramineae]). Proc. Kon. Ned. Akad. Wetensch., C 85:413-437.</references>
+  <key>
+    <key_body>
+1. Awns 1-2 mm long, forming a curved hook at maturity; culms densely pilose adjacent to the lower nodes; plants cespitose, not rhizomatous .....1. H. lanatus 
+1. Awns 3-5 mm long, straight or geniculate at maturity; culms glabrous or sparsely pubescent adjacent to the lower nodes; plants not cespitose, rhizomatous .....2. H. mollis 
+
+    </key_body>
+  </key>
+</bio:treatment>

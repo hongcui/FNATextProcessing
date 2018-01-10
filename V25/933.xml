@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Pappophorum bicolor E. Fourn. </name_authority_date>
+  </taxon_identification>
+  <common_names>PINK PAPPUSGRASS</common_names>
+  <description type="morphology">Culms 30-80(100) cm. Sheaths mostly glabrous, apices with a tuft of hairs on either side; ligules about 1 mm; blades 10-20(30) cm long, 2-5 mm wide, flat to involute. Panicles 12-20 cm, narrow but usually with some slightly spreading branches, pink- or purple-tinged. Spikelets with the lower 2 or 3 florets bisexual, distal 1-2 florets sterile. Glumes 3-4 mm, thin, glabrous, apices acute or minutely notched and mucronate; lemmas somewhat firm, usually faintly 7-veined, with 11-15 awns; lowest lemma bodies 3-4 mm, midveins and margins pubescent from the base to about midlength, awns about 1.5 times as long as the lemma bodies; paleas subequal to the lemma bodies or slightly longer. Caryopses about 2 mm. 2n = 100.</description>
+  <discussion>Pappophorum bicolor grows in open valleys, road right of ways, and grassy plains in Texas and northern Mexico. A report for Arizona (Mearns 1175) was apparently due to mixed labels. There have been no subsequent reports of the species from the state.</discussion>
+</bio:treatment>

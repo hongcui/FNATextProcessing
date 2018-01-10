@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Achnatherum xbloomeri (Bol.) Barkworth and other hybrids involving A. hymenoides </name_authority_date>
+  </taxon_identification>
+  <description type="morphology"></description>
+  <discussion>Numerous natural hybrids exist between Achnatherum hymenoides and other members of the Stipeae. Johnson (1945, 1960, 1962, 1963, 1972) described several of these; all are sterile. Using the treatment adopted here, Johnson's hybrids have as the second parent A. occidentale (all subspecies), A. thurberianum, A. scribneri, A. robustum, Jarava speciosa, and Nassella viridula. Evidence from herbarium specimens suggests that A. hymenoides also forms sterile hybrids with other species of Achnatherum. The name Achnatherum xbloomeri applies only to hybrids between A. hymenoides and A. occidentale subsp. occidentale, but plants keying here may include any of the other interspecific hybrids. They all differ from A. hymenoides in having more elongated florets and awns 10-20 mm long, and from their other parent, in most instances, in having longer lemma hairs and more saccate glumes. Identification of the second parent is best made in the field by noting which other species of Stipeae are present, bearing in mind that species that are not in anthesis at the same time in one year might have sufficient overlap for hybridization in other years.
+Of the two intergeneric hybrids mentioned above, that with Nassella viridula is treated as xAchnella caduca (see p. 169). It differs from Achnatherum hymenoides in its longer glumes and florets, and from other A. hymenoides hybrids in having a readily deciduous awn. No binomial has been proposed for the hybrid with Jarava speciosa. There is one fertile intergeneric hybrid involving A. hymenoides, A. contractum. It is included in Achnatherum and described below because it resembles other members of Achnatherum more than it does Piptatherum, the genus of the other parent.
+Sterile hybrids have anthers that do not dehisce, and contain few, poorly formed pollen grains. They also fail to form good caryopses, but this is also true of some non-hybrid plants. In the case of non-hybrid plants, failure to form good caryopses can result from failure to capture pollen or from incompatibility between the pollen grain and the pistillate plant. It is not known which, if either, of these explanations accounts for the large number of empty caryopses found in Achnatherum hymenoides.</discussion>
+</bio:treatment>

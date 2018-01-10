@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>17.01</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>FINGERHUTHIA Nees</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants usually perennial, occasionally annual in desert areas; cespitose and shortly rhizomatous. Culms 5-120 cm, unbranched. Leaves mostly basal; ligules of hairs; blades 2-5 mm wide. Inflorescences terminal, exceeding the upper leaves, dense, cylindrical to ovoid panicles, occasionally reduced to racemes; branches short, non-disarticulating; rachises concealed by the spikelets; disarticulation beneath the glumes. Spikelets laterally compressed, with 2-4 florets, only the basal florets bisexual, the next 2 florets usually staminate, the fourth floret, if present, sterile. Glumes subequal, clearly exceeding the florets, awned or unawned; lemmas firmly membranous, 3-veined basally, 5-7-veined distally, mucronate to shortly awned, awns shorter than 10 mm; anthers 3; ovaries glabrous, x = 10. </description>
+  <discussion>Fingerhuthia is a genus of two species, one native to southern Africa and western Asia, the other endemic to southern Africa. One species has been grown in the Flora region.</discussion>
+</bio:treatment>

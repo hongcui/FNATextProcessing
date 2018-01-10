@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>9</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Schizachyrium cirratum (Hack.) Wooton & Standi.</name_authority_date>
+  </taxon_identification>
+  <common_names>TEXAS SCHIZACHYRIUM, TEXAS BEARDGRASS</common_names>
+  <description type="morphology">Plants cespitose or shortly rhizomatous. Culms 31-75 cm, often decumbent, not rooting or branching at the lower nodes, glabrous, glaucous, sometimes purplish. Ligules 1-2.5 mm; blades 6-17 cm long, 2-4 mm wide, glabrous, without a longitudinal stripe of white, spongy tissue. Rames 4-6 cm, usually exerted, straight, often somewhat stiff, not flexuous,  appearing linear; internodes straight, with a tuft of hairs near the base, elsewhere glabrous or ciliate on the margins. Sessile spikelets 8-10 mm; calluses 0.3-0.6 mm, hairs 0.5-1.2 mm; glumes glabrous or scabrous; awns 13-24 mm. Pedicels 3.5-5 mm long, 0.2-0.5 mm wide at the base, widening to 0.5-1 mm, straight, with a tuft of hairs at the base, distal 1/2 usually ciliate on 1 side, sometimes on both sides. Pedicellate spikelets 6-8 mm, about as long as the sessile spikelets, usually staminate, sometimes sterile, unawned. 2n = 20 (for var. cirratum).</description>
+  <discussion>Schizachyrium  cirratum grows on rocky slopes, mostly at elevations of 5000 feet or higher, from southern California to western Texas into Mexico, and is known from South America. It is an excellent forage grass. Plants in the Flora region differ from those in central Mexico in being essentially non-rhizomatous and in having glabrous rame axes and pedicels that are ciliate only on the distal half. </discussion>
+</bio:treatment>

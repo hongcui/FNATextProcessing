@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>16</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Leymus flavescens (Scribn. & J.G. Sm.) Pilg. </name_authority_date>
+  </taxon_identification>
+  <common_names>YELLOW WILDRYE</common_names>
+  <description type="morphology">Plants sometimes cespitose, strongly rhizomatous. Culms 40-120 cm tall, 2-4 mm thick, pubescent beneath the nodes. Leaves exceeded by the spikes; sheaths glabrous; auricles absent, sometimes with a few hairs in the auricular position; ligules 0.3-1.5 mm; blades 3-4 mm wide, usually involute, adaxial surfaces scabrous, sometimes with scattered hairs, hairs to 1 mm, with about 15 closely spaced, subequal, mostly prominently ribbed veins. Spikes 10-20 cm long, 12-20 mm thick, with 12-20 nodes and 2 spikelets per node; internodes 7-10 mm, densely hairy. Spikelets 13.5-25 mm, with 4-9 florets. Glumes 8.5-16 mm long, 0.5-2.5 mm wide, stiff, keeled distally, the central portion thicker than the margins, tapering from below midlength to the subulate apices, hairy, 0-l(3)-veined, veins inconspicuous at midlength; lower glumes 8.5-13.5 mm; upper glumes 10-16 mm; calluses poorly developed; lemmas 10.5-15 mm, densely villous, hairs 2-3 mm, apices unawned or awned. awns to 2 mm; anthers 4.5-7 mm, dehiscent. 2n = 28.</description>
+  <discussion>Leymus flavescens grows on sand dunes and open sandy flats, and ditch- and roadbanks, of the Snake and Columbia river valleys. The central Washington population is growing on a road cut; it seems to be well established there.
+Plants identified as Elytnus arenicolus Scribn. & J.G. Sm. are included here, but they may represent hybrids between Leymus flavescens and L. triticoides. Leckenby, the collector of the type specimen, noted that they grew on sand or sand drifts along the Columbia River, but could not withstand flooding. He could find no seed.
+</discussion>
+</bio:treatment>

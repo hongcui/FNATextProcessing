@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>xLeydeum dutillyanum (Lepage) Barkworth </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose, rhizomatous. Culms about 60 cm tall, 2-2.5 mm thick. Leaves evenly distributed on the culms; sheaths smooth, glabrous; auricles absent or to 0.3 mm; ligules 0.2-0.5 mm, truncate, entire; blades 20-30 cm long, 5.5-7 mm wide, glabrous, tapering from below midlength, abaxial surfaces with prominent midveins, all veins more or less equally prominent or a few less prominent, apices narrowly acute. Spikes about 15 cm long, about 25 mm wide including the awns, 10-12 mm  
+wide excluding the awns, nodes with 2 spikelets; internodes 3-5 mm, concealed by the spikelets; disarticulation in the rachises. Spikelets 18-25 mm, with 2-3 florets, the distal floret reduced. Glumes unequal, subulate from the base, to 0.5 mm wide, hairy, hairs about 0.8 mm; lower glumes 13-17 mm; upper glumes 20-25 mm; lemmas 10-12 mm, strigose, hairs about 0.5 mm, awned, awns 8-10 mm; anthers 2-2.4 mm.
+</description>
+  <discussion>xLeydeum dutillyanum consists of hybrids between Hordeum jubatum and Leymus mollis (Bowden 1967). It has been reported only from Vieux-Comptoir, Quebec. It appears to disarticulate more readily than xL. littorale.</discussion>
+</bio:treatment>

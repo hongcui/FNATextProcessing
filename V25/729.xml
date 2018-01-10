@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>18</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Muhlenbergia diversiglumis Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>MIXEDGLUME MUHLY</common_names>
+  <description type="morphology">Plants annual; sprawling. Culms 16-50 cm, decumbent, rooting at the lower nodes; nodes retrorsely pilose; internodes smooth or scabridulous. Sheaths 1.5-8.5 cm, sparsely or densely pilose, hairs to 3 mm, papillose-based; ligules 0.5-0.8 mm, membranous, truncate, erose; blades 2-6 cm long, 1.5-4 mm wide, flat, bases distinctly narrowed  to the junction with the sheath, surfaces scabridulous and sparsely pilose, hairs papillose-based. Panicles 6-10.5 cm long, 2.0-4.5 cm wide, secund, open; primary branches 0.8-3.5 cm, secund, spreading at right angles or somewhat reflexed, with 2-5 spikelets; secondary branches not developed; pedicels 1-5 mm,
+scabrous or shortly pilose, hairs papillose-based; disarticulation at the base of the primary branches. Spikelets 4-8 mm, dimorphic with respect to the glumes, proximal spikelets on each branch almost sessile. Glumes of proximal spikelets on each branch subequal, 0.2-0.7 mm, orbicular, truncate, often erose, unawned; glumes of distal spikelets on each branch markedly unequal; lower glumes to 8 mm, 1-veined, acute, usually awned, awns 0.5-3 mm; upper glumes orbicular, acute, sometimes awn-tipped; lemmas 4.0-7.6 mm, linear to broadly lanceolate, light greenish, smooth or scabrous, usually with greenish veins, apices acuminate, awned, awns 6-19 mm, usually straight, scabrous; paleas 3.7-6.8 mm, narrowly lanceolate, coarsely papillate or almost smooth, acuminate; anthers 0.4-0.8 mm, yellowish. Caryopses 1.8-3 mm, oblong-ovoid, flattened, brownish. 2n = 20.
+</description>
+  <discussion>Muhlenbergia diversiglumis has been collected from Galveston County, Texas. The species is native from Mexico to Peru and Venezuela, where it grows on moist cliffs, along water courses, sandy slopes, and road cuts, primarily in moist shaded environments of broadleaf evergreen forests and pine-oak forests, at elevations of 600-2500 m. The collection from Texas may represent a recent introduction.</discussion>
+</bio:treatment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Lagurus ovatus L. </name_authority_date>
+  </taxon_identification>
+  <common_names>HARETAIL GRASS</common_names>
+  <description type="morphology">Culms (6)10-50(80) cm. Sheaths (0.5)2-8 cm, inflated, ribbed; ligules 1-1.7(3) mm; blades 2-6(10) cm long, 2.5-10 mm wide. Panicles 1.5-3 cm long, 1-2 cm wide; branches softly pilose, hairs white, about 0.4 mm, awns and glume veins sometimes purplish; pedicels 0.4-1(2) mm, pilose. Glumes (5.5)7-10 mm, awns 1.5-3 mm; rachillas prolonged 0.7-1.4 mm; calluses hairy, hairs to 0.8 mm; lemmas 3.5-4.5 mm, lateral awns 1-2(6) mm, central awns (8)12-22 mm; paleas 3-4 mm; anthers 1.4-2.2 mm. Caryopses 2-2.5 mm. 2n = 14.</description>
+  <discussion>Lagurus ovatus grows in disturbed sites in full sun. It is a waif, or sparingly naturalized, in North Carolina and western Florida; it is established and plentiful in central California. It may not have persisted at the other sites shown. The earliest collection from the United States was made in California in 1903. It is an attractive species and is sometimes grown as an ornamental.
+Natural populations of Lagurus ovatus in southern Europe contain both tall and short plants, flowering at about the same time. Protracted germination, followed by simultaneous floral induction at a 12-16 hour photoperiod, leads to the apparent "dimorphism". Plants are quite uniform in height when grown under controlled conditions indoors (Vergagno Gambi 1965).
+</discussion>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa saltuensis Fernald & Wiegand subsp. saltuensis </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Lemmas 2.4-4 mm, lanceolate, apices acute to acuminate and pointed, scarious for 0.25-0.5 mm; anthers 0.9-1.5 mm. 2n = 28.</description>
+  <discussion>Poa saltuensis subsp. saltuensis grows throughout the range of the species, in open forests and woodlands with low to moderate pH soils.</discussion>
+</bio:treatment>

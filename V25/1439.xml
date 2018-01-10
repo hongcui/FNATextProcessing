@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Axonopus furcatus (Flüggé) Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>BIG CARPETGRASS</common_names>
+  <description type="morphology">Plants stoloniferous. Culms 30-100 cm; nodes glabrous or pubescent. Sheaths compressed, glabrous or sparsely to densely pilose, hairs appressed; ligules 0.3-1 mm; blades 3-25 cm long, 2-15 mm wide, margins often with papillose-based hairs near the base, scabrous distally. Panicles terminal and axillary, with 2 (-4)  divergent branches; branches 4-15 cm. Spikelets 3.5-5.5 mm long, about 1.5 mm wide, sessile or subsessile, ovoid-ellipsoid, acuminate. Upper glumes glabrous, 5-7-veined; lower lemmas 5-7-veined, glabrous or sparsely pilose over the veins; upper lemmas and paleas 2.5-3.2 mm, light yellow, obtuse. Caryopses 1.8-2.2 mm, obovate, yellow. 2n = unknown.</description>
+  <discussion>Axonopus furcatus is endemic to the southeastern United States. It grows in moist pine barrens, marshes, river banks, wet ditches, pond margins, and other such damp areas.</discussion>
+</bio:treatment>

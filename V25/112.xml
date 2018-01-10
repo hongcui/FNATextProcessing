@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis reptans (Michx.) Nees </name_authority_date>
+  </taxon_identification>
+  <common_names>CREEPING LOVEGRASS</common_names>
+  <description type="morphology">Plants annual; unisexual, pistillate and staminate plants morphologically similar; mat-forming, without innovations, without glands. Culms rooting at the lower nodes, erect portion 5-20 cm, glabrous, pilose, or villous, particularly below the panicles. Sheaths mostly scabrous, margins sometimes with 0.1-0.4 mm hairs; ligules 0.1-0.6 mm; blades 1-4 cm long, 1-4.5 mm wide, flat or conduplicate, abaxial surfaces glabrous, adaxial surfaces appressed pubescent, hairs about 0.2 mm. Panicles terminal, 1-3 cm long, 0.6-2.5 cm wide, ovate, contracted, exerted or partially included in the upper leaf sheaths, rachises somewhat viscid, pilose or glabrous; primary branches 0.5-1.5 cm, appressed to the rachises, each terminating in a spikelet; pulvini sparsely pilose or glabrous; pedicels 0.2-2 mm, shorter than the spikelets, glabrous or hairy. Spikelets 5-26 mm long, 1.5-4.7 mm wide, linear to ovate, greenish to stramineous, with 16-60 florets; disarticulation in the pistillate florets basipetal, the lemmas falling separately, staminate spikelets not or tardily disarticulating. Glumes unequal, ovate, hyaline, glabrous or sparsely hirsute; lower glumes 0.8-1.6 mm, 1-veined; upper glumes 1.5-2.5 mm, 1-3-veined; lemmas (1.5)1.8-4 mm, ovate, hyaline to membranous, lateral veins conspicuous, greenish, apices acute to acuminate, sometimes prolonged into a mucro, mucros to 0.4 mm; paleas 0.7-3.8 mm, hyaline, about 1/2 as long as the lemmas in pistillate florets, as long as the lemmas in staminate florets, keels scabridulous; anthers 3, 1.4-2.2 mm, reddish to yellowish. Caryopses 0.4-0.6 mm, ellipsoid, somewhat laterally compressed, smooth, light reddish-brown. 2n = 60.</description>
+  <discussion>Eragrostis reptans grows in wet sand, gravel, and clay soils along rivers and lake margins from the United States to northern Mexico, at 0-400 m, frequently with Cynodon dactylon and Heliotropium. It flowers from April through November.</discussion>
+</bio:treatment>

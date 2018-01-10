@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>David M. Brandenburg</author>
+    </source>
+  </meta>
+  <number>8.01</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>DIARRHENA P. Beauv.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; rhizomatous, rhizomes 1.5-5 mm thick, scaly. Culms 48-131 cm tall, 1-3 mm thick, slender and arching, unbranched, usually clumped, rarely solitary. Leaves basally concentrated or proximal; sheaths open, longer than the internodes, margins narrowly hyaline, entire, sometimes ciliate; collars cartilaginous, thickened, light green or yellowish, somewhat flared marginally; auricles sometimes present; ligules stiffly membranous, rounded, ciliolate; blades flat, tapering basally, long-tapering apically, midveins usually eccentric. Inflorescences panicles, contracted, exserted, arching, racemose distally; branches 1 or 2 per node, ascending or appressed, terminating in a spikelet. Spikelets cylindrical when young, laterally compressed at maturity, with (2)3-5(7) florets, distal floret reduced and sterile, sometimes including an additional rudimentary floret; disarticulation above the glumes and beneath the florets. Glumes unequal, chartaceous, lanceolate, glabrous, keeled, sometimes scabridulous near the keels distally, margins entire or ciliolate, apices acute; lower glumes 1/3 – 2/3 shorter than the upper glumes, less than 1/3 as long as the adjacent lemmas, l-3(5)-veined; upper glumes (3)5-veined; calluses glabrous or with a few hairs, hairs about 0.5 mm; lemmas mostly chartaceous, veins 3, prominent, convergent, margins hyaline, entire, sometimes ciliate, apices sharply cuspidate, cusps 1-2 mm; paleas from 1/2 as long as to slightly shorter than the lemmas, chartaceous, keeled, sides narrowly hyaline; lodicules about 1.5 mm, lanceolate to elliptic, apices ciliolate; anthers 2, yellow. Caryopses prominently beaked, style bases usually persistent, pericarp loose, at least partially, x = 10. </description>
+  <discussion>Diarrhena is an odd and distinctive genus whose relationships are not clear. Two of its approximately six species grow in the woodlands of eastern North America; the remainder, which are sometimes placed in the segregate genus Neomolinia Honda, occupy similar habitats in eastern Asia. The Asian species have x = 19. The above description pertains to the North American species.
+Although Diarrhena americana and D. obovata grow in similar habitats and overlap in their ranges, no intermediates have been found. Earlier reports of intermediate specimens are based on the use of less reliable characters for distinguishing between the two species.
+</discussion>
+  <references>Brandenburg, D.M., J.R. Estes, and S.L. Collins. 1991. A revision of Diarrhena (Poaceae) in the United States. Bull. Torrey Bot. Club 118:128-136; Koyama, T. and S. Kawano. 1964. Critical taxa of grasses with North American and eastern Asiatic distribution. Canad. J. Bot. 42:859-864; Tateoka, T. 1960. Cytology in grass systematics: A critical review. Nucleus (Calcutta) 3:81-110.</references>
+  <key>
+    <key_body>
+1. Calluses pubescent on all but the lowest mature lemma; lemma of the lowest floret in each spikelet (6)7.1-10.8 mm long, widest below the middle, tapering gradually to the apex; mature fruits 1.3-1.8 mm wide, gradually tapering to a blunt beak  .....1. D. americana
+1. Calluses glabrous on all mature lemmas; lemma of the lowest floret in each spikelet 4.6-7.5 mm long, widest near or above the middle, abruptly contracted to the apex; mature fruits 1.8-2.5 mm wide, abruptly contracted to a bottlenose-shaped beak.....2. D. obovata
+    </key_body>
+  </key>
+</bio:treatment>

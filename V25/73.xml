@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Jesus Valdes-Reyna</author>
+    </source>
+  </meta>
+  <number>17.15</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>DASYOCHLOA Willd. ex Rydb. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; stoloniferous, sometimes mat-forming. Culms (1)4-15 cm, initially erect, event¬ually bending and rooting at the base of the inflorescence. Leaves not basally aggregated on the primary culms; sheaths with a tuft of hairs to 2 mm at the throat; ligules of hairs; blades involute. Inflorescences terminal, short, dense panicles of spikelike branches, each subtended by leafy bracts and exceeded by the upper leaves; branches with 2-4 subsessile to shortly pedicellate spikelets. Spikelets laterally compressed, with 4-10 florets; disarticulation above the glumes. Glumes subequal to the adjacent lemmas, glabrous, 1-veined, rounded or weakly keeled, shortly awned to mucronate; florets bisexual; lemmas rounded or weakly keeled, densely pilose on the lower 1/2 and on the margins, thinly membranous, 3-veined, 2-lobed, lobes about 1/2 as long as the lemmas and obtuse, midveins extending into awns as long as or longer than the lobes, lateral veins not excurrent; paleas about as long as the lemmas; anthers 3. Caryopses oval in cross section, translucent; embryos more than 1/2 as long as the caryopses. x = 8. </description>
+  <discussion>Dasyochloa is a monotypic genus that is restricted to the United States and Mexico. It has been included in the past in each of the following: Triodia, Tridens, and Erioneuron. Dasyochloa differs from all three of these genera, but resembles Munroa, in its leafy-bracteate inflorescence (Caro 1981). Seedlings of Dasyochloa, like those of Erioneuron, are shaggy-white-villous. This indumentum is composed of myriads of hairlike, water soluble crystals that wash off in water. They are the product of transpiration and evaporation.</discussion>
+  <references>Caro, J.A. 1981. Rehabilitacion del genero Dasyochloa (Gramineae). Dominguezia 2:1-17; Sanchez, E. 1983. Dasyochloa Willdenow ex Rydberg (Poaceae). Lilloa 36:131-138; Valdes-Reyna, J. and S.L. Hatch. 1997. A revision of Erioneuron and Dasyochloa (Poaceae: Eragrostideae). Sida 17:645-666.</references>
+</bio:treatment>

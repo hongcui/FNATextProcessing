@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>section</rank>
+    <name_authority_date>Bromus sect. Neobromus (Shear) Hitchc.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual. Spikelets elliptic to lanceolate, more or less terete, with 3-9 florets. Lower glumes l(3)-veined; upper glumes 3(5)-veined; lemmas lanceolate to linear-lanceolate, rounded over the midvein, apices acuminate, bifid, teeth aristate or acuminate; awns geniculate, divaricate, arising 1.5 mm or more below the lemma apices.</description>
+  <discussion>Bromus sect. Neobromus has two species, both of which are native to South America. Bromus berteroanus has become established in the Flora region.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>14</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Glyceria leptostachya Buckley </name_authority_date>
+  </taxon_identification>
+  <common_names>NARROW MANNAGRASS</common_names>
+  <description type="morphology">Plants perennial. Culms 50-100 (150) cm tall, 3-8 mm thick, spongy, erect to decumbent and rooting at the lower nodes. Sheaths finely scabridulous, not or weakly keeled; ligules 4.5-12 mm, lacerate; blades 12-30 cm long, 3.5-11 mm wide, both surfaces sometimes scabridulous, adaxial surfaces sometimes sparsely papillose. Panicles 20-40 cm long, 2.5-8 cm wide; branches 4.2-14.7 cm, appressed to ascending, with 3-8(10) spikelets; pedicels 2-5 mm, scabrous. Spikelets 9-20 mm long, 0.4-3 mm wide, cylindrical and terete, except at anthesis when slightly laterally compressed, rectangular in side view, with 6-15 florets. Glumes broadly rounded to acute; lower glumes 0.6-2.1 mm; upper glumes 1.4-3.4 mm; rachilla internodes 1-1.5 mm; lemmas 2.6-4.5 mm, somewhat indented below the apical margins at maturity, veins raised, scabridulous to scabrous over and between the veins, prickles about 0.05 mm, midveins extending to within 0.1 mm of the apical margins, apices truncate to obtuse, crenulate; paleas shorter than or equaling the lemmas, keels winged, tips parallel, intercostal region truncate or rounded, sometimes exceeding the keel tips; anthers 3, 0.3-0.9 mm. 2n = 40.</description>
+  <discussion>Glyceria leptostachya grows in swamps and along the margins of streams and lakes, on the western side of the coastal mountains from southern Alaska to San Francisco Bay. It is similar to the European Glyceria notata, differing primarily in its tendency to have fewer spikelets [3-8(10) vs. 5-15(19)] on its branches.</discussion>
+</bio:treatment>

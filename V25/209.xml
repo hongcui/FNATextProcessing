@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>16</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sporobolus airoides (Torr.) Torr. </name_authority_date>
+  </taxon_identification>
+  <common_names>ALKALI SACATON</common_names>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms 35-120 (150) cm, stout. Sheaths rounded below, shiny, apices glabrous or sparsely hairy, hairs to 6 mm; ligules 0.1-0.3 mm; blades (3)10-45(60) cm long, (1)2-5(6)   mm   wide,   flat   to involute, glabrous abaxially, scabridulous adaxially, margins smooth or scabridulous; flag blades ascending. Panicles (10)15-45 cm long, 15-25 cm wide, diffuse, subpyramidal, often included in the uppermost sheath; primary branches 1.5-13 cm, spreading 30-90° from the rachis; secondary branches spreading, without spikelets on the lower 1/4 - 1/3; pulvini glabrous; pedicels 0.5-2 mm, spreading, glabrous or scabrous. Spikelets 1.3-2.8 mm, purplish or greenish. Glumes unequal, lanceolate to ovate, membranous; lower glumes 0.5-1.8 mm, often without midveins; upper glumes 1.1-2.4(2.8) mm, at least 2/3 as long as the florets; lemmas 1.2-2.5 mm, ovate, membranous, glabrous, acute; paleas 1.1-2.4 mm, ovate, membranous, glabrous; anthers 1.1-1.8 mm, yellowish to purplish. Fruits 1-1.4 mm, ellipsoid, reddish-brown, striate. 2n = 80, 90, 108, 126.</description>
+  <discussion>Sporobolus airoides grows on dry, sandy to gravelly flats or slopes, at elevations from 50-2350 m. It is usually associated with alkaline soils. Its range extends into northern Mexico.</discussion>
+</bio:treatment>

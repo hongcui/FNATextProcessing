@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Bouteloua eludens Griffiths </name_authority_date>
+  </taxon_identification>
+  <common_names>ELUSIVE GRAMA</common_names>
+  <description type="morphology">Plants perennial; without rhizomes or stolons. Culms 20-60 cm, unbranched. Leaves mostly basal; sheaths glabrous or sparsely ciliate near the throat, basal sheaths papery, becoming pale; ligules to 0.5 mm, of hairs; blades to 15 cm long, 1-1.5(3) mm wide, flat, lower leaves variously hispid or scabrous, upper leaves glabrous, with scabrous margins. Panicles 6-10 cm, with (8)12-16(20) branches; branches 5-11 mm, deciduous, pubescent, with (2)4-6 spikelets, axes extending about 5 mm beyond the terminal spikelets, apices entire; disarticulation at the base of the branches. Spikelets appressed, all alike, with 1-2 bisexual florets and 1 rudimentary floret. Glumes silvery-hispid over and between the veins, at least basally, apices acute, acuminate, or shortly awned; lower glumes 5-6 mm; upper glumes 6-7 mm, sericeous over the veins and elsewhere, hairs about 0.5 mm, apices mucronate; lowest florets bisexual, pistillate, or staminate; lowest lemmas 6-7 mm, pubescent between the veins and over the midveins, midveins extending into acuminate or setaceous lobes about the same length as the lateral lobes, not flanked by membranous lobes, lateral veins extending from the lateral lobes for 0.5-2 mm; lowest paleas as long as the lemmas, pubescent, acute to acuminate, unawned; second florets usually staminate, pistillate, or bisexual (rarely rudimentary); second lemmas 8-10 mm; usually well-developed, pubescent, lateral veins extended into 0.5-4 mm awns, midveins extended into a flattened, 1-5 mm awn; second paleas as long as the second lemmas, pubescent, usually with 2 short awns; third florets, if present, pubescent, variable, resembling the second floret, a 3-awned structure with 2 membranous scales, or a prolongation of the rachilla. Caryopses about 5 mm long, about 1.5 mm wide. 2n = 20.</description>
+  <discussion>Bouteloua eludens grows on dry, rocky slopes and rolling desert flats at 1200-1800 m. It is only known from Cochise, Santa Cruz, and eastern Pima counties in Arizona, adjacent portions of New Mexico and Sonora, Mexico. Although its range is small, B. eludens is not rare.
+Bouteloua eludens resembles B. chrondrosoides in having pubescent panicle branches, but B. eludens usually has 12-16 branches 5-11 mm long with 2-6 spikelets, whereas B. chrondrosoides usually has 3-8 branches 10-15 mm long with 8-12 spikelets per branch. Bouteloua rigidiseta is also similar to B. eludens, but differs from that species in its glume pubescence and geographic distribution, being only found in Oklahoma, Texas, and northeastern Mexico.
+</discussion>
+</bio:treatment>

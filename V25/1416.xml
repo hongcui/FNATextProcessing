@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>20</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Setaria verticillata (L.) P. Beauv. </name_authority_date>
+  </taxon_identification>
+  <common_names>HOOKED BRISTLEGRASS, SETAIRE VERTICILLEE</common_names>
+  <description type="morphology">Plants annual. Culms 30-100 cm; nodes glabrous. Sheaths glabrous, margins ciliate distally; ligules to 1 mm, densely ciliate; blades 5-15 mm wide, flat, abaxial surfaces scabrous. Panicles 5-15 cm, tapering to the apices; rachises retrorsely rough hispid; bristles solitary, 4-7 mm, retrorsely scabrous. Spikelets 2-2.3 mm. Lower glumes about 1/3 as long as the spikelets, obtuse, l(3)-veined; upper glumes nearly as long as the spikelets; lower paleas about 1/2 as long as the spikelets, broad; upper lemmas finely and transversely rugose; upper paleas similar to the upper lemmas. 2n = 18, 36, 54, 72, 108.</description>
+  <discussion>Setaria verticillata is a European adventive that is now common throughout the cooler regions of the contiguous United States and in southern Canada. It is an aggressive weed in the vineyards of central California. Reports of S. carnei Hitchc. from North America are based on misidentification of this species.
+Setaria verticillata resembles the S. adhaerans but differs in having longer panicles and spikelets, sheath margins that are ciliate distally, and blades that are scabrous, not hairy. Setaria verticillata is a more northern species than S. adhaerans, but their ranges overlap in the Flora region.
+</discussion>
+</bio:treatment>

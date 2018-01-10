@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>John R. Reeder</author>
+    </source>
+  </meta>
+  <number>17.25</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>POGONARTHRIA Stapf</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial; cespitose. Culms 13-100(250) cm, not woody. Sheaths open; ligules of hairs or membranous and ciliate; blades flat or loosely involute. Inflorescences terminal, panicles of numerous spikelike branches on elongate rachises. Spikelets in 2 rows on 1 side of the flat or trigonous branch axes, with 2-8 florets, additional reduced florets sometimes present distal to the functional florets; rachilla internodes tipped with a few short hairs; disarticulation initially above the glumes and between the florets or the lemmas falling and the paleas persistent, subsequently at the bases of the panicle branches. Glumes unequal, shorter than the spikelets, keeled, acute to acuminate, unawned; lemmas 3-veined, keeled, membranous, acute, acuminate, or shortly awned; paleas shorter than the lemmas. Caryopses ellipsoid to fusiform, x = 10. </description>
+  <discussion>Pogonarthria includes four species, all of which are native to tropical and southern Africa. One species has become established in Arizona.</discussion>
+</bio:treatment>

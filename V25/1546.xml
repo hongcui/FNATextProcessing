@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dichanthium aristatum (Poir.) C.E. Hubb. </name_authority_date>
+  </taxon_identification>
+  <common_names>AwNED DICHANTHIUM</common_names>
+  <description type="morphology">Plants perennial; stoloniferous, stolons often 2 m or longer. Culms 70-100 cm, decumbent, erect portions generally about 35 cm, pubescent beneath the inflorescences; nodes glabrous or densely short pubescent. Sheaths glabrous; ligules 1-1.3 mm; blades 6-25 cm long, 3-6 mm wide, glabrous or hispid. Rames (2)3-5(8), 4-7 cm, subdigitate, erect to divergent, bases pilose, without spikelets; internodes pilose. Sessile spikelets 4-5 mm; lower glumes more or less obovate, often involute, margins  ciliate  basally,  keels  winged  distally,  apices obtuse; awns 1.5-2.5 cm, twice-geniculate. Pedicellate spikelets 4-5 mm, usually staminate. 2n = 20.</description>
+  <discussion>Dichanthium aristatum was introduced to the Americas from southern Asia. It is sometimes used as a lawn grass in Texas, Louisiana, and Florida.</discussion>
+</bio:treatment>

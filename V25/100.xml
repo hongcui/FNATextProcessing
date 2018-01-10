@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>J.K. Wipff</author>
+    </source>
+  </meta>
+  <number>17.21</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>TRICHONEURA Andersson</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual or perennial. Culms 12-155 cm, nodes glabrous, internodes solid. Ligules membranous; blades linear, narrow, usually flat. Inflorescences terminal, panicles of 5-40 racemosely-arranged, spikelike branches, exceeding the leaves; branches spreading to appressed, persistent, unilateral, with 1 spikelet per node. Spikelets 5.3-14 mm long, with 2 or more florets, typically with 2-8 bisexual florets, sterile or staminate florets sometimes present distal to the bisexual florets; rachilla internodes pilose basally, apices oblique; disarticulation above the glumes and below the florets. Glumes from shorter than to greatly exceeding the florets, equal or subequal to each other, narrow, apices acuminate and mucronate, awnlike, or awned; calluses well-developed, strigose; lemmas 3-veined, conspicuously hairy adjacent to and on the lateral veins, apices cleft, midveins excurrent from the sinuses, sometimes forming awns, x = 10. </description>
+  <discussion>Trichoneura is a genus of seven species that grow in dry, sandy, or stony soils. Five species are native to the Eastern Hemisphere and two to the Western Hemisphere, one of which is native to the Flora region.</discussion>
+</bio:treatment>

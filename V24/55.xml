@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Zizania texana Hitchc. </name_authority_date>
+  </taxon_identification>
+  <common_names>TEXAS WILDRICE</common_names>
+  <description type="morphology">Plants perennial; stoloniferous. Culms 1-2(5) m, decumbent, geniculate, floating or the distal portions emergent. Sheaths glabrous; ligules 4-12 mm, upper ligules caudate or acuminate; blades to 1 m long and 13(25) mm wide, glabrous. Panicles 16-31 cm long, 1-10 cm wide; branches unisexual. Staminate branches ascending or somewhat divergent; pedicel apices about 3 mm wide. Staminate spikelets 6.5-11 mm, ovate or oblong, acute to acuminate. Pistillate branches appressed or ascending; pedicel apices 0.5-0.9 mm wide. Pistillate spikelets 9-12.5 mm long, 1.2-1.8 mm wide, lanceolate, somewhat coriaceous, somewhat lustrous, with scattered short hairs, apices scabrous or hispidulous, awned, awns 9-35 mm; aborted pistillate spikelets 0.7-1.5 mm wide. Caryopses 4.3-7.6 mm long, 1-1.5 mm wide. 2n = 30.</description>
+  <discussion>Zizania texana grows only in the headwaters of the San Marcos River, in San Marcos, Texas (Terrell et al. 1978). It is officially listed as an endangered species in the United States.</discussion>
+</bio:treatment>

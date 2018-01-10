@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Bouteloua hirsuta Lag. subsp. hirsuta </name_authority_date>
+  </taxon_identification>
+  <common_names>HAIRY GRAMA</common_names>
+  <description type="morphology">Plants loosely or densely cespitose, sometimes stoloniferous. Culms 15-60 cm, usually decumbent and branched basally, sometimes erect, branched or unbranched from the aerial nodes; nodes usually 4-6; internodes glabrous or sparsely to densely pubescent with papillose-based hairs. Leaves basally clustered, sometimes not strongly so; sheaths glabrous or pubescent, hairs not papillose-based, sometimes scabrous. Panicles with 1-4 branches on 0.7-7.5(9.2) cm rachises or digitate; branches 1-4. Anthers 2-2.5 mm; rachilla segments subtending second florets without a distal tuft of hairs. Caryopses 1.4-2 mm. 2n = 20, 40, 50, 60; numerous dysploid numbers also reported.</description>
+  <discussion>Bouteloua hirsuta subsp. hirsuta grows from the open plains to slightly shaded openings in woods and brush on well-drained, often rocky, soils at 50-300 m. It is morphologically, ecologically, and cytologically more variable than subsp. pectinata. Its range extends from North Dakota and Minnesota to central Mexico. In the northern portion of its range, it is not densely tufted and the culms are decumbent and branched; in the southwestern United States and northern Mexico, it grows in isolated, dense clumps, with erect, stout, unbranched culms and mostly basal leaves.</discussion>
+</bio:treatment>

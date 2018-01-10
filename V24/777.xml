@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Poa fendleriana subsp. albescens (Hitchc.) Soreng </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Collars often scabrous or hispidulous near the throat; ligules of middle cauline leaves 0.2-1.5 mm, smooth or scabrous, margins not decurrent, apices truncate, scabrous, ciliolate, or glabrous; innovation blades frequently glabrous adaxially. Rachilla internodes smooth, glabrous. Lemmas glabrous or the keels and marginal veins sparsely short-villous to softly puberulent. 2n = 28+11, 56.</description>
+  <discussion>Poa fendleriana subsp. albescens is endemic to the northern Sierra Madre Occidental, extending from the southwestern United States to Chihuahua and Sonora, Mexico. It grows mainly in upland forest openings. It intergrades with subsp. fendleriana where sexual populations have come into contact. Intermediate, pistillate populations with sparsely hairy lemmas are common in southeastern Arizona, and infrequent in southwestern New Mexico.</discussion>
+</bio:treatment>

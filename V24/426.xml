@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Elymus canadensis L. </name_authority_date>
+  </taxon_identification>
+  <common_names>GREAT PLAINS WILDRYE, ÉLYME DU CANADA</common_names>
+  <description type="morphology">Plants loosely cespitose, rarely with rhizomes to 4 cm long and 1-2 mm thick, often glaucous. Culms (40)60-150(180) cm, erect or decumbent; nodes 4-10, mostly concealed by the leaf sheaths, glabrous. Leaves evenly distributed; sheaths smooth or scabridulous, glabrous or hirsute, often reddish brown; auricles 1.5-4 mm, brown or purplish black; ligules to 1(2) mm, truncate, ciliolate; blades (3)4-15(20) mm wide, usually firm, often ascending and somewhat involute, usually dull green, drying to grayish, adaxial surfaces usually smooth or scabridulous and glabrous, rarely sparsely hispid to villous. Spikes 6-30 cm long, 3-7 cm wide, usually nodding, sometimes pendent or almost erect, usually with 2(3) spikelets per node, occasionally to 5 at some nodes, rarely with 1 at some nodes but never throughout; internodes (2)3-5(7) mm long, or 5-10 mm long towards the base,  0.2-0.35  mm thick at the thinnest sections, glabrous or with a few hairs below the spikelets. Spikelets 12-20 mm excluding the awns, more or less divergent, with (2)3-5(7) florets, lowest florets functional; disarticulation usually above the glumes and beneath each floret, rarely also below the glumes. Glumes usually equal, occasionally subequal, 11-40 mm including the awns, the basal 0-1 mm subterete and slightly indurate, glume bodies 6-13 mm long, 0.5-1.6 mm wide, linear-lanceolate to subsetaceous, entire, widening or parallel-sided above the base, 3-5-veined, glabrous to scabrous-ciliate, rarely villous on the veins, margins firm, awns (5)10-25(27) mm, straight to outcurving; lemmas 8-15 mm, glabrous, scabrous, hispid, or uniformly villous with the hairs generally appressed, awns (10)15-40(50) mm, moderately to strongly outcurving, often contorted at the spike bases; paleas 7-13 mm, acute, usually bidentate; anthers 2-3.5 mm. Anthesis May to July. 2n = 28, rarely 42.</description>
+  <discussion>Elymus canadensis grows on dry to moist or damp, often sandy or gravelly soil on prairies, dunes, stream banks, ditches, roadsides, and disturbed ground, or, especially to the south, in thickets and open woods near streams. It is widespread in most of temperate North America, extending from the southwestern Northwest Territories to Coahuila, Mexico, being especially common in the Great Plains. Reports from California and the southeastern states appear to be based on misidentifications. E. canadensis is considered a good forage species.
+Elymus canadensis is sometimes confused with E. riparius (see previous), from which it differs in having curved rather than straight awns; and with E. wiegandii (p. 305), from which it differs in its less robust habit and narrower leaves. It can hybridize with E. glabriflorus (p. 296), E. virginicus (p. 298), E. hystrix (p. 316) and allies, E. glaucus (p. 306), E. trachycaulus (p. 321), Pseudoroegneria spicata (p. 281), and other species. Subsequent introgression may have contributed to much of the diversity within the genus (Pohl 1959; Brown and Pratt 1960; Nelson and Tyrl 1978; Davies 1980; Campbell 2002). The three varieties recognized here show clear differences in their typical expression and evidence some geographic separation, but they may prove to be artificial reference points within a more or less continuous variation (Sanders et al. 1979). Nevertheless, crossing barriers sometimes exist between the varieties, and even between some sympatric strains (Church 1954, 1958, 1967a).
+</discussion>
+  <key>
+    <key_body>
+1. Lemmas usually villous or hispid; spikes nodding to almost pendent; internodes 4-7 mm long, often strongly glaucous.....var. canadensis
+1. Lemmas usually smooth or scabridulous, occasionally hirsute; spikes usually nodding, occasionally almost erect; internodes 3-4 mm long, not strongly glaucous. 
+2. Glumes not clearly indurate or bowed out at the base, awns 10-20 mm long; lemmas smooth or scabridulous, awns usually 20-30 mm long, moderately outcurving; spikes 6-20 cm long.....var. brachystachys
+2. Glumes often slightly indurate and bowed out at the base, awns 15-25 mm long; lemmas occasionally hirsute, awns 30-40 mm long, often strongly outcurving; spikes 15-25(30) cm long  .....var. robustus
+    </key_body>
+  </key>
+</bio:treatment>

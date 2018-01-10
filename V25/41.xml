@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>John W. Thieret</author>
+    </source>
+  </meta>
+  <number>17.07</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>MONANTHOCHLOË Engelm.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; dioecious; mat-forming, with long, wiry stolons. Culms 5-20 cm, erect, with numerous short, leafy, lateral branches. Leaves distinctly distichous, clustered on distant to closely-spaced, short, lateral shoots; ligules thickly membranous ciliate rims; blades stiff, subulate. Inflorescences terminal, composed of a single glabrous spikelet, this enclosed, and almost concealed, by the uppermost leaf sheaths. Pistillate spikelets subterete, with 3-5 florets, distal florets rudimentary; disarticulation tardy, below the lowest floret; glumes absent; lemmas coriaceous, glabrous, 9-veined, acute; paleas coriaceous, keels prominently winged, wings over¬lapping and enclosing the caryopses. Staminate spikelets similar to the pistillate spikelets, but smaller and the glumes and lemmas thinner, x = 10. </description>
+  <discussion>Monanthochloë is a genus of two species, one growing along the southern coastlines of North America, the other on inland salt pans in Argentina. It is probably related to Distichlis, but differs from that genus, and all others in the Flora region, in its highly reduced inflorescence.</discussion>
+  <references>Villamil, C.B. 1969. El genero Monanthochloë (Gramineae). Estudios morfologicos y taxonomicos con especial referencia a la especie argentina. Kurtziana 5:369-391. 
+</references>
+</bio:treatment>

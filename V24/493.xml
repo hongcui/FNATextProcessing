@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>xElyleymus mossii (Lepage) Barkworth </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose, sometimes rhizomatous. Culms to 80 cm, glabrous. Sheaths smooth, glabrous; auricles 0.5-1.5 mm; ligules 0.5-1.2 mm; blades 3-7 mm wide, flat, adaxial surfaces and margins scabrous. Inflorescences spikes, 8-15 cm long, 10-25 mm wide including the awns, 8-15 mm wide excluding the awns, with (1)2 sessile or subsessile spikelets per node; internodes 4-6 mm, scabrous or hispid on the angles. Spikelets 12-17 mm, usually with 5 florets. Glumes 9-15 mm long including the awns, 0.8-1 mm wide, 1-3-veined, hairy; lemmas 8-13 mm, villous, awned, awns 4-15 mm; paleas 8-10 mm, glabrous between the keels, margins shortly ciliate; anthers 2-3 mm.</description>
+  <discussion>Lepage (1965) stated that it was obvious that Elymus canadensis was one parent of this hybrid, but that it would be necessary to discover which species of Agropyron [in the traditional sense] grew in the neighborhood to determine the other parent. He gave "Agropyron (?) trachycaulum" as a possibility. Elymus canadensis, however, is generally absent from the region around Lake Louise, Alberta (Moss 1983), where the holotype was collected. Barkworth (2006) argued that the parents are probably E. glaucus and Leymus innovatus, both species that are common in the holotype area.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>10</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Andropogon tracyi Nash </name_authority_date>
+  </taxon_identification>
+  <common_names>TRACY'S BLUESTEM</common_names>
+  <description type="morphology">Plants cespitose, upper portion dense, cylindrical. Culms 50-120 cm; internodes not glaucous; branches mostly erect, straight. Sheaths smooth; ligules 0.2-0.5 mm, ciliate, cilia 0.2-0.8 mm; blades 10-22 cm long, 1.2-2.6 mm wide, glabrous or sparsely pubescent, with spreading hairs. Inflorescence units 3-11 per culm; subtending sheaths (2.8)4.1-5.8(7.2) cm long, (3)4-4.7(5.8) mm wide; peduncles (9)14-31(65) mm, with 2 rames; rames (1.5)2.4-3.6(4.2) cm, usually exserted at maturity, pubescence increasing in density distally within each internode. Sessile spikelets (4)4.8-5(5.5) mm; callus hairs 1.5-3.5 mm; keels of lower glumes scabrous only above the midpoint; awns 11-23 mm; anthers 1, 1.2-2 mm, yellow. Pedicellate spikelets vestigial or absent. 2n = 20.</description>
+  <discussion>Andropogon tracyi grows on sandhills, sandy pinelands, and scrublands of the southeastern United States. It resembles A. longiberbis, but usually differs in having sparsely pubescent blades and a more slender appearance.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>7</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Spartina bakeri Merr. </name_authority_date>
+  </taxon_identification>
+  <common_names>SAND CORDGRASS</common_names>
+  <description type="morphology">Plants cespitose, bases knotty, not rhizomatous. Culms to 200 cm, in large, dense clumps, indurate, often branching from the lower nodes. Sheaths smooth to striate, glabrous; ligules 0.5-2 mm; blades 10-50 cm long, 3-7 mm wide, usually involute, rarely   flat, abaxial surfaces glabrous, adaxial surfaces and margins scabrous, apices acuminate. Panicles 8-25 cm, usually shallowly sinuous or lobed in outline, with 3-16 branches; branches 2-6 cm, usually appressed, moderately imbricate, axes glabrous, sometimes somewhat scabrous on the angles, with 10-30 spikelets. Spikelets 6-9 mm. Glumes with hispid keels and hispidulous margins, apices acuminate; lower glumes 3-6 mm, to 2/3 as long as the upper glumes; upper glumes 6-9 mm, hispidulous, 3-4-veined, lateral veins 2-3, prominent, on 1 side of the keel; lemmas mostly glabrous, keels hispid, margins glabrous or hispid, apices acute to obtuse, sometimes obscurely lobed; anthers about 5 mm, well-filled, dehiscent at maturity. 2n = 42.</description>
+  <discussion>Spartina bakeri grows on sandy maritime beaches and other salt water sites in the southeastern coastal states and on the shores of inland, freshwater lakes in Florida. Its inflorescence is similar to that of S. patens, but the branches of S. patens usually diverge from the rachises at maturity, whereas those of S. bakeri remain appressed. Spartina bakeri is distinct from most other species of Spartina in North America in forming dense clumps and in being able to grow in freshwater habitats.</discussion>
+</bio:treatment>

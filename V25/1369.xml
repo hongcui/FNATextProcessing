@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>18</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Pennisetum petiolare (Hochst.) Chiov. </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual; tufted, rooting at the lower nodes. Culms 70-200 cm, slender, erect, branching; nodes glabrous. Sheaths glabrous; ligules 0.7-1 mm, of hairs; blades 3.5-30 cm long, 8-24 mm wide, flat, sparsely pubescent, abruptly rounded or cordate basally; lower blades with a 0.5-13 cm pseudopetiole. Panicles terminal and axillary, 3-8 cm, on long peduncles, fully exerted from the sheaths; rachises terete, hispid; disarticulation beneath the primary bristles, fascicle axes persistent. Fascicles 14-24 per cm; fascicle axes 0.4-0.6 mm, with 1 spikelet, outer and inner bristles absent; primary bristles 3.8-30 mm, scabrous. Spikelets 2.5-3.2 mm, sessile, green to purple. Glumes veinless, truncate or emarginate; lower glumes 0.2-0.3 mm; upper glumes 0.3-0.4 mm; lower florets ster¬ile; lower lemmas 2.5-3.2 mm, strigulose above, 5-7-veined; lower paleas absent; upper lemmas 2.3-3 mm, sparsely puberulent, 5-veined; anthers 3, 1.5-1.9 mm. 2n = unknown.</description>
+  <discussion>Pennisetum petiolare is native to northern Africa, where it grows in disturbed habitats. The only collection in the Flora region is from Ames, Iowa, where it grew from fallen bird seed. It is not known to be established anywhere in the region.</discussion>
+</bio:treatment>

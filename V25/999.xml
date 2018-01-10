@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Aristida ramosissima Engelm. ex A. Gray </name_authority_date>
+  </taxon_identification>
+  <common_names>S-CURVE THREEAWN</common_names>
+  <description type="morphology">Plants annual. Culms 20-60 cm, wiry. Leaves cauline; sheaths usually shorter than the internodes, mostly glabrous, sparsely hairy near the summit; collars hispidulous, occasionally glabrous; ligules 0.2-0.5 mm; blades 3-22 cm long, to 2 mm wide, flat to involute, glabrous abaxially, sparsely pilose adaxially, without a prominent midrib but with a thickened vein near each margin, pale to gray-green, sometimes slightly glaucous. Inflorescences paniculate or racemose, 5-12 cm long, 2-4 cm wide; primary branches barely developed. Spikelets appressed to slightly divergent from the axillary pulvini. Glumes subequal, apices bifid, awned  
+from the sinuses; lower glumes (9)11-16 mm, 3-7-veined, awns 0.5-2(4) mm; upper glumes 11-18 mm, 1-3-veined, awns 3-7 mm; calluses 0.4-1 mm; lemmas (8)15-20(22) mm, dark, occasionally banded or spotted, apices narrowed but not beaklike; central awns 12-25 mm, bases with a semicircular bend; lateral awns 1-4 mm, erect, occasionally lacking; anthers 3, about 3 mm, brown. Caryopses 9-11 mm, dark brown to black. 2n = unknown.
+</description>
+  <discussion>Aristida ramosissima grows in open, dry, sterile ground, fallow fields, and roadsides. It is restricted to the United States.</discussion>
+</bio:treatment>

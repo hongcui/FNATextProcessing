@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>22</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Paspalum plicatulum Michx. </name_authority_date>
+  </taxon_identification>
+  <common_names>BROWNSEED PASPALUM</common_names>
+  <description type="morphology">Plants perennial; shortly rhizomatous, often indistinctly so. Culms 30-110 cm, stout, erect; nodes glabrous. Sheaths glabrous; ligules 2-3 mm; blades to 35 cm long, 2-5.4 mm wide, conduplicate (rarely flat). Panicles terminal, with 2-7 racemosely arranged branches; branches 1.6-7.1 cm, usually divergent, rarely merely ascending; branch axes 0.6-1.1 mm wide, glabrous, terminating in a spikelet. Spikelets 2.5-3 mm long, 1.5-2.2 mm wide, paired, appressed to the branch axes, elliptic-ovate, light to dark brown. Lower glumes absent; upper glumes usually with short, appressed pubescence, rarely glabrous, 5-veined, margins entire; lower lemmas with short, appressed pubescence or glabrous, 3-veined, margins entire; upper florets dark glossy brown. Caryopses 1.4-1.6 mm, brown. 2n = 20, 40, 60.</description>
+  <discussion>Paspalum plicatulum grows in prairies, along forest margins, and in disturbed areas. Its range extends from the southeastern United States through the Caribbean and Mexico to Bolivia, Paraguay, and Argentina. </discussion>
+</bio:treatment>

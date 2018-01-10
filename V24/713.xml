@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>3</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Poa sylvestris A. Gray </name_authority_date>
+  </taxon_identification>
+  <common_names>WOODLAND BLUEGRASS</common_names>
+  <description type="morphology">Plants perennial; not rhizomatous, not stoloniferous, loosely tufted, sometimes appearing shortly rhizomatous, loosely to densely tufted. Basal branching mainly pseudointravaginal. Culms 30-120 cm, bases often decumbent. Sheaths closed for (1/20) 1/2-7/8 their length, terete, throats frequently ciliate near the point of fusion; ligules 0.5-2.7 mm, smooth or sparsely scabrous, truncate to obtuse; blades 0.7-5 mm wide, flat, thin, lax. Panicles (6.7)9-20 cm, open, narrowly conical at maturity; nodes with (2)3-10 branches per node; branches (2)3-7 cm, spreading to eventually reflexed, straight, angled, angles several, densely scabrous, with 1-11 spikelets. Spikelets 2.5-4.4 mm, laterally compressed; florets 2-3(4); rachilla internodes longer than (1)1.2 mm, smooth, glabrous. Glumes distinctly keeled, keels scabrous; lower glumes l(3)-veined; upper glumes shorter than or subequal to the lowest lemmas; calluses  
+webbed; lemmas 2.1-3.1 mm, broadly lanceolate, distinctly keeled, keels and marginal veins short-villous, extending to near the apices on the keels, lateral veins prominent, softly puberulent to short-villous, intercostal regions usually sparsely softly puberulent, smooth, apices obtuse to acute; palea keels softly puberulent at midlength, apices finely scabrous; anthers 1-1.8 mm. 2n = 28.
+</description>
+  <discussion>Poa sylvestris grows in southeastern Canada and throughout much of the eastern United States, mainly at low elevations in woodlands, especially in riparian zones. It is easily distinguished from P. wolfii (p. 514) by its smaller, more numerous spikelets and lemmas that are usually sparsely hairy between the veins. Plants from the middle Appalachian Mountains have been confused with P. paludigena (p. 572); P. sylvestris is usually larger, has more than 2 branches per panicle node, is pubescent between the lemma veins and palea keels, and has larger anthers.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Aristida ternipes var. gentilis (Henrard) Allred </name_authority_date>
+  </taxon_identification>
+  <common_names>HOOK THREEAWN</common_names>
+  <description type="morphology">Awns subequal to unequal, ascending to spreading; central awns 10-25(30) mm; lateral awns (2)6-23 mm. 2n = 44.</description>
+  <discussion>Aristida ternipes var. gentilis grows on dry slopes and plains and along roadsides from Californica to Texas and south through Mexico to Guatemala.</discussion>
+</bio:treatment>

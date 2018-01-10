@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Stephan L. Hatch</author>
+    </source>
+  </meta>
+  <number>14.12</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>BECKMANNIA Host</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual and tufted, or perennial and rhizomatous. Culms 20-150 cm, sometimes tuberous at the base, erect. Leaves mostly cauline; sheaths open, glabrous, ribbed; auricles absent; ligules membranous, acute; blades flat, glabrous. Inflorescences dense, spikelike panicles; branches 1-sided, racemosely arranged, secondary branches few, at least some branches longer than 1 cm, with closely imbricate spikelets; disarticulation below the glumes, the spikelets falling entire. Spikelets laterally compressed, circular, ovate or obovate in side view, subsessile, with 1-2 florets; rachillas not prolonged beyond the base of the distal floret. Glumes subequal, slightly shorter than the lemmas, inflated, keeled, D-shaped in side view, unawned; calluses blunt, glabrous; lemmas lanceolate, inconspicuously 5-veined, unawned; paleas subequal to the lemmas; lodicules 2, free; anthers 3; ovaries glabrous. Caryopses shorter than the lemmas, concealed at maturity, x = 7. </description>
+  <discussion>Beckmannia is a genus of two species: an annual species usually with one fertile floret per spikelet that is native to North America and Asia, and a perennial species with two fertile florets per spikelet that is restricted to Eurasia.</discussion>
+  <references>Reeder, J.R. 1953. Affinities of the grass genus Beckmannia Host. Bull. Torrey Bot. Club 80:187-196.</references>
+</bio:treatment>

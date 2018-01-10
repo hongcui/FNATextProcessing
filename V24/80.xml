@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Glyceria grandis var. komarovii Kelso </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Spikelets 6-10 mm, with 5-10 florets.</description>
+  <discussion>Glyceria grandis var. komarovii is restricted to Alaska and the Yukon Territory.</discussion>
+</bio:treatment>

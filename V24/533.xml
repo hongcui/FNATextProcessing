@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>xLeydeum piperi (Bowden) Barkworth </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants shortly rhizomatous. Culms to 80 cm tall, about 1.5 mm thick. Leaves evenly distributed; sheaths smooth; auricles to 1.5 mm; ligules 0.5-0.8 mm, truncate to rounded; blades 10-20 cm long, 1.5-2.5 mm wide, tapering from near the base, abaxial surfaces scabridulous, adaxial surfaces scabrous, with about 12 usually more or less equally prominent veins, apices narrowly acute. Spikes 10-15 cm long, 10-15 mm wide including the awns, 5-7 mm wide excluding the awns, lax, nodes with 2(3) spikelets, 1 (central if 3) spikelet sessile, 1(2) spikelet(s) pedicellate, pedicels about 0.2 mm; internodes 3-5 mm, completely or mostly concealed by the spikelets; disarticulation tardy, in the rachises. Spikelets about 15 mm including the awns, about 10 mm excluding the awns, with 1-3 florets, the larger or central spikelets with 2-3 florets, the lateral or smaller spikelets with 1(2) floret(s). Glumes 10-15 mm long, about 0.2 mm wide, subulate, scabrous; lemmas glabrous, mostly smooth, scabrous distally, the largest lemmas of the larger spikelets 6-7 mm, with awns about 9 mm, the largest lemmas of the smaller or lateral spikelets about 5 mm, with awns about 5.5 mm; anthers 1.8-2.2 mm long, about 0.3 mm thick.</description>
+  <discussion>Covas (1949) and Bowden (1967) agreed that that the parents of xLeydeum piperi are Hordeum jubatum and Leymus triticoides. It is not known how common or widespread it is. It differs from xElyhordeum macounii in its subulate, rather than narrowly linear, glumes.</discussion>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subgenus</rank>
+    <name_authority_date>Setaria subg. Ptychophyllum (A. Braun) Hitchc.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants usually robust perennials. Blades broad, plicate. Panicles usually loose; bristles solitary, subtending the terminal spikelet of each ultimate branchlet, occasionally present beneath the other spikelets. Spikelets 2.5-5 mm, slender, often acuminate.</description>
+  <discussion>Setaria subg. Ptychophyllum is primarily an American taxon, but is also found in the Eastern Hemisphere. Three species, all introduced, have been found in the Flora region.</discussion>
+</bio:treatment>

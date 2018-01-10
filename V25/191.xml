@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Sporobolus vaginiflorus (Torr. ex A. Gray) Alph. Wood var. vaginiflorus</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Sheath bases usually glabrous. Spikelets mostly 3-6 mm. Glumes usually shorter than the florets; lemmas mostly 3-5.4 mm, usually 1-veined, sometimes faintly 3-veined; paleas mostly 3-5.4 mm. Fruits 1.8-2.7 mm.</description>
+  <discussion>Sporobolus vaginiflorus var. vaginiflorus is the most wide-ranging of the two varieties, extending north into Canada.</discussion>
+</bio:treatment>

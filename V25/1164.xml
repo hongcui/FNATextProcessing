@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Dichanthelium acuminatum subsp. longiligulatum
+(Nash) Freckmann & Lelong 
+</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Very similar to subsp. spretum vegetatively. Fall phase branching profusely from the lower and midculm nodes, producing dense fascicles of reduced branches, blades, and secondary panicles. Cauline blades green or purplish. Primary panicles 3-8 cm, to 3/4 as wide as long, normally expanded; branches numerous, slender, ascending, spikelets densely packed. Spikelets 1.1-1.5 mm, usually ellipsoid, puberulent.</description>
+  <discussion>Dichanthelium acuminatum subsp. longiligulatum is common, especially in moist pine savannahs and bogs of the coastal plain; it also grows inland to Tennessee, and in Mexico, the West Indies, Central America, and South America. It is similar to subsp. leucothrix, which grows in the same habitat, often at the same sites.</discussion>
+</bio:treatment>

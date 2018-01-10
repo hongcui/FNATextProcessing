@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>2</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Sesleria heufleriana Schur </name_authority_date>
+  </taxon_identification>
+  <common_names>BLUE-GREEN MOORGRASS</common_names>
+  <description type="morphology">Plants cespitose, not rhizomatous, rarely stoloniferous, green when young, becoming glaucous and blue in early summer. Culms 25-80(100) cm; exposed nodes 1-2. Leaves mostly basal; sheaths glabrous; ligules 0.2-0.5 mm, ciliate; blades of cauline leaves 0.8-5 cm long, 2-4(5.5) mm wide, acute or acuminate; blades of flag leaves 1-2.1 cm. Panicles (1)1.5-4(8) cm long, 7-11 mm wide, dense, ovoid to cylindrical. Spikelets 3-6 mm, with 2^1 florets, glaucous. Glumes 3-4 mm, ovate-lanceolate, coriaceous, sparsely ciliate on the veins and margins, 1-veined, narrowing to 0.5-2.5 mm awnlike apices; lemmas 3-4 mm, ovate to elliptic, pubescent, apices awned and toothed, central veins terminating in a 1-4 mm awn, lateral veins forming teeth shorter than 1 mm; paleas 3-5 mm, hairy, 2-awned, awns 0.2-1.5 mm; anthers about 4 mm. 2n = unknown.</description>
+  <discussion>Sesleria heufleriana is native to east-central Europe, where it grows in woods and on rocks, usually over calcareous substrates. It is grown as an ornamental in the Flora region.</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>5</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Pleuropogon sabinei R. Br. </name_authority_date>
+  </taxon_identification>
+  <common_names>FALSE SEMAPHOREGRASS, PLEUROPOGON DE SABINE</common_names>
+  <description type="morphology">Plants perennial; not cespitose, rhizomatous. Culms 5-35 cm tall, 1-3 mm thick. Sheaths glabrous; ligules 1.5-3.5 mm; blades 2-35(50) cm long, 1.5-3 mm wide, often floating, sometimes scabridulous on the midribs and margins, apices acute. Racemes 2.8-10 cm, with 5-8 spikelets; internodes 4-30 mm; pedicels 1.5-3 mm long. Spikelets 10-19 mm, with 5-12 florets, lower florets bisexual, upper florets pistillate. Lower glumes 1-2.5 mm; upper glumes 2-3.5 mm; rachilla internodes 1-1.5(2) mm long, 0.1-0.2 mm thick, without glandular swellings; lemmas 3.5-5 mm, 7(9)-veined, densely scabridulous, apices truncate to rounded, entire, emarginate, unawned or awned, awns 0.2-1 mm; paleal keels scabridulous, winged, each with 2 awns, awns flattened, purple, scabridulous, lower awn 1-3 mm, upper awn 0.3-1 mm; anthers about 2 mm, occasionally to 2.6 mm. Caryopses 2.5-3 mm. 2n = 40, 42.</description>
+  <discussion>Pleuropogon sabinei grows in open, wet places, frequently partially submerged, around lakes, ponds, marshy areas, and riverbanks. Its range extends from eastern Siberia and the Altai Mountains to northern Alaska, Canada, and Greenland.</discussion>
+</bio:treatment>

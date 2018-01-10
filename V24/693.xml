@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Dactylis glomerata L. </name_authority_date>
+  </taxon_identification>
+  <common_names>ORCHARDGRASS, DACTYLE PELOTONNfi</common_names>
+  <description type="morphology">Culms to 2.1+ m, erect. Leaves dark green; sheaths longer than the internodes, glabrous, usually keeled; ligules 3-11 mm, truncate to acuminate; blades (2)4-8(10) mm wide, elongate, lax, with a conspicuous midrib and white, scabridulous to scabrous margins. Panicles 4-20 cm, typically pyramidal, lower branches spreading, upper branches appressed. Spikelets 5-8 mm, subsessile. Glumes 3-5 mm; lemmas 4-8 mm, scabridulous; paleas slightly shorter than the lemmas; anthers 2-3.5 mm. 2n = 14, 21, 27-31, 42.</description>
+  <discussion>Dactylis glomerata grows in pastures, meadows, fence rows, roadsides, and similar habitats throughout North America. Native to Eurasia and Africa, it has been introduced throughout most of the cool-temperate regions of the world as a forage grass. It provides nutritious forage that is relished by all livestock, as well as by deer, geese, and rabbits. When abundant, the pollen can be a major contributor to hay fever.
+The species includes both diploid and tetraploid populations. Although several infraspecific taxa have been described, based generally on the size of the stomata and pollen, variation in pubescence, and panicle features, formal taxonomic recognition does not seem warranted. Numerous cultivars have been developed for agricultural use.
+</discussion>
+</bio:treatment>

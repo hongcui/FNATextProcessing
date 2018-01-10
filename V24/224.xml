@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Piptochaetium pringlei (Beal) Parodi </name_authority_date>
+  </taxon_identification>
+  <common_names>PRINGLE'S SPEARGRASS</common_names>
+  <description type="morphology">Culms 50-125 cm, mostly glabrous, pubescent below the nodes; nodes 2-3, dark, 1 glabrous or slightly pubescent. Sheaths smooth to scabridulous; ligules of basal leaves 0.5-2.8 mm, truncate to rounded, of upper leaves 1-3.5 mm, rounded to acute; blades 10-30 cm long, 1-3.5 mm wide, 3-5-veined, abaxial surfaces glabrous, smooth, adaxial surfaces smooth or scabrous over the veins, margins smooth or scabrous. Panicles 6-20 cm, open, with 10-25 spikelets; branches ascending, flexuous; pedicels to 1 mm, flattened, hispid. Glumes subequal, 9-12 mm long, 2.5-3.5 mm wide; lower glumes 5-7-veined; upper glumes 7-veined; florets 6.5-10 mm long, 1.5-2.1 mm thick, terete to somewhat laterally compressed; calluses 0.6-1.9 mm, blunt to acute, strigose; lemmas golden brown to dark brown at maturity, shiny or not, smooth to spiny- 
+tuberculate distally or for almost their entire length, pubescent, hairs tawny to golden brown, evenly distributed or somewhat more abundant on the basal 1/2, apices tapering to the crown; crowns 0.5-0.6 mm, inconspicuous, straight, hairy, hairs 0.5-1 mm; awns 19-27(35) mm, persistent, twice-geniculate, sometimes inconspicuously so; paleas 6.3-9.5 mm; lodicules 2, 1-1.5 mm, acute; anthers 3.5-5.5 mm, sometimes penicillate. Caryopses about 7 mm, fusiform. 2n = 42. 
+</description>
+  <discussion>Piptochaetium pringlei grows in oak woodlands, often on rocky soils, in the southwestern United States and northwestern Mexico. It is often confused with P. fimbriatum; it differs from that species in having longer florets and sharper calluses.</discussion>
+</bio:treatment>

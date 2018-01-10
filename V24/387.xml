@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Triticum monococcum L. </name_authority_date>
+  </taxon_identification>
+  <common_names>EINKORN, SMALL SPELT, PETIT EPEAUTRE</common_names>
+  <description type="morphology">Culms to 120 cm; nodes pilose; internodes mostly hollow, solid for 1 cm below the spikes. Blades 6-7 mm wide, pubescent. Spikes 4-9 cm, strongly flattened, wider than thick; rachises glabrous or sparsely ciliate at the nodes and margins, not enlarged at the base of the glumes; internodes 1.4-2.5 mm, not disarticulating or disarticulating only with pressure, dispersal units wedge-shaped. Spikelets 10-12 mm, elliptical to ovate, with 2-3 florets, usually only 1 seed-forming. Glumes 6-8(13) mm, usually coriaceous and tightly appressed to the lower florets, sometimes chartaceous and only loosely appressed to the florets, 2-keeled, 2-toothed; lemmas 8-11 mm, lower 2 lemmas awned, awns 3-8 cm; paleas splitting at maturity. Caryopses amber; endosperm flinty. Haplome Ab. 2n = 14.</description>
+  <discussion>Triticum monococcum is the domesticated derivative of T. boeoticum. Its primary range extends from the Balkans and Romania through the Crimea and Caucasus to northern Iraq and western Iran, and south to northern Africa. It was originally introduced to the Flora region as a food crop, but is now used primarily for plant breeding. It is still grown as a crop plant in some parts of the Balkans and in Romania.
+Plants that originated from a spontaneous mutation and have tough rachises and chartaceous glumes that loosely enclose, but do not conceal, the florets have been named Triticum sinskajae A.A. Filat. & Kurkiev.
+</discussion>
+</bio:treatment>

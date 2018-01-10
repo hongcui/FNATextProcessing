@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>6</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Achnatherum nelsonii (Scribn.) Barkworth </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants cespitose, not rhizomatous. Culms 40-175 cm tall, 0.7-2.4 mm thick, lower cauline internodes usually glabrous, sometimes slightly pubescent below the lower nodes; nodes 2-5. Basal sheaths glabrous or sparsely to densely pubescent, margins sometimes ciliate; collars glabrous or somewhat pubescent, without tufts of hair on the sides, collars of the flag leaves glabrous or sparsely pubescent; basal ligules 0.2-0.7 mm, membranous, truncate to rounded, usually not ciliate; upper ligules 1-1.5 mm, acute; blades (0.5)1.2-5 mm wide. Panicles 9-36 cm long, 0.8-2 cm wide; branches ascending to appressed, straight. Spikelets appressed to the branches. Glumes 6-12.5 mm long, 0.7-1.1 mm wide; lower glumes exceeding the upper glumes by 0.2-0.8 mm; florets 4.5-7 mm long, 0.6-0.9 mm thick, fusiform; calluses 0.2-1 mm, blunt to sharp, dorsal boundary of the glabrous tip with the callus hairs almost straight to acute; lemmas evenly hairy, hairs at midlength 0.5-1 mm, hairs at the apices to 2 mm, erect to ascending, apical lobes 0.1-0.4 mm, membranous, flexible; awns 19-45 mm, persistent, twice-geniculate, first 2 segments scabrous or with hairs shorter than 0.5 mm, terminal segment straight; paleas 2-4 mm, 1/3 – 2/3 as long as the lemmas, pubescent, hairs usually not exceeding the apices, veins terminating before the apices, apices rounded; anthers 2-3.5 mm, dehiscent, not penicillate. Caryopses 3-4 mm, fusiform. 2n = 36, 44.</description>
+  <discussion>Achnatherum nelsonii grows in meadows and openings, from sagebrush steppe and pinyon-juniper woodlands to subalpine forests, at 500-3500 m. It flowers in late spring to early summer, differing in this respect from A. perplexum. It is sometimes sympatric with A. lettermanii, from which it differs in its shorter paleas and wider leaves, and its tendency to grow in deeper or less disturbed soils. It differs from A. lemmonii in having wider leaf blades, shorter paleas, and membranous lemma lobes, and from A. nevadense and A. occidentale in its scabrous awns and the truncate to acute boundary of the glabrous tip of the callus with the callus hairs.
+The two subspecies intergrade to some extent. There is also intergradation with Achnatherum occidentale, possibly as a result of hybridization and introgression.
+</discussion>
+  <key>
+    <key_body>
+1. Calluses blunt, dorsal boundary of the glabrous tip and the callus hairs almost straight to rounded; awns 19-31 mm long .....subsp. dorei
+1. Calluses sharp, dorsal boundary of the glabrous tip and the callus hairs acute; awns 19-45 mm long.....subsp. nelsonii
+    </key_body>
+  </key>
+</bio:treatment>

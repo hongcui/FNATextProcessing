@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>1</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Imperata brasiliensis Trin. </name_authority_date>
+  </taxon_identification>
+  <common_names>BRAZILIAN BLADYGRASS, BRAZILIAN SATINTAIL</common_names>
+  <description type="morphology">Culms 22-98 cm. Ligules 0.5-1.7 mm; blades 3-13(19) mm wide, linear-lanceolate. Panicles 7.5-14(17) cm; lower branches 1-3.5 cm, appressed. Callus hairs 7-13 mm; glumes 2.4-4.5 mm; lower lemmas 1-3.4 mm long, 0.5-1.1 mm wide; upper lemmas usually absent, if present, about 1 mm long, 0.3 mm wide; stamens 1, bases of the filaments dilated; anthers 1.4-2.8 mm; styles 1.1-4.7 mm; stigmas 2.4-6.7 mm. 2n = unknown.</description>
+  <discussion>The current range of Imperata brasiliensis includes South America and Central America, Mexico, and Cuba. It is now thought to be established in the south¬eastern United States, although it is considered to be eliminated from Florida (Hall 1978); collections of Imperata made there since 1970 having proved to be I. cylindrica. The two species differ in the number of their stamens and the frequent absence of the lower lemma in I. brasiliensis.
+Imperata brasiliensis is listed as a noxious weed by the U.S. Department of Agriculture. Burning stimulates its flowering; consequently many specimens have burned leaves.
+</discussion>
+</bio:treatment>

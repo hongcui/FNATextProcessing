@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>33</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Panicum verrucosum Muhl. </name_authority_date>
+  </taxon_identification>
+  <common_names>WARTY PANICGRASS</common_names>
+  <description type="morphology">Plants annual; weak, ascending or sprawling. Culms 10-150 cm, slender, wiry, erect at first, ultimately decumbent, sprawling, glabrous, often with purple dots and streaks, branching exten¬sively at the base, rooting at the lower nodes. Sheaths often shorter than the internodes, loose, glabrous, margins short-ciliate; ligules 0.2-0.5 mm, membranous, erose, ciliate; blades 5-20 cm long, 3-10 mm wide, thin, flat, glabrous on both surfaces, margins scabridulous, apices long-acuminate. Panicles 5-30 cm, nearly as wide as long; branches few, capillary, with a few spikelets distally; pedicels 0.5-10 mm. Spikelets 1.7-2.2 mm long, about 1 mm wide, ellipsoid or obovoid, glabrous, faintly veined, subacute or obtuse at the apices. Lower glumes 0.3-0.8 mm, reduced, acute; upper glumes and lower lemmas subequal or the glumes shorter, distinctly verrucose, with hemispheric warts; upper florets 1.6-2 mm long, about 1 mm wide, grayish-brown, dull, minutely papillose, acute. 2n = 36.</description>
+  <discussion>Panicum verrucosum grows primarily in open, moist or wet sandy areas bordering swamps, marshes, or lakes or on roadside ditches; it also grows occasionally in open, drier woodlands. It is restricted to the eastern United States and is mostly, but not exclusively, coastal.</discussion>
+</bio:treatment>

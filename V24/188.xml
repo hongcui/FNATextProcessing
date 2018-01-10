@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>27</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Achnatherum arnowiae (S.L. Welsh & N.D Atwood) Barkworth </name_authority_date>
+  </taxon_identification>
+  <common_names>ARNOW'S RICEGRASS</common_names>
+  <description type="morphology">Plants tightly cespitose, not rhizomatous. Culms 15-75 cm tall. Sheaths smooth, mostly glabrous, margins ciliate; collars glabrous, with or without tufts of hair at the sides, hairs 0.7-2 mm; ligules 1-4 mm, glabrous or sparsely hairy, acute, sometimes ciliate; blades 1-2 mm wide, involute, 0.5-1 mm in diameter, abaxial surfaces scabridulous or smooth, adaxial surfaces densely hairy, hairs about 0.2 mm. Panicles 5-20 cm long, 0.5-2.8 cm wide, loosely contracted; branches strongly ascending, longest branches 0.5-2.5(5) cm. Spikelets evenly distributed along the branches; pedicels loosely appressed to the branches, paired, unequal, shorter pedicels in each pair usually less than 1/2 as long as the longer pedicels. Glumes slightly unequal, saccate below, tapering from about midlength, veins and sometimes also the intercostal regions puberulent, hairs to 0.1 mm, apices acute to acuminate; lower glumes 5.1-6.1 mm; upper glumes 4.3-5.2 mm; florets 2.8-4.2 mm, ovoid; calluses 0.2-0.4 mm, acute; lemmas indurate, dark gray-brown, smooth, densely pilose, hairs at midlength and at the apices similar, 2-3 mm, easily rubbed off, apices not lobed; awns 3-4.4 mm, rapidly deciduous, not geniculate, scabrous; paleas similar to the lemmas in length and texture, glabrous, apices pinched; anthers about 1 mm, dehiscent, penicillate. Caryopses 1-1.7 mm long, 0.8-1 mm in diameter, globose to obovoid. 2n = unknown.</description>
+  <discussion>Achnatherum arnowiae grows in pinyon-juniper, sagebrush, and mixed desert shrub communities in Utah, at 1400-2000 m. Welsh and Atwood (2003) state that specimens belonging to A. arnowiae are often filed as A. xbloomeri, and they suggest that this species may also be hybrid in origin, possibly with Hesperostipa comata as one of its parents. Another possibility is that it is a derivative of A. hymenoides that is adapted to particular soil types.</discussion>
+</bio:treatment>

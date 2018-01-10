@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>26.28</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>TRIPSACUM L.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; monoecious, staminate and pistillate spikelets evidently distinct, located in the same inflorescences, pistillate spikelets below the staminate spikelets. Culms 0.7-5 m. Leaves not aromatic; sheaths open; ligules membranous, erose to ciliate. Inflorescences terminal and axillary, panicles of 1-several subdigitate to racemose rames; rames with pistillate spikelets proximally and staminate spikelets distally. Disarticulation in the rames, beneath the pistillate spikelets and at the base of the staminate portions. Pistillate spikelets exposed, solitary, embedded in the indurate rame axes; lower glumes coriaceous, closing the hollows in the rachises and concealing the florets; upper glumes similar but smaller; lower florets sterile; upper florets pistillate; lemmas and paleas hyaline, unawned; styles 2, not fused. Staminate spikelets paired, both sessile or both subsessile, or 1 sessile and the other pedicellate; glumes coriaceous, chartaceous, or membranous; lemmas and paleas hyaline, unawned. Pedicels (when present) not fused to the rame axes, x = 9. </description>
+  <discussion>Tripsacum is a genus of 12 species, all of which are native to tropical and subtropical regions of the Western Hemisphere; three are native to the Flora region. They are good forage grasses, but are rarely sufficiently abundant in the Flora region to be important in this regard. The genus is of interest to plant breeders because of its relationship to Zea. Measurements of the pistillate spikelets are based on measurements of the lower glumes of the sessile spikelets, the remainder of the spikelet being concealed between the rachis and the lower glume.
+ 
+</discussion>
+  <references>Gray, J.R. 1974. The genus Tripsacum L. (Gramineae): Taxonomy and chemosystematics. Ph.D. dissertation, University of Illinois at Urbana-Champaign, Urbana, Illinois, U.S.A. 191 pp.; de Wet, J.M.J., D.E. Brink, and C.E. Cohen. 1983. Systematics of Tripsacum section Fasciculata (Gramineae). Amer. J. Bot. 70:1139-1146; de Wet, J.M.J., J.R. Harlan, and D.E. Brink. 1982. Systematics of Tripsacum dactyloides. Amer. J. Bot. 69:1251-1257; Li, Y.G., C.L. Dewald, and V.A. Sokolov. 2000. Sectional delineation of sexual Tripsacum dactyloides-T. mai.ar allotriploids. Ann. Bot. (London), n.s., 85:845-850.</references>
+  <key>
+    <key_body>
+1. Staminate spikelets in sessile-pedicellate pairs, the pedicels almost flat to plano-convex in cross section, 2-5 mm long, less than 0.3 mm wide; glumes usually membranous (sect. Fasciculata).....1. T. lanceolatum
+1. Staminate spikelets sessile, subsessile, or in sessile-pedicellate pairs, the pedicels triangular in cross section, to 2 mm long and about 0.5-0.8 mm wide; glumes somewhat coriaceous (sect. Tripsacum).
+2. Blades 9-35(45) mm wide, flat; culms 1-2(4) m tall.....2. T. dactyloides
+2. Blades 1-7(15) mm wide, involute or folded; culms to 1 m tall.....3. T. floridanum
+
+    </key_body>
+  </key>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Eragrostis pilosa (L.) P. Beauv. var. pilosa</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms with few or no glandular pits; sheaths and blades without glandular pits. Spikelets 0.6-1.3 mm wide. Upper glumes 0.7-1.2 mm; lemmas 1.2-1.8 mm; caryopses 0.5-0.9 mm.</description>
+  <discussion>Eragrostis pilosa var. pilosa is more common than E. pilosa var. perplexa in the Flora region. Most of the records shown on the map are for this variety.</discussion>
+</bio:treatment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>subspecies</rank>
+    <name_authority_date>Leymus innovatus subsp. velutinus (Bowden) Tzvelev </name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Spikes 3-8 cm long, 15-20 mm wide. Glumes sometimes absent. Lemma hairs 1.5-2.5 mm. 2n = 56. </description>
+  <discussion>Leymus  innovatus  subsp. velutinus is the  more northern of the two subspecies, growing in Alaska, the Yukon Territory, and the western Northwest Territories.</discussion>
+</bio:treatment>

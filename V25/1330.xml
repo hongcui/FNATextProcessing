@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>15</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Urochloa platyphylla (Munro ex C. Wright) R.D. Webster </name_authority_date>
+  </taxon_identification>
+  <common_names>BROADLEAF SIGNALGRASS</common_names>
+  <description type="morphology">Plants annual. Culms 25-100 cm, decumbent, rooting at the
+lower nodes; nodes glabrous. Sheaths glabrous or sparsely pilose; ligules 0.5-1 mm; blades 2.5-17.5 cm long, 3-13 mm wide, glabrous or sparsely pilose, bases subcordate, not clasping the stems, margins ciliate basally, with papillose-based hairs. Panicles 6-16 cm long, 2-2.5 cm wide, with 2-8 spikelike primary branches in 2 ranks; primary branches 3-8 cm, axils pubescent, axes 1.3-2.5 mm wide, flat, usually glabrous, occasionally pilose dorsally; secondary branches rarely present; pedicels shorter than the spikelets, scabrous and sparsely pilose. Spikelets 3.8-5 mm long, 2-2.5 mm wide, ovoid, bi-convex; solitary, appressed to the branches, in 2 rows. Glumes scarcely separated; lower glumes 1.2-1.8 mm, to 1/3 as long as the spikelets, obtuse, glabrous, 5(-7)-veined, not clasping the base of the spikelets; upper glumes 3.2-4.7 mm, glabrous, 7(-9)-veined; lower florets sterile; lower lemmas 3.2-4.7 mm, glabrous, 5-veined; lower paleas present; upper lemmas 2.8-3.4 mm long, 1.8-2.3 mm wide, apices incurved, broadly acute to rounded, mucronulate; anthers about 1 mm. Caryopses 1.5-2.2 mm. 2n = 36.</description>
+  <discussion>Urochloa platyphylla is a weedy species found in open, sandy soil in the southeastern United States, West Indies, and South America. Morrone and Zuloaga (1993) considered reports of its occurrence in Mexico as doubtful, possibly being based on misidentified specimens of Urochloa plantaginea.</discussion>
+</bio:treatment>

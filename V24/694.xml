@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Lynn G. Clark</author>
+    </source>
+  </meta>
+  <number>14.11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>genus</rank>
+    <name_authority_date>LAMARCKIA Moench</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants annual; tufted. Culms 5-40 cm, erect or decumbent at the base, glabrous. Sheaths open for at least 1/3 their length, glabrous, margins membranous and continuous with the ligules; auricles absent; ligules membranous, acute, glabrous, apices somewhat erose; blades flat, glabrous. Inflorescences panicles, dense, secund, golden-yellow to purplish; primary branches appressed to the rachis; secondary branches capillary, smooth, glabrous, flexuous, terminating in 1-4 fascicles of pedicellate spikelets, strongly bent below the junction with the fascicle base; pedicels of spikelets in each fascicle fused at the base, strigose. Spikelets dimorphic, the terminal spikelet of each fascicle fertile, the others sterile; disarticulation at the base of the fused pedicels. Fertile spikelets terete to somewhat laterally compressed, with 2 florets, 1 bisexual, the other a rudiment, borne on long rachilla internodes; calluses short, blunt, glabrous; glumes narrow, acuminate or short-awned, 1-veined; bisexual lemmas scarcely veined, each with a delicate, straight, subapical awn; paleas equal or subequal to the lemmas; lodicules 2, glabrous, toothed; anthers 3; ovaries glabrous; rudimentary florets highly reduced lemmas, each with a delicate, straight awn. Sterile spikelets linear, laterally compressed; florets 5-10; glumes similar to those of the fertile spikelets; lemmas imbricate, obtuse, unawned; paleas absent. Caryopses ovoid or ellipsoid, adhering to the lemmas and/or paleas. x = 7. </description>
+  <discussion>Lamarckia is a monotypic genus that has been introduced into North America from the Mediterranean and the Middle East.</discussion>
+</bio:treatment>

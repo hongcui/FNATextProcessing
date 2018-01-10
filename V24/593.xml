@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+    </source>
+  </meta>
+  <number>15</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Festuca prolifera (Piper) Fernald </name_authority_date>
+  </taxon_identification>
+  <common_names>PROLIFEROUS FESCUE</common_names>
+  <description type="morphology">Plants usually loosely cespitose, often mat-forming, sometimes with solitary culms, rhizomatous. Culms (10)20-41 cm, smooth, glabrous throughout or pubescent near the inflorescence, bases often geniculate. Sheaths closed for about 3/4  their length, often splitting with age, coarsely ribbed, shredding into fibers, bases reddish brown, scarious; collars glabrous; ligules 0.1-0.4(0.6) mm; blades 0.3-0.8(1) mm in diameter, conduplicate, green or glaucous, abaxial surfaces glabrous, smooth or scabrous, adaxial surfaces scabrous or puberulent; abaxial sclerenchyma in 5-7(9) small strands; adaxial sclerenchyma absent. Inflorescences (3)5-12 cm, usually paniculate, sometimes racemose or sub-racemose, compact or open, with 1-2 branches per node; branches stiff or somewhat lax, lower branches with 1-3 spikelets. Spikelets pseudoviviparous, varying in length with the stage of vegetative proliferation, the glumes and often 1 or 2 adjacent florets more or less normally developed or only slightly elongated, glabrous or pubescent, the distal florets vegetative. Glumes more or less normally developed, ovate to lanceolate; lower glumes (2.5)3-3.5(5.5); upper glumes 3.5-4.5(6.5); lowest lemma in each spikelet usually normally developed, acute, unawned, usually without reproductive structures or the structures abortive; subsequent lemmas modified into leafy bracts; paleas usually absent, shorter than the lemmas if present, intercostal region puberulent distally; anthers usually aborted, when present 1.5-2.3(3) mm; ovaries rarely present, apices glabrous. 2n = 49, 50, 63.</description>
+  <discussion>Festuca prolifera is often abundant, and may be a dominant component in some habitats. The leafy bulbils or plantlets sometimes root when the top-heavy inflorescence is bent to the ground.
+Festuca prolifera has two varieties: Festuca prolifera (Piper) Fernald var. prolifera, with glabrous lemmas; and Festuca prolifera var. lasiolepis Fernald, with pubescent lemmas. Festuca prolifera var. prolifera grows in arctic, alpine, or boreal rocky areas, in calcareous, basic or neutral soils, and is found in the James Bay area, Ungava Bay, western Newfoundland, Cape Breton, the Gaspe Peninsula, the White Mountains (New Hampshire), and Katahdin (Maine). Festuca prolifera var. lasiolepis is found in moist, sandy riverbanks, lake shores, rocky areas, and cliffs, often on limestone, from the southeastern Northwest Territories to northern Quebec, Anticosti Island, and western Newfoundland. Proliferous plants from southern Greenland with extravaginal shoots, named F. villosa-vivipara (Rosenv.) E.B. Alexeev, are similar to F. prolifera, but appear to be hybrids between F. rubra and F. frederikseniae (see under F. frederikseniae, p. 436).
+</discussion>
+</bio:treatment>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>4</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Chloris elata Desv. </name_authority_date>
+  </taxon_identification>
+  <common_names>TALL WINDMILL-GRASS</common_names>
+  <description type="morphology">Plants perennial; usually cespitose, rarely stoloniferous. Culms to 135 cm. Sheaths mostly glabrous; ligules 0.7-1 mm, erose to lacerate; blades to 45 cm long, to 15 mm wide, with basal hairs, otherwise usually glabrous, occasionally scabrous. Panicles digitate, with (4)8-28 evidently distinct and easily separable branches; branches (5)8-20 cm, flexible, usually more or less spreading, sometimes drooping, averaging 12 spikelets per cm. Spikelets strongly imbricate, with 1 bisexual and usually 2 sterile florets. Lower glumes 1-2.5 mm; upper glumes 1.9-3.5 mm; lowest lemmas 1.5-2.8 mm long, 0.5-0.9 mm wide, elliptic, strongly laterally compressed, margins conspicuously hairy for most of their length, hairs 1-3 mm, strongly divergent, keels densely appressed pubescent, not or only minutely bilobed, apices awned, awns 1.4-4.8 mm; second florets 1-1.6 mm, cylindrical to narrowly turbinate, shortly bilobed, lobes less than 1/5 as long as the lemmas, awned from the sinuses, awns 1.7-4 mm; third florets often enclosed by the first sterile florets, 0.5-0.9 mm, turbinate or flabellate, as long as or longer than the subtending rachilla segments, sometimes inflated apically, unawned. Caryopses about 1 mm long, about 0.5 mm wide. 2n = 72.</description>
+  <discussion>The range of Chloris elata lies primarily to the south of the Flora region, extending from southern Florida and the Caribbean islands to Peru and Argentina.</discussion>
+</bio:treatment>

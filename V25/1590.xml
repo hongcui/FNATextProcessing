@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number></number>
+  <taxon_identification status="ACCEPTED">
+    <rank>variety</rank>
+    <name_authority_date>Andropogon virginicus var. decipiens C.S. Campb.</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Culms 70-170 cm. Leaves green, sometimes slightly glaucous. Inflorescence units usually with 2 rames; subtending sheaths (1.7)2.4-3.1(4) mm wide; peduncles (1) 4-9 (30) mm; rames (1.3)1.5-2.3(3) cm.</description>
+  <discussion>Andropogon virginicus var. decipiens grows in flatwoods, scrublands, and disturbed sites, such as roadsides and cleared timberlands, of the southeastern coastal plain.</discussion>
+</bio:treatment>

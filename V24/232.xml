@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V24</title>
+      <author>Mary E. Barkworth</author>
+    </source>
+  </meta>
+  <number>10.11</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>xACHNELLA Barkworth</name_authority_date>
+  </taxon_identification>
+  <description type="morphology">Plants perennial; cespitose, not rhizomatous. Culms to 90 cm, erect, glabrous, not branching at the upper nodes; prophylls shorter than the sheaths. Sheaths mostly glabrous, margins sparsely ciliate, hairs longer distally; cleistogenes not present in the basal sheaths; collars without tufts of hair at the sides; auricles absent; ligules scarious, glabrous; blades of basal leaves to 40 cm long, 1-1.5 mm wide, convolute when dry, tapering to the narrowly acute apices, flag leaf blades longer than 10 mm, bases about as wide as the top of the sheaths. Inflorescences panicles. Spikelets 6-8.5 mm, with 1 floret; rachillas not prolonged beyond the base of the floret; disarticulation above the glumes, beneath the floret. Glumes saccate-lanceolate, tapering from above midlength into elongate apices, midveins extending to or nearly to the apices, apices narrowly acute to acuminate; lower glumes 6-8.5 mm; upper glumes 6.5-7.5 mm, slightly narrower than the lower glumes; florets 4-5 mm, lengths more than 3 times the widths; calluses about 0.7 mm, blunt; lemmas coriaceous, evenly hairy throughout, hairs 1-2 mm, apical hairs not longer than those below; awns twisted, not or once-geniculate, readily deciduous; paleas more than 2/3 as long as the lemmas, veins ending at the apices; anthers poorly developed, indehiscent, sometimes with 1 or 2 penicillate hairs.</description>
+  <discussion>xAchnella comprises sterile hybrids between Achnatherum and Nassella. Only one such hybrid is known; it is restricted to the Flora region.</discussion>
+  <references>Johnson, B.L. and G.A. Rogler. 1943. A cytotaxonomic study of an intergeneric hybrid between Oryzopsis bymenoides and Stipa viridula. Amer. J. Bot. 30:49-56.</references>
+</bio:treatment>

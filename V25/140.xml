@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bio:treatment>
+  <meta>
+    <source>
+      <title>FNA V25</title>
+    </source>
+  </meta>
+  <number>24</number>
+  <taxon_identification status="ACCEPTED">
+    <rank>species</rank>
+    <name_authority_date>Eragrostis superba Peyr. </name_authority_date>
+  </taxon_identification>
+  <common_names>SAWTOOTH LOVEGRASS</common_names>
+  <description type="morphology">Plants perennial; cespitose, with innovations, without glands. Culms 45-95 cm, erect, glabrous. Sheaths hairy at the apices and on the margins, hairs to 6 mm; ligules 0.5-1.2 mm; blades 7-30 cm long, 2.5-7 mm wide, flat to loosely involute, glabrous abaxially, scabrous adaxially, margins sharply scabrous. Panicles 10-30 cm long, 1-6 cm wide, oblong, condensed, interrupted below; primary branches 1-11 cm, appressed or diverging to 40° from the rachises, naked basally; pulvini glabrous; pedicels 0.5-25 mm, with a narrow band or abscission line below the apices. Spikelets 5.5-16 mm long, 2.7-9 mm wide, ovate, flattened, greenish to stramineous, some¬times with a reddish-purple tinge, with 4-22 florets; disarticulation below the glumes, spikelets falling intact. Glumes equal, 3-4.5 mm, ovate, chartaceous; lemmas 3-5 mm, broadly lanceolate, chartaceous to leathery, lateral veins green, apices acute; paleas 3-5 mm, chartaceous to hyaline, keels broadly winged below, forming a wing or tooth on each side that often projects beyond the lemma bases, apices acuminate; anthers 3, 1.4-2.8 mm, golden-yellow. Caryopses 1-2 mm, ellipsoid, adaxial surfaces flattened, reddish-brown. 2n = 40.</description>
+  <discussion>Eragrostis superba is native to Africa, where it is grown for hay, being fairly palatable and drought resistant. It is also used for erosion control and revege-tation. In the Flora region, it grows on rocky slopes, in sandy flats, and along roadsides, at 480-1650 m, often with Acacia, Prosopsis, Fouquieria splendens, Juniperus, and Quercus. The English name is an appropriate description of the leaf blades.</discussion>
+</bio:treatment>
